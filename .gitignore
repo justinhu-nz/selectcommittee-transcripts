@@ -1,0 +1,7 @@
+pipeline.log
+logs/
+*.tmp
+*.temp
+*.log
+.DS_Store
+config.json

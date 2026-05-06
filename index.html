@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Select Committee Transcripts</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f7f8fb;
+      --panel: #ffffff;
+      --ink: #17202a;
+      --muted: #5b6573;
+      --line: #d7dde6;
+      --blue: #1b5f9e;
+      --green: #236b4e;
+      --amber: #9a5b11;
+      --soft-blue: #eaf2fb;
+      --soft-green: #e8f4ee;
+      --soft-amber: #fff4df;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.5;
+    }
+
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .wrap {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      display: grid;
+      gap: 14px;
+      padding: 24px 0 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.7rem, 4vw, 2.6rem);
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+
+    .note {
+      margin: 0;
+      max-width: 780px;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: minmax(220px, 1fr) minmax(160px, 260px) minmax(140px, 190px);
+      gap: 10px;
+      padding: 18px 0 20px;
+    }
+
+    input, select {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 9px 11px;
+      font: inherit;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    input:focus, select:focus {
+      outline: 3px solid var(--soft-blue);
+      border-color: var(--blue);
+    }
+
+    main {
+      padding: 22px 0 44px;
+    }
+
+    .summary {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 16px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .pill {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--panel);
+      padding: 5px 10px;
+    }
+
+    .pill strong { color: var(--ink); }
+
+    .meetings {
+      display: grid;
+      gap: 12px;
+    }
+
+    .meeting {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+    }
+
+    .meeting-head {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 14px;
+      justify-content: space-between;
+      align-items: start;
+      margin-bottom: 8px;
+    }
+
+    .meeting h2 {
+      margin: 0;
+      font-size: 1.13rem;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 0.92rem;
+      white-space: normal;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 24px;
+      border-radius: 999px;
+      padding: 2px 8px;
+      background: var(--soft-green);
+      color: var(--green);
+      font-size: 0.86rem;
+    }
+
+    .desc, .snippet {
+      margin: 9px 0 0;
+      color: var(--muted);
+    }
+
+    .snippet {
+      border-left: 3px solid var(--amber);
+      background: var(--soft-amber);
+      padding: 8px 10px;
+      color: #3f3529;
+    }
+
+    mark {
+      background: #ffdf7e;
+      color: #1f1a12;
+      padding: 0 2px;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .links a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 32px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 5px 9px;
+      color: var(--blue);
+      text-decoration: none;
+      background: #fff;
+      font-size: 0.92rem;
+    }
+
+    .links a:hover {
+      border-color: var(--blue);
+      background: var(--soft-blue);
+    }
+
+    .empty {
+      display: none;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 22px;
+      color: var(--muted);
+    }
+
+    @media (max-width: 760px) {
+      .wrap { width: min(100% - 22px, 1180px); }
+      .controls { grid-template-columns: 1fr; }
+      .meeting { padding: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap topbar">
+      <div>
+        <h1>Select Committee Transcripts</h1>
+        <p class="note">These transcripts are automatically generated and may contain errors. Check the source video, TXT, or VTT file before relying on exact wording.</p>
+      </div>
+      <div class="controls" role="search">
+        <input id="search" type="search" autocomplete="off" placeholder="Search title, committee, date, transcript">
+        <select id="committee" aria-label="Committee filter">
+          <option value="">All committees</option>
+        </select>
+        <select id="month" aria-label="Month filter">
+          <option value="">All months</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="summary" id="summary"></div>
+    <section class="meetings" id="meetings" aria-live="polite"></section>
+    <div class="empty" id="empty">No meetings match the current filters.</div>
+  </main>
+
+  <script>
+    const state = {
+      data: null,
+      query: "",
+      committee: "",
+      month: ""
+    };
+
+    const els = {
+      search: document.getElementById("search"),
+      committee: document.getElementById("committee"),
+      month: document.getElementById("month"),
+      summary: document.getElementById("summary"),
+      meetings: document.getElementById("meetings"),
+      empty: document.getElementById("empty")
+    };
+
+    const escapeHtml = (value) => String(value || "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#39;");
+
+    const normalize = (value) => String(value || "").toLowerCase();
+
+    const displayMonth = (month) => {
+      if (!month) return "";
+      const [year, monthNumber] = month.split("-");
+      const date = new Date(Number(year), Number(monthNumber) - 1, 1);
+      return date.toLocaleDateString(undefined, { year: "numeric", month: "long" });
+    };
+
+    const includesQuery = (meeting, query) => {
+      if (!query) return true;
+      const haystack = [
+        meeting.title,
+        meeting.date,
+        meeting.committee,
+        meeting.transcriptText
+      ].map(normalize).join(" ");
+      return haystack.includes(query);
+    };
+
+    const snippetFor = (meeting, query) => {
+      const text = String(meeting.transcriptText || "").replace(/\s+/g, " ").trim();
+      if (!text) return "";
+      const lower = text.toLowerCase();
+      const index = query ? lower.indexOf(query) : -1;
+      const start = index >= 0 ? Math.max(0, index - 90) : 0;
+      const end = Math.min(text.length, start + 260);
+      let snippet = text.slice(start, end);
+      if (start > 0) snippet = "... " + snippet;
+      if (end < text.length) snippet += " ...";
+      if (!query || index < 0) return escapeHtml(snippet);
+      const escapedQuery = escapeRegExp(query);
+      return escapeHtml(snippet).replace(new RegExp(escapedQuery, "ig"), (match) => `<mark>${match}</mark>`);
+    };
+
+    const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+    const filteredMeetings = () => {
+      const query = normalize(state.query).trim();
+      return state.data.meetings.filter((meeting) => {
+        const committeeMatch = !state.committee || meeting.committee === state.committee;
+        const monthMatch = !state.month || meeting.month === state.month;
+        return committeeMatch && monthMatch && includesQuery(meeting, query);
+      });
+    };
+
+    const populateFilters = () => {
+      const committees = [...new Set(state.data.meetings.map((item) => item.committee).filter(Boolean))]
+        .sort((a, b) => a.localeCompare(b));
+      for (const committee of committees) {
+        const option = document.createElement("option");
+        option.value = committee;
+        option.textContent = committee;
+        els.committee.appendChild(option);
+      }
+
+      const months = [...new Set(state.data.meetings.map((item) => item.month).filter(Boolean))]
+        .sort()
+        .reverse();
+      for (const month of months) {
+        const option = document.createElement("option");
+        option.value = month;
+        option.textContent = displayMonth(month);
+        els.month.appendChild(option);
+      }
+    };
+
+    const render = () => {
+      const query = normalize(state.query).trim();
+      const meetings = filteredMeetings();
+      els.summary.innerHTML = `
+        <span class="pill"><strong>${meetings.length}</strong> shown</span>
+        <span class="pill"><strong>${state.data.meetingCount}</strong> total</span>
+        <span class="pill">Generated ${escapeHtml(new Date(state.data.generatedAt).toLocaleString())}</span>
+      `;
+
+      els.empty.style.display = meetings.length ? "none" : "block";
+      els.meetings.innerHTML = meetings.map((meeting) => {
+        const snippet = snippetFor(meeting, query);
+        const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
+        const vimeo = meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : "";
+        return `
+          <article class="meeting">
+            <div class="meeting-head">
+              <div>
+                <h2>${escapeHtml(meeting.title)}</h2>
+                <div class="meta">
+                  <span>${escapeHtml(meeting.date)}</span>
+                  <span>${escapeHtml(duration)}</span>
+                  <span class="tag">${escapeHtml(meeting.committee)}</span>
+                </div>
+              </div>
+            </div>
+            <p class="desc">${escapeHtml(meeting.description || "")}</p>
+            ${snippet ? `<p class="snippet">${snippet}</p>` : ""}
+            <div class="links">
+              ${vimeo}
+              <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
+              <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
+              <a href="${escapeHtml(meeting.folderUrl)}">Folder</a>
+            </div>
+          </article>
+        `;
+      }).join("");
+    };
+
+    els.search.addEventListener("input", (event) => {
+      state.query = event.target.value;
+      render();
+    });
+
+    els.committee.addEventListener("change", (event) => {
+      state.committee = event.target.value;
+      render();
+    });
+
+    els.month.addEventListener("change", (event) => {
+      state.month = event.target.value;
+      render();
+    });
+
+    fetch("search-data.json", { cache: "no-cache" })
+      .then((response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      })
+      .then((data) => {
+        state.data = data;
+        document.title = data.siteTitle || document.title;
+        populateFilters();
+        render();
+      })
+      .catch((error) => {
+        els.summary.textContent = `Could not load search-data.json: ${error.message}`;
+      });
+  </script>
+</body>
+</html>
