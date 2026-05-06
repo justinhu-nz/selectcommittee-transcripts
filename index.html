@@ -604,6 +604,7 @@
         const matchCount = countOccurrences(meeting.transcriptText, query);
         const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
         const vimeo = meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : "";
+        const viewerHref = `viewer.html?guid=${encodeURIComponent(meeting.guid)}`;
         const matches = query ? `<span>${matchCount ? `${matchCount} transcript match${matchCount === 1 ? "" : "es"}` : "Metadata match"}</span>` : "";
         return `
           <article class="meeting">
@@ -621,7 +622,8 @@
             <p class="desc">${escapeHtml(meeting.description || "")}</p>
             ${snippets.length ? `<div class="snippets">${snippets.map((snippet) => `<p class="snippet">${highlightText(snippet.text, query)}</p>`).join("")}</div>` : ""}
             <div class="links">
-              <button class="open-reader" type="button" data-guid="${escapeHtml(meeting.guid)}">Open transcript</button>
+              <a href="${escapeHtml(viewerHref)}">Open transcript</a>
+              <button class="open-reader" type="button" data-guid="${escapeHtml(meeting.guid)}">Preview here</button>
               ${vimeo}
               <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
               <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>

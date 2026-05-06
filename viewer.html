@@ -1,0 +1,554 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transcript Viewer - Select Committee Transcripts</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7f9;
+      --panel: #ffffff;
+      --ink: #17202a;
+      --muted: #5c6675;
+      --line: #d8dee8;
+      --blue: #1b5f9e;
+      --green: #236b4e;
+      --amber: #9a5b11;
+      --soft-blue: #eaf2fb;
+      --soft-green: #e8f4ee;
+      --soft-amber: #fff4df;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.5;
+    }
+
+    a {
+      color: var(--blue);
+      text-decoration: none;
+    }
+
+    a:hover { text-decoration: underline; }
+
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .wrap {
+      width: min(1280px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      display: grid;
+      gap: 10px;
+      padding: 18px 0;
+    }
+
+    .navline {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.5rem, 3vw, 2.35rem);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 24px;
+      border-radius: 999px;
+      padding: 2px 8px;
+      background: var(--soft-green);
+      color: var(--green);
+      font-size: 0.86rem;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: minmax(320px, 480px) minmax(0, 1fr);
+      gap: 18px;
+      padding: 18px 0 42px;
+      align-items: start;
+    }
+
+    .video-panel {
+      position: sticky;
+      top: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .video-shell {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #101418;
+      aspect-ratio: 16 / 9;
+    }
+
+    .video-shell iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
+    }
+
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 14px;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .links a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 32px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 5px 9px;
+      background: #fff;
+      font-size: 0.92rem;
+    }
+
+    .links a:hover {
+      border-color: var(--blue);
+      background: var(--soft-blue);
+      text-decoration: none;
+    }
+
+    .search-panel {
+      display: grid;
+      gap: 10px;
+    }
+
+    input {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 9px 11px;
+      font: inherit;
+      color: var(--ink);
+      background: #fff;
+    }
+
+    input:focus {
+      outline: 3px solid var(--soft-blue);
+      border-color: var(--blue);
+    }
+
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .pill {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fff;
+      padding: 5px 10px;
+    }
+
+    .pill strong { color: var(--ink); }
+
+    .match-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .match-jump {
+      display: grid;
+      grid-template-columns: 78px 1fr;
+      gap: 8px;
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--soft-blue);
+      color: var(--ink);
+      padding: 9px 10px;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .transcript-panel {
+      display: grid;
+      gap: 10px;
+    }
+
+    .transcript-row {
+      display: grid;
+      grid-template-columns: 92px minmax(0, 1fr);
+      gap: 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 12px;
+    }
+
+    .transcript-row.is-match {
+      border-color: #ecc46c;
+      background: #fffaf0;
+    }
+
+    .transcript-row.is-focused {
+      outline: 3px solid #f0bf54;
+    }
+
+    .time-button {
+      min-height: 32px;
+      height: fit-content;
+      border: 1px solid var(--blue);
+      border-radius: 6px;
+      background: var(--blue);
+      color: #fff;
+      padding: 5px 7px;
+      font: inherit;
+      font-size: 0.9rem;
+      font-variant-numeric: tabular-nums;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .time-button:hover {
+      background: #fff;
+      color: var(--blue);
+    }
+
+    .transcript-row p {
+      margin: 0;
+    }
+
+    .time-text {
+      color: var(--blue);
+      font-variant-numeric: tabular-nums;
+    }
+
+    mark {
+      background: #ffdf7e;
+      color: #1f1a12;
+      padding: 0 2px;
+    }
+
+    .state {
+      margin: 24px auto;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 20px;
+    }
+
+    @media (max-width: 900px) {
+      main { grid-template-columns: 1fr; }
+      .video-panel { position: static; }
+    }
+
+    @media (max-width: 640px) {
+      .wrap { width: min(100% - 22px, 1280px); }
+      .transcript-row, .match-jump { grid-template-columns: 1fr; }
+    }
+  </style>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+</head>
+<body>
+  <header>
+    <div class="wrap topbar">
+      <div class="navline">
+        <a href="index.html">Back to search</a>
+        <span id="siteTitle">Select Committee Transcripts</span>
+      </div>
+      <h1 id="title">Transcript Viewer</h1>
+      <div class="meta" id="meta"></div>
+    </div>
+  </header>
+
+  <div class="wrap state" id="state">Loading transcript...</div>
+
+  <main class="wrap" id="viewer" hidden>
+    <aside class="video-panel">
+      <div class="video-shell" id="videoShell"></div>
+      <div class="panel links" id="links"></div>
+      <div class="panel search-panel">
+        <input id="search" type="search" autocomplete="off" placeholder="Search this transcript">
+        <div class="stats" id="stats"></div>
+        <div class="match-list" id="matches"></div>
+      </div>
+    </aside>
+    <section class="transcript-panel" id="transcript" aria-live="polite"></section>
+  </main>
+
+  <script>
+    const state = {
+      data: null,
+      meeting: null,
+      chunks: [],
+      query: "",
+      player: null,
+      iframe: null,
+      videoId: ""
+    };
+
+    const els = {
+      title: document.getElementById("title"),
+      meta: document.getElementById("meta"),
+      state: document.getElementById("state"),
+      viewer: document.getElementById("viewer"),
+      videoShell: document.getElementById("videoShell"),
+      links: document.getElementById("links"),
+      search: document.getElementById("search"),
+      stats: document.getElementById("stats"),
+      matches: document.getElementById("matches"),
+      transcript: document.getElementById("transcript")
+    };
+
+    const escapeHtml = (value) => String(value || "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#39;");
+
+    const normalize = (value) => String(value || "").toLowerCase();
+    const collapseWhitespace = (value) => String(value || "").replace(/\s+/g, " ").trim();
+    const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+    const highlightText = (value, query) => {
+      const text = String(value || "");
+      if (!query) return escapeHtml(text);
+      const regex = new RegExp(`(${escapeRegExp(query)})`, "ig");
+      return text.split(regex)
+        .map((part) => normalize(part) === normalize(query) ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part))
+        .join("");
+    };
+
+    const parseTimeToSeconds = (time) => {
+      const parts = String(time || "").split(":").map((part) => Number(part));
+      if (parts.some((part) => Number.isNaN(part))) return 0;
+      return parts.reduce((total, part) => total * 60 + part, 0);
+    };
+
+    const secondsToVimeoFragment = (seconds) => {
+      const safeSeconds = Math.max(0, Math.floor(Number(seconds) || 0));
+      const hours = Math.floor(safeSeconds / 3600);
+      const minutes = Math.floor((safeSeconds % 3600) / 60);
+      const secs = safeSeconds % 60;
+      return `${hours ? `${hours}h` : ""}${minutes ? `${minutes}m` : ""}${secs}s`;
+    };
+
+    const extractVimeoVideoId = (url) => {
+      const text = String(url || "");
+      const match = text.match(/vimeo\.com\/(?:video\/)?(\d+)/i) || text.match(/\/(\d+)(?:$|[?#])/);
+      return match ? match[1] : "";
+    };
+
+    const buildEmbedSrc = (seconds = null) => {
+      if (!state.videoId) return "";
+      const base = `https://player.vimeo.com/video/${encodeURIComponent(state.videoId)}?dnt=1&title=0&byline=0&portrait=0`;
+      return seconds === null ? base : `${base}#t=${secondsToVimeoFragment(seconds)}`;
+    };
+
+    const parseTranscript = (meeting) => {
+      const text = String(meeting.transcriptText || "").replace(/\r\n/g, "\n");
+      return text.split(/\n\s*\n/)
+        .map((block) => block.trim())
+        .filter(Boolean)
+        .map((block, index) => {
+          const match = block.match(/^\[(\d{2}:\d{2}:\d{2})\]\s*([\s\S]*)$/);
+          const time = match ? match[1] : "";
+          return {
+            index,
+            time,
+            seconds: parseTimeToSeconds(time),
+            text: match ? match[2].trim() : block,
+            raw: block
+          };
+        });
+    };
+
+    const chunkExcerpt = (chunk, query, radius = 170) => {
+      const text = collapseWhitespace(chunk.text);
+      if (!query) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
+      const lower = normalize(text);
+      const index = lower.indexOf(query);
+      if (index < 0) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
+      const start = Math.max(0, index - radius);
+      const end = Math.min(text.length, index + query.length + radius);
+      return `${start > 0 ? "... " : ""}${text.slice(start, end)}${end < text.length ? " ..." : ""}`;
+    };
+
+    const showState = (message) => {
+      els.state.textContent = message;
+      els.state.hidden = false;
+      els.viewer.hidden = true;
+    };
+
+    const seekVideo = async (seconds) => {
+      if (state.player) {
+        try {
+          await state.player.setCurrentTime(seconds);
+          await state.player.play();
+          return;
+        } catch {
+          // Fall through to fragment fallback.
+        }
+      }
+
+      if (state.iframe) {
+        state.iframe.src = buildEmbedSrc(seconds);
+      }
+    };
+
+    const focusTranscriptRow = (index) => {
+      const row = document.getElementById(`transcript-row-${index}`);
+      if (!row) return;
+      document.querySelectorAll(".transcript-row.is-focused").forEach((item) => item.classList.remove("is-focused"));
+      row.classList.add("is-focused");
+      row.scrollIntoView({ block: "center", behavior: "smooth" });
+    };
+
+    const renderVideo = () => {
+      state.videoId = extractVimeoVideoId(state.meeting.vimeoUrl);
+      if (!state.videoId) {
+        els.videoShell.innerHTML = `<div class="state">No Vimeo video URL is available for this meeting.</div>`;
+        return;
+      }
+
+      els.videoShell.innerHTML = `<iframe id="vimeoPlayer" src="${escapeHtml(buildEmbedSrc())}" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="${escapeHtml(state.meeting.title)}"></iframe>`;
+      state.iframe = document.getElementById("vimeoPlayer");
+      state.player = window.Vimeo && state.iframe ? new Vimeo.Player(state.iframe) : null;
+    };
+
+    const renderTranscript = () => {
+      const query = normalize(state.query).trim();
+      const matches = query ? state.chunks.filter((chunk) => normalize(chunk.raw).includes(query)) : [];
+
+      els.stats.innerHTML = `
+        <span class="pill"><strong>${state.chunks.length}</strong> transcript blocks</span>
+        <span class="pill"><strong>${query ? matches.length : "All"}</strong> ${query ? "matching blocks" : "blocks shown"}</span>
+      `;
+
+      els.matches.innerHTML = query && matches.length
+        ? matches.slice(0, 12).map((chunk) => `
+            <button class="match-jump" type="button" data-index="${chunk.index}">
+              <span class="time-text">${escapeHtml(chunk.time || "Transcript")}</span>
+              <span>${highlightText(chunkExcerpt(chunk, query), query)}</span>
+            </button>
+          `).join("")
+        : "";
+
+      els.transcript.innerHTML = state.chunks.map((chunk) => {
+        const isMatch = query && normalize(chunk.raw).includes(query);
+        return `
+          <article class="transcript-row ${isMatch ? "is-match" : ""}" id="transcript-row-${chunk.index}">
+            ${chunk.time ? `<button class="time-button" type="button" data-seconds="${chunk.seconds}" data-index="${chunk.index}">${escapeHtml(chunk.time)}</button>` : `<span class="time-text">Transcript</span>`}
+            <p>${highlightText(chunk.text, query)}</p>
+          </article>
+        `;
+      }).join("");
+    };
+
+    const renderMeeting = () => {
+      const meeting = state.meeting;
+      const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
+      document.title = `${meeting.title} - Select Committee Transcripts`;
+      els.title.textContent = meeting.title;
+      els.meta.innerHTML = `
+        <span>${escapeHtml(meeting.date)}</span>
+        <span>${escapeHtml(duration)}</span>
+        <span class="tag">${escapeHtml(meeting.committee)}</span>
+      `;
+      els.links.innerHTML = `
+        ${meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : ""}
+        <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
+        <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
+        <a href="${escapeHtml(meeting.folderUrl)}">Folder</a>
+        <a href="index.html">Search</a>
+      `;
+      state.chunks = parseTranscript(meeting);
+      els.state.hidden = true;
+      els.viewer.hidden = false;
+      renderVideo();
+      renderTranscript();
+    };
+
+    els.search.addEventListener("input", (event) => {
+      state.query = event.target.value;
+      renderTranscript();
+    });
+
+    els.matches.addEventListener("click", (event) => {
+      const button = event.target.closest(".match-jump");
+      if (!button) return;
+      focusTranscriptRow(button.dataset.index);
+    });
+
+    els.transcript.addEventListener("click", (event) => {
+      const button = event.target.closest(".time-button");
+      if (!button) return;
+      seekVideo(Number(button.dataset.seconds || 0));
+      focusTranscriptRow(button.dataset.index);
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const guid = params.get("guid");
+    state.query = params.get("q") || "";
+    els.search.value = state.query;
+
+    fetch("search-data.json", { cache: "no-cache" })
+      .then((response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      })
+      .then((data) => {
+        state.data = data;
+        state.meeting = data.meetings.find((item) => item.guid === guid);
+        if (!guid) {
+          showState("No meeting was selected. Go back to search and open a transcript.");
+          return;
+        }
+        if (!state.meeting) {
+          showState("Meeting not found. It may have been removed or regenerated with a different GUID.");
+          return;
+        }
+        renderMeeting();
+      })
+      .catch((error) => {
+        showState(`Could not load search-data.json: ${error.message}`);
+      });
+  </script>
+</body>
+</html>
