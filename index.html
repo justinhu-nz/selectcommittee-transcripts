@@ -159,6 +159,12 @@
       color: var(--muted);
     }
 
+    .snippets {
+      display: grid;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
     .snippet {
       border-left: 3px solid var(--amber);
       background: var(--soft-amber);
@@ -192,9 +198,24 @@
       font-size: 0.92rem;
     }
 
-    .links a:hover {
+    .links button {
+      display: inline-flex;
+      align-items: center;
+      min-height: 32px;
+      border: 1px solid var(--blue);
+      border-radius: 6px;
+      padding: 5px 10px;
+      color: #fff;
+      background: var(--blue);
+      font: inherit;
+      font-size: 0.92rem;
+      cursor: pointer;
+    }
+
+    .links a:hover, .links button:hover {
       border-color: var(--blue);
       background: var(--soft-blue);
+      color: var(--blue);
     }
 
     .empty {
@@ -206,10 +227,156 @@
       color: var(--muted);
     }
 
+    body.reader-open {
+      overflow: hidden;
+    }
+
+    .reader-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 20;
+      display: grid;
+      justify-items: end;
+      background: rgba(23, 32, 42, 0.38);
+    }
+
+    .reader-backdrop[hidden] {
+      display: none;
+    }
+
+    .reader {
+      width: min(900px, 100%);
+      height: 100%;
+      overflow: auto;
+      background: var(--panel);
+      box-shadow: -12px 0 28px rgba(23, 32, 42, 0.22);
+    }
+
+    .reader-inner {
+      display: grid;
+      gap: 14px;
+      padding: 20px;
+    }
+
+    .reader-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: start;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 14px;
+    }
+
+    .reader-top h2 {
+      margin: 4px 0 0;
+      font-size: 1.35rem;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .reader-meta {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .reader-close {
+      min-height: 34px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+      color: var(--ink);
+      padding: 5px 11px;
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .reader-tools {
+      display: grid;
+      grid-template-columns: minmax(220px, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .reader-file-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: end;
+    }
+
+    .reader-file-links a {
+      color: var(--blue);
+      text-decoration: none;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 6px 9px;
+      background: #fff;
+    }
+
+    .reader-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+    }
+
+    .reader-matches {
+      display: grid;
+      gap: 8px;
+    }
+
+    .match-button {
+      display: grid;
+      grid-template-columns: 78px 1fr;
+      gap: 8px;
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--soft-blue);
+      color: var(--ink);
+      padding: 9px 10px;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .match-time, .transcript-time {
+      color: var(--blue);
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+
+    .transcript {
+      display: grid;
+      gap: 2px;
+      border-top: 1px solid var(--line);
+      padding-top: 8px;
+    }
+
+    .transcript-row {
+      display: grid;
+      grid-template-columns: 86px 1fr;
+      gap: 10px;
+      padding: 8px 6px;
+      border-radius: 6px;
+    }
+
+    .transcript-row p {
+      margin: 0;
+    }
+
+    .transcript-row.is-focused {
+      background: var(--soft-amber);
+      outline: 2px solid #f0bf54;
+    }
+
     @media (max-width: 760px) {
       .wrap { width: min(100% - 22px, 1180px); }
       .controls { grid-template-columns: 1fr; }
       .meeting { padding: 14px; }
+      .reader-tools { grid-template-columns: 1fr; }
+      .reader-file-links { justify-content: start; }
+      .match-button, .transcript-row { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -238,12 +405,35 @@
     <div class="empty" id="empty">No meetings match the current filters.</div>
   </main>
 
+  <div class="reader-backdrop" id="readerBackdrop" hidden>
+    <section class="reader" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+      <div class="reader-inner">
+        <div class="reader-top">
+          <div>
+            <div class="reader-meta" id="readerMeta"></div>
+            <h2 id="readerTitle"></h2>
+          </div>
+          <button class="reader-close" id="readerClose" type="button">Close</button>
+        </div>
+        <div class="reader-tools">
+          <input id="readerSearch" type="search" autocomplete="off" placeholder="Search this transcript">
+          <div class="reader-file-links" id="readerLinks"></div>
+        </div>
+        <div class="reader-stats" id="readerStats"></div>
+        <div class="reader-matches" id="readerMatches"></div>
+        <div class="transcript" id="readerTranscript"></div>
+      </div>
+    </section>
+  </div>
+
   <script>
     const state = {
       data: null,
       query: "",
       committee: "",
-      month: ""
+      month: "",
+      activeMeeting: null,
+      readerQuery: ""
     };
 
     const els = {
@@ -252,7 +442,16 @@
       month: document.getElementById("month"),
       summary: document.getElementById("summary"),
       meetings: document.getElementById("meetings"),
-      empty: document.getElementById("empty")
+      empty: document.getElementById("empty"),
+      readerBackdrop: document.getElementById("readerBackdrop"),
+      readerTitle: document.getElementById("readerTitle"),
+      readerMeta: document.getElementById("readerMeta"),
+      readerClose: document.getElementById("readerClose"),
+      readerSearch: document.getElementById("readerSearch"),
+      readerLinks: document.getElementById("readerLinks"),
+      readerStats: document.getElementById("readerStats"),
+      readerMatches: document.getElementById("readerMatches"),
+      readerTranscript: document.getElementById("readerTranscript")
     };
 
     const escapeHtml = (value) => String(value || "")
@@ -263,6 +462,8 @@
       .replaceAll("'", "&#39;");
 
     const normalize = (value) => String(value || "").toLowerCase();
+
+    const collapseWhitespace = (value) => String(value || "").replace(/\s+/g, " ").trim();
 
     const displayMonth = (month) => {
       if (!month) return "";
@@ -282,22 +483,81 @@
       return haystack.includes(query);
     };
 
-    const snippetFor = (meeting, query) => {
-      const text = String(meeting.transcriptText || "").replace(/\s+/g, " ").trim();
-      if (!text) return "";
+    const highlightText = (value, query) => {
+      const text = String(value || "");
+      if (!query) return escapeHtml(text);
+      const regex = new RegExp(`(${escapeRegExp(query)})`, "ig");
+      return text.split(regex)
+        .map((part) => normalize(part) === normalize(query) ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part))
+        .join("");
+    };
+
+    const countOccurrences = (value, query) => {
+      if (!query) return 0;
+      let count = 0;
+      let index = 0;
+      const text = normalize(value);
+      while ((index = text.indexOf(query, index)) >= 0) {
+        count++;
+        index += Math.max(query.length, 1);
+        if (count >= 999) return count;
+      }
+      return count;
+    };
+
+    const snippetsFor = (meeting, query, limit = 3, radius = 190) => {
+      const text = collapseWhitespace(meeting.transcriptText);
+      if (!text) return [];
+      if (!query) {
+        const excerpt = text.slice(0, 440);
+        return [{ text: excerpt + (text.length > excerpt.length ? " ..." : "") }];
+      }
+
       const lower = text.toLowerCase();
-      const index = query ? lower.indexOf(query) : -1;
-      const start = index >= 0 ? Math.max(0, index - 90) : 0;
-      const end = Math.min(text.length, start + 260);
-      let snippet = text.slice(start, end);
-      if (start > 0) snippet = "... " + snippet;
-      if (end < text.length) snippet += " ...";
-      if (!query || index < 0) return escapeHtml(snippet);
-      const escapedQuery = escapeRegExp(query);
-      return escapeHtml(snippet).replace(new RegExp(escapedQuery, "ig"), (match) => `<mark>${match}</mark>`);
+      const snippets = [];
+      let index = 0;
+      while (snippets.length < limit) {
+        const matchIndex = lower.indexOf(query, index);
+        if (matchIndex < 0) break;
+        const start = Math.max(0, matchIndex - radius);
+        const end = Math.min(text.length, matchIndex + query.length + radius);
+        let snippet = text.slice(start, end);
+        if (start > 0) snippet = "... " + snippet;
+        if (end < text.length) snippet += " ...";
+        snippets.push({ text: snippet });
+        index = matchIndex + Math.max(query.length, 1);
+      }
+      return snippets;
     };
 
     const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+    const parseTranscript = (meeting) => {
+      const text = String(meeting.transcriptText || "").replace(/\r\n/g, "\n");
+      return text.split(/\n\s*\n/)
+        .map((block) => block.trim())
+        .filter(Boolean)
+        .map((block, index) => {
+          const match = block.match(/^\[(\d{2}:\d{2}:\d{2})\]\s*([\s\S]*)$/);
+          return {
+            index,
+            time: match ? match[1] : "",
+            text: match ? match[2].trim() : block,
+            raw: block
+          };
+        });
+    };
+
+    const chunkExcerpt = (chunk, query, radius = 170) => {
+      const text = collapseWhitespace(chunk.text);
+      if (!query) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
+      const lower = normalize(text);
+      const index = lower.indexOf(query);
+      if (index < 0) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
+      const start = Math.max(0, index - radius);
+      const end = Math.min(text.length, index + query.length + radius);
+      return `${start > 0 ? "... " : ""}${text.slice(start, end)}${end < text.length ? " ..." : ""}`;
+    };
 
     const filteredMeetings = () => {
       const query = normalize(state.query).trim();
@@ -340,9 +600,11 @@
 
       els.empty.style.display = meetings.length ? "none" : "block";
       els.meetings.innerHTML = meetings.map((meeting) => {
-        const snippet = snippetFor(meeting, query);
+        const snippets = snippetsFor(meeting, query);
+        const matchCount = countOccurrences(meeting.transcriptText, query);
         const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
         const vimeo = meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : "";
+        const matches = query ? `<span>${matchCount ? `${matchCount} transcript match${matchCount === 1 ? "" : "es"}` : "Metadata match"}</span>` : "";
         return `
           <article class="meeting">
             <div class="meeting-head">
@@ -352,12 +614,14 @@
                   <span>${escapeHtml(meeting.date)}</span>
                   <span>${escapeHtml(duration)}</span>
                   <span class="tag">${escapeHtml(meeting.committee)}</span>
+                  ${matches}
                 </div>
               </div>
             </div>
             <p class="desc">${escapeHtml(meeting.description || "")}</p>
-            ${snippet ? `<p class="snippet">${snippet}</p>` : ""}
+            ${snippets.length ? `<div class="snippets">${snippets.map((snippet) => `<p class="snippet">${highlightText(snippet.text, query)}</p>`).join("")}</div>` : ""}
             <div class="links">
+              <button class="open-reader" type="button" data-guid="${escapeHtml(meeting.guid)}">Open transcript</button>
               ${vimeo}
               <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
               <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
@@ -366,6 +630,70 @@
           </article>
         `;
       }).join("");
+    };
+
+    const openReader = (guid) => {
+      const meeting = state.data.meetings.find((item) => item.guid === guid);
+      if (!meeting) return;
+      state.activeMeeting = meeting;
+      state.readerQuery = state.query.trim();
+      els.readerSearch.value = state.readerQuery;
+      els.readerBackdrop.hidden = false;
+      document.body.classList.add("reader-open");
+      renderReader();
+      els.readerSearch.focus();
+    };
+
+    const closeReader = () => {
+      state.activeMeeting = null;
+      els.readerBackdrop.hidden = true;
+      document.body.classList.remove("reader-open");
+    };
+
+    const renderReader = () => {
+      const meeting = state.activeMeeting;
+      if (!meeting) return;
+
+      const query = normalize(state.readerQuery).trim();
+      const chunks = parseTranscript(meeting);
+      const matches = query ? chunks.filter((chunk) => normalize(chunk.raw).includes(query)) : [];
+      const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
+
+      els.readerTitle.textContent = meeting.title;
+      els.readerMeta.textContent = `${meeting.date} · ${duration} · ${meeting.committee}`;
+      els.readerLinks.innerHTML = `
+        ${meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : ""}
+        <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
+        <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
+        <a href="${escapeHtml(meeting.folderUrl)}">Folder</a>
+      `;
+      els.readerStats.innerHTML = `
+        <span class="pill"><strong>${chunks.length}</strong> transcript blocks</span>
+        <span class="pill"><strong>${query ? matches.length : "All"}</strong> ${query ? "matching blocks" : "blocks shown"}</span>
+      `;
+      els.readerMatches.innerHTML = query && matches.length
+        ? matches.slice(0, 12).map((chunk) => `
+            <button class="match-button" type="button" data-index="${chunk.index}">
+              <span class="match-time">${escapeHtml(chunk.time || "Transcript")}</span>
+              <span>${highlightText(chunkExcerpt(chunk, query), query)}</span>
+            </button>
+          `).join("")
+        : "";
+
+      els.readerTranscript.innerHTML = chunks.map((chunk) => `
+        <section class="transcript-row" id="transcript-row-${chunk.index}">
+          <time class="transcript-time">${escapeHtml(chunk.time)}</time>
+          <p>${highlightText(chunk.text, query)}</p>
+        </section>
+      `).join("");
+    };
+
+    const focusTranscriptRow = (index) => {
+      const row = document.getElementById(`transcript-row-${index}`);
+      if (!row) return;
+      document.querySelectorAll(".transcript-row.is-focused").forEach((item) => item.classList.remove("is-focused"));
+      row.classList.add("is-focused");
+      row.scrollIntoView({ block: "center", behavior: "smooth" });
     };
 
     els.search.addEventListener("input", (event) => {
@@ -381,6 +709,33 @@
     els.month.addEventListener("change", (event) => {
       state.month = event.target.value;
       render();
+    });
+
+    els.meetings.addEventListener("click", (event) => {
+      const button = event.target.closest(".open-reader");
+      if (!button) return;
+      openReader(button.dataset.guid);
+    });
+
+    els.readerSearch.addEventListener("input", (event) => {
+      state.readerQuery = event.target.value;
+      renderReader();
+    });
+
+    els.readerMatches.addEventListener("click", (event) => {
+      const button = event.target.closest(".match-button");
+      if (!button) return;
+      focusTranscriptRow(button.dataset.index);
+    });
+
+    els.readerClose.addEventListener("click", closeReader);
+
+    els.readerBackdrop.addEventListener("click", (event) => {
+      if (event.target === els.readerBackdrop) closeReader();
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !els.readerBackdrop.hidden) closeReader();
     });
 
     fetch("search-data.json", { cache: "no-cache" })
