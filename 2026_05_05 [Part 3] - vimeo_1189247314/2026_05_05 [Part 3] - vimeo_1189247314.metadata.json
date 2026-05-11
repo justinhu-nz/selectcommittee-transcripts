@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:04:44.261435+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1189247314",
+  "title": "2026/05/05 [Part 3]",
+  "url": "https://vimeo.com/1189247314",
+  "published_at": "20260505",
+  "published_display": "2026-05-05",
+  "duration_seconds": 2011,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2010.17,
+    "segment_count": 628,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_05_05 [Part 3] - vimeo_1189247314\\2026_05_05 [Part 3] - vimeo_1189247314.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1189247314",
+    "display_id": "1189247314",
+    "title": "2026/05/05 [Part 3]",
+    "description": "Tuesday, 5 May 2026 | Justice Committee\n\nElectoral (District Boundaries) Amendment Bill \n\nHearing of Evidence\nSubmitters:\n\nIt's in the Ballot Productions \n\n     Sam Somers, Co-Chair \n\nPirirakau Tribal Authority \u2013 Incorporated \n\n     Heta Gardiner, Kaihaut\u016b / General Manager \n\nTe Wahine Ora o Hakepa Foundation \n\n     Hakepa, Spokesperson \n\nTangikaroro Native Nursery \n\n     Jesamine Wanoa, Owner/Operator",
+    "webpage_url": "https://vimeo.com/1189247314",
+    "original_url": "https://vimeo.com/1189247314",
+    "upload_date": "20260505",
+    "timestamp": 1777953230,
+    "release_timestamp": 1777953239,
+    "duration": 2011,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2154042406-447ba76aa7d21a85437d97226a07ca444918d9d6b0f56e6a96ed9c1b9a9fac7a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/298634339.vtt?expires=1778504688&sig=049bc727a3331440552d71a0199a25fac70ed168&download=auto_generated_captions.vtt"
+  }
+}

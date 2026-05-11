@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:04:53.888838+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187899855",
+  "title": "2026/05/05 [Part 1]",
+  "url": "https://vimeo.com/1187899855",
+  "published_at": "20260505",
+  "published_display": "2026-05-05",
+  "duration_seconds": 11455,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11440.2,
+    "segment_count": 3407,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_05_05 [Part 1] - vimeo_1187899855\\2026_05_05 [Part 1] - vimeo_1187899855.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187899855",
+    "display_id": "1187899855",
+    "title": "2026/05/05 [Part 1]",
+    "description": "Tuesday, 5 May 2026 | Justice Committee\n\nData and Statistics (Census) Amendment Bill\n\nHearing of Evidence\nSubmitters:\n\nTe Mana Raraunga\n\n Lara Greaves\nLarissa Renfrew \nLogan Hamley \n\nCommunity Housing Aotearoa\n\n     Paul Gilberd, Chief Executive\n     Chris Glaudel, Deputy Chief Executive\n\nHui E! Community Aotearoa\n\n     Dr Katie Bruce, Tangata Tiriti CE\n     Patrick Gemmell, Tangata Whenua CE\n\nHelen Viggers (on behalf of Peter Crampton)\nLeonard Cook\nTe Wahine Ora o Hakepa Foundation\n\n     Hakepa, Spokesperson\n\nData Iwi Leaders Group\n\n     Rahui Papa, Chair\n     Kirikowhai Mikaere, Lead Technician\n\nRetail NZ\n\n     Carolyn Young, CEO\n     Denise Garland, Retail NZ Advocacy Manager\n\nIndigenous Data Authority\n\n     Lisa Pizzoni, Founder\n\nJonathan Godfrey\nTze Ming Mok\nStephen Haslett\nKay Saville-Smith\nNew Zealand Council of Trade Unions Te Kauae Kaimahi\n\n     Sandra Grey, President\n     Jack Foster, Policy Analyst\n\nNew Zealand Law Society Te Kahui Ture o Aotearoa\n\n      Bryce Lyall, Member of the Law Society\u2019s Public Law Committee\n\nNew Zealand College of Public Health Medicine\n\n     Dr Vanessa Selak, Associate Professor\n     Professor Sir Collin Tukuitonga, President\n\nHauora Taiwhenua Rural Health Network\n\n     Dr Grant Davidson, CEO\n\nTe Ngakau Kahukura\n\n     Moira Clunie MNZM, Co-Lead\n\nKoi Tu Centre for Informed Futures\n\nHema Sridhar, Deputy Director",
+    "webpage_url": "https://vimeo.com/1187899855",
+    "original_url": "https://vimeo.com/1187899855",
+    "upload_date": "20260505",
+    "timestamp": 1777941472,
+    "release_timestamp": 1777941487,
+    "duration": 11455,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2153692036-a4f3b63a1599e0ad296ceca6725245a3cb608867f9a3013df299e1dbd55fcf9d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/298616150.vtt?expires=1778504697&sig=4231d31dd101f73c19452d7bb2b2ff1676d72233&download=auto_generated_captions.vtt"
+  }
+}

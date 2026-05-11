@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:28:59.045376+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1178974100",
+  "title": "2026/04/22 - EW [Part 1]",
+  "url": "https://vimeo.com/1178974100",
+  "published_at": "20260421",
+  "published_display": "2026-04-21",
+  "duration_seconds": 7102,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7102.11,
+    "segment_count": 1968,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_22 - EW [Part 1] - vimeo_1178974100\\2026_04_22 - EW [Part 1] - vimeo_1178974100.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1178974100",
+    "display_id": "1178974100",
+    "title": "2026/04/22 - EW [Part 1]",
+    "description": "Wednesday 22 April 2026 | Education and Workforce Committee\n\nEmployment Leave Bill",
+    "webpage_url": "https://vimeo.com/1178974100",
+    "original_url": "https://vimeo.com/1178974100",
+    "upload_date": "20260421",
+    "timestamp": 1776809061,
+    "release_timestamp": 1776809071,
+    "duration": 7102,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2149198740-5259158ba112d209ba888fd90d2357a33c82f63c46e1e02fc494788a324543a0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/295918744.vtt?expires=1778506142&sig=2db5c7fb470008a1e4fd759b8a8fdd80702f4267&download=auto_generated_captions.vtt"
+  }
+}

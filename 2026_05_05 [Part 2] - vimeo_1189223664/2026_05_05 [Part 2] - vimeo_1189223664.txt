@@ -1,0 +1,2143 @@
+Title: 2026/05/05 [Part 2]
+URL: https://vimeo.com/1189223664
+Published: 2026-05-05
+Duration: 01:56:26
+
+[00:00:00] Very full on volume.
+[00:00:02] Thank you. Thank you.
+[00:00:03] Now, I'll just start
+[00:00:07] with
+[00:00:08] giving an example of why
+[00:00:11] it's important to be counted.
+[00:00:13] So I'm older, my parents are dead. I'm not
+[00:00:17] going to be kicked out of my home if I disclose
+[00:00:21] information about my identity. That's not the
+[00:00:25] situation for everybody. I've come here today wearing a
+[00:00:28] T-shirt saying, "Challenge biphobia."
+[00:00:32] Even wearing that in some countries in the world would be enough to get me put in
+[00:00:35] jail. But that's not Aotearoa, New Zealand.
+[00:00:39] However, it is important that we recognize why people,
+[00:00:43] particularly those who may come from different places in the world, may be
+[00:00:47] hesitant about sharing information about themselves through
+[00:00:51] administrative data,
+[00:00:54] which they are not confident about being kept
+[00:00:59] safe, secure. They don't know whether it'll be confidential.
+[00:01:03] They may be a younger person living in a conservative family
+[00:01:07] who is uncomfortable about their
+[00:01:11] parents seeing them for who they are.
+[00:01:13] This is so for the whole of the rainbow communities,
+[00:01:17] LGBTIQ+, and all the MVP, FAF,
+[00:01:21] Pasifika terms. These are issues of social
+[00:01:25] stigma. And the 2023 census,
+[00:01:29] as you will know, was the first time that people were able to
+[00:01:33] self-identify and disclose confidentially
+[00:01:37] information about themselves in a way that meant that they could be counted, and
+[00:01:41] that that information could then feed into planning for
+[00:01:45] services, for
+[00:01:47] a whole range of areas where it's important to be counted, like
+[00:01:51] 173,000 people on the LGBT+ communities
+[00:01:55] in Aotearoa in 2023. And Statistics NZ
+[00:01:59] admits that's an underestimate because there are still concerns
+[00:02:03] about that confidentiality and trust.
+[00:02:06] But if we compare that to administrative data first,
+[00:02:11] and you asked agencies to give a count, you would
+[00:02:15] probably get maybe 10% of that.
+[00:02:18] As a bisexual person, I have never been asked my sexual
+[00:02:22] orientation by any government agency that has recorded my
+[00:02:26] information before that 2023 census.
+[00:02:30] So that is invisible information about me.
+[00:02:33] The same with people from
+[00:02:37] different iwi and hapū who may never have been when they're--
+[00:02:41] They might identify as Māori, but it may not go any further.
+[00:02:44] They may not
+[00:02:47] be asked that. So administrative data has got massive gaps,
+[00:02:52] and that is a risk. So as you will have seen from my...
+[00:02:58] I echo a lot of previous submissions about
+[00:03:02] even if we were living in a perfect society where people felt confident
+[00:03:06] sharing information about themselves, we're not there yet, and yet that
+[00:03:09] information is really important.
+[00:03:13] And
+[00:03:14] there's lots of things I could say, but I'll-- Oh, and just that
+[00:03:18] when I say it's really important, I used to help run hackathons using sort of data
+[00:03:22] that's been collected from sources, and I know how important it is to business, but
+[00:03:26] I'll stop there. Any questions?
+[00:03:28] Right. Thank you, Kaye.
+[00:03:30] I think- Question. That's very good. Points well made. And thank you.
+[00:03:35] As we are busy, you're also busy in that-
+[00:03:37] Yes
+[00:03:38] ... you've got a lengthy submission, so thank you for that today.
+[00:03:39] Yes. And I'll just show this to the point of the camera that I don't know if it can
+[00:03:43] be seen, but I'm wearing badges so that when I'm traveling,
+[00:03:47] people can know that I'm safe to engage with
+[00:03:51] and I'm being counted. But as I say, lots of people don't have that luxury.
+[00:03:55] Okay. Thank you very much.
+[00:03:57] Right.
+[00:03:58] Now, Elizabeth Walker, I think, is that right?
+[00:04:02] Hello.
+[00:04:03] Hello. Hey, Elizabeth. We can hear you.
+[00:04:07] Great.
+[00:04:08] We got five minutes with you.
+[00:04:10] Thank you. My name is Elizabeth Walker. Good afternoon.
+[00:04:14] I'm here today to ask the committee to commission an independent report
+[00:04:18] expert review of the admin data first model and consequent
+[00:04:22] cessation of the periodic census of populations and dwellings
+[00:04:26] before it's too late.
+[00:04:29] Just put my camera on.
+[00:04:32] I have-
+[00:04:32] Oh,
+[00:04:34] hello.
+[00:04:34] You heard my intro?
+[00:04:36] Yes.
+[00:04:37] Okay. I have over 40 years' experience working in the data modeling,
+[00:04:41] management, and governance of data.
+[00:04:43] I worked for New Zealand Statistics Department,
+[00:04:46] DataBank New Zealand, Westpac New Zealand, and then had 20 years with
+[00:04:50] Teradata Data Warehouse, where for 10 years I
+[00:04:54] governed all Asia Pacific client data projects across industries and
+[00:04:57] government.
+[00:04:59] I've encountered a lot of data designs and data problems, especially data
+[00:05:02] gaps.
+[00:05:04] When clients had manual or perhaps no source systems
+[00:05:08] in place for crucial data items, data warehouse projects
+[00:05:12] were inevitably delayed or halted, and the
+[00:05:15] client's ensuing business plans and projects were also put on hold.
+[00:05:20] I'm humbled by the range and depth of expert testimony here
+[00:05:23] today.
+[00:05:25] Please consider the impact of data gaps and low-quality
+[00:05:28] data on New Zealand Government's decision-making and change
+[00:05:32] management capabilities, as so many people described.
+[00:05:37] I believe that data
+[00:05:39] and data quality are the lifeblood of every organization and every
+[00:05:43] government in our modern digital world.
+[00:05:46] And without the census data, you've heard that we stand to lose the
+[00:05:50] kete, or basket, or spine perhaps that connects,
+[00:05:54] and contains all our people information, identifying individuals,
+[00:05:58] dwelling location, ages, relationships to their households,
+[00:06:03] and in most cases, that's their family.We'll lose
+[00:06:07] granular data about individuals and families
+[00:06:12] coming directly from people. That's you and me, so
+[00:06:15] it's more accurate and probably the most highly trusted data in government
+[00:06:19] and beyond. It's more than a century
+[00:06:23] of continuous high-quality
+[00:06:26] longitudinal data, and data that
+[00:06:30] directly affects
+[00:06:33] electoral boundaries, foundation of our democracy.
+[00:06:38] Apart from the census, no government department counts and locates all people
+[00:06:42] present in New Zealand, as you've heard.
+[00:06:44] And I don't think I can be represented in the same way as
+[00:06:48] a taxpayer, a beneficiary, a patient, a land
+[00:06:52] holder. Government departments hold only slim
+[00:06:55] slices of data, as we would say.
+[00:07:00] New Zealand's population statistics are key pieces of our national
+[00:07:03] infrastructure. I view the census data as playing a pivotal
+[00:07:07] role
+[00:07:09] in New Zealand's national population statistics.
+[00:07:12] I was pleased to see Koi Tū come up
+[00:07:16] before me. I was going to talk about
+[00:07:19] how much I supported their proposals and how
+[00:07:23] integral I saw the census as part of
+[00:07:27] the population strategy that they were talking about.
+[00:07:30] I can say more, but to conclude, along with the
+[00:07:34] repercussions that experts here describe, it's the lack of
+[00:07:38] process and rigor that I've heard this morning in reaching this
+[00:07:42] point that is perhaps most disturbing.
+[00:07:45] Please reconsider our loss of population and family data,
+[00:07:49] and commission an independent expert review of the decisions and
+[00:07:53] options regarding the census before it is
+[00:07:56] abandoned. Thank you very much for listening.
+[00:08:00] Are there any questions?
+[00:08:01] Yeah. Thank you, Elizabeth. Now, any questions from anyone?
+[00:08:05] This is good. Straightforward.
+[00:08:07] No?
+[00:08:08] Thank you, Elizabeth. That's very good.
+[00:08:10] And we've got a number of submissions on the same topic, so
+[00:08:13] I think we'll get a pretty comprehensive view on the issues.
+[00:08:16] But thank you very much for your contribution.
+[00:08:18] Thank you.
+[00:08:20] Right. Now, we've got Steve Farrow, is it?
+[00:08:23] Steve, please come to the table.
+[00:08:26] We've got five minutes with you.
+[00:08:37] Steve.
+[00:08:42] Hi, I'm Steve Farrow.
+[00:08:46] I thank the Select Committee and its
+[00:08:50] administrators
+[00:08:52] for providing me with the opportunity to make this
+[00:08:56] oral submission.
+[00:08:58] I assume you have read my written submission-
+[00:09:00] We could
+[00:09:01] ... or have it in front of you, so I will not challenge your intellect
+[00:09:05] by reading it to you.
+[00:09:08] My background, I studied history and political science and other stuff at
+[00:09:11] University of Canterbury in the first half of the 1970s.
+[00:09:16] Then I spent my working life as a high school teacher, and then a union
+[00:09:20] membership educator.
+[00:09:22] The only difference between those two roles was that
+[00:09:25] union members didn't view me as a boss,
+[00:09:29] so didn't tell me to F off.
+[00:09:32] I'm now happily retired, but still interested in New Zealand current affairs
+[00:09:36] and political and equity issues.
+[00:09:40] One thing the committee needs to know is that I take this opportunity
+[00:09:43] seriously. That is why the Clerk of the House will receive
+[00:09:47] a bill from me for the trees I have used and the ink
+[00:09:51] cartridges I have emptied to print and read the
+[00:09:55] document
+[00:09:57] for an omnibus bill,
+[00:10:01] and that's really hard, especially for individual submitters.
+[00:10:07] My written submission canvassed the high-level concerns I have.
+[00:10:12] The bill and the documents that support it,
+[00:10:17] as have been mentioned just before us,
+[00:10:20] have sort of allayed my concerns about the effects on the Electoral
+[00:10:24] Act and process to adjust
+[00:10:26] constituency boundaries.
+[00:10:30] I think one document told me that entrenched clauses of the act
+[00:10:34] would remain.
+[00:10:35] That I know about them proves that I listened during my pol sci
+[00:10:40] lectures way back when.
+[00:10:42] I'm convinced that Admin Data First
+[00:10:46] should be able to provide the data required.
+[00:10:51] What really concerns me is that, as we have heard
+[00:10:55] already, Admin Data First will not
+[00:10:59] have the data required to know about really
+[00:11:02] important stuff.
+[00:11:05] Government health data does not capture and is often
+[00:11:08] withheld from the government by minority,
+[00:11:13] but important segments of the population,
+[00:11:16] Maori, Pasifika, disabled, women, gender
+[00:11:20] diverse, youth, GLBTQI++++,
+[00:11:26] homeless, poorly
+[00:11:28] housed, unemployed, those suffering mental
+[00:11:32] health issues,
+[00:11:34] those recently released from prison,
+[00:11:37] et cetera. Even the
+[00:11:41] proposed census attribute
+[00:11:45] surveys,
+[00:11:46] I think they're called, will not capture such groups unless
+[00:11:50] well-constructed and probably larger than the
+[00:11:55] 3% to 5%
+[00:11:57] of the population
+[00:12:00] that has been posited. A friend of mine even more
+[00:12:04] retired than me spent his working life as a senior
+[00:12:08] statistician.He had never heard of the
+[00:12:12] admin data first methodology,
+[00:12:16] and the survey sample sizes are very
+[00:12:19] concerning to him.
+[00:12:23] An equally worrying feature is the movement of the
+[00:12:28] 2028 census to 2030.
+[00:12:33] The only reason given is to allow the government statistician
+[00:12:37] and government entities to get their ducks in a row.
+[00:12:41] Over the last 150 odd years, the only
+[00:12:45] missed censuses were for issues of
+[00:12:48] biblical proportions:
+[00:12:51] world depression,
+[00:12:53] world war,
+[00:12:54] earthquake catastrophe, and world
+[00:12:57] pestilence.
+[00:12:59] Do such as civil service convenience
+[00:13:04] and seriously bad weather now count as
+[00:13:08] of biblical importance?
+[00:13:12] I do not want to argue with others who I'm sure
+[00:13:16] have argued for themselves. But as an individual,
+[00:13:19] I'm very concerned, uncomfortable, about the
+[00:13:23] intention to move the 2028 census
+[00:13:27] to 2030, for the effect it will have
+[00:13:31] on Maori in particular.
+[00:13:34] That move explicitly shifts
+[00:13:37] consultation with Maori to the new date
+[00:13:41] rather than before the 2029 election.
+[00:13:45] Why can't the new super and modern system not
+[00:13:49] begin such consultation from about now?
+[00:13:56] You may think I'm a grumpy old man. I see on the oral submitters list
+[00:14:00] that you will soon hear from Brian Easton.
+[00:14:04] He wouldn't know me from a bar of soap, but I remember him as a
+[00:14:07] relatively young economics lecturer who frequented
+[00:14:11] the town site student cafeteria in
+[00:14:15] Christchurch in the early 1970s. You'll
+[00:14:19] find out whether the Data and Statistics Census Amendment
+[00:14:22] Bill makes him grumpier than me.
+[00:14:26] Thank you for your time, and I'm happy for questions
+[00:14:30] should there be any.
+[00:14:32] Hey, thanks, Steve.
+[00:14:34] Thoughtful.
+[00:14:35] Hey. Thank you. Very thoughtful submission.
+[00:14:41] Right.
+[00:14:43] Mr. Craig Atkinson, is it?
+[00:14:46] Craig, are you with
+[00:14:49] us?
+[00:14:56] Craig, are you with us?
+[00:15:00] All right, cool.
+[00:15:02] Hello.
+[00:15:03] Hello. We can hear you. We can see you. Hey, Craig.
+[00:15:06] We've seen you before.
+[00:15:07] Kia ora.
+[00:15:08] We've seen you before. Good to have you with us again.
+[00:15:11] Good to be with the GSC, the GSC, and that
+[00:15:15] again. Yeah, no, I'd keep it very short for you.
+[00:15:19] I don't agree with it. I think that you've, by the professional
+[00:15:23] people that specialize in this area, pointed out, it's been
+[00:15:27] tried in 20 countries, and not worked, and you really haven't got a clue.
+[00:15:31] And you're just guessing at
+[00:15:34] what to do. I think there's a point with
+[00:15:38] algorithms that comes up with election times and all that information that you
+[00:15:42] collect on us.
+[00:15:44] And yeah, so no, I disagree with it. Put this one in the bin with the rest of them.
+[00:15:48] Thank you.
+[00:15:49] All right. Hey, thank you. Any-
+[00:15:52] Straightforward.
+[00:15:53] Last time we called, it was a beautiful day, and it looks like another beautiful
+[00:15:56] day.
+[00:15:57] It's always sunshine in Paihia, mate.
+[00:16:00] I know. That's what you always say.
+[00:16:02] Hey, thank you very much.
+[00:16:04] Kia ora. Thank you.
+[00:16:06] Bye-bye.
+[00:16:07] Right. Now,
+[00:16:09] We Create,
+[00:16:10] Mr. Paul Browning, is it?
+[00:16:14] Paul, are you with us?
+[00:16:21] Yes. Good afternoon.
+[00:16:23] Hello. Nice to hear from you.
+[00:16:26] Oh, sorry, it's Paula, is it?
+[00:16:30] This is Paula, yes.
+[00:16:32] Oh, sorry, I had you down as Paul. So,
+[00:16:35] apologies for that. Nice to have you with us this afternoon, Paula. Mm.
+[00:16:40] Kia ora, and thank you for having me.
+[00:16:43] I'm the executive director of We Create.
+[00:16:45] We Create is the alliance of New Zealand's creative industry
+[00:16:49] associations and creative organizations, representing
+[00:16:52] over 30,000 Kiwi creatives and creative businesses
+[00:16:56] across all creative industries, from games, to music, to screen, to publishing,
+[00:17:00] fashion, architecture, advertising, design, performing, and visual arts.
+[00:17:04] We note that the creative sector is highly digital in how the products and
+[00:17:08] services we make and sell are created, marketed,
+[00:17:11] distributed, and consumed. We're here today because this bill
+[00:17:15] matters, not just to the government and statisticians, but to every
+[00:17:19] creative professional in this country whose work and value is
+[00:17:23] currently mostly invisible to government data systems.
+[00:17:27] We Create has engaged with the New Zealand government data system for over a
+[00:17:30] decade. We commissioned NZIR to produce the first
+[00:17:33] comprehensive valuation of the creative sector in 2016
+[00:17:37] because government data could not tell that story.
+[00:17:40] In 2026, it still cannot tell it accurately.
+[00:17:44] As it currently operates, the data system does not see us, and without
+[00:17:48] deliberate intervention, this bill will lock in and magnify that
+[00:17:51] invisibility.
+[00:17:53] The creative industries are not a niche concern for the data system.
+[00:17:57] The Ministry for Culture and Heritage reports that the sector contributed
+[00:18:00] 18.5 billion to GDP in 2025 and
+[00:18:04] employed 122,000 New Zealanders or
+[00:18:07] 4.4% of the total workforce.Creative sectors are
+[00:18:11] defined by UNCTAD and many advanced economies as
+[00:18:14] high-value economic contributors.
+[00:18:17] In New Zealand, the Cabinet-approved Amplify Creative and Cultural Strategy
+[00:18:22] sets out an evidence framework as a core government commitment and
+[00:18:25] deliverable under the strategy. That commitment cannot be delivered if the
+[00:18:29] underlying data infrastructure is broken.
+[00:18:33] The data system used by Infometrics to produce data for MCH
+[00:18:36] continues to draw from data systems that do not accurately reflect the
+[00:18:40] creative sector and occupations as they exist today,
+[00:18:44] and have no mechanism for keeping up with technology change.
+[00:18:48] If we transition to an admin data-first census model without fixing
+[00:18:52] the foundations of the existing system, we will entrench what is
+[00:18:55] already broken.
+[00:18:57] The bill's regulatory impact statement acknowledges that certain communities will
+[00:19:01] be harder to measure under the new model and may require tailored
+[00:19:04] solutions. The creative sector meets this definition in every
+[00:19:08] respect. Let me be specific about why.
+[00:19:12] The freelance and portfolio work reality.
+[00:19:15] The creative sector has double the number of freelancers and contractors of any
+[00:19:19] other sector in the economy. Our workforce is characterized by
+[00:19:22] multi-occupation, project-based, and good structured employment.
+[00:19:27] Admin data systems built around the employer-employee
+[00:19:30] model are structurally ill-equipped to capture this reality.
+[00:19:35] Most of government policy, including in education and vocational
+[00:19:38] training, is still predicated on an employment model that is simply
+[00:19:42] outdated for our sector. That must change, and this bill is
+[00:19:46] the place to begin fixing it.
+[00:19:49] The IRD single occupation model
+[00:19:53] currently allows only a single occupation to be reported.
+[00:19:57] For a sound engineer who also teaches, composes, and earns royalties from a
+[00:20:00] streaming platform, that single field is not just
+[00:20:04] incomplete, it is misleading. If IRD data becomes a
+[00:20:08] pillar of the new census model, these gaps become structural features,
+[00:20:12] not temporary limitations.
+[00:20:15] The classification code problem is still unresolved.
+[00:20:18] ANZSIC and ANZSOC codes must be updated to reflect the realities of
+[00:20:22] modern and evolving creative and digital economy.
+[00:20:25] The census transition should not proceed without addressing these
+[00:20:29] gaps. The digital industries and the rear view mirror
+[00:20:32] problem. Every industry in our membership is digital, yet existing
+[00:20:36] data systems do not capture the breadth or depth of value created by
+[00:20:40] digital creative work. The new census model must build in
+[00:20:44] live mechanisms to capture emerging digital industries and
+[00:20:47] occupations on an ongoing basis, not simply take a
+[00:20:51] snapshot of where the economy was at the last classification review.
+[00:20:58] The investment and infrastructure gap.
+[00:21:01] We want to be direct with the committee about something that underlies all of this.
+[00:21:05] The minister's announcement framed this bill primarily around cost reduction.
+[00:21:10] Where Create's concern is that building a new census model on admin data
+[00:21:14] that already misrepresents and underrepresents the creative sector
+[00:21:18] and doing so to save money is a false economy.
+[00:21:21] We are skeptical that data of sufficient quality and accuracy sits in
+[00:21:25] government agencies, and that it can be extracted into the data system
+[00:21:29] using resources within agencies' existing budget lines.
+[00:21:33] Data is an economic asset. Its value is seen most
+[00:21:37] clearly in big tech and artificial intelligence companies, where
+[00:21:41] vast volumes of data underpin revenue at scale.
+[00:21:45] The New Zealand government has not sufficiently prioritized or invested in data
+[00:21:49] systems, particularly in the last three decades, as technology
+[00:21:53] change made better data capture more feasible, not less.
+[00:21:57] We have seen
+[00:22:00] what a deliberate and resourced approach to data can
+[00:22:03] deliver. When Toi Māi, the Workforce Development Council for Creative,
+[00:22:07] Cultural, Tech and Recreation sectors was established, it invested in a
+[00:22:11] dedicated data and insights team.
+[00:22:13] That team embedded data thinking at the very start of every project.
+[00:22:17] In many cases, data and insights were captured that would otherwise have not
+[00:22:21] existed and were subsequently useful well beyond their original
+[00:22:24] purpose. That is the level of intentionality and investment
+[00:22:28] that is needed across government if the outcomes that this bill
+[00:22:32] sets out are to be achieved.
+[00:22:35] Here is what we are asking the committee to do.
+[00:22:40] That Stats NZ formally designate the creative sector as a harder
+[00:22:44] to measure community, requiring tailored data collection solutions,
+[00:22:48] and that this designation be written into the transition planning, not
+[00:22:52] left to discretion.
+[00:22:54] Secondly, that the outstanding classification issues with ANZSIC and ANZSOC codes
+[00:22:58] be resolved before the 2030 census transition.
+[00:23:01] Thirdly, that We Create's Data and Insights working group be formally recognized
+[00:23:05] as a co-design partner in the design of the Census Attribute
+[00:23:09] Survey.
+[00:23:10] Fourthly, that the single occupation limitation on IRD admin data be
+[00:23:14] addressed as part of the cross-government admin data improvement program.
+[00:23:18] And finally, that Stats NZ be required to track and publicly report on
+[00:23:22] creative sector data quality as part of the periodic review
+[00:23:26] obligations under the amended act.
+[00:23:29] In closing, the creative sector is one of Aotearoa's most dynamic economic
+[00:23:33] contributors and one of its least visible in official data.
+[00:23:36] We've been making this point to government for over a decade.
+[00:23:40] This bill is an opportunity to finally close that gap or to lock it in for
+[00:23:43] another generation. We are asking you to choose the former.
+[00:23:47] We're grateful for the opportunity to present to you today, and I'd welcome any
+[00:23:51] questions you might have.
+[00:23:53] Thank you, Paula, and particularly recognizing your sector.
+[00:23:57] It is huge and growing, and hopefully grows even more rapidly.
+[00:24:00] So thank you for a bit of a passionate plea about that. Any questions?
+[00:24:04] Got one from Camilla Village.
+[00:24:06] Thank you. We've heard from some other submitters who have concerns about the data,
+[00:24:10] similar to what you've raised in your submission, only for different sectors.
+[00:24:14] And I've just been wanting to follow through with them on what the impact of not
+[00:24:18] improving the data quality would be.
+[00:24:20] So my question for you really is, if these changes aren't made,
+[00:24:23] what is the impact likely to be for your sector?
+[00:24:27] It's stagnation in government policy development.
+[00:24:33] I can give you an example. We're still not counting digital exports
+[00:24:37] in this country, so the value of what the creative
+[00:24:41] sector is exporting isn't visible in government data.
+[00:24:45] When you're looking at what shapes our industry, we're still,
+[00:24:50] another example, if you're a game developer, you're a software
+[00:24:54] engineer. So we're not understanding where the work is happening, where
+[00:24:58] the workforces are,
+[00:25:00] or valuable things like
+[00:25:03] what's happening with exports. That leads to policy developments that
+[00:25:08] we're constantly having to go, "What about us?" in.
+[00:25:11] And being present in places where really the data should be telling the
+[00:25:15] story about where government policy and support should be
+[00:25:19] heading. As industry, we don't feel that we should have to
+[00:25:22] invest quite so much time in doing that to help government do its
+[00:25:26] job.
+[00:25:27] All right, good. I've got a question from Carl Bates.
+[00:25:32] Thanks very much, Chair. Thanks for the presentation, Paula, really
+[00:25:36] appreciated it.
+[00:25:38] You make a very strong argument around the data for your
+[00:25:41] sector. My question is, do you feel that that will
+[00:25:45] be more or less possible in the context of
+[00:25:49] the traditional census? Or do you think that an admin-first
+[00:25:53] approach with the additional focused
+[00:25:56] data collection for industries like yours could achieve that outcome?
+[00:26:02] I'm definitely in the and, and camp, not the either or.
+[00:26:06] I think there is way more we need to do with
+[00:26:10] securing good data in this country that lets us make informed decisions.
+[00:26:15] I'm not suggesting that that solely sits with government, but government obviously
+[00:26:19] has a key role in holding core data about
+[00:26:23] what's happening in the country and the economy as it relates to policy
+[00:26:26] development.
+[00:26:28] We have our own industry
+[00:26:30] who correlate their own data. You'll know from what
+[00:26:34] the committee's been looking at that getting data doesn't come
+[00:26:37] cheaply. So we've got industries with
+[00:26:41] small budgets trying to create their own data in the absence of government
+[00:26:45] data. What we need is that government has the core data, and that
+[00:26:49] anything the industry is doing is over and above that in an area that's of
+[00:26:53] particular interest to the industry.
+[00:26:55] The government having a solid base of core data, I think is the
+[00:26:59] important thing.
+[00:27:01] All right. Hey, thank you, Paula, for your contribution this afternoon.
+[00:27:04] Very interesting.
+[00:27:06] Thank you for having me.
+[00:27:08] Right. Now, we're going to Greater Wellington.
+[00:27:09] I see that we've got a few people on the line.
+[00:27:13] And
+[00:27:14] please come to-- Are you on your own here?
+[00:27:16] But we've got friends-
+[00:27:17] I am
+[00:27:17] ... as well. We've got some on Zoom, have we?
+[00:27:20] Yeah.
+[00:27:21] You should have Darren.
+[00:27:22] Oh, she's something else. Okay. Are you on your own or-
+[00:27:25] Yes. Do you want to come up, Fiona, just in case?
+[00:27:27] Yes, please. Mm-hmm.
+[00:27:29] Fiona's one of our officers.
+[00:27:30] Yeah, good. Fantastic.
+[00:27:32] And we have Darren Potra chairing online. Yeah.
+[00:27:35] Online?
+[00:27:35] Yes.
+[00:27:36] Are they online? Not yet. But anyway, let's not hesitate.
+[00:27:40] If they come online, we'll happily join them.
+[00:27:42] All right. Thank you. Can I just ask a question whether the staff have got
+[00:27:46] this presentation? If not, I can just talk to it anyway.
+[00:27:50] Say that again.
+[00:27:51] Have the staff got a... Oh, no, he was going to put it online.
+[00:27:54] That's okay.
+[00:27:55] We have copies.
+[00:27:56] You have copies.
+[00:27:56] Oh, yeah. Do you want to hand them around? Yeah.
+[00:27:58] It's always a really good idea to have copies.
+[00:28:00] All right, fine.
+[00:28:01] Thank you.
+[00:28:01] But we have got your submission as well, so.
+[00:28:04] That's brilliant.
+[00:28:05] Yeah.
+[00:28:05] Thank you. And-
+[00:28:05] Fine. So just take it as read.
+[00:28:07] I'll take it as read.
+[00:28:08] And we're all fast readers here. Thank you. We can share even better.
+[00:28:12] No.
+[00:28:12] Because we're a collegial group up here.
+[00:28:14] Excellent.
+[00:28:16] Great to hear.
+[00:28:16] All right, fantastic. Let's proceed.
+[00:28:18] All right. I'll introduce myself first. I'm Claire Johnston.
+[00:28:21] I'm a regional councilor, first term,
+[00:28:25] representing the Porirua, Tawa area, but this presentation is, of course,
+[00:28:29] on the whole region. Why are we presenting on this bill?
+[00:28:34] We're doing this because as an organization making evidence-based
+[00:28:38] investment decisions for our communities means that we have to
+[00:28:42] actually understand our data to make those decisions. It's pivotable.
+[00:28:45] Robust data matters.
+[00:28:48] We're responsible as a regional council for long-term network and
+[00:28:51] place-based planning across transport, land use,
+[00:28:55] infrastructure, emergency and hazard management, and of
+[00:28:59] course, for resilience.
+[00:29:02] We plan and invest over a 20 to 50 year timeframe,
+[00:29:06] and often for assets that will span across many generations.
+[00:29:10] Our decisions balance the growth, safety, equity,
+[00:29:14] and environmental protection, and should always be value for
+[00:29:18] money.
+[00:29:20] We're required by legislation to base our decisions on sound evidence and
+[00:29:23] robust data. As a councilor, I always expect
+[00:29:27] evidence and robust data.
+[00:29:31] Regional spatial planning and how we plan our region and how we consolidate
+[00:29:34] urban growth around existing growth corridors, how we pair
+[00:29:38] urban growth with economic development, how we stage growth over time,
+[00:29:42] all matter.
+[00:29:44] The bulk water supply is another issue.
+[00:29:46] How do we anticipate population growth with water supply
+[00:29:50] when we make these investment decisions?
+[00:29:53] Water, of course, is up for debate at the moment, but it's really important you
+[00:29:56] have consistent information and understand where your region's going.
+[00:30:01] Rural and urban flood protection, the level we
+[00:30:05] build at flood protection and schemes, is that one to 50
+[00:30:08] protection? Is it one to 500 protection?
+[00:30:11] Or do we
+[00:30:12] take into account, since January, I think we've had
+[00:30:16] 72 incidents of national or district
+[00:30:20] emergency management issues.
+[00:30:23] Public transport is big for the Greater Wellington Regional Council.
+[00:30:27] It's probably the area that I get asked the most questions
+[00:30:30] about-We have to have really good
+[00:30:34] information, a really good understanding of our population and where our population
+[00:30:38] works, and where our population goes to school, and where they get
+[00:30:41] to.
+[00:30:44] So why does it matter to us? Why census?
+[00:30:48] GWRC combines the latest science with historical data,
+[00:30:52] current information, future forecasting.
+[00:30:55] We also have to understand the patterns.
+[00:30:58] We use these assessments to develop our policy to make the
+[00:31:02] investment decisions, land use planning, and as I said,
+[00:31:06] emergency planning.
+[00:31:08] We can't function on fragmented
+[00:31:11] population data.
+[00:31:13] Disaggregated and administrative data sets only work when
+[00:31:17] anchored to a strong, centrally collected national
+[00:31:20] population count.
+[00:31:22] I've personally watched, over the years,
+[00:31:26] data that isn't collected properly or it's inconsistent in its
+[00:31:30] collection. I've seen it particularly in economic data.
+[00:31:34] If you weaken the national collection,
+[00:31:37] it leaves regional councils carrying planning, emergency, fiscal,
+[00:31:41] and equity consequences without a reliable
+[00:31:45] evidence base.
+[00:31:47] Census data presents a single source of truth that we
+[00:31:51] and our communities and iwi can build and get behind
+[00:31:55] when we're making decisions.
+[00:31:58] Central population statistics are critical to regional
+[00:32:02] infrastructure.
+[00:32:04] They provide a single authoritative population baseline that we rely
+[00:32:09] on.
+[00:32:10] Decisions to invest in 30 to 100-year lifespans must be based on
+[00:32:14] good data.
+[00:32:15] Emergency management depends on that data.
+[00:32:19] Hazard management depends on it. So does statutory planning,
+[00:32:24] and legal defensibility is weakened if you don't have
+[00:32:27] evidence. The costs and the
+[00:32:30] responsibility could fall onto councils if we have no
+[00:32:34] solution. That concerns me because collecting data is
+[00:32:38] imperative. You can't have inconsistency.
+[00:32:41] You can't have one region collecting data one way and
+[00:32:45] one collecting it another. There must be consistency.
+[00:32:50] It also affects you as policymakers.
+[00:32:53] If you can't see the whole,
+[00:32:55] you risk fragmentation in your
+[00:32:59] own policy decisions.
+[00:33:02] So the bottom line for us is weakening national population
+[00:33:05] collection does not empower regions.
+[00:33:08] It fragments the system, it increases the risk, and it
+[00:33:12] undermines some of those critical infrastructural decisions.
+[00:33:17] We do support innovation, and the use of administrative data
+[00:33:21] needs to improve.
+[00:33:23] We acknowledge there have been problems with efficiency and
+[00:33:26] timeliness.
+[00:33:29] However, it's essential that the new model continues to provide accurate,
+[00:33:33] trusted, and sufficiently granular population data at
+[00:33:37] a regional, territorial, and community level, as well
+[00:33:41] as your national level.
+[00:33:43] To conclude, it comes down to the quality and detail of the data.
+[00:33:47] We're reminded that New Zealand does not have a great track record
+[00:33:51] in large-scale data projects.
+[00:33:55] The challenge to this select committee is to ensure that for the transition,
+[00:33:59] organizations like Greater Wellington will continue to have robust and
+[00:34:03] reliable data from which to make our decisions.
+[00:34:07] Flying blind in the future does not really bear
+[00:34:11] thinking about. We cannot do that.
+[00:34:14] Right. Mr. Ponter, do you want to say anything, or anyone else?
+[00:34:20] You're on mute, Darren.
+[00:34:22] Kia ora. Kia ora, Mr. Chair. Kia ora, members.
+[00:34:25] No, very eloquently presented by Councillor Johnson. Thank you.
+[00:34:28] I think the underlying thing here is that we are making billion-dollar decisions.
+[00:34:32] We're often doing that on a co-investment basis with the government.
+[00:34:37] And so the issues that Claire has put on the table with you
+[00:34:41] about reliable
+[00:34:43] data relates as much as anything else to our relationship with
+[00:34:47] our co-funding partner, which in most cases is the government.
+[00:34:51] Okay, cool.
+[00:34:53] Right. Members, questions?
+[00:34:56] Right. Camilla Village.
+[00:34:58] Thank you. Thanks both of you here, and Darren as well,
+[00:35:02] for your attendance and for your submission.
+[00:35:05] We did have a question in an earlier submission about
+[00:35:08] the use of data collected through rates,
+[00:35:12] and I just wanted to put it to you as the first council
+[00:35:16] that we've spoken to since then. What information do you get from
+[00:35:20] collecting rates, and what's the limitation on that in terms of the
+[00:35:24] overall
+[00:35:26] information that you can gain through-
+[00:35:27] I can make a comment on where I think the limitations are, but I'm going to let
+[00:35:30] Diana or Darren to speak to it.
+[00:35:33] Yeah. So, thank you, Camilla.
+[00:35:36] A rather unique situation for regional councils.
+[00:35:38] Most regional councils rate via the territorial authority.
+[00:35:42] So, you receive your... Well, if you're in Auckland, it's a different set of
+[00:35:46] circumstances altogether. But in this region, the
+[00:35:49] Kāpiti District Council, for example, rates for us
+[00:35:53] in the Kāpiti area. They get that
+[00:35:56] data. We don't generally interrogate
+[00:35:59] that data.
+[00:36:01] We wouldn't generally base large investment decisions like a
+[00:36:05] billion-dollar
+[00:36:07] water collection scheme, which is on the cards for us, we wouldn't
+[00:36:11] generally base that on rating information.
+[00:36:14] We would base that on census projections about how the population is
+[00:36:18] likely to change over the next 20 to 50 years.
+[00:36:22] All right. Hey, well, thank you for your submission.
+[00:36:25] Thank you for coming in person. That's always nice.
+[00:36:28] But comprehensive submission. Thank you.
+[00:36:31] Thank you very much.
+[00:36:31] Thank you.
+[00:36:32] And following on, and with that same vein, we're going to Local Government New
+[00:36:36] Zealand
+[00:36:43] They're on the line, you can see them? Yeah. Okay.
+[00:36:46] If you're there, we're looking forward to hearing from you, from local government.
+[00:36:54] Kia ora.
+[00:36:56] Hello, Fran. How are you going?
+[00:36:58] I'm well, thank you. Good to see you today.
+[00:37:01] So I'm here as Mayor of South Wairarapa,
+[00:37:04] with Palmerston North Mayor, Grant Smith, who I hope is also online somewhere.
+[00:37:08] Hey, so Fran, sorry to interrupt, we can't see you.
+[00:37:11] It's very, very blurry. So-
+[00:37:13] You can't s- how's that?
+[00:37:16] No, we can't see anything. We just see a blurry-
+[00:37:19] Okay
+[00:37:19] ... something in front of your camera, I think.
+[00:37:21] My video is on.
+[00:37:25] That's weird. I can see you p- oh, you're right. It is blurry.
+[00:37:28] It's like something's-
+[00:37:29] I can see it
+[00:37:30] ... in front of the camera. You're just about in-
+[00:37:32] No, my camera is completely free. Um-
+[00:37:35] Anyway
+[00:37:36] ... and I don't, I can't... I'm not sure what's happened there.
+[00:37:39] Doesn't matter. We can hear you, for sure.
+[00:37:40] I don't want to get out of it and get in again because I won't get in again.
+[00:37:43] No.
+[00:37:45] So if it's okay, maybe I'll just talk.
+[00:37:48] I'm not sure-
+[00:37:48] Yes. Yeah, that's great
+[00:37:49] ... why the camera is obscured, but I'm looking, doing it on my laptop
+[00:37:53] and there's nothing in front of it.
+[00:37:55] So, I'm here for Local Government New Zealand, and Grant Smith
+[00:37:58] also. So councils are now seeing their populations changing in
+[00:38:02] more diverse ways than we ever have in the last 50 years,
+[00:38:06] and to plan ahead, we need population stats about small
+[00:38:10] areas. For example, measures such as the Deprivation
+[00:38:13] Index, which is derived from the census and
+[00:38:16] provides mesh block data. Every council
+[00:38:20] is going to be affected differently by the growth in the elderly population, but
+[00:38:24] there are other trends impacting also.
+[00:38:26] For example, changes in farming practice, less dry stock, more
+[00:38:30] forestry, have had major population impacts in some rural
+[00:38:34] areas. And on the other hand, in urban areas, growth in
+[00:38:38] retirement villages or growing concentrations of
+[00:38:41] townhouses have driven changes in demand for services.
+[00:38:45] Although population projections provide reliable signals of things to
+[00:38:49] come, councils also need much more local knowledge.
+[00:38:53] Currently, there's just insufficient evidence that the use of the records
+[00:38:57] from government agencies, which will be dated, will give us the data we
+[00:39:01] need. Councils are in the front line in the provision of information and
+[00:39:05] managing public interest, but in an increasingly cost-con-
+[00:39:09] constrained environment with a rates cap looming.
+[00:39:12] We see this every day. For example, we're managing historical
+[00:39:16] underinvestment in infrastructure.
+[00:39:18] The cost of relocating this capital investment would be
+[00:39:22] prohibitive once it's established.
+[00:39:24] So we need to get as much data as possible, along the lines of what Greater
+[00:39:28] Wellington have just said. Regarding services, there's low political
+[00:39:32] tolerance of loss or reduction resulting from change in population
+[00:39:35] structure, and we don't want to be in a worse position than we are
+[00:39:39] now in forecasting future needs.
+[00:39:43] We're currently in a period of radical population change, and
+[00:39:46] after two failed censuses, local government needs
+[00:39:50] assurance that there's more behind this than third time lucky.
+[00:39:54] There've been increasing calls for the select committee to establish an independent
+[00:39:58] review of the proposals, and we support that.
+[00:40:01] Lastly, it's ironic that we're here today by accident rather
+[00:40:05] than being properly involved by Stats New Zealand.
+[00:40:07] As a significantly affected group, we'd expect to have had a high
+[00:40:11] level of engagement on such sweeping changes.
+[00:40:15] Local government should be seen by Stats NZ as a useful partner
+[00:40:19] with which they can work, even when planning a census.
+[00:40:22] We can provide local knowledge to enable robust decisions about
+[00:40:26] the resources required to do the job properly.
+[00:40:29] This didn't happen in 2018 or '23. There were
+[00:40:32] preventable mistakes, such as Haast being missed out completely
+[00:40:37] and Kawerau grossly undercounted.
+[00:40:39] Saving money by abandoning the census or not
+[00:40:43] undertaking it properly is just wrong, and future
+[00:40:47] planning will be seriously impacted by not having adequate, correct data
+[00:40:51] on which to base decisions.
+[00:40:54] Thank you, Andrew, Mr Chair. That's all for me, and-
+[00:40:57] Okay
+[00:40:58] ... hopefully Grant will have a couple of comments, and then we've got questions if
+[00:41:01] you wish.
+[00:41:04] Grant, please.
+[00:41:06] Yes. Hi, Chair Andrew. Thanks,
+[00:41:11] Mayor Fran. Look, I think Fran has summed up all the detail
+[00:41:15] very well. But look, we understand the fiscal conditions are tight.
+[00:41:19] But a census is really, really fundamental to effective
+[00:41:23] decision-making. We're just going through our annual budget, and giving an example,
+[00:41:26] our Pasifika community, which is quite large with about sort of 6 to
+[00:41:30] 7,000 people, came in and they do feel some of the
+[00:41:34] data around their sector isn't
+[00:41:38] as good as it could be. So,
+[00:41:40] abandoning a proper census would
+[00:41:44] possibly make that even worse.
+[00:41:46] Look,
+[00:41:48] we do think most Western countries have a form
+[00:41:52] of a census. It isn't the traditional
+[00:41:57] one survey type, but there are many different hybrids.
+[00:42:01] And we do think that if we don't do that, and the
+[00:42:04] 2004
+[00:42:06] independent evaluation panel said New Zealand wasn't ready to
+[00:42:10] move to the administration model.
+[00:42:12] So we do, from a position of knowing our local
+[00:42:16] communities really, really well, we're absolutely sensing this could
+[00:42:20] be an absolute disaster for future planning.
+[00:42:24] If there isn't a little bit of thought given to, and again, I understand the
+[00:42:28] fiscal requirements,
+[00:42:30] but putting back something in that census space, because
+[00:42:33] we've just seen how unreliable some of the
+[00:42:37] individual government departments and administrative
+[00:42:41] budgeting has been. I'll leave it at that. Ralph, have I missed anything?
+[00:42:47] Well, that sounds all good. Thanks, Grant.
+[00:42:49] All right, good. Thank you. Now, I've got a question from Todd Stevenson.
+[00:42:52] Thank you, and thank you both for your presentation.
+[00:42:56] And
+[00:42:57] disappointing, Fran, to hear that,
+[00:42:59] yeah, you weren't properly engaged in the-
+[00:43:01] Do you want me to wave my finger on your behalf, Fran?
+[00:43:04] Yeah. We can see you.
+[00:43:05] I can see you and hear you .
+[00:43:07] We can see you.
+[00:43:08] I'm just-
+[00:43:09] Yeah. I have a different question, though, because obviously, I think it is
+[00:43:12] important that local government is engaged with Stats New Zealand.
+[00:43:16] Has there been an engagement, because obviously local government holds a whole lot
+[00:43:19] of administrative data. Has there been any engagement, to your knowledge, with
+[00:43:23] Stats New Zealand about getting access to that administrative data?
+[00:43:27] Well, Ralph would have to answer on behalf of LGNZ, but certainly none in our
+[00:43:30] council and none that I know of.
+[00:43:36] No, I'm not aware of any engagement of Stats New Zealand with LGNZ.
+[00:43:40] All right. Well, that's it. Thank you.
+[00:43:40] Can I-- I might also, Mr. Chairman, answer Camilla's
+[00:43:44] previous question about rates data.
+[00:43:47] We can't use that for other reasons.
+[00:43:49] We'd love to be able to use our rates data and to be able to talk to our citizens
+[00:43:53] about all sorts of things, but you're actually not allowed to.
+[00:43:58] Okay.
+[00:43:59] And just to chime in from a city perspective.
+[00:44:03] We've had some real issues in the past with soldiers being
+[00:44:06] unaccounted for when they've been on deployment, and I'm talking thousands of
+[00:44:10] people.
+[00:44:12] We've had international students, and again, we have thousands of those, and
+[00:44:16] how they are properly counted. So just some of that population
+[00:44:21] database, it does become very, very difficult, and we just don't
+[00:44:25] seem to, to Todd, to answer your question properly, have all the dots really joined
+[00:44:29] up.
+[00:44:30] No.
+[00:44:31] Good. All right. Thank you, your worships, for your
+[00:44:35] contribution. Been very helpful and revealing, actually.
+[00:44:39] And no doubt we'll be asking some questions. Thank you for your time.
+[00:44:42] Very much.
+[00:44:43] Thank you.
+[00:44:44] Thank you.
+[00:44:46] Right. Now, we're going to Professor Kara, I hope.
+[00:44:50] Is that right?
+[00:44:52] Yeah. Nice to see you. Now, we've
+[00:44:56] got
+[00:44:58] 10 minutes with you.
+[00:45:00] Oh, .
+[00:45:01] Thank you, Mr. Chairman and Committee, for the opportunity to speak here on
+[00:45:04] behalf of Tangira, the Institute for Population Research at the
+[00:45:08] University of Waikato.
+[00:45:10] We certainly welcome the opportunity to comment on the Data and Statistics
+[00:45:14] Amendment Bill, and the associated Electoral
+[00:45:18] Amendment Bill, which together, as we have been hearing today,
+[00:45:21] fundamentally
+[00:45:23] shift the collection, analysis, use, and quality of population-level
+[00:45:27] information here in Aotearoa, New Zealand.
+[00:45:30] So really, unlike local government New Zealand,
+[00:45:34] Tangira, the Institute for Population Research, is a
+[00:45:38] trusted consultation partner of Stats New Zealand.
+[00:45:42] And we have been engaged along the ride
+[00:45:46] o-of the census modernization approach.
+[00:45:49] We
+[00:45:51] include Professor Tahuhaku Kutaia, who's an
+[00:45:54] internationally recognized expert in indigenous data sovereignty,
+[00:45:58] and who was involved, in fact, in the checking of the quality of the
+[00:46:02] administrative data sources when they were used to backfill
+[00:46:06] gaps in the 2018 census. We
+[00:46:09] also include Dr Jesse Whitehead, who was a member of the
+[00:46:13] expert independent panel on the census that we have also
+[00:46:18] heard about today. And myself, I'm a member of the
+[00:46:21] Pacific Data Sovereignty Committee, which has a memorandum of understanding
+[00:46:25] with Stats New Zealand and worked to support
+[00:46:28] Pacific representation and engagement in the previous
+[00:46:32] census. And I've also been a member of the Ethnicity
+[00:46:36] Data Standards expert advisory group.
+[00:46:40] So all of that engagement re-- means that Stats New Zealand
+[00:46:44] will not be surprised with the focus of our submission,
+[00:46:48] and that we strongly oppose this bill,
+[00:46:51] and really have significant concerns, expert
+[00:46:55] concerns,
+[00:46:57] about the implications and the risks associated with this bill.
+[00:47:01] I'm noting that our submission has been read by the committee.
+[00:47:05] I just wanted, really, the opportunity to speak today to a couple of
+[00:47:08] points that speak not only to the bill and the wording of the bill,
+[00:47:13] but actually also the wording of the regulatory impact statement
+[00:47:17] that accompanies the bill, noting that this is
+[00:47:20] described as an interim RIS, and that there would
+[00:47:24] have intended to have been a future RIS that described
+[00:47:28] further information that I think is really pertinent to this committee's
+[00:47:31] decision, but also to cabinet-related decisions.
+[00:47:36] And the first point really is, as we all know, the bill removes
+[00:47:40] the requirement for the five-yearly fully enumerated census of
+[00:47:44] population and dwellings. The text of the bill instead
+[00:47:47] requires the government statistician to publish in each financial year
+[00:47:51] statistics from a census of populations and dwellings.
+[00:47:55] I think it's really important to recognize how we are not meeting
+[00:47:59] the definition of a census, even in the wording of this bill.
+[00:48:03] And in fact, the RIS describes that one of the objectives is to
+[00:48:07] ensure an ongoing supply of population data
+[00:48:11] that meets international best practice and international standards.
+[00:48:15] But we are not meeting international standards or international b-best
+[00:48:19] practice of a census by using administrative data
+[00:48:23] in this model. We are not seeking full enumeration.
+[00:48:26] It is not sim-simultaneous. We cannot produce small area
+[00:48:30] statistics.
+[00:48:32] And all of these things are international requirements for a census.
+[00:48:36] I'm not entirely sure that even if this bill was to be enacted,
+[00:48:40] that the government statistician would be able to fulfill that
+[00:48:42] requirement.And it is
+[00:48:46] indeed attractive to have greater frequency of population statistics and
+[00:48:50] to be more efficient in the way that we use the administrative data that we
+[00:48:54] are collecting, and we are collecting more and more administrative data.
+[00:48:58] We here in Tangira, we're involved in establishing the IDI lab at the
+[00:49:02] University of Waikato, and we work on a number of projects using
+[00:49:06] administrative data.
+[00:49:08] But it's also important to understand those
+[00:49:11] contextual features, and indeed, the contextual features
+[00:49:14] associated with the sort of carrot of frequency of annual data
+[00:49:18] collection. While it may indeed be very possible to
+[00:49:22] collect and to link data
+[00:49:25] at one point in time and to start that on an annual
+[00:49:29] cycle from 2030, it's not necessarily
+[00:49:33] when that data has been collected.
+[00:49:35] Might be linked at that time, but that data might have been collected some time
+[00:49:39] ago. And the longer and longer we get away from a population
+[00:49:43] census, the more we don't understand actually about
+[00:49:46] the accuracy of that data and the timing of that data collected.
+[00:49:50] So frequency is not really potentially all that it's cracked up to be.
+[00:49:55] I also wanted to specifically point to another reason why this new model
+[00:49:59] is being proposed. As described in the RISZ and in other Stats
+[00:50:03] NZ documentation and in many consultation engagements we've
+[00:50:07] been involved in,
+[00:50:09] it's described that this responds to the emerging data needs of key
+[00:50:13] population groups and also responds to the ability of our
+[00:50:16] administrative data
+[00:50:18] to provide key census variables. In this
+[00:50:22] documentation, the key population groups that are described include
+[00:50:26] Māori, Pacific, rainbow communities, families, those
+[00:50:30] living in specific geographic locations, those experiencing
+[00:50:34] disability, those experiencing homelessness.
+[00:50:37] Key variables described include detailed ethnicity,
+[00:50:41] multi-ethnicity, languages spoken, housing
+[00:50:44] quality. But actually, all of these variables are really the
+[00:50:48] ones that will not be replaceable within the
+[00:50:52] administrative data. These populations are the ones that will
+[00:50:56] have differential missingness. Differential missingness that we
+[00:50:59] know will result in differential targets and
+[00:51:03] differential policy provision, which will have
+[00:51:06] outcomes for those populations and for Aotearoa society
+[00:51:10] as a whole. As we know, exacerbated inequities are enormously
+[00:51:14] costly for us as a society. And then finally, on
+[00:51:18] that issue of cost, one of the solutions proposed to these
+[00:51:22] critical and differential failings of administrative data
+[00:51:26] include the census attribute survey that we've been hearing about
+[00:51:30] and ensuring that there are tailored solutions for key
+[00:51:33] populations groups. I think it's really important to
+[00:51:37] understand that we don't know enough about these solutions
+[00:51:41] in order to let this bill proceed. We
+[00:51:45] don't know the size of that survey.
+[00:51:47] The size of the survey that's been proposed has already been
+[00:51:51] reduced from 5% to 3%. We don't know that mode.
+[00:51:55] I think it might be an online survey, which again, will provide
+[00:51:59] quite differential quality.
+[00:52:02] We don't know the sampling frame. Without a census, you don't have that
+[00:52:05] population understanding on which to draw your sample from.
+[00:52:10] And most importantly, we don't know the costs of this census.
+[00:52:13] We also don't know the costs that are required across government to
+[00:52:17] improve administrative data, and we haven't had any assessment of the
+[00:52:21] enormous costs of doing this wrong.
+[00:52:24] So therefore, we strongly oppose this bill, and we support the need
+[00:52:28] for an independent review. We support the need to consider a
+[00:52:31] population register and a dwelling register in Aotearoa in order to
+[00:52:35] improve these baseline understandings of our population before we
+[00:52:39] even think about such transitions.
+[00:52:42] And we support the need for a continued actual full
+[00:52:46] enumeration census in the meantime, so that we don't make
+[00:52:50] costly decisions that have a differential impact.
+[00:52:53] Kia ora.
+[00:52:55] Thank you very much. Now,
+[00:52:59] any questions? Look, we've heard many of the points
+[00:53:03] before. It's not to say that they're not valuable, but thank you very much for your
+[00:53:07] paper and
+[00:53:09] just reiterating those points today. Thank you.
+[00:53:12] Kia ora.
+[00:53:13] Right. Now we're going to New Zealand Council for Civil
+[00:53:17] Liberties. Yeah, cool. Lovely.
+[00:53:23] Now we've got 10 minutes with you.
+[00:53:25] Great. Tēnā koutou. My name is Stephen Ensor.
+[00:53:27] I am the deputy chair for the Council for Civil Liberties, and I am perhaps
+[00:53:31] foolishly going to depart from my prepared remarks to be more in
+[00:53:35] conversation with things that other people have said.
+[00:53:37] Cool.
+[00:53:37] First, the council would like to tell the committee that
+[00:53:41] Statistics New Zealand is the government agency that engages with us
+[00:53:45] most effectively.
+[00:53:47] We meet with them regularly. They are quite open and friendly and
+[00:53:51] speak openly with us about important things, and we wish that other
+[00:53:55] agencies, primarily Corrections, would be vastly more
+[00:53:59] open in answering to our concerns.
+[00:54:02] So we'd like to thank them for that.
+[00:54:04] Good to hear.
+[00:54:06] The council's message for you, for this committee, for Parliament is simple.
+[00:54:11] We can and should conduct a full enumeration survey census
+[00:54:15] in 2028.
+[00:54:19] The narrative that we've heard
+[00:54:22] from Statistics New Zealand and the minister, that we have to do away with the
+[00:54:25] census, that it's too expensive,
+[00:54:28] and that they have a new approach. We do not have
+[00:54:32] confidence
+[00:54:34] that the new approach is ready, and we do not believe that the case has been
+[00:54:37] made that we need to abandon the approach that we have been
+[00:54:41] using. The council cares deeply about the census and about our
+[00:54:44] democracy because we believe that those are foundations for having civil
+[00:54:48] liberties.We're not alone in that belief.
+[00:54:51] We cited that the Committee for the Elimination of Racial Discrimination's
+[00:54:55] comments in our written submission.
+[00:54:57] We believe that every one of the human rights committees will have the same thing
+[00:55:00] to say,
+[00:55:02] that if we are intentionally reducing the quality of the data that we are
+[00:55:05] collecting,
+[00:55:07] we should expect the outcomes that we are producing to decline
+[00:55:10] in step with that.
+[00:55:14] These bills do not merely
+[00:55:17] reduce the quality of the civil liberties and the freedoms that people will be
+[00:55:20] encouraging. They are going to reduce the quality of every last government
+[00:55:24] service.
+[00:55:25] The data that we require to make government decisions
+[00:55:29] comes from the census, and if we reduce the quality of that data,
+[00:55:33] then the government will inevitably make less good decisions.
+[00:55:40] Finally,
+[00:55:41] these bills are doing more than removing essential government
+[00:55:44] supports.
+[00:55:46] We have been systematically dismantling safeguards designed to
+[00:55:50] prevent mass surveillance.
+[00:55:53] The council has been working for some time with Statistics New Zealand about
+[00:55:57] the IDI. We are opposed to the way that the IDI
+[00:56:01] operates.
+[00:56:02] We
+[00:56:04] believe that the new ISDS is a technically superior system, and it
+[00:56:08] has better safeguards. But the whole process is not one
+[00:56:12] that we believe in. We believe that the government should not be
+[00:56:16] combining data from all of its administrative systems into one system
+[00:56:20] to give it a panopticon view of every individual's life.
+[00:56:25] What would it do instead?
+[00:56:28] What we did before.
+[00:56:30] Every ministry takes care of its own information.
+[00:56:32] Right.
+[00:56:32] The administrative data is collected for a single purpose, right?
+[00:56:36] That's in its definition, and it is fit for that purpose.
+[00:56:39] And when you start combining data from different sources that were collected for
+[00:56:42] different purposes,
+[00:56:44] you start
+[00:56:45] introducing all kinds of operational and civil liberties risks.
+[00:56:49] Okay.
+[00:56:50] Finally,
+[00:56:52] it was just mentioned, the population registry was just mentioned.
+[00:56:56] The council is opposed to a population register for the
+[00:57:00] same reasons that we just talked about, about the IDI.
+[00:57:05] And we also
+[00:57:06] would like to reiterate our call for an independent review
+[00:57:10] to be commissioned on the proposals.
+[00:57:14] There is a lot of detail in our written submission-
+[00:57:15] No, that's-
+[00:57:16] We hope you have some questions.
+[00:57:17] I've got a question from Rima Nunkeley.
+[00:57:21] Thanks, Mr. Chair.
+[00:57:24] You just said that collecting data from different
+[00:57:28] government sources, admin sources,
+[00:57:31] poses civil liberties risks. Can you give, for our audience, an
+[00:57:35] example of
+[00:57:37] one or more of those risks that you can think of, that come to your head?
+[00:57:43] So the primary risks are outcomes of
+[00:57:47] surveillance. Right? The more the government knows about you, the
+[00:57:51] more that it's possible to
+[00:57:53] single you out and
+[00:57:56] interact with you based on
+[00:57:59] specific information.
+[00:58:01] Right? The
+[00:58:04] Yeah, I've stuck my foot in it now. This whole system we have for
+[00:58:08] controlling government information flows stems from controls that were enacted
+[00:58:12] after the Second World War to prevent our governments from being able to do
+[00:58:16] the things that Nazi Germany did.
+[00:58:19] Okay, thank you.
+[00:58:20] Can I supplement you, if I can, Mr. Chair?
+[00:58:22] Okay.
+[00:58:23] Thanks for that, but the information already
+[00:58:26] exists. So how do you
+[00:58:31] foresee the
+[00:58:33] risk happening if the information is already there?
+[00:58:36] And I can understand there's a lot of people that have those concerns.
+[00:58:40] I get those concerns sometimes as well.
+[00:58:42] There is a difference between having the information there
+[00:58:46] potentially and having the information there in a format that's ready to use.
+[00:58:50] All right. Now I've got a question from Todd Stevenson.
+[00:58:54] Thanks. I think there's probably a lot more we could do about
+[00:58:57] the visibility to citizens about the data the government holds.
+[00:59:00] So I agree with you on that point. But interested, and actually totally something
+[00:59:03] that no one else has recommended. Your recommendation five, and
+[00:59:06] actually we heard earlier that around 500 people
+[00:59:11] after a census are
+[00:59:15] charged or whatever fine for not doing it.
+[00:59:17] And yours is a point around changing the onus, I'm assuming, for
+[00:59:21] those prosecutions?
+[00:59:25] Fundamentally, we don't think that forcing people to answer
+[00:59:29] government surveys is going to result in better data quality.
+[00:59:34] And so
+[00:59:37] our whole perspective on the issue is that
+[00:59:41] if people aren't going to voluntarily provide the
+[00:59:44] information, that
+[00:59:46] coercive tactics are not appropriate.
+[00:59:49] Right. So you're recommending that we make a change to the, yeah, basically the
+[00:59:53] onus of proof.
+[00:59:54] Yeah.
+[00:59:54] But your point has got to be a willingness rather than a requirement.
+[00:59:58] Yeah.
+[01:00:01] There is a risk that if we just force everyone to provide an answer, that the
+[01:00:04] quality of the answers we get starts declining.
+[01:00:06] Yeah.
+[01:00:07] All right. Pete, thank you for your contribution, and thank you for waiting
+[01:00:11] patiently.
+[01:00:12] Thank you.
+[01:00:14] Now, I'm
+[01:00:16] hoping Alan Keegan is here, and I thought that was you.
+[01:00:19] I've read your name before. So do you want to come to the front
+[01:00:23] here?
+[01:00:23] Thank you, Mr. Chair.
+[01:00:26] Now we've got
+[01:00:28] five minutes with you.
+[01:00:29] Okay. So my name is Alan Keegan.
+[01:00:32] Yeah.
+[01:00:32] I'm a statistician that's worked in the public sector for about 15 years.
+[01:00:37] With respect to all of the people that already presented, they've told you
+[01:00:40] about data quality, social license, all those
+[01:00:44] sorts of things. But I think if that really mattered, none of us would be here
+[01:00:48] today. People have been saying this-For the Data and
+[01:00:52] Statistics Act Bill 2022. They've said it for the census
+[01:00:56] reviews.
+[01:00:57] Some of the people who have spoken today
+[01:01:01] were selected by the government to give advice on those, or to chair
+[01:01:05] those, or be involved with those. But
+[01:01:12] so I'm not convinced that
+[01:01:16] data and evidence is going to persuade you.
+[01:01:18] So the only thing that's left is to actually just
+[01:01:21] tell you that it's not in your own personal self-interest as
+[01:01:25] ambitious politicians. Most of you are
+[01:01:29] fairly new to Parliament, elected in 2023 or later.
+[01:01:33] It's just,
+[01:01:35] really,
+[01:01:36] are you sure you want to do this?
+[01:01:39] Is what I'm saying.
+[01:01:41] Hang on. Where did that
+[01:01:45] go?
+[01:01:48] We're
+[01:01:49] not in a benign statistical environment anymore.
+[01:01:54] The statistics portfolio is not just
+[01:01:58] a
+[01:02:00] nice training wheels portfolio for new up-and-coming
+[01:02:04] ministers or a signal from the Prime Minister that you're on a
+[01:02:08] performance improvement plan.
+[01:02:12] The statistics portfolio is going to make or break your career in the future, I
+[01:02:16] think.
+[01:02:18] So this is what you're signing up for.
+[01:02:21] I'm giving you some real-life examples of how administrative data
+[01:02:25] doesn't always tell you the truth about the world.
+[01:02:28] So, in the 1980s, millions of children disappeared
+[01:02:32] overnight in the United States,
+[01:02:34] not because there was a massive abduction of children, but
+[01:02:38] because the Inland Revenue Service required
+[01:02:41] parents to add their children's Social Security
+[01:02:45] numbers to their tax returns.
+[01:02:49] Here in New Zealand in the 1990s,
+[01:02:53] the Māori mortality rates jumped,
+[01:02:56] not because there was a massive reduction in their health,
+[01:03:00] but because ethnicity was started to be required
+[01:03:03] on death certificates.
+[01:03:07] A more personal example, when I worked for the Ministry of Health, I
+[01:03:11] was looking at costing data
+[01:03:13] for hospital procedures.
+[01:03:16] I personally saw data where, for
+[01:03:20] the most lengthy and complex orthopedic
+[01:03:24] operations with metal implants,
+[01:03:27] for some DHBs, according to their systems,
+[01:03:30] those implants cost $0.10 each.
+[01:03:35] And in terms of-
+[01:03:37] Why would they only cost $0.10?
+[01:03:40] They didn't.
+[01:03:42] They cost hundreds or thousands of dollars.
+[01:03:43] Yeah, I know, but why did they make them $0.10?
+[01:03:45] Because the
+[01:03:47] way that the data attributes it.
+[01:03:51] For those that you might be familiar,
+[01:03:54] the analysis was for what they call purchase units.
+[01:03:59] Yeah.
+[01:04:00] And do you attribute... Well,
+[01:04:02] I'll use something like basic supplies,
+[01:04:06] like bandages, Panadol, what have you.
+[01:04:09] How do you attribute that to the patient, or to the ward, or to the
+[01:04:13] days?
+[01:04:14] Yeah, cool.
+[01:04:15] Yeah.
+[01:04:16] That's the
+[01:04:17] reason. And
+[01:04:22] in terms of your
+[01:04:26] own personal self-interests as ambitious politicians,
+[01:04:30] who, you want to
+[01:04:32] get reelected this year, I think.
+[01:04:35] You want to make it into
+[01:04:37] cabinet.
+[01:04:39] The census is the backbone
+[01:04:43] of one of the resources at your disposal that
+[01:04:47] hasn't been carved off exclusively by the executive.
+[01:04:53] You're surrendering what little control that you have over the
+[01:04:57] data and advice that you're given, that you get given from public
+[01:05:01] servants like me,
+[01:05:04] to the hands of
+[01:05:07] generic middle managers who aren't
+[01:05:11] statistically literate,
+[01:05:14] or the ones that don't understand how the system works.
+[01:05:17] The ones that don't understand, for example, that you're counted as employed if
+[01:05:21] you work only one hour per week, or that house prices aren't included
+[01:05:25] in the consumer price index.
+[01:05:28] And
+[01:05:32] the alternative to having
+[01:05:35] a
+[01:05:37] high-quality census and a high-quality infrastructure around it is
+[01:05:40] that
+[01:05:42] your ability to
+[01:05:45] service your electorates, your communities, is going to be impacted.
+[01:05:50] Do you think a first-term backbencher is going to
+[01:05:54] be able to afford, in their budget, lots of data
+[01:05:57] scientists and consultants to get information
+[01:06:01] when, for example,
+[01:06:04] if you're trying to advocate for your kōhangatanga in
+[01:06:08] the South Island, when your electorate is bigger than the South Island,
+[01:06:13] do you want to have the more...
+[01:06:17] I'm not saying this is going to happen, but I'm talking about the general
+[01:06:20] direction. Do you want
+[01:06:23] something like the infamous Chinese-sounding surnames for
+[01:06:28] house purchasers to be the highest quality of
+[01:06:31] information that you can get?
+[01:06:35] So
+[01:06:37] yeah. It's
+[01:06:40] appeal to your own naked self-interest.
+[01:06:45] Are you sure you want to do this? Are you really sure?
+[01:06:49] That's what I'm going to-I don't think any--
+[01:06:53] If the
+[01:06:55] high-quality submissions here were going to persuade you,
+[01:07:00] the bill never would have made it onto the order paper.
+[01:07:02] Yeah. Right. Hazel, thank you.
+[01:07:06] Now, any questions?
+[01:07:10] Don't think so. That is not to say we haven't listened to you.
+[01:07:14] Yeah.
+[01:07:15] So-
+[01:07:16] I think I'm going to just say this. I think you have personal ambitions to be
+[01:07:19] more than a rubber stamp, right?
+[01:07:21] Yeah. All right. Thank you very much. Thanks, Alan.
+[01:07:26] Right. Now, we're going to Tigger Wills on Zoom.
+[01:07:30] Is that right?
+[01:07:33] Tigger, are you there?
+[01:07:35] Yes. Sorry, hopefully you can hear me.
+[01:07:38] Yeah, we can.
+[01:07:39] Excellent. Okay. Just grappling with the settings.
+[01:07:44] Okay. So here we are.
+[01:07:48] Good.
+[01:07:48] Right. Okay.
+[01:07:50] You ready?
+[01:07:52] Mm-hmm. Yes.
+[01:07:53] Okay.
+[01:07:54] Sorry, okay. Around 1990, I was in the UK
+[01:07:58] working as a lead developer on a national registration system
+[01:08:02] for a variety of diverse potential clients, whose populations
+[01:08:06] ranged from a few hundred thousand, for example, Malta and Barbados,
+[01:08:10] to hundreds of millions, the former Soviet Union, then known as the Commonwealth of
+[01:08:14] Independent States, or the CIS. And as part of that development,
+[01:08:20] for test and demonstration purposes, I created a rudimentary database of
+[01:08:24] 10 million individuals apparently living in family groups, et cetera.
+[01:08:29] As a consequence of this work in particular, and subsequent roles,
+[01:08:32] including with national health networks and
+[01:08:36] iGov, our precursor to Real Me, I have an
+[01:08:40] uncommon insight into the many aspects of individuals'
+[01:08:44] information,
+[01:08:46] an emphatic appreciation of its diversity and sensitivity
+[01:08:49] necessary to embrace it.
+[01:08:51] My own hypothetical population was entirely fictitious and
+[01:08:55] intended merely for testing and demonstration of the system,
+[01:08:59] drawing upon my imagined individuals' existence.
+[01:09:02] That is how I see the information drifting should the periodic
+[01:09:06] complete reset be evaded to save costs.
+[01:09:11] The ideology of homogeneity in the population,
+[01:09:15] repeatedly expressed by some, most vocally by David
+[01:09:18] Seymour, is exactly that, an ideology.
+[01:09:22] We are all different, and each one of us are valid
+[01:09:26] individuals deserving of recognition.
+[01:09:29] The statistical projection of chronologically
+[01:09:32] degrading information, occasionally freshened by some survey
+[01:09:36] group, the provenance of which is at the mercy of those in power,
+[01:09:40] cannot reflect the true nature of the dynamic population.
+[01:09:44] Those who are not conveniently close to the perceived profile
+[01:09:48] will neither have representation nor awareness that they are
+[01:09:52] invisible and overlooked.
+[01:09:55] Even should their disappearance become apparent, how might it be
+[01:09:58] rectified? Those
+[01:10:01] likely disparate individuals can shout as loud as they like,
+[01:10:05] assuming they have that capacity, but being heard may be
+[01:10:08] impossible with an entrenched system
+[01:10:11] to which they are alien. More and more, the population will be expected
+[01:10:15] to live as though they are within the ideological range of
+[01:10:19] existence permitted by the population model.
+[01:10:23] I represent,
+[01:10:27] on a few directional
+[01:10:31] vectors, if you like,
+[01:10:33] minorities who are at risk
+[01:10:37] of omission by the
+[01:10:42] normalized expectations of which
+[01:10:46] would come into force should the census be lost.
+[01:10:56] Are you there? Have you-
+[01:10:57] I am there. Yes.
+[01:10:58] Have you finished or...?
+[01:11:00] I have finished that presentation.
+[01:11:02] I
+[01:11:04] wasn't entirely sure exactly how long it would take, but-
+[01:11:07] Okay. Very good
+[01:11:08] ... yes.
+[01:11:08] Hey, thank you.
+[01:11:10] Any questions? So your proposition, just to
+[01:11:14] encapsulate it, I think,
+[01:11:16] is that
+[01:11:19] with the removal of census, it becomes much more difficult to
+[01:11:23] get detailed information on us minority
+[01:11:27] groups. Am I right in saying that?
+[01:11:31] Yes, indeed. I believe the minority groups stand a very increasing
+[01:11:35] risk of-
+[01:11:36] Yeah
+[01:11:37] ... just being lost in the noise
+[01:11:41] of the homogeneity-
+[01:11:43] Okay
+[01:11:43] ... which is the biggest-
+[01:11:45] In the first part of your submission, you talked about the entire
+[01:11:50] project.
+[01:11:52] Was that something you're recommending that Stats look at, or are you just saying
+[01:11:55] that that is a possibility?
+[01:11:59] Sorry, I don't follow your question.
+[01:12:01] Well, in the census, you talk about it too offering immense
+[01:12:05] wealth of data regarding a snapshot of the entire national
+[01:12:09] population.
+[01:12:10] Right.
+[01:12:11] So was that a technology you were suggesting that Stats
+[01:12:15] might employ or just something conceptually?
+[01:12:20] Well, as I understand it, the census is the basis which
+[01:12:24] is
+[01:12:25] effectively entirely refreshed every time we have a census-
+[01:12:29] All right
+[01:12:29] ... and becomes a wealth of source of information.
+[01:12:33] All right. Hey, thank you very much for your submission.
+[01:12:36] Thank you very much indeed.
+[01:12:37] Cool.
+[01:12:38] Thank you.
+[01:12:38] Right. Now, we're going to the Blind
+[01:12:42] Citizens submission that we missed just before lunch.
+[01:12:49] Is that you, Rose?
+[01:12:52] We can't quite hear you
+[01:12:56] Thank you. Yes, it is Rose.
+[01:12:59] Yeah.
+[01:12:59] And Jonathan has just joined us.
+[01:13:01] Good.
+[01:13:02] So
+[01:13:03] thank you for the opportunity and for the perseverance behind the scenes to resolve
+[01:13:07] the-
+[01:13:07] No, that's all right. It's good that you've come back.
+[01:13:09] Perfect. Okay. So I'll just start off.
+[01:13:13] I'm not sure, sometimes it's helpful for Jonathan to actually know who's present.
+[01:13:18] Right. So-
+[01:13:18] Whether that's possible very quickly-
+[01:13:20] Yeah
+[01:13:20] ... that would be great, thank you.
+[01:13:22] Well, there's a normal representation of the committee.
+[01:13:25] So we've got a mixture of-
+[01:13:27] ... opposition government members.
+[01:13:28] So, there's seven of us, I think,
+[01:13:33] hearing your submission today.
+[01:13:35] All right. Thank you. I can update Jonathan later.
+[01:13:38] So first of all, I'll just start off, and then I will be handing over to Jonathan.
+[01:13:42] But we'd just like to make the point that there is really good
+[01:13:47] cooperation working with Stats NZ officials in the current
+[01:13:51] environment, and there are some great champions within Stats NZ.
+[01:13:55] However, it's commitments that we need, and what we are
+[01:13:59] going to do is refer to Jonathan's personal submission, which
+[01:14:03] Blind Citizens New Zealand does endorse.
+[01:14:07] But much has been shared by earlier submitters.
+[01:14:09] Our view is that the bill's justification remains incomplete
+[01:14:14] without evidence that the proposed model can maintain or improve
+[01:14:18] data quality. So Jonathan, I'll hand over to you now to
+[01:14:21] speak in more detail about the points that we
+[01:14:25] really want to bring home.
+[01:14:26] Yeah.
+[01:14:28] Beauty. So hopefully I'm heard.
+[01:14:30] Yes, you are.
+[01:14:30] Beauty. Lovely. Look, I think the important thing for us to note as an
+[01:14:34] organization representing blind and low vision people
+[01:14:38] across the country is that the proposed
+[01:14:42] move actually is a two-edged sword.
+[01:14:47] A move to a census attribute survey type environment
+[01:14:51] will put less burden on blind and low vision people because they will be
+[01:14:55] seen, and need to engage less frequently,
+[01:15:00] and the experiences that they have when an interaction is
+[01:15:03] required will be handled in a more
+[01:15:06] accommodating fashion.
+[01:15:09] But this is actually only guaranteed
+[01:15:13] if we take the notion of making what is called reasonable
+[01:15:17] accommodation,
+[01:15:18] if we take that from a moral obligation
+[01:15:23] and make it a legal imperative.
+[01:15:29] So we need to see that that becomes
+[01:15:31] the minimum standard for the way that Stats NZ
+[01:15:35] officials will work with blind, low vision, and for that matter,
+[01:15:39] other disabled people as well.
+[01:15:44] On the other hand, so that's the good experience, on the other hand, the
+[01:15:48] admin data space is a potential minefield.
+[01:15:54] The quality of data that ends up in the system
+[01:15:58] that is not directly supplied by
+[01:16:01] or verified by a blind or low vision person
+[01:16:06] is going to be questionable.
+[01:16:09] And I'm going to give you a real concrete example.
+[01:16:13] I have two NHI numbers today.
+[01:16:18] I have the one for the bulk of my life, and I have the one
+[01:16:22] when the emergency department staff muffed the form,
+[01:16:27] and I am unable to correct that.
+[01:16:32] What is further staggering about admin data is that because
+[01:16:36] I don't interact with the health system
+[01:16:40] for needs
+[01:16:42] explicitly relating to my blindness,
+[01:16:45] you can't tell that I'm blind.
+[01:16:49] Not from admin data, because all of those records that
+[01:16:53] say that I'm blind predate everything digital.
+[01:17:00] So, admin data for blind people is likely to be of
+[01:17:05] poorer quality
+[01:17:07] than the average citizen.
+[01:17:11] We've got no protections in law
+[01:17:14] putting an obligation on government agencies to ensure the
+[01:17:18] data they hold about us
+[01:17:20] is in fact, fact.
+[01:17:25] Furthermore, even if there was a legal imperative, the ability
+[01:17:29] of blind and low vision people to do that for themselves
+[01:17:33] is
+[01:17:35] doubtful,
+[01:17:36] probably heading towards negligible.
+[01:17:43] So the admin data for our community
+[01:17:47] is almost certainly of a much lower
+[01:17:50] grade than what we see from census data
+[01:17:53] today.
+[01:17:57] Rose has pointed out that we do have a good working relationship with Stats NZ,
+[01:18:02] but blind, low vision, and other disabled people need that
+[01:18:06] commitment enshrined in law
+[01:18:09] so that it cannot be lost with the flick of an
+[01:18:13] official's pen, like was a disability
+[01:18:16] survey with ministerial sign-off in
+[01:18:19] 2018.
+[01:18:22] The United Nations Convention on the Rights of Persons with Disability
+[01:18:27] is our reference document.
+[01:18:30] It's what government signed up to in 2008.
+[01:18:36] But far too often, the energy of organizations like
+[01:18:40] ours is spent educating government officials
+[01:18:44] on what that government commitment
+[01:18:48] means and the obligations it places on
+[01:18:51] agencies to do the right things for and
+[01:18:55] with disabled people.Articles 9,
+[01:18:59] all about accessibility,
+[01:19:01] and 31 on data are specifically relevant to us.
+[01:19:06] The first, Article 9, is all about the way individuals can
+[01:19:10] interact with systems.
+[01:19:15] But even if you change it for this bill,
+[01:19:18] it will only apply to the interactions we have with Stats NZ.
+[01:19:23] It's the interactions with the other agencies that remain
+[01:19:27] doubtful.
+[01:19:29] Article 31 of the convention is all about the
+[01:19:33] obligation on the state party,
+[01:19:36] that's you,
+[01:19:37] to ensure that meaningful data is available,
+[01:19:42] disaggregated by disability status.
+[01:19:49] I've ended up with the specific recommendations in
+[01:19:54] my personal submission
+[01:19:57] that
+[01:19:59] could've
+[01:20:00] been copied in, but you then would have to read them twice, into the Blind Citizens
+[01:20:04] NZ submission. Thank you for your time.
+[01:20:08] Love questions.
+[01:20:10] Right. Thank you very much to both of you.
+[01:20:14] Pretty straightforward, I think.
+[01:20:17] Yeah. Just take us back, what happened
+[01:20:20] with the disabilities in 2018? Are you saying literally-
+[01:20:25] Courtesy of a budget decision reached without
+[01:20:29] parliamentary oversight, the scheduled New Zealand Disability Survey
+[01:20:33] was axed in favor of Te Kupenga.
+[01:20:36] Right. Okay.
+[01:20:37] Disabled people were put in competition with Maori.
+[01:20:40] Okay.
+[01:20:41] We lost in 2018, they lost in 2023.
+[01:20:44] Right. I've got a question from Rima Nakley.
+[01:20:49] Thank you, Mr. Chair. Jonathan, more of a
+[01:20:52] proposition rather than a question.
+[01:20:54] With respect to your NHS number,
+[01:20:58] I'm very happy to help your local member of parliament try and fix that up for you,
+[01:21:03] if you like.
+[01:21:03] There you are.
+[01:21:04] Very happy to.
+[01:21:06] Thank you, but it's currently sitting as a lovely demonstration of the
+[01:21:09] inadequacies of admin data.
+[01:21:12] Can try and sort it out though.
+[01:21:15] It's not hurting me.
+[01:21:16] It's also a great example of a receptive local MP.
+[01:21:21] Oh, I know I've got one of those.
+[01:21:23] Yeah, good. Hey, thank you, Dr. Godfrey and Rose for your
+[01:21:26] contribution today. That was very good.
+[01:21:28] Thanks, my mate.
+[01:21:29] Okay.
+[01:21:30] Thanks.
+[01:21:30] Kia ora.
+[01:21:31] Thank you.
+[01:21:32] Thank you. We're going to Godfrey Bridger, who's coming in via
+[01:21:36] Zoom, hopefully.
+[01:21:40] Where's the option to leave?
+[01:21:46] You can't leave.
+[01:21:50] Right.
+[01:21:51] Mr. Bridger, are you there?
+[01:22:00] Right. Where are we?
+[01:22:06] Mr. Bridger, are you there?
+[01:22:07] Oh, hi. Can you hear me now? I'll start my video.
+[01:22:10] We can.
+[01:22:12] Nice to hear from you.
+[01:22:13] Good. Well, thank you very much for having me.
+[01:22:17] This, I believe, is one of the most important
+[01:22:22] functions of government, the select committee, so I think this is a
+[01:22:26] very important perspective,
+[01:22:30] very important role that you have to do.
+[01:22:33] Look, I'm going to try and break my presentation into
+[01:22:37] roughly a half or two thirds and a third.
+[01:22:39] The last one is about my operational experience as a
+[01:22:43] census manager for Hamilton and Waikato,
+[01:22:47] and how it relates to the first. And the first is,
+[01:22:51] really,
+[01:22:52] I started very positively to make positive
+[01:22:56] contributions and say, "Yes, we must try and do better.
+[01:23:00] We must do more with less." And that is
+[01:23:03] absolutely always a fact of life for whatever you do in government, whatever
+[01:23:08] we do in our daily lives or institutions.
+[01:23:11] So,
+[01:23:12] improving is the name of the game, and I'm very strongly behind
+[01:23:16] that. But having said that,
+[01:23:19] look, I have now analyzed the submissions, and I've even got
+[01:23:23] AI to help me to do that, and it seems that
+[01:23:27] there are very deep concerns about data quality.
+[01:23:30] And the fact is that statistics is
+[01:23:34] a fundamental foundation
+[01:23:38] of policy,
+[01:23:40] good policy for the future, as many people have mentioned.
+[01:23:43] So,
+[01:23:44] I have changed my view and
+[01:23:48] think that an inquiry is required, or a review, or
+[01:23:52] a formal review because this is so important to the country
+[01:23:57] that it really does that. However, now I'll move on to,
+[01:24:01] if it's going to happen,
+[01:24:03] what could be done better? Now, I had seven recommendations,
+[01:24:07] and
+[01:24:09] most of them have been raised already.
+[01:24:11] So I'm only going to concentrate on the two that have not been
+[01:24:15] raised, I understand.
+[01:24:19] Sorry, one of them was raised, but I just want to reinforce it
+[01:24:23] that a commitment from the CEOs at top
+[01:24:26] level is really important.
+[01:24:30] And if you're going to get
+[01:24:34] that sort of commitment to get data quality, you
+[01:24:38] must get CEOs of those different organizations
+[01:24:42] to commit very strongly. Now, the ones that
+[01:24:45] are unique of
+[01:24:49] my presentation is that I'm suggesting as a strong
+[01:24:53] motivator, you should be
+[01:24:56] providing a reward in the
+[01:24:59] currency you areWorking in. That
+[01:25:03] is data. So when people have to give
+[01:25:06] data or are inclined to give data, give them a
+[01:25:10] reward of data that's relevant to them.
+[01:25:13] It'll cost a bit more, but I believe it'll do
+[01:25:17] a ) statistics quality gathering,
+[01:25:22] be a positive factor, but b ] it'll also help government as a
+[01:25:25] whole, because government is losing the trust of people, and
+[01:25:29] there's plenty of reports to do that, and that's again across the world, not
+[01:25:33] just New Zealand, but we've suffered from that too.
+[01:25:37] So, that was one thing that I have recommended that no
+[01:25:41] one else has. The other
+[01:25:44] one was a little bit more controversial, and that is that
+[01:25:48] before
+[01:25:51] money is transferred, money or services or grants
+[01:25:54] transferred from government
+[01:25:58] to bodies that need it, people that need it, organizations that need it,
+[01:26:01] whatever it is,
+[01:26:03] you get some sort of commitment that they provide
+[01:26:07] you information of useful quality.
+[01:26:11] And again,
+[01:26:13] it's a two-way... We live in a world that's always a two-way street.
+[01:26:16] Relationships are very, very important.
+[01:26:19] Now, the final point I'd come to in my census
+[01:26:23] experience comes to this business of community.
+[01:26:27] We have lost a lot of the sense of community
+[01:26:31] in the world and in New Zealand. And I
+[01:26:35] think a lack of a census is going to strengthen
+[01:26:39] that loss, not-
+[01:26:42] Yeah
+[01:26:43] ... weaken it, not mitigate it.
+[01:26:46] And so just to give you a little example from my
+[01:26:50] census, I had at the peak just under 200 people, that's
+[01:26:54] not current turning turnover, reporting indirectly to me through about
+[01:26:58] 24 people reporting to me directly.
+[01:27:01] They were a wonderful team. And I want to point out and emphasize,
+[01:27:06] I didn't understand how Primewell said census was a failure in
+[01:27:10] 2023. To me, it was not. We got
+[01:27:14] 92% return rate, something very high,
+[01:27:17] which was in line with past good ones. 2018 was really bad.
+[01:27:21] But anyhow, coming back to this community issue,
+[01:27:26] my staff
+[01:27:27] just bought in so strongly to
+[01:27:31] collecting
+[01:27:32] data, they felt really committed to what they were doing.
+[01:27:37] They
+[01:27:38] did their best, and one of the measures, for example, that we'd been given
+[01:27:41] guidelines was,
+[01:27:43] go back, if you can't get data the first time, please go and knock on the door a
+[01:27:46] second and a third and maybe a fourth.
+[01:27:49] Well, my record in my group was eight.
+[01:27:53] And I
+[01:27:55] didn't
+[01:27:57] set a limit because I began
+[01:28:01] to trust these people, and these people showed
+[01:28:04] how important it was
+[01:28:08] for the personal contact.
+[01:28:11] And we all know this. This works very, very well.
+[01:28:14] This Zoom works very, very well, but nothing beats personal contact.
+[01:28:19] And so anything that helps personal contact, and
+[01:28:23] here's another point, we're losing community, we're losing personal
+[01:28:26] contact, so there's another cautionary note
+[01:28:30] about dropping a census for that reason, because it also
+[01:28:34] helps, I believe,
+[01:28:38] government to understand and people to understand what government is and
+[01:28:41] how... It's a very dry subject, but boy,
+[01:28:46] do people understand how important it is.
+[01:28:49] So that's my message is please take
+[01:28:52] this very, very seriously, more seriously than I submitted
+[01:28:56] it in my positive proposal.
+[01:28:59] And I've moved a bit against rushing
+[01:29:03] off and dropping census. I do understand because it's very, very expensive.
+[01:29:07] It cost
+[01:29:09] 238 million last time, but about 40 million of that
+[01:29:13] was because of the Gabriel
+[01:29:18] weather thing. And
+[01:29:21] even still, 180 or 190 million sounds far too much.
+[01:29:25] But I think it does more and is more important than people
+[01:29:29] realize. Thank you, Mr. Chairman.
+[01:29:32] Right. Thank you very much for that.
+[01:29:34] And, you're right, two suggestions around accountability
+[01:29:37] is very welcome.
+[01:29:40] Mm-hmm.
+[01:29:41] Members have put in suggestions.
+[01:29:42] It's good. Thank you.
+[01:29:44] And great to hear of the diligence of the team
+[01:29:49] in pursuing and trying to get accurate information.
+[01:29:51] It's good to hear that personal story.
+[01:29:54] Hey, so thank you for joining us this afternoon.
+[01:29:56] We'll certainly consider those two
+[01:29:59] unique proposals you put forward in your paper, so thank you very much.
+[01:30:03] Cheers. Thank you.
+[01:30:06] Right. Now, Research Association of New Zealand.
+[01:30:13] Now we've got 10 minutes with you.
+[01:30:17] I presume it's Mr. Mills and Ms. Turner.
+[01:30:21] Is that right? Thank you.
+[01:30:22] Correct.
+[01:30:28] Oh. The floor is yours.
+[01:30:29] Good afternoon, Chair Bailey, and thank you members of the committee for your time.
+[01:30:32] We appear on behalf of the Research Association of New Zealand.
+[01:30:36] We represent the market research companies in New Zealand, along with our clients,
+[01:30:40] both internally within
+[01:30:42] commercial and government research insights teams, but also the public and
+[01:30:47] private organizations that use our data to make decisions on a day-to-day
+[01:30:50] basis.
+[01:30:52] Population data is core to what we do every day.
+[01:30:56] It's
+[01:30:57] the basis of all the decisions we make in terms of research design
+[01:31:01] and the recommendations we give out the back.
+[01:31:04] And we want to be upfront with our concerns fromFrom the start.
+[01:31:08] We're not here to defend the status quo.
+[01:31:11] The 2023 and 2018 censuses, we all
+[01:31:15] know had issues.
+[01:31:16] But we don't think that those issues are best served and
+[01:31:20] fixed by the solutions that are put by this bill.
+[01:31:24] Declining participation is a genuine challenge. We see it in our members' work.
+[01:31:28] We've been dealing with it for over 20 years, and we've found ways of dealing with
+[01:31:32] it that are useful.
+[01:31:35] We also agree that administrative data is a real and underused asset in New
+[01:31:39] Zealand, and we think it should be used more, but in the right
+[01:31:43] contexts.
+[01:31:44] So the question we're putting to the committee is not whether the change is needed,
+[01:31:48] but whether this particular change at this particular pace will produce better
+[01:31:52] population statistics or worse ones, and we argue that the current
+[01:31:56] bill will produce the latter.
+[01:31:58] We've got two specific concerns and we've outlined those in our submission.
+[01:32:02] We want to draw some examples of those today and also provide some
+[01:32:06] solutions. The biggest area of concern for us, and you've heard from
+[01:32:10] a number of submitters today, is around small area data.
+[01:32:13] Port Waikato, for example. If you start looking at 5% of the population
+[01:32:17] there and base your decisions on 5% of Port Waikato,
+[01:32:21] you might be coming up with some interesting-
+[01:32:22] Never heard of the place
+[01:32:23] Never heard of the place. Well, exactly.
+[01:32:27] Every decision that shapes daily life at a local level, where to build a school,
+[01:32:31] how to grow your business, what health resources are needed, depends on
+[01:32:35] knowing with precision where those people are and where they live.
+[01:32:40] That 5% annual survey cannot consistently deliver that.
+[01:32:44] Stats NZ's own regulatory impact statement say so.
+[01:32:47] It acknowledges in its language, reductions in data accuracy, detail,
+[01:32:51] and coverage, particularly in small populations and in local
+[01:32:55] areas. That's not our characterization of the bill.
+[01:32:58] That's Stats NZ's characterization of its own proposal.
+[01:33:03] The communities most exposed to these problems are also the ones least able to
+[01:33:06] compensate for it.
+[01:33:09] Iwi governance bodies making resource decisions, as you've heard, Pacific Health
+[01:33:12] funders looking for funding and defensible numbers, a business owner needing to
+[01:33:16] build a robust market estimate to get funding, all will struggle
+[01:33:20] with this new regime.
+[01:33:25] There are technical tools that can be used to help this.
+[01:33:27] We can use over-sampling, we can use booster samples, we can use multi-year
+[01:33:31] pooling, but they need to be mandated in the legislation.
+[01:33:35] And they need to be resourced sufficiently to make sure that they're delivered
+[01:33:38] consistently and within a similar framework right through.
+[01:33:41] At the moment, the bill does not require any of this, and we'd like to work with
+[01:33:45] the committee on what a specific amendment to address small area data adequacy
+[01:33:49] could look like. Our second concern is the transition
+[01:33:52] timeline. The bill proposes to make administrative data the primary source of
+[01:33:56] population statistics. You'd think after 30 years, I'd get
+[01:34:00] that word right. Mandatory from
+[01:34:04] 2030, and that's just four years from now.
+[01:34:06] The Nordic countries are the standard that is used as a reference point for this
+[01:34:10] kind of reform, and it's a fair one.
+[01:34:12] They've done it very, very well and their systems work.
+[01:34:14] What the comparison doesn't mention is that they've been doing this for 50 years,
+[01:34:18] and they started developing their registers, their population registers back in
+[01:34:21] 1967.
+[01:34:23] Denmark, Norway, and Finland made equivalent investments over similar time
+[01:34:26] horizons. These are not systems created by
+[01:34:29] legislation and goodwill. They are the product of
+[01:34:33] five or more decades of sustained institutional investment, consistent
+[01:34:37] data governance, and legal frameworks that require uniform recording standards
+[01:34:41] across all public agencies, and we definitely don't have that at the moment.
+[01:34:47] New Zealand's data sets are not there.
+[01:34:50] Different agencies collect different data using different definitions, different
+[01:34:54] update schedules, and different coverage standards.
+[01:34:57] The result is a fragmented picture of the population, and one that's
+[01:35:01] even thinner for the communities that interact least with government systems.
+[01:35:05] Stats NZ's own regulatory impact statement implicitly acknowledges this.
+[01:35:09] It concedes early year reductions in coverage and
+[01:35:13] accuracy, which we take as a careful way of saying the system
+[01:35:17] will not be ready by 2030 to produce the quality of statistics that
+[01:35:21] it's currently replacing.
+[01:35:23] You've only got to look at the complexity of something like Te Whatu Ora has
+[01:35:27] faced in getting its own systems to align internally.
+[01:35:30] Now multiply that across every government agency and you understand the scale of
+[01:35:33] what's being proposed. We're not saying we can't get there.
+[01:35:36] We're saying four years is not long enough.
+[01:35:39] And it's not responsible to retire the traditional census before the alternative
+[01:35:43] is demonstrably ready to replace it.
+[01:35:46] The transition should be contingent on the infrastructure
+[01:35:50] actually being ready, not on a calendar date that's been set.
+[01:35:58] We have a number of skills available within our own member base that we'd like
+[01:36:02] to
+[01:36:05] offer as use, and we've already started engaging with Stats NZ on
+[01:36:08] that. We have a direct experience in survey design and response rate recovery and
+[01:36:12] community engagement, and we have access to international evidence bases as
+[01:36:16] well on what works in addressing participation decline,
+[01:36:19] through our connections with international industry associations.
+[01:36:23] We're offering to participate in whatever independent review or co-design process
+[01:36:27] follows this committee's work as practical technical contributors.
+[01:36:32] We want to leave the committee with three specific tests, each of which could be
+[01:36:35] addressed by an amendment. One is the local
+[01:36:39] reliability standard, the second is the data readiness test, and the
+[01:36:42] third is the community participation standard.
+[01:36:45] These are all things we think would add value to what is being proposed.
+[01:36:49] The local reliability standard would require that minimum standards for small
+[01:36:52] area data adequacy, including over-sampling and booster
+[01:36:56] sample, provisions within the population that are
+[01:36:58] defined, resourced, and independently verified before the
+[01:37:02] administrative data model is used as the primary census.
+[01:37:06] The data readiness test would require that benchmarks for administrative data
+[01:37:10] infrastructure readiness are defined and independently verified before the
+[01:37:14] traditional census is retired.The transition could be triggered by
+[01:37:18] demonstrated readiness and not by a fixed date.
+[01:37:22] And finally, the community participation standard would require a funded public
+[01:37:26] participation strategy, not a communications plan, but a genuine behavior
+[01:37:29] change program to be independently designed, resourced, and
+[01:37:33] evaluated before the transition periods.
+[01:37:36] New Zealand has done it before and we've done it really well.
+[01:37:39] We think we can do it again with the census.
+[01:37:42] Management of future pandemic and biosecurity risks are examples of when this
+[01:37:45] buy-in and the data that it contributes will be vital.
+[01:37:50] The same approach applied to census participation with proper resourcing and
+[01:37:53] genuine community partnership could reverse the declining response rates
+[01:37:57] and give us the quality of data that we deserve.
+[01:38:03] If these three tests are in the legislation, our position changes
+[01:38:06] noticeably.
+[01:38:08] We're not opposed to this reform succeeding.
+[01:38:10] We want it to succeed on terms
+[01:38:12] that will actually serve New Zealand as well, and delivers data that can inform
+[01:38:15] decisions that help us to succeed. Thank you for your time.
+[01:38:19] We'll take any questions.
+[01:38:20] Hey, thank you very much. Very good submission.
+[01:38:23] Oh, just to say, yeah, so obviously those three tests,
+[01:38:28] yeah, maybe if you've got anything you want to provide to us additionally, that
+[01:38:30] Yes, we can send those through.
+[01:38:32] Yeah. Because that
+[01:38:33] sounds... So it's basically like a gateway before we rely totally on administrative
+[01:38:37] data.
+[01:38:38] And some really clear testing of the systems before we put it in place-
+[01:38:42] Yeah
+[01:38:43] ... rather than jumping straight in. Thanks.
+[01:38:45] Also, your suggestions in-
+[01:38:49] ... section seven of your submission I thought were-
+[01:38:52] Helpful
+[01:38:52] ... very helpful.
+[01:38:53] Thank you.
+[01:38:56] And this issue around making sure the quality of any
+[01:39:00] admin data in its current form and what might be
+[01:39:04] captured or should be captured in the future is crucial.
+[01:39:07] We've just heard Mr. Bridger talking about making CEOs
+[01:39:11] accountable. But also,
+[01:39:14] how would you
+[01:39:16] go about
+[01:39:17] doing that? Do you
+[01:39:20] rely on stats to undertake that role and provide
+[01:39:24] feedback, or do you think it needs to be independent, so if
+[01:39:28] people have to deliver bad news they're not compromised, they're independent to
+[01:39:32] express them?
+[01:39:33] We deliver bad news all the time. An
+[01:39:36] independent oversight would be useful.
+[01:39:39] The key is having consistent
+[01:39:42] ways of measuring things across everywhere.
+[01:39:44] If you look at the councils, for example,
+[01:39:46] and how you measure
+[01:39:49] what a house is in a different council, they vary.
+[01:39:53] And the data quality on that varies quite considerably.
+[01:39:55] According to Auckland Council, I live in a four-bedroom house.
+[01:39:58] I'm still trying to find the fourth bedroom,
+[01:40:00] and I'm short one toilet. I've tried to get that changed,
+[01:40:05] but it's not important to them. That information, when it's aggregated, goes into
+[01:40:09] planning.
+[01:40:10] So, if you multiply that up by the number of houses in New Zealand, you can see the
+[01:40:14] problem.
+[01:40:14] Yeah.
+[01:40:16] Okay. Carmela?
+[01:40:18] So final question. Just in relation to the part five of your
+[01:40:22] submission, you would've heard, if you read any of the other submissions,
+[01:40:26] a similar call for an independent review.
+[01:40:30] You put in some information about some international
+[01:40:34] examples where there have been reviews.
+[01:40:37] What, in your view, would a New Zealand
+[01:40:41] equivalent review look like?
+[01:40:45] I think a key element that's got to cover a really broad range of
+[01:40:48] stakeholders. I think this process has highlighted
+[01:40:52] the range of interested parties,
+[01:40:55] and the uses of data that even we weren't aware of.
+[01:40:59] The range of submitters has definitely highlighted that.
+[01:41:02] It needs technical expertise in there as well.
+[01:41:05] And it needs, I think, a cross-party approach.
+[01:41:08] This is data that will outdate all of us.
+[01:41:12] And so this is something that has to sit out for 20 or 30 years.
+[01:41:16] The value of data is not just now, it's the trends that it creates in the long
+[01:41:19] term.
+[01:41:20] Thank you.
+[01:41:21] Right. Thank you very much for your submission. Very helpful.
+[01:41:24] Thank you.
+[01:41:25] Right. Sam, I see you sitting there.
+[01:41:27] We've got two submissions, and we know who you are.
+[01:41:30] Oh, yes.
+[01:41:32] And so nice to see you again.
+[01:41:34] Same to you.
+[01:41:35] And we will be seeing you shortly, as I said.
+[01:41:36] But anyway, we've got your submission.
+[01:41:38] Mm.
+[01:41:39] Floor is yours. Five minutes, I think.
+[01:41:40] 10.
+[01:41:42] Oh, you're very careful because you... Yes. Right.
+[01:41:46] Yeah. So, Isombart Productions is concerned with the
+[01:41:50] Census Bill. Now, we haven't put a position whether it's for or against.
+[01:41:54] We're wanting to make sure that it's robust and have safeguards in place
+[01:41:58] so that there are steps in place for data corrective measures.
+[01:42:02] And our biggest concern is the Maori electoral population.
+[01:42:05] Considering I'm in my 30s right now, my Maori friends are
+[01:42:09] having bigger families than my non-Maori friends.
+[01:42:12] So that's something that I've noticed that's been evident.
+[01:42:14] That's also come up between the two last census, that the Maori
+[01:42:18] population has gone up by 3%, or the population that have
+[01:42:21] identified has gone up. The other concern, this was
+[01:42:25] discussed after we submitted it, but is the 2028
+[01:42:29] planned census.
+[01:42:31] Our biggest concern is the fact that we are borderline
+[01:42:35] on eight Maori electorates in the country, and we
+[01:42:40] want to make sure with the new proposed boundaries that go on for the next
+[01:42:44] election,
+[01:42:46] every Maori electorate MP has 5,000 more constituents
+[01:42:50] than their North Island counterpart.
+[01:42:52] And that itself is already quite on a dicey line,
+[01:42:55] and that could be entrenched for two elections, and we're concerned that
+[01:42:59] that is going to put a lot of stress on those MPs who already themselves are
+[01:43:03] covering quite some geographically large areas including,
+[01:43:07] was it Te Tai Tonga being the biggest one.
+[01:43:10] Now, on a more personal note, I'm one who's only
+[01:43:14] ever done an electronic census in my life as an adult,
+[01:43:18] including-The census place lost my
+[01:43:22] 2013 electronic census. However, they managed to get my landline
+[01:43:26] number that they only would've got from that census to ring me to say it was
+[01:43:29] missing.
+[01:43:31] So I think that is something that can be a bit of a laugh considering in
+[01:43:35] the previous census, I was in
+[01:43:38] the 04 telephone call area, not the 06.
+[01:43:41] So that's something on there.
+[01:43:43] You have a landline. That's shocking.
+[01:43:46] At that point.
+[01:43:47] Oh.
+[01:43:47] At that point.
+[01:43:48] Just checking.
+[01:43:49] Yeah. Yeah,
+[01:43:51] at that point.
+[01:43:54] So that's something that
+[01:43:57] was quite intriguing, that happening.
+[01:44:00] And also,
+[01:44:01] on data matching, this was something I was warned when I was on the unemployment
+[01:44:05] benefit. "Be careful you get paid fortnightly because Work and Income only has
+[01:44:09] 48 weeks in a year because they can't comprehend five," was it three,
+[01:44:13] "fortnights happening in one month." And so that's data
+[01:44:17] collection going wrong. And often anyone who's been on the benefit, Work and
+[01:44:21] Income's right. The beneficiary's always wrong.
+[01:44:23] Even when the Commissioner of the IRD backs the beneficiary over Work and
+[01:44:27] Income over the wrongly established debt.
+[01:44:30] So that is something with administrative data, mistakes can happen, and it
+[01:44:34] depends who's inputting data, who collects the data.
+[01:44:37] And so we want to make sure that
+[01:44:41] we keep some record or a fail-safe that goes back so we can at least get our
+[01:44:44] population records accurate or adjusted,
+[01:44:48] especially when administrative anomalies come up, so that we
+[01:44:52] at least have some sort of way of correcting the data.
+[01:44:56] So at least we still have accurate things to do planning.
+[01:44:58] We, for instance, Ballot uses it not for general elections, but local body
+[01:45:02] elections. We
+[01:45:03] have to look at data to find out where's the right place to run our shows.
+[01:45:08] Whakatane District Council's quite an interesting one because Murupara
+[01:45:11] doesn't belong anywhere with itself in there,
+[01:45:15] and
+[01:45:16] but trying to work out for that particular council to Maori and general
+[01:45:20] ward, where was the biggest population center, and where was the one that would
+[01:45:24] bring in the best in-studio audience?
+[01:45:26] So that's something we like to do, and yeah, I'm glad we're one
+[01:45:30] organization that has put that place on the map.
+[01:45:34] Yeah.
+[01:45:36] Right. Do I take it you've finished?
+[01:45:38] Oh, for this submission, yes.
+[01:45:42] We're poised for your next one, too.
+[01:45:44] Right. Members, any questions?
+[01:45:48] Yes. A reference to Harry Styles.
+[01:45:50] Yeah.
+[01:45:52] Stacy did that one, not me.
+[01:45:54] From Mr. Carl Bates.
+[01:45:56] Thanks, Mr. Chair. Just in regards to the census in
+[01:45:59] 2028 and the impact on the 2029 election,
+[01:46:03] my understanding is that the 2028
+[01:46:07] census will not happen in time, even under the old model,
+[01:46:12] to ensure boundary changes are in place
+[01:46:16] for the 2029 election. There's been a
+[01:46:20] few submitters that have raised that today, and I just wanted to
+[01:46:23] see if that's your understanding or what your understanding is of the timing
+[01:46:26] from the census to then do the boundaries review,
+[01:46:31] in order for them to be ready for that
+[01:46:34] 2029 election. My understanding is that that timeframe, it's not
+[01:46:38] possible anyway.
+[01:46:41] The reason why we didn't have a boundary redraw for the 2023 election was because
+[01:46:45] the census happened in the same year, and the legislation states that if the
+[01:46:49] two collide, it waits one year.
+[01:46:53] But I think we may have had in the past where there have been a couple of
+[01:46:57] elections very close to censuses, such as the census
+[01:47:01] 2001 was very close to 2002, and
+[01:47:05] 2002 also had a snap election, and we managed to cope with new
+[01:47:08] boundaries at that particular point with the
+[01:47:11] 2001 census. So I'm not sure whether
+[01:47:16] there is the exact delay. It depends when the planning part starts happening.
+[01:47:20] That's the big part in there because the planning changes that for
+[01:47:23] 2023 census, the electoral boundary changes
+[01:47:27] didn't happen until last year. Whereas
+[01:47:30] I would assume they would start in 2028 if the census happened or
+[01:47:34] right at the
+[01:47:35] beginning of 2029 to ensure those new boundaries were in place ready for
+[01:47:39] the 2029 general election.
+[01:47:43] Right. Is that right, Carl?
+[01:47:45] Yeah, I'm happy to leave it there, Chair.
+[01:47:47] All right.
+[01:47:48] Thanks, Sam.
+[01:47:49] Thank you.
+[01:47:50] Right. Now, last one before we're going to have a little bit of a break, and that
+[01:47:54] is Anna Muir who's coming in by
+[01:47:58] Zoom.
+[01:48:00] Anna, are you with us?
+[01:48:05] Just struggling with the camera.
+[01:48:07] That's right, Anna. We can hear you loud and clear.
+[01:48:10] Okay. Okay, now I've got a button to
+[01:48:14] use.
+[01:48:16] Okay, so...
+[01:48:18] Oh, there you are.
+[01:48:19] Yes. So it's good to join you again less than a week-
+[01:48:23] Yeah
+[01:48:24] ... after the English Language Bill hearing.
+[01:48:28] I think there's some overlapping themes between
+[01:48:32] the English Language Bill and the Census Bill today.
+[01:48:36] This bill obviously relates to very complex
+[01:48:39] topics with lengthy historical origins.
+[01:48:43] So some of the different words
+[01:48:47] that we're using make it difficult to communicate
+[01:48:51] the concepts. So I guess along that line, I thought
+[01:48:55] it would be helpful for me to start by referring to
+[01:48:58] or by using the words about small
+[01:49:02] area information. So those are words that I've heard in the
+[01:49:06] hearing today.
+[01:49:08] They are on page 21 of Len
+[01:49:11] Cook's written submission.
+[01:49:14] I think it's 2.10 B. He
+[01:49:18] speaks about continuing the existing rich array of
+[01:49:22] small area information.There was an earlier
+[01:49:26] discussion suggesting that Port Waikato is an example of
+[01:49:30] small area. I'd like-
+[01:49:32] Yeah, very appropriate examples from both of you.
+[01:49:35] Yeah.
+[01:49:36] So I'd like to highlight
+[01:49:39] the needs of
+[01:49:42] central government and local authorities,
+[01:49:46] the areas that have unit titled developments.
+[01:49:50] As the recent purchaser of a unit titled,
+[01:49:54] a townhouse in Auckland, I have quite deep insights
+[01:49:58] about the problems in the central
+[01:50:01] government as well as Auckland Council data
+[01:50:05] processes for those scenarios.
+[01:50:09] That causes problems
+[01:50:13] not only for property transactions, but for planning purposes.
+[01:50:17] With Auckland being in the middle of the plan change 120
+[01:50:22] processes, there are some very unhelpful
+[01:50:26] narratives that are based
+[01:50:30] on,
+[01:50:32] I guess, poor data. So I have identified
+[01:50:36] some problems in central government data about unit
+[01:50:40] titled
+[01:50:41] properties and developments.
+[01:50:44] I have recommended in the second part of my written submission that the
+[01:50:48] Unit Titles Act of 2010 be amended so
+[01:50:52] there is a mandatory reporting obligation.
+[01:50:55] So central government data is shared more regularly,
+[01:50:59] more transparently, so all
+[01:51:03] relevant decision makers in public and private contexts
+[01:51:07] have access to that information.
+[01:51:11] Locally, there's
+[01:51:14] at least one story in the spin-off where people are saying, "Well, all of the
+[01:51:18] townhouses are being built in West Auckland since we had the
+[01:51:22] 2016 Auckland Unitary Plan." Those
+[01:51:25] narratives are based on building consent data.
+[01:51:29] Whereas
+[01:51:31] I live in a 1985
+[01:51:35] townhouse that was built in a development
+[01:51:38] established under the Unit Titles Act of
+[01:51:41] 1972 before digitized
+[01:51:44] processes came about. And so
+[01:51:48] the age of my property has resulted in some data
+[01:51:51] related problems,
+[01:51:53] a bit like Jonathan Godfrey's story earlier about how the
+[01:51:57] records of his blindness predate
+[01:52:02] digitized health records. So just coming back
+[01:52:06] to the base themes of population dwellings and digital
+[01:52:10] government,
+[01:52:12] depending on the age of a building on a property,
+[01:52:17] there are, I guess, gaps to be resolved if we can get better
+[01:52:21] collaboration between Statistics New Zealand and LINZ
+[01:52:24] and others, as Len Cook has recommended.
+[01:52:30] The first part of my submission
+[01:52:32] summarizes, I guess, the range of interested parties, and it
+[01:52:36] identifies some groups that are often overlooked.
+[01:52:40] So I think it would be worthwhile to specifically refer
+[01:52:44] to those groups if the bill proceeds and that particular
+[01:52:48] section is amended.
+[01:52:50] If we were really going to refine the statute book, we could also sharpen up
+[01:52:54] the New Zealand Business Number Act of 2016.
+[01:53:00] Just before I allow some time for questions, I did want to
+[01:53:05] note that I will make a supplementary submission because I have
+[01:53:09] an email from Auckland Council to explain why they
+[01:53:13] did not make a written submission.
+[01:53:19] I've just got a problem with the screen here.
+[01:53:21] So I'll send this through in writing, but the message I got from Auckland Council
+[01:53:25] on the 23rd of April was,
+[01:53:28] it was considered that an Auckland Council submission
+[01:53:31] would not affect the outcome of the proposed changes, which
+[01:53:35] was primarily related to the timing of the census and the role of the
+[01:53:39] government statistician to deliver an annual census.
+[01:53:43] There was no perceived contrast with Auckland Council's strategic
+[01:53:47] framework, and it was deemed low priority.
+[01:53:51] As a ratepayer in New Zealand's largest city, I find that
+[01:53:55] a pretty disappointing response from an unelected
+[01:53:59] representative of Auckland Council.
+[01:54:01] I recommend that your committee
+[01:54:05] requests
+[01:54:07] advice or information from Auckland Council with Maurice
+[01:54:11] Williamson being the former Minister of Statistics.
+[01:54:14] That should help to foster some sort of input.
+[01:54:19] But yeah, we're dealing with really important topics, so I
+[01:54:22] also support the other recommendations to involve
+[01:54:25] experts with a proper review.
+[01:54:28] Right. Thanks, Anna. We have heard from local government in New Zealand.
+[01:54:31] You probably heard that and-
+[01:54:33] But Auckland Council is different, and they're not a member of local government New
+[01:54:36] Zealand.
+[01:54:37] Well, I know.
+[01:54:37] The ratepayers of Auckland need to be represented-
+[01:54:39] I know. They're very special,
+[01:54:42] Anna
+[01:54:42] ... by Auckland Council. No, let me-
+[01:54:44] They're very special
+[01:54:44] ... let me add,
+[01:54:47] this is a procedural point actually partly I wanted to mention.
+[01:54:50] So it was a relatively lengthy public consultation period
+[01:54:55] from the 5th of March until the 15th of April.
+[01:54:59] They had a lot of time.
+[01:55:01] Okay.
+[01:55:01] It is disappointing that the submissions were only published on the Parliament
+[01:55:05] website on Friday.
+[01:55:07] I have hand delivered a copy of Len Cook's
+[01:55:10] submission to my friend, the Honorable Simon Watts,
+[01:55:15] Minister for Auckland and Minister of Local Government, and I pointed him
+[01:55:19] to recommendation three on the cover of Len
+[01:55:23] Cook's submission. It says, "I recommend that the Justice
+[01:55:26] Committee seek advice from those who are affected by the bill and local
+[01:55:30] government."
+[01:55:31] Hey, thank you, Anna. Thank you for that recommendation.
+[01:55:34] And your specific-
+[01:55:36] Yeah
+[01:55:36] ... drafting suggestions, very helpful. Got a lot going for you.
+[01:55:40] Otago University law degree, very good.
+[01:55:42] And you're in the Epsom electorate, so-
+[01:55:44] Gee, I can't believe it
+[01:55:45] ... gosh, Anna.
+[01:55:45] Yeah. Yeah.
+[01:55:46] Okay.
+[01:55:46] And I forgot to mention that Len Cook delivered the graduation
+[01:55:50] address at the University of Otago-
+[01:55:52] Oh. Unbelievable
+[01:55:52] ... on the 6th of May 2000. So that set the
+[01:55:55] scene.
+[01:55:57] Unbelievable. Okay.
+[01:55:58] Thank you.
+[01:55:58] Thanks. Nice to see you again.
+[01:55:59] Okay. Thanks.
+[01:56:00] Cheers then. Bye-bye.
+[01:56:02] Right, members, we're going to have a break.
+[01:56:05] The idea is we can come back at 3:15. Is that right?
+[01:56:08] 3:15. Excellent.
+[01:56:09] We've got a little bit of a break.
+[01:56:10] Do we get... Oh, the coffee.

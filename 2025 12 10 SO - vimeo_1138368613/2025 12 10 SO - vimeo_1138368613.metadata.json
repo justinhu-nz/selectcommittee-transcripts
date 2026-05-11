@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:07:37.425827+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138368613",
+  "title": "2025 12 10 SO",
+  "url": "https://vimeo.com/1138368613",
+  "published_at": "20251210",
+  "published_display": "2025-12-10",
+  "duration_seconds": 1404,
+  "source_labels": "Vimeo Showcase 6380625",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1404.41,
+    "segment_count": 505,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025 12 10 SO - vimeo_1138368613\\2025 12 10 SO - vimeo_1138368613.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138368613",
+    "display_id": "1138368613",
+    "title": "2025 12 10 SO",
+    "description": "Wednesday, 10 December 2025 | Standing Orders Committee\nReview of Standing Orders 2026\n\nHearing of evidence:\n\nRegulations Review Committee\n\tArena Williams, Chairperson\n\tNancy Lu, Deputy Chairperson\n\tJoseph Mooney, Member\n\tMiles Anderson, Member\n\nJosiah Tualamali'i",
+    "webpage_url": "https://vimeo.com/1138368613",
+    "original_url": "https://vimeo.com/1138368613",
+    "upload_date": "20251210",
+    "timestamp": 1765335760,
+    "release_timestamp": 1765335767,
+    "duration": 1404,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2084680091-986aa83b8960a800a3ed63df0aae216619780b339615cd926ebf6fed1e55fb46-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271081615.vtt?expires=1778504861&sig=ed6d31a8f8d4e2994ec94c98e55477dc61bddd08&download=auto_generated_captions.vtt"
+  }
+}

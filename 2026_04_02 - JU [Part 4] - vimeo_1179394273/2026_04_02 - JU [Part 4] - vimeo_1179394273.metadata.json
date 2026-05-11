@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:16.360679+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1179394273",
+  "title": "2026/04/02 - JU [Part 4]",
+  "url": "https://vimeo.com/1179394273",
+  "published_at": "20260402",
+  "published_display": "2026-04-02",
+  "duration_seconds": 4612,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4611.78,
+    "segment_count": 1495,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_02 - JU [Part 4] - vimeo_1179394273\\2026_04_02 - JU [Part 4] - vimeo_1179394273.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1179394273",
+    "display_id": "1179394273",
+    "title": "2026/04/02 - JU [Part 4]",
+    "description": "Thursday, 2 April 2026 | Justice Committee\n\nDepartment of Corrections, Long-Term Insights Briefing 2026 \n\nHearing of Evidence\n\nDepartment of Corrections  \n\nJeremy Lightfoot, Chief Executive  \nJuanita Ryan, DCE Pae Ora  \nTom Baker, Chief Digital Officer \n\n\nEnglish Language Bill \n\nHearing of Evidence\nSubmitters:\n\nPirirakau tribal Authority - Incorporated  \n\nHeta Gardiner, Kaihaut\u016b/General Manager \n\nGraeme Edgeler \nRimu Bhooi \nDean Knight \nJette de Jong \nTatyana Protsenko \nTe Auta Sam-Turner",
+    "webpage_url": "https://vimeo.com/1179394273",
+    "original_url": "https://vimeo.com/1179394273",
+    "upload_date": "20260402",
+    "timestamp": 1775090715,
+    "release_timestamp": 1775090724,
+    "duration": 4612,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2141276071-bbbadfc896a72c2588eeab6751d9db75cb729c80a66000cfcfe3b6b8a1342d1a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291992122.vtt?expires=1778504720&sig=96277a0266353be7b3d30e8cf446c8464ae30f27&download=auto_generated_captions.vtt"
+  }
+}

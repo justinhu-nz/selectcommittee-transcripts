@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:04:33.546170+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1061109654",
+  "title": "2026/05/11 [Part 3]",
+  "url": "https://vimeo.com/1061109654",
+  "published_at": "20260511",
+  "published_display": "2026-05-11",
+  "duration_seconds": 8469,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8452.11,
+    "segment_count": 2478,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_05_11 [Part 3] - vimeo_1061109654\\2026_05_11 [Part 3] - vimeo_1061109654.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1061109654",
+    "display_id": "1061109654",
+    "title": "2026/05/11 [Part 3]",
+    "description": "Monday, 11 May 2026 | Justice Subcommittee B\n\nPolicing Amendment Bill\n\nHearing of Evidence\nSubmitters:\n\nKay Jones \nAlexander Kerr \nNew Zealand Council for Civil Liberties\n\nThomas Beagle, Chair \n\nNew Zealand Law Society Te Kahui Ture o Aotearoa  \n\nNick Chisnall, Criminal Law Committee convenor \nJuliet Philpott, Human Rights and Privacy Committee member \n\nCommunity Law Centres Aotearoa\n\nKaren Hodgson, Law Reform Coordinator \n\nPrivacy Foundation New Zealand Incorporated\n\nKatrine Evans, Chair, Privacy Foundation \n\nNZ Police Association\n\nSteve Watt, President\n\nWellington Community Justice Project - Howard League Submissions Team\n\nCordelia Repail (student volunteer) \nMaivish Khalid (student volunteer) \nJane Hong (student volunteer) \n\nJustice For All Inc\n\nLois McGirr, Secretary  \nJanice Brewer, Treasurer   \nShane Herdman, Member  \n\nPeople Against Prisons Aotearoa\n\nTom Pearce, Parliamentary Advocacy Coordinator \n\nMiro Thomas Ireson \nRoyal Australian and New Zealand College of Psychiatrists \n\nDr John Gregson\n\nPILLAR NZ\n\nArian Tashakkori, Head of Operations \nNathan Seiuli, Executive Director \n\nBIPOC Legal Collective Aotearoa \n\nShaymaa Arif, Founder\n\nMana Mokopuna - Children's Commissioner\n\nDr Claire Achmad",
+    "webpage_url": "https://vimeo.com/1061109654",
+    "original_url": "https://vimeo.com/1061109654",
+    "upload_date": "20260511",
+    "timestamp": 1778470128,
+    "release_timestamp": 1778470141,
+    "duration": 8469,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2155943331-3a679da29c2947927c0d2202ee3da24b1529bdea698d644b7099be6fd8b59c11-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/299823690.vtt?expires=1778504677&sig=0a478b840d80784e4b32321fa41ee579b3c305d4&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:27:37.656959+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1185336992",
+  "title": "2026 04 22 FEC",
+  "url": "https://vimeo.com/1185336992",
+  "published_at": "20260422",
+  "published_display": "2026-04-22",
+  "duration_seconds": 742,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 739.51,
+    "segment_count": 283,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 22 FEC - vimeo_1185336992\\2026 04 22 FEC - vimeo_1185336992.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185336992",
+    "display_id": "1185336992",
+    "title": "2026 04 22 FEC",
+    "description": "Wednesday 22 April 2026| Finance and Expenditure Committee\nReview briefing on the 2024/25 Annual review of New Zealand Green Investment Finance Limited\nNew Zealand Green Investment Finance Limited\nDavid Woods, Chair\nSarah Minhinnick, Chief Executive",
+    "webpage_url": "https://vimeo.com/1185336992",
+    "original_url": "https://vimeo.com/1185336992",
+    "upload_date": "20260422",
+    "timestamp": 1776820615,
+    "release_timestamp": 1776820622,
+    "duration": 742,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2148767488-670885a00c46ae3d5801065b323c6a5c3fcdc76e6ce03475982399ffa5b25c08-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/295941902.vtt?expires=1778506061&sig=dfa869e790b9ba1187c0b9657ab60cafb4a375e5&download=auto_generated_captions.vtt"
+  }
+}

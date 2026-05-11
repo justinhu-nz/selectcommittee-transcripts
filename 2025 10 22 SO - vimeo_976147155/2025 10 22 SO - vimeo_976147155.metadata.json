@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:07:51.694129+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_976147155",
+  "title": "2025 10 22 SO",
+  "url": "https://vimeo.com/976147155",
+  "published_at": "20251022",
+  "published_display": "2025-10-22",
+  "duration_seconds": 5298,
+  "source_labels": "Vimeo Showcase 6380625",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5296.16,
+    "segment_count": 2122,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025 10 22 SO - vimeo_976147155\\2025 10 22 SO - vimeo_976147155.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "976147155",
+    "display_id": "976147155",
+    "title": "2025 10 22 SO",
+    "description": "Wednesday 22 October 2025 | Standing Orders Committee\n\nHearing of evidence | Review of Standing Orders 2026\n\nClerk of the House of Representatives\nDr David Wilson, Clerk of the House of Representatives\nParliamentary Counsel Office\nCassie Nicholson KC, Chief Parliamentary Counsel\nKarl Simpson, Deputy Chief Parliamentary Counsel, System and Stewardship\nParliamentary Commissioner for the Environment\nSimon Upton, Parliamentary Commissioner for the Environment\nRebecca Thornley, General-Counsel\nMatt Paterson, Chief Advisor - Policy and Programmes",
+    "webpage_url": "https://vimeo.com/976147155",
+    "original_url": "https://vimeo.com/976147155",
+    "upload_date": "20251022",
+    "timestamp": 1761109740,
+    "release_timestamp": 1761109749,
+    "duration": 5298,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073642256-c57c306b216bbd990daa26e251fe7210c266fa98d562e699ca5ef959613d5840-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260479592.vtt?expires=1778504875&sig=ab6aaba5816325bb29ebe6a4feec420943ed920e&download=auto_generated_captions.vtt"
+  }
+}

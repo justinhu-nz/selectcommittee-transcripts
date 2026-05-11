@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:27:10.541876+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159414216",
+  "title": "2026/02/19 - FD",
+  "url": "https://vimeo.com/1159414216",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 2625,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2623.47,
+    "segment_count": 1026,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_02_19 - FD - vimeo_1159414216\\2026_02_19 - FD - vimeo_1159414216.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159414216",
+    "display_id": "1159414216",
+    "title": "2026/02/19 - FD",
+    "description": "Thursday 19 February 2026 | Foreign Affairs, Defence and Trade Committee\n \nMinistry of Business, Innovation and Employment and Ministry of Foreign Affairs and Trade, Long-term Insights Briefing 2025\n\nHearing of evidence\nSubmitters List:\nMinistry of Foreign Affairs and Trade\n\nVangelis Vitalis, Deputy Secretary, Trade and Economic Group\nDeighton Condor, Unit Manager, Strategy and Performance Division\nGeoff King, Chief Economist/Head of Research and Analysis Unit, Economic Division\nJames Messent, Unit Manager, Trade Policy, Engagement and Implementation Division\n\n\nMinistry of Business, Employment and Innovation\n\nNic Blakeley, Chief Executive\nPaul Stocks, Deputy Secretary, Building Resource Markets\nRobyn Henderson, General Manager, Economic Growth\nHamish Wilson, Manager, Economic Strategy and Insights\nKatherine Silvester, Principal Adviser, Economic Strategy and Insights",
+    "webpage_url": "https://vimeo.com/1159414216",
+    "original_url": "https://vimeo.com/1159414216",
+    "upload_date": "20260218",
+    "timestamp": 1771444233,
+    "release_timestamp": 1771444243,
+    "duration": 2625,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123643554-612b2c289f23654d720d37ff8cee3826304fed73d4d88738ed027b0fa12d1c61-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283468234.vtt?expires=1778506034&sig=a22a8c0f1802d5b7298e252edf1d569a6c159f27&download=auto_generated_captions.vtt"
+  }
+}

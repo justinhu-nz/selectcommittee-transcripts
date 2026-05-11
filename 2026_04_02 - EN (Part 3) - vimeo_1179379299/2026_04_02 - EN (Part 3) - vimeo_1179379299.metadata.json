@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:28:02.136909+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1179379299",
+  "title": "2026/04/02 - EN (Part 3)",
+  "url": "https://vimeo.com/1179379299",
+  "published_at": "20260402",
+  "published_display": "2026-04-02",
+  "duration_seconds": 5292,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5285.74,
+    "segment_count": 1542,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_02 - EN (Part 3) - vimeo_1179379299\\2026_04_02 - EN (Part 3) - vimeo_1179379299.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1179379299",
+    "display_id": "1179379299",
+    "title": "2026/04/02 - EN (Part 3)",
+    "description": "Thursday 2 April 2026 | Environment Committee\n\nEnvironment (Disestablishment of Ministry for the Environment) Amendment Bill\n\nHearing of evidence:\n\nList of submitters:\n\nAnimal Justice Party Aotearoa New Zealand\n   Danette Wereta\n\nJenny Easton\n\nBruce Gilkison\n\nEnvironment and Conservation Organisations of Aotearoa-NZ\n   Barry Weeber, Chairperson \n\nPirirakau Tribal Authority - Incorporated\n  Heta Gardiner, Kaihaut\u016b - General Manager\n\nWWF New Zealand\n   Jamie Fowler, Conservation Impact Manager  \n   Lillian Fougere, Principal Policy Advisor, Conservation Impact\n\nTroy Baisden\n\nRoyal Forest and Bird Society of New Zealand\n  Richard Capie, Chief Advisor  \n  Erika Toleman, Acting Chief Executive\n\nZoran Rakovic\n\nSouthern Young Labour\n   Liam Calder, Vice-Chair \n\nNelson Tasman Climate Forum\n   David Bartle  \n   Fred Overmars\n\nParliamentary Commissioner for the Environment\n   Simon Upton, Commissioner  \n   Geoff Simmons, Chief Advisor - Strategy and Policy  \n   Rebecca Thornley, General Counsel",
+    "webpage_url": "https://vimeo.com/1179379299",
+    "original_url": "https://vimeo.com/1179379299",
+    "upload_date": "20260402",
+    "timestamp": 1775089189,
+    "release_timestamp": 1775089203,
+    "duration": 5292,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2141258242-35af30cd5b8afe5033c7864b92d3f9efb226b0ebff255d2f020dcb4794043cbf-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291989231.vtt?expires=1778506086&sig=1028a30cb8ab6c17da3b84620cd319e4a6455020&download=auto_generated_captions.vtt"
+  }
+}

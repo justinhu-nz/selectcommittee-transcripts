@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-11T10:11:45.053185+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138351188",
+  "title": "2025/12/10 RR",
+  "url": "https://vimeo.com/1138351188",
+  "published_at": "20251210",
+  "published_display": "2025-12-10",
+  "duration_seconds": 1987,
+  "source_labels": "Vimeo Showcase 10828818",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1987.01,
+    "segment_count": 639,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025_12_10 RR - vimeo_1138351188\\2025_12_10 RR - vimeo_1138351188.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138351188",
+    "display_id": "1138351188",
+    "title": "2025/12/10 RR",
+    "webpage_url": "https://vimeo.com/1138351188",
+    "original_url": "https://vimeo.com/1138351188",
+    "upload_date": "20251210",
+    "timestamp": 1765338187,
+    "release_timestamp": 1765338195,
+    "duration": 1987,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2094318877-2c5056a1451bc2c30b66e374c7016651c7b9a9f0f7c454770dd56583f8c95e6f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271086586.vtt?expires=1778501509&sig=43445b385b0e00ea0f5675662c2d215bb60f41d3&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,2468 @@
+{
+  "language": "en-x-autogen",
+  "duration": 2212.57,
+  "segments": [
+    {
+      "start": 915.43,
+      "end": 916.28,
+      "text": "Morning and welcome."
+    },
+    {
+      "start": 916.29,
+      "end": 917.97,
+      "text": "Thank you for coming in this morning. Good morning."
+    },
+    {
+      "start": 917.97,
+      "end": 919.8,
+      "text": "Thanks so much for Morning. Morning. Good morning."
+    },
+    {
+      "start": 919.8,
+      "end": 921.64,
+      "text": "Good morning. Thanks very much for the invitation."
+    },
+    {
+      "start": 922.42,
+      "end": 926.57,
+      "text": "Um, uh, I'm Brian Heska, the head of, uh, policy Evidence"
+    },
+    {
+      "start": 926.57,
+      "end": 927.85,
+      "text": "and Insights at a CC."
+    },
+    {
+      "start": 927.9,
+      "end": 930.0,
+      "text": "And, um, I've got with me, um, Carly Woodham,"
+    },
+    {
+      "start": 930.0,
+      "end": 932.49,
+      "text": "who's our principal advisor and hopefully online."
+    },
+    {
+      "start": 933.47,
+      "end": 935.12,
+      "text": "Um, we've got, uh, colleague"
+    },
+    {
+      "start": 936.2,
+      "end": 938.12,
+      "text": "beaming in from our Manco office."
+    },
+    {
+      "start": 938.47,
+      "end": 941.45,
+      "text": "Um, he's our manager of operations payments."
+    },
+    {
+      "start": 941.59,
+      "end": 945.52,
+      "text": "Um, so he is, um, he's responsible for that interface"
+    },
+    {
+      "start": 945.55,
+      "end": 948.12,
+      "text": "between a CC and ESD for processing the payments."
+    },
+    {
+      "start": 948.12,
+      "end": 950.64,
+      "text": "So if we need to turn to him for the expert, um,"
+    },
+    {
+      "start": 951.5,
+      "end": 953.73,
+      "text": "expert detail on those parts, the, the process,"
+    },
+    {
+      "start": 953.88,
+      "end": 955.09,
+      "text": "then he's available for that."
+    },
+    {
+      "start": 955.1,
+      "end": 959.88,
+      "text": "There is the great, um, look, thanks very much."
+    },
+    {
+      "start": 959.9,
+      "end": 962.52,
+      "text": "We haven't actually sent the committee any written material"
+    },
+    {
+      "start": 962.75,
+      "end": 964.12,
+      "text": "for this session, um,"
+    },
+    {
+      "start": 964.12,
+      "end": 967.57,
+      "text": "but we have worked, um, with NSD last week into the process,"
+    },
+    {
+      "start": 967.75,
+      "end": 970.0,
+      "text": "um, for your consideration of the bo for their advice"
+    },
+    {
+      "start": 970.0,
+      "end": 971.04,
+      "text": "that they provided you."
+    },
+    {
+      "start": 971.99,
+      "end": 975.28,
+      "text": "Um, uh, and we, we, you know, we"
+    },
+    {
+      "start": 975.45,
+      "end": 977.21,
+      "text": "provided what we could within that timeframe."
+    },
+    {
+      "start": 977.88,
+      "end": 980.37,
+      "text": "I know that you'll definitely have questions that you wanted"
+    },
+    {
+      "start": 980.38,
+      "end": 982.28,
+      "text": "to, to launch into, but would it be helpful if"
+    },
+    {
+      "start": 982.28,
+      "end": 983.37,
+      "text": "we just gave a little bit of context?"
+    },
+    {
+      "start": 983.54,
+      "end": 984.88,
+      "text": "Yes, please. As much upfront about"
+    },
+    {
+      "start": 984.88,
+      "end": 986.0,
+      "text": "where things stand at the moment."
+    },
+    {
+      "start": 987.18,
+      "end": 989.04,
+      "text": "Um, we know that you,"
+    },
+    {
+      "start": 989.04,
+      "end": 991.25,
+      "text": "you've probably got quite an interest just to sort of try"
+    },
+    {
+      "start": 991.25,
+      "end": 993.8,
+      "text": "to understand a bit more about who these clients are."
+    },
+    {
+      "start": 994.07,
+      "end": 998.33,
+      "text": "Um, from accs perspective, um, we, um,"
+    },
+    {
+      "start": 998.47,
+      "end": 1002.12,
+      "text": "the difficulty there is that, um, uh, the,"
+    },
+    {
+      "start": 1002.23,
+      "end": 1003.45,
+      "text": "the process payments that we have"
+    },
+    {
+      "start": 1003.45,
+      "end": 1005.92,
+      "text": "with MSD are quite a manual process, so it's quite difficult"
+    },
+    {
+      "start": 1005.92,
+      "end": 1007.33,
+      "text": "for us to isolate"
+    },
+    {
+      "start": 1007.33,
+      "end": 1010.04,
+      "text": "and extract the data about those people from our systems in"
+    },
+    {
+      "start": 1010.04,
+      "end": 1012.25,
+      "text": "the same way that MSDI think struggled to,"
+    },
+    {
+      "start": 1012.9,
+      "end": 1014.45,
+      "text": "to extract those, that detail."
+    },
+    {
+      "start": 1014.59,
+      "end": 1016.33,
+      "text": "But what we have done over the last few days,"
+    },
+    {
+      "start": 1016.46,
+      "end": 1019.37,
+      "text": "we've had a key person, um, just pull a sample"
+    },
+    {
+      "start": 1019.66,
+      "end": 1021.45,
+      "text": "of cases over the last year."
+    },
+    {
+      "start": 1022.08,
+      "end": 1025.53,
+      "text": "It's a small sample, but of of 50 cases, um, that we, um,"
+    },
+    {
+      "start": 1026.14,
+      "end": 1028.81,
+      "text": "can track where we've, where we've had back payments going"
+    },
+    {
+      "start": 1028.81,
+      "end": 1031.01,
+      "text": "to MSD, um,"
+    },
+    {
+      "start": 1031.11,
+      "end": 1036.05,
+      "text": "and what they show is, um, that, um, uh,"
+    },
+    {
+      "start": 1036.11,
+      "end": 1039.64,
+      "text": "unsurprisingly about 65% of those were sensitive payments."
+    },
+    {
+      "start": 1039.66,
+      "end": 1040.72,
+      "text": "So those are how much?"
+    },
+    {
+      "start": 1040.89,
+      "end": 1044.33,
+      "text": "About 65%, so about 33 out of that 50."
+    },
+    {
+      "start": 1045.74,
+      "end": 1050.44,
+      "text": "Um, and um, about, um, uh,"
+    },
+    {
+      "start": 1050.44,
+      "end": 1053.92,
+      "text": "25% were, were at another category within,"
+    },
+    {
+      "start": 1054.62,
+      "end": 1057.44,
+      "text": "within the remaining you've got things like treatment,"
+    },
+    {
+      "start": 1057.44,
+      "end": 1059.88,
+      "text": "injury claims and, um, other serious injury claims."
+    },
+    {
+      "start": 1060.62,
+      "end": 1061.81,
+      "text": "Can you just say that again?"
+    },
+    {
+      "start": 1062.14,
+      "end": 1065.2,
+      "text": "So, so about 4% treatment injury claims,"
+    },
+    {
+      "start": 1065.28,
+      "end": 1067.88,
+      "text": "4% serious injury claims within that."
+    },
+    {
+      "start": 1068.83,
+      "end": 1072.72,
+      "text": "Um, and then the other 25% are made up of, um,"
+    },
+    {
+      "start": 1072.79,
+      "end": 1073.92,
+      "text": "the other types of claims."
+    },
+    {
+      "start": 1073.98,
+      "end": 1077.77,
+      "text": "So those are things like, um, oh, actually, sorry."
+    },
+    {
+      "start": 1077.8,
+      "end": 1079.88,
+      "text": "Gradual process is the other small category."
+    },
+    {
+      "start": 1079.88,
+      "end": 1080.92,
+      "text": "I think that's about 2%."
+    },
+    {
+      "start": 1081.35,
+      "end": 1082.68,
+      "text": "Um, so the other kind of claims,"
+    },
+    {
+      "start": 1082.68,
+      "end": 1085.53,
+      "text": "so those are late lodged claims or hearing loss claims"
+    },
+    {
+      "start": 1085.66,
+      "end": 1088.85,
+      "text": "or other kind of complex, complex claims where we need"
+    },
+    {
+      "start": 1088.85,
+      "end": 1090.64,
+      "text": "that time to, to work through things."
+    },
+    {
+      "start": 1091.18,
+      "end": 1095.57,
+      "text": "Mm-hmm. Um, unsurprising, I mean, you know, um, linked to"
+    },
+    {
+      "start": 1095.57,
+      "end": 1098.2,
+      "text": "that, uh, we have done, we've been able to do a bit"
+    },
+    {
+      "start": 1098.2,
+      "end": 1100.33,
+      "text": "of analysis about, um, gender breakdown."
+    },
+    {
+      "start": 1100.46,
+      "end": 1103.61,
+      "text": "So 70% are are female, um,"
+    },
+    {
+      "start": 1106.15,
+      "end": 1110.54,
+      "text": "and, um, the age of those clients looks predominantly,"
+    },
+    {
+      "start": 1110.71,
+      "end": 1113.38,
+      "text": "you know, quite a large volume towards the 50"
+    },
+    {
+      "start": 1113.47,
+      "end": 1115.34,
+      "text": "to 70, um, range."
+    },
+    {
+      "start": 1116.28,
+      "end": 1120.03,
+      "text": "Um, about, um, uh,"
+    },
+    {
+      "start": 1121.29,
+      "end": 1123.89,
+      "text": "what is that 2023 of, of those people are in"
+    },
+    {
+      "start": 1123.89,
+      "end": 1127.1,
+      "text": "that higher bracket at the moment, that's their age now."
+    },
+    {
+      "start": 1127.95,
+      "end": 1130.54,
+      "text": "Um, but obviously the, the event, um,"
+    },
+    {
+      "start": 1130.8,
+      "end": 1132.78,
+      "text": "may have occurred many years ago, particularly"
+    },
+    {
+      "start": 1132.8,
+      "end": 1134.26,
+      "text": "for 4 cents claimants."
+    },
+    {
+      "start": 1135.35,
+      "end": 1137.33,
+      "text": "So those are some sort of basic kind of, um,"
+    },
+    {
+      "start": 1137.33,
+      "end": 1139.4,
+      "text": "demographic details that we're able to get from that sample."
+    },
+    {
+      "start": 1139.42,
+      "end": 1141.68,
+      "text": "As I say, it's a very small sample, um,"
+    },
+    {
+      "start": 1141.87,
+      "end": 1144.4,
+      "text": "and that kind of profile will change over time."
+    },
+    {
+      "start": 1144.62,
+      "end": 1147.85,
+      "text": "Mm-hmm. What we've seen, particularly in the last year"
+    },
+    {
+      "start": 1148.03,
+      "end": 1149.68,
+      "text": "or couple of years, has been, uh,"
+    },
+    {
+      "start": 1149.68,
+      "end": 1151.53,
+      "text": "quite a large growth of sensitive claims."
+    },
+    {
+      "start": 1151.53,
+      "end": 1154.57,
+      "text": "Mm-hmm. Generally, um, as there's been a higher profile"
+    },
+    {
+      "start": 1154.57,
+      "end": 1157.48,
+      "text": "of attention, you know, with, um, survivors of state abuse"
+    },
+    {
+      "start": 1157.83,
+      "end": 1160.4,
+      "text": "and, um, you know, other mechanisms"
+    },
+    {
+      "start": 1160.4,
+      "end": 1162.44,
+      "text": "that have really supported people to come forward"
+    },
+    {
+      "start": 1162.44,
+      "end": 1163.61,
+      "text": "to, to make these claims."
+    },
+    {
+      "start": 1163.83,
+      "end": 1167.33,
+      "text": "Mm. And of course, um, I think you've had notes that, uh,"
+    },
+    {
+      "start": 1167.35,
+      "end": 1169.48,
+      "text": "the, the t in case that went through the court"
+    },
+    {
+      "start": 1169.48,
+      "end": 1172.81,
+      "text": "of appeal at the end of 2024 has encouraged a lot of people"
+    },
+    {
+      "start": 1172.83,
+      "end": 1175.29,
+      "text": "to come to us to now seek, um, a form"
+    },
+    {
+      "start": 1175.29,
+      "end": 1177.68,
+      "text": "of weekly compensation called, um, loss"
+    },
+    {
+      "start": 1177.68,
+      "end": 1181.85,
+      "text": "of potential earnings, um, that dates back to, uh,"
+    },
+    {
+      "start": 1181.85,
+      "end": 1183.92,
+      "text": "particularly for people that were abused as children."
+    },
+    {
+      "start": 1186.28,
+      "end": 1188.3,
+      "text": "So hopefully that just sort of sets a little bit of context"
+    },
+    {
+      "start": 1188.53,
+      "end": 1189.78,
+      "text": "that come Thank you, um,"
+    },
+    {
+      "start": 1189.78,
+      "end": 1191.62,
+      "text": "found in the conversation today. So that, that"
+    },
+    {
+      "start": 1191.62,
+      "end": 1195.1,
+      "text": "50, that's 50 of what, what's the Yeah,"
+    },
+    {
+      "start": 1195.43,
+      "end": 1197.34,
+      "text": "So I mean, there 37,000 that Ms."
+    },
+    {
+      "start": 1197.38,
+      "end": 1199.65,
+      "text": "D, um, provided, you know, over the last kind"
+    },
+    {
+      "start": 1199.65,
+      "end": 1201.62,
+      "text": "of 25, 27 years, I think."
+    },
+    {
+      "start": 1201.91,
+      "end": 1204.13,
+      "text": "Um, this is only, um, over one,"
+    },
+    {
+      "start": 1204.61,
+      "end": 1206.06,
+      "text": "just looking back over the last year."
+    },
+    {
+      "start": 1206.52,
+      "end": 1208.82,
+      "text": "Um, but we get about, I think s can confirm,"
+    },
+    {
+      "start": 1208.82,
+      "end": 1211.3,
+      "text": "but about 60 to 70 claims like that a month"
+    },
+    {
+      "start": 1211.3,
+      "end": 1213.58,
+      "text": "that we do some sort of reimbursement with MSD."
+    },
+    {
+      "start": 1213.84,
+      "end": 1216.49,
+      "text": "So it is a, it is a obviously a point in time. Yeah."
+    },
+    {
+      "start": 1216.49,
+      "end": 1218.17,
+      "text": "Um, and, and a small, a small number."
+    },
+    {
+      "start": 1218.79,
+      "end": 1219.97,
+      "text": "Great. Thank you, Raquel."
+    },
+    {
+      "start": 1220.55,
+      "end": 1222.78,
+      "text": "Thank you so much for trying to at least get a sample."
+    },
+    {
+      "start": 1222.78,
+      "end": 1224.54,
+      "text": "Appreciate it. We've been struggling"
+    },
+    {
+      "start": 1224.54,
+      "end": 1226.3,
+      "text": "to get a picture of who it affects."
+    },
+    {
+      "start": 1226.39,
+      "end": 1227.97,
+      "text": "Now for the lay person,"
+    },
+    {
+      "start": 1228.46,
+      "end": 1231.82,
+      "text": "would you mind further expanding when you say"
+    },
+    {
+      "start": 1232.38,
+      "end": 1233.93,
+      "text": "sensitive claims, I know this is,"
+    },
+    {
+      "start": 1234.02,
+      "end": 1235.45,
+      "text": "I know this is quite a delicate issue."
+    },
+    {
+      "start": 1235.93,
+      "end": 1240.13,
+      "text": "Hmm. Would you mind expanding on what kind"
+    },
+    {
+      "start": 1240.13,
+      "end": 1241.49,
+      "text": "of issues people may have been facing"
+    },
+    {
+      "start": 1242.23,
+      "end": 1245.54,
+      "text": "and would you also expand why often these claims do take"
+    },
+    {
+      "start": 1245.62,
+      "end": 1249.29,
+      "text": "quite some time to be basically processed?"
+    },
+    {
+      "start": 1249.36,
+      "end": 1251.05,
+      "text": "Yeah. Um, because obviously we know"
+    },
+    {
+      "start": 1251.05,
+      "end": 1253.96,
+      "text": "that the longer the claims get take to get processed,"
+    },
+    {
+      "start": 1253.96,
+      "end": 1255.64,
+      "text": "the larger the debts are likely to be."
+    },
+    {
+      "start": 1255.8,
+      "end": 1257.92,
+      "text": "Yeah. Um, so if you wouldn't mind expanding on,"
+    },
+    {
+      "start": 1258.36,
+      "end": 1260.29,
+      "text": "what are we talking about when you say sensitive claims?"
+    },
+    {
+      "start": 1260.59,
+      "end": 1263.2,
+      "text": "Who are we talking about and also why did it take"
+    },
+    {
+      "start": 1263.31,
+      "end": 1264.37,
+      "text": "so long? Sure."
+    },
+    {
+      "start": 1264.94,
+      "end": 1268.68,
+      "text": "So, so since the claimants are, um, covered under the act"
+    },
+    {
+      "start": 1268.68,
+      "end": 1272.37,
+      "text": "where they, uh, are people who have, um, mental trauma from,"
+    },
+    {
+      "start": 1272.51,
+      "end": 1275.33,
+      "text": "um, sexual abuse or other types of, um, sexual crimes"
+    },
+    {
+      "start": 1275.56,
+      "end": 1280.48,
+      "text": "that are, um, prescribed in, in the act, um, the,"
+    },
+    {
+      "start": 1280.48,
+      "end": 1284.33,
+      "text": "that that trauma can arise, um, many years"
+    },
+    {
+      "start": 1284.38,
+      "end": 1287.96,
+      "text": "after the event, typically does the PTD that people or,"
+    },
+    {
+      "start": 1287.96,
+      "end": 1291.09,
+      "text": "or other cognitive, um, psychological trauma"
+    },
+    {
+      "start": 1291.09,
+      "end": 1293.88,
+      "text": "that people experience can arise many years after the event."
+    },
+    {
+      "start": 1293.88,
+      "end": 1295.24,
+      "text": "Sometimes, you know, uh,"
+    },
+    {
+      "start": 1295.24,
+      "end": 1297.61,
+      "text": "people might not be launching a claim for, for decades,"
+    },
+    {
+      "start": 1297.79,
+      "end": 1298.85,
+      "text": "in fact, after that event."
+    },
+    {
+      "start": 1299.51,
+      "end": 1302.4,
+      "text": "And that's what can make it quite difficult to, to unravel"
+    },
+    {
+      "start": 1302.83,
+      "end": 1306.16,
+      "text": "so that when people have been seeking treatment, um,"
+    },
+    {
+      "start": 1307.22,
+      "end": 1309.96,
+      "text": "you know, they'll be working with, with, um, counselors"
+    },
+    {
+      "start": 1309.96,
+      "end": 1313.16,
+      "text": "and other and specialists to sort of understand, um,"
+    },
+    {
+      "start": 1313.66,
+      "end": 1317.21,
+      "text": "you know, has that, can we first treat you"
+    },
+    {
+      "start": 1317.95,
+      "end": 1320.78,
+      "text": "but also make sure that we understand, is that trauma linked"
+    },
+    {
+      "start": 1320.8,
+      "end": 1324.22,
+      "text": "to though that event that occurred decades ago?"
+    },
+    {
+      "start": 1325.01,
+      "end": 1326.51,
+      "text": "Or, um, are there other things"
+    },
+    {
+      "start": 1326.51,
+      "end": 1329.03,
+      "text": "that have happened in your life that, you know, this, um,"
+    },
+    {
+      "start": 1329.18,
+      "end": 1331.35,
+      "text": "PTD that you now, or cognitive, um, you know,"
+    },
+    {
+      "start": 1331.35,
+      "end": 1333.22,
+      "text": "condition you're, you're displaying mm-hmm."
+    },
+    {
+      "start": 1333.36,
+      "end": 1336.14,
+      "text": "Links to, to other issues Yeah. That you might have. Just"
+    },
+    {
+      "start": 1336.22,
+      "end": 1338.42,
+      "text": "A quick follow up, what kind of documentations"
+    },
+    {
+      "start": 1338.45,
+      "end": 1339.94,
+      "text": "that people then have to produce?"
+    },
+    {
+      "start": 1340.53,
+      "end": 1344.59,
+      "text": "Um, obviously it seems like can be a lengthy process talking"
+    },
+    {
+      "start": 1344.59,
+      "end": 1346.59,
+      "text": "to lawyers and sensitive claimants."
+    },
+    {
+      "start": 1346.92,
+      "end": 1349.9,
+      "text": "Um, you know, what documents are people expected to have"
+    },
+    {
+      "start": 1349.9,
+      "end": 1353.14,
+      "text": "to provide, um, which can further delay them being able"
+    },
+    {
+      "start": 1353.14,
+      "end": 1354.35,
+      "text": "to get the claim?"
+    },
+    {
+      "start": 1354.73,
+      "end": 1355.9,
+      "text": "Yeah. Well, there's, there's"
+    },
+    {
+      "start": 1355.9,
+      "end": 1356.98,
+      "text": "different parts of the process."
+    },
+    {
+      "start": 1357.44,
+      "end": 1359.87,
+      "text": "So, um, the, the first part"
+    },
+    {
+      "start": 1359.87,
+      "end": 1361.9,
+      "text": "of the process is just determining cover, you know,"
+    },
+    {
+      "start": 1362.1,
+      "end": 1365.94,
+      "text": "does a person have a, a, um, an injury they can point to"
+    },
+    {
+      "start": 1365.97,
+      "end": 1367.66,
+      "text": "that is covered by the scheme?"
+    },
+    {
+      "start": 1367.96,
+      "end": 1370.14,
+      "text": "And that's, that's what, you know, a large amount of"
+    },
+    {
+      "start": 1370.14,
+      "end": 1374.07,
+      "text": "that first process is, is involved looking at, um,"
+    },
+    {
+      "start": 1375.41,
+      "end": 1377.51,
+      "text": "four sensitive payments that the benefit"
+    },
+    {
+      "start": 1377.51,
+      "end": 1379.35,
+      "text": "that they do have is that we, during"
+    },
+    {
+      "start": 1379.35,
+      "end": 1381.27,
+      "text": "that period will provide them with"
+    },
+    {
+      "start": 1381.27,
+      "end": 1382.59,
+      "text": "what we call pre cover support."
+    },
+    {
+      "start": 1382.61,
+      "end": 1386.42,
+      "text": "So they get a number of hours of counseling that a CC, um,"
+    },
+    {
+      "start": 1386.86,
+      "end": 1391.2,
+      "text": "pays for them in their early period, um, uh, both"
+    },
+    {
+      "start": 1391.2,
+      "end": 1394.53,
+      "text": "through counseling and through other types of, um, of, um,"
+    },
+    {
+      "start": 1395.18,
+      "end": 1397.24,
+      "text": "of supports in that period."
+    },
+    {
+      "start": 1398.14,
+      "end": 1400.4,
+      "text": "Can you just expand on what you mean by that early period?"
+    },
+    {
+      "start": 1400.76,
+      "end": 1402.09,
+      "text": "What, like, while we"
+    },
+    {
+      "start": 1402.09,
+      "end": 1404.16,
+      "text": "Are determined and cover while we are working through"
+    },
+    {
+      "start": 1404.16,
+      "end": 1407.77,
+      "text": "that process with, um, with those, uh, those counselors"
+    },
+    {
+      "start": 1407.79,
+      "end": 1411.24,
+      "text": "or other, um, medical professionals that they're seeing to,"
+    },
+    {
+      "start": 1411.55,
+      "end": 1414.77,
+      "text": "um, to, to work through that process of,"
+    },
+    {
+      "start": 1414.79,
+      "end": 1418.96,
+      "text": "of determining cover, once we, once we, um, provide"
+    },
+    {
+      "start": 1418.96,
+      "end": 1421.96,
+      "text": "that cover, then, um, as I say, um, you know,"
+    },
+    {
+      "start": 1421.96,
+      "end": 1425.37,
+      "text": "people can then, um, also, uh, come to us"
+    },
+    {
+      "start": 1425.42,
+      "end": 1426.85,
+      "text": "to seek other entitlements."
+    },
+    {
+      "start": 1428.4,
+      "end": 1430.66,
+      "text": "Um, other than that the, the medical treatment"
+    },
+    {
+      "start": 1430.66,
+      "end": 1431.94,
+      "text": "or the counseling, um,"
+    },
+    {
+      "start": 1431.96,
+      "end": 1434.11,
+      "text": "and they can include financial, uh,"
+    },
+    {
+      "start": 1434.11,
+      "end": 1435.9,
+      "text": "compensation entitlements."
+    },
+    {
+      "start": 1436.53,
+      "end": 1438.55,
+      "text": "And it's at that point where, um,"
+    },
+    {
+      "start": 1439.12,
+      "end": 1441.87,
+      "text": "we will be often interfacing with NSD to understand,"
+    },
+    {
+      "start": 1442.05,
+      "end": 1443.94,
+      "text": "you know, if you're a beneficiary at that point"
+    },
+    {
+      "start": 1443.94,
+      "end": 1445.51,
+      "text": "or have been over that that time."
+    },
+    {
+      "start": 1446.72,
+      "end": 1449.74,
+      "text": "Um, and what we do in the first instance is sort of say,"
+    },
+    {
+      "start": 1449.74,
+      "end": 1451.59,
+      "text": "look, you know, um, if we're covering you"
+    },
+    {
+      "start": 1451.61,
+      "end": 1453.11,
+      "text": "and you need financial assistance,"
+    },
+    {
+      "start": 1453.64,
+      "end": 1456.51,
+      "text": "we will then make an arrangement with NSD to hand"
+    },
+    {
+      "start": 1456.51,
+      "end": 1458.46,
+      "text": "that person over to us so that we're paying them forward."
+    },
+    {
+      "start": 1459.92,
+      "end": 1464.51,
+      "text": "The next question is, can we work out whether we, um, uh,"
+    },
+    {
+      "start": 1464.92,
+      "end": 1466.74,
+      "text": "you know, how long this, this period has been"
+    },
+    {
+      "start": 1466.74,
+      "end": 1468.66,
+      "text": "and what that amount of back payment might be?"
+    },
+    {
+      "start": 1468.81,
+      "end": 1471.51,
+      "text": "And that is a process where we are working with NSD to,"
+    },
+    {
+      "start": 1472.09,
+      "end": 1473.14,
+      "text": "to determine, you know,"
+    },
+    {
+      "start": 1473.24,
+      "end": 1476.18,
+      "text": "the period at which they've been on benefits or inside work"
+    },
+    {
+      "start": 1476.4,
+      "end": 1479.35,
+      "text": "or, um, you know, with other kinds of supports."
+    },
+    {
+      "start": 1479.57,
+      "end": 1481.62,
+      "text": "And that's the kind of one of the key focus for"
+    },
+    {
+      "start": 1481.62,
+      "end": 1484.7,
+      "text": "what we're talking about today is when we're reimbursing MSD"
+    },
+    {
+      "start": 1484.77,
+      "end": 1487.83,
+      "text": "for, for lot for those kind of payments. M"
+    },
+    {
+      "start": 1488.28,
+      "end": 1489.28,
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "start": 1489.28,
+      "end": 1491.9,
+      "text": "Um, look, I, I'm getting the picture"
+    },
+    {
+      "start": 1491.97,
+      "end": 1493.83,
+      "text": "that it's very individualized."
+    },
+    {
+      "start": 1493.83,
+      "end": 1496.11,
+      "text": "There is no template That's right, absolutely."
+    },
+    {
+      "start": 1496.11,
+      "end": 1498.14,
+      "text": "Across all of the clients that you are working with,"
+    },
+    {
+      "start": 1498.68,
+      "end": 1501.94,
+      "text": "but given that you are working so intensely"
+    },
+    {
+      "start": 1502.1,
+      "end": 1504.74,
+      "text": "with such a large number of people mm-hmm."
+    },
+    {
+      "start": 1504.74,
+      "end": 1505.79,
+      "text": "Mm-hmm. Um, and,"
+    },
+    {
+      "start": 1506.24,
+      "end": 1509.35,
+      "text": "and now the hiccup that we've got here with these, you know,"
+    },
+    {
+      "start": 1509.35,
+      "end": 1514.07,
+      "text": "the retrospective, can you see the system and,"
+    },
+    {
+      "start": 1514.53,
+      "end": 1516.66,
+      "text": "and where some streamlining"
+    },
+    {
+      "start": 1517.01,
+      "end": 1519.03,
+      "text": "or some improvements could be made?"
+    },
+    {
+      "start": 1520.49,
+      "end": 1522.94,
+      "text": "Yeah. Um, that's a, that's a good question."
+    },
+    {
+      "start": 1523.24,
+      "end": 1527.87,
+      "text": "Um, look, I, I think, um, we are working hard with SD"
+    },
+    {
+      "start": 1527.87,
+      "end": 1530.14,
+      "text": "to make sure that we are processing claims and,"
+    },
+    {
+      "start": 1530.14,
+      "end": 1531.11,
+      "text": "and working with them too"
+    },
+    {
+      "start": 1531.26,
+      "end": 1532.55,
+      "text": "through those things. I'm not looking to"
+    },
+    {
+      "start": 1532.55,
+      "end": 1533.46,
+      "text": "Drop anyone in it. Um,"
+    },
+    {
+      "start": 1533.64,
+      "end": 1535.51,
+      "text": "No, no, no, no, of course not. Course,"
+    },
+    {
+      "start": 1536.01,
+      "end": 1537.22,
+      "text": "It just seems, it just seems"
+    },
+    {
+      "start": 1537.22,
+      "end": 1539.7,
+      "text": "to be quite a clunky arrangement in there."
+    },
+    {
+      "start": 1540.55,
+      "end": 1541.55,
+      "text": "Yeah."
+    },
+    {
+      "start": 1541.97,
+      "end": 1545.32,
+      "text": "Um, yeah, look, look, I think, you know, um,"
+    },
+    {
+      "start": 1546.97,
+      "end": 1548.99,
+      "text": "we we're working within the, the settings that we,"
+    },
+    {
+      "start": 1548.99,
+      "end": 1550.32,
+      "text": "that we've got, um,"
+    },
+    {
+      "start": 1550.54,
+      "end": 1553.39,
+      "text": "and, um, in terms of that operational link, you know,"
+    },
+    {
+      "start": 1553.58,
+      "end": 1557.76,
+      "text": "we are working closely with MSD to, to, to, to make that"
+    },
+    {
+      "start": 1557.76,
+      "end": 1559.08,
+      "text": "as efficient as possible."
+    },
+    {
+      "start": 1559.93,
+      "end": 1562.52,
+      "text": "Um, you know, I might just check in with Ish as"
+    },
+    {
+      "start": 1562.52,
+      "end": 1565.18,
+      "text": "to whether there's any other comments from,"
+    },
+    {
+      "start": 1565.18,
+      "end": 1566.38,
+      "text": "from you ssh about"
+    },
+    {
+      "start": 1568.01,
+      "end": 1569.98,
+      "text": "No, nothing, nothing more to add."
+    },
+    {
+      "start": 1570.12,
+      "end": 1572.27,
+      "text": "Um, other than just confirming that, you know,"
+    },
+    {
+      "start": 1572.33,
+      "end": 1574.46,
+      "text": "it is lankey, it's, it's a manual."
+    },
+    {
+      "start": 1574.64,
+      "end": 1578.22,
+      "text": "The way we, the way we gather information from inland"
+    },
+    {
+      "start": 1578.22,
+      "end": 1580.51,
+      "text": "revenue, earnings related information from inland revenue"
+    },
+    {
+      "start": 1580.81,
+      "end": 1585.38,
+      "text": "and the benefit information from, um, from MSD"
+    },
+    {
+      "start": 1585.58,
+      "end": 1589.22,
+      "text": "because of the, the, um, the, just the number"
+    },
+    {
+      "start": 1589.22,
+      "end": 1591.03,
+      "text": "of years involved in all of this is very manual."
+    },
+    {
+      "start": 1591.12,
+      "end": 1593.22,
+      "text": "So we request the information manually,"
+    },
+    {
+      "start": 1593.88,
+      "end": 1595.66,
+      "text": "we receive the information manually,"
+    },
+    {
+      "start": 1596.2,
+      "end": 1599.94,
+      "text": "we do the calculations manually, and then we, you know,"
+    },
+    {
+      "start": 1600.01,
+      "end": 1601.98,
+      "text": "and then we, we pay the client, right?"
+    },
+    {
+      "start": 1602.09,
+      "end": 1606.09,
+      "text": "So all of that, uh, sending requests manually and receiving"
+    },
+    {
+      "start": 1606.22,
+      "end": 1608.16,
+      "text": "and calculating takes, takes time."
+    },
+    {
+      "start": 1609.15,
+      "end": 1610.96,
+      "text": "Okay. So, and just another sub on that."
+    },
+    {
+      "start": 1611.27,
+      "end": 1614.64,
+      "text": "So, um, your comment within the settings that we've got,"
+    },
+    {
+      "start": 1615.46,
+      "end": 1617.29,
+      "text": "are there some settings that could be improved"
+    },
+    {
+      "start": 1617.38,
+      "end": 1620.61,
+      "text": "and, you know, the committee has looked at the, um,"
+    },
+    {
+      "start": 1620.74,
+      "end": 1624.09,
+      "text": "you know, the, the data collection, um, ai."
+    },
+    {
+      "start": 1624.38,
+      "end": 1627.2,
+      "text": "Are there, are there other things that could assist? Mm."
+    },
+    {
+      "start": 1628.27,
+      "end": 1630.57,
+      "text": "Uh, pro probably, uh, I don't,"
+    },
+    {
+      "start": 1630.59,
+      "end": 1631.88,
+      "text": "we haven't really looked into,"
+    },
+    {
+      "start": 1632.04,
+      "end": 1633.68,
+      "text": "into those things specifically."
+    },
+    {
+      "start": 1633.9,
+      "end": 1637.33,
+      "text": "Um, you know, obviously from our side, from AC side, um,"
+    },
+    {
+      "start": 1637.66,
+      "end": 1639.57,
+      "text": "we have done quite a bit of work to improve"
+    },
+    {
+      "start": 1639.62,
+      "end": 1641.53,
+      "text": "how we are supporting sensitive claimants."
+    },
+    {
+      "start": 1641.53,
+      "end": 1644.68,
+      "text": "We've introduced a new service at the end of, um, December,"
+    },
+    {
+      "start": 1644.94,
+      "end": 1648.05,
+      "text": "uh, 2024, um, which has been embedding over this year."
+    },
+    {
+      "start": 1648.34,
+      "end": 1651.37,
+      "text": "We've, um, markedly increased the number of providers"
+    },
+    {
+      "start": 1651.37,
+      "end": 1654.33,
+      "text": "that are, um, working with us to support those clients."
+    },
+    {
+      "start": 1654.83,
+      "end": 1657.29,
+      "text": "But as I say, you know, we're seeing some very high volumes."
+    },
+    {
+      "start": 1657.62,
+      "end": 1661.85,
+      "text": "Um, and so, um, you know, that's a continuing focus for us"
+    },
+    {
+      "start": 1661.87,
+      "end": 1663.57,
+      "text": "to make sure that we are getting people the,"
+    },
+    {
+      "start": 1663.62,
+      "end": 1665.05,
+      "text": "the right supports at the right time."
+    },
+    {
+      "start": 1665.7,
+      "end": 1668.05,
+      "text": "So Sub material that is, man, what does manually mean?"
+    },
+    {
+      "start": 1668.05,
+      "end": 1670.16,
+      "text": "Does that mean physical paperwork or email"
+    },
+    {
+      "start": 1671.07,
+      "end": 1674.33,
+      "text": "On, on, on, on paper and send via email?"
+    },
+    {
+      "start": 1675.21,
+      "end": 1678.61,
+      "text": "Right. Okay. That I can, I can see the challenge. Yeah."
+    },
+    {
+      "start": 1678.61,
+      "end": 1681.29,
+      "text": "Yeah. And, and just to add to what Brian earlier said,"
+    },
+    {
+      "start": 1681.37,
+      "end": 1684.29,
+      "text": "I think, um, we are working very closely with MSD, um,"
+    },
+    {
+      "start": 1684.46,
+      "end": 1687.24,
+      "text": "our operational teams are, uh, connected to the volume"
+    },
+    {
+      "start": 1687.27,
+      "end": 1688.57,
+      "text": "of requests we're sending through"
+    },
+    {
+      "start": 1688.62,
+      "end": 1692.12,
+      "text": "and working together on receiving the information quickly."
+    },
+    {
+      "start": 1692.74,
+      "end": 1697.09,
+      "text": "Um, so, uh, we, we've got, we've got that on, um,"
+    },
+    {
+      "start": 1697.53,
+      "end": 1699.77,
+      "text": "underway to make sure that we don't add"
+    },
+    {
+      "start": 1699.77,
+      "end": 1700.77,
+      "text": "to the delay ourselves"
+    },
+    {
+      "start": 1702.03,
+      "end": 1703.24,
+      "text": "And, And obviously for them, and,"
+    },
+    {
+      "start": 1703.27,
+      "end": 1705.33,
+      "text": "and I'm sure they would've commented on this, that, um,"
+    },
+    {
+      "start": 1705.9,
+      "end": 1709.34,
+      "text": "you know, if they need to be looking back over 10 years,"
+    },
+    {
+      "start": 1709.34,
+      "end": 1710.54,
+      "text": "20 years worth of records,"
+    },
+    {
+      "start": 1710.63,
+      "end": 1711.78,
+      "text": "you know, that's, that's a process."
+    },
+    {
+      "start": 1712.19,
+      "end": 1715.38,
+      "text": "Um, but, um, that, that's quite a process for them"
+    },
+    {
+      "start": 1715.43,
+      "end": 1716.54,
+      "text": "to be working through as well"
+    },
+    {
+      "start": 1716.63,
+      "end": 1718.41,
+      "text": "to be those, those records as well."
+    },
+    {
+      "start": 1719.56,
+      "end": 1720.56,
+      "text": "Any Question, Ricardo?"
+    },
+    {
+      "start": 1721.03,
+      "end": 1723.34,
+      "text": "Thank you very much. Um, so"
+    },
+    {
+      "start": 1724.96,
+      "end": 1729.06,
+      "text": "have you received feedback, um, from sensitive claimants"
+    },
+    {
+      "start": 1729.68,
+      "end": 1733.45,
+      "text": "that the process can be, I mean, they're no fault"
+    },
+    {
+      "start": 1733.8,
+      "end": 1735.17,
+      "text": "of their own or potentially just"
+    },
+    {
+      "start": 1735.17,
+      "end": 1736.82,
+      "text": "because of the, the way that things are right now"
+    },
+    {
+      "start": 1736.82,
+      "end": 1739.34,
+      "text": "that the process can be retraumatizing,"
+    },
+    {
+      "start": 1740.12,
+      "end": 1742.58,
+      "text": "and would you mind expanding on some of the feedback"
+    },
+    {
+      "start": 1742.61,
+      "end": 1744.62,
+      "text": "that you've kind of had a little bit around"
+    },
+    {
+      "start": 1745.24,
+      "end": 1746.86,
+      "text": "that retraumatizing experience"
+    },
+    {
+      "start": 1747.04,
+      "end": 1748.54,
+      "text": "of having to go through the process?"
+    },
+    {
+      "start": 1749.05,
+      "end": 1750.78,
+      "text": "Sure, sure. We are, we are really conscious of that,"
+    },
+    {
+      "start": 1751.12,
+      "end": 1754.13,
+      "text": "and that was a key part of the, um, design"
+    },
+    {
+      "start": 1754.13,
+      "end": 1756.73,
+      "text": "of the new service that we put into place from one December"
+    },
+    {
+      "start": 1756.85,
+      "end": 1757.89,
+      "text": "with providers."
+    },
+    {
+      "start": 1757.91,
+      "end": 1760.97,
+      "text": "Mm-hmm. Um, that is a difficult process and mm-hmm."
+    },
+    {
+      "start": 1761.08,
+      "end": 1762.78,
+      "text": "Um, for, for anybody obviously,"
+    },
+    {
+      "start": 1762.84,
+      "end": 1766.26,
+      "text": "and you know, our, um, case managers who support, um,"
+    },
+    {
+      "start": 1766.51,
+      "end": 1769.02,
+      "text": "these clients working with these providers, you know, they,"
+    },
+    {
+      "start": 1769.02,
+      "end": 1772.3,
+      "text": "they are well trained in trauma support Yes."
+    },
+    {
+      "start": 1772.43,
+      "end": 1775.62,
+      "text": "And know, you know, um, how to, how to work"
+    },
+    {
+      "start": 1775.62,
+      "end": 1777.62,
+      "text": "through issues carefully with, with people."
+    },
+    {
+      "start": 1777.84,
+      "end": 1779.21,
+      "text": "But yes, of course, it, it is a"
+    },
+    {
+      "start": 1779.21,
+      "end": 1780.86,
+      "text": "Difficult process and it's a follow up on that."
+    },
+    {
+      "start": 1781.3,
+      "end": 1784.81,
+      "text": "Would you mind expanding on the type of support that is"
+    },
+    {
+      "start": 1785.37,
+      "end": 1786.68,
+      "text": "unlocked by eight months?"
+    },
+    {
+      "start": 1786.68,
+      "end": 1788.24,
+      "text": "People get their claims from a CC"
+    },
+    {
+      "start": 1788.63,
+      "end": 1791.09,
+      "text": "that perhaps they wouldn't be able to access"
+    },
+    {
+      "start": 1791.23,
+      "end": 1794.12,
+      "text": "otherwise through, say, supports from MSD?"
+    },
+    {
+      "start": 1795.07,
+      "end": 1797.03,
+      "text": "'cause I mean, it's not comparing apples with apples, right?"
+    },
+    {
+      "start": 1797.41,
+      "end": 1800.94,
+      "text": "Like the, the support you are able to offer the support"
+    },
+    {
+      "start": 1800.94,
+      "end": 1803.31,
+      "text": "that say other government agencies may not be able to offer"
+    },
+    {
+      "start": 1803.96,
+      "end": 1806.83,
+      "text": "for sensitive claimants or, or other, um, claims."
+    },
+    {
+      "start": 1806.88,
+      "end": 1809.62,
+      "text": "Would you mind expanding on the type of support that only"
+    },
+    {
+      "start": 1810.81,
+      "end": 1812.7,
+      "text": "the claim itself can end up unlocking? Mm-hmm."
+    },
+    {
+      "start": 1812.81,
+      "end": 1814.77,
+      "text": "Mm-hmm. Um,"
+    },
+    {
+      "start": 1815.61,
+      "end": 1818.92,
+      "text": "I mean, like you say, any a CC claimant, um,"
+    },
+    {
+      "start": 1818.93,
+      "end": 1821.37,
+      "text": "who's eligible, who has injury related needs,"
+    },
+    {
+      "start": 1821.42,
+      "end": 1822.68,
+      "text": "um, can access treatment."
+    },
+    {
+      "start": 1822.94,
+      "end": 1825.29,
+      "text": "Um, so for sensitive claimants, that's often counseling."
+    },
+    {
+      "start": 1825.46,
+      "end": 1827.29,
+      "text": "Um, and like Brian said, that can be available"
+    },
+    {
+      "start": 1827.29,
+      "end": 1829.37,
+      "text": "during the cover assessment process as well."
+    },
+    {
+      "start": 1829.37,
+      "end": 1831.64,
+      "text": "Mm-hmm. Before someone has cover, there's also social,"
+    },
+    {
+      "start": 1831.76,
+      "end": 1833.05,
+      "text": "what we call social rehabilitation,"
+    },
+    {
+      "start": 1833.05,
+      "end": 1836.53,
+      "text": "which can include things like, um, home help, um,"
+    },
+    {
+      "start": 1836.76,
+      "end": 1841.29,
+      "text": "attending care, um, help with transport, um, childcare,"
+    },
+    {
+      "start": 1841.29,
+      "end": 1842.29,
+      "text": "those sorts of things as well."
+    },
+    {
+      "start": 1842.46,
+      "end": 1844.85,
+      "text": "And ity does not cover that assistance. Right."
+    },
+    {
+      "start": 1844.85,
+      "end": 1847.09,
+      "text": "It only, you can kind of unlock that assistance itself,"
+    },
+    {
+      "start": 1847.82,
+      "end": 1849.47,
+      "text": "But they'll provide some kinds of levels"
+    },
+    {
+      "start": 1849.49,
+      "end": 1850.91,
+      "text": "of support to, to some extent."
+    },
+    {
+      "start": 1850.91,
+      "end": 1853.71,
+      "text": "But obviously yes, our entitlements are, you know, um,"
+    },
+    {
+      "start": 1854.12,
+      "end": 1855.56,
+      "text": "quite extensive under the act."
+    },
+    {
+      "start": 1855.63,
+      "end": 1857.76,
+      "text": "Yeah. Yeah. Martin, when it was yours,"
+    },
+    {
+      "start": 1857.76,
+      "end": 1858.84,
+      "text": "A supplementary Yes."
+    },
+    {
+      "start": 1859.01,
+      "end": 1862.47,
+      "text": "Thank you. Um, Moderna, Moderna did the provider, um,"
+    },
+    {
+      "start": 1863.34,
+      "end": 1864.6,
+      "text": "you said more providers."
+    },
+    {
+      "start": 1864.6,
+      "end": 1866.23,
+      "text": "What were the original number of providers"
+    },
+    {
+      "start": 1866.23,
+      "end": 1869.32,
+      "text": "and what, what did you end up as an improvement?"
+    },
+    {
+      "start": 1869.34,
+      "end": 1872.6,
+      "text": "Mm. Like what are we talking another 21 there?"
+    },
+    {
+      "start": 1872.85,
+      "end": 1874.08,
+      "text": "Seven, or I'll"
+    },
+    {
+      "start": 1874.08,
+      "end": 1875.08,
+      "text": "Just go back."
+    },
+    {
+      "start": 1875.45,
+      "end": 1878.19,
+      "text": "Um, gosh, uh, yes, I, I'm trying"
+    },
+    {
+      "start": 1878.19,
+      "end": 1879.88,
+      "text": "to remember those numbers off the top of my head."
+    },
+    {
+      "start": 1880.04,
+      "end": 1882.88,
+      "text": "I think, um, I, I think I can recall"
+    },
+    {
+      "start": 1882.9,
+      "end": 1887.08,
+      "text": "that they were in the region regionally of, um,"
+    },
+    {
+      "start": 1887.43,
+      "end": 1890.99,
+      "text": "a a few hundred and we are now sort of expanded that too."
+    },
+    {
+      "start": 1891.54,
+      "end": 1895.32,
+      "text": "Um, a few thousand, um, um,"
+    },
+    {
+      "start": 1895.45,
+      "end": 1896.67,
+      "text": "if we can follow up Yeah."
+    },
+    {
+      "start": 1896.67,
+      "end": 1899.32,
+      "text": "Detail if you, if you, if you want that, um, sorry,"
+    },
+    {
+      "start": 1899.32,
+      "end": 1901.12,
+      "text": "I don't have that readily on hand,"
+    },
+    {
+      "start": 1901.17,
+      "end": 1902.95,
+      "text": "but, um, it was an extensive"
+    },
+    {
+      "start": 1902.95,
+      "end": 1903.95,
+      "text": "Right. Increase. Yeah."
+    },
+    {
+      "start": 1903.95,
+      "end": 1906.67,
+      "text": "And, and that, that's an improvement"
+    },
+    {
+      "start": 1906.97,
+      "end": 1908.04,
+      "text": "that's working better."
+    },
+    {
+      "start": 1908.07,
+      "end": 1912.66,
+      "text": "That helps, uh, you know, that, so it, it's helpful,"
+    },
+    {
+      "start": 1912.97,
+      "end": 1915.35,
+      "text": "it's good for people, it's good for the people in this,"
+    },
+    {
+      "start": 1915.61,
+      "end": 1916.9,
+      "text": "in these particular scenario."
+    },
+    {
+      "start": 1917.55,
+      "end": 1918.55,
+      "text": "Absolutely. Yeah. Yeah."
+    },
+    {
+      "start": 1920.01,
+      "end": 1922.35,
+      "text": "Um, I've got two different ones."
+    },
+    {
+      "start": 1922.44,
+      "end": 1925.35,
+      "text": "The first one is really a follow up on this issue"
+    },
+    {
+      "start": 1925.81,
+      "end": 1928.03,
+      "text": "of the two different baskets,"
+    },
+    {
+      "start": 1928.9,
+      "end": 1932.2,
+      "text": "and I just want to know, um, like if, if we look"
+    },
+    {
+      "start": 1932.9,
+      "end": 1934.53,
+      "text": "beyond sensitive claims,"
+    },
+    {
+      "start": 1934.55,
+      "end": 1936.96,
+      "text": "and I appreciate that's a very big deal."
+    },
+    {
+      "start": 1937.14,
+      "end": 1941.2,
+      "text": "Mm-hmm. Um, but if you take a claim, like a gradual process,"
+    },
+    {
+      "start": 1941.98,
+      "end": 1943.05,
+      "text": "um, claim,"
+    },
+    {
+      "start": 1943.98,
+      "end": 1946.33,
+      "text": "and in the situation as I understand it,"
+    },
+    {
+      "start": 1946.71,
+      "end": 1949.48,
+      "text": "what you have been doing is you've been paying"
+    },
+    {
+      "start": 1950.31,
+      "end": 1953.16,
+      "text": "across the main benefit at the time the claim has reached"
+    },
+    {
+      "start": 1953.56,
+      "end": 1957.48,
+      "text": "that is being basically passed on to m and Steve,"
+    },
+    {
+      "start": 1958.31,
+      "end": 1961.2,
+      "text": "but there has been no payment beyond that."
+    },
+    {
+      "start": 1961.9,
+      "end": 1965.96,
+      "text": "Um, so all of the things we, we had Hazel Armstrong mm-hmm."
+    },
+    {
+      "start": 1966.03,
+      "end": 1967.72,
+      "text": "In here talking about the port."
+    },
+    {
+      "start": 1967.93,
+      "end": 1970.37,
+      "text": "She's a, um, on the port"
+    },
+    {
+      "start": 1970.74,
+      "end": 1972.64,
+      "text": "and those people get rehabilitated"
+    },
+    {
+      "start": 1973.19,
+      "end": 1974.53,
+      "text": "with sort of gold standard."
+    },
+    {
+      "start": 1974.67,
+      "end": 1976.16,
+      "text": "They're back to work quickly."
+    },
+    {
+      "start": 1977.55,
+      "end": 1979.44,
+      "text": "If you take a worker like that"
+    },
+    {
+      "start": 1980.06,
+      "end": 1983.85,
+      "text": "where there's a potential gradual process injury mm-hmm."
+    },
+    {
+      "start": 1984.93,
+      "end": 1989.28,
+      "text": "How different, how significantly different is"
+    },
+    {
+      "start": 1989.28,
+      "end": 1991.19,
+      "text": "what somebody whose claim has been delayed"
+    },
+    {
+      "start": 1991.21,
+      "end": 1992.91,
+      "text": "for five years mm-hmm."
+    },
+    {
+      "start": 1993.86,
+      "end": 1996.88,
+      "text": "To what they would've got and what happens."
+    },
+    {
+      "start": 1997.42,
+      "end": 1999.53,
+      "text": "One of the big issues that we've got is"
+    },
+    {
+      "start": 1999.98,
+      "end": 2003.01,
+      "text": "how come a CC hasn't been knock"
+    },
+    {
+      "start": 2003.03,
+      "end": 2004.61,
+      "text": "for knocking some of that stuff."
+    },
+    {
+      "start": 2004.66,
+      "end": 2009.21,
+      "text": "You see different things that MC have been given,"
+    },
+    {
+      "start": 2009.95,
+      "end": 2013.45,
+      "text": "but there's so much less from the look of it than"
+    },
+    {
+      "start": 2013.45,
+      "end": 2015.54,
+      "text": "what MC has been given."
+    },
+    {
+      "start": 2015.76,
+      "end": 2020.3,
+      "text": "So how come a CC hasn't been responsible for"
+    },
+    {
+      "start": 2021.08,
+      "end": 2025.78,
+      "text": "paying at least the amount it would've likely paid?"
+    },
+    {
+      "start": 2025.88,
+      "end": 2027.89,
+      "text": "Now I appreciate, it's really hard to know"
+    },
+    {
+      "start": 2028.6,
+      "end": 2031.82,
+      "text": "how much would've been paid, but why is a CC"
+    },
+    {
+      "start": 2032.52,
+      "end": 2035.02,
+      "text": "and particularly accredited employers"
+    },
+    {
+      "start": 2035.65,
+      "end": 2037.82,
+      "text": "incentivized by a delay?"
+    },
+    {
+      "start": 2038.36,
+      "end": 2040.62,
+      "text": "Why are they enriched by that? Mm-hmm."
+    },
+    {
+      "start": 2040.84,
+      "end": 2042.34,
+      "text": "And that's a big question."
+    },
+    {
+      "start": 2043.04,
+      "end": 2044.13,
+      "text": "It it, it is, it is."
+    },
+    {
+      "start": 2044.21,
+      "end": 2048.05,
+      "text": "I, I mean, I guess, um, just for context, it's important"
+    },
+    {
+      "start": 2048.05,
+      "end": 2051.45,
+      "text": "to note that, um, there are statutory timeframes"
+    },
+    {
+      "start": 2051.45,
+      "end": 2055.53,
+      "text": "that we do have to make decisions, um, within, um,"
+    },
+    {
+      "start": 2055.64,
+      "end": 2058.78,
+      "text": "and yes, we can extend some of those timeframes, um,"
+    },
+    {
+      "start": 2058.82,
+      "end": 2061.05,
+      "text": "where there are some, some complexities to work through,"
+    },
+    {
+      "start": 2061.16,
+      "end": 2063.89,
+      "text": "but, you know, that does put some responsibility on us"
+    },
+    {
+      "start": 2063.89,
+      "end": 2065.7,
+      "text": "and the accredited employers to make sure"
+    },
+    {
+      "start": 2065.7,
+      "end": 2067.93,
+      "text": "that we're making decisions in a timely way."
+    },
+    {
+      "start": 2069.07,
+      "end": 2073.05,
+      "text": "Um, for, for some of those supports."
+    },
+    {
+      "start": 2073.09,
+      "end": 2074.38,
+      "text": "I mean, you know, you,"
+    },
+    {
+      "start": 2074.39,
+      "end": 2076.57,
+      "text": "you mentioned gradual, um, gradual process."
+    },
+    {
+      "start": 2077.36,
+      "end": 2081.05,
+      "text": "Yes. Um, PE people will often be still being"
+    },
+    {
+      "start": 2081.09,
+      "end": 2083.45,
+      "text": "supported during that period."
+    },
+    {
+      "start": 2083.55,
+      "end": 2085.78,
+      "text": "For example, if you have a cancer that we are trying"
+    },
+    {
+      "start": 2085.78,
+      "end": 2087.89,
+      "text": "to work out, is this a Yeah."
+    },
+    {
+      "start": 2087.89,
+      "end": 2090.26,
+      "text": "Cancer that's from an exposure from an occupational"
+    },
+    {
+      "start": 2090.26,
+      "end": 2091.3,
+      "text": "Support from a CC,"
+    },
+    {
+      "start": 2091.68,
+      "end": 2094.09,
+      "text": "Um, well, well, you know, in terms of their treatment,"
+    },
+    {
+      "start": 2094.16,
+      "end": 2096.86,
+      "text": "of course the, the cancer, you know, service is going"
+    },
+    {
+      "start": 2096.86,
+      "end": 2098.34,
+      "text": "to continue to be supporting those"
+    },
+    {
+      "start": 2098.34,
+      "end": 2099.41,
+      "text": "people through that process."
+    },
+    {
+      "start": 2099.47,
+      "end": 2101.09,
+      "text": "That's not a, that's not a,"
+    },
+    {
+      "start": 2101.09,
+      "end": 2102.45,
+      "text": "and through that time yeah, it's not a"
+    },
+    {
+      "start": 2102.45,
+      "end": 2103.49,
+      "text": "process that a c they'll"
+    },
+    {
+      "start": 2103.49,
+      "end": 2105.01,
+      "text": "Just get it from the public health system. Well,"
+    },
+    {
+      "start": 2105.01,
+      "end": 2106.01,
+      "text": "Well, that's right. As, as,"
+    },
+    {
+      "start": 2106.01,
+      "end": 2109.22,
+      "text": "as does a CC, you know, in terms of purchasing"
+    },
+    {
+      "start": 2109.36,
+      "end": 2110.38,
+      "text": "that ultimately."
+    },
+    {
+      "start": 2110.47,
+      "end": 2113.41,
+      "text": "So there's not necessarily a gap."
+    },
+    {
+      "start": 2113.86,
+      "end": 2115.26,
+      "text": "I appreciate there, but,"
+    },
+    {
+      "start": 2115.28,
+      "end": 2117.66,
+      "text": "but basically what our submitters told us Yeah."
+    },
+    {
+      "start": 2117.66,
+      "end": 2120.86,
+      "text": "In start terms is yeah, there is a significant difference."
+    },
+    {
+      "start": 2120.86,
+      "end": 2123.34,
+      "text": "Sure, sure. They are missing out at every angle"
+    },
+    {
+      "start": 2123.43,
+      "end": 2125.18,
+      "text": "and then we're asking them to pay back"
+    },
+    {
+      "start": 2125.61,
+      "end": 2127.45,
+      "text": "what they got from M sd."
+    },
+    {
+      "start": 2127.68,
+      "end": 2129.89,
+      "text": "Mm-hmm. That just seems crazy to me."
+    },
+    {
+      "start": 2130.53,
+      "end": 2132.01,
+      "text": "What I would like the second question,"
+    },
+    {
+      "start": 2132.01,
+      "end": 2133.66,
+      "text": "and you might not have time to answer it now,"
+    },
+    {
+      "start": 2133.88,
+      "end": 2137.32,
+      "text": "but the waiver issue, we've come up with a, an amendment Mm."
+    },
+    {
+      "start": 2137.47,
+      "end": 2140.12,
+      "text": "Um, where we are putting it to the government"
+    },
+    {
+      "start": 2140.12,
+      "end": 2142.16,
+      "text": "that they should amend this Lewis."
+    },
+    {
+      "start": 2142.34,
+      "end": 2146.36,
+      "text": "So at least the MSD have a capacity"
+    },
+    {
+      "start": 2146.74,
+      "end": 2148.68,
+      "text": "to look at this in terms of equity"
+    },
+    {
+      "start": 2149.22,
+      "end": 2152.61,
+      "text": "and work in the same way a CC already do"
+    },
+    {
+      "start": 2152.74,
+      "end": 2153.89,
+      "text": "in other situations."
+    },
+    {
+      "start": 2154.26,
+      "end": 2157.32,
+      "text": "Would it be helpful to have you,"
+    },
+    {
+      "start": 2157.47,
+      "end": 2159.61,
+      "text": "you use a waiver at the present time in"
+    },
+    {
+      "start": 2159.61,
+      "end": 2160.64,
+      "text": "certain circumstances?"
+    },
+    {
+      "start": 2161.09,
+      "end": 2163.8,
+      "text": "Would it be h helpful to have similar law?"
+    },
+    {
+      "start": 2164.14,
+      "end": 2165.49,
+      "text": "And again, you might not be able"
+    },
+    {
+      "start": 2165.49,
+      "end": 2166.89,
+      "text": "to answer this straight away,"
+    },
+    {
+      "start": 2167.14,
+      "end": 2169.45,
+      "text": "but, so something that is comparable mm-hmm."
+    },
+    {
+      "start": 2169.7,
+      "end": 2171.28,
+      "text": "So you can work together. Mm-hmm."
+    },
+    {
+      "start": 2171.53,
+      "end": 2173.61,
+      "text": "I mean, I think that focus is obviously more on the"
+    },
+    {
+      "start": 2174.24,
+      "end": 2175.89,
+      "text": "SD side in terms of their ability,"
+    },
+    {
+      "start": 2175.89,
+      "end": 2177.01,
+      "text": "ability and it's politics too."
+    },
+    {
+      "start": 2177.32,
+      "end": 2178.64,
+      "text": "Exactly. So it's probably"
+    },
+    {
+      "start": 2179.34,
+      "end": 2180.16,
+      "text": "not something that would"
+    },
+    {
+      "start": 2180.16,
+      "end": 2181.2,
+      "text": "affect us directly. Could you confirm"
+    },
+    {
+      "start": 2181.2,
+      "end": 2184.05,
+      "text": "That you do use a waiver in the way that the,"
+    },
+    {
+      "start": 2184.43,
+      "end": 2185.64,
+      "text": "um, letter to the minister?"
+    },
+    {
+      "start": 2185.64,
+      "end": 2187.36,
+      "text": "Have you seen the letter to the minister? No, I,"
+    },
+    {
+      "start": 2187.36,
+      "end": 2188.36,
+      "text": "We Haven't seen that. Perhaps we"
+    },
+    {
+      "start": 2188.36,
+      "end": 2188.97,
+      "text": "could provide that"
+    },
+    {
+      "start": 2188.97,
+      "end": 2190.36,
+      "text": "and you could confirm that they write"
+    },
+    {
+      "start": 2190.99,
+      "end": 2194.72,
+      "text": "and that, that that law is in place and working for you."
+    },
+    {
+      "start": 2195.39,
+      "end": 2198.8,
+      "text": "Mm, we, we, um, we are well over time. Sure."
+    },
+    {
+      "start": 2199.14,
+      "end": 2201.09,
+      "text": "So, uh, look, we, we will, um,"
+    },
+    {
+      "start": 2201.14,
+      "end": 2202.14,
+      "text": "Thank you. We're very happy"
+    },
+    {
+      "start": 2202.14,
+      "end": 2203.45,
+      "text": "to provide any further information."
+    },
+    {
+      "start": 2203.64,
+      "end": 2206.68,
+      "text": "I, I appreciate that. Thank you so much. Been helpful."
+    },
+    {
+      "start": 2206.86,
+      "end": 2207.86,
+      "text": "Thanks so much. Thank,"
+    },
+    {
+      "start": 2212.07,
+      "end": 2212.57,
+      "text": "Observe."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_04 - SSC - vimeo_1167220964\\2026_03_04 - SSC - vimeo_1167220964.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1167220964",
+    "display_id": "1167220964",
+    "title": "2026/03/04 - SSC",
+    "description": "Wednesday, 4 March 2026 | Social Services and Community \nBriefing from ACC on backdated claims and ACC and welfare support\nACC \n\nCarly Woodham, Principal Advisor\nBrian Hesketh, Head of Policy, Evidence and Insights\nSarvesh Datt, Manager Operations Payments",
+    "webpage_url": "https://vimeo.com/1167220964",
+    "original_url": "https://vimeo.com/1167220964",
+    "upload_date": "20260303",
+    "timestamp": 1772569711,
+    "release_timestamp": 1772569718,
+    "duration": 2216,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129104325-7a50ec17fbe486174a3027d1076a6172de137ff878bf5e01db371f67d3b00dc5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285875413.vtt?expires=1778504974&sig=e6074dcda00584eaf15793cbeda73ba36c3cbdae&download=auto_generated_captions.vtt"
+  }
+}

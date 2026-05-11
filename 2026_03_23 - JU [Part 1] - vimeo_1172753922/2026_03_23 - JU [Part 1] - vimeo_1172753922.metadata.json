@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:55.596666+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1172753922",
+  "title": "2026/03/23 - JU [Part 1]",
+  "url": "https://vimeo.com/1172753922",
+  "published_at": "20260322",
+  "published_display": "2026-03-22",
+  "duration_seconds": 13884,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 13870.94,
+    "segment_count": 4356,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_23 - JU [Part 1] - vimeo_1172753922\\2026_03_23 - JU [Part 1] - vimeo_1172753922.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172753922",
+    "display_id": "1172753922",
+    "title": "2026/03/23 - JU [Part 1]",
+    "description": "Monday, 23 March 2026 | Justice Committee\n\nArms Bill \n\nHearing of evidence:\nMike McCormick\nConnor McCormick\nMatthew Fisken\nJonathan Boston\nCorey Baker\nGraeme Easte\nCraig O'Brien\nWarwick Gibbs\nAlexander Gillespie\nClementine Annabell\nTim Clark\nDavid Wood\nRoss Mason\nJim Smith\nRene de Jongh\nDennis Lally\nPaul Clark\nDon Hammond\nWilliam Goldberg\nSouthern Lakes Branch of New Zealand Deerstalkers Association\n\nDave Rider\n\nGrant Fletcher\nJeff Bryant\nWaitakere Smallbore Rifle Club\n\nJohn Dyer\n\nAndrew Lamb\nGerard McMullen\nJim Henry\nTony Bruce\nTodd Barnes\nColin Anderson\nAndrew Napier\nGlenn Soroka\nGary Elmes",
+    "webpage_url": "https://vimeo.com/1172753922",
+    "original_url": "https://vimeo.com/1172753922",
+    "upload_date": "20260322",
+    "timestamp": 1774223805,
+    "release_timestamp": 1774223820,
+    "duration": 13884,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137384462-84d2bdd6f055808ac164d01876314dee3d27f1136655a8aa0dbd7c968795cf80-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/289691681.vtt?expires=1778504759&sig=c16e9b1d135617ee20519f9639c337bf825a0e25&download=auto_generated_captions.vtt"
+  }
+}

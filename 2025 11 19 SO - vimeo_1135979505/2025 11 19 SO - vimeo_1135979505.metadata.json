@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:07:40.925903+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135979505",
+  "title": "2025 11 19 SO",
+  "url": "https://vimeo.com/1135979505",
+  "published_at": "20251119",
+  "published_display": "2025-11-19",
+  "duration_seconds": 4379,
+  "source_labels": "Vimeo Showcase 6380625",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4371.36,
+    "segment_count": 1567,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025 11 19 SO - vimeo_1135979505\\2025 11 19 SO - vimeo_1135979505.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135979505",
+    "display_id": "1135979505",
+    "title": "2025 11 19 SO",
+    "description": "Wednesday 19 November 2025 | Standing Orders Committee\n\nHearing of evidence | Review of Standing Orders 2026\n\nHon James Meager\u00a0\nWellington Community Justice Project\u00a0\n\tJordan Lawson\u00a0\n\tLeon\u00a0Caslavsky\u00a0\nDr Dean Knight\u00a0\nNew Zealand Law Society Te Kahui Ture o Aotearoa\u00a0\n\tDebra Angus\u00a0\n\tBryce Lyall\u00a0\nProfessor Jane Kelsey\u00a0\nNg\u0101 Toki\u00a0Whakarururanga\u00a0\n\tJane Kelsey, Member\u00a0",
+    "webpage_url": "https://vimeo.com/1135979505",
+    "original_url": "https://vimeo.com/1135979505",
+    "upload_date": "20251119",
+    "timestamp": 1763527791,
+    "release_timestamp": 1763527802,
+    "duration": 4379,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081496044-c00c28c41fa4a35d3beb2c96c4d31a94da448d623ebbb4643a09b4e4a3d9402e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266158823.vtt?expires=1778504864&sig=1bcfeeba9e1b8d2ca067df7dbfb18f86ea613f45&download=auto_generated_captions.vtt"
+  }
+}

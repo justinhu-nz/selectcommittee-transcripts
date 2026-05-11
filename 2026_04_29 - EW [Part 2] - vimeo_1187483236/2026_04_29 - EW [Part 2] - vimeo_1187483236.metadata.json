@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:28:46.662903+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187483236",
+  "title": "2026/04/29 - EW [Part 2]",
+  "url": "https://vimeo.com/1187483236",
+  "published_at": "20260429",
+  "published_display": "2026-04-29",
+  "duration_seconds": 2213,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2198.15,
+    "segment_count": 622,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_29 - EW [Part 2] - vimeo_1187483236\\2026_04_29 - EW [Part 2] - vimeo_1187483236.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187483236",
+    "display_id": "1187483236",
+    "title": "2026/04/29 - EW [Part 2]",
+    "description": "Wednesday 29 April 2026 | Education and Workforce Committee\n\nReview briefing on the 2024/25 annual review of Education New Zealand \n\nEducation New Zealand\n- Dr Linda Sissons, Acting Chief Executive\n -Tony Gray, Board Chair",
+    "webpage_url": "https://vimeo.com/1187483236",
+    "original_url": "https://vimeo.com/1187483236",
+    "upload_date": "20260429",
+    "timestamp": 1777427613,
+    "release_timestamp": 1777427620,
+    "duration": 2213,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2151595790-3aa064288a1207c04cf7ab98717a94311abb38793d550c21c680a416017b8a9b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297465457.vtt?expires=1778506130&sig=9278183eab159899fedf01904c4cbf50f6be58fd&download=auto_generated_captions.vtt"
+  }
+}

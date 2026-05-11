@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-11T11:09:55.626684+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1131936665",
+  "title": "Primary Production subcommittee B",
+  "url": "https://vimeo.com/1131936665",
+  "published_at": "20260507",
+  "published_display": "2026-05-07",
+  "duration_seconds": 5600,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5578.21,
+    "segment_count": 1600,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\Primary Production subcommittee B - vimeo_1131936665\\Primary Production subcommittee B - vimeo_1131936665.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1131936665",
+    "display_id": "1131936665",
+    "title": "Primary Production subcommittee B",
+    "webpage_url": "https://vimeo.com/1131936665",
+    "original_url": "https://vimeo.com/1131936665",
+    "upload_date": "20260507",
+    "timestamp": 1778121548,
+    "release_timestamp": 1778121559,
+    "duration": 5600,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2076016843-1b5aee38aacdf1b4270fb78232f372575d3dbcf8647b78e00fefb25bba648a43-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/299131195.vtt?expires=1778504999&sig=2d18f590b45b06a44de5219e00815dee5413ab8c&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:04:59.451191+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187868693",
+  "title": "2026/04/30 - JU [Part 3]",
+  "url": "https://vimeo.com/1187868693",
+  "published_at": "20260429",
+  "published_display": "2026-04-29",
+  "duration_seconds": 1920,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1912.1,
+    "segment_count": 618,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_30 - JU [Part 3] - vimeo_1187868693\\2026_04_30 - JU [Part 3] - vimeo_1187868693.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187868693",
+    "display_id": "1187868693",
+    "title": "2026/04/30 - JU [Part 3]",
+    "description": "Thursday, 30 April 2026 | Justice Committee\n\nElectoral (District Boundaries) Amendment Bill\n\nHearing of Evidence\nSubmitters:\n\nSteve Haslett \nCraig Atkinson \nJasmine Richardson \nMax Marshall \nKay Jones",
+    "webpage_url": "https://vimeo.com/1187868693",
+    "original_url": "https://vimeo.com/1187868693",
+    "upload_date": "20260429",
+    "timestamp": 1777506240,
+    "release_timestamp": 1777506247,
+    "duration": 1920,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2152074409-0247e327d5c108ed218ba8c58dc737705c5862e088d4efad4d6f3f7cd439d584-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297725690.vtt?expires=1778504703&sig=16f397b153a5f24bab3566e86d346d8e193c764c&download=auto_generated_captions.vtt"
+  }
+}

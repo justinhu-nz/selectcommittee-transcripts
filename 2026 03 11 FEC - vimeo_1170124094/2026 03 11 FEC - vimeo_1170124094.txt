@@ -1,0 +1,1028 @@
+Title: 2026 03 11 FEC
+URL: https://vimeo.com/1170124094
+Published: 2026-03-11
+Duration: 00:48:48
+
+[00:00:00] Me, Dr.
+[00:00:04] Nathan McCluskey.
+[00:01:09] Okay. Are they through? But just on audio only.
+[00:01:17] Thank you. So you're
+[00:01:21] not picking up the cues?
+[00:01:23] Yeah. Okay.
+[00:01:28] What if he's hearing this? He's not there.
+[00:01:31] Is, is there anyone else on standby?
+[00:01:33] Um, Chris Chamberlain? Yes. Okay.
+[00:01:38] Well, let's go to Chris. Okay.
+[00:01:42] So Chris is here, huh? Yeah, Chris is online.
+[00:01:46] Oh, Chris is online. Okay. Chris.
+[00:01:53] Hello. I'm just turning things on.
+[00:01:54] I've been allowed in the door.
+[00:01:56] My name's Chris. Can you hear me?
+[00:01:57] Yeah. No, thank you. Um, just our first submitter, uh, has
+[00:02:00] yet to appear online, so thank you for being nice and early.
+[00:02:03] You've got five minutes, so we're in your hands.
+[00:02:06] Okay. Thank you, chair. My name is Chris Chamberlain.
+[00:02:09] I'm an IT professional, a New Zealand citizen.
+[00:02:12] I'm not a lawyer, not a planner, not a developer.
+[00:02:14] And I do, I have no financial interest
+[00:02:16] or stake in this bill.
+[00:02:19] I became interested in the bill
+[00:02:20] because the IFF mechanism itself seems
+[00:02:23] novel, uh, and new.
+[00:02:25] I wanted to understand what it actually does
+[00:02:28] and how this bill changes the original 2020 act.
+[00:02:32] Um, you should have a written submission from me entitled
+[00:02:36] Chris Chamberlain Submission Briefing.
+[00:02:38] It's 21 pages. Sorry about that.
+[00:02:41] But, um, it's a result of a detailed clause
+[00:02:45] by clause analysis of the bill against the 2020 Act.
+[00:02:50] Quite a, um, we've
+[00:02:52] Got something to Circulate.
+[00:02:53] Challenging process actually
+[00:02:55] That's there.
+[00:02:57] It does not argue a for or against the bill.
+[00:02:59] What it tries to do is identify with changes
+[00:03:01] or in fact, the original 2020 Act would produce effects
+[00:03:05] that undermine the mechanisms long-term value
+[00:03:09] to New Zealanders effects that might not be visible
+[00:03:12] until a project is already underway
+[00:03:15] or until the first community dispute lands in court.
+[00:03:19] It considers impacts on all of the main stakeholders,
+[00:03:22] the developers, councils, levy, payers, investors,
+[00:03:27] water organizations, Maori landowners.
+[00:03:30] My intent was to be as comprehensive, uh,
+[00:03:33] and not be advocating for any one group.
+[00:03:37] I would like to talk to the document structure just
+[00:03:40] to help people, um, understand it.
+[00:03:43] There are three main parts.
+[00:03:46] Um, the first part is the intro
+[00:03:48] and I discuss the methodology.
+[00:03:49] You'll see that I've used, um, LLM
+[00:03:53] or artificial intelligence support
+[00:03:55] to assist me in this analysis.
+[00:03:59] I'm happy to talk about that in more detail later.
+[00:04:02] Um, and there are two key findings tables
+[00:04:06] on pages five and seven,
+[00:04:08] which I think are a useful quick reference.
+[00:04:11] They map every substantive change that the bill makes side
+[00:04:15] by side with the 2020 Act across all the stakeholder groups.
+[00:04:20] On pages eight
+[00:04:21] and nine, I've highlighted something I've called the
+[00:04:25] stacking problem, where multiple special purpose vehicles
+[00:04:29] can independently levy the same properties
+[00:04:34] with no cumulative oversight.
+[00:04:37] I think this particular issue is very likely
+[00:04:39] to damage the bill's credibility
+[00:04:40] and durability if it isn't addressed.
+[00:04:45] The second, the,
+[00:04:46] the third section really is pages 11 through 18.
+[00:04:49] These are the proposals.
+[00:04:52] Um, they're one or two pages each. They're quite succinct.
+[00:04:55] They described the problem that I was able to identify
+[00:04:59] and provide some recommendations for fixing that.
+[00:05:03] But each one is aimed at staying within the bill's intent
+[00:05:06] rather than trying to undermine or reverse it.
+[00:05:10] Um, I mean, there are good sides to this bill
+[00:05:13] and there are also risks.
+[00:05:14] And I said, I think that is what I'm trying
+[00:05:16] to highlight with this work.
+[00:05:18] For an overall summary, please see the conclusion
+[00:05:21] on page 21.
+[00:05:24] Um, there are a number of, of proposals there.
+[00:05:30] Um, I would like to highlight
+[00:05:31] what I think are the most important.
+[00:05:33] Firstly, the, the cumulative levy cap, which is the first
+[00:05:37] of them on page 11.
+[00:05:40] This specifically addresses the stacking risk
+[00:05:43] and the durability, therefore, of this whole mechanism.
+[00:05:47] Um, the next one
+[00:05:50] that I think is pretty important is
+[00:05:51] structured notifications.
+[00:05:53] Um, the problem, one of the problems with this
+[00:05:57] legislation as it takes away all of the checks
+[00:06:00] and balances that were in the original 2020 Act.
+[00:06:05] So this structured notification process provides a time
+[00:06:09] bound process with a very tight timeframe, which gives,
+[00:06:13] and yet it also gives people the opportunity to contribute
+[00:06:18] and understand what's going on.
+[00:06:20] The levy commissioner, the Levy Register, these are just
+[00:06:23] necessary things for running
+[00:06:25] a mechanism like this and very important.
+[00:06:28] And finally, the public
+[00:06:29] and your reports from SPVs,
+[00:06:32] providing transparency and accountability.
+[00:06:34] Those would be my top four. Okay.
+[00:06:37] I snuck one and five of the proposals I have there.
+[00:06:41] Um, happy to answer questions now. Thank
+[00:06:43] You. Okay, thank you Mr.
+[00:06:44] Chamberlain.
+[00:06:45] Any questions or comments? Uh, Dan Bidar,
+[00:06:48] Um, I've just noticed there, Chris,
+[00:06:49] your submission hasn't quite been the,
+[00:06:52] the full document has been tabled.
+[00:06:54] Um, you've got, your only submission is half a paragraph
+[00:06:58] and it, I, i
+[00:07:01] supplementary Should a refresh it, Dan?
+[00:07:03] He's just added. Oh, okay. Oh, you've just added, okay.
+[00:07:06] Sorry there Chris. Um, thank you.
+[00:07:08] We'll take a look at your written submission. Thank you.
+[00:07:11] Okay. Anyone else? I Would've, um, liked
+[00:07:13] to have shared it and just skimmed through it as I did it,
+[00:07:15] but I don't think you support that, um, screen sharing.
+[00:07:18] But I appreciate you probably seeing it for the first time.
+[00:07:21] But I'd just like to under underpin
+[00:07:24] that there's a fairly exhaustive process
+[00:07:26] that is reproducible and I'd be happy to talk about that.
+[00:07:30] To produce a piece of work like this.
+[00:07:32] We only go up to 11. Yeah. Reload the whole thing.
+[00:07:35] Okay. Mr. Chamberlain, thank you, uh, for appearing.
+[00:07:38] Thank you for your submission. It's well
+[00:07:40] and truly locked into our system now,
+[00:07:42] so we've got it in its full entirety, so thank you.
+[00:07:45] Okay. Thank you. Okay. Thank you. Right.
+[00:07:48] Did we have Dr. Nathan, uh, McCluskey?
+[00:07:52] Was he able to come through?
+[00:08:06] Still got question.
+[00:08:13] Anyone else in the queue? Camera partners,
+[00:08:21] Anything?
+[00:08:30] It doesn't really work on. Okay.
+[00:08:33] Just see if you can message them and if we do an audio
+[00:08:37] or something if we've got time or if they want, yeah,
+[00:08:39] I'm not sure what said they seem to.
+[00:08:42] Okay. How about Cameron Partners, camera partner?
+[00:08:46] Not online. Anyone else online? No.
+[00:08:56] Okay.
+[00:09:02] Okay. Well should we just suspend the meeting until we, um,
+[00:09:06] get someone back online and we can just
+[00:09:07] quietly do our work here?
+[00:09:09] Yeah. Didn't even have to walk out. We'll be back soon.
+[00:09:11] We'll, trying to tell you, we
+[00:09:12] didn't even have to walk out for you.
+[00:09:14] Well, I know we're trying to tell that control.
+[00:09:17] I know we're struggling. Submitters. Can't even blame us.
+[00:09:20] Steering group. You've got 10 minutes.
+[00:09:22] Thanks for coming in early 'cause we've had a 10 minute, um,
+[00:09:25] submitter fall over, metaphorically.
+[00:09:28] Um, so we're in your hands,
+[00:09:30] Right? Uh, thank
+[00:09:31] you very much for the opportunity
+[00:09:32] to come and talk to you today.
+[00:09:34] Appreciate your time. Uh, I'm Scott Nicklin.
+[00:09:36] I'm the interim CE with, uh, local government New Zealand.
+[00:09:39] Uh, to my right I've got Mark Butcher, the Chief executive
+[00:09:42] of the local Government funding Agency, uh,
+[00:09:44] and Hugo Ellis from Cameron
+[00:09:46] and Partners who are our lead advisor in the development
+[00:09:49] of the rate payer assistance scheme.
+[00:09:51] Um, we obviously have submitted on the, uh, IFF
+[00:09:54] and we're just here today to talk to you about
+[00:09:56] how the RAs can support the IFF, um, the RAs,
+[00:10:00] the Rate Power Assistance scheme.
+[00:10:01] Uh, we've been in development stages
+[00:10:03] for about four or five years now.
+[00:10:04] We completed the deep dive business case late last year.
+[00:10:09] Uh, that's now currently sitting with the minister
+[00:10:11] and we believe the rate power assistance scheme will provide
+[00:10:14] significant support to rate payers, obviously
+[00:10:16] who say taxpayers, uh, but also to councils.
+[00:10:19] And we also think there are some synergies with the,
+[00:10:21] um, IFF as well.
+[00:10:23] And so keen just to talk to you about that briefly.
+[00:10:25] Probably take about five minutes to make some introductory
+[00:10:27] comments and then obviously open it
+[00:10:28] up for, uh, for questions.
+[00:10:30] Um, we have broad support across the sector
+[00:10:33] for the rate power assistance scheme.
+[00:10:35] So we've had about, um,
+[00:10:36] eight funding councils help development, uh, to date.
+[00:10:39] Uh, and we've spoken to roughly about 20 councils, uh,
+[00:10:42] to get broader support.
+[00:10:43] So there is broad support across, uh,
+[00:10:46] the local government sector
+[00:10:47] for the rate power assistance scheme.
+[00:10:49] Uh, and as I said, it's currently with the minister
+[00:10:51] and we are working with officials, uh, to provide advice on,
+[00:10:54] on going forward and hopefully, uh,
+[00:10:56] effectively setting up the, uh,
+[00:10:57] eight power assistance scheme.
+[00:10:59] Um, so the RAs, uh, can materially enhance the efficiency
+[00:11:03] and applicability of IFF projects.
+[00:11:05] Um, the RAs has been developed to address a number
+[00:11:08] of council issues.
+[00:11:09] So things like race postponement, um,
+[00:11:11] deferred development contributions
+[00:11:12] and property improvement loans that have a public benefit,
+[00:11:16] for example, solar power.
+[00:11:17] Uh, and there's other number of other, uh, categories
+[00:11:20] that we could talk to as well.
+[00:11:21] And in principle it can also be applied to IFF projects.
+[00:11:25] Um, there is fundamentally the same
+[00:11:27] as an IFF responsible SPV.
+[00:11:30] Um, it raises finance from the debt markets
+[00:11:33] and is off balance sheet.
+[00:11:34] Uh, it uses the finance to keep councils whole
+[00:11:37] by covering their charges and supporting them
+[00:11:38] to make capital investments.
+[00:11:40] Um, it also levies rate payers to get repaid as well.
+[00:11:44] Um, equally in much the same way
+[00:11:46] as the local government funding agency finances councils.
+[00:11:50] Um, the RES could
+[00:11:51] and principle be centralized finance vehicle
+[00:11:54] for the IFF responsible, um, SPVs, uh,
+[00:11:58] where the RAs can add value is that it is an established
+[00:12:01] or what would be an established national organization.
+[00:12:03] So effectively a shared service for the sector, um,
+[00:12:06] with the structure systems, processes
+[00:12:08] and personnel, uh, in place to raise debt, make payments
+[00:12:12] and invoice rate payers efficiently and effectively.
+[00:12:16] Um, it will have the statutory powers, uh, enabling it
+[00:12:19] to charge a levy that is persu, uh,
+[00:12:21] with local government rate charges.
+[00:12:23] Um, very much the same as an IFF responsible SPV
+[00:12:26] because of its structure, purpose living powers
+[00:12:30] and councils joined in several guarantee it will
+[00:12:32] have a very high credit rating.
+[00:12:34] Um, and it's able to obtain very low cost financing
+[00:12:37] and pass that benefit on to rate payers
+[00:12:40] because it will issue homogenous securities.
+[00:12:42] It will be able to develop a wide
+[00:12:44] and deep debt investor base, um, enhancing margins
+[00:12:47] and security of access to debt markets.
+[00:12:50] The RAs will be a low cost operation
+[00:12:52] and achieve scale across all of its products,
+[00:12:54] maximizing revenue and cost synergies.
+[00:12:57] Um, its specialist IT systems
+[00:12:59] and obviously the relationships that councils have, uh,
+[00:13:02] with rate payers will enable it to charge a levy
+[00:13:04] to individual property owners across New Zealand.
+[00:13:07] Avoiding administrative issues for local authorities,
+[00:13:10] which may not have the systems in place
+[00:13:12] to easily leave levy specific rate payers.
+[00:13:15] In summary, lower establishment costs,
+[00:13:18] lower financing rates,
+[00:13:19] and existing invoicing systems
+[00:13:21] of the RAs would significantly enhance the applicability IFF
+[00:13:24] to smaller projects and more local authorities
+[00:13:27] and specific subsets of local authority rate payer basis.
+[00:13:30] In addition, in the greenhouse housing context, the RES
+[00:13:34] and the divert dcs under the rate payer assistance schemes
+[00:13:37] are likely to be able to, um, likely
+[00:13:39] to be a simpler lower cost mechanism for developers
+[00:13:42] to access, um, development, contribution financing.
+[00:13:47] So thank you for your time.
+[00:13:48] I'm happy to open up for questions.
+[00:13:49] Any, any other, uh, introductory comments from?
+[00:13:51] Okay, we're gonna go to, um, Ryan Hamilton. Thanks chair.
+[00:13:54] Uh, thanks for your submission.
+[00:13:56] Um, can't help but ask you probably don't remember me, mark,
+[00:13:58] but I do any, any connection to our GFA
+[00:14:01] through this or is this Yes.
+[00:14:03] Yeah. So that would be the lending Body,
+[00:14:05] Correct. So
+[00:14:06] our GFA, um, first off has been the best example
+[00:14:09] of central and local government
+[00:14:11] corporation, I think in history.
+[00:14:13] Um, as to where we've got to our GFA is using this as a,
+[00:14:17] as an example, I suppose,
+[00:14:18] of paying it forward to the sector.
+[00:14:20] So what our GFA is going to do is
+[00:14:23] that we will end up becoming a shareholder.
+[00:14:26] Uh, we will end up becoming a lender to the RAAs, uh,
+[00:14:31] for the initial time period when,
+[00:14:33] until the RAAs gets up to scale.
+[00:14:35] Uh, and thirdly, uh, our GFA
+[00:14:39] will be the administrator.
+[00:14:41] So we will basically de-risk, uh,
+[00:14:44] the initial startup period.
+[00:14:46] So we'll provide treasury systems,
+[00:14:48] we'll provide the finance, the reporting,
+[00:14:51] the investor relations.
+[00:14:52] So until Raz gets to the scale
+[00:14:55] where it can get up on its own feet, uh,
+[00:14:57] LGFA is basically behind it. Um, a hundred percent.
+[00:15:01] Okay. And, um,
+[00:15:02] you mentioned in your submission here further amendments
+[00:15:04] to approve the IFF Act, but
+[00:15:06] unless I've missed them, I don't
+[00:15:07] see what those amendments are.
+[00:15:08] So what would you recommend in terms of enhancing this?
+[00:15:11] 'cause obviously it's been moth board
+[00:15:13] essentially for five years.
+[00:15:14] It's been hard to get off the ground
+[00:15:15] for councils and developers.
+[00:15:16] So what, what are the, what are the gaps
+[00:15:19] that you think we need to add while we're at this stage?
+[00:15:23] Uh, in terms of the, um, the act that legislation required?
+[00:15:26] Mm-hmm. So one of the key aspects of the RAAs is
+[00:15:29] that it has the, or would've be intended to have the ability
+[00:15:32] to levy rate payers directly.
+[00:15:34] So that would require, you know, legislative, um, uh,
+[00:15:37] sort of approval to do that.
+[00:15:39] So there's a number of sort of features, um,
+[00:15:41] that the RAAs requires
+[00:15:42] that we would need legislatively passed for.
+[00:15:45] Couldn't you just be registered as an SPV, like,
+[00:15:48] like the IF FS talks about?
+[00:15:50] Or, um, the, the RES has a bunch of other products.
+[00:15:52] So rates, postponement, deferred
+[00:15:54] development contributions, and impact loans.
+[00:15:56] So it has additional products over
+[00:15:58] and above, um, you know, potentially providing financing
+[00:16:01] to I-I-F-F-S PVS as well.
+[00:16:03] Okay. Um, and with your indulgence chair, I mean,
+[00:16:05] I don't know what you've submitted here,
+[00:16:07] but I'd encourage you to, um,
+[00:16:08] perhaps draft some legislative tweaks now
+[00:16:11] 'cause now's the opportunity to get this right.
+[00:16:13] My second question, observation is, um, I'm,
+[00:16:16] I was surprised we've had more councils engage in this
+[00:16:19] process 'cause this is a huge potentially game changer
+[00:16:21] for infrastructure funding and financing.
+[00:16:23] Why do you think they haven't engaged
+[00:16:24] or do you think they're still,
+[00:16:26] is it just too mature in New Zealand context as to why?
+[00:16:30] Uh, in terms of engaging in the development
+[00:16:32] of the right power assistance scheme?
+[00:16:33] No, the IFF generally? Yeah.
+[00:16:35] Probably, probably for my, yeah. Um, response.
+[00:16:37] So, um, I think part of it is, so look, um,
+[00:16:42] councils, uh, slowly adopt things.
+[00:16:45] Um, so we started off at LGFA with, um, 18 councils,
+[00:16:49] and now we've got 77 outta 78, um, councils.
+[00:16:53] Uh, it took us 10 years to get, Dunedin was the last one.
+[00:16:56] Chatham Islands is young, is not, uh,
+[00:16:58] it ta takes a little bit of time.
+[00:17:00] Uh, IFF in the past has also been, uh,
+[00:17:04] aimed at large scale projects.
+[00:17:06] And your average council hasn't got sufficient scale in
+[00:17:10] those projects to make the benefits actually, or, or dead
+[00:17:14] Headroom. Yeah.
+[00:17:15] Yeah, yeah.
+[00:17:16] Um, well, no, the IFF is is an answer to removing some of
+[00:17:20] that debt headroom, but there costs associated with it.
+[00:17:23] But to get the payback, you need large scale projects.
+[00:17:26] You need a hundred million dollars plus projects.
+[00:17:28] You can't do an IFF on a $5 million small CapEx project.
+[00:17:32] And when you go through the councils
+[00:17:34] and aggregate, sure it comes up large,
+[00:17:36] but it's the Auckland, it's the Hamiltons, the Ong
+[00:17:38] as it's ton cities.
+[00:17:40] The other, the other 60 councils don't have enough
+[00:17:44] projects of size.
+[00:17:46] Sorry, one final question.
+[00:17:47] Um, the waters entities
+[00:17:49] that have been set up under local water done well, do,
+[00:17:51] do you see a role partnering alongside them as well?
+[00:17:53] 'cause I'm assuming they're gonna be leveraging
+[00:17:55] the heck outta this opportunity.
+[00:17:57] Yeah. But the RES is intended to be able
+[00:17:59] to provide the same products to water entities
+[00:18:01] as it would to local authorities.
+[00:18:02] Yeah. Thank you.
+[00:18:04] Chair. Yes. Julian
+[00:18:06] Cheto. I, I just, it
+[00:18:07] sounds a lot of work has been done on the Raz,
+[00:18:10] but, um, do we have any idea of like, timeframe for,
+[00:18:14] 'cause it, it says, say if legislation is
+[00:18:16] enacted to establish it.
+[00:18:18] So that makes it sound like it's pretty far away. Like,
+[00:18:23] Um, so we are advocating now for legislation, uh,
+[00:18:26] and we'd love to have confirmation.
+[00:18:27] We believe we could have it stood up in 12 to 18 months.
+[00:18:30] Um, and I guess we're just, at the moment, uh,
+[00:18:32] we've briefed the minister
+[00:18:34] provided a business case to the minister.
+[00:18:35] Uh, and obviously we're looking
+[00:18:36] for confirmation as soon as possible,
+[00:18:39] But like a legislative process of four,
+[00:18:40] one can be 12 to 18 months.
+[00:18:44] The, um, obviously there's a, a lot of work that needs
+[00:18:47] to be done to actually establish the, the res itself.
+[00:18:49] So we think that's a 12 to 18 month timeframe.
+[00:18:51] The legislation or the, you know, the process
+[00:18:53] to en enact the legislation could
+[00:18:55] be done in parallel with that.
+[00:18:56] Okay. And I guess
+[00:18:58] because the amendments to the IFF will be happening sooner,
+[00:19:03] 'cause that already exists and potentially we could, yeah,
+[00:19:07] Yeah. So, so, but
+[00:19:08] Is it a problem for the RAs if the IFF is doing some
+[00:19:10] of the same work that No,
+[00:19:12] What, what we're trying to make sure is that, um,
+[00:19:14] when RAs is set up,
+[00:19:15] we can also do IFF levies through the RAs.
+[00:19:18] I see. Okay. That, that's the intention is to make sure
+[00:19:21] that it's future proofed so that RA is up and running.
+[00:19:24] Um, as a rate par, you can put your rates through the RAA
+[00:19:27] and defer your rates until you sell your house.
+[00:19:29] Mm-hmm. Uh, you can, uh, put a solar, uh,
+[00:19:33] installation on your roof and have it,
+[00:19:35] and, and be repaired over time.
+[00:19:36] But also to make sure that if the IFF levies do go through
+[00:19:40] that they're eligible for deferral under the Raz product,
+[00:19:44] that's what we for.
+[00:19:48] And would people, I I, sorry, this is completely
+[00:19:51] separate question, but like, um, for really small councils
+[00:19:55] that don't have any money, like Chatham Islands for example,
+[00:19:59] would they be able to, would people there be able
+[00:20:01] to access it or No,
+[00:20:03] Provided the council supports it,
+[00:20:05] The, uh, the council will need to, to join as a member
+[00:20:08] and to become a member.
+[00:20:09] Um, there's a, a few things that the council needs to do.
+[00:20:11] They need to, um, provide information, um, so
+[00:20:14] that we can access the, the rate payers.
+[00:20:16] Um, we need an agreement around originating loans,
+[00:20:19] so providing access to the Raz to yeah,
+[00:20:22] actually write the loans in the first place.
+[00:20:23] Um, and, um, sorry,
+[00:20:26] the third thing is just right moment, oh, sorry.
+[00:20:28] They need to sign up to a Georgia in civil guarantee.
+[00:20:30] So with the LGFA, the, uh, uh,
+[00:20:34] when council's borrowed from the LGFA, they sign up
+[00:20:37] to Georgia and civil guarantee it would be the same sort
+[00:20:39] of Georgia and civil guarantee that, uh,
+[00:20:41] local author sign up.
+[00:20:42] So their rate payers can access it.
+[00:20:44] Thanks. Okay.
+[00:20:48] The, um, expend extending the eligibility, uh, to
+[00:20:52] new water organizations, Kiwi Rail, NZTA
+[00:20:56] with your, um, for levies.
+[00:20:58] With, with your mantra being helping rate payers upfront
+[00:21:02] with cost of living and, um, charges from council.
+[00:21:06] If we are leveling, um, enabling the levying
+[00:21:10] of Crown entities, for example, um, uh, what's your view on
+[00:21:14] that and what does it mean for, uh, the rate payers
+[00:21:18] of New Zealand potentially?
+[00:21:21] I think that would be a, a a little bit
+[00:21:22] of a step away from what the RES is currently doing.
+[00:21:24] The RES has been set up by local authorities
+[00:21:27] for local authorities.
+[00:21:28] So, um, part of
+[00:21:30] that is the local author is providing a jointed several
+[00:21:32] guarantee, um, local authorities,
+[00:21:34] jointed severally guaranteeing, um, government agencies is,
+[00:21:37] is, hasn't been contemplated at the moment, um,
+[00:21:39] but it still is applicable to a, you know, a sizable portion
+[00:21:43] of what IFF is intended to do,
+[00:21:46] which is support local authorities.
+[00:21:48] Okay. Okay. Well, as, um, Mr.
+[00:21:51] Hamilton's invited you to do, if you've got any
+[00:21:53] legislative changes, then that's part of our, um,
+[00:21:56] select committee processes.
+[00:21:58] We invite submitters
+[00:21:59] to have their say in put up their, um, suggestions.
+[00:22:02] So, you know, we, if you can get work through Liam
+[00:22:04] with any papers
+[00:22:05] that you might wanna submit a supplementary advice thing,
+[00:22:07] we are very welcome, very open to that.
+[00:22:10] Uh, we know, um, that the minister
+[00:22:12] and officials want, want to get this right.
+[00:22:14] And hence, we had a 10 week submission period.
+[00:22:17] So, um, we need, you know, all the help we can get
+[00:22:19] and all the advice we can hear. So thank you.
+[00:22:21] Very good. Thank you. Thank you.
+[00:22:24] Okay. Who have we got line now? We now, oh, Dr.
+[00:22:29] McCluskey, uh, Dr. Nathan McCluskey.
+[00:22:34] You just need to unmute apparently, if
+[00:22:36] that's a, if that's English.
+[00:22:38] Mm.
+[00:22:44] Okay. Can you hear me now? Yes, we can. Dr.
+[00:22:47] McCloskey, thank you. Thank you for your patience.
+[00:22:50] Um, you've got, uh, 10 minutes. Go for it.
+[00:22:53] Great. Thank you. Uh, grateful for this opportunity to,
+[00:22:56] to speak to, um, the sleep committee today.
+[00:23:00] And, uh, apologies for the technical difficulties earlier.
+[00:23:04] Look there. Um, I guess the purpose
+[00:23:09] of the, um, the, um,
+[00:23:16] the purpose of this piece of, um, legislation, the IFF, the,
+[00:23:19] um, infrastructure funding the finance bill, really is
+[00:23:22] to ensure, I guess superficially it's to ensure
+[00:23:27] that the funding of water infrastructure in New Zealand, uh,
+[00:23:31] can take place, uh, now and into the future.
+[00:23:34] Uh, but really, uh, when I look at the bill, uh,
+[00:23:38] we've concluded that, that its objective really is to
+[00:23:42] shift a, a public resource into private hands.
+[00:23:47] And this bill makes that possible.
+[00:23:50] So effectively, what can happen now is that,
+[00:23:55] um, in independent companies will be able to,
+[00:24:00] uh, provide the infrastructure that
+[00:24:05] the government has been responsible for.
+[00:24:07] Because let's be clear, water
+[00:24:10] is a fundamental human right.
+[00:24:12] The access to clean drinking water is a responsibility
+[00:24:15] that government has, uh, to its constituents.
+[00:24:19] And what this will do is it will enable, uh, a lot more
+[00:24:24] of what we're seeing in Wellington
+[00:24:26] with the Veolia situation.
+[00:24:28] And, uh, the, um,
+[00:24:33] I guess the debacle with water
+[00:24:35] and it's causing to Wellington's coast.
+[00:24:38] Uh, we, we believe
+[00:24:42] that government should be providing that this piece of, um,
+[00:24:45] legislation is effectively, uh, by creating SPVs.
+[00:24:50] And it doesn't specify whether the public
+[00:24:52] or private, so they, they could easily be private, uh, then
+[00:24:56] with the profit that could be gained from
+[00:25:01] providing water provision of, of water accrues
+[00:25:06] to indi individual private companies.
+[00:25:09] But if the infrastructure, uh, falls over
+[00:25:14] as we're seeing spectacularly in Wellington,
+[00:25:16] in the liability or the levies, uh,
+[00:25:19] can be then put on future water provision.
+[00:25:22] In other words, the public then, then becomes responsible
+[00:25:26] for, for paying for that.
+[00:25:28] Now, we know, uh, from, for example, in the uk, PFIs the,
+[00:25:32] um, private financing initiatives make it clear that
+[00:25:37] it's two to 5% more expensive to provide these things
+[00:25:42] through private sector than public borrowing.
+[00:25:45] And so, uh, we are really concerned about that shift
+[00:25:48] of responsibility away from the public to the private sector
+[00:25:52] who, who ultimately aren't accountable
+[00:25:55] because they're not accountable to the people,
+[00:25:57] only to their shareholders.
+[00:25:59] And, and they can pull out of agreements, um, in a way
+[00:26:02] that public sector can't.
+[00:26:04] And that's why it's safer,
+[00:26:05] we believe, with the public sector.
+[00:26:07] And we think that, that, um, you know,
+[00:26:10] what we've seen in the uk, for example, is a good example
+[00:26:13] is, is by, is, is costs that are as much as double
+[00:26:18] what they would have been had the borrowing
+[00:26:19] been through the public sector.
+[00:26:21] And there's plenty of research on that
+[00:26:23] that we can provide if you are interested.
+[00:26:25] Uh, so we think that,
+[00:26:28] and you're probably looking for alternative ways to pay
+[00:26:31] for this, because these are big bills.
+[00:26:34] Um, and there was some legislation in place,
+[00:26:38] impact assessments were done around that, um, in relation
+[00:26:41] to three waters, for example.
+[00:26:43] And, and local water done well is the replacement for that.
+[00:26:46] But we feel that this is, is not a good replacement for that
+[00:26:49] because of the shift of liability to levies,
+[00:26:54] which can be levied on that future water against the public.
+[00:26:57] And even in some cases, um, Maori land, for example.
+[00:27:01] Now, what we are concerned about is, is that the,
+[00:27:05] the liability then leaves, uh, the public sector with, with,
+[00:27:10] uh, public accountability and,
+[00:27:13] and resides then in the private sector,
+[00:27:16] but that ultimately it will come back
+[00:27:18] to the public sector if that falls over.
+[00:27:22] And, and so we, uh, we are speaking against this bill.
+[00:27:26] We're in a, we're in opposition to it.
+[00:27:28] We think there are other ways to,
+[00:27:30] to help fund this infrastructure.
+[00:27:31] For example, there are lots of contributors
+[00:27:34] to the water system, not just drinking water,
+[00:27:36] but say storm water, for example.
+[00:27:39] The roads contribute a lot to that.
+[00:27:42] Um, yeah, all, all of it.
+[00:27:45] And so, but,
+[00:27:46] but road user charges are not levied, uh,
+[00:27:50] against the water, the stormwater that's created
+[00:27:53] as a result of their construction.
+[00:27:54] And we'd like to see that to happen, uh, happen as a, as,
+[00:27:57] uh, an alternative, for example.
+[00:28:00] But, uh, bottom line is that, you know, history offers kind
+[00:28:05] of cautionary examples of what happens when,
+[00:28:07] when water is privatized,
+[00:28:09] which this bill was really designed
+[00:28:10] to do through the SPV system.
+[00:28:12] Uh, and the impact assessment
+[00:28:15] we think was done in 2019 is pretty accurate.
+[00:28:18] And we would like those, uh, concerns to be taken on board.
+[00:28:22] Um, and,
+[00:28:23] and that's, that's really, um, the thing
+[00:28:27] that we wanted to focus on.
+[00:28:28] Most of all of the aspects we want to focus on.
+[00:28:30] You've read the submission, uh,
+[00:28:32] we're happy to answer questions.
+[00:28:35] Okay. Thank, thank you.
+[00:28:36] I'm gonna go to Dr. Deborah Russell.
+[00:28:38] Uh, just a, a straightforward one.
+[00:28:39] It's the first time I've come across, sorry, new Zealanders
+[00:28:42] for a democratic economy.
+[00:28:43] Can you just explain a little about, about who you are
+[00:28:46] and what your purposes are?
+[00:28:47] Yeah, absolutely. So New Zealanders
+[00:28:49] for a democratic economy was established in order to, uh,
+[00:28:54] create public awareness around, uh, an alternative
+[00:28:59] to the capital finance system.
+[00:29:02] Uh, because, uh, we believe that the, the market is, uh,
+[00:29:06] a good servant, but a very poor master.
+[00:29:08] And what we are seeing is that, uh, New Zealand government,
+[00:29:13] uh, local, regional, and,
+[00:29:16] and national, uh, moving away from responsibility to provide
+[00:29:21] fundamental, uh, resources which are necessary,
+[00:29:25] they're fundamental human rights like water, and,
+[00:29:27] and shifting the responsibility of
+[00:29:30] that to the private sector.
+[00:29:31] When the private sector will, as we've seen in Wellington
+[00:29:35] with Veolia, for example, is asked to accept responsibility
+[00:29:38] for the failures in that, then they,
+[00:29:41] they're not held accountable
+[00:29:42] and they can't be held accountable by the public.
+[00:29:43] They're accountable, really only shareholders.
+[00:29:46] And, and so what, what New Zealanders
+[00:29:48] for Democratic economy is saying is that we want
+[00:29:53] to see, uh, our economy be publicly accountable.
+[00:29:58] Our economy should be answerable to the people.
+[00:30:01] Um, not private companies.
+[00:30:03] Private companies aren't, uh, elected by government.
+[00:30:07] Governments are elected by the public.
+[00:30:09] And so the public should be, should have the risk,
+[00:30:12] should have oversight,
+[00:30:14] democratic oversight, and hold them accountable.
+[00:30:17] Thank you. Okay. Thank you.
+[00:30:19] I just, I just wonder, wonder about
+[00:30:21] how many people are involved in your organization,
+[00:30:24] like actively involved,
+[00:30:26] Um, talking about 200 members. About 200,
+[00:30:29] Right. Thank you.
+[00:30:30] There we go. Okay. Thank you, uh, Dr.
+[00:30:32] McCluskey for your presentation
+[00:30:34] and, uh, appearing before us today.
+[00:30:37] Thank you. Appreciate
+[00:30:38] That. Okay.
+[00:30:39] Transit Next Limited, uh, Ryan Ferguson
+[00:30:43] and, uh, Steve Kelly. Oh, welcome.
+[00:30:48] Welcome. Steve will be, uh, coming in from Melbourne.
+[00:30:51] He's actually my funder.
+[00:30:53] And, um, he's the next property developer.
+[00:30:55] Uh, he's gone from being a developer to being a funder.
+[00:30:59] Uh, and he works on a global situation.
+[00:31:03] Um, I have a partnership with a company called China Rail.
+[00:31:06] Um, it's a transport infrastructure
+[00:31:09] and brought a couple models along
+[00:31:11] 'cause people don't really understand what I'm trying to do.
+[00:31:14] You know, you can pass that around.
+[00:31:16] Uh, it's trackless tram, it runs on the roads.
+[00:31:20] Uh, it's the opposition to
+[00:31:21] Light rail, trackless tram.
+[00:31:23] Yeah. Would love, it's one
+[00:31:25] and 20th of light rail.
+[00:31:29] It can be installed in months.
+[00:31:31] It's run on hydrogen or electricity.
+[00:31:34] And the superconductor was developed by Victoria. This
+[00:31:39] Okay. Just,
+[00:31:40] um, yeah. Um,
+[00:31:42] I, I'll go through,
+[00:31:43] We'll get you started and I'm just gonna have
+[00:31:45] to be very, um, tight on time. Yep.
+[00:31:47] No, I understand that. Um, just, so I just wanted
+[00:31:49] to preempt that so I didn't cut you short.
+[00:31:52] You could tailor make this, um,
+[00:31:54] so we can get to the house on time.
+[00:31:55] So it's our fault, not yours, but welcome.
+[00:31:57] No, it's not a problem. Let's just do the deal.
+[00:32:00] Um, get on with it.
+[00:32:03] Well, I just wanted, um, I, I support the submission.
+[00:32:06] I think it's great. Um, I did a PhD
+[00:32:09] proposal looking at alternative to ways of funding
+[00:32:11] and financing infrastructure.
+[00:32:13] And I looked down the supply chain, not the demand.
+[00:32:17] So no rates, no taxes, that sort of thing.
+[00:32:20] I went to the assets that local government
+[00:32:22] and central government own.
+[00:32:24] Um, it's quite funny.
+[00:32:25] We're sitting in this building in 1992.
+[00:32:28] I actually had this building under contract with this,
+[00:32:31] and it was putting it into a fund from the us.
+[00:32:35] So, you know, we have a lot of value in our books now,
+[00:32:40] but we're not recognizing it.
+[00:32:41] And that just comes back from poor asset management.
+[00:32:44] And asset management is about asset registry.
+[00:32:47] You know, I'm a, I actually was the head of Knight Frank
+[00:32:50] and a number of valuation companies,
+[00:32:52] and that was my specialty, corporate real estate.
+[00:32:55] And I just see the crown throwing
+[00:32:56] so much money down the drain.
+[00:32:58] You once owned 40 buildings in New Zealand,
+[00:33:01] you own very little now.
+[00:33:03] And those buildings are actually like, um, dams.
+[00:33:08] Dams hold water, water producers.
+[00:33:10] Um, your leases are gold, but you give them away.
+[00:33:14] And the example is 55, uh, Molesworth Street.
+[00:33:19] I know that developer personally,
+[00:33:20] I actually had him under contract on a piece
+[00:33:22] of land in Auckland of 175 mil.
+[00:33:25] He told me all about that deal.
+[00:33:27] Um, he's walking away with 75 to 80 million.
+[00:33:30] He's already pre-sold the building on the
+[00:33:32] government signing the lease.
+[00:33:33] Are you talking about the MFA bill? Yep. Okay.
+[00:33:36] So this is your problem. You're giving too much away.
+[00:33:39] I support the bill in a number of areas.
+[00:33:41] 'cause it's great for housing. Um, one of the problems
+[00:33:44] with housing, one of the problems with the
+[00:33:47] original financing of this bill is just too complex.
+[00:33:50] So it's too large.
+[00:33:52] So you were actually only focusing on,
+[00:33:54] say, the larger companies.
+[00:33:55] We don't have them here. Um, 90% of our, uh, development
+[00:34:00] for housing is done by one or probably up to 10 people.
+[00:34:03] And they usually houses from 10 up to 50. Okay.
+[00:34:07] So your idea is good,
+[00:34:09] but you're going the wrong way about it.
+[00:34:11] Am all right. Um, with water, I'm worried.
+[00:34:15] Uh, the issue there is you're creating fess.
+[00:34:17] I've dealt with a lot of, you know, getting this through.
+[00:34:20] Councils in Auckland at just killed me. All right.
+[00:34:23] They did a lot of stupid thing
+[00:34:24] and thanks Dan for being there.
+[00:34:26] Um, WI lost $300,000 getting this.
+[00:34:30] It was, they were all into light rail.
+[00:34:32] They set me up to fail.
+[00:34:34] Um, I would go to meetings with two of our people
+[00:34:36] with 20 on there on the other side.
+[00:34:38] I was getting stupid things like letters saying there was
+[00:34:40] no, uh, slave labor in building these from China Rail.
+[00:34:44] Now you gotta realize China Rail's, $60 billion company.
+[00:34:48] Um, it's a world leader.
+[00:34:50] Uh, the ex pre the ex-chairman, um,
+[00:34:53] the ex CEO is actually President Xi.
+[00:34:55] So it's got huge power. And they love New Zealand.
+[00:34:58] They have supplied 80 to 2000 rolling stock to Kiwi rail,
+[00:35:02] all built in Dunedin.
+[00:35:04] Okay. So they're very keen. I Queenstown.
+[00:35:07] We're heading off the, I've got a team coming in from China.
+[00:35:10] I've pushed them back so many months.
+[00:35:12] 'cause as soon as they see Queenstown,
+[00:35:14] they were here in a week.
+[00:35:15] And these are the top executives.
+[00:35:17] This is, they have 130,000 people.
+[00:35:19] It's a global, and they were on the plane ready to come.
+[00:35:22] I was going Slow down guys, slow down.
+[00:35:25] I want to roll this out.
+[00:35:27] And because it's infrastructure, um, adds a lot of value.
+[00:35:30] Um, the cost is very cheap compared to like rail.
+[00:35:33] It's ideal for Queenstown, um, Christchurch,
+[00:35:35] Wellington and Auckland.
+[00:35:37] Uh, it ta it's regenerate cities.
+[00:35:40] So it's really reason why I got involved in,
+[00:35:42] it's really a real estate deal.
+[00:35:43] You build houses outta this. It's, it's a niche.
+[00:35:46] You'll see it in my submission.
+[00:35:47] Um, other issues apart from that, it's quite good.
+[00:35:51] And don't know Steve's online, 'cause he's a funder
+[00:35:54] and I asked him the other day,
+[00:35:57] and Steve's actually prepared to put some money up.
+[00:35:59] We buy one or two of these, bring it into the country.
+[00:36:02] Um, NZTA been brilliant to deal with.
+[00:36:05] Um, I really think, you know,
+[00:36:08] we should have the old ministry of works
+[00:36:09] to do a lot of infrastructure.
+[00:36:11] If you did, um, you'd go down to the NZTA model.
+[00:36:14] Um, basically we just, it's certified for Australia.
+[00:36:19] Um, the only issue they had in Australia was
+[00:36:23] they didn't have, they had red lights at one end
+[00:36:25] and white lights yet to have both.
+[00:36:27] 'cause it's dual driven. Um, all right.
+[00:36:29] That's about the end of my, okay.
+[00:36:31] Have we and Steve's online now? Steve,
+[00:36:33] Have you got anything to add?
+[00:36:36] Um, yeah, it's very interesting listening
+[00:36:37] to these submissions and, um, very nice
+[00:36:40] to see public getting involved.
+[00:36:42] Thank you very much. Um, with regard to funding, uh,
+[00:36:45] these kind of projects, we can create a, a,
+[00:36:48] a hybrid private bond government, um,
+[00:36:53] situation where the PRMs could be funded over a 20 year
+[00:36:56] period based on the back of a bond in joint venture
+[00:36:59] with an equity fund and the asset owner.
+[00:37:04] So we are looking to create something that is sustainable,
+[00:37:08] yet not out of the cost, uh, excess cost
+[00:37:13] that does come onto these new projects.
+[00:37:16] And I think the way Brian has put it together
+[00:37:18] with this product, there is definitely,
+[00:37:21] I can definitely see a need just from the airport
+[00:37:23] to Auckland City for a product like this.
+[00:37:28] Like this or a tram like this takes over three
+[00:37:32] or four buses mm-hmm.
+[00:37:35] And is fast and electronic
+[00:37:37] and all the things we want to do in the modern world.
+[00:37:41] Yeah. And as you can see, um, from the
+[00:37:44] infrastructure commissions, um, uh, 30 year plan, we've got,
+[00:37:48] uh, $275 billion worth of projects, 11
+[00:37:52] and a half thousand that we now need to, um,
+[00:37:54] prioritize as best we can.
+[00:37:56] Yeah, yeah. Um, so yeah. Okay.
+[00:37:59] So, but overall you are, um,
+[00:38:01] you are saying this legislation's an improvement from the
+[00:38:03] 2020 version.
+[00:38:04] It'll make developments easier. The innovation, it's got it.
+[00:38:07] Tools for funding will be helpful.
+[00:38:09] It's the tools are there that are good,
+[00:38:12] but you gotta get out and communicate to developers.
+[00:38:14] Developers are small, small numbers.
+[00:38:17] They don't like dealing with councils
+[00:38:19] 'cause they're all being burn under the RMA.
+[00:38:22] Right. I know it's been reformed and it's great,
+[00:38:25] but the r remains nicknamed in the property game is the
+[00:38:28] anti-Development Act.
+[00:38:29] All right. And you've gotta get out there a lot
+[00:38:32] of good monies coming into New Zealand,
+[00:38:34] but I'd like to actually see money from KiwiSaver.
+[00:38:37] I would like to run this with a bond, uh, a lease over the,
+[00:38:42] over the road and at lease to A PPP, which I've spoken
+[00:38:46] to the National Infrastructure Fund,
+[00:38:48] we had China rail with it.
+[00:38:49] They won't fund a trial. They will fund a rollout.
+[00:38:54] Um, and the way we would do it is create a bond.
+[00:38:57] These things last for 30 years.
+[00:38:59] Um, so basically they're a lot cheaper. They take off.
+[00:39:02] Uh, one of that would take five buses
+[00:39:05] off the road straight away.
+[00:39:06] Okay. And also they can be run autonomous, so you can
+[00:39:10] actually have a control center. So yeah.
+[00:39:12] Okay. We'll leave it that,
+[00:39:13] we'll leave at that, but thank you.
+[00:39:14] Is that it? Thank you for the, you've got your, um,
+[00:39:16] trackless trams back.
+[00:39:18] Yeah, I've got 'em all. No other questions?
+[00:39:21] No, we'll leave it at that. Really interesting. Thank you.
+[00:39:23] Thank you. Okay. We've got a couple of short ones. Yes.
+[00:39:25] Appreciate your help in person. Okay. Richard Mead.
+[00:39:29] Richard, thank you.
+[00:39:33] Sorry my friend. Alright.
+[00:39:42] Yeah, there you go.
+[00:39:44] Okay, Richard, thanks for your patience.
+[00:39:46] Sorry we are short on time, but thank you.
+[00:39:49] No worries. Um, yeah, well I'm not part
+[00:39:54] of any of these large organizations.
+[00:39:56] I've come here as one of your, uh, rate payers today.
+[00:39:59] Um, granted I've worked in a huge number of, uh,
+[00:40:04] organizations over the years
+[00:40:05] and just about every sector that'll be in
+[00:40:07] well involved with this bill.
+[00:40:10] Um, so I am
+[00:40:15] here in, well, I'm here to oppose the bill.
+[00:40:20] Um, I think it's a, a pathway down towards, uh,
+[00:40:25] closer to hedgemon domination slash um, debt colonialism,
+[00:40:30] which I don't want to be involved in.
+[00:40:34] Um, so I think if the bill
+[00:40:39] was passed, um, as intended,
+[00:40:42] it would create a large cost on the taxpayer.
+[00:40:47] Um, it'll achieve faster growth in local infrastructure,
+[00:40:51] but it technically, it hands a blank check to local councils
+[00:40:55] who can build, uh, an item with debt
+[00:40:57] and then choose who to levy for it.
+[00:41:01] And that levy will be essentially the rate
+[00:41:03] payers and the taxpayers.
+[00:41:05] Um, so on one hand you propose to cap rate hikes
+[00:41:10] for years, uh, in a few years time in 2029, which kind
+[00:41:15] of guarantees that we're gonna have larger rate hikes in the
+[00:41:18] next few years as they get ready for that.
+[00:41:20] But on the other hand, you then set up organizations under
+[00:41:23] the councils that get to levy the local populace, um,
+[00:41:29] and they do that.
+[00:41:31] Um, Yeah, I've gotta paraphrase a little bit of this,
+[00:41:36] but I'm not a fan of extra levies on the local population.
+[00:41:41] I think there's a better way to do it.
+[00:41:43] So I've come here with a few suggestions,
+[00:41:46] but let me just be clear.
+[00:41:47] I think this bill will explode debt
+[00:41:49] and borrowing for core public services
+[00:41:52] that have already been
+[00:41:53] provided for under the general government.
+[00:41:57] Um, and I could elaborate a long way,
+[00:42:00] but I won't, what I will do is suggest an alternative.
+[00:42:06] Okay. I think
+[00:42:09] that this bill should essentially be scrapped on its face
+[00:42:12] and I think you should move towards reforming the
+[00:42:17] state owned enterprises act.
+[00:42:19] Instead, I think you should give
+[00:42:22] the state owned enterprises another shot,
+[00:42:25] and I think you should do it in a way
+[00:42:27] that will not end this in
+[00:42:29] hyperinflation or anything like that.
+[00:42:32] Um, Yes, it's a bit
+[00:42:37] of a different, um, approach.
+[00:42:41] So I think
+[00:42:43] that the Reserve Bank should fund the capital
+[00:42:45] assets on its face.
+[00:42:47] I think they should put them in a capital debt.
+[00:42:52] I think they should hold that debt
+[00:42:53] as a non-interest accruing debt.
+[00:42:55] And then I think you guys, I think the organizations
+[00:42:59] or the state owned enterprise,
+[00:43:01] or in this case the provincial owned enterprises instead
+[00:43:06] of state owned, should then, um, be run
+[00:43:10] as for-profit organizations.
+[00:43:12] And those for-profit organizations should repay the debt.
+[00:43:15] And once they're finished repaying the debt,
+[00:43:17] they should put all of their profits towards the local
+[00:43:20] council that owns them.
+[00:43:21] Okay. Okay. Yep.
+[00:43:23] Now, yes, I know that's, that's, that's your al alternative.
+[00:43:27] Um, but just come back to your immediate opposition
+[00:43:31] to the bill and then we'll open up for questions.
+[00:43:32] Then we'll have to move on. Yes.
+[00:43:34] Um, so if, if you were to sum up your opposition
+[00:43:37] to the bill, it's on what basis?
+[00:43:39] It's on the debt burden.
+[00:43:40] It'll cause the rate pays through the levies. Yeah.
+[00:43:44] Okay. Pretty clear. Okay. That's pretty clear.
+[00:43:46] Any questions? No, thank you Richard, for coming in.
+[00:43:49] Appreciate it. Okay.
+[00:43:53] Uh, that takes us to the last one, John McDonald. Uh, worry.
+[00:43:58] Yeah. Would security check for me?
+[00:44:03] I don't think they have, but could I give it to
+[00:44:07] And welcome miles?
+[00:44:08] Mm-hmm. Oh, John, sorry we've squeezed you at the end.
+[00:44:12] Not sure if it's, um, but we're in, we're in your hands.
+[00:44:15] So let's go If you can give us, um, a little bit of time
+[00:44:18] for opportunity for questions,
+[00:44:19] but we haven't got much time, so thank you. Yeah.
+[00:44:22] Alright, Kiara.
+[00:44:23] Um, so to sum up, my main con concerns with this bill
+[00:44:28] and the IFF Act in general
+[00:44:31] is it's creating liability through proximity to stupidity.
+[00:44:36] So by virtue of just your proximity
+[00:44:40] to an unwise development, um,
+[00:44:42] you are potentially becoming liable for both the levy
+[00:44:46] and the debts associated with that levy.
+[00:44:49] So you can argue this is the case with local government.
+[00:44:52] Generally you've got stupid and extravagant spending.
+[00:44:55] You can argue we need the infrastructure,
+[00:44:57] but often it's costing many multiples times
+[00:45:00] more than it needs to.
+[00:45:02] And then you've got stupidly large debts being used
+[00:45:05] to pay for that infrastructure.
+[00:45:06] And I think there's a relationship between the two.
+[00:45:09] We're loading things up on intergenerational debt rather
+[00:45:13] than having, um, year to year budgetary discipline.
+[00:45:18] What makes this different and to local government generally,
+[00:45:22] and this also ties in with the water reforms,
+[00:45:25] is we've got potentially two layers of separation here
+[00:45:28] between democratic accountability
+[00:45:31] and easy to see council box.
+[00:45:33] So we've potentially got these SPV arrangements
+[00:45:38] as one level going through a water CCO
+[00:45:40] and going through council.
+[00:45:41] So the ability for, um, local voters to keep track of this
+[00:45:46] and elected representatives is gonna be tricky.
+[00:45:50] Um, and we're gonna get more off box borrowing, um,
+[00:45:53] which causes concern.
+[00:45:55] Um, so the kind of scenario that I
+[00:45:58] would've concerns about is you've got two neighboring farms
+[00:46:01] or lifestyle blocks.
+[00:46:03] One of the, um, both of them self-contained, not hooked up
+[00:46:07] to water supply or sewage.
+[00:46:11] One of the farms
+[00:46:12] or lifestyle blocks decides to
+[00:46:15] be developed into a subdivision.
+[00:46:17] They get involved in these s PVS
+[00:46:21] executive decree from order
+[00:46:23] and council declares a larger region to be, um,
+[00:46:28] liable for the levy and the debt.
+[00:46:30] They spend up large putting an infrastructure
+[00:46:34] and then that developer goes bankrupt.
+[00:46:38] Does the neighboring property that decided
+[00:46:40] that getting involved in that development was unwise
+[00:46:43] and didn't sign up for in any way, did they become liable
+[00:46:46] for the levy just by being a neighbor to the developer
+[00:46:50] that's gone bust and you've got these fire sale pro
+[00:46:54] provisions accelerated process for selling land
+[00:46:59] to cover the debts.
+[00:47:02] Will the neighbor who had nothing to do
+[00:47:04] with this development, didn't want the infrastructure,
+[00:47:06] didn't need the infrastructure,
+[00:47:08] was just mining their own business?
+[00:47:09] Do they suddenly become vulnerable to a fire sale
+[00:47:13] to cover the SPV debts
+[00:47:15] that this dodgy developer has racked up?
+[00:47:19] Um, so most of
+[00:47:22] what I've sent in is about fundamental rights
+[00:47:26] that people have, um, regarding, um, their property
+[00:47:30] and protection from unreasonable seizure of their property
+[00:47:34] and also their right to a fair
+[00:47:36] and public hearing by a competent, independent,
+[00:47:39] and impartial tribunal.
+[00:47:41] Um, and that's under Article 14
+[00:47:43] of the International Covenant of Civil and Political Rights.
+[00:47:47] So basically I see this bill as a trade off
+[00:47:50] that you're trying to make between fundamental rights
+[00:47:54] to people having their day in court, um,
+[00:47:58] to, um
+[00:48:02] Mm-hmm. Okay.
+[00:48:03] Indicate those rights. Yeah,
+[00:48:05] We'll just have to, we might just
+[00:48:06] have to leave it there, John.
+[00:48:07] Um, and you post some very interesting questions,
+[00:48:11] Returns on capital provided to holders or debts of equity.
+[00:48:15] Okay. So are you gonna be putting the people
+[00:48:17] who have invested in the PV above the rights
+[00:48:21] of neighboring landowners to just Yep.
+[00:48:23] Piece of No. Those, those liability questions are really
+[00:48:26] good questions and, uh,
+[00:48:27] that they'll probably come up in the departmental report
+[00:48:30] when we, um, uh, start working through any amendments
+[00:48:33] to the amendment bill.
+[00:48:34] So thank you for your presentation
+[00:48:37] and raising those points today, John, and, and coming in
+[00:48:40] before us, uh, via Zoom.
+[00:48:42] Okay. Members that finishes the infrastructure funding
+[00:48:44] and financing amendment bill hearings, uh, we're off
+[00:48:47] to the house.

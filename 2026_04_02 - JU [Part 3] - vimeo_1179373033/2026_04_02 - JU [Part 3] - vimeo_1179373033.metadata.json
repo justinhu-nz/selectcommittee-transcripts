@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:21.080926+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1179373033",
+  "title": "2026/04/02 - JU [Part 3]",
+  "url": "https://vimeo.com/1179373033",
+  "published_at": "20260401",
+  "published_display": "2026-04-01",
+  "duration_seconds": 4379,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4378.95,
+    "segment_count": 1403,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_02 - JU [Part 3] - vimeo_1179373033\\2026_04_02 - JU [Part 3] - vimeo_1179373033.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1179373033",
+    "display_id": "1179373033",
+    "title": "2026/04/02 - JU [Part 3]",
+    "description": "Thursday, 2 April 2026 | Justice Committee\n\nInquiry into the 2025 Local Elections \n\nHearing of Evidence\nSubmitters:\n\nTransparency International New Zealand Inc  \n\nJulie Haggie, Executive Director \n\nGreen Party Local Government Caucus \n\n Alan Somerville, Co-convenor \n\nChristchurch City Council  \n\nJo Daly, Council Governance Advisor / Deputy Electoral Office \n\nAuckland Council  \n\nCouncillor Richard Hills, Chair of Policy, Planning & Development Committee  \n\nElodie Fontaine \nKay Jones \nCharlotte Melser \nIt's in the Ballot Productions  \n\nSam Somers, Co-Chair, It's in the Ballot Productions  \nNick Holander, Candidate Liaison \n\nJette de Jong \nElection Services  \n\nDale Ofsoske, Managing Director and Principal Electoral Officer  \nCraig Taylor, Business Manager and Electoral Officer",
+    "webpage_url": "https://vimeo.com/1179373033",
+    "original_url": "https://vimeo.com/1179373033",
+    "upload_date": "20260401",
+    "timestamp": 1775084543,
+    "release_timestamp": 1775084553,
+    "duration": 4379,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2141273675-8d6c999e6fda9e594b9ce31c31b956417c449c0875a9bf9cb575dec44f86bb87-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291979949.vtt?expires=1778504725&sig=7b45ba7e5748ef45f0a31e8560e8416cd261fbb0&download=auto_generated_captions.vtt"
+  }
+}

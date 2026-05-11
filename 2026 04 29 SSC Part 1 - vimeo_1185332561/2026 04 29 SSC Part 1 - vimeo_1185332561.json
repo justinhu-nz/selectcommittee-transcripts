@@ -1,0 +1,2968 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1904.47,
+  "segments": [
+    {
+      "start": 13.86,
+      "end": 14.28,
+      "text": "Good morning."
+    },
+    {
+      "start": 20.08,
+      "end": 21.46,
+      "text": "All right. Slide's up there."
+    },
+    {
+      "start": 21.64,
+      "end": 23.72,
+      "text": "Right. Good morning, and welcome to the Social Services and Community Select"
+    },
+    {
+      "start": 23.76,
+      "end": 26.62,
+      "text": "Committee. So we have you for half an hour this morning."
+    },
+    {
+      "start": 27.42,
+      "end": 30.76,
+      "text": "So we've got a briefing from the Helen Clark Foundation on New Zealand's aging"
+    },
+    {
+      "start": 30.82,
+      "end": 31.36,
+      "text": "population."
+    },
+    {
+      "start": 32.76,
+      "end": 35.89,
+      "text": "So I think we've got Carley and Rachel is there"
+    },
+    {
+      "start": 35.9,
+      "end": 39.82,
+      "text": "right? Welcome. If you want to introduce yourself and take it away."
+    },
+    {
+      "start": 39.9,
+      "end": 43.68,
+      "text": "Sure. Thank you. Tena koutou katoa, and thank you for"
+    },
+    {
+      "start": 43.72,
+      "end": 47.28,
+      "text": "the invitation to join you today. Called Rachel"
+    },
+    {
+      "start": 47.3,
+      "end": 50.48,
+      "text": "Durie-Menaghau, and I'm the head of planning at WSP."
+    },
+    {
+      "start": 51.14,
+      "end": 54.46,
+      "text": "And it's our absolute pleasure to be here with you today to"
+    },
+    {
+      "start": 54.58,
+      "end": 57.46,
+      "text": "continue this very important"
+    },
+    {
+      "start": 57.5,
+      "end": 60.92,
+      "text": "discussion on how decisions around infrastructure"
+    },
+    {
+      "start": 60.96,
+      "end": 64.22,
+      "text": "provision can and must respond to the"
+    },
+    {
+      "start": 64.34,
+      "end": 68.04,
+      "text": "transformational demographic shift currently underway"
+    },
+    {
+      "start": 68.1,
+      "end": 69.5,
+      "text": "across Aotearoa, New Zealand."
+    },
+    {
+      "start": 71.0,
+      "end": 74.12,
+      "text": "Today's session centers on age-proofing Aotearoa."
+    },
+    {
+      "start": 74.16,
+      "end": 76.88,
+      "text": "I'm just going to do a little bit of an introduction and then pass to Carley, who"
+    },
+    {
+      "start": 76.92,
+      "end": 80.88,
+      "text": "will then run through the slides. So this report, as"
+    },
+    {
+      "start": 80.92,
+      "end": 84.67,
+      "text": "you know, was prepared in partnership with the Helen Clark Foundation, and it was"
+    },
+    {
+      "start": 84.74,
+      "end": 86.87,
+      "text": "first published in October last year."
+    },
+    {
+      "start": 87.92,
+      "end": 90.3,
+      "text": "Since that time, it's gathered"
+    },
+    {
+      "start": 91.2,
+      "end": 92.38,
+      "text": "enduring interest."
+    },
+    {
+      "start": 93.33,
+      "end": 97.14,
+      "text": "So it sits within an excellent series prepared by Carley, each which"
+    },
+    {
+      "start": 97.15,
+      "end": 100.41,
+      "text": "tackles issues that are fundamental to our collective future and"
+    },
+    {
+      "start": 100.48,
+      "end": 104.4,
+      "text": "is deliberately designed to provoke thought, challenge assumptions, and"
+    },
+    {
+      "start": 104.46,
+      "end": 108.36,
+      "text": "to stimulate action, which is why it's great to be here with you today talking"
+    },
+    {
+      "start": 108.4,
+      "end": 108.82,
+      "text": "it through."
+    },
+    {
+      "start": 110.5,
+      "end": 114.4,
+      "text": "What's been particularly striking about this particular report is the breadth"
+    },
+    {
+      "start": 114.46,
+      "end": 117.16,
+      "text": "of engagement that it continues to generate."
+    },
+    {
+      "start": 117.17,
+      "end": 120.92,
+      "text": "Interest has come from policymakers, developers, aged care providers,"
+    },
+    {
+      "start": 121.04,
+      "end": 122.66,
+      "text": "local and central government, academia,"
+    },
+    {
+      "start": 123.48,
+      "end": 124.34,
+      "text": "general public."
+    },
+    {
+      "start": 127.02,
+      "end": 130.72,
+      "text": "And that interaction, I think, reflects something important, which is that the"
+    },
+    {
+      "start": 130.76,
+      "end": 134.54,
+      "text": "response to age-proofing Aotearoa has not been purely emotive, but"
+    },
+    {
+      "start": 134.62,
+      "end": 136.96,
+      "text": "it has been practical and solution-focused."
+    },
+    {
+      "start": 137.86,
+      "end": 141.84,
+      "text": "There is a genuine appetite to move beyond the recognition of the issue"
+    },
+    {
+      "start": 142.36,
+      "end": 144.4,
+      "text": "towards meaningful implementation."
+    },
+    {
+      "start": 144.9,
+      "end": 148.8,
+      "text": "And in that sense, the timing of today's discussion couldn't be more relevant"
+    },
+    {
+      "start": 148.88,
+      "end": 152.58,
+      "text": "given the various aspects of reform and review of the entire"
+    },
+    {
+      "start": 152.62,
+      "end": 153.96,
+      "text": "system that are underway."
+    },
+    {
+      "start": 156.08,
+      "end": 159.04,
+      "text": "So in a moment, I'll pass to Carley to run through the"
+    },
+    {
+      "start": 160.26,
+      "end": 163.48,
+      "text": "findings. But we'll just close with, this report is"
+    },
+    {
+      "start": 163.5,
+      "end": 167.26,
+      "text": "fundamentally about fairness, resilience,"
+    },
+    {
+      "start": 167.9,
+      "end": 171.6,
+      "text": "and foresight, and about ensuring that the decisions we take"
+    },
+    {
+      "start": 171.66,
+      "end": 175.54,
+      "text": "today create infrastructure, services, and communities that"
+    },
+    {
+      "start": 175.62,
+      "end": 179.47,
+      "text": "continue to support dignity, participation, and"
+    },
+    {
+      "start": 179.56,
+      "end": 183.21,
+      "text": "wellbeing across the life course of all fellow New"
+    },
+    {
+      "start": 183.21,
+      "end": 183.68,
+      "text": "Zealanders."
+    },
+    {
+      "start": 185.06,
+      "end": 185.34,
+      "text": "Thank you."
+    },
+    {
+      "start": 185.44,
+      "end": 188.28,
+      "text": "Thanks, Rachel. Tena koutou katoa. I'm Carley Mercy."
+    },
+    {
+      "start": 188.42,
+      "end": 192.18,
+      "text": "I'm deputy director at the Helen Clark Foundation and also a WSP"
+    },
+    {
+      "start": 192.2,
+      "end": 195.94,
+      "text": "fellow, which means I work with WSP on a couple of long-form policy"
+    },
+    {
+      "start": 195.96,
+      "end": 198.28,
+      "text": "reports each year on infrastructure matters."
+    },
+    {
+      "start": 199.3,
+      "end": 201.34,
+      "text": "And this one I'm really excited about."
+    },
+    {
+      "start": 201.38,
+      "end": 204.68,
+      "text": "It was the one I think most of all the reports we've done so far, where I was just"
+    },
+    {
+      "start": 204.72,
+      "end": 206.62,
+      "text": "like, \"Oh, wow, we've got this really big thing coming."
+    },
+    {
+      "start": 206.66,
+      "end": 210.64,
+      "text": "We're not really very well prepared.\" So I'm really happy to be talking to"
+    },
+    {
+      "start": 210.66,
+      "end": 213.94,
+      "text": "you about it today. I understand you've had Paul Spoonley come in-"
+    },
+    {
+      "start": 214.8,
+      "end": 214.81,
+      "text": "Yeah"
+    },
+    {
+      "start": 214.81,
+      "end": 218.66,
+      "text": "... last year to talk to you about demographics stuff. So I won't labor that stuff."
+    },
+    {
+      "start": 218.7,
+      "end": 222.02,
+      "text": "I'll just maybe go quite quickly through the demographics to refresh you a wee bit."
+    },
+    {
+      "start": 222.06,
+      "end": 225.9,
+      "text": "But then I'll launch into talking about the various types of infrastructure that I"
+    },
+    {
+      "start": 225.94,
+      "end": 228.82,
+      "text": "think we need to be most worried about with the bulge of aging"
+    },
+    {
+      "start": 228.84,
+      "end": 232.18,
+      "text": "population. So if we could just start the slideshow, please."
+    },
+    {
+      "start": 234.16,
+      "end": 238.14,
+      "text": "So we've got this profound and demographic shift happening over time."
+    },
+    {
+      "start": 239.24,
+      "end": 239.5,
+      "text": "So if"
+    },
+    {
+      "start": 240.52,
+      "end": 244.18,
+      "text": "I think about how old I'll be in 2051, which is in"
+    },
+    {
+      "start": 244.32,
+      "end": 247.42,
+      "text": "25 years, well, you can work it out yourself how old you'll be."
+    },
+    {
+      "start": 247.5,
+      "end": 249.72,
+      "text": "I'm 51 now, so I'll be 76 then."
+    },
+    {
+      "start": 250.78,
+      "end": 254.11,
+      "text": "But at that time, there'll be double the number of people over 65 as there are"
+    },
+    {
+      "start": 254.14,
+      "end": 258.0,
+      "text": "today. By the time I'm 85, so in 2060,"
+    },
+    {
+      "start": 258.08,
+      "end": 261.96,
+      "text": "thereabout, there'll be about three or four times as many people aged 85 and"
+    },
+    {
+      "start": 262.1,
+      "end": 263.18,
+      "text": "over as there are today."
+    },
+    {
+      "start": 264.8,
+      "end": 266.38,
+      "text": "Potentially as many as four times as many."
+    },
+    {
+      "start": 266.48,
+      "end": 270.2,
+      "text": "So you and I and all of us who are around that age will be"
+    },
+    {
+      "start": 270.24,
+      "end": 274.03,
+      "text": "looking to use infrastructure such as hospitals and"
+    },
+    {
+      "start": 274.1,
+      "end": 277.08,
+      "text": "aged care facilities, and accessible housing,"
+    },
+    {
+      "start": 278.14,
+      "end": 282.06,
+      "text": "that is currently not in existence at the levels that we need it and for"
+    },
+    {
+      "start": 282.08,
+      "end": 285.48,
+      "text": "which there's no real clear plan to build in a"
+    },
+    {
+      "start": 285.52,
+      "end": 288.56,
+      "text": "hurry. So we've got this really profound demographic shift happening."
+    },
+    {
+      "start": 288.6,
+      "end": 292.02,
+      "text": "We don't have a strategic plan to match it, is essentially the message I wanted to"
+    },
+    {
+      "start": 292.04,
+      "end": 293.38,
+      "text": "get across to you guys today."
+    },
+    {
+      "start": 294.52,
+      "end": 297.62,
+      "text": "The numbers on the graph are quite sobering because there's no roadmap."
+    },
+    {
+      "start": 298.38,
+      "end": 301.98,
+      "text": "And there's going to be significant and compounding shortages, I think, in housing"
+    },
+    {
+      "start": 302.06,
+      "end": 305.72,
+      "text": "and aged care facilities and care infrastructure in particular."
+    },
+    {
+      "start": 305.78,
+      "end": 307.58,
+      "text": "Those are the three areas that I really"
+    },
+    {
+      "start": 308.38,
+      "end": 312.2,
+      "text": "felt that there were big lacks in. And then there's this extra area, which is urban"
+    },
+    {
+      "start": 312.26,
+      "end": 315.12,
+      "text": "design, which I think is an opportunity area for us as well."
+    },
+    {
+      "start": 316.26,
+      "end": 317.64,
+      "text": "So I'll cover those four areas."
+    },
+    {
+      "start": 318.72,
+      "end": 321.54,
+      "text": "We've got increasing life expectancy, declining birth rates."
+    },
+    {
+      "start": 321.6,
+      "end": 325.34,
+      "text": "We've got internal migration pressures, international migration pressures,"
+    },
+    {
+      "start": 325.72,
+      "end": 328.16,
+      "text": "and that's led to this thing of structural aging."
+    },
+    {
+      "start": 328.24,
+      "end": 330.04,
+      "text": "If you put the next slide on, please."
+    },
+    {
+      "start": 334.16,
+      "end": 338.12,
+      "text": "So structural aging essentially means that the population's shifting from a"
+    },
+    {
+      "start": 338.16,
+      "end": 341.9,
+      "text": "pyramid shape with lots of young people at the bottom to a pyramid more an"
+    },
+    {
+      "start": 341.96,
+      "end": 345.9,
+      "text": "obelisk shape with fewer young people at the bottom and a lot more older people"
+    },
+    {
+      "start": 345.94,
+      "end": 346.4,
+      "text": "at the top."
+    },
+    {
+      "start": 347.8,
+      "end": 351.7,
+      "text": "It's quite hard to read, but the bottom right-hand pyramid is 2053, so about,"
+    },
+    {
+      "start": 352.3,
+      "end": 356.14,
+      "text": "what's that, 25 years away or so. You can see that top line just getting"
+    },
+    {
+      "start": 356.2,
+      "end": 359.83,
+      "text": "older and older. And the bottom line is slowly getting shorter."
+    },
+    {
+      "start": 359.88,
+      "end": 363.44,
+      "text": "So there's fewer people to essentially pay for the infrastructure that the older"
+    },
+    {
+      "start": 363.48,
+      "end": 367.37,
+      "text": "people are going to need. And you'll have heard all the Treasury's concerns about"
+    },
+    {
+      "start": 367.42,
+      "end": 371.25,
+      "text": "that, I'm sure.It's a non-reversible"
+    },
+    {
+      "start": 371.29,
+      "end": 374.49,
+      "text": "trend, and we're sharing it with all OECD countries, essentially."
+    },
+    {
+      "start": 374.77,
+      "end": 375.99,
+      "text": "Some of them are further ahead than us."
+    },
+    {
+      "start": 377.07,
+      "end": 380.51,
+      "text": "We can slow it down with immigration, but we can't stop it, so"
+    },
+    {
+      "start": 380.57,
+      "end": 381.79,
+      "text": "it's going to keep going."
+    },
+    {
+      "start": 382.77,
+      "end": 385.57,
+      "text": "And by the way, it's not necessarily a bad story."
+    },
+    {
+      "start": 385.58,
+      "end": 389.01,
+      "text": "Having everyone live longer and happier and healthier lives is a great story."
+    },
+    {
+      "start": 389.85,
+      "end": 392.15,
+      "text": "I'll be thrilled to have a long, happy life."
+    },
+    {
+      "start": 392.51,
+      "end": 395.75,
+      "text": "But we just need to be planning for it, so it's just a systems challenge and"
+    },
+    {
+      "start": 395.79,
+      "end": 397.91,
+      "text": "opportunity, but it's not a crisis."
+    },
+    {
+      "start": 397.99,
+      "end": 401.83,
+      "text": "But it could become one if we don't treat it as something we have to"
+    },
+    {
+      "start": 401.87,
+      "end": 404.63,
+      "text": "proactively address. Yeah."
+    },
+    {
+      "start": 406.63,
+      "end": 407.59,
+      "text": "Next slide, please."
+    },
+    {
+      "start": 408.39,
+      "end": 411.07,
+      "text": "So the total number of older people is really relevant in terms of the"
+    },
+    {
+      "start": 411.11,
+      "end": 414.33,
+      "text": "infrastructure and facilities we need, obviously, but the proportion of the older"
+    },
+    {
+      "start": 414.51,
+      "end": 416.99,
+      "text": "population is relevant in terms of how we actually pay for it."
+    },
+    {
+      "start": 417.33,
+      "end": 420.63,
+      "text": "So currently, about 17% of the population's over 65."
+    },
+    {
+      "start": 420.99,
+      "end": 424.66,
+      "text": "By 2078, that'll move to around 30%, or one third of the population."
+    },
+    {
+      "start": 425.61,
+      "end": 428.33,
+      "text": "So that will mean fewer people to pay for more services"
+    },
+    {
+      "start": 429.45,
+      "end": 431.95,
+      "text": "and more infrastructure. Next slide, please."
+    },
+    {
+      "start": 432.83,
+      "end": 436.09,
+      "text": "I'm trying to rattle through this demographic stuff because I know you probably"
+    },
+    {
+      "start": 436.11,
+      "end": 437.09,
+      "text": "know this stuff quite well."
+    },
+    {
+      "start": 438.11,
+      "end": 441.81,
+      "text": "Regional disparities, this map on the left is now, and the"
+    },
+    {
+      "start": 442.07,
+      "end": 445.89,
+      "text": "next one is 2048, so just showing the percentage of older people in"
+    },
+    {
+      "start": 445.93,
+      "end": 449.83,
+      "text": "each area over time. Some areas like Tasman, Nelson,"
+    },
+    {
+      "start": 449.87,
+      "end": 453.47,
+      "text": "Marlborough, are already what's known as hyper-aged, so they've already got more"
+    },
+    {
+      "start": 453.49,
+      "end": 457.29,
+      "text": "than 20% of people over 65. And those areas are going to be"
+    },
+    {
+      "start": 457.69,
+      "end": 461.33,
+      "text": "growing older faster and will have around 30% of people over"
+    },
+    {
+      "start": 461.53,
+      "end": 465.47,
+      "text": "65 by 2048, within two decades. And then"
+    },
+    {
+      "start": 465.55,
+      "end": 468.41,
+      "text": "other areas like Auckland, Christchurch, Wellington, they're growing older much"
+    },
+    {
+      "start": 468.49,
+      "end": 471.88,
+      "text": "slower as a percentage. But in terms of overall numbers, they're growing older"
+    },
+    {
+      "start": 472.03,
+      "end": 475.31,
+      "text": "quite quickly. So Auckland, for example, within 20 odd years, will have an"
+    },
+    {
+      "start": 475.37,
+      "end": 478.65,
+      "text": "extra couple of hundred thousand people over 65."
+    },
+    {
+      "start": 478.69,
+      "end": 482.67,
+      "text": "So the challenges for the big cities is more about the absolute number of"
+    },
+    {
+      "start": 482.69,
+      "end": 486.57,
+      "text": "people. I think for the smaller places, it's the challenge"
+    },
+    {
+      "start": 486.65,
+      "end": 487.29,
+      "text": "that there are"
+    },
+    {
+      "start": 488.19,
+      "end": 491.15,
+      "text": "fewer people of working age to pay for the infrastructure."
+    },
+    {
+      "start": 491.21,
+      "end": 495.17,
+      "text": "Growth"
+    },
+    {
+      "start": 495.18,
+      "end": 498.51,
+      "text": "has funded development in a lot of those smaller places, and that's not necessarily"
+    },
+    {
+      "start": 498.53,
+      "end": 501.41,
+      "text": "going to be the case anymore because a lot of those places are getting both older"
+    },
+    {
+      "start": 501.83,
+      "end": 505.07,
+      "text": "and smaller at the same time. So that's going to be the real challenge for the"
+    },
+    {
+      "start": 505.35,
+      "end": 507.37,
+      "text": "infrastructure for the smaller places."
+    },
+    {
+      "start": 509.57,
+      "end": 513.29,
+      "text": "Yeah, next slide, please. We'll start on the different areas of infrastructure."
+    },
+    {
+      "start": 514.33,
+      "end": 515.13,
+      "text": "So housing"
+    },
+    {
+      "start": 516.05,
+      "end": 519.95,
+      "text": "is obviously a secure and healthy home is the biggest determinant of a healthy old"
+    },
+    {
+      "start": 520.09,
+      "end": 522.74,
+      "text": "age, so we really need to get housing right first and foremost."
+    },
+    {
+      "start": 523.37,
+      "end": 525.65,
+      "text": "We already have a really significant housing shortage."
+    },
+    {
+      "start": 525.69,
+      "end": 529.62,
+      "text": "We need nearly half a million homes extra by 2043, according"
+    },
+    {
+      "start": 529.67,
+      "end": 533.29,
+      "text": "to Stats New Zealand, and we're falling short by about 5,000 or 10,000 homes a year"
+    },
+    {
+      "start": 533.33,
+      "end": 533.81,
+      "text": "at the moment."
+    },
+    {
+      "start": 535.27,
+      "end": 539.13,
+      "text": "In terms of an aging population, what I was most worried about was the shortage of"
+    },
+    {
+      "start": 539.19,
+      "end": 541.09,
+      "text": "smaller homes,"
+    },
+    {
+      "start": 542.33,
+      "end": 543.59,
+      "text": "accessible houses as well,"
+    },
+    {
+      "start": 544.83,
+      "end": 546.91,
+      "text": "both public-owned and on the private market."
+    },
+    {
+      "start": 547.89,
+      "end": 551.73,
+      "text": "We don't have enough existing accessible housing to accommodate"
+    },
+    {
+      "start": 551.81,
+      "end": 554.97,
+      "text": "older people with disabilities, let alone to cover future demand."
+    },
+    {
+      "start": 555.03,
+      "end": 558.69,
+      "text": "So in terms of disabilities, I think something like between 17 and"
+    },
+    {
+      "start": 558.73,
+      "end": 562.31,
+      "text": "19% of the population counts as disabled in the general"
+    },
+    {
+      "start": 562.33,
+      "end": 565.41,
+      "text": "population. But once you get over 65, it's more like 60%."
+    },
+    {
+      "start": 565.95,
+      "end": 568.79,
+      "text": "Of course, not all of those people have mobility problems, but a lot of them do."
+    },
+    {
+      "start": 568.89,
+      "end": 571.97,
+      "text": "So essentially, as the population gets older, we're going to need more and more"
+    },
+    {
+      "start": 571.99,
+      "end": 575.11,
+      "text": "accessible housing, and we are already really struggling with demand."
+    },
+    {
+      "start": 576.51,
+      "end": 578.63,
+      "text": "Housing poverty is also another challenge."
+    },
+    {
+      "start": 580.21,
+      "end": 583.18,
+      "text": "From the statistic here, significantly more people will be renting in the future,"
+    },
+    {
+      "start": 583.61,
+      "end": 587.31,
+      "text": "and renting housing, of course, is generally lower quality than"
+    },
+    {
+      "start": 587.69,
+      "end": 591.23,
+      "text": "privately owned homes, and that has an impact on public health and overall health"
+    },
+    {
+      "start": 591.77,
+      "end": 594.21,
+      "text": "overall, and then ends up putting more pressure on"
+    },
+    {
+      "start": 595.19,
+      "end": 598.75,
+      "text": "at the health infrastructure end. So it is a system."
+    },
+    {
+      "start": 599.13,
+      "end": 601.49,
+      "text": "The housing affects public health, which affects how much"
+    },
+    {
+      "start": 602.31,
+      "end": 606.27,
+      "text": "health infrastructure we need. So really starting to think of that as a system"
+    },
+    {
+      "start": 606.31,
+      "end": 610.18,
+      "text": "and work out how we can improve things at this end to influence our"
+    },
+    {
+      "start": 610.25,
+      "end": 613.95,
+      "text": "infrastructure demands over time is going to be really essential."
+    },
+    {
+      "start": 615.07,
+      "end": 618.71,
+      "text": "Yeah, so the report calls for more public housing to be built, especially for older"
+    },
+    {
+      "start": 618.75,
+      "end": 622.43,
+      "text": "people, the smaller disability-friendly housing,"
+    },
+    {
+      "start": 622.49,
+      "end": 623.53,
+      "text": "especially."
+    },
+    {
+      "start": 624.49,
+      "end": 627.55,
+      "text": "And we should also be thinking, and I think this is just as important, if not more"
+    },
+    {
+      "start": 627.57,
+      "end": 631.1,
+      "text": "important, about incentives for private landlords to make their housing more"
+    },
+    {
+      "start": 631.19,
+      "end": 633.41,
+      "text": "accessible and to build more smaller housing as well."
+    },
+    {
+      "start": 633.67,
+      "end": 637.45,
+      "text": "I think the market will eventually respond but is responding too"
+    },
+    {
+      "start": 637.51,
+      "end": 638.09,
+      "text": "slowly and"
+    },
+    {
+      "start": 638.91,
+      "end": 642.17,
+      "text": "probably needs a little push along to make sure that that happens in time."
+    },
+    {
+      "start": 644.21,
+      "end": 644.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 647.63,
+      "end": 650.93,
+      "text": "Also, councils need to be proactively using planning and zoning rules to encourage"
+    },
+    {
+      "start": 650.97,
+      "end": 653.45,
+      "text": "a variety of functional and affordable housing as well."
+    },
+    {
+      "start": 653.89,
+      "end": 656.67,
+      "text": "So that's another part of the picture, is what local councils are doing in that"
+    },
+    {
+      "start": 656.73,
+      "end": 660.43,
+      "text": "space. Next, we're going to move on to aged care facilities."
+    },
+    {
+      "start": 660.51,
+      "end": 662.85,
+      "text": "I'm trying to rattle through this so we have time for questions."
+    },
+    {
+      "start": 664.93,
+      "end": 666.45,
+      "text": "Yeah, big pinch point here as well."
+    },
+    {
+      "start": 666.55,
+      "end": 670.49,
+      "text": "So there are currently really big gaps in aged care with people falling through"
+    },
+    {
+      "start": 670.53,
+      "end": 673.55,
+      "text": "the cracks. Obviously, you would have heard about that in this group."
+    },
+    {
+      "start": 674.63,
+      "end": 678.49,
+      "text": "They either end up in care earlier than they would have liked or miss out on care"
+    },
+    {
+      "start": 678.51,
+      "end": 681.89,
+      "text": "entirely. There's going to be around a 12,000 bed shortage by"
+    },
+    {
+      "start": 682.01,
+      "end": 685.89,
+      "text": "2032, according to one estimate, and"
+    },
+    {
+      "start": 685.93,
+      "end": 688.43,
+      "text": "that's obviously going to get worse over time with the bulging"
+    },
+    {
+      "start": 689.65,
+      "end": 692.21,
+      "text": "population change. So some areas,"
+    },
+    {
+      "start": 693.03,
+      "end": 696.57,
+      "text": "particularly rural areas and some of the smaller regions, are really badly served"
+    },
+    {
+      "start": 696.61,
+      "end": 700.29,
+      "text": "compared to the bigger cities, especially with the private, the big six"
+    },
+    {
+      "start": 700.35,
+      "end": 704.34,
+      "text": "companies. It's obviously much easier for them to set up in the big areas because"
+    },
+    {
+      "start": 704.37,
+      "end": 706.25,
+      "text": "it's easier for them to get suppliers and caterers."
+    },
+    {
+      "start": 706.27,
+      "end": 707.79,
+      "text": "They have a much bigger profit margin there."
+    },
+    {
+      "start": 707.81,
+      "end": 708.4,
+      "text": "So there's not"
+    },
+    {
+      "start": 710.33,
+      "end": 713.65,
+      "text": "as much motivation for them to move to some of the smaller rural"
+    },
+    {
+      "start": 713.66,
+      "end": 717.31,
+      "text": "areas. You might be waiting for a bed nearly three times as long on the West Coast"
+    },
+    {
+      "start": 717.35,
+      "end": 718.82,
+      "text": "as in the Manawatu, for example."
+    },
+    {
+      "start": 720.21,
+      "end": 722.29,
+      "text": "So we need to increase capacity and beds."
+    },
+    {
+      "start": 723.55,
+      "end": 726.61,
+      "text": "A big part of the problem is the funding models around aged care facilities, and I"
+    },
+    {
+      "start": 726.71,
+      "end": 729.77,
+      "text": "know there's a ministerial advisory group looking at that at the moment, which is"
+    },
+    {
+      "start": 729.83,
+      "end": 733.77,
+      "text": "fantastic. So we just need to make sure that any recommendations from"
+    },
+    {
+      "start": 733.81,
+      "end": 737.55,
+      "text": "that group are backed up with sufficient money to actually increase capacity"
+    },
+    {
+      "start": 737.93,
+      "end": 739.79,
+      "text": "dramatically, especially in those smaller areas."
+    },
+    {
+      "start": 740.25,
+      "end": 743.95,
+      "text": "AndAustralia's made really big changes in the space, which we could"
+    },
+    {
+      "start": 743.97,
+      "end": 747.23,
+      "text": "really learn from in terms of funding."
+    },
+    {
+      "start": 747.27,
+      "end": 750.99,
+      "text": "And they've got a new capital assistance fund, for example, that helps build"
+    },
+    {
+      "start": 751.17,
+      "end": 753.65,
+      "text": "facilities in rural areas and more remote areas."
+    },
+    {
+      "start": 753.69,
+      "end": 757.11,
+      "text": "So I think we need to be really thinking about proactively doing that rather than"
+    },
+    {
+      "start": 757.17,
+      "end": 761.16,
+      "text": "just waiting for the market to sort that out, because I don't think the incentives"
+    },
+    {
+      "start": 761.17,
+      "end": 764.61,
+      "text": "are quite right for them at the moment to do that adequately."
+    },
+    {
+      "start": 768.09,
+      "end": 771.71,
+      "text": "Yeah. And the other big piece of this picture is investing more and better in"
+    },
+    {
+      "start": 771.75,
+      "end": 773.79,
+      "text": "services such as home and community support."
+    },
+    {
+      "start": 774.31,
+      "end": 777.75,
+      "text": "If we can help people more with basic things like personal care, essential"
+    },
+    {
+      "start": 778.99,
+      "end": 782.93,
+      "text": "home maintenance, things like even changing light bulbs, helping people to mow"
+    },
+    {
+      "start": 782.97,
+      "end": 786.45,
+      "text": "the lawns, that can keep them at home for much longer, and that then takes pressure"
+    },
+    {
+      "start": 786.47,
+      "end": 787.69,
+      "text": "off the aged care facilities."
+    },
+    {
+      "start": 789.27,
+      "end": 791.07,
+      "text": "And it's a heck of a lot cheaper as well."
+    },
+    {
+      "start": 791.09,
+      "end": 792.45,
+      "text": "If we look at the next slide,"
+    },
+    {
+      "start": 794.05,
+      "end": 796.85,
+      "text": "just these were some figures I pulled out of various government reports."
+    },
+    {
+      "start": 796.93,
+      "end": 800.01,
+      "text": "But in-home care support can cost as little as $20 a day."
+    },
+    {
+      "start": 800.17,
+      "end": 803.01,
+      "text": "Obviously, if you're doing it as well as you can, you could spend a lot more than"
+    },
+    {
+      "start": 803.07,
+      "end": 806.79,
+      "text": "that. But if you compare that to aged care facilities, 180, and"
+    },
+    {
+      "start": 806.83,
+      "end": 810.73,
+      "text": "hospital care, 1,000 a day, you really want to be investing as much as you can"
+    },
+    {
+      "start": 810.78,
+      "end": 813.67,
+      "text": "at that really cheap end because it's just simple economic sense."
+    },
+    {
+      "start": 817.05,
+      "end": 820.61,
+      "text": "Just thinking of it as a systems challenge, obviously every agency has its own"
+    },
+    {
+      "start": 821.27,
+      "end": 823.01,
+      "text": "budget line, which makes it harder."
+    },
+    {
+      "start": 824.21,
+      "end": 827.51,
+      "text": "Wings may not want to spend a whole lot extra on helping people with changing light"
+    },
+    {
+      "start": 827.53,
+      "end": 831.29,
+      "text": "bulbs or so on. But if we know it's helping the health system to"
+    },
+    {
+      "start": 831.37,
+      "end": 834.55,
+      "text": "reduce the demand in terms of building new hospitals or whatever, it's really worth"
+    },
+    {
+      "start": 834.57,
+      "end": 837.43,
+      "text": "thinking about how we can sort of break down those silos a wee bit."
+    },
+    {
+      "start": 842.71,
+      "end": 843.35,
+      "text": "So"
+    },
+    {
+      "start": 844.71,
+      "end": 848.26,
+      "text": "yeah, I think given the Treasury's concerns in their most"
+    },
+    {
+      "start": 848.55,
+      "end": 850.45,
+      "text": "recent fiscal report about how we're going to"
+    },
+    {
+      "start": 851.43,
+      "end": 853.77,
+      "text": "pay for superannuation and so on"
+    },
+    {
+      "start": 854.75,
+      "end": 858.72,
+      "text": "with a smaller tax base as the workforce shrinks, I think treating this"
+    },
+    {
+      "start": 858.77,
+      "end": 862.57,
+      "text": "whole thing as a systems challenge is going to be the biggest thing that we can do"
+    },
+    {
+      "start": 862.61,
+      "end": 863.49,
+      "text": "to get this right."
+    },
+    {
+      "start": 864.81,
+      "end": 867.93,
+      "text": "We're still going to need to be building more aged care facilities."
+    },
+    {
+      "start": 867.95,
+      "end": 869.83,
+      "text": "We're still going to need to build more hospital care."
+    },
+    {
+      "start": 869.87,
+      "end": 872.95,
+      "text": "There is not a world, I think, in which we don't still have to do that."
+    },
+    {
+      "start": 872.96,
+      "end": 876.73,
+      "text": "But we can reduce the amount at which we have to do that by thinking about those"
+    },
+    {
+      "start": 877.89,
+      "end": 881.45,
+      "text": "home care supports and other public health interventions that can keep people"
+    },
+    {
+      "start": 881.49,
+      "end": 883.51,
+      "text": "healthier for longer and keep them out of hospital. Yeah."
+    },
+    {
+      "start": 884.15,
+      "end": 886.45,
+      "text": "So which brings us to health. Next slide, please."
+    },
+    {
+      "start": 888.21,
+      "end": 889.17,
+      "text": "What time is it? Okay, cool."
+    },
+    {
+      "start": 890.49,
+      "end": 894.4,
+      "text": "In terms of health, it's clear that an aging population will put a"
+    },
+    {
+      "start": 894.55,
+      "end": 896.89,
+      "text": "lot of extra demand on health facilities or hospitals."
+    },
+    {
+      "start": 897.85,
+      "end": 900.89,
+      "text": "Obviously, we're not really meeting current demand at the moment for health"
+    },
+    {
+      "start": 900.93,
+      "end": 904.87,
+      "text": "infrastructure. Hospital investment has slowed to near historic lows over the"
+    },
+    {
+      "start": 904.89,
+      "end": 906.15,
+      "text": "last decade."
+    },
+    {
+      "start": 907.03,
+      "end": 910.02,
+      "text": "The National Infrastructure Plan, which Te Whatu Ora put out recently,"
+    },
+    {
+      "start": 910.99,
+      "end": 914.43,
+      "text": "also emphasized that health care is right up the top of their list of priorities,"
+    },
+    {
+      "start": 915.65,
+      "end": 917.21,
+      "text": "and that's because of the aging population."
+    },
+    {
+      "start": 917.27,
+      "end": 919.77,
+      "text": "So we need to be thinking about that, of course."
+    },
+    {
+      "start": 921.35,
+      "end": 924.87,
+      "text": "What I really notice from this report is I don't think we are really planning"
+    },
+    {
+      "start": 924.93,
+      "end": 927.63,
+      "text": "strategic-- Well, I can say that we're not really planning strategically at this"
+    },
+    {
+      "start": 927.67,
+      "end": 931.28,
+      "text": "point to meet increasing health needs in areas that are rapidly"
+    },
+    {
+      "start": 931.35,
+      "end": 935.09,
+      "text": "aging. There's no plan that"
+    },
+    {
+      "start": 935.25,
+      "end": 938.47,
+      "text": "this is the area that's going to have this number of older people, and that this is"
+    },
+    {
+      "start": 938.63,
+      "end": 942.45,
+      "text": "what that means in terms of what health infrastructure we need in 20 years, and"
+    },
+    {
+      "start": 942.57,
+      "end": 945.35,
+      "text": "then therefore, we're going to start building a hospital now so that it's ready in"
+    },
+    {
+      "start": 945.39,
+      "end": 948.29,
+      "text": "time. It's not being planned at that level yet."
+    },
+    {
+      "start": 948.55,
+      "end": 952.21,
+      "text": "There's been a lot of improvement in infrastructure planning in New Zealand over"
+    },
+    {
+      "start": 952.23,
+      "end": 956.17,
+      "text": "the last wee while. Te Whatu Ora has been doing a huge amount of work on this,"
+    },
+    {
+      "start": 956.21,
+      "end": 959.21,
+      "text": "and it's great to see huge steps forward."
+    },
+    {
+      "start": 959.31,
+      "end": 962.91,
+      "text": "Health New Zealand put out its first infrastructure plan last year and so on."
+    },
+    {
+      "start": 962.95,
+      "end": 966.59,
+      "text": "Those are great steps forward, but they're also quite initial things."
+    },
+    {
+      "start": 966.67,
+      "end": 970.01,
+      "text": "So we really need to be pushing ahead with building that up and making that more"
+    },
+    {
+      "start": 970.05,
+      "end": 973.93,
+      "text": "detailed and ensuring that we've got really good population planning at a"
+    },
+    {
+      "start": 974.17,
+      "end": 977.95,
+      "text": "regional and local level, and then backing that specific"
+    },
+    {
+      "start": 978.01,
+      "end": 981.61,
+      "text": "plan up with a specific plan for health infrastructure and aged care facilities"
+    },
+    {
+      "start": 982.29,
+      "end": 983.11,
+      "text": "region by region."
+    },
+    {
+      "start": 986.17,
+      "end": 990.03,
+      "text": "And obviously, the other side of that is increasing things like use of"
+    },
+    {
+      "start": 990.07,
+      "end": 993.35,
+      "text": "technology and digital healthcare and all those good things that we've been doing"
+    },
+    {
+      "start": 995.15,
+      "end": 998.99,
+      "text": "in New Zealand. But ramping that up is probably going to be really important"
+    },
+    {
+      "start": 999.05,
+      "end": 1002.77,
+      "text": "as well. Preventative medicine, public health, keep people healthier for longer."
+    },
+    {
+      "start": 1004.97,
+      "end": 1006.33,
+      "text": "Yep. So next slide."
+    },
+    {
+      "start": 1007.17,
+      "end": 1011.01,
+      "text": "This is the area of opportunity, I guess, which is"
+    },
+    {
+      "start": 1013.03,
+      "end": 1015.83,
+      "text": "to design cities and towns to be age-friendly."
+    },
+    {
+      "start": 1016.75,
+      "end": 1020.65,
+      "text": "Age-friendly city programs help communities adapt structures such as"
+    },
+    {
+      "start": 1020.69,
+      "end": 1024.23,
+      "text": "buildings and roads and pedestrian spaces and social infrastructure like parks and"
+    },
+    {
+      "start": 1024.3,
+      "end": 1027.41,
+      "text": "libraries and so on to better meet the needs of older people."
+    },
+    {
+      "start": 1028.13,
+      "end": 1031.85,
+      "text": "We need cities to be accessible, walkable, connected, and ideally green and"
+    },
+    {
+      "start": 1031.89,
+      "end": 1035.1,
+      "text": "leafy. And those things just are great for everyone, not just older people,"
+    },
+    {
+      "start": 1035.17,
+      "end": 1037.19,
+      "text": "obviously. Just make cities nicer to live in."
+    },
+    {
+      "start": 1037.32,
+      "end": 1040.96,
+      "text": "But also it's just public health in terms of if you can"
+    },
+    {
+      "start": 1040.99,
+      "end": 1044.81,
+      "text": "reduce falls, that's the biggest cost in terms of older"
+    },
+    {
+      "start": 1044.85,
+      "end": 1046.09,
+      "text": "people having accidents."
+    },
+    {
+      "start": 1047.41,
+      "end": 1051.39,
+      "text": "All those things then feed fewer and fewer people into"
+    },
+    {
+      "start": 1051.43,
+      "end": 1054.33,
+      "text": "the health system and mean that people can stay at home and live"
+    },
+    {
+      "start": 1055.15,
+      "end": 1056.67,
+      "text": "healthy lives at home for much longer."
+    },
+    {
+      "start": 1059.43,
+      "end": 1059.89,
+      "text": "So"
+    },
+    {
+      "start": 1061.71,
+      "end": 1065.59,
+      "text": "yeah, to do that, essentially, we need attention to planning and zoning,"
+    },
+    {
+      "start": 1065.63,
+      "end": 1067.07,
+      "text": "which is really a local council thing."
+    },
+    {
+      "start": 1067.41,
+      "end": 1071.19,
+      "text": "But I think from a central government level, we could be focusing on the"
+    },
+    {
+      "start": 1071.21,
+      "end": 1073.31,
+      "text": "planning bill, for example, that's coming up at the moment."
+    },
+    {
+      "start": 1074.29,
+      "end": 1077.87,
+      "text": "I think that it would be great if that required local councils to be"
+    },
+    {
+      "start": 1078.23,
+      "end": 1081.53,
+      "text": "thinking about population planning in their long-term plans and their long-term"
+    },
+    {
+      "start": 1081.59,
+      "end": 1085.35,
+      "text": "infrastructure plans as well. That isn't a requirement at the moment."
+    },
+    {
+      "start": 1085.43,
+      "end": 1089.01,
+      "text": "So that would be a really great and pretty simple"
+    },
+    {
+      "start": 1089.45,
+      "end": 1093.15,
+      "text": "step I think we could take to be trying to make cities"
+    },
+    {
+      "start": 1093.19,
+      "end": 1097.17,
+      "text": "more age-friendly. So there's also this international WHO"
+    },
+    {
+      "start": 1097.55,
+      "end": 1100.87,
+      "text": "age-friendly cities thing, and there's 36 cities in New Zealand that are signed up"
+    },
+    {
+      "start": 1100.91,
+      "end": 1104.53,
+      "text": "to that and working with the Office of Seniors towards being more age-friendly."
+    },
+    {
+      "start": 1104.61,
+      "end": 1108.42,
+      "text": "But-They're not really well-funded or well-supported, and"
+    },
+    {
+      "start": 1109.12,
+      "end": 1111.92,
+      "text": "the research suggested that for some places it might be a little bit of a"
+    },
+    {
+      "start": 1111.94,
+      "end": 1115.88,
+      "text": "box-ticking exercise. So really supporting regions to be doing that"
+    },
+    {
+      "start": 1115.92,
+      "end": 1118.64,
+      "text": "work would be great as well from a central government"
+    },
+    {
+      "start": 1118.68,
+      "end": 1122.4,
+      "text": "level. And then there's road safety. Next slide, please."
+    },
+    {
+      "start": 1123.24,
+      "end": 1123.99,
+      "text": "Sorry, this is a really"
+    },
+    {
+      "start": 1125.5,
+      "end": 1128.9,
+      "text": "fast tour of all the different areas- And I'm just downloading an awful lot of"
+    },
+    {
+      "start": 1128.92,
+      "end": 1131.6,
+      "text": "information, but I'll try and give you some time for questions."
+    },
+    {
+      "start": 1133.6,
+      "end": 1137.05,
+      "text": "New Zealand is obviously really heavily dependent on driving, and that's not going"
+    },
+    {
+      "start": 1137.06,
+      "end": 1140.46,
+      "text": "to change in a hurry. So, when older New Zealanders can't drive,"
+    },
+    {
+      "start": 1140.52,
+      "end": 1141.24,
+      "text": "they"
+    },
+    {
+      "start": 1142.76,
+      "end": 1145.94,
+      "text": "get cut off from essential services and from social connections, and so on, that"
+    },
+    {
+      "start": 1145.96,
+      "end": 1149.91,
+      "text": "make life worth well. And losing your ability to drive as an older person is one of"
+    },
+    {
+      "start": 1149.92,
+      "end": 1152.72,
+      "text": "the big life transitions and can be really distressing."
+    },
+    {
+      "start": 1153.74,
+      "end": 1157.28,
+      "text": "So along with improving public transport and community shuttle services, we need to"
+    },
+    {
+      "start": 1157.32,
+      "end": 1160.88,
+      "text": "be helping older New Zealanders to keep driving safely for as long as"
+    },
+    {
+      "start": 1160.92,
+      "end": 1164.54,
+      "text": "possible. So, there's a whole lot of road safety interventions"
+    },
+    {
+      "start": 1164.98,
+      "end": 1168.94,
+      "text": "recommendations in the report that I put in there that could really help with this."
+    },
+    {
+      "start": 1170.48,
+      "end": 1174.35,
+      "text": "And also there's a safety issue here, because older drivers and"
+    },
+    {
+      "start": 1174.5,
+      "end": 1177.6,
+      "text": "passengers are more likely to be injured if they're in an accident."
+    },
+    {
+      "start": 1177.68,
+      "end": 1181.6,
+      "text": "So without intervention, we're going to end up with 33% more fatal and serious"
+    },
+    {
+      "start": 1181.66,
+      "end": 1185.56,
+      "text": "driver injuries by 2063, just because people who get injured"
+    },
+    {
+      "start": 1185.6,
+      "end": 1189.44,
+      "text": "in an accident are more likely to be seriously injured because they're older."
+    },
+    {
+      "start": 1190.38,
+      "end": 1192.56,
+      "text": "So that's another doom and gloom, sorry."
+    },
+    {
+      "start": 1194.04,
+      "end": 1196.1,
+      "text": "Yeah. If we move on to the last slide."
+    },
+    {
+      "start": 1196.98,
+      "end": 1200.3,
+      "text": "This is just the key recommendations for the report, and there are many in the"
+    },
+    {
+      "start": 1200.34,
+      "end": 1203.66,
+      "text": "report. We try and design our reports to be easy,"
+    },
+    {
+      "start": 1203.76,
+      "end": 1207.38,
+      "text": "practical policy solutions that can just be picked up and run with."
+    },
+    {
+      "start": 1208.5,
+      "end": 1211.36,
+      "text": "Able to spend time thinking about issues that"
+    },
+    {
+      "start": 1212.44,
+      "end": 1214.24,
+      "text": "government advisors might not have time to do."
+    },
+    {
+      "start": 1214.34,
+      "end": 1217.26,
+      "text": "I've worked in central government, I know, and you're just focused on doing"
+    },
+    {
+      "start": 1217.28,
+      "end": 1220.16,
+      "text": "whatever you need to do. You don't always have time to zoom out and do big picture"
+    },
+    {
+      "start": 1220.22,
+      "end": 1223.9,
+      "text": "thinking. So we really try and come up with recommendations that can be"
+    },
+    {
+      "start": 1223.98,
+      "end": 1224.22,
+      "text": "just"
+    },
+    {
+      "start": 1225.54,
+      "end": 1226.24,
+      "text": "cut and pasted"
+    },
+    {
+      "start": 1227.1,
+      "end": 1227.94,
+      "text": "where possible. So,"
+    },
+    {
+      "start": 1229.16,
+      "end": 1232.22,
+      "text": "the areas of infrastructure I've highlighted in the presentation need obviously"
+    },
+    {
+      "start": 1232.3,
+      "end": 1233.84,
+      "text": "significant thought and investment."
+    },
+    {
+      "start": 1234.9,
+      "end": 1238.26,
+      "text": "We need to be planning better for population change in general, and I know Ko Tu"
+    },
+    {
+      "start": 1238.32,
+      "end": 1241.51,
+      "text": "came out with a report about that yesterday, looking not just at infrastructure but"
+    },
+    {
+      "start": 1241.68,
+      "end": 1243.84,
+      "text": "wider across the whole of society."
+    },
+    {
+      "start": 1243.86,
+      "end": 1246.44,
+      "text": "So I think population planning is a real big one."
+    },
+    {
+      "start": 1249.08,
+      "end": 1252.86,
+      "text": "We'd recommend creating a national population plan, also investing in"
+    },
+    {
+      "start": 1253.14,
+      "end": 1256.82,
+      "text": "improving data accuracy, requiring spatial plans at the"
+    },
+    {
+      "start": 1257.68,
+      "end": 1261.22,
+      "text": "central, regional, local levels to incorporate thinking on aging."
+    },
+    {
+      "start": 1263.64,
+      "end": 1265.44,
+      "text": "And also just noting that our work on"
+    },
+    {
+      "start": 1266.64,
+      "end": 1270.0,
+      "text": "planning the country's infrastructure to respond to an aging population is quite"
+    },
+    {
+      "start": 1270.04,
+      "end": 1273.62,
+      "text": "piecemeal at the moment. Our best chance of making the most strategic"
+    },
+    {
+      "start": 1273.8,
+      "end": 1277.6,
+      "text": "cost-efficient decisions is really to work across central and local government"
+    },
+    {
+      "start": 1278.04,
+      "end": 1281.44,
+      "text": "to identify cost savings strategically across budget lines."
+    },
+    {
+      "start": 1285.6,
+      "end": 1289.16,
+      "text": "I think the overarching message I'd like to get across is we need to be innovative,"
+    },
+    {
+      "start": 1289.36,
+      "end": 1291.88,
+      "text": "bold, proactive. We need to be thinking about this stuff now."
+    },
+    {
+      "start": 1291.92,
+      "end": 1294.72,
+      "text": "We can't just wait for the next crisis to come."
+    },
+    {
+      "start": 1294.76,
+      "end": 1296.62,
+      "text": "We need to actually have a plan."
+    },
+    {
+      "start": 1298.28,
+      "end": 1300.72,
+      "text": "If we can invest in areas now that save us money later,"
+    },
+    {
+      "start": 1302.26,
+      "end": 1304.24,
+      "text": "we need to be thinking about things that will stick down the track."
+    },
+    {
+      "start": 1304.3,
+      "end": 1308.14,
+      "text": "So working across party lines, as I'm sure you're sick of being"
+    },
+    {
+      "start": 1308.18,
+      "end": 1308.44,
+      "text": "told."
+    },
+    {
+      "start": 1310.66,
+      "end": 1314.64,
+      "text": "So we need an evidence-based long-term plan that does not change regularly."
+    },
+    {
+      "start": 1315.68,
+      "end": 1319.38,
+      "text": "I really see this issue of aging demographics along with climate adaptation as"
+    },
+    {
+      "start": 1320.44,
+      "end": 1324.02,
+      "text": "this superannuation moment of our generation."
+    },
+    {
+      "start": 1324.22,
+      "end": 1326.79,
+      "text": "Can we all pull together and agree something that will stick for the long-term"
+    },
+    {
+      "start": 1326.82,
+      "end": 1330.8,
+      "text": "benefit of New Zealanders? And again, to think of it as an"
+    },
+    {
+      "start": 1330.84,
+      "end": 1332.38,
+      "text": "opportunity rather than a crisis."
+    },
+    {
+      "start": 1333.62,
+      "end": 1336.59,
+      "text": "So to work together because all of us are going to get old whether we want to or"
+    },
+    {
+      "start": 1336.59,
+      "end": 1340.48,
+      "text": "not. In fact, yeah, we probably want to get old, I'm sure, rather than not get old."
+    },
+    {
+      "start": 1340.52,
+      "end": 1344.5,
+      "text": "So that's a privilege. I hope that was a useful whistle-stop tour of"
+    },
+    {
+      "start": 1344.54,
+      "end": 1346.4,
+      "text": "the report, and I have left eight minutes, so-"
+    },
+    {
+      "start": 1347.24,
+      "end": 1348.48,
+      "text": "There's plenty of time for questions."
+    },
+    {
+      "start": 1348.58,
+      "end": 1350.94,
+      "text": "Thank you very much, Kelly. Very interesting, very topical-"
+    },
+    {
+      "start": 1351.02,
+      "end": 1352.12,
+      "text": "Mm. Yep"
+    },
+    {
+      "start": 1353.04,
+      "end": 1353.44,
+      "text": "... briefing."
+    },
+    {
+      "start": 1354.3,
+      "end": 1357.38,
+      "text": "And certainly something we've been turning over in my committee, so we appreciate"
+    },
+    {
+      "start": 1357.4,
+      "end": 1360.06,
+      "text": "you coming in and presenting your report today. Got lots of questions."
+    },
+    {
+      "start": 1360.16,
+      "end": 1363.86,
+      "text": "I will try and get through as many of them as we can. First one, Lawrence."
+    },
+    {
+      "start": 1364.12,
+      "end": 1366.46,
+      "text": "Thank you, Chair. Thank you so much, Kelly, for coming, and thank you for this."
+    },
+    {
+      "start": 1367.04,
+      "end": 1369.7,
+      "text": "I'm going to just ask the big picture question."
+    },
+    {
+      "start": 1369.76,
+      "end": 1372.62,
+      "text": "So you had the recommendation right in the end in terms of cross-party agencies."
+    },
+    {
+      "start": 1372.66,
+      "end": 1372.77,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1373.06,
+      "end": 1376.02,
+      "text": "Would that be what you consider as the starting point?"
+    },
+    {
+      "start": 1376.44,
+      "end": 1380.04,
+      "text": "So for example, one of the things I appreciate about your report is you"
+    },
+    {
+      "start": 1380.1,
+      "end": 1383.3,
+      "text": "include other jurisdictions and examples from other countries."
+    },
+    {
+      "start": 1383.32,
+      "end": 1383.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 1384.06,
+      "end": 1385.36,
+      "text": "What are some of the dos and don'ts?"
+    },
+    {
+      "start": 1385.5,
+      "end": 1388.44,
+      "text": "Do other countries do everything together in one go?"
+    },
+    {
+      "start": 1388.58,
+      "end": 1392.33,
+      "text": "Do they do piecemeal? Do they just go with a cross-party agency first and then"
+    },
+    {
+      "start": 1392.4,
+      "end": 1395.34,
+      "text": "work down their list? And what are some of the don'ts?"
+    },
+    {
+      "start": 1395.52,
+      "end": 1397.3,
+      "text": "I know there's Japan, for example."
+    },
+    {
+      "start": 1397.32,
+      "end": 1397.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1397.46,
+      "end": 1399.68,
+      "text": "They tried to invest in robotics. That did not work out."
+    },
+    {
+      "start": 1400.0,
+      "end": 1400.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 1400.12,
+      "end": 1400.96,
+      "text": "So that's a don't."
+    },
+    {
+      "start": 1401.16,
+      "end": 1401.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1401.62,
+      "end": 1402.22,
+      "text": "If you really want to-"
+    },
+    {
+      "start": 1402.54,
+      "end": 1405.12,
+      "text": "Well, it hasn't worked yet, maybe rather than a don't."
+    },
+    {
+      "start": 1405.2,
+      "end": 1408.44,
+      "text": "Or maybe wait for other countries to invest lots of money and then take advantage"
+    },
+    {
+      "start": 1408.48,
+      "end": 1412.39,
+      "text": "of what they've come up with. But Japan did invest for 20 years in robotics,"
+    },
+    {
+      "start": 1412.44,
+      "end": 1414.3,
+      "text": "and it hasn't helped with aged care"
+    },
+    {
+      "start": 1415.26,
+      "end": 1419.01,
+      "text": "yet, because it's far too complicated to predict the movements of a"
+    },
+    {
+      "start": 1419.04,
+      "end": 1419.48,
+      "text": "patient."
+    },
+    {
+      "start": 1420.5,
+      "end": 1423.19,
+      "text": "But they might find that they can do it in the future, in which case, we might want"
+    },
+    {
+      "start": 1423.2,
+      "end": 1426.78,
+      "text": "to invest in buying the technology that they've spent years investing in. But no."
+    },
+    {
+      "start": 1428.14,
+      "end": 1430.14,
+      "text": "Interesting."
+    },
+    {
+      "start": 1430.22,
+      "end": 1433.24,
+      "text": "One of the things that Japan's done that has been really good, though, is they've"
+    },
+    {
+      "start": 1433.34,
+      "end": 1436.66,
+      "text": "worked really hard to centralize their cities and their communities as they've got"
+    },
+    {
+      "start": 1436.72,
+      "end": 1440.5,
+      "text": "older. So they've tried to move people away from the peripheries and into"
+    },
+    {
+      "start": 1440.6,
+      "end": 1444.54,
+      "text": "areas, incentivize people to move close to services, essentially,"
+    },
+    {
+      "start": 1444.58,
+      "end": 1447.76,
+      "text": "so they don't have to be paying for lots of infrastructure around the periphery."
+    },
+    {
+      "start": 1447.77,
+      "end": 1449.59,
+      "text": "And that's a real issue in New Zealand especially."
+    },
+    {
+      "start": 1449.62,
+      "end": 1453.5,
+      "text": "We've got a long, thin country and far fewer people than Japan, so we've got a"
+    },
+    {
+      "start": 1453.56,
+      "end": 1456.22,
+      "text": "lot fewer people to pay for a lot more infrastructure."
+    },
+    {
+      "start": 1456.7,
+      "end": 1460.06,
+      "text": "And the margins that we're spending on the periphery of that is"
+    },
+    {
+      "start": 1460.28,
+      "end": 1463.66,
+      "text": "significant. So the more we can consolidate our spending"
+    },
+    {
+      "start": 1464.2,
+      "end": 1467.48,
+      "text": "to centralized areas, the better, and that doesn't necessarily work with the way"
+    },
+    {
+      "start": 1467.52,
+      "end": 1469.78,
+      "text": "our culture is or the way our countries are set up."
+    },
+    {
+      "start": 1469.84,
+      "end": 1473.56,
+      "text": "But I think-The more we can do that, the better."
+    },
+    {
+      "start": 1474.03,
+      "end": 1477.97,
+      "text": "Transport's another one that I think other countries have done"
+    },
+    {
+      "start": 1478.03,
+      "end": 1481.17,
+      "text": "quite well. Transport on demand is really good."
+    },
+    {
+      "start": 1481.23,
+      "end": 1485.01,
+      "text": "So Timaru's been trying that in New Zealand, and quite successfully, I think, with"
+    },
+    {
+      "start": 1485.07,
+      "end": 1488.95,
+      "text": "a service called My Way. So you ring up, and"
+    },
+    {
+      "start": 1489.01,
+      "end": 1492.39,
+      "text": "there's essentially a minibus that will come and pick you up wherever you are and"
+    },
+    {
+      "start": 1492.45,
+      "end": 1495.05,
+      "text": "take you wherever you are for the standard bus fare."
+    },
+    {
+      "start": 1495.67,
+      "end": 1499.6,
+      "text": "And that works really well in terms of the number of people using"
+    },
+    {
+      "start": 1499.63,
+      "end": 1501.09,
+      "text": "public transport has gone up a lot."
+    },
+    {
+      "start": 1501.33,
+      "end": 1503.7,
+      "text": "And I think that's really been helpful for older people to"
+    },
+    {
+      "start": 1504.75,
+      "end": 1507.32,
+      "text": "access services, and I think that's essential if we want to keep people in their"
+    },
+    {
+      "start": 1507.37,
+      "end": 1510.96,
+      "text": "home as long as possible, which we do, and to a large extent, we're already doing"
+    },
+    {
+      "start": 1511.11,
+      "end": 1513.37,
+      "text": "quite well in New Zealand. But we're going to have to do even better"
+    },
+    {
+      "start": 1515.09,
+      "end": 1515.27,
+      "text": "as"
+    },
+    {
+      "start": 1516.47,
+      "end": 1520.43,
+      "text": "the bulge of older people bites and impacts on our"
+    },
+    {
+      "start": 1520.47,
+      "end": 1523.67,
+      "text": "aged care facilities. So yeah."
+    },
+    {
+      "start": 1525.73,
+      "end": 1528.67,
+      "text": "Flint, Michigan is an example of how not to do that, by the way."
+    },
+    {
+      "start": 1529.23,
+      "end": 1532.48,
+      "text": "What Japan has done in terms of centralization, working with communities to try and"
+    },
+    {
+      "start": 1532.97,
+      "end": 1536.61,
+      "text": "to make them more condensed. Flint, Michigan was less an aging"
+    },
+    {
+      "start": 1536.71,
+      "end": 1539.59,
+      "text": "population issue and more a de-industrialization issue."
+    },
+    {
+      "start": 1539.65,
+      "end": 1543.63,
+      "text": "But they've sort of imposed movement on people and saying,"
+    },
+    {
+      "start": 1543.64,
+      "end": 1546.17,
+      "text": "\"We're not going to provide services to this suburb."
+    },
+    {
+      "start": 1546.25,
+      "end": 1548.77,
+      "text": "We're only going to provide services to this suburb,\" and that's left a whole lot"
+    },
+    {
+      "start": 1548.81,
+      "end": 1552.57,
+      "text": "of people really impoverished and sitting in suburbs by themselves with no one else"
+    },
+    {
+      "start": 1552.63,
+      "end": 1554.79,
+      "text": "around, and crime's gone up and all that sort of stuff."
+    },
+    {
+      "start": 1554.87,
+      "end": 1558.61,
+      "text": "So working with communities on how we do this is going to be really, really"
+    },
+    {
+      "start": 1558.65,
+      "end": 1560.87,
+      "text": "important to make it work."
+    },
+    {
+      "start": 1561.09,
+      "end": 1561.66,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1561.75,
+      "end": 1562.19,
+      "text": "Willie-Jean?"
+    },
+    {
+      "start": 1563.05,
+      "end": 1563.75,
+      "text": "Thank you."
+    },
+    {
+      "start": 1564.79,
+      "end": 1565.75,
+      "text": "So much in the report."
+    },
+    {
+      "start": 1566.99,
+      "end": 1570.51,
+      "text": "I was a Whanau District Councilor before coming into parliament."
+    },
+    {
+      "start": 1570.59,
+      "end": 1574.51,
+      "text": "And I'm really interested in the role that"
+    },
+    {
+      "start": 1574.57,
+      "end": 1578.51,
+      "text": "local government has played in the past for the provision of pensioner"
+    },
+    {
+      "start": 1578.57,
+      "end": 1582.42,
+      "text": "housing. But then as the focus for local"
+    },
+    {
+      "start": 1582.45,
+      "end": 1586.43,
+      "text": "government has changed over the years from including wellbeing"
+    },
+    {
+      "start": 1586.53,
+      "end": 1588.64,
+      "text": "to, not to bricks and mortar-"
+    },
+    {
+      "start": 1588.81,
+      "end": 1588.92,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 1588.92,
+      "end": 1590.79,
+      "text": "... but that doesn't include housing and so on."
+    },
+    {
+      "start": 1591.75,
+      "end": 1595.13,
+      "text": "Just whether you've got any thoughts on that local"
+    },
+    {
+      "start": 1595.23,
+      "end": 1596.77,
+      "text": "government role."
+    },
+    {
+      "start": 1598.15,
+      "end": 1600.15,
+      "text": "And then the other point was on page"
+    },
+    {
+      "start": 1601.17,
+      "end": 1604.41,
+      "text": "85, talking about poverty among older people."
+    },
+    {
+      "start": 1604.78,
+      "end": 1608.65,
+      "text": "And I can see your recommendations there, but I just wondered if you"
+    },
+    {
+      "start": 1608.71,
+      "end": 1609.71,
+      "text": "had any more"
+    },
+    {
+      "start": 1610.91,
+      "end": 1614.81,
+      "text": "sort of thoughts about what the difference between what it currently"
+    },
+    {
+      "start": 1614.85,
+      "end": 1618.35,
+      "text": "is and what it probably needs to be in order to address the"
+    },
+    {
+      "start": 1618.63,
+      "end": 1619.71,
+      "text": "poverty issues that you're seeing."
+    },
+    {
+      "start": 1619.75,
+      "end": 1622.67,
+      "text": "We're seeing more elderly people come forward for food support."
+    },
+    {
+      "start": 1622.77,
+      "end": 1622.99,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1623.49,
+      "end": 1625.21,
+      "text": "Skipping meals because that is..."
+    },
+    {
+      "start": 1625.57,
+      "end": 1628.63,
+      "text": "Or their shopping's changed because that's the only sort of discretionary-"
+    },
+    {
+      "start": 1628.87,
+      "end": 1628.91,
+      "text": "Mm"
+    },
+    {
+      "start": 1629.13,
+      "end": 1633.09,
+      "text": "... income that they have. So you talk about housing and rents and so"
+    },
+    {
+      "start": 1633.19,
+      "end": 1635.07,
+      "text": "on being one lever."
+    },
+    {
+      "start": 1635.31,
+      "end": 1638.99,
+      "text": "But yeah, if you've just got more detail"
+    },
+    {
+      "start": 1639.11,
+      "end": 1640.61,
+      "text": "around what that might"
+    },
+    {
+      "start": 1641.53,
+      "end": 1644.05,
+      "text": "a- actually look like in terms of changes."
+    },
+    {
+      "start": 1644.11,
+      "end": 1647.29,
+      "text": "Yeah. So in pensioner housing, I can't remember the date, but I think it was around"
+    },
+    {
+      "start": 1647.41,
+      "end": 1651.13,
+      "text": "20 odd years ago, we stopped requiring local councils to"
+    },
+    {
+      "start": 1651.55,
+      "end": 1655.45,
+      "text": "provide pensioner housing, and so some cities still have some that they"
+    },
+    {
+      "start": 1655.51,
+      "end": 1658.71,
+      "text": "keep maintained, and others don't invest in it at all."
+    },
+    {
+      "start": 1658.75,
+      "end": 1658.87,
+      "text": "So"
+    },
+    {
+      "start": 1660.47,
+      "end": 1663.64,
+      "text": "traditionally, local government was responsible for the pensioner housing, and"
+    },
+    {
+      "start": 1663.91,
+      "end": 1667.19,
+      "text": "central government was responsible for state housing in general."
+    },
+    {
+      "start": 1667.69,
+      "end": 1670.32,
+      "text": "So that's kind of a lap now, and I"
+    },
+    {
+      "start": 1671.33,
+      "end": 1675.26,
+      "text": "don't know the best way to change that, whether it's just"
+    },
+    {
+      "start": 1675.26,
+      "end": 1678.91,
+      "text": "to focus on the public housing and make sure that that takes into account"
+    },
+    {
+      "start": 1678.92,
+      "end": 1682.77,
+      "text": "smaller, more accessible housing and expects plans for that bulge in"
+    },
+    {
+      "start": 1682.81,
+      "end": 1686.31,
+      "text": "older populations. Or whether it's to require"
+    },
+    {
+      "start": 1686.47,
+      "end": 1688.89,
+      "text": "councils to go back to providing that pensioner housing or not."
+    },
+    {
+      "start": 1689.35,
+      "end": 1692.89,
+      "text": "But I do know from personal experience that that pensioner housing can be really,"
+    },
+    {
+      "start": 1692.93,
+      "end": 1696.91,
+      "text": "really important to people. I've an older friend in Dunedin who"
+    },
+    {
+      "start": 1696.97,
+      "end": 1700.89,
+      "text": "was only able to find accommodation through existing housing that was"
+    },
+    {
+      "start": 1700.91,
+      "end": 1703.25,
+      "text": "there, but it's a dwindling base, I think-"
+    },
+    {
+      "start": 1703.34,
+      "end": 1705.47,
+      "text": "... because they're not required to anymore, so yeah."
+    },
+    {
+      "start": 1705.97,
+      "end": 1708.15,
+      "text": "And I suppose councils are feeling torn because-"
+    },
+    {
+      "start": 1708.27,
+      "end": 1708.28,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 1708.28,
+      "end": 1710.49,
+      "text": "... like you said, the lack of strategy and plan."
+    },
+    {
+      "start": 1710.57,
+      "end": 1710.67,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1711.01,
+      "end": 1714.47,
+      "text": "The increasing need and feeling like they need to respond-"
+    },
+    {
+      "start": 1714.55,
+      "end": 1714.67,
+      "text": "Yeah"
+    },
+    {
+      "start": 1714.85,
+      "end": 1717.81,
+      "text": "... to the kaumatua in their community."
+    },
+    {
+      "start": 1718.11,
+      "end": 1718.23,
+      "text": "Yeah."
+    },
+    {
+      "start": 1718.89,
+      "end": 1722.59,
+      "text": "Yeah. Has council's still sort of looking at the"
+    },
+    {
+      "start": 1722.63,
+      "end": 1723.87,
+      "text": "portfolio that they have,"
+    },
+    {
+      "start": 1724.97,
+      "end": 1728.1,
+      "text": "and whether to increase it or to continue to maintain it?"
+    },
+    {
+      "start": 1728.47,
+      "end": 1728.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 1728.77,
+      "end": 1729.01,
+      "text": "Yeah."
+    },
+    {
+      "start": 1729.07,
+      "end": 1731.46,
+      "text": "And also funding crunches for local councils-"
+    },
+    {
+      "start": 1731.73,
+      "end": 1731.79,
+      "text": "Yeah"
+    },
+    {
+      "start": 1731.85,
+      "end": 1735.43,
+      "text": "... stream at the moment with the infrastructure stuff"
+    },
+    {
+      "start": 1735.45,
+      "end": 1737.57,
+      "text": "especially coming down. All the infrastructure's"
+    },
+    {
+      "start": 1738.53,
+      "end": 1742.27,
+      "text": "now aged and needing replaced, and a lot, in large part, falls to local"
+    },
+    {
+      "start": 1742.33,
+      "end": 1745.83,
+      "text": "councils who, with the dwindling rate space in part as well for some places."
+    },
+    {
+      "start": 1745.89,
+      "end": 1749.42,
+      "text": "So yeah, that's kind of a bit of a wicked problem to unpick, but"
+    },
+    {
+      "start": 1749.95,
+      "end": 1753.11,
+      "text": "some kind of strategic plan around that would be quite important. Yeah."
+    },
+    {
+      "start": 1753.15,
+      "end": 1753.33,
+      "text": "Maureen."
+    },
+    {
+      "start": 1753.85,
+      "end": 1754.01,
+      "text": "Sorry."
+    },
+    {
+      "start": 1754.23,
+      "end": 1755.01,
+      "text": "Sorry. And on the-"
+    },
+    {
+      "start": 1755.06,
+      "end": 1755.44,
+      "text": "No, we were just waiting"
+    },
+    {
+      "start": 1755.44,
+      "end": 1759.23,
+      "text": "... the poverty issue. Yeah. So the poverty issue is a"
+    },
+    {
+      "start": 1759.27,
+      "end": 1763.06,
+      "text": "really big one. So some people, New Zealand is one of the best"
+    },
+    {
+      "start": 1763.07,
+      "end": 1766.98,
+      "text": "places to grow old, and for people who are well off, they're"
+    },
+    {
+      "start": 1766.99,
+      "end": 1770.39,
+      "text": "the happiest demographic in New Zealand, having a great old time."
+    },
+    {
+      "start": 1770.47,
+      "end": 1774.39,
+      "text": "But there's sort of multiple levels of poverty for some people who"
+    },
+    {
+      "start": 1774.41,
+      "end": 1776.19,
+      "text": "are having a really, really terrible time."
+    },
+    {
+      "start": 1776.53,
+      "end": 1780.26,
+      "text": "So I guess it's addressing those issues for some people"
+    },
+    {
+      "start": 1780.29,
+      "end": 1781.01,
+      "text": "and really"
+    },
+    {
+      "start": 1782.21,
+      "end": 1784.91,
+      "text": "putting a lot of effort into helping those people that are facing multiple"
+    },
+    {
+      "start": 1784.95,
+      "end": 1787.57,
+      "text": "disadvantage is the way out there."
+    },
+    {
+      "start": 1789.13,
+      "end": 1790.41,
+      "text": "Yeah. So basically-"
+    },
+    {
+      "start": 1790.49,
+      "end": 1790.61,
+      "text": "Last-"
+    },
+    {
+      "start": 1790.75,
+      "end": 1792.78,
+      "text": "Mostly good life. Some people, really terrible life"
+    },
+    {
+      "start": 1792.79,
+      "end": 1795.34,
+      "text": "Last question from Maureen. Unfortunately, we do have more, but just to-"
+    },
+    {
+      "start": 1795.41,
+      "end": 1796.31,
+      "text": "Yeah. Sorry."
+    },
+    {
+      "start": 1797.35,
+      "end": 1800.81,
+      "text": "How do you tackle that? I'll just make a comment about the"
+    },
+    {
+      "start": 1800.87,
+      "end": 1803.19,
+      "text": "councils and pensioner housing."
+    },
+    {
+      "start": 1803.33,
+      "end": 1803.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 1803.62,
+      "end": 1806.87,
+      "text": "A lot of those were funded by suspensory loans that were provided by the"
+    },
+    {
+      "start": 1806.91,
+      "end": 1807.33,
+      "text": "government."
+    },
+    {
+      "start": 1807.75,
+      "end": 1807.95,
+      "text": "Right."
+    },
+    {
+      "start": 1808.23,
+      "end": 1811.75,
+      "text": "But then we also had the development of retirement villages, which kind of stepped"
+    },
+    {
+      "start": 1811.81,
+      "end": 1814.23,
+      "text": "into the market, and they were filling the need."
+    },
+    {
+      "start": 1814.79,
+      "end": 1818.59,
+      "text": "And even some of those retirement village developers are"
+    },
+    {
+      "start": 1818.65,
+      "end": 1822.17,
+      "text": "saying to potential customers that in"
+    },
+    {
+      "start": 1822.39,
+      "end": 1825.95,
+      "text": "20 years or 30 years, these will be residential"
+    },
+    {
+      "start": 1826.05,
+      "end": 1826.57,
+      "text": "rentals."
+    },
+    {
+      "start": 1827.07,
+      "end": 1827.08,
+      "text": "Mm."
+    },
+    {
+      "start": 1827.22,
+      "end": 1831.21,
+      "text": "Because they're anticipating that the aging population is going to"
+    },
+    {
+      "start": 1831.25,
+      "end": 1835.09,
+      "text": "taper off. So are we going through a bubble at the moment?"
+    },
+    {
+      "start": 1835.21,
+      "end": 1835.79,
+      "text": "Mm."
+    },
+    {
+      "start": 1835.86,
+      "end": 1838.93,
+      "text": "And I was trying to work it out on the stats, but"
+    },
+    {
+      "start": 1839.95,
+      "end": 1843.91,
+      "text": "how long is it going to take before we're through the worst of, I"
+    },
+    {
+      "start": 1843.97,
+      "end": 1847.73,
+      "text": "won't say worst, but- ... the biggest bulge in that bubble"
+    },
+    {
+      "start": 1847.91,
+      "end": 1849.25,
+      "text": "before that tapers off?"
+    },
+    {
+      "start": 1849.57,
+      "end": 1851.99,
+      "text": "Well, I don't think we're ever going to get to the point where we don't have a"
+    },
+    {
+      "start": 1852.01,
+      "end": 1853.16,
+      "text": "significant portion of our"
+    },
+    {
+      "start": 1854.13,
+      "end": 1855.71,
+      "text": "population being older because"
+    },
+    {
+      "start": 1856.63,
+      "end": 1858.29,
+      "text": "people are just living longer and longer at the moment."
+    },
+    {
+      "start": 1858.35,
+      "end": 1860.99,
+      "text": "I guess if people stop living longer, that that might have an impact on it."
+    },
+    {
+      "start": 1861.07,
+      "end": 1864.85,
+      "text": "But it's going to stick at at least 30% for a long, long time"
+    },
+    {
+      "start": 1864.91,
+      "end": 1865.29,
+      "text": "because"
+    },
+    {
+      "start": 1866.25,
+      "end": 1869.21,
+      "text": "people are just living longer, and they're not being replaced in terms of birth"
+    },
+    {
+      "start": 1869.31,
+      "end": 1869.87,
+      "text": "rates. So,"
+    },
+    {
+      "start": 1870.91,
+      "end": 1873.87,
+      "text": "in terms of absolute numbers, I guess, of our population, that'll depend a lot on"
+    },
+    {
+      "start": 1873.93,
+      "end": 1877.03,
+      "text": "our overall population plan, like whether we're planning to grow the population or"
+    },
+    {
+      "start": 1877.11,
+      "end": 1881.03,
+      "text": "not over time using immigration. So that kind of comes"
+    },
+    {
+      "start": 1881.07,
+      "end": 1884.05,
+      "text": "back to why we need the population plan, just so we can actually predict those"
+    },
+    {
+      "start": 1884.07,
+      "end": 1885.77,
+      "text": "things long term. Yeah."
+    },
+    {
+      "start": 1886.55,
+      "end": 1890.53,
+      "text": "Look, thanks Carly and Rachel very much for the presentation this morning."
+    },
+    {
+      "start": 1890.93,
+      "end": 1891.02,
+      "text": "My pleasure."
+    },
+    {
+      "start": 1891.05,
+      "end": 1894.66,
+      "text": "A very important topic, and one we have a lot of interest, a lot more questions,"
+    },
+    {
+      "start": 1894.71,
+      "end": 1897.45,
+      "text": "including from me, but- ... we'll pick it up another time."
+    },
+    {
+      "start": 1897.57,
+      "end": 1899.27,
+      "text": "Thanks so much for inviting us along. It's great to be here."
+    },
+    {
+      "start": 1899.31,
+      "end": 1900.13,
+      "text": "Thank you. Appreciate it."
+    },
+    {
+      "start": 1900.51,
+      "end": 1904.47,
+      "text": "Thank you."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 29 SSC Part 1 - vimeo_1185332561\\2026 04 29 SSC Part 1 - vimeo_1185332561.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185332561",
+    "display_id": "1185332561",
+    "title": "2026 04 29 SSC Part 1",
+    "description": "Briefing on New Zealand's ageing population\nHelen Clark Foundation\nKali Mercier, Author of Report\nRachel du Domaine, Head of Planning, WSP",
+    "webpage_url": "https://vimeo.com/1185332561",
+    "original_url": "https://vimeo.com/1185332561",
+    "upload_date": "20260428",
+    "timestamp": 1777408635,
+    "release_timestamp": 1777408642,
+    "duration": 1905,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2151512777-20ae8603c441379f42277196d62e4d4d9a7e113931ef7d3a9e20e3d18f3ead26-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297419449.vtt?expires=1778504962&sig=1f1a4d92a0df4ea4a9cd131a8961a1b63f312815&download=auto_generated_captions.vtt"
+  }
+}

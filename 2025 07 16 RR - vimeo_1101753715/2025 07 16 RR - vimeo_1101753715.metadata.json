@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:08:14.653334+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1101753715",
+  "title": "2025 07 16 RR",
+  "url": "https://vimeo.com/1101753715",
+  "published_at": "20250716",
+  "published_display": "2025-07-16",
+  "duration_seconds": 1980,
+  "source_labels": "Vimeo Showcase 10828818",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1976.72,
+    "segment_count": 655,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025 07 16 RR - vimeo_1101753715\\2025 07 16 RR - vimeo_1101753715.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1101753715",
+    "display_id": "1101753715",
+    "title": "2025 07 16 RR",
+    "description": "Wednesday 16 July 2025\n\nRegulations Review Committee\n\nBriefing on regulatory reform\nHearing of Evidence\nSir Geoffrey Palmer",
+    "webpage_url": "https://vimeo.com/1101753715",
+    "original_url": "https://vimeo.com/1101753715",
+    "upload_date": "20250716",
+    "timestamp": 1752642824,
+    "release_timestamp": 1752642824,
+    "duration": 1980,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2037315387-fb288c7c15a8560e472a278d92bd8e058940933d4ab0d85bd9e310149b6a7273-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242421662.vtt?expires=1778504898&sig=dc4c12258d4d0b8b9060d8af1aee743754439acb&download=auto_generated_captions.vtt"
+  }
+}

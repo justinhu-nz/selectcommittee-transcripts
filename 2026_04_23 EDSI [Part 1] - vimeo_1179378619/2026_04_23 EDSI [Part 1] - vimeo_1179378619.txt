@@ -1,0 +1,601 @@
+Title: 2026/04/23 EDSI [Part 1]
+URL: https://vimeo.com/1179378619
+Published: 2026-04-22
+Duration: 00:33:22
+
+[00:03:24] Good
+[00:03:26] morning.
+[00:03:28] Good morning.
+[00:03:28] Good morning.
+[00:03:29] Thank you so much.
+[00:03:36] So, good morning. We have half an hour with you.
+[00:03:38] So I believe it's Sophie Haslam. Is that correct?
+[00:03:41] Yes, that's right. Yeah.
+[00:03:41] Thank you so much, and your team. So if you want to open with
+[00:03:45] some remarks, and then we can have questions from members. Thank you.
+[00:03:49] Thank you so much. So I'm Sophie Haslam, I'm the chair of Cordia.
+[00:03:53] On this side, I have Neil Livingstone, who is the CEO.
+[00:03:56] He's just gone through two years in that position.
+[00:04:00] And Jason Fullingtons Smith, who is the
+[00:04:03] executive general manager of specialized solutions.
+[00:04:06] He's been with Cordia for 15 years, so any really technical, complex
+[00:04:10] questions, he'll cover us for that one.
+[00:04:14] And I think Neil's going to open with some remarks just to talk about the
+[00:04:18] year in question for you.
+[00:04:19] Thank you.
+[00:04:20] Yes. I thought I'd just take a little bit of time, not too long, just to sort
+[00:04:24] of paint a little bit of the picture of
+[00:04:27] FY25. It was a really important year for Cordia, and I think a little bit
+[00:04:31] of context, which probably doesn't necessarily come through
+[00:04:35] in the annual report might be helpful and just help the discussion.
+[00:04:41] So if I was to summarize FY25 for us, it really was
+[00:04:45] a year of change and transformation.
+[00:04:48] It was quite a unusual year for Cordia in that we took a lot of decisions.
+[00:04:52] We took some bold decisions, and we made some key changes to the
+[00:04:56] company, which is going to really set us up
+[00:05:00] for the future.
+[00:05:03] We spent quite a lot of time
+[00:05:05] really thinking through what the purpose of Cordia is and what our core
+[00:05:09] purpose and what we deliver to both New Zealand and our
+[00:05:13] shareholder and make sure that that's top of mind.
+[00:05:17] And we really, really spent a lot of time thinking about how do we return to our
+[00:05:21] financial targets, how do we cut our costs to
+[00:05:25] meet
+[00:05:26] our revenues and make sure that we hit our numbers, because that's incredibly
+[00:05:30] important.
+[00:05:32] Cordia is an organization which does many things.
+[00:05:34] So I thought I'd just take a couple seconds just to sort of briefly tell you the
+[00:05:38] main highlights, because it's not a company people are typically
+[00:05:44] sort of knowledgeable about. Media and broadcast, so that's our history.
+[00:05:48] That's where we came from. We've been in that business for sixty-five years
+[00:05:52] through different names, through NZBC and
+[00:05:56] eventually rebranding ourself to Cordia.
+[00:05:59] But the broadcast industry, delivering TV and radio signals
+[00:06:03] is really where we came through as an organization, and that still
+[00:06:07] flows through as to who we are and at our essence,
+[00:06:11] what we do. We are technical experts.The
+[00:06:15] next significant area we've spent a lot of time focusing on and have a relatively
+[00:06:19] large team on is around cybersecurity.
+[00:06:21] So we look after cybersecurity for our customers, both
+[00:06:25] protecting them but also helping them if they unfortunately get breached,
+[00:06:30] with an incident response team. And help them not just with the technical aspects,
+[00:06:33] but also how do they just manage internally, how do they manage the
+[00:06:37] communications.
+[00:06:40] One area of Cordia that not many people know that we do is around our
+[00:06:44] maritime space. So we have two maritime operation
+[00:06:47] centers, one in Canberra, Australia, and one here in Wellington.
+[00:06:52] And between those two, we look after about a quarter of the world's oceans from a
+[00:06:55] safety of life perspective. So what that means is if you're in your boat and
+[00:06:59] you're sort of up towards the equator or down towards
+[00:07:02] Antarctica and you have an issue and
+[00:07:06] either EPIRB goes off or you use various communications
+[00:07:10] methods, we're the ones sitting on the other end of the line twenty-four seven
+[00:07:14] answering, helping,
+[00:07:16] sort of moving through to coordinating.
+[00:07:18] And typically, we get about roughly five
+[00:07:21] safety of life calls a week that come through our center.
+[00:07:24] So it's a significant
+[00:07:26] activity that we're doing. We're very, very proud to do that.
+[00:07:32] We have a relatively large team across New Zealand, which looks after all of our
+[00:07:35] assets. So if you look up on the top of the mountains, many parts of New Zealand,
+[00:07:39] you see those big, tall lattice towers.
+[00:07:42] They're typically owned by Cordia, and we have our communications equipment sitting
+[00:07:45] across those. And we have teams spread out across New Zealand to manage
+[00:07:49] those. But only about a third of their time is actually
+[00:07:53] spent working on our equipment. We actually use them
+[00:07:57] to provide services to other entities, be they
+[00:08:01] New Zealand Defense Force,
+[00:08:04] airways,
+[00:08:05] MetService, customers like those that own typical
+[00:08:10] infrastructure like Cordia does, and we help them from a
+[00:08:13] maintenance perspective.
+[00:08:15] And then sort of the fifth area is we have four operation
+[00:08:19] centers. So I talked about the two maritime operation centers.
+[00:08:23] We also have a security operation center, which is attached to our cyber division,
+[00:08:27] and we have a network operation center which manages our network, and we're
+[00:08:30] actually starting to move to selling that as a service to other customers as well.
+[00:08:35] So that's sort of the breadth of what Cordia does.
+[00:08:41] One of the
+[00:08:43] aspects, and I suspect will be a point of discussion in
+[00:08:46] this half hour that we did in FY '25, is we
+[00:08:52] enlisted a company called Polis to do a detailed operational
+[00:08:56] review of the company. I joined Cordia as a
+[00:09:00] CEO on an interim basis in April of
+[00:09:04] 2024. One of the first things the board asked me to do
+[00:09:09] was really to do a detailed review of how Cordia
+[00:09:12] is performing, how we are
+[00:09:16] structured internally, what the market opportunities are.
+[00:09:20] And we brought Polis in.
+[00:09:22] I won't go too much into that because I suspect there might be some questions
+[00:09:25] around that. But there was a very detailed review with very, very specific
+[00:09:29] outcomes, which we've then taken and are actually still
+[00:09:33] implementing. And I can talk to that in as much
+[00:09:36] detail as is needed.
+[00:09:44] And I thought I'd just highlight a couple of
+[00:09:48] what I think are operational highlights that happened through the year.
+[00:09:52] You've seen the financial
+[00:09:56] outcomes that we had, which we're very, very proud of, and we worked very
+[00:10:00] hard to achieve those, which included removing almost $9 million of
+[00:10:04] cost and wastage from the business.
+[00:10:07] But highlights for me through the year,
+[00:10:11] outside the financial results, were re-signing the contract with Maritime
+[00:10:15] New Zealand for another 10 years.
+[00:10:17] As I said, we're very proud to provide that service.
+[00:10:20] And it's a core service for us, and I think it goes to the DNA of who we are.
+[00:10:25] We assisted with the Vanuatu earthquake.
+[00:10:29] When that happened at Christmastime, I remember very well getting the phone call
+[00:10:33] from Feels Like people that
+[00:10:35] had been asked to join New Zealand Defense Force to go
+[00:10:39] across to lift the
+[00:10:43] communications that had been
+[00:10:46] decimated. And last week, actually, I was
+[00:10:50] at a Pacific Islands conference. We do quite a lot on the Pacific Islands as well
+[00:10:53] to really support our Pacific Island neighbors.
+[00:10:57] A lot of the technology that we've deployed in New Zealand is now being rolled out
+[00:11:00] in the Pacific Islands, and we really spend time
+[00:11:04] helping those customers.
+[00:11:07] We also won the contract to build the
+[00:11:11] cell phone coverage inside Te Kaha Stadium in Christchurch, the new
+[00:11:15] stadium that's just been opened. That was a very competitive bid, and we're
+[00:11:19] very, very proud to have won that. And we've actually, obviously beyond FY
+[00:11:23] '25, but we've just handed that over before it went live, and it was
+[00:11:27] on time and on budget. And actually, the
+[00:11:31] performance outstrips the requirements. So we're very proud of that.
+[00:11:36] I obviously can't and won't go into the cybersecurity events,
+[00:11:40] but there was numerous cybersecurity events that we helped customers and
+[00:11:43] also non-customers. So quite often we'll get a knock on the
+[00:11:47] door at about 6:00 PM on a Friday, tends to be when they
+[00:11:51] happen, when an event has happened and people come
+[00:11:55] to us and ask for our assistance, and we have a team ready to help them.
+[00:11:59] And we also
+[00:12:01] were a key part of broadcasting many, many sporting events and cultural
+[00:12:04] events through our media broadcast
+[00:12:08] team. So I just wanted to give that as a little bit of a frame up,
+[00:12:11] and hopefully that's been helpful. And happy to take any questions.
+[00:12:15] Yeah. Thank you so much for that overview.
+[00:12:17] And first question from Ruben Davidson
+[00:12:20] Thank you, Madam Chair. And I just wanted to acknowledge, in a previous
+[00:12:24] career in broadcasting, I saw the commitment Claudia's team had to climbing
+[00:12:28] up mountains with microwave links to bounce signals across Mountable
+[00:12:31] ridgetops to
+[00:12:34] get the pictures and sound out. So very aware of the
+[00:12:38] amazing work your team does out in the field to do that.
+[00:12:43] Wanted to jump straight into the financial performance, which you've mentioned,
+[00:12:47] and the decision in this financial year not to pay a
+[00:12:51] dividend. So I just wanted to dig into that a little more, and
+[00:12:55] also to look at what the forecast or target is for the
+[00:12:59] next financial year as far as whether you expect to be
+[00:13:02] investing back or
+[00:13:05] returning a dividend.
+[00:13:06] So in FY25, we did pay a dividend.
+[00:13:08] No, no. We're paying the dividend-
+[00:13:09] Yes
+[00:13:09] ... this year.
+[00:13:10] So we've just declared a dividend for the interim dividend for the current
+[00:13:13] financial year of two and a half million.
+[00:13:15] Mm-hmm.
+[00:13:16] So for the FY25 year, we were
+[00:13:20] carrying the financial consequences of exiting out of the PSN
+[00:13:23] contract-
+[00:13:24] Yes
+[00:13:24] ... which put us into a position where we weren't able to pay a dividend.
+[00:13:27] But we have turned that around, and the financial performance is back on track.
+[00:13:31] Cool.
+[00:13:34] All good. Lawrence Fan. Thank you, Madam Chair.
+[00:13:37] Thank you so much for coming.
+[00:13:38] Thank you.
+[00:13:39] I want to check, so one of the things that you mentioned is around
+[00:13:43] the environmental impact of Cordia, and I was looking at, I
+[00:13:47] think, page
+[00:13:49] 40... 37 of your report-
+[00:13:51] Mm-hmm
+[00:13:52] ... talking about environmental impact.
+[00:13:54] Can I just check, I also noticed that you are scaling up the
+[00:13:58] use of AI technology and et cetera, as you know, out of necessity.
+[00:14:01] Mm-hmm.
+[00:14:02] Do you factor in the use of AI and energy consumption of
+[00:14:06] AI into your environmental impact
+[00:14:09] and emissions?
+[00:14:10] Not currently. But
+[00:14:13] we're still, I would say, in the early stages of
+[00:14:17] spinning up AI. So we have specific use cases that we're using it for, but we're
+[00:14:21] not using it en masse.
+[00:14:23] And we have tools that have AI built into it that we
+[00:14:27] utilize in our operation centers especially.
+[00:14:30] Yeah.
+[00:14:32] And obviously we measure the electricity requirements
+[00:14:36] from that, but we don't specifically measure the
+[00:14:39] environmental impacts of AI as of yet.
+[00:14:42] But that would be scope three. So we-
+[00:14:44] Correct
+[00:14:46] we're very good in terms of scope one and scope two.
+[00:14:48] Yeah.
+[00:14:48] But we haven't gone into detail in terms of scope three at this stage.
+[00:14:50] Just checking, what's the rough timeframe for scope three?
+[00:14:56] I think-
+[00:14:56] Is there one?
+[00:14:57] Yeah. No, I don't know that there is because the complexity of it and the changes
+[00:15:01] to the expectations around reporting in this regard, in terms of what's
+[00:15:05] feasible and the double counting that occurs when everyone's doing scope three.
+[00:15:08] So yeah, when you guys come up with a solution on that, we'll happy to follow it.
+[00:15:13] Okay then. Thank you so much.
+[00:15:13] We follow the legislation that's required.
+[00:15:15] Yeah.
+[00:15:16] Yes.
+[00:15:16] Thank you. All right. Supplementary from Reuben Edwards.
+[00:15:18] Yeah, just supping on the question around AI.
+[00:15:21] Mm-hmm.
+[00:15:21] And I imagine there'll be a few more questions on this topic.
+[00:15:23] But looking at the annual report, page 13, there's a
+[00:15:27] reference to a number of
+[00:15:30] support and governance documents which are then listed as bullets.
+[00:15:34] And runs through a whole range of issues and considerations for staff and your
+[00:15:37] team. There's no specific reference in there to any policy around
+[00:15:41] AI or internal policy around AI, which surprised me.
+[00:15:45] But is that
+[00:15:47] included within one of those?
+[00:15:49] We do have one now.
+[00:15:50] You're right.
+[00:15:51] Yeah. So as part of the journey of AI, we have, as a board, put in place
+[00:15:55] the AI policy.
+[00:15:56] So when-
+[00:15:56] And as you can imagine, you have to look at it very regularly because things are
+[00:15:59] changing. You know, when we first put it in place, we were saying, "You can only
+[00:16:02] use these tools," and very rapidly that became attainable.
+[00:16:05] Yeah.
+[00:16:06] So we have it on a much more regular cadence of reviewing it.
+[00:16:09] And we also brought onto the board in the more recent
+[00:16:13] round, an individual who has a very strong background in AI.
+[00:16:16] So from a governance perspective,
+[00:16:19] we're all learning, but I think we're doing the best we can.
+[00:16:23] So when was that policy initiated?
+[00:16:27] Well, it would've been in this current financial year-
+[00:16:30] This-
+[00:16:31] ... that it got put in place. Yeah.
+[00:16:32] And what's the
+[00:16:34] process for...
+[00:16:37] Because you
+[00:16:38] say correctly that these things keep getting updated.
+[00:16:40] Yeah.
+[00:16:40] What's the process for making sure everybody knows that that policy's getting
+[00:16:44] updated?
+[00:16:45] So all policies, so one of the things that we've put in place
+[00:16:50] is a system called Highvol, which is our HRSS system, which
+[00:16:54] manages all communications to staff.
+[00:16:56] And through that, we release policies and all staff, once
+[00:17:00] policies are released, have to go and read it and tick and identify that they've
+[00:17:04] actually read it and at times do a little mini test just to make sure that they
+[00:17:08] understand what the policy is. And all that's tracked.
+[00:17:11] Mm-hmm.
+[00:17:11] So that's for all policies that go through.
+[00:17:14] All right. Arena Williams.
+[00:17:15] Thank you. And thank you all for joining us this morning.
+[00:17:18] I'm really interested in the way that the group is changing-
+[00:17:21] Mm-hmm
+[00:17:21] ... and the divestment of the managed IT business to Fusion
+[00:17:25] 5.
+[00:17:26] Mm-hmm.
+[00:17:26] And
+[00:17:27] I see how that fits in with the statements around
+[00:17:31] a new purpose and trying to understand how you see the group
+[00:17:35] changing in the next couple of years,
+[00:17:38] in response to the work that you have done.
+[00:17:42] And which parts of these are critical assets to New
+[00:17:46] Zealand, which parts of these are part of the strategic monopoly assets-
+[00:17:48] Mm-hmm
+[00:17:48] ... that are really important for public ownership.
+[00:17:51] And which parts do you see as, say the managed IT business, it would've
+[00:17:55] been hard for me to make a case to New Zealanders that that might have been sort of
+[00:17:58] a critical monopoly asset. So talk to me about what this looks like over the next
+[00:18:01] couple of years.
+[00:18:01] Yeah, no, very good question. We spent
+[00:18:04] a lot of time working through this and thinking it, because it's really important
+[00:18:07] for Courtards, as I think it is every business, to have a very clear
+[00:18:11] sense of who you are and what
+[00:18:14] you want to achieve, and the why. Why you exist,
+[00:18:18] for the staff,
+[00:18:20] the owner, and your customers.
+[00:18:22] Our focus is around critical communications infrastructure and
+[00:18:26] cyber resilience. That's our North Star.
+[00:18:30] And really, the way we look at that is we're looking for entities
+[00:18:33] and customers where consequences is actually the
+[00:18:37] issue, not convenience. So if there's a
+[00:18:42] customer that, for example, obviously safety of life, there's a huge
+[00:18:45] consequence attached to that if we don't do that well.
+[00:18:48] Broadcast, if we are not broadcasting as needed,
+[00:18:52] again, there's a huge consequence.
+[00:18:53] Cybersecurity, if we're not keeping cybersecurity customers safe, there's
+[00:18:57] a huge consequence. That's how we measure what we do.
+[00:19:01] Neil, if I can touch a-
+[00:19:02] Please
+[00:19:02] ... little bit on the history. So,
+[00:19:05] Cordia has come out of the media and broadcast space.
+[00:19:08] Mm-hmm.
+[00:19:08] And everyone knows that digital terrestrial television is on a
+[00:19:12] gradual downward slope, and the broadcast is
+[00:19:16] increasingly using internet in terms of how they're communicating and putting
+[00:19:19] everything out. So from a board perspective, when you look at that, you say, "Well,
+[00:19:23] we have fixed costs and a declining revenue line." So over the years,
+[00:19:27] there's been a lot of work done to diversify the business.
+[00:19:29] Mm-hmm.
+[00:19:30] And if you look back, you can see this is run like that.
+[00:19:33] And-
+[00:19:33] ... now they're gradually paring back to work out where are the areas where they
+[00:19:37] can be successful and have sources of competitive advantage and an ability
+[00:19:41] to be successful.
+[00:19:42] Mm-hmm.
+[00:19:45] You asked the question about what needs to be critically owned
+[00:19:49] by-
+[00:19:51] The people
+[00:19:51] ... the New Zealand government and the people.
+[00:19:52] Yeah. Mm-hmm.
+[00:19:53] That's a really hard one because, in some instances, the things that we
+[00:19:57] do, being Crown-owned is constraining because we
+[00:20:01] not necessarily have the capital to invest into scale and growth and so forth.
+[00:20:06] But in other instances, having the Cordia brand and reputation helps enormously in
+[00:20:09] terms of trust and so forth.
+[00:20:12] It's up to the shareholders to decide-
+[00:20:14] Yeah
+[00:20:14] ... what they want to do with Cordia.
+[00:20:16] In Australia, BAI, which is the equivalent, was
+[00:20:19] sold over a decade ago. And they are performing really
+[00:20:23] well and have expanded enormously because they've got private capital in
+[00:20:27] them. It's a different story here in terms of what we're doing.
+[00:20:31] But also, you have to take into account, for example,
+[00:20:34] Cordia's communications were critical in Gabrielle, in Kaikoura-
+[00:20:38] Mm-hmm
+[00:20:38] ... recent weather events. So it's not an easy answer.
+[00:20:41] Just-
+[00:20:41] All right.
+[00:20:42] Just one quick follow-up.
+[00:20:45] Robin and I have recently met with TechNZ, FinTechNZ.
+[00:20:48] They're all saying,
+[00:20:49] and I'm sure they're saying to all political parties, there is some critical
+[00:20:52] infrastructure here which New Zealand is missing.
+[00:20:54] The bridges and the roads of the future that are those digital connections,
+[00:20:58] things like an API center to actually use between parties who want
+[00:21:02] to compete in finance-
+[00:21:05] Okay
+[00:21:05] ... and in the digital age, but cannot because we don't have that infrastructure
+[00:21:08] here. Are you looking at the other pieces of critical digital
+[00:21:11] infrastructure that do make sense for New Zealanders to own?
+[00:21:17] Yeah.
+[00:21:19] The short answer is yes. So we're looking forward.
+[00:21:22] We're looking
+[00:21:24] at data sovereignty, for example, as a key thought process that we're going
+[00:21:27] through. We're looking at an example of that is if you think
+[00:21:31] about our sites around the country at the moment, with the large
+[00:21:35] towers, they typically have a large building at the bottom of them.
+[00:21:37] Yeah.
+[00:21:38] Those large buildings used to be very full of analog equipment.
+[00:21:41] They're now largely empty because it's digital.
+[00:21:43] But you have this wonderful computer space which has resilience,
+[00:21:47] which has connectivity, and we're thinking about how can we use that in the
+[00:21:51] best way for Cordia and for New Zealand,
+[00:21:55] especially when you think about data sovereignty.
+[00:21:57] We're thinking about the advances in space and
+[00:22:01] LEO satellites, what's happening there.
+[00:22:02] Mm-hmm.
+[00:22:03] What space Cordia can play in that.
+[00:22:05] One of the things that I didn't talk about that we do is we actually manage
+[00:22:09] the Warkworth satellite station for Spark New Zealand, so we have
+[00:22:13] expertise in that area. So we're looking at that and understanding what does that
+[00:22:16] look like, what is this massive growth in, and I actually think a
+[00:22:20] fundamental competitive advantage New Zealand has in this area because
+[00:22:24] of where we're positioned,
+[00:22:27] and the land that we have and the infrastructure we have. So we're looking at that.
+[00:22:30] So there's various areas that we're looking at to understand what does Cordia
+[00:22:34] of the future look like. I think your point was really excellent.
+[00:22:37] It's
+[00:22:38] about deciding what is the critical infrastructure and
+[00:22:42] assets that Cordia needs to own, and how do we leverage that for the future.
+[00:22:46] And if I can just add to that. I think the most
+[00:22:49] strategic asset that Cordia owns is our digital microwave radio
+[00:22:53] network.
+[00:22:54] It's nationwide. It was built 25 years ago.
+[00:22:57] We're just upgrading it now. It was built to transport the media content
+[00:23:01] to our sites to distribute, but it's the most probably resilient network in the
+[00:23:04] country.
+[00:23:05] Mm-hmm.
+[00:23:05] It stayed up with the Kaikoura earthquake, Christchurch
+[00:23:09] earthquake, the recent cyclones, and we've partnered with the
+[00:23:13] telcos to actually transport some of their mobile tech-
+[00:23:16] Mm-hmm
+[00:23:17] ... on that network too. So for us, that's very
+[00:23:21] strategic and plays to that mission-critical resilience.
+[00:23:24] Mm-hmm.
+[00:23:25] Right. We'll go to Dr. Vanessa Banning.
+[00:23:27] Thank you, Madam Chair. Thanks very much. It's good to see you.
+[00:23:30] We've been reading about you over the term of this parliament,
+[00:23:34] but not necessarily getting to see you, so it's good.
+[00:23:38] So the renewal of that 10-year Maritime New Zealand contract's
+[00:23:41] obviously a really important piece,
+[00:23:45] not just for service outcomes, but it looks to me as though
+[00:23:49] that would be underpinning some of the
+[00:23:54] utilization of your other assets across your network to the longer
+[00:23:58] term legacy, that thing. So given that that's a
+[00:24:02] long-term public contract, how important is
+[00:24:06] that
+[00:24:07] to have that for that long-term duration to be able to then
+[00:24:11] underpin your ability to then continue to
+[00:24:15] invest in things like cloud and cyber, whilst
+[00:24:19] still maintaining that
+[00:24:23] legacy but safety for infrastructure?
+[00:24:27] Yeah.
+[00:24:27] It's very important. I think from memory, the maritime
+[00:24:32] network utilizes around 54 of our sites.
+[00:24:35] And so that long-term contract does
+[00:24:39] provide, yeah, a lot of scale for those other things.
+[00:24:43] On those sites also, we have a lot of FM services.
+[00:24:47] And we believe that also has a huge life on it, buoyed by the fact that the
+[00:24:51] Crown has recently obviously
+[00:24:53] provided those 20-year licenses.
+[00:24:55] But also the fact that New Zealand has a very
+[00:24:59] long vehicle turnover, 14.8 years.
+[00:25:01] So not just the maritime, but I think FM and
+[00:25:05] obviously digital television, which we recently signed TVNZ up for
+[00:25:09] several more years. All those things do play a big part in
+[00:25:13] allowing us to leverage those assets into similar things
+[00:25:17] across infrastructure and mission-critical resilience.
+[00:25:20] Can I just ask something? So given that you are a,
+[00:25:23] I don't know if you'll be able to answer this.
+[00:25:25] Given you are a state-owned enterprise, wholly state-owned,
+[00:25:29] do you think that plays a part in winning some of those longer-term public
+[00:25:32] contracts? Is that--
+[00:25:35] Would a-
+[00:25:36] No.
+[00:25:36] If you were to be a public-
+[00:25:36] You need the assets to win them, so.
+[00:25:38] Yeah.
+[00:25:38] And because I got asked this by
+[00:25:42] somebody else a little while ago, and I think the example to point to that is we
+[00:25:46] also won the same for Australia.
+[00:25:49] Yeah.
+[00:25:49] And obviously another state-owned enterprise in Australia.
+[00:25:53] So I think it's our capability and our proven track record that really made the
+[00:25:56] difference.
+[00:25:57] Great, thank you.
+[00:25:58] Dr. David Wilson.
+[00:26:00] The primary is...
+[00:26:01] Cheers. Yes. The primary is really pleased to see
+[00:26:05] you're moving into AI,
+[00:26:08] right down to agentic AI, which means we can make this thing work without
+[00:26:12] somebody on the other end necessarily, but just checking.
+[00:26:16] So you're on a journey there.
+[00:26:18] Mm-hmm.
+[00:26:19] The two things that spring to mind here is how's that going, and the second thing
+[00:26:23] that springs to mind in terms of your security operations center is how is
+[00:26:27] that integrated with the National Security Center,
+[00:26:30] exchanging information and working together?
+[00:26:33] So yes, definitely on a journey with AI, as I think we
+[00:26:37] all are.
+[00:26:39] We've taken a slightly different approach with AI to
+[00:26:43] possibly traditional. So our head of AI is also actually the head of people and
+[00:26:47] culture.
+[00:26:48] So rather than taking it from a technology lens, we're taking it from a how do
+[00:26:52] we use AI to allow people to do their job better
+[00:26:55] or actually to do more valuable work,
+[00:26:58] rather than it's a pure technology, let's roll it out and everybody has to use
+[00:27:02] it approach.
+[00:27:03] Yeah.
+[00:27:03] And that's really gaining momentum because it means that
+[00:27:08] the examples of AI become a lot more almost business case
+[00:27:12] focused, where we can actually do a better job, save more money, or
+[00:27:15] do things better faster.
+[00:27:18] If we think about our operation center, AI is a key tool that we
+[00:27:22] use in those.
+[00:27:24] There's absolutely
+[00:27:26] huge
+[00:27:28] leaps and bounds in capability that's happening there almost on a weekly
+[00:27:32] basis.
+[00:27:33] We do that largely through the tools that we use.
+[00:27:36] There's several key tools that we use to monitor.
+[00:27:39] So if we think about operation center as eyes on glass, where you're monitoring
+[00:27:42] everything that's happening. Being able to use AI to do that and actually surface
+[00:27:46] up the information for key people to take action on as opposed to have a
+[00:27:51] range of people. It also allows us to scale because it means
+[00:27:55] for every new customer, we don't need to bring on new people.
+[00:27:59] So that's a key part.
+[00:28:01] And to your final question, yes, we work very closely
+[00:28:06] with the National Security Center.
+[00:28:08] We pass information backwards and forwards on a regular
+[00:28:12] basis. We have people with clearances to have the appropriate conversations,
+[00:28:16] and they happen on a regular basis.
+[00:28:18] So in this center, it's a matter of can we afford not to.
+[00:28:21] Yes.
+[00:28:22] Yeah.
+[00:28:22] Absolutely.
+[00:28:23] My second question was your comments around microwave and
+[00:28:28] the towers and reaching into regional areas.
+[00:28:31] And so,
+[00:28:33] I guess what I'm asking here is
+[00:28:36] how successful have we been or could we be in terms of reaching far
+[00:28:40] out places, regional areas that have got no connectivity, and not just
+[00:28:44] in an emergency-
+[00:28:45] Yes
+[00:28:45] ... but full stop to allow them to take advantage of what's happening
+[00:28:49] now.
+[00:28:50] Do you want to take that?
+[00:28:50] Yeah. Very successful. I mean, we have a number of
+[00:28:54] digital microwave radio-only solutions for customers,
+[00:28:58] particularly in those agricultural regions and regions
+[00:29:02] where fiber isn't as efficient.
+[00:29:07] The DMR radio network I was talking about is a trunk line, and
+[00:29:11] then off that trunk line, then we can have more specific,
+[00:29:15] targeted DMR radio to service any customer anywhere.
+[00:29:19] And that's also complemented now by satellite Starlink.
+[00:29:23] So we utilize that form of connectivity as well.
+[00:29:27] Yeah. So it's integrated with different modes.
+[00:29:29] Yeah. Giving more and more of that as well.
+[00:29:31] That's amazing. Last thing I'll just say, congratulations on your turnaround.
+[00:29:35] Thank you.
+[00:29:35] Financially.
+[00:29:37] All right. Supplementary from Lawrence Yuna.
+[00:29:39] Just a very quick supplementary. On the connectivity in rural
+[00:29:42] areas, one of the things we've heard is the concern around this
+[00:29:46] establishment decommissioning 3G.
+[00:29:50] Just when you're talking about Starlink, can I just check that those level
+[00:29:54] of connectivity is able to be utilized in all weather patterns?
+[00:29:59] Well, there'd be some weather patterns, some storms that may
+[00:30:03] knock out that connectivity.
+[00:30:06] And so that's why we ensure that we have at least two forms of
+[00:30:10] connectivity complemented by Starlink.
+[00:30:13] The primary is normally the digital microwave radio network or the
+[00:30:17] fiber network. But yeah, there's always going to be something
+[00:30:20] that potentially can knock out Starlink in
+[00:30:24] space.
+[00:30:26] New question from Ruben Davidson.
+[00:30:27] Thank you, Madam Chair.
+[00:30:29] The minister's '24, '25 letter of expectation encouraged you
+[00:30:33] to
+[00:30:35] You know, position yourself for a challenging environment, but also to
+[00:30:39] stay responsive to industry changes and, the thing that I'm really interested in,
+[00:30:43] support media customers through difficult conditions.
+[00:30:47] So how are you supporting media customers?
+[00:30:51] Collaborative
+[00:30:56] approach with TVNZ to look at extending their digital
+[00:31:00] television contracts with Kordia.
+[00:31:03] The negotiation probably took eight months.
+[00:31:06] Weekly meetings with their senior team and our senior team,
+[00:31:10] looking at their challenges in respect to operating
+[00:31:14] multiple platforms. So as you well know,
+[00:31:17] they developed a digital platform which adds more cost to
+[00:31:21] their business.
+[00:31:23] They're trying to move their customers across the legacy
+[00:31:27] platforms to the digital ones.
+[00:31:30] And so we've developed a commercial model that helps them with
+[00:31:34] that while giving us the tenure,
+[00:31:37] and a definitive period
+[00:31:41] of term. So yeah, it's creative,
+[00:31:45] and I think both parties at the end of that negotiation
+[00:31:48] were satisfied with those outcomes,
+[00:31:52] giving TVNZ the ability to manage their costs
+[00:31:56] and, for Kordia to extend the
+[00:31:59] term
+[00:32:00] several more years.
+[00:32:02] Just to add on to that, the other thing that we're doing is we're working with a
+[00:32:05] company in the UK called Arqiva, which specializes in
+[00:32:08] software products that help
+[00:32:13] media entities move into the cloud, put
+[00:32:18] content through the cloud, and do that in a very cost-effective way.
+[00:32:21] So we're actually bringing those
+[00:32:23] products to market to help the media companies actually make the transition.
+[00:32:26] So rather than stopping them, we're actually working with them to help them make
+[00:32:30] the transition that they need to make.
+[00:32:31] Yeah, great. And are you- A very quick sup on that.
+[00:32:35] Beyond TVNZ, are there any other companies that you've
+[00:32:39] been working with
+[00:32:41] in a
+[00:32:43] larger way than the cloud migration potentially-
+[00:32:45] Absolutely
+[00:32:46] ... and if so, how are you tracking and reporting who you're working with and
+[00:32:49] therefore who you're not?
+[00:32:52] We're working with all our digital television customers right now.
+[00:32:55] A lot of work's going in with Sky following the acquisition of Warner Brothers
+[00:32:59] Discovery. And yeah, those negotiations are
+[00:33:03] ongoing.
+[00:33:04] Great. We'll have to conclude this hearing here. Thank you so much for your time.
+[00:33:08] You might receive some questions later on. Thank you. Thank you.
+[00:33:12] Thank you very much for the opportunity.
+[00:33:14] Thank you.
+[00:33:15] Members, we move into private session now.

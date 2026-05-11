@@ -1,0 +1,2538 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1544.36,
+  "segments": [
+    {
+      "start": 109.5,
+      "end": 109.8,
+      "text": "Yeah, it's"
+    },
+    {
+      "start": 109.82,
+      "end": 130.24,
+      "text": "not..."
+    },
+    {
+      "start": 130.34,
+      "end": 130.54,
+      "text": "Hi."
+    },
+    {
+      "start": 134.46,
+      "end": 136.44,
+      "text": "John and Wendy, thank you so much for your time."
+    },
+    {
+      "start": 136.68,
+      "end": 140.13,
+      "text": "We have half an hour with you, so if you would like to start with some"
+    },
+    {
+      "start": 140.66,
+      "end": 144.24,
+      "text": "opening remarks, then we will have questions following. Thank you."
+    },
+    {
+      "start": 144.44,
+      "end": 146.34,
+      "text": "Look, thank you for the opportunity to be here today."
+    },
+    {
+      "start": 146.42,
+      "end": 149.96,
+      "text": "I'm John Kensington, the chair of the External Reporting Board."
+    },
+    {
+      "start": 150.8,
+      "end": 154.76,
+      "text": "I've been on the chair since last August, and I've been a board member for eight"
+    },
+    {
+      "start": 154.82,
+      "end": 157.01,
+      "text": "years prior to that. I'm joined by Wendy,"
+    },
+    {
+      "start": 157.82,
+      "end": 161.66,
+      "text": "our chief executive, Wendy Venter, along with Dr Amelia Sharman, our"
+    },
+    {
+      "start": 161.67,
+      "end": 165.21,
+      "text": "director of sustainability reporting, and Dawn Bowden, our general manager of"
+    },
+    {
+      "start": 165.26,
+      "end": 166.04,
+      "text": "corporate services."
+    },
+    {
+      "start": 167.44,
+      "end": 171.2,
+      "text": "Now, the XRB sets financial reporting standards, assurance standards, and"
+    },
+    {
+      "start": 171.26,
+      "end": 172.44,
+      "text": "climate reporting standards"
+    },
+    {
+      "start": 173.3,
+      "end": 177.0,
+      "text": "that provide consistent, internationally comparable information people can trust"
+    },
+    {
+      "start": 177.02,
+      "end": 180.93,
+      "text": "and use to make decisions. And those standards apply across the entire economy,"
+    },
+    {
+      "start": 181.08,
+      "end": 183.86,
+      "text": "from large listed companies, public sector organizations,"
+    },
+    {
+      "start": 184.72,
+      "end": 188.24,
+      "text": "through to charities, incorporated societies, and small owner-operated"
+    },
+    {
+      "start": 188.32,
+      "end": 191.82,
+      "text": "businesses. It is important to note we do not"
+    },
+    {
+      "start": 191.84,
+      "end": 195.67,
+      "text": "regulate or enforce those standards, and we do not decide who they"
+    },
+    {
+      "start": 195.7,
+      "end": 199.69,
+      "text": "apply to. So Parliament sets the legislative requirements, and"
+    },
+    {
+      "start": 199.72,
+      "end": 203.24,
+      "text": "regulators such as the FMA or Charity Services are responsible for oversight and"
+    },
+    {
+      "start": 203.28,
+      "end": 203.86,
+      "text": "enforcement."
+    },
+    {
+      "start": 204.7,
+      "end": 208.39,
+      "text": "But what we do underpins confidence in New Zealand's economy,"
+    },
+    {
+      "start": 208.52,
+      "end": 211.93,
+      "text": "supports access to global capital, strengthens transparency and"
+    },
+    {
+      "start": 212.0,
+      "end": 214.46,
+      "text": "accountability across both the public and private sectors."
+    },
+    {
+      "start": 215.26,
+      "end": 218.42,
+      "text": "So high-quality standards are not an end in themselves."
+    },
+    {
+      "start": 218.46,
+      "end": 221.42,
+      "text": "They're a means to better government risk management and capital allocation."
+    },
+    {
+      "start": 222.26,
+      "end": 223.22,
+      "text": "Now, as the"
+    },
+    {
+      "start": 224.12,
+      "end": 227.42,
+      "text": "world becomes more complex and transactions become more complex,"
+    },
+    {
+      "start": 227.54,
+      "end": 231.3,
+      "text": "reporting becomes more complex. So proportionality really"
+    },
+    {
+      "start": 231.34,
+      "end": 234.55,
+      "text": "matters. And that's why in New Zealand we use a tiered system,"
+    },
+    {
+      "start": 235.46,
+      "end": 239.32,
+      "text": "so that the large entities can report the information they need to be"
+    },
+    {
+      "start": 239.4,
+      "end": 243.24,
+      "text": "able to meet international expectations, whereas smaller organizations"
+    },
+    {
+      "start": 243.28,
+      "end": 246.4,
+      "text": "report information more appropriate to their size."
+    },
+    {
+      "start": 246.46,
+      "end": 249.98,
+      "text": "So look, I'll hand over now to Wendy to outline our performance to date and our"
+    },
+    {
+      "start": 250.02,
+      "end": 251.76,
+      "text": "priorities."
+    },
+    {
+      "start": 251.77,
+      "end": 254.93,
+      "text": "Thank you, and good afternoon, and thank you, Chair, for the opportunity to appear"
+    },
+    {
+      "start": 255.0,
+      "end": 257.58,
+      "text": "before the committee for this financial review."
+    },
+    {
+      "start": 258.62,
+      "end": 262.08,
+      "text": "Just building on what John has said, in terms of setting our"
+    },
+    {
+      "start": 262.18,
+      "end": 265.8,
+      "text": "standards, what we really are trying to do is to make sure our standards are"
+    },
+    {
+      "start": 265.84,
+      "end": 268.54,
+      "text": "internationally aligned, but also locally relevant,"
+    },
+    {
+      "start": 269.38,
+      "end": 271.3,
+      "text": "and fit for purpose in the New Zealand context."
+    },
+    {
+      "start": 271.36,
+      "end": 274.02,
+      "text": "So what does that actually mean in practice? Two things."
+    },
+    {
+      "start": 274.7,
+      "end": 278.18,
+      "text": "We try to influence, and we do actively influence the"
+    },
+    {
+      "start": 278.46,
+      "end": 282.4,
+      "text": "international standard setting, so our relationships there, and then make"
+    },
+    {
+      "start": 282.44,
+      "end": 286.3,
+      "text": "domestic modifications to fit our legal and, as John was sort of saying, our"
+    },
+    {
+      "start": 286.36,
+      "end": 287.33,
+      "text": "economic context."
+    },
+    {
+      "start": 288.4,
+      "end": 292.33,
+      "text": "I guess, in terms of the '24-25 year, the year under scrutiny,"
+    },
+    {
+      "start": 292.52,
+      "end": 296.18,
+      "text": "I just wanted to sort of highlight that we did deliver quite a significant"
+    },
+    {
+      "start": 296.2,
+      "end": 297.28,
+      "text": "program of work."
+    },
+    {
+      "start": 298.32,
+      "end": 302.12,
+      "text": "Notably, we sort of amended the climate reporting standards to provide relief"
+    },
+    {
+      "start": 302.26,
+      "end": 304.68,
+      "text": "to entities facing implementation challenges,"
+    },
+    {
+      "start": 305.66,
+      "end": 309.48,
+      "text": "with some aspects of the reporting, and we issued a new standard for the"
+    },
+    {
+      "start": 309.52,
+      "end": 312.39,
+      "text": "audits of less complex entities, it's called."
+    },
+    {
+      "start": 313.02,
+      "end": 316.33,
+      "text": "Both these examples illustrate our strategic priority of developing"
+    },
+    {
+      "start": 316.44,
+      "end": 317.68,
+      "text": "fit-for-purpose standards."
+    },
+    {
+      "start": 318.92,
+      "end": 322.12,
+      "text": "The other thing that we do quite a lot of, and it has been increasing over the"
+    },
+    {
+      "start": 322.16,
+      "end": 325.8,
+      "text": "years, is supporting guidance, and supporting the implementation of our"
+    },
+    {
+      "start": 325.86,
+      "end": 327.62,
+      "text": "standards by providing guidance."
+    },
+    {
+      "start": 328.47,
+      "end": 330.78,
+      "text": "As good examples of that would be,"
+    },
+    {
+      "start": 331.52,
+      "end": 335.31,
+      "text": "we started it in the '24-25 year, that continues"
+    },
+    {
+      "start": 335.34,
+      "end": 338.8,
+      "text": "into this year. We are really supporting the rollout of a new"
+    },
+    {
+      "start": 338.86,
+      "end": 342.64,
+      "text": "standard, a standard that will apply from next year to for-profit entities, which"
+    },
+    {
+      "start": 342.68,
+      "end": 346.18,
+      "text": "will change the way profit and performance is measured in financial statements."
+    },
+    {
+      "start": 347.38,
+      "end": 351.13,
+      "text": "And we also have done a lot of work with incorporated societies in"
+    },
+    {
+      "start": 351.18,
+      "end": 354.72,
+      "text": "helping them understand the requirements of the legislation that was"
+    },
+    {
+      "start": 354.76,
+      "end": 355.35,
+      "text": "introduced in"
+    },
+    {
+      "start": 355.48,
+      "end": 359.33,
+      "text": "2022.Looking ahead,"
+    },
+    {
+      "start": 359.43,
+      "end": 362.99,
+      "text": "there's probably three main strategic priorities that I just wanted to"
+    },
+    {
+      "start": 363.05,
+      "end": 366.63,
+      "text": "highlight. One was the review of the accounting standards framework"
+    },
+    {
+      "start": 366.95,
+      "end": 368.99,
+      "text": "that John sort of talked about just now."
+    },
+    {
+      "start": 369.56,
+      "end": 373.28,
+      "text": "The other is later this year, we will be consulting and"
+    },
+    {
+      "start": 373.39,
+      "end": 377.31,
+      "text": "engaging with our stakeholders on a draft climate reporting roadmap for New"
+    },
+    {
+      "start": 377.37,
+      "end": 380.87,
+      "text": "Zealand to provide certainty about the future direction there."
+    },
+    {
+      "start": 381.85,
+      "end": 385.55,
+      "text": "And the third priority is really the world of emerging"
+    },
+    {
+      "start": 385.63,
+      "end": 389.07,
+      "text": "technologies, and AI is absolutely front of mind for international"
+    },
+    {
+      "start": 389.15,
+      "end": 390.57,
+      "text": "standard-setters and for us."
+    },
+    {
+      "start": 391.75,
+      "end": 395.0,
+      "text": "And we just are really focused on understanding the opportunities, risks, and"
+    },
+    {
+      "start": 395.05,
+      "end": 398.43,
+      "text": "implications, particularly with the auditing standards, has been a"
+    },
+    {
+      "start": 399.29,
+      "end": 402.67,
+      "text": "focus for the current year. And this is the final point."
+    },
+    {
+      "start": 402.71,
+      "end": 405.49,
+      "text": "I just wanted to acknowledge the XRB team."
+    },
+    {
+      "start": 406.09,
+      "end": 409.83,
+      "text": "Clearly, that's sort of our... And that's the staff, the boards, the"
+    },
+    {
+      "start": 409.97,
+      "end": 413.63,
+      "text": "technical boards, and really importantly, the very many stakeholders"
+    },
+    {
+      "start": 414.09,
+      "end": 417.47,
+      "text": "who basically contribute their time and expertise to our work."
+    },
+    {
+      "start": 417.55,
+      "end": 421.43,
+      "text": "So we could not do this job without that engagement."
+    },
+    {
+      "start": 421.85,
+      "end": 425.53,
+      "text": "And in that context, really proud that our"
+    },
+    {
+      "start": 425.55,
+      "end": 429.49,
+      "text": "'24-'25 results show that 83% of our stakeholders"
+    },
+    {
+      "start": 429.59,
+      "end": 433.58,
+      "text": "were overall satisfaction with that we contribute to our purpose of"
+    },
+    {
+      "start": 433.63,
+      "end": 436.67,
+      "text": "trust and confidence in New Zealand's external reporting."
+    },
+    {
+      "start": 438.13,
+      "end": 439.54,
+      "text": "That's it. That's it from me. That's good."
+    },
+    {
+      "start": 439.54,
+      "end": 442.08,
+      "text": "And very much look forward to the committee's questions. Yes. Thank you. Yeah."
+    },
+    {
+      "start": 442.11,
+      "end": 443.93,
+      "text": "And that was very nice of you to acknowledge"
+    },
+    {
+      "start": 445.03,
+      "end": 445.68,
+      "text": "everybody. Mm-hmm."
+    },
+    {
+      "start": 446.81,
+      "end": 448.85,
+      "text": "And we have a first question from Marina Williams."
+    },
+    {
+      "start": 448.97,
+      "end": 452.09,
+      "text": "Kia ora koutou. Thank you very much for coming in, and welcome back, Wendy."
+    },
+    {
+      "start": 454.17,
+      "end": 457.71,
+      "text": "Just hoping to hone in on the climate-related disclosures"
+    },
+    {
+      "start": 458.01,
+      "end": 458.94,
+      "text": "regimes brought in-"
+    },
+    {
+      "start": 459.45,
+      "end": 459.57,
+      "text": "Yeah"
+    },
+    {
+      "start": 459.58,
+      "end": 461.89,
+      "text": "... and then face a significant change from government."
+    },
+    {
+      "start": 461.93,
+      "end": 462.33,
+      "text": "Yeah."
+    },
+    {
+      "start": 462.97,
+      "end": 466.54,
+      "text": "Firstly, on your role as system steward and"
+    },
+    {
+      "start": 466.97,
+      "end": 470.51,
+      "text": "you're exercising some soft influence within the market, how have you"
+    },
+    {
+      "start": 470.53,
+      "end": 470.99,
+      "text": "seen"
+    },
+    {
+      "start": 472.11,
+      "end": 475.3,
+      "text": "the market respond to a level of change and"
+    },
+    {
+      "start": 475.37,
+      "end": 476.13,
+      "text": "disruption?"
+    },
+    {
+      "start": 476.37,
+      "end": 476.73,
+      "text": "Yeah."
+    },
+    {
+      "start": 476.81,
+      "end": 478.07,
+      "text": "And how do"
+    },
+    {
+      "start": 479.37,
+      "end": 480.41,
+      "text": "you sort of"
+    },
+    {
+      "start": 481.23,
+      "end": 483.73,
+      "text": "measure that? What kind of impact is that having on"
+    },
+    {
+      "start": 484.93,
+      "end": 488.61,
+      "text": "the ability to get the right people in the room with these entities, the ability"
+    },
+    {
+      "start": 488.69,
+      "end": 491.97,
+      "text": "to have a workforce that's prepared to audit for climate?"
+    },
+    {
+      "start": 492.67,
+      "end": 492.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 492.87,
+      "end": 493.91,
+      "text": "What are the flow-on impacts?"
+    },
+    {
+      "start": 494.51,
+      "end": 494.75,
+      "text": "Yeah."
+    },
+    {
+      "start": 495.95,
+      "end": 499.13,
+      "text": "No, it's a good question there. It's very much has been,"
+    },
+    {
+      "start": 500.11,
+      "end": 503.89,
+      "text": "I guess, our focus in terms of setting the standards with climate reporting was"
+    },
+    {
+      "start": 503.93,
+      "end": 505.15,
+      "text": "really sort of understanding"
+    },
+    {
+      "start": 506.09,
+      "end": 509.99,
+      "text": "what we could do. It lines up, but they're supporting adoption and implementation."
+    },
+    {
+      "start": 510.47,
+      "end": 514.33,
+      "text": "So we've done quite a lot there. We sort of work with preparers, insurers"
+    },
+    {
+      "start": 514.79,
+      "end": 518.77,
+      "text": "right across the ecosystem to go issued a huge amount of guidance"
+    },
+    {
+      "start": 518.83,
+      "end": 519.45,
+      "text": "over the last,"
+    },
+    {
+      "start": 520.31,
+      "end": 523.51,
+      "text": "ever since the standard came out. I know Amelia and the team have been very busy"
+    },
+    {
+      "start": 524.17,
+      "end": 527.39,
+      "text": "with that. What we have seen is"
+    },
+    {
+      "start": 528.21,
+      "end": 531.75,
+      "text": "essentially any new regime comes with"
+    },
+    {
+      "start": 532.69,
+      "end": 533.69,
+      "text": "introduces change."
+    },
+    {
+      "start": 535.89,
+      "end": 538.87,
+      "text": "There is always that's the aspect of change, and this was a"
+    },
+    {
+      "start": 539.85,
+      "end": 541.65,
+      "text": "new regime in terms of being mandatory."
+    },
+    {
+      "start": 542.23,
+      "end": 545.43,
+      "text": "I think it's fair to say it's also really steep learning curve."
+    },
+    {
+      "start": 545.65,
+      "end": 549.39,
+      "text": "So that's the targeted changes that I sort of highlighted in my"
+    },
+    {
+      "start": 549.41,
+      "end": 553.29,
+      "text": "introduction was very much a response to this is actually"
+    },
+    {
+      "start": 553.37,
+      "end": 557.12,
+      "text": "really tough here. What can we do, a standard-setter, to provide a bit of"
+    },
+    {
+      "start": 557.17,
+      "end": 560.99,
+      "text": "relief and provide a little bit more time for people to adjust."
+    },
+    {
+      "start": 561.02,
+      "end": 564.49,
+      "text": "So that's what we were seeing, getting data, getting the people."
+    },
+    {
+      "start": 566.37,
+      "end": 570.01,
+      "text": "What we are seeing more recently, though, is people, as they start to"
+    },
+    {
+      "start": 571.07,
+      "end": 574.95,
+      "text": "essentially understand the requirements, get to the value of what the"
+    },
+    {
+      "start": 575.01,
+      "end": 578.47,
+      "text": "standards are there to provide, which is then set out in primary legislation, which"
+    },
+    {
+      "start": 578.51,
+      "end": 582.16,
+      "text": "is how are you fundamentally thinking about your risk and opportunities from"
+    },
+    {
+      "start": 582.17,
+      "end": 582.9,
+      "text": "climate change."
+    },
+    {
+      "start": 583.87,
+      "end": 587.07,
+      "text": "So that's what we've seen in the market."
+    },
+    {
+      "start": 587.09,
+      "end": 589.77,
+      "text": "It's an ongoing thing. We speak anecdotally."
+    },
+    {
+      "start": 589.83,
+      "end": 593.78,
+      "text": "We get sort of quite a lot of examples of how people are, and"
+    },
+    {
+      "start": 593.81,
+      "end": 596.86,
+      "text": "then respond to that. So I think that's probably the sort of"
+    },
+    {
+      "start": 596.99,
+      "end": 598.99,
+      "text": "overarching comments I would make."
+    },
+    {
+      "start": 599.01,
+      "end": 600.35,
+      "text": "But if I haven't quite"
+    },
+    {
+      "start": 601.77,
+      "end": 603.99,
+      "text": "got it, yeah, let me know if you want me to-"
+    },
+    {
+      "start": 604.57,
+      "end": 605.79,
+      "text": "The thing I'm interested in is the-"
+    },
+    {
+      "start": 605.82,
+      "end": 605.87,
+      "text": "Yeah"
+    },
+    {
+      "start": 605.88,
+      "end": 607.83,
+      "text": "... quality and the consistency of disclosures."
+    },
+    {
+      "start": 607.89,
+      "end": 609.01,
+      "text": "I mean, that is your role-"
+    },
+    {
+      "start": 609.37,
+      "end": 609.44,
+      "text": "Yeah"
+    },
+    {
+      "start": 609.45,
+      "end": 610.01,
+      "text": "... within the system."
+    },
+    {
+      "start": 610.16,
+      "end": 610.35,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 611.95,
+      "end": 614.55,
+      "text": "Do you have some observations about..."
+    },
+    {
+      "start": 616.25,
+      "end": 620.17,
+      "text": "Because really, you're not reporting on a single figure."
+    },
+    {
+      "start": 620.25,
+      "end": 620.27,
+      "text": "Yeah."
+    },
+    {
+      "start": 620.29,
+      "end": 624.19,
+      "text": "A lot of the time you're asking people to respond to questions that are"
+    },
+    {
+      "start": 624.25,
+      "end": 625.45,
+      "text": "qualitative about their-"
+    },
+    {
+      "start": 625.52,
+      "end": 628.21,
+      "text": "... ability to respond to climate challenges."
+    },
+    {
+      "start": 628.35,
+      "end": 628.78,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 628.83,
+      "end": 629.77,
+      "text": "So they need to buy into that."
+    },
+    {
+      "start": 630.05,
+      "end": 630.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 630.65,
+      "end": 634.26,
+      "text": "So what are you noticing at the moment about the quality and consistency of"
+    },
+    {
+      "start": 634.31,
+      "end": 637.39,
+      "text": "disclosures? Is that different from a couple of years ago?"
+    },
+    {
+      "start": 637.51,
+      "end": 641.35,
+      "text": "How do we ensure that when we set a standard, that standard is met, whatever that"
+    },
+    {
+      "start": 641.39,
+      "end": 642.07,
+      "text": "standard might be?"
+    },
+    {
+      "start": 642.87,
+      "end": 643.03,
+      "text": "Yeah."
+    },
+    {
+      "start": 643.91,
+      "end": 647.75,
+      "text": "So I think the quality, you're quite right to highlight that it's not like"
+    },
+    {
+      "start": 647.81,
+      "end": 650.15,
+      "text": "financial information, and it is a little bit different."
+    },
+    {
+      "start": 650.21,
+      "end": 651.31,
+      "text": "We have experience in"
+    },
+    {
+      "start": 652.27,
+      "end": 654.23,
+      "text": "performance information that's not dissimilar."
+    },
+    {
+      "start": 654.75,
+      "end": 658.34,
+      "text": "So what we are definitely finding is that it's really people sort of"
+    },
+    {
+      "start": 658.37,
+      "end": 661.69,
+      "text": "understanding there are judgments to be made here about what is material,"
+    },
+    {
+      "start": 662.71,
+      "end": 666.07,
+      "text": "and then for preparers and markets to understand and to do that."
+    },
+    {
+      "start": 666.13,
+      "end": 669.99,
+      "text": "So I think it's really about getting the right metrics that people can have"
+    },
+    {
+      "start": 670.05,
+      "end": 670.23,
+      "text": "that"
+    },
+    {
+      "start": 671.09,
+      "end": 674.97,
+      "text": "quality and consistency. We have been"
+    },
+    {
+      "start": 675.21,
+      "end": 677.17,
+      "text": "sort of in terms of looking at"
+    },
+    {
+      "start": 678.83,
+      "end": 681.49,
+      "text": "understanding what the changes are doing, measuring that impact."
+    },
+    {
+      "start": 681.55,
+      "end": 685.2,
+      "text": "So I think we started through our work on post-implementation review, looking at"
+    },
+    {
+      "start": 685.23,
+      "end": 687.17,
+      "text": "evaluations of how that will roll out."
+    },
+    {
+      "start": 687.27,
+      "end": 691.03,
+      "text": "So that's where I think we will get a little bit more than anecdotal."
+    },
+    {
+      "start": 691.93,
+      "end": 695.49,
+      "text": "But yeah, I think that's probably the key thing I would highlight there. Yeah."
+    },
+    {
+      "start": 695.61,
+      "end": 696.33,
+      "text": "So blue and green."
+    },
+    {
+      "start": 696.99,
+      "end": 698.35,
+      "text": "So just interested in the audit-"
+    },
+    {
+      "start": 698.53,
+      "end": 698.54,
+      "text": "Yeah"
+    },
+    {
+      "start": 698.57,
+      "end": 699.83,
+      "text": "... workforce for climate."
+    },
+    {
+      "start": 700.37,
+      "end": 701.13,
+      "text": "Yeah."
+    },
+    {
+      "start": 701.21,
+      "end": 704.97,
+      "text": "Is it a mature workforce in New Zealand? Are we training up the right numbers?"
+    },
+    {
+      "start": 704.99,
+      "end": 707.74,
+      "text": "You have a go at it? Because I might get John to as well. Yeah."
+    },
+    {
+      "start": 707.74,
+      "end": 709.95,
+      "text": "In my day job, excuse me, I am an audit partner."
+    },
+    {
+      "start": 710.21,
+      "end": 710.37,
+      "text": "So,"
+    },
+    {
+      "start": 711.83,
+      "end": 714.8,
+      "text": "I think back to your first question, one thing I would add is that people who've"
+    },
+    {
+      "start": 714.83,
+      "end": 718.05,
+      "text": "been through it three times are more comfortable doing it the third time."
+    },
+    {
+      "start": 718.08,
+      "end": 721.81,
+      "text": "There's a learning curve, and we've seen them move up the curve quite"
+    },
+    {
+      "start": 721.85,
+      "end": 725.47,
+      "text": "quickly and quite well. In terms of the audit workforce, it's a very"
+    },
+    {
+      "start": 725.87,
+      "end": 729.79,
+      "text": "interesting one. There's a lot of training we need to do within the firms"
+    },
+    {
+      "start": 729.89,
+      "end": 733.85,
+      "text": "to get up to the same skill set levels and understandings"
+    },
+    {
+      "start": 733.89,
+      "end": 737.8,
+      "text": "that we have for traditional accounting, if you like to call it that.But"
+    },
+    {
+      "start": 737.86,
+      "end": 741.26,
+      "text": "I think the really interesting thing is certainly the"
+    },
+    {
+      "start": 741.3,
+      "end": 745.14,
+      "text": "graduates that we're getting now, and a large"
+    },
+    {
+      "start": 745.22,
+      "end": 749.14,
+      "text": "number of more senior staff, are actually quite interested in it and want to do it"
+    },
+    {
+      "start": 749.2,
+      "end": 749.72,
+      "text": "because"
+    },
+    {
+      "start": 750.62,
+      "end": 754.54,
+      "text": "they might be a little tired of doing the run-of-the-mill audit work they've been"
+    },
+    {
+      "start": 754.6,
+      "end": 756.04,
+      "text": "doing. So we've really had"
+    },
+    {
+      "start": 757.2,
+      "end": 761.18,
+      "text": "less of a challenge than I think we thought we would getting people to want to look"
+    },
+    {
+      "start": 761.28,
+      "end": 763.33,
+      "text": "at and be involved in climate reporting."
+    },
+    {
+      "start": 763.94,
+      "end": 766.3,
+      "text": "And we've been able to pick up a few experts along the way."
+    },
+    {
+      "start": 766.34,
+      "end": 769.58,
+      "text": "And that would be, I'm sure, similar across all the firms."
+    },
+    {
+      "start": 770.3,
+      "end": 770.6,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 771.74,
+      "end": 772.19,
+      "text": "Dr. Nicholas."
+    },
+    {
+      "start": 772.26,
+      "end": 775.82,
+      "text": "Yes. Yeah and I appreciate this question might actually have tapped..."
+    },
+    {
+      "start": 775.88,
+      "end": 779.51,
+      "text": "Yeah, appreciate the previous line of questioning, sorry, was"
+    },
+    {
+      "start": 779.52,
+      "end": 781.86,
+      "text": "focusing on environmental reporting."
+    },
+    {
+      "start": 781.88,
+      "end": 782.42,
+      "text": "And I suppose"
+    },
+    {
+      "start": 783.22,
+      "end": 786.11,
+      "text": "including that, but actually more widely, how do you measure whether"
+    },
+    {
+      "start": 786.14,
+      "end": 789.62,
+      "text": "your standards are actually improving the"
+    },
+    {
+      "start": 789.68,
+      "end": 793.52,
+      "text": "quality of reporting? Not necessarily just the compliance"
+    },
+    {
+      "start": 793.76,
+      "end": 797.03,
+      "text": "with those standards, but that actually the reporting"
+    },
+    {
+      "start": 797.58,
+      "end": 801.46,
+      "text": "for the general public, for government, is actually improving."
+    },
+    {
+      "start": 803.16,
+      "end": 804.55,
+      "text": "Yeah. In terms of the"
+    },
+    {
+      "start": 805.92,
+      "end": 807.58,
+      "text": "measurement of the quality of the standards?"
+    },
+    {
+      "start": 807.74,
+      "end": 808.02,
+      "text": "Mm."
+    },
+    {
+      "start": 808.22,
+      "end": 811.76,
+      "text": "Yeah. In terms of the outcomes of the reporting."
+    },
+    {
+      "start": 812.0,
+      "end": 815.5,
+      "text": "But I think there's probably different"
+    },
+    {
+      "start": 815.82,
+      "end": 817.46,
+      "text": "things that I would highlight."
+    },
+    {
+      "start": 818.28,
+      "end": 820.31,
+      "text": "I guess"
+    },
+    {
+      "start": 821.18,
+      "end": 824.52,
+      "text": "two things. The standards are there to sort of say there are some requirements"
+    },
+    {
+      "start": 825.16,
+      "end": 828.92,
+      "text": "about what information do you think is the most useful for the primary user."
+    },
+    {
+      "start": 829.14,
+      "end": 829.32,
+      "text": "Mm."
+    },
+    {
+      "start": 829.5,
+      "end": 832.48,
+      "text": "And it's defined usually as the investor and the lender."
+    },
+    {
+      "start": 834.1,
+      "end": 837.94,
+      "text": "That's something that's thought about very hard in the design to actually"
+    },
+    {
+      "start": 837.98,
+      "end": 841.16,
+      "text": "achieve the objectives of that reporting."
+    },
+    {
+      "start": 842.62,
+      "end": 845.2,
+      "text": "Most of our standards, I should add, are international standards."
+    },
+    {
+      "start": 846.0,
+      "end": 849.8,
+      "text": "And so what we are really working there to do is actually"
+    },
+    {
+      "start": 849.86,
+      "end": 853.78,
+      "text": "talk to the users. So I think the answer to the question would be to design it"
+    },
+    {
+      "start": 853.84,
+      "end": 856.92,
+      "text": "into the requirements of what is going to be quality."
+    },
+    {
+      "start": 858.24,
+      "end": 862.22,
+      "text": "When they're actually implemented, then it starts to get a little bit more broader"
+    },
+    {
+      "start": 862.3,
+      "end": 866.1,
+      "text": "into actually the whole ecosystem working to go, okay, what does"
+    },
+    {
+      "start": 866.18,
+      "end": 868.42,
+      "text": "quality look like in terms of compliance?"
+    },
+    {
+      "start": 869.64,
+      "end": 873.58,
+      "text": "The preparers, the assurance, the audit that happens actually"
+    },
+    {
+      "start": 873.6,
+      "end": 877.54,
+      "text": "gives you basically a report on whether it's met the requirements and"
+    },
+    {
+      "start": 878.92,
+      "end": 882.12,
+      "text": "the fairness of the financial statements as an example."
+    },
+    {
+      "start": 882.5,
+      "end": 886.16,
+      "text": "And I would also emphasize the role of the FMA in terms of"
+    },
+    {
+      "start": 886.2,
+      "end": 890.12,
+      "text": "monitoring and enforcing it, because they give these monitoring reports that give"
+    },
+    {
+      "start": 890.16,
+      "end": 893.94,
+      "text": "you insight into quality. These disclosures are not quite right here."
+    },
+    {
+      "start": 894.0,
+      "end": 895.5,
+      "text": "So all of those factors are"
+    },
+    {
+      "start": 896.7,
+      "end": 900.56,
+      "text": "factors that basically give you insight into the quality of the reporting."
+    },
+    {
+      "start": 900.68,
+      "end": 900.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 901.0,
+      "end": 901.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 901.1,
+      "end": 902.06,
+      "text": "I suppose the question was,"
+    },
+    {
+      "start": 902.92,
+      "end": 906.46,
+      "text": "it's a little bit easier to work out whether"
+    },
+    {
+      "start": 906.86,
+      "end": 909.42,
+      "text": "a reporting standard has been met-"
+    },
+    {
+      "start": 909.66,
+      "end": 909.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 909.81,
+      "end": 910.52,
+      "text": "... whether there was."
+    },
+    {
+      "start": 910.7,
+      "end": 910.82,
+      "text": "Mm."
+    },
+    {
+      "start": 910.95,
+      "end": 914.3,
+      "text": "But actually, what's the quality of the actual standard?"
+    },
+    {
+      "start": 915.88,
+      "end": 917.86,
+      "text": "Different to actually whether it was met or not."
+    },
+    {
+      "start": 917.98,
+      "end": 918.14,
+      "text": "Right."
+    },
+    {
+      "start": 918.3,
+      "end": 921.78,
+      "text": "Are we actually improving the quality of reporting in New Zealand?"
+    },
+    {
+      "start": 922.3,
+      "end": 922.56,
+      "text": "Right."
+    },
+    {
+      "start": 923.0,
+      "end": 926.94,
+      "text": "I think by adopting an international standard, which is principally"
+    },
+    {
+      "start": 927.34,
+      "end": 929.18,
+      "text": "we are what we call a standard taker."
+    },
+    {
+      "start": 929.72,
+      "end": 933.38,
+      "text": "By adopting an international standard that has had the best"
+    },
+    {
+      "start": 933.44,
+      "end": 934.68,
+      "text": "global minds think about"
+    },
+    {
+      "start": 936.2,
+      "end": 939.68,
+      "text": "should it be done this way, they've gone out, put it out for expression of"
+    },
+    {
+      "start": 939.72,
+      "end": 941.74,
+      "text": "interests, and sought submissions back."
+    },
+    {
+      "start": 942.58,
+      "end": 945.2,
+      "text": "And then we do a similar quick process here."
+    },
+    {
+      "start": 945.28,
+      "end": 946.68,
+      "text": "I think that probably helps"
+    },
+    {
+      "start": 947.84,
+      "end": 951.7,
+      "text": "a lot. I think to your point about is reporting improving,"
+    },
+    {
+      "start": 952.54,
+      "end": 956.42,
+      "text": "I think that is then the work of the regulator, where they then look at the reports"
+    },
+    {
+      "start": 956.44,
+      "end": 958.64,
+      "text": "and see, is the right information getting out here?"
+    },
+    {
+      "start": 958.82,
+      "end": 959.72,
+      "text": "Are we avoiding"
+    },
+    {
+      "start": 962.34,
+      "end": 966.28,
+      "text": "financial disruption in the market, or worse still, scandals in the"
+    },
+    {
+      "start": 966.34,
+      "end": 970.1,
+      "text": "country through the reporting? And are people able to invest with"
+    },
+    {
+      "start": 970.18,
+      "end": 973.26,
+      "text": "some certainty that it's a level playing field for all investors?"
+    },
+    {
+      "start": 973.56,
+      "end": 973.88,
+      "text": "Mm."
+    },
+    {
+      "start": 973.92,
+      "end": 974.94,
+      "text": "Mm. Yes."
+    },
+    {
+      "start": 974.98,
+      "end": 976.04,
+      "text": "Right. And Dr. Vanessa."
+    },
+    {
+      "start": 976.82,
+      "end": 980.48,
+      "text": "Thank you, Madam Chair. You mentioned in your opening statements around"
+    },
+    {
+      "start": 980.98,
+      "end": 983.0,
+      "text": "AI and standards in regard to that."
+    },
+    {
+      "start": 983.8,
+      "end": 987.64,
+      "text": "Does that mean setting standards for AI or the use of AI"
+    },
+    {
+      "start": 987.7,
+      "end": 990.42,
+      "text": "in auditing, or what's the role there?"
+    },
+    {
+      "start": 990.88,
+      "end": 991.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 992.44,
+      "end": 993.82,
+      "text": "Not setting standards for AI."
+    },
+    {
+      "start": 994.64,
+      "end": 998.42,
+      "text": "The role is very much considering the opportunities and the risks that"
+    },
+    {
+      "start": 998.48,
+      "end": 1002.16,
+      "text": "AI poses for how people go about reporting,"
+    },
+    {
+      "start": 1003.16,
+      "end": 1006.85,
+      "text": "and the assurance standards. So it's very much a focus on the assurance"
+    },
+    {
+      "start": 1007.0,
+      "end": 1010.87,
+      "text": "standards. So the international auditing standards setter, and we've been working"
+    },
+    {
+      "start": 1010.92,
+      "end": 1013.16,
+      "text": "very closely with them. And we are on a small"
+    },
+    {
+      "start": 1014.82,
+      "end": 1016.58,
+      "text": "number of jurisdiction advising them, going"
+    },
+    {
+      "start": 1018.28,
+      "end": 1021.9,
+      "text": "probably three things that are focused, is basically"
+    },
+    {
+      "start": 1021.92,
+      "end": 1025.14,
+      "text": "embedding a technology focus in any new standard setting."
+    },
+    {
+      "start": 1025.32,
+      "end": 1025.52,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1025.68,
+      "end": 1028.82,
+      "text": "Okay, how is technology used today? How can it be done?"
+    },
+    {
+      "start": 1029.94,
+      "end": 1033.68,
+      "text": "Going back and looking at some really core auditing standards, so the"
+    },
+    {
+      "start": 1033.74,
+      "end": 1036.16,
+      "text": "classic audit evidence and risk response."
+    },
+    {
+      "start": 1037.86,
+      "end": 1041.64,
+      "text": "How do you actually get insight into getting audit evidence risk"
+    },
+    {
+      "start": 1041.76,
+      "end": 1045.7,
+      "text": "response when technology is just fundamentally the, I guess people"
+    },
+    {
+      "start": 1045.74,
+      "end": 1047.1,
+      "text": "talk about black box nature."
+    },
+    {
+      "start": 1047.19,
+      "end": 1047.58,
+      "text": "Mm."
+    },
+    {
+      "start": 1048.02,
+      "end": 1051.78,
+      "text": "And then the third thing is actually keeping abreast of what's going on."
+    },
+    {
+      "start": 1053.66,
+      "end": 1056.72,
+      "text": "Whether it's the global firms who obviously have..."
+    },
+    {
+      "start": 1058.02,
+      "end": 1061.9,
+      "text": "What are we understanding in the market, if you like, in terms of how"
+    },
+    {
+      "start": 1061.94,
+      "end": 1064.28,
+      "text": "are reporting organizations using AI?"
+    },
+    {
+      "start": 1064.69,
+      "end": 1064.73,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1064.73,
+      "end": 1067.18,
+      "text": "How are auditors using AI?"
+    },
+    {
+      "start": 1068.0,
+      "end": 1071.22,
+      "text": "What are the opportunities of... Essentially the innovation."
+    },
+    {
+      "start": 1071.34,
+      "end": 1074.1,
+      "text": "You can get basically lots more insight"
+    },
+    {
+      "start": 1075.0,
+      "end": 1075.82,
+      "text": "very rapidly."
+    },
+    {
+      "start": 1076.14,
+      "end": 1076.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 1076.28,
+      "end": 1079.88,
+      "text": "And we're just beginning that. So that's the nature of the work, and I hope that"
+    },
+    {
+      "start": 1079.92,
+      "end": 1080.92,
+      "text": "gives you a little bit of a flavor-"
+    },
+    {
+      "start": 1080.95,
+      "end": 1083.28,
+      "text": "... of how we think about AI and technology. Yeah."
+    },
+    {
+      "start": 1083.64,
+      "end": 1085.68,
+      "text": "Good. Members, are there any other questions?"
+    },
+    {
+      "start": 1086.6,
+      "end": 1087.18,
+      "text": "Very briefly."
+    },
+    {
+      "start": 1087.78,
+      "end": 1088.74,
+      "text": "Yep. Aruna Williams."
+    },
+    {
+      "start": 1090.58,
+      "end": 1093.68,
+      "text": "The availability of auditors was a real problem for government two years ago."
+    },
+    {
+      "start": 1094.08,
+      "end": 1097.86,
+      "text": "I'm interested in what you're seeing around trends in workforce,"
+    },
+    {
+      "start": 1098.38,
+      "end": 1099.14,
+      "text": "not climate."
+    },
+    {
+      "start": 1100.44,
+      "end": 1104.1,
+      "text": "And AI will be a part of that, but is that in fact speeding things up?"
+    },
+    {
+      "start": 1104.62,
+      "end": 1105.26,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1105.36,
+      "end": 1106.4,
+      "text": "Is that helping us do more?"
+    },
+    {
+      "start": 1106.8,
+      "end": 1107.37,
+      "text": "I think you might be the right person to talk to that."
+    },
+    {
+      "start": 1107.38,
+      "end": 1110.02,
+      "text": "So I can give it from a firm perspective here."
+    },
+    {
+      "start": 1110.06,
+      "end": 1110.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 1110.3,
+      "end": 1113.17,
+      "text": "I think what we've seen is over the last five years,"
+    },
+    {
+      "start": 1114.62,
+      "end": 1118.52,
+      "text": "the automation of our audit approaches has meant that we can take last year's"
+    },
+    {
+      "start": 1118.56,
+      "end": 1120.3,
+      "text": "file, roll it over, for example,"
+    },
+    {
+      "start": 1122.32,
+      "end": 1125.82,
+      "text": "keep the audit program of the work through, but delete all the information."
+    },
+    {
+      "start": 1126.39,
+      "end": 1129.68,
+      "text": "And I think that has resulted in us needing less people to do the"
+    },
+    {
+      "start": 1129.72,
+      "end": 1132.8,
+      "text": "job. The availability of auditors, it was definitely a problem"
+    },
+    {
+      "start": 1133.88,
+      "end": 1137.44,
+      "text": "when there was COVID and no travel, but actually people like to come to New Zealand"
+    },
+    {
+      "start": 1137.46,
+      "end": 1138.0,
+      "text": "and see"
+    },
+    {
+      "start": 1139.52,
+      "end": 1140.66,
+      "text": "New Zealand for what it is."
+    },
+    {
+      "start": 1141.6,
+      "end": 1145.5,
+      "text": "And the global networks are very much interested in making sure their staff"
+    },
+    {
+      "start": 1145.58,
+      "end": 1147.82,
+      "text": "get on these international exchanges and see the world."
+    },
+    {
+      "start": 1148.28,
+      "end": 1152.2,
+      "text": "So it's never going to be easy. There are more glamorous jobs than being an"
+    },
+    {
+      "start": 1152.22,
+      "end": 1155.62,
+      "text": "auditor. But I think we're probably back to a stage now where that"
+    },
+    {
+      "start": 1155.66,
+      "end": 1159.54,
+      "text": "supply of staff constraint is less of a problem than it"
+    },
+    {
+      "start": 1159.58,
+      "end": 1159.86,
+      "text": "was."
+    },
+    {
+      "start": 1160.88,
+      "end": 1161.0,
+      "text": "One-"
+    },
+    {
+      "start": 1161.32,
+      "end": 1161.38,
+      "text": "Mm"
+    },
+    {
+      "start": 1161.44,
+      "end": 1162.7,
+      "text": "... sorry, one more thing I would add."
+    },
+    {
+      "start": 1162.78,
+      "end": 1163.1,
+      "text": "I know"
+    },
+    {
+      "start": 1164.26,
+      "end": 1168.11,
+      "text": "the professional services organizations like Chartered Accountants"
+    },
+    {
+      "start": 1168.16,
+      "end": 1172.04,
+      "text": "Australia, New Zealand, they are looking at sort of widening the pipeline at the"
+    },
+    {
+      "start": 1172.06,
+      "end": 1175.1,
+      "text": "bottom, going, \"Actually, who are the people we're trying to attract into the"
+    },
+    {
+      "start": 1175.14,
+      "end": 1175.6,
+      "text": "profession?\""
+    },
+    {
+      "start": 1175.68,
+      "end": 1176.06,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1176.8,
+      "end": 1180.56,
+      "text": "And actually, can we think about the sorts of skills that future"
+    },
+    {
+      "start": 1180.58,
+      "end": 1183.51,
+      "text": "accountants and auditors need in a far more holistic,"
+    },
+    {
+      "start": 1184.48,
+      "end": 1186.42,
+      "text": "the technology implications, all of it."
+    },
+    {
+      "start": 1186.5,
+      "end": 1190.08,
+      "text": "So I think it's quite a big focus, the attractiveness and"
+    },
+    {
+      "start": 1190.16,
+      "end": 1192.1,
+      "text": "retention I know wider from a focus."
+    },
+    {
+      "start": 1192.5,
+      "end": 1194.77,
+      "text": "So that's something I'd just add to what John said."
+    },
+    {
+      "start": 1194.79,
+      "end": 1195.84,
+      "text": "Gee, do we have room for one more?"
+    },
+    {
+      "start": 1196.42,
+      "end": 1198.34,
+      "text": "So, yes. You finished your question?"
+    },
+    {
+      "start": 1198.48,
+      "end": 1200.38,
+      "text": "Yeah. So, Dr. Wood, if you don't mind."
+    },
+    {
+      "start": 1200.42,
+      "end": 1200.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 1201.72,
+      "end": 1202.32,
+      "text": "Given that"
+    },
+    {
+      "start": 1203.56,
+      "end": 1206.99,
+      "text": "the public sector has gone through this whole process of moving towards outcomes"
+    },
+    {
+      "start": 1207.08,
+      "end": 1210.68,
+      "text": "based performance, and now kind of reflecting on"
+    },
+    {
+      "start": 1210.72,
+      "end": 1213.8,
+      "text": "yourselves, there's a nice comment in here around"
+    },
+    {
+      "start": 1215.2,
+      "end": 1218.94,
+      "text": "looking at non-financial transactions and how you"
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.58,
+      "text": "assemble information, performance information, that sort of thing."
+    },
+    {
+      "start": 1221.64,
+      "end": 1221.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 1221.92,
+      "end": 1225.36,
+      "text": "I'm also interested in the VFM side of it, so the financial side of"
+    },
+    {
+      "start": 1225.4,
+      "end": 1229.16,
+      "text": "it. So from our perspective, are we getting value from your"
+    },
+    {
+      "start": 1229.2,
+      "end": 1232.81,
+      "text": "organization for the amount of money that we spend in terms"
+    },
+    {
+      "start": 1232.9,
+      "end": 1236.82,
+      "text": "of that? So the outcomes, which is what Hamish was referring"
+    },
+    {
+      "start": 1236.86,
+      "end": 1237.3,
+      "text": "to, I think-"
+    },
+    {
+      "start": 1237.32,
+      "end": 1237.33,
+      "text": "Mm"
+    },
+    {
+      "start": 1237.33,
+      "end": 1240.74,
+      "text": "... in terms of not only who you're working for, but also yourselves."
+    },
+    {
+      "start": 1240.94,
+      "end": 1241.1,
+      "text": "Mm."
+    },
+    {
+      "start": 1241.96,
+      "end": 1245.24,
+      "text": "How do you see that working through your work program now that"
+    },
+    {
+      "start": 1245.28,
+      "end": 1246.96,
+      "text": "you're looking ahead?"
+    },
+    {
+      "start": 1247.46,
+      "end": 1249.98,
+      "text": "In terms of non-financial? I just wanted to clarify, not-"
+    },
+    {
+      "start": 1250.04,
+      "end": 1251.16,
+      "text": "Value for money"
+    },
+    {
+      "start": 1251.2,
+      "end": 1252.12,
+      "text": "... value for money. Right."
+    },
+    {
+      "start": 1252.22,
+      "end": 1252.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 1252.46,
+      "end": 1253.26,
+      "text": "Yeah. No, absolutely."
+    },
+    {
+      "start": 1254.02,
+      "end": 1257.79,
+      "text": "There's two things, I guess,"
+    },
+    {
+      "start": 1257.96,
+      "end": 1259.07,
+      "text": "us as an organization-"
+    },
+    {
+      "start": 1259.12,
+      "end": 1259.13,
+      "text": "Correct"
+    },
+    {
+      "start": 1259.13,
+      "end": 1260.18,
+      "text": "... which is essentially,"
+    },
+    {
+      "start": 1261.16,
+      "end": 1263.54,
+      "text": "and that's been quite central to"
+    },
+    {
+      "start": 1264.92,
+      "end": 1266.96,
+      "text": "probably ever since the XRB's established."
+    },
+    {
+      "start": 1267.06,
+      "end": 1269.72,
+      "text": "I've only been chief executive since early last year."
+    },
+    {
+      "start": 1271.04,
+      "end": 1274.82,
+      "text": "But I think we are a sort of a crown organization, a"
+    },
+    {
+      "start": 1274.88,
+      "end": 1278.82,
+      "text": "crown entity. We get public money through our appropriation."
+    },
+    {
+      "start": 1279.28,
+      "end": 1279.74,
+      "text": "Like any"
+    },
+    {
+      "start": 1280.62,
+      "end": 1284.44,
+      "text": "organization, we are apt... Or any organization dealing with the"
+    },
+    {
+      "start": 1284.48,
+      "end": 1286.18,
+      "text": "challenges that we've had since COVID-"
+    },
+    {
+      "start": 1286.52,
+      "end": 1286.6,
+      "text": "Yeah"
+    },
+    {
+      "start": 1286.74,
+      "end": 1290.72,
+      "text": "... and since is what can we do differently? Where do we need to prioritize?"
+    },
+    {
+      "start": 1290.98,
+      "end": 1292.76,
+      "text": "What's the most valuable thing we do?"
+    },
+    {
+      "start": 1293.84,
+      "end": 1297.57,
+      "text": "We've had real examples over the last few years where we've just turned our"
+    },
+    {
+      "start": 1297.64,
+      "end": 1298.16,
+      "text": "mind to"
+    },
+    {
+      "start": 1299.04,
+      "end": 1302.84,
+      "text": "really focusing in on what is our core role here and who can we"
+    },
+    {
+      "start": 1302.96,
+      "end": 1305.94,
+      "text": "work with, who can we leverage, leverage is not quite the right..."
+    },
+    {
+      "start": 1306.32,
+      "end": 1310.07,
+      "text": "Collaborate with to achieve even better outcomes."
+    },
+    {
+      "start": 1310.18,
+      "end": 1311.97,
+      "text": "So I would say, and we've"
+    },
+    {
+      "start": 1312.26,
+      "end": 1316.08,
+      "text": "implemented things like using"
+    },
+    {
+      "start": 1316.16,
+      "end": 1319.2,
+      "text": "productivity tools in our organization."
+    },
+    {
+      "start": 1319.24,
+      "end": 1323.04,
+      "text": "We rolled out Copilot, really strongly encouraging people to,"
+    },
+    {
+      "start": 1324.2,
+      "end": 1327.38,
+      "text": "how can we just do things and just really embrace the"
+    },
+    {
+      "start": 1327.94,
+      "end": 1330.02,
+      "text": "benefits that we can get to"
+    },
+    {
+      "start": 1330.96,
+      "end": 1333.62,
+      "text": "get to, as you say, a more efficient, effective outcome."
+    },
+    {
+      "start": 1334.22,
+      "end": 1335.62,
+      "text": "Yeah, and I guess I'm just sort of-"
+    },
+    {
+      "start": 1336.88,
+      "end": 1336.89,
+      "text": "Yeah"
+    },
+    {
+      "start": 1336.89,
+      "end": 1337.74,
+      "text": "... reiterating where-"
+    },
+    {
+      "start": 1337.86,
+      "end": 1337.98,
+      "text": "Yeah"
+    },
+    {
+      "start": 1338.0,
+      "end": 1339.14,
+      "text": "... Hamish was going on this."
+    },
+    {
+      "start": 1339.44,
+      "end": 1339.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 1339.72,
+      "end": 1343.14,
+      "text": "And that is that we want to ask the question: are we getting value from this"
+    },
+    {
+      "start": 1343.22,
+      "end": 1346.04,
+      "text": "organization in terms of the outcomes and the outputs from-"
+    },
+    {
+      "start": 1346.34,
+      "end": 1346.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 1346.58,
+      "end": 1346.94,
+      "text": "... from it?"
+    },
+    {
+      "start": 1347.3,
+      "end": 1347.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1347.74,
+      "end": 1348.92,
+      "text": "Our sense is yes."
+    },
+    {
+      "start": 1349.72,
+      "end": 1349.73,
+      "text": "Yeah."
+    },
+    {
+      "start": 1349.74,
+      "end": 1352.02,
+      "text": "But some good information around that would be good."
+    },
+    {
+      "start": 1352.32,
+      "end": 1352.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 1352.7,
+      "end": 1353.3,
+      "text": "I guess in a"
+    },
+    {
+      "start": 1354.26,
+      "end": 1357.34,
+      "text": "funny way, the counterfactual is probably important, too."
+    },
+    {
+      "start": 1357.44,
+      "end": 1359.18,
+      "text": "If you didn't have good quality standards,"
+    },
+    {
+      "start": 1360.14,
+      "end": 1364.08,
+      "text": "New Zealand's been lucky in that we haven't had a financial crisis of the magnitude"
+    },
+    {
+      "start": 1364.14,
+      "end": 1364.24,
+      "text": "of"
+    },
+    {
+      "start": 1365.06,
+      "end": 1368.52,
+      "text": "some other countries. And I think that is probably down to the fact that there has"
+    },
+    {
+      "start": 1368.56,
+      "end": 1371.82,
+      "text": "been disciplines in place and required reporting in place."
+    },
+    {
+      "start": 1372.08,
+      "end": 1372.42,
+      "text": "Mm."
+    },
+    {
+      "start": 1372.5,
+      "end": 1375.92,
+      "text": "And that reporting's gone through boards and been considered and challenged."
+    },
+    {
+      "start": 1375.98,
+      "end": 1379.66,
+      "text": "So, the counterfactual is take away the accounting standards,"
+    },
+    {
+      "start": 1380.36,
+      "end": 1382.06,
+      "text": "let industry use whatever they like."
+    },
+    {
+      "start": 1383.1,
+      "end": 1384.58,
+      "text": "It's a Mad Max type race."
+    },
+    {
+      "start": 1386.34,
+      "end": 1389.48,
+      "text": "Yeah. So I think what I'm saying is we need information-"
+    },
+    {
+      "start": 1389.6,
+      "end": 1389.75,
+      "text": "Yeah"
+    },
+    {
+      "start": 1389.75,
+      "end": 1390.89,
+      "text": "... on how the standards are-"
+    },
+    {
+      "start": 1391.54,
+      "end": 1391.55,
+      "text": "Yeah"
+    },
+    {
+      "start": 1391.55,
+      "end": 1392.33,
+      "text": "... as Hamish was saying-"
+    },
+    {
+      "start": 1392.38,
+      "end": 1392.62,
+      "text": "Yeah"
+    },
+    {
+      "start": 1392.64,
+      "end": 1393.78,
+      "text": "... are being utilized and implemented."
+    },
+    {
+      "start": 1393.82,
+      "end": 1395.1,
+      "text": "Yeah. No, absolutely."
+    },
+    {
+      "start": 1395.14,
+      "end": 1395.35,
+      "text": "The value of that."
+    },
+    {
+      "start": 1395.64,
+      "end": 1399.38,
+      "text": "No, and it's essentially that point around the performance. How do you get impact?"
+    },
+    {
+      "start": 1399.62,
+      "end": 1403.14,
+      "text": "And actually there is an element of what are the broader indicators."
+    },
+    {
+      "start": 1403.45,
+      "end": 1406.9,
+      "text": "We might not have direct line of sight of exactly what is that standard, like what"
+    },
+    {
+      "start": 1407.04,
+      "end": 1410.46,
+      "text": "can we do to collect that information. No, I understand the point."
+    },
+    {
+      "start": 1410.66,
+      "end": 1410.86,
+      "text": "Of course."
+    },
+    {
+      "start": 1410.88,
+      "end": 1411.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 1411.08,
+      "end": 1412.23,
+      "text": "Okay. Dr. Hamish Cameron."
+    },
+    {
+      "start": 1413.12,
+      "end": 1416.0,
+      "text": "Yes. And probably following on from that, you operate in"
+    },
+    {
+      "start": 1417.24,
+      "end": 1421.1,
+      "text": "a rich ecosystem with many different players-"
+    },
+    {
+      "start": 1421.58,
+      "end": 1425.52,
+      "text": "... from the FMA, the Auditor General's office, Treasury,"
+    },
+    {
+      "start": 1427.24,
+      "end": 1428.68,
+      "text": "and all probably produce guidance."
+    },
+    {
+      "start": 1430.06,
+      "end": 1433.52,
+      "text": "How do you ensure that, A, you work together and there's no duplication"
+    },
+    {
+      "start": 1433.8,
+      "end": 1436.5,
+      "text": "of effort between different organizations?"
+    },
+    {
+      "start": 1437.32,
+      "end": 1440.32,
+      "text": "Yeah, look, for example, probably the best example of that is with the FMA."
+    },
+    {
+      "start": 1440.48,
+      "end": 1443.58,
+      "text": "We have an MoU with them we probably put in place about three years ago."
+    },
+    {
+      "start": 1444.15,
+      "end": 1444.71,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1445.02,
+      "end": 1448.66,
+      "text": "Where we talk to them about, \"Hey, please don't you try and set standards."
+    },
+    {
+      "start": 1448.72,
+      "end": 1451.68,
+      "text": "If you want a standard to be set because you think something's not there, come and"
+    },
+    {
+      "start": 1451.72,
+      "end": 1455.61,
+      "text": "talk to us and we can do that, and we won't cross across into regulation.\" And"
+    },
+    {
+      "start": 1455.66,
+      "end": 1459.56,
+      "text": "I guess we regularly meet with the players in the"
+    },
+    {
+      "start": 1459.6,
+      "end": 1461.52,
+      "text": "ecosystem to make sure we are"
+    },
+    {
+      "start": 1462.06,
+      "end": 1465.04,
+      "text": "effectively staying in our lane, I suppose."
+    },
+    {
+      "start": 1465.18,
+      "end": 1465.46,
+      "text": "Mm."
+    },
+    {
+      "start": 1465.5,
+      "end": 1465.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 1466.08,
+      "end": 1466.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 1466.68,
+      "end": 1466.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 1466.76,
+      "end": 1470.69,
+      "text": "Can I follow on that? And I suppose that's kind of internal in New"
+    },
+    {
+      "start": 1470.76,
+      "end": 1471.2,
+      "text": "Zealand."
+    },
+    {
+      "start": 1472.44,
+      "end": 1473.58,
+      "text": "Talked about being a"
+    },
+    {
+      "start": 1475.06,
+      "end": 1477.24,
+      "text": "standards taker or a regulation taker."
+    },
+    {
+      "start": 1478.42,
+      "end": 1478.56,
+      "text": "Is"
+    },
+    {
+      "start": 1479.6,
+      "end": 1483.12,
+      "text": "there a stage where actually it's ridiculous New Zealand has its own"
+    },
+    {
+      "start": 1483.82,
+      "end": 1487.22,
+      "text": "entity to do this rather than actually just fully taking"
+    },
+    {
+      "start": 1487.66,
+      "end": 1490.56,
+      "text": "standards from Australia, the UK,"
+    },
+    {
+      "start": 1491.5,
+      "end": 1492.86,
+      "text": "other jurisdictions?"
+    },
+    {
+      "start": 1493.26,
+      "end": 1497.08,
+      "text": "Yeah. New Zealand has a fairly unique tiered system,"
+    },
+    {
+      "start": 1498.18,
+      "end": 1501.88,
+      "text": "which ensures the large entities, so your banks, insurers, Fonterra, they're"
+    },
+    {
+      "start": 1501.92,
+      "end": 1504.96,
+      "text": "reporting all the information their compatriots overseas."
+    },
+    {
+      "start": 1505.82,
+      "end": 1508.54,
+      "text": "We've also got at the bottom end of that tier system"
+    },
+    {
+      "start": 1510.06,
+      "end": 1513.04,
+      "text": "reporting requirements specifically designed for New Zealand entities."
+    },
+    {
+      "start": 1513.08,
+      "end": 1516.8,
+      "text": "So the risk of going to a jurisdiction and relying"
+    },
+    {
+      "start": 1516.84,
+      "end": 1520.49,
+      "text": "completely on another jurisdiction is you'd be stuck with"
+    },
+    {
+      "start": 1520.52,
+      "end": 1520.9,
+      "text": "their-"
+    },
+    {
+      "start": 1520.92,
+      "end": 1521.0,
+      "text": "Mm"
+    },
+    {
+      "start": 1521.46,
+      "end": 1525.12,
+      "text": "... tiering, which may not really consider some of those"
+    },
+    {
+      "start": 1525.24,
+      "end": 1528.26,
+      "text": "bottom-end entities that New Zealand has size-wise."
+    },
+    {
+      "start": 1529.98,
+      "end": 1530.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 1530.43,
+      "end": 1532.34,
+      "text": "Yeah. Great. Looks like that's it."
+    },
+    {
+      "start": 1532.8,
+      "end": 1535.89,
+      "text": "Thank you so much for your time, and thanks for answering questions."
+    },
+    {
+      "start": 1535.94,
+      "end": 1539.29,
+      "text": "And you might have more questions later on from us. Thank you."
+    },
+    {
+      "start": 1539.29,
+      "end": 1539.34,
+      "text": "Thank you."
+    },
+    {
+      "start": 1539.5,
+      "end": 1539.94,
+      "text": "No, thank you."
+    },
+    {
+      "start": 1540.08,
+      "end": 1541.88,
+      "text": "Appreciate that. Thank you. And thanks for the opportunity."
+    },
+    {
+      "start": 1541.94,
+      "end": 1542.74,
+      "text": "Yeah, thank you very much."
+    },
+    {
+      "start": 1544.04,
+      "end": 1544.36,
+      "text": "Yeah"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_23 EDSI [Part 2] - vimeo_1185656516\\2026_04_23 EDSI [Part 2] - vimeo_1185656516.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185656516",
+    "display_id": "1185656516",
+    "title": "2026/04/23 EDSI [Part 2]",
+    "description": "Thursday 23 April 2026 | Economic Development, Science and Innovation Committee\n\nReview briefing on the 2024/25 annual review of the External Reporting Board\n\nExternal Reporting Board\n- John Kensington, Chair\n- Wendy Venter, Chief Executive",
+    "webpage_url": "https://vimeo.com/1185656516",
+    "original_url": "https://vimeo.com/1185656516",
+    "upload_date": "20260423",
+    "timestamp": 1776908417,
+    "release_timestamp": 1776908423,
+    "duration": 1545,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2149240105-6e46970341f4f413007726c08e3b090944eb3a666ac24a712e1c32e86a3452ea-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/296214686.vtt?expires=1778506166&sig=7c4353412f3fe21ae8c910bece8b062de8b7395f&download=auto_generated_captions.vtt"
+  }
+}

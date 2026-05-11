@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:28:34.294976+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1110833126",
+  "title": "2026/03/18 ENV subcommittee A (Part 1)",
+  "url": "https://vimeo.com/1110833126",
+  "published_at": "20260317",
+  "published_display": "2026-03-17",
+  "duration_seconds": 12155,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12155.07,
+    "segment_count": 3331,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_18 ENV subcommittee A (Part 1) - vimeo_1110833126\\2026_03_18 ENV subcommittee A (Part 1) - vimeo_1110833126.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1110833126",
+    "display_id": "1110833126",
+    "title": "2026/03/18 ENV subcommittee A (Part 1)",
+    "description": "Wednesday, 18 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nEnvironment Southland\nJeremy McPhail, Chairperson\nPhil Morrison, Deputy Chair\nNZ Notable Trees Trust Incorporated\nBrad Cadwallader\nHastings District Council\nWendy Schollum, Mayor\nCaleb Sutton, Manager Resource Consents\nElectricity Sector Environment Group\nMartin Williams, Barrister\nKristina Healy, Principal Planner and Policy Advisor, Mercury NZ Limited\nChris Drayton, Specialist - Consenting and Resource Management, Generation & Development, Contact Energy Limited\nWaikato District Council\nAksel Bech, Mayor\nWill Gauntlett, GM Strategy and Growth\nTuwharetoa Maori Trust Board\nRakeipoho Taiaroa, CEO\nMaia Wikaira, Technical Advisor\nPeter Shepherd, Natural Resources Manager\nChristchurch Airport\nMichael Singlton\nJesse Aimer\nHistoric Places Aotearoa\nElizabeth Pishief\nHerne Bay Residents Association\nDon Mathieson, Chair\nSally Hughes\nNZ Minerals Council\nJosie Vidal, Chief Executive\nJeremy Harding\nRetirement Villages Association of New Zealand\nMichelle Palmer, Executive Director\nJoe Bartley, Senior Development Manager, Metlifecare\nKiwiRail Holdings Limited\nDavid Gordon, Chief Metro and Capital Programme Officer\nMarija Batistich, Senior Corporate Counsel\nMichelle Grinlinton-Hancock, Manager (RMA Team)\nNew Zealand Property Investors Association\nMatt Ball, PR & Advocacy Manager",
+    "webpage_url": "https://vimeo.com/1110833126",
+    "original_url": "https://vimeo.com/1110833126",
+    "upload_date": "20260317",
+    "timestamp": 1773788353,
+    "release_timestamp": 1773788371,
+    "duration": 12155,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2135207583-59ad9bf99e830c08b9f9cb4e3eeb74aa3492879805aa9727e1d4a78460ae4783-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288724458.vtt?expires=1778506118&sig=c45d0ba71686528d97d6b05145d2387446bdbf44&download=auto_generated_captions.vtt"
+  }
+}

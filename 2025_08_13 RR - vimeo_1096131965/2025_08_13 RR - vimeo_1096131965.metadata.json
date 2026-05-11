@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:08:08.294376+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1096131965",
+  "title": "2025/08/13 RR",
+  "url": "https://vimeo.com/1096131965",
+  "published_at": "20250813",
+  "published_display": "2025-08-13",
+  "duration_seconds": 1915,
+  "source_labels": "Vimeo Showcase 10828818",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1909.92,
+    "segment_count": 756,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025_08_13 RR - vimeo_1096131965\\2025_08_13 RR - vimeo_1096131965.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1096131965",
+    "display_id": "1096131965",
+    "title": "2025/08/13 RR",
+    "description": "Complaint about the Airports (Cost Recovery for Processing of International Travellers) Regulations 2025\n\nDunedin International Airport Limited\nDaniel De Bono, Chief Executive\nCraig Shrive, Legal counsel - Russell McVeagh\n\nMinistry for Primary Industries\nDiane McDermott, Commissioner Central / South\nStuart Anderson, DDG Biosecurity New Zealand\nMary Craythrone, Manager Biosecurity System Policy",
+    "webpage_url": "https://vimeo.com/1096131965",
+    "original_url": "https://vimeo.com/1096131965",
+    "upload_date": "20250813",
+    "timestamp": 1755058919,
+    "release_timestamp": 1755058926,
+    "duration": 1915,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2047102080-9f320d71d490218cc8688332d5156d7141eac00c10f353b8b32aa147bf37bac9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/247592472.vtt?expires=1778504892&sig=f98ce3c5ae507c4d3a4425933a90fb9714d5b2e0&download=auto_generated_captions.vtt"
+  }
+}

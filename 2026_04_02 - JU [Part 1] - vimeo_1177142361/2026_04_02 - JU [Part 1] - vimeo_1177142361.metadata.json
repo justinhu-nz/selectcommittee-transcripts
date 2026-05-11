@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:31.450677+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1177142361",
+  "title": "2026/04/02 - JU [Part 1]",
+  "url": "https://vimeo.com/1177142361",
+  "published_at": "20260401",
+  "published_display": "2026-04-01",
+  "duration_seconds": 2763,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2750.91,
+    "segment_count": 869,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_02 - JU [Part 1] - vimeo_1177142361\\2026_04_02 - JU [Part 1] - vimeo_1177142361.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1177142361",
+    "display_id": "1177142361",
+    "title": "2026/04/02 - JU [Part 1]",
+    "description": "Thursday, 2 April 2026 | Justice Committee\n\nEnglish Language Bill \n\nHearing of Evidence\nSubmitters:\n\nMiguel Tanongon \nJosh Harford \nYou Zhou \nDianne Downward \nOwen Hughes \nReoPol Limited  \n\nDr Vincent Olsen-Reeder, Director \n\n\nInquiry into the 2025 Local Elections \n\nHearing of Evidence\nSubmitters:\n\nNick Smith \nLocal Government New Zealand  \n\nMayor Rehette Stoltz, President, LGNZ  \nMayor Nick Smith, Chair Electoral Reform Working Group, LGNZ  \nSimon Randall, Director Policy, LGNZ",
+    "webpage_url": "https://vimeo.com/1177142361",
+    "original_url": "https://vimeo.com/1177142361",
+    "upload_date": "20260401",
+    "timestamp": 1775074054,
+    "release_timestamp": 1775074063,
+    "duration": 2763,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2141269886-70fbc7dd60b21bfa393b60d77187744c2e3ad359b36c2479ba6c11b1f08ba51f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291951787.vtt?expires=1778504735&sig=351ad8edd00618e9a35eca465d1c6b793d4c9818&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T10:11:13.256187+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1006816862",
+  "title": "2024/11/21 - PBC",
+  "url": "https://vimeo.com/1006816862",
+  "published_at": "20241121",
+  "published_display": "2024-11-21",
+  "duration_seconds": 6965,
+  "source_labels": "Vimeo Showcase 11351786",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6953.14,
+    "segment_count": 2308,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2024_11_21 - PBC - vimeo_1006816862\\2024_11_21 - PBC - vimeo_1006816862.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1006816862",
+    "display_id": "1006816862",
+    "title": "2024/11/21 - PBC",
+    "description": "Thursday, 21 November 2024 | Parliament Bill Committee\n\nParliament Bill\n\nHearing of Evidence:\n\nTaxpayers' Union\u00a0\n\tJordan Williams, Executive Director\u00a0\n\tJames Ross, Policy and Public Affairs Manager\u00a0\n\tRay Deacon, Economist\u00a0\nNeville Watkin\nAnna L Muir\nPhilippa Yasbek\u00a0\nTrust Democracy\u00a0\n\tSimon Wright, Chair\u00a0\nBenjamin Easton\u00a0\nBrent Acker naish\nWendy McDiarmid\nChristopher Finlayson\nPYLAT - Pacific Youth Leadership and Transformation Trust\n\tRiki\u00a0Welsh\nParliamentary Press Gallery\u00a0\n\tJason Walls, Press Gallery Chairman (Newstalk ZB Political Editor)\u00a0\n\tMarc Daalder, Senior Political Reporter, Newsroom\u00a0\nHealth Coalition Aotearoa\n\tBoyd Swinburn, Co-Chair of Health Coalition Aotearoa\u00a0\ntheFacts\n\tGeoff Neal\u00a0",
+    "webpage_url": "https://vimeo.com/1006816862",
+    "original_url": "https://vimeo.com/1006816862",
+    "upload_date": "20241121",
+    "timestamp": 1732164509,
+    "release_timestamp": 1732164657,
+    "duration": 6965,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1971253134-3b3b982c524ef2bbf7f70a7f37a3469a86aaf7a540594162a61c56d38258dcfe-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/197889936.vtt?expires=1778501477&sig=b7e36eb336ad319fc9c36d999288c3a215ff03b4&download=auto_generated_captions.vtt"
+  }
+}

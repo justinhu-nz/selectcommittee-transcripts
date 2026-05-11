@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T10:11:23.612035+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1006814604",
+  "title": "2024/11/07 - PBC",
+  "url": "https://vimeo.com/1006814604",
+  "published_at": "20241107",
+  "published_display": "2024-11-07",
+  "duration_seconds": 5837,
+  "source_labels": "Vimeo Showcase 11351786",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5816.12,
+    "segment_count": 2120,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2024_11_07 - PBC - vimeo_1006814604\\2024_11_07 - PBC - vimeo_1006814604.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1006814604",
+    "display_id": "1006814604",
+    "title": "2024/11/07 - PBC",
+    "description": "Thursday, 7 November 2024 | Parliament Bill Committee\n\nParliament Bill\n\nHearing of Evidence: \n\nManuel Pou Family Whanau Trust\u00a0\nEzra Shaw\u00a0\nPublic Service Association | Te Pukenga Here Tikanga Mahi\u00a0\nGraeme Edgeler\u00a0\nNew Zealand Law Society | Te Kahui Ture o Aotearoa\u00a0\nSir Geoffrey Palmer and Sir Kenneth Keith\u00a0",
+    "webpage_url": "https://vimeo.com/1006814604",
+    "original_url": "https://vimeo.com/1006814604",
+    "upload_date": "20241107",
+    "timestamp": 1730954968,
+    "release_timestamp": 1730955124,
+    "duration": 5837,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1947066561-30b63044183ffb05eb060fceef655088b20da6a365b57937992de97812107f0d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/194964185.vtt?expires=1778501487&sig=4be5b7370e89ea7a95795ba849aa134b3de56eeb&download=auto_generated_captions.vtt"
+  }
+}

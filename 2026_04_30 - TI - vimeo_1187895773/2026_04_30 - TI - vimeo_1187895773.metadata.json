@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:08:35.690449+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187895773",
+  "title": "2026/04/30 - TI",
+  "url": "https://vimeo.com/1187895773",
+  "published_at": "20260430",
+  "published_display": "2026-04-30",
+  "duration_seconds": 2061,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2058.88,
+    "segment_count": 729,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_30 - TI - vimeo_1187895773\\2026_04_30 - TI - vimeo_1187895773.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187895773",
+    "display_id": "1187895773",
+    "title": "2026/04/30 - TI",
+    "description": "30 April 2026 | Transport and Infrastructure Committee\nReview briefing on the 2024/25 annual review of City Rail Link Limited\nCity Rail Link Limited\nJohn Bridgman, Chair\nPatrick Brockie, Chief Executive",
+    "webpage_url": "https://vimeo.com/1187895773",
+    "original_url": "https://vimeo.com/1187895773",
+    "upload_date": "20260430",
+    "timestamp": 1777507877,
+    "release_timestamp": 1777507885,
+    "duration": 2061,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2152038632-30c2ced3075670fdf6f41e4848aefbe7ea86dcc7c9703d253e638574131b8a2c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297730290.vtt?expires=1778504919&sig=8f433e7572b1ba66a39949d29fb30214e558c0c3&download=auto_generated_captions.vtt"
+  }
+}

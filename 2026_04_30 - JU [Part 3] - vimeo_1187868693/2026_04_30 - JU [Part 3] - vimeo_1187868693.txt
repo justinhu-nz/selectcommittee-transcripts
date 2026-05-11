@@ -1,0 +1,623 @@
+Title: 2026/04/30 - JU [Part 3]
+URL: https://vimeo.com/1187868693
+Published: 2026-04-29
+Duration: 00:32:00
+
+[00:00:08] Right. Are we there?
+[00:00:09] I see the webinar is live streaming. Must be. All right, Mr.
+[00:00:13] Heslet, five minutes with you. Thank you.
+[00:00:17] In my
+[00:00:19] profes-
+[00:00:21] Sorry. There's a lot of feedback.
+[00:00:22] Can we just It's
+[00:00:23] better off putting...
+[00:00:29] Is that working now?
+[00:00:30] Okay, cool.
+[00:00:31] In my professional opinion, this legislation is
+[00:00:35] premature.
+[00:00:37] As background, I'm Emeritus Professor of Statistics at Massey
+[00:00:41] University. I've been Professor of Statistics at the
+[00:00:45] Australian National University.
+[00:00:47] I've been a professorial fellow
+[00:00:51] in the National Institute of Advanced Research and Statistics at the
+[00:00:55] University of Wollongong.
+[00:00:57] I've worked internationally,
+[00:01:00] principally for the United Nations over the last twenty-five years.
+[00:01:04] If you look at my submission, I've listed
+[00:01:07] two dozen countries I've worked in.
+[00:01:09] I've worked in government statistics departments in these places or with them.
+[00:01:14] So my experience is principally around the
+[00:01:18] methodology.
+[00:01:20] And
+[00:01:21] although
+[00:01:23] you have a bill in front of you, the bill actually is
+[00:01:27] going to be very difficult to bring to fruition in terms of
+[00:01:31] what it's going to produce because the methodology is underdeveloped.
+[00:01:36] My strong recommendation
+[00:01:39] is
+[00:01:40] that you set up an expert committee,
+[00:01:44] including international methodologists, and not
+[00:01:48] like the Stats NZ committee, which they set up, which
+[00:01:51] contained no methodologist.
+[00:01:54] It contained a statistician without any experience in official statistics.
+[00:01:59] So what they produced is useful but
+[00:02:03] inadequate for purpose.
+[00:02:05] So Stats NZ have plans,
+[00:02:08] and their plans are partly outlined in a document
+[00:02:12] they produced
+[00:02:15] called, "Creating Household and Family Information from Administrative Data:
+[00:02:19] Progress, Limitations, and the Next Census,"
+[00:02:23] March 2026.
+[00:02:25] In it, among other things, they mention
+[00:02:29] that in terms of being able to match the 2023
+[00:02:33] census with the type of administrative data that is
+[00:02:37] available to them at present,
+[00:02:40] they are only able to match households
+[00:02:43] exactly for 50% of the population, half the
+[00:02:47] population. In other words, half the households are not
+[00:02:51] correct.
+[00:02:52] And your planning, or I don't know whether it's you, the plan is to move
+[00:02:56] down this path and produce data which is clearly not
+[00:03:00] equivalent to a census.
+[00:03:03] New Zealand, if it moves in this direction, is completely alone.
+[00:03:07] There is no country internationally that's doing this.
+[00:03:10] There is moves to use administrative data, but the idea of using administrative
+[00:03:13] data as a primary source is not used
+[00:03:17] anywhere.
+[00:03:20] So brave or foolish, you'll have to decide,
+[00:03:23] but I suggest that you're moving, and this bill is moving
+[00:03:26] prematurely towards something that has been talked about for
+[00:03:30] 20 years internationally and abandoned in a number of countries.
+[00:03:36] Egg on the face is the risk.
+[00:03:40] The cost of the census previously, the last two censuses, both government
+[00:03:44] statisticians involved
+[00:03:46] resigned.
+[00:03:48] They were not statisticians.
+[00:03:51] They were government appointees or
+[00:03:54] public service appointees
+[00:03:57] without the necessary skills to do the job.
+[00:04:02] They probably didn't listen either,
+[00:04:05] and so the cost overruns in 2023 are a result of an appointment,
+[00:04:10] and they are the result of not listening to some of the expert advice that is
+[00:04:14] in Stats NZ.
+[00:04:17] So Professor,
+[00:04:19] I would like to
+[00:04:22] ask you a question.
+[00:04:24] Yeah, sure.
+[00:04:24] So
+[00:04:28] your contention is that the
+[00:04:31] methodology's flawed.
+[00:04:34] When you talk about going to a reference group and
+[00:04:38] doing all that sort of stuff and basically delaying it, but
+[00:04:41] with all your experience,
+[00:04:44] do you think the methodology can be made to work that there's a
+[00:04:48] much higher confidence level rather than 50%, but maybe 90% or
+[00:04:52] whatever? How
+[00:04:55] would you go about improving the methodology, or are you just
+[00:04:58] generally opposed to the administration-style new approach of using
+[00:05:02] administration data?
+[00:05:04] I'm not opposed to using administrative data.
+[00:05:07] The current IDI, Integrated Data-
+[00:05:11] Yeah
+[00:05:11] ... System-
+[00:05:12] Yeah
+[00:05:12] ... has as its backbone the census,
+[00:05:16] a field-based census, and if you take it out, Stats NZ,
+[00:05:19] when you take it out, they'll call what's left a spine.
+[00:05:23] But the spine is not what I would call a backbone.
+[00:05:27] I know it's choice of words.
+[00:05:28] Yeah.
+[00:05:28] I had to choose another.
+[00:05:29] I get that. It's fine.
+[00:05:30] But it's not a backbone because it doesn't contain the rich information that a
+[00:05:33] census contains. It's information from different
+[00:05:37] databases at different dates. I know you've got a counting date,
+[00:05:41] but it's a legal fiction in many ways because the
+[00:05:44] data comes from-
+[00:05:45] Yeah. So you-
+[00:05:45] ... different databases with different ages, with different quality of information.
+[00:05:49] Okay. So if I infer from what you answer there,
+[00:05:54] and I'm not trying to be contentious.
+[00:05:55] No.
+[00:05:55] I'm just asking.
+[00:05:58] Yeah.
+[00:05:58] You're saying without a census to create the backbone,
+[00:06:02] um... you're
+[00:06:05] going to have, we're going to have trouble getting reliable data.
+[00:06:09] My point is,
+[00:06:11] could you see a way of using admin data
+[00:06:15] to create a backbone
+[00:06:17] through better methodology? That's my real point.
+[00:06:22] No other country has succeeded yet.
+[00:06:27] I think it needs more work, and I think that's why I think you need to be
+[00:06:31] aware of the steps that if you're moving in that direction, the steps you're
+[00:06:35] taking.
+[00:06:36] Okay. We've got Mr. Stevenson next.
+[00:06:38] Thanks, Professor. I'm only kidding.
+[00:06:40] Yeah.
+[00:06:40] Thanks for your submission.
+[00:06:41] Yeah.
+[00:06:41] A quick question. Yeah, obviously this administrative data is available today.
+[00:06:46] Have you done or are you aware of any work where it's compared
+[00:06:50] the administrative data available today via Stats New Zealand and,
+[00:06:55] say, the last census-
+[00:06:56] Yes
+[00:06:56] ... or the census before that, and what the-
+[00:06:58] Yeah
+[00:06:58] ... the variate or, yeah.
+[00:06:59] So that-
+[00:07:00] How much that aligns? Yeah
+[00:07:01] So that was why I mentioned this report from Stats New Zealand, this creating
+[00:07:05] household and family information through administrative data, and why
+[00:07:09] I mentioned that to match the families exactly, they've succeeded only
+[00:07:13] with 50% of households.
+[00:07:15] Now, one of the consequences of this for the electoral thing is that there's a lot
+[00:07:19] of mismatch. There are households which appear in the administrative data that
+[00:07:23] don't appear in the census, and vice versa.
+[00:07:26] This means that actually counting people is going to be extremely difficult.
+[00:07:31] Counting people accurately is going to be difficult.
+[00:07:34] Setting electoral boundaries is going to be very tough.
+[00:07:38] And for those of you who are in parliament, you're not going to get,
+[00:07:42] although this is peripheral, I suppose, you're not going to get detailed
+[00:07:45] information about your electorate anymore.
+[00:07:48] You may get some general information about it, but if you're interested in
+[00:07:51] subgroups within the electorate, I'm sorry,
+[00:07:55] not there.
+[00:07:57] Yeah. Okay, I've got Madam Bennett.
+[00:08:00] Yeah, sure.
+[00:08:00] Just in terms of the alternative.
+[00:08:02] Yeah.
+[00:08:04] We've heard that the current census, as it is set up at the moment,
+[00:08:08] maintaining that moving forward is not sustainable.
+[00:08:12] Is that a view that you share, or do you believe
+[00:08:16] that there would be a way to continue the current model,
+[00:08:20] as opposed to using this administrative data?
+[00:08:23] If you want my professional advice, you'd be ill-advised to do anything other than
+[00:08:27] a field-based census next time round.
+[00:08:30] It would create the time to start thinking through what it is
+[00:08:34] that's needed if you're going to move to a system that's a little more like this.
+[00:08:38] But there is no country in the world that doesn't either do a field-based
+[00:08:42] census or
+[00:08:45] have a register, as they have in Scandinavian countries.
+[00:08:48] We have no register. Stats New Zealand will claim they have a spine,
+[00:08:52] which is made up of not a register, but a sort of
+[00:08:56] collection of administrative data sources that have got different IDs and
+[00:09:00] different types of information which are mysteriously put together to produce
+[00:09:04] one animal, despite the fact they're really the backbones of three different cats.
+[00:09:09] By register you mean
+[00:09:10] some kind of list of every person-
+[00:09:12] Yeah
+[00:09:12] ... who's currently in the country.
+[00:09:13] Absolutely. Absolutely, and that's what Scandinavia do.
+[00:09:17] The Scandinavian countries do. And they don't run a
+[00:09:20] field-based census because they can use that as a backbone or a spine
+[00:09:24] to put the information from the surveys on.
+[00:09:27] In New Zealand, we're going to do a survey which is actually not as big as you
+[00:09:31] think it is. It's going to struggle to give reasonable information for
+[00:09:34] small groups,
+[00:09:36] and
+[00:09:38] it's not going to have
+[00:09:40] that information either from a register or a field-based census.
+[00:09:44] Yeah. I take the point that it won't have
+[00:09:48] a lot of detail, but it's incorrect to say,
+[00:09:52] isn't it, Professor, that they're not going to do field surveys, they're just going
+[00:09:56] to do smaller tailored surveys.
+[00:09:59] Yes, I know, but that's a survey and not a census.
+[00:10:01] It's at most 5% of the population. What about the other
+[00:10:05] 95%? It can be used to calculate estimates with a
+[00:10:09] given accuracy for large subgroups, but it's not going to give you
+[00:10:13] detailed information. Certainly not for individuals-
+[00:10:16] Yeah
+[00:10:16] ... certainly not for groups, for example, within electorates.
+[00:10:19] So we just-
+[00:10:20] It's just not going to be possible anymore.
+[00:10:21] Right. Yeah, and I take that point, that it's going to be not as much data.
+[00:10:25] But if you're doing a 60,000
+[00:10:29] person survey type stuff,
+[00:10:31] the confidence level, what's your
+[00:10:35] deviation on things like that? Are you saying that
+[00:10:39] can
+[00:10:41] that be seen as representative of
+[00:10:43] the broader data around-
+[00:10:45] Yeah
+[00:10:47] how many people are in the country, for instance, or what nationality are they,
+[00:10:50] what ethnicity they are?
+[00:10:54] I think I'll stay away from ethnicity for the moment.
+[00:10:56] That's a whole-
+[00:10:57] Yeah
+[00:10:57] ... half hour.
+[00:10:59] Except to say that different databases record ethnicity differently, and when
+[00:11:03] you're trying to amalgamate them, there's open questions about how you might do
+[00:11:06] that. You say 60,000 people,
+[00:11:10] and in fact, Stats New Zealand will say over the course of five years they might
+[00:11:14] have 250,000.
+[00:11:16] Yeah.
+[00:11:16] So the first question I'd have for you is, what period does this apply for?
+[00:11:19] What year does this apply for if you're putting five years' data together?
+[00:11:23] It's certainly not a counting day.
+[00:11:25] And the other part of this is that people want information for subgroups,
+[00:11:29] and I'll stay with electorates. Let's say, very roughly,
+[00:11:33] 120 electorates. You divide 120
+[00:11:35] into the-
+[00:11:38] I don't know
+[00:11:38] ... 250,000.
+[00:11:39] Yeah.
+[00:11:39] You now got 2,000 people over the course of five years.
+[00:11:43] That's 400 a year. You don't get very good accuracy from 400 a
+[00:11:47] year, even at electorate level. When you look at subgroups, you'll find
+[00:11:51] you're in trouble.
+[00:11:53] Okay.
+[00:11:54] All right. Hayden, well, thank you for your submission.
+[00:11:56] It's been
+[00:11:57] an interesting start to public submissions on this.
+[00:12:00] Yeah.
+[00:12:01] But thank you for coming.
+[00:12:01] Yeah. Thank you. I think I may be unusual in that most of the people, apart from
+[00:12:05] Stats New Zealand, who turn up
+[00:12:08] I won't have any sociological comment.
+[00:12:10] Yeah. Cool. Thank you.
+[00:12:12] Right. Thank you. Now, we're going to Craig.
+[00:12:15] He is online.
+[00:12:16] All right.
+[00:12:18] Mr. Atkinson, are you with us?
+[00:12:20] Yeah.
+[00:12:22] He's late.
+[00:12:23] Cool.
+[00:12:23] Connection.
+[00:12:24] Yeah.
+[00:12:30] Craig, are you there?
+[00:12:32] Wait for him.
+[00:12:34] He'll appear.
+[00:12:39] All right. Here we go.
+[00:12:40] Yeah.
+[00:12:40] Hey.
+[00:12:42] Good morning. Still morning. We've got five minutes with you.
+[00:12:46] Yeah. Just wanting the clarification.
+[00:12:49] It's about the electorate boundaries isn't it?
+[00:12:51] The statistics ones next week.
+[00:12:55] Yeah. We've got different timings.
+[00:12:58] We've got stuff next week and the following week. Yep.
+[00:13:01] Oh, yeah. Just because the first one just sounded more about the statistics than
+[00:13:05] the electorate boundaries.
+[00:13:07] That's all. Just confirming that. Yeah.
+[00:13:09] So yeah, for the electorate boundaries and the altering of
+[00:13:13] what the... I think it's a play straight out of Margaret
+[00:13:17] Thatcher's playbook,
+[00:13:19] where basically they
+[00:13:21] would remove areas that they'd know votes one way
+[00:13:25] to a different area just to tip the numbers and set the pack of
+[00:13:29] cards before the election goes.
+[00:13:34] Yeah. I'm very questionable about when it sat in front of a
+[00:13:37] Justice Select Committee when you're going to say you've all got a conflict of
+[00:13:41] interest and that, it comes across more, and I'd
+[00:13:45] put the word in front of the Justice Select Committee, all dodgy.
+[00:13:49] And
+[00:13:50] so we could rename you the Dodgy
+[00:13:53] Justice Select Committee, because it don't come across when you're wanting to alter
+[00:13:57] boundaries where boundaries are fixed and they stay, when you're only
+[00:14:01] doing it for an election thing. And how it refers to with the
+[00:14:05] statistics, the information that we collect then through algorithms
+[00:14:09] then gives you a better percentage of where people are going to vote.
+[00:14:13] So
+[00:14:14] yeah. I think it's an election cycle,
+[00:14:17] isn't it? So that's my submission.
+[00:14:21] All right. Thank you for that. What I would say to you is that
+[00:14:25] under previous elections, and
+[00:14:29] there is a standard approach where there's an
+[00:14:32] electoral commission that looks at the
+[00:14:36] boundaries, and that's assessed every time prior to the election.
+[00:14:39] We have no role in that.
+[00:14:40] There's no
+[00:14:41] change to that situation. And as MPs, we are not involved in that
+[00:14:45] personally.
+[00:14:46] So that's an outside appointments for that process.
+[00:14:49] So that doesn't change under this bill, but that's a different point.
+[00:14:54] Anyone else got any questions for Mr. Atkinson?
+[00:14:57] All right. Hey, thank you for your submission this morning.
+[00:15:00] Cool.
+[00:15:01] You look like you're in a sunny place.
+[00:15:02] Thank you.
+[00:15:02] Sounds great.
+[00:15:03] It might, yeah.
+[00:15:04] Looks good. Okay. Thank you.
+[00:15:05] Thank you. Bye-bye.
+[00:15:07] Right. Now,
+[00:15:08] we have
+[00:15:10] Eva who hadn't-
+[00:15:11] No, Jasmine.
+[00:15:13] Right. Jasmine Richardson, are you available?
+[00:15:17] She's waiting.
+[00:15:18] Oh, yeah, of course.
+[00:15:22] And Max Marshall,
+[00:15:24] you could come up and do some preparation, if you don't mind.
+[00:15:32] Jasmine, are you with us?
+[00:15:41] Sorry.
+[00:15:42] Just wait there. Yeah, just sit there. Just sit there.
+[00:15:45] Ready, just in preparation.
+[00:15:46] Poised.
+[00:15:47] Poised. Yeah.
+[00:15:49] Jasmine, are you there with us?
+[00:15:52] All right, cool.
+[00:16:01] Good morning. How are you? Your mute is on.
+[00:16:05] Unmute?
+[00:16:06] All right. We can hear you.
+[00:16:07] Okay.
+[00:16:07] Thank you.
+[00:16:08] Okay.
+[00:16:08] Now we've got five minutes with you, so looking forward to hearing what you've got
+[00:16:11] to say.
+[00:16:13] Oh, yes. Thank you. I just wanted to,
+[00:16:17] I guess, probably reiterate what other people have already said.
+[00:16:21] I'm worried about people who go out
+[00:16:24] and are not enrolled but want to go and vote on the
+[00:16:28] day or a few days before, and won't be able to if
+[00:16:32] these changes take effect. I'm worried about that being a lot of young
+[00:16:36] people, Maori, Pacifica.
+[00:16:39] I guess people who I feel that I can relate to and
+[00:16:42] believe I would want to know who they would want to...
+[00:16:45] Well, I wouldn't want to know, but I would want them to have had their say and tick
+[00:16:48] their box about, I guess, the people who will lead our country.
+[00:16:54] And yes, that's it.
+[00:16:57] Hey, thank
+[00:16:59] you, Jasmine. Unfortunately, I think that what you're relating, what
+[00:17:03] you're talking about there is not under the electoral boundary, but actually under
+[00:17:06] the-
+[00:17:07] Electoral Memora-
+[00:17:08] ... Electoral Memora. But it's under the other bill that we're looking at,
+[00:17:13] and that we've considered.
+[00:17:14] Yeah. That's for this committee.
+[00:17:15] But
+[00:17:16] thank you for those comments. Anyone else got any
+[00:17:20] questions for Jasmine?
+[00:17:23] Mm.
+[00:17:24] All right.
+[00:17:25] Thank you.
+[00:17:25] Thank you very much for a very succinct presentation. But that's good.
+[00:17:29] Good to hear, and I think everyone recognizes the need for
+[00:17:33] democracy to work and practice and then action. So thank you for those comments.
+[00:17:38] Yeah.
+[00:17:39] Right. Now, Mr. Marshall-
+[00:17:41] Yes
+[00:17:41] ... you're here with us?
+[00:17:42] Yes. Yes.
+[00:17:44] Yeah. Hi. Thank you everyone. Thank you
+[00:17:49] for giving me the opportunity to speak.
+[00:17:53] I want to talk about the Electoral Bill.
+[00:17:56] I take it my submission is read,
+[00:17:59] my written submission.
+[00:18:01] There is an underlying malaise of our political system
+[00:18:06] that, in the drawing up of electoral boundaries, not only
+[00:18:09] accentuates but also entrenches.
+[00:18:13] The electorate boundaries demarcate
+[00:18:16] go-Demarcation along lines of economic and political
+[00:18:20] disparity between the main centers and regions
+[00:18:24] concentrate more political and economic contribution
+[00:18:28] or power in the core
+[00:18:31] centers at the expense of the regions.
+[00:18:36] There has been a gap between the urban centers and regions
+[00:18:41] described by theorists as the core and
+[00:18:45] periphery.
+[00:18:47] But not just
+[00:18:48] disparity in resources, but also political
+[00:18:52] power.
+[00:18:54] This becomes even more pronounced at national level,
+[00:18:58] and even more so in political contexts.
+[00:19:02] In this disparity between urban and regional, how well we
+[00:19:06] prosper or even whether our existence in the future may depend on our
+[00:19:09] ability to better integrate the two parts together
+[00:19:13] so that not one party is comparatively worse
+[00:19:16] off.
+[00:19:18] The framework of the unitary state exists in form in New
+[00:19:22] Zealand, and where necessary
+[00:19:26] expedient. But in practical terms and under normal conditions, it does
+[00:19:30] not operate towards reconciling the two halves.
+[00:19:35] Underlying many issues of race, gender, and class, there is
+[00:19:39] one common denominator, and it is this dynamic
+[00:19:43] of this stratification.
+[00:19:46] Insecurity for oneself or one's individual group in
+[00:19:50] any of these categories, if analyzed deeply, has this conflict
+[00:19:54] as its key driver.
+[00:19:56] Peter Spurney credits the loss at the last
+[00:20:00] election in part as being the inability of the last government to
+[00:20:03] recognize the needs of the regions, much less listen to them.
+[00:20:07] Take the unaffordable cost of flight travel for regions.
+[00:20:12] No viable solution has been offered, at least from the
+[00:20:15] states. Much more though,
+[00:20:21] this threatens to degrade
+[00:20:24] our tradition of liberal democracy.
+[00:20:29] It comes as no surprise that in the last decades,
+[00:20:33] governments and their officials have been hostile to public planning in terms of
+[00:20:36] some national interest.
+[00:20:39] This exchange of resources becomes political.
+[00:20:42] Urban dwellers may require access to resources
+[00:20:46] from a local region. For the regional dweller, he
+[00:20:50] faces other challenges in form of increased costs
+[00:20:54] associated with maintaining the system for the
+[00:20:57] resources and will seek support from the government, who is by
+[00:21:01] proxy the urban dweller.
+[00:21:04] The next point is secondary, but still important.
+[00:21:08] How important is it that any system does not perpetuate
+[00:21:12] itself by being mapped onto existing patterns
+[00:21:16] of existing stratifications of
+[00:21:19] socioeconomic spatial inequality?
+[00:21:22] Both major parties have a political character which favors
+[00:21:26] interests of different groups. This political
+[00:21:29] tribalism is at the expense of any view of attempted
+[00:21:34] national interest or common good, and it leaves us divided
+[00:21:37] and fragmented at best.
+[00:21:41] The drawing up of any new election must be drawn up along
+[00:21:45] lines of political neutrality which divert from following the demographic
+[00:21:49] outlines in which these interests could be captured within the populations
+[00:21:53] inside their boundaries. I fear without more
+[00:21:57] flexibility to apply a more proportionate system
+[00:22:01] through the design of boundaries,
+[00:22:03] without such measures will lead to further loss of trust between the
+[00:22:07] two sides as its upshot.
+[00:22:10] Right. Thank you very much. I've got a question from Mr Rosewarne.
+[00:22:13] Thanks, Max. You opened up your contribution to urban regional
+[00:22:17] gap, and I was just wondering what safeguards do you think
+[00:22:21] are necessary to ensure that changes to boundary setting rules
+[00:22:25] cannot be used to advantage the government of the day?
+[00:22:30] It's a really difficult one, and I think it's
+[00:22:34] a perennial question.
+[00:22:36] How do you
+[00:22:40] manage the problem of majoritarianism where you have
+[00:22:46] voting
+[00:22:50] on most of your centers, most of your population is going to be in the main
+[00:22:53] centers, and it's been that way since, I think, 1960s there
+[00:22:57] was that shift, or
+[00:22:59] 1940, just before the Second
+[00:23:03] World War. So this is a problem that we're going to have to struggle with.
+[00:23:07] But it's a challenge,
+[00:23:12] reconciling
+[00:23:14] this problem.
+[00:23:17] But that's sort of part of what democracy is.
+[00:23:19] It's this process.
+[00:23:23] All right. Hey, thank you for a very thoughtful presentation.
+[00:23:27] Okay.
+[00:23:29] It's a conundrum, isn't it? Because
+[00:23:33] where people seek to live and choose to live, I should say,
+[00:23:38] you have natural concentrations, which mean economic
+[00:23:42] power and all those other things. But
+[00:23:44] trying to devise something that is fair,
+[00:23:48] because there's two sides to that debate you're putting forward.
+[00:23:50] But thank you for that thoughtful presentation.
+[00:23:54] Right. Kay Jones, you're there, I see.
+[00:23:59] Thank you.
+[00:24:02] Yeah, we've got five minutes with you as well.
+[00:24:06] Just swap into a better chair.
+[00:24:12] Kia ora, members of the committee.
+[00:24:14] Thank you for the opportunity to appearOh, Kay
+[00:24:18] Jones, .
+[00:24:21] I'm a fifth-generation Pakeha New Zealander with Scottish, Shetland,
+[00:24:25] and English heritage, and with Maori whanau.
+[00:24:28] I understand you've read my submission.
+[00:24:31] It was very short because I focused more on the data and statistics one,
+[00:24:35] and since that time, I've been considering other points.
+[00:24:38] Usually, when I present before you, I talk of my own experience.
+[00:24:42] And I could talk about working on the local government commission and going to
+[00:24:45] areas and listening to people presenting on why the boundaries
+[00:24:49] of their areas should be changed or not for voting purposes.
+[00:24:53] But today, I would prefer to
+[00:24:56] quote other people, friends, friends of friends, and from
+[00:25:00] documents that you should have read.
+[00:25:06] You'll remember the recent apologies that the government gave to survivors of
+[00:25:09] abuse in state care.
+[00:25:12] Survivors describe their feelings thus: "We have been
+[00:25:16] disconnected from our being, like a stranger in our country,
+[00:25:20] alienated from family and heritage, born into a world innocent and
+[00:25:24] free, oblivious to systemic behavior which has denied and
+[00:25:28] exhausted and extinguished our flame of hope."
+[00:25:31] In his apology, Prime Minister Luxon said, "Many of
+[00:25:35] you were denied knowledge of what happened to you because record keeping
+[00:25:39] during your time in care was so poor or
+[00:25:43] deliberately inaccurate.
+[00:25:45] Your own personal information was often withheld,
+[00:25:49] destroyed, lost, or wrong or incomplete.
+[00:25:53] Often, there was no record of your ethnic origins, your family and
+[00:25:57] whanau, the harm you experienced, the complaints you made, your
+[00:26:00] medical treatments, or what social workers said about you."
+[00:26:05] Labor leader Chris Hipkins said, "Maori survivors
+[00:26:08] themselves found themselves in a system that inherently worked against
+[00:26:12] them and in care settings that were blatantly racist, suffering
+[00:26:16] severe abuse.
+[00:26:18] Many Maori survivors were made to feel whakam, shame at having
+[00:26:22] been stripped of their identity as Maori.
+[00:26:25] Whakapapa and mana motuhake were transgressed and people were
+[00:26:29] severed from their whanau."
+[00:26:33] And when we go on to look at, for example,
+[00:26:37] the NGOs that were advising
+[00:26:42] survivors on
+[00:26:45] appearing and putting their testimony, they recorded-
+[00:26:49] Okay, Kay. We're talking about the electoral boundaries-
+[00:26:52] Precisely. Record keeping not being consistent.
+[00:26:55] When we're talking about
+[00:26:58] a system of recognizing for the purposes
+[00:27:02] of defining electoral votes, somebody being on the Maori
+[00:27:06] roll, they first must know that they are Maori.
+[00:27:09] They must be able to prove it. They must be able to go onto that roll.
+[00:27:12] I have heard from rangatahi of their korou who was uplisted as a
+[00:27:16] child and who has no factual basis
+[00:27:20] for being on the Maori roll. They are visibly Maori in terms of
+[00:27:24] how we perceive that, but they do not have that
+[00:27:27] accurate data. Now, in a census, they can
+[00:27:31] self-identify. But when it comes to administrative data,
+[00:27:35] they are erased. Now, this is part of a process
+[00:27:39] of disenfranchisement. If people have
+[00:27:42] difficulty getting onto a roll, then that takes away
+[00:27:46] their right to vote in that area. If there is
+[00:27:50] already a large population of Maori that would be enough to
+[00:27:53] justify an eighth electoral seat, and you are
+[00:27:57] by postponing that for another five or more
+[00:28:01] years, you are also reducing-- You're saying these
+[00:28:05] votes have less value than those of people on the
+[00:28:09] general roll. So it is a push
+[00:28:13] for rangatahi registering for the first time or people considering,
+[00:28:17] I've never voted before and I'm in my 50s, but maybe I will this time.
+[00:28:21] When they make that choice of whether to be on the general roll or the Maori roll,
+[00:28:26] knowing that their vote is actually going to be counted more if they're
+[00:28:30] on the general roll may make a difference, or it
+[00:28:33] may make them so
+[00:28:37] disillusioned, angered, whatever.
+[00:28:39] The emotional import of being seen as less and being
+[00:28:42] excluded. So my reasons for referring back to the
+[00:28:46] survivors in state care system is because it was not just
+[00:28:50] abuse of people's physical and emotional
+[00:28:54] wellbeing. It was also an attack on their whakapapa, their connections to
+[00:28:58] their identity and their ability to prove that.
+[00:29:01] And this bill does the same thing through
+[00:29:05] the process that has been imposed to say, "We will
+[00:29:09] count less. We will defer. We will delay.
+[00:29:12] We will not count people." I'll stop there in case there's any questions.
+[00:29:15] Yes, I've got a question from Mr. Broth.
+[00:29:17] Thank you, and thank you, Kay. Point six of your submission says the
+[00:29:21] effect would be to restrict the representation of all Maori role
+[00:29:25] voters until 2032 or later. However, between
+[00:29:29] now and the boundaries review that just
+[00:29:32] concluded last year, if there was no change, there
+[00:29:36] wouldn't have been any change to the prospective boundaries for
+[00:29:40] Maori representation or general electorates, but before
+[00:29:44] 2032 anyway. So how does this bill go about
+[00:29:47] impacting on that?
+[00:29:48] Well, this bill says it will delay the count.
+[00:29:51] And if
+[00:29:53] census happened quickly and there was the count happening, then
+[00:29:56] that would be one of the factors. So I haven't got all the details in
+[00:30:00] front of me, but I know that when people say, "Oh, we will delay something for this
+[00:30:04] period of time." I'm a former public servant.
+[00:30:07] Saying, oh, we'll delay it till 2028 means it won't
+[00:30:11] actually happen till 2032. The delays
+[00:30:15] implicit in the system mean that less attention will be
+[00:30:18] given to that. And of course, we've also got those other factors that are
+[00:30:22] causing disenfranchisement, like the removal of voting rights
+[00:30:26] for prisoners, which if you are denied the right of-
+[00:30:30] Stop. That doesn't have anything to do with-
+[00:30:30] No, but that's what I'm saying. You can't just take one element.
+[00:30:33] I've got a supplementary question.
+[00:30:34] All right. Please, Pete.
+[00:30:34] Because that doesn't have anything to do with this bill.
+[00:30:38] What is changing through this piece of legislation that if it
+[00:30:42] weren't brought in, would impact Maori representation
+[00:30:45] for the 2032 election? Because the next boundary review
+[00:30:49] following what would've been the next census would have also changed
+[00:30:53] for the 2032 election. So what is changing?
+[00:30:57] Well, for one thing, what is changing is the messaging from government
+[00:31:03] about who counts and who gets to vote.
+[00:31:06] Correct.
+[00:31:07] Okay. All right. Pete, thank you
+[00:31:10] yet again for presenting to the committee,
+[00:31:13] and taking the time to turn up today.
+[00:31:14] Oh, well, I'll perhaps be able to answer more questions on this next week when I
+[00:31:18] come back for the Data and Statistics Bill.
+[00:31:20] Right. Okay. Thank you. Now, I have to ask
+[00:31:25] public members, professor and a few others,
+[00:31:28] Mr. Marshall as well, could you please leave the room?
+[00:31:31] We're going to go into a private session.
+[00:31:34] But thank you for all three of you for your contributions this morning.
+[00:31:38] Thank you.
+[00:31:40] Thank you.
+[00:31:42] Thank you. I hope you didn't teach me stats at Massey University.
+[00:31:45] Mm-hmm.
+[00:31:47] He clearly didn't teach you.
+[00:31:48] Take no responsibility.
+[00:31:51] All right, cool.

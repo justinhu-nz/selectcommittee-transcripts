@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:09:01.377551+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1172715447",
+  "title": "2026/03/12 - TI (Part 2 of 2)",
+  "url": "https://vimeo.com/1172715447",
+  "published_at": "20260312",
+  "published_display": "2026-03-12",
+  "duration_seconds": 7765,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7765.15,
+    "segment_count": 2810,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_12 - TI (Part 2 of 2) - vimeo_1172715447\\2026_03_12 - TI (Part 2 of 2) - vimeo_1172715447.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172715447",
+    "display_id": "1172715447",
+    "title": "2026/03/12 - TI (Part 2 of 2)",
+    "description": "12 March 2026 | Transport and Infrastructure Committee\nBuilding (Earthquake-prone Buildings) Amendment Bill\nLGNZ\n\nWilliam Blackler, Senior Policy Advisor\nMichael Ford, Mayor, Manawat\u016b District Council\n\nScentre (New Zealand) Limited (represented by Russell McVeagh)\n\nDayne Swansson\nOliver Fradd\n\nIona Pannett\nThe Body Corporate Chairs' Group Inc\n\nTim Jones\n\nRussell Lund\nSouthern Heritage Trust\n\nJo Galer\n\nNew Zealand Society for Earthquake Engineering\n\nPathmanathan Brabhaharan (Brabha), President\nDidier Prettings\n\nJulian Benito\nHeritage New Zealand\n\nDean White\n\nWhanganui Regional Heritage Trust\n\nBruce Dickson\nHelen Craig\n\nEngineering New Zealand\n\nDr Richard Templer\nTania Williams\nHamish McKenzie\n\nHolmes\n\nHamish McKenzie\nJohn Hare\n\nAnglican Diocese of Wellington\n\nStuart Goodin\nGuy Benton\nBen Pringle\n\nCoverWell\n\nDoug Martin\nGeraldine Murphy",
+    "webpage_url": "https://vimeo.com/1172715447",
+    "original_url": "https://vimeo.com/1172715447",
+    "upload_date": "20260312",
+    "timestamp": 1773276976,
+    "release_timestamp": 1773276987,
+    "duration": 7765,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2132703418-c70b07027f87e7ac1742f99fcad8a2986a52980adefa0b7935aba245d31a76a1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287560518.vtt?expires=1778504945&sig=71e335ce7ca1dc7fc04e5e9195af7ba2f7be6032&download=auto_generated_captions.vtt"
+  }
+}

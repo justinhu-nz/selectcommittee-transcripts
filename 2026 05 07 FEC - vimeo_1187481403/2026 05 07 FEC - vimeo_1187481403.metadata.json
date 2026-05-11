@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:27:26.558947+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187481403",
+  "title": "2026 05 07 FEC",
+  "url": "https://vimeo.com/1187481403",
+  "published_at": "20260506",
+  "published_display": "2026-05-06",
+  "duration_seconds": 2967,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2964.6,
+    "segment_count": 883,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 05 07 FEC - vimeo_1187481403\\2026 05 07 FEC - vimeo_1187481403.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187481403",
+    "display_id": "1187481403",
+    "title": "2026 05 07 FEC",
+    "description": "Thursday 7 May 2026| Finance and Expenditure Committee\nReserve Bank of New Zealand\u2019s Financial Stability Report, May 2026\nReserve Bank of New Zealand\n\nDr Anna Breman, Governor\nAngus McGregor, Acting Assistant Governor Financial Stability\nChris McDonald, Manager System Monitoring and Analysis\nJess Rowe, Director Prudential Policy",
+    "webpage_url": "https://vimeo.com/1187481403",
+    "original_url": "https://vimeo.com/1187481403",
+    "upload_date": "20260506",
+    "timestamp": 1778105030,
+    "release_timestamp": 1778105037,
+    "duration": 2967,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2154573809-14a3adeb2c0b89aee7ccbb1b01042ab1be03f9bc0949e01243a2b33f7f2f229a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/299095755.vtt?expires=1778506050&sig=6a8964ee764e131fe245d48932c0157c7e48b6b2&download=auto_generated_captions.vtt"
+  }
+}

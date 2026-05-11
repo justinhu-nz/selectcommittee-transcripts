@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:27:22.601781+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145446844",
+  "title": "2026/01/29 - FD (Part 1)",
+  "url": "https://vimeo.com/1145446844",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 3753,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3750.57,
+    "segment_count": 1280,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_01_29 - FD (Part 1) - vimeo_1145446844\\2026_01_29 - FD (Part 1) - vimeo_1145446844.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145446844",
+    "display_id": "1145446844",
+    "title": "2026/01/29 - FD (Part 1)",
+    "description": "Thursday 29 January 2026 | Foreign Affairs, Defence and Trade Committee\n\nBriefing on meetings with representative counterparts and government officials\n\nHearing of evidence:\n\nList of submitters:\n\nDelegation from Kingdom of Morocco\n Her Excellency Mrs Wassane Zailachi, Ambassador\n\n\nInternational Treaty Examination\u00a0of the Agreement to Establish the\u00a0Pacific Resilience Facility\u00a0\n\nHearing of evidence:\n\nList of submitters:\nCouncil for International Development\u00a0Aotearoa New Zealand\u00a0\n\u00a0Todd Cleaver, Executive Director\u00a0\n\u00a0Sam London, Standards and Humanitarian Manager\u00a0\n\nPeace Movement Aotearoa\u00a0\n\u00a0Edwina\u00a0Hughes, Coordinator\u00a0\n\nPILLAR NZ\u00a0\n\u00a0Arian\u00a0Tashakkori, Head of Operations and Donor Relations\u00a0\n\u00a0Nathan\u00a0Seuili, Executive Director\u00a0",
+    "webpage_url": "https://vimeo.com/1145446844",
+    "original_url": "https://vimeo.com/1145446844",
+    "upload_date": "20260128",
+    "timestamp": 1769634652,
+    "release_timestamp": 1769634660,
+    "duration": 3753,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113881163-8c4c1adf8fcc8eaa118b055529d7ba46d3fc464b3da5d1cfff67fcca923fc163-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279409479.vtt?expires=1778506046&sig=a1511a602814377f0a4d96a094ceba78402a46ef&download=auto_generated_captions.vtt"
+  }
+}

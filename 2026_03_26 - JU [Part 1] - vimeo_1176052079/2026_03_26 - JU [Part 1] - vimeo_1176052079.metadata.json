@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:41.686858+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176052079",
+  "title": "2026/03/26 - JU [Part 1]",
+  "url": "https://vimeo.com/1176052079",
+  "published_at": "20260325",
+  "published_display": "2026-03-25",
+  "duration_seconds": 2833,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2833.06,
+    "segment_count": 966,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_26 - JU [Part 1] - vimeo_1176052079\\2026_03_26 - JU [Part 1] - vimeo_1176052079.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176052079",
+    "display_id": "1176052079",
+    "title": "2026/03/26 - JU [Part 1]",
+    "description": "Thursday, 26 March 2026 | Justice Committee\n\nReview briefing on the 2024/25 Annual review of the Independent Police Conduct Authority\n\nHearing of Evidence\nIndependent Police Conduct Authority \n\nJudge Kenneth Johnston KC, Chair  \nPeter Clinton, Manager, Corporate",
+    "webpage_url": "https://vimeo.com/1176052079",
+    "original_url": "https://vimeo.com/1176052079",
+    "upload_date": "20260325",
+    "timestamp": 1774468357,
+    "release_timestamp": 1774468364,
+    "duration": 2833,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2139804057-3b6f4ce3f3f2f115982fd74542495e25cf6e4bbd75405cf9337dd5ef88045dd9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290441077.vtt?expires=1778504745&sig=2d90fe6081d54b79cda2b92164db5e952db58662&download=auto_generated_captions.vtt"
+  }
+}

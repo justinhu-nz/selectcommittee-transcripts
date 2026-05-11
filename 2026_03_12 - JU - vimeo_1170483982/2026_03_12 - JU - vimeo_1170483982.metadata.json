@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:06:04.898277+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170483982",
+  "title": "2026/03/12 - JU",
+  "url": "https://vimeo.com/1170483982",
+  "published_at": "20260312",
+  "published_display": "2026-03-12",
+  "duration_seconds": 17494,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 17478.38,
+    "segment_count": 6157,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_12 - JU - vimeo_1170483982\\2026_03_12 - JU - vimeo_1170483982.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170483982",
+    "display_id": "1170483982",
+    "title": "2026/03/12 - JU",
+    "description": "Thursday 12 March 2026 | Justice Committee\n\nCrimes Amendment Bill\n\nSubmitter:\n\nDairy and Business Owners Group\n\nUpmeet Singh, Spokesperson\n\nNew Zealand Police Association, Te Aka Hapai\n\nSteve Watt, President\n\nThe Salvation Army\n\nPaul Barber Principal Social Policy Analyst\nAna Ika Senior Social Policy Analyst\n\nAndrew Lin\nSunny Kaushal\nMinisterial Advisory Group Retail Crime\n\nSunny Kaushal, Chairperson\nJason Frick, Policy Manager\n\nTe Kahui Tika Tangata Human Rights Commission\n\nMeg de Ronde, Chief Executive\nEleanor Vermunt, Senior Legal Adviser\n\nHato Hone St John\n\nDan Ohs, Deputy Chief Executive Ambulance Operations\nRosanne Shaw, General Manager Ambulance Operations\n\nEmployers and Manufacturers Association (EMA)\n\nAlan McDonald, Head of Advocacy\n\nTearfund New Zealand\n\nClaire Gray\n\nHanding the Shame Back Foundation\n\nGloria Masters, CEO/Founder\n\nNew Zealand Council of Trade Unions Te Kauae Kaimahi\n\nCory Bourne, Policy Team Leader\nMelissa Ansell-Bridges, Secretary\n\nMana Mokopuna - Children's Commission\n\nDr Claire Achmad\n\nAndrew Riddell\nJeremy Finn\nNew Zealand Indian Central Association\n\nVeer Khar, President\n\nBusiness New Zealand\n\nMark Cox\n\nMary Sagen\nSensible Sentencing Trust\n\nLouise Parsons, Spokesperson\nBrendon Cullen, Legislation Advisor\n\nNew Zealand Law Society Te Kahui Ture o Aotearoa\n\nChris Macklin, Committee Convenor\nProfessor Jeremy Finn, Committee Member\n\nModern Slavery and Trafficking Expert Practitioners Group (MSTEP)\n\nRebecca Kingi, Trafficking Legal Expert\nClayton Walker, Crown Prosecutor\nJacob Parry, Barrister\n\nWorld Vision New Zealand\n\nRebekah Armstrong, Head of Advocacy and Justice at World Vision New Zealand\n\nRetail NZ\n\nCarolyn Young, Retail NZ Chief Executive\nDenise Garland, Retail NZ Manager, Advocacy, Advice & Communications\nBen Muton-Phillips, Policy & Insights Advisor\n\nKay Jones\nMichael Morris\nGregory Eli Aaron Ioane\nWoolworths Group New Zealand\n\nAndrew Kirton, Head of Government & Industry Affairs\nJames Radcliffe, General Counsel\nMatt Grainger, Director of Property\n\nThe Law Association of New Zealand\n\nTracey Hu\n\nAnna Noakes\nRoyal Australian and New Zealand College of Psychiatrists\n\nBronte Jefferies\n\nCoward Punch Movement\n\nTeUraura Nganeko\n\nWalk Without Fear Trust\n\nMichael Angove",
+    "webpage_url": "https://vimeo.com/1170483982",
+    "original_url": "https://vimeo.com/1170483982",
+    "upload_date": "20260312",
+    "timestamp": 1773277153,
+    "release_timestamp": 1773277168,
+    "duration": 17494,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2133270334-2727c1b0b95a30fefa612909b2873bbfcd0af9776ab4039f472202220ceee4b6-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287561335.vtt?expires=1778504768&sig=fd085d127a7dffb0f7c1e949e901f7eac2c57784&download=auto_generated_captions.vtt"
+  }
+}

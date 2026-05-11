@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T10:12:16.345723+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1177166930",
+  "title": "2026 04 02 Petitions",
+  "url": "https://vimeo.com/1177166930",
+  "published_at": "20260402",
+  "published_display": "2026-04-02",
+  "duration_seconds": 1995,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1995.43,
+    "segment_count": 679,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 02 Petitions - vimeo_1177166930\\2026 04 02 Petitions - vimeo_1177166930.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1177166930",
+    "display_id": "1177166930",
+    "title": "2026 04 02 Petitions",
+    "description": "Petition of Southland Recreational Whitebaiters Association: Lengthen the whitebait season\nDepartment of Conservation\n\nKirstie Knowles - Director, Marine & Freshwater Biodiversity\nEmily Funnell - Manager, Freshwater Species\n\nCascade Whitebait Company\n\nGary Brown - Director\n\n\nPetition of Tristyn Kristna: Balancing accountability with rehabilitation in the justice system\n\nTristyn Kristna",
+    "webpage_url": "https://vimeo.com/1177166930",
+    "original_url": "https://vimeo.com/1177166930",
+    "upload_date": "20260402",
+    "timestamp": 1775098784,
+    "release_timestamp": 1775098790,
+    "duration": 1995,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2142774602-a34e7aa6bdd68abc6afcb534ef5320559c881427190b7927c84d08a72b694c86-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/292006774.vtt?expires=1778501540&sig=74c0a23e57b532f5b2e31f405fa93dd5dc90d596&download=auto_generated_captions.vtt"
+  }
+}

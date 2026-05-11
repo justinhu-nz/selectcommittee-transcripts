@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-11T11:05:47.523951+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176024928",
+  "title": "2026/03/23 - JU [Part 2]",
+  "url": "https://vimeo.com/1176024928",
+  "published_at": "20260323",
+  "published_display": "2026-03-23",
+  "duration_seconds": 9263,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9262.88,
+    "segment_count": 2851,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_23 - JU [Part 2] - vimeo_1176024928\\2026_03_23 - JU [Part 2] - vimeo_1176024928.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176024928",
+    "display_id": "1176024928",
+    "title": "2026/03/23 - JU [Part 2]",
+    "description": "Monday, 23 March 2026 | Justice Committee\n\nArms Bill \n\nHearing of evidence:\nDavid Zwartz \nSelwyn McCallum \nSimon Nelson \nConrad Petersen \nJohn Knight \nDavid Allard \nQuentin Abraham \nSam Somers \nBrigitte Grabowski \nAlison Joy Mace \nAllan Dittmer \nDaniel Tizzard-Close \nEvan Minton \nLeone Brown \nDylan Woodhouse \nLytton Volante \nMalcolm Lumsden \nJeremy Rae \nRobert Young \nCraig Body \nDr Chris Mansell \nReuben Sankey \nSienna Ditttmer \nNick Newman",
+    "webpage_url": "https://vimeo.com/1176024928",
+    "original_url": "https://vimeo.com/1176024928",
+    "upload_date": "20260323",
+    "timestamp": 1774233532,
+    "release_timestamp": 1774233544,
+    "duration": 9263,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137020409-9063fb3cdff310d630ad23d769137dad577b59f702455e44a5da68135b97bb6b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/289704986.vtt?expires=1778504750&sig=d5d19b24e0ad779850f83dfda2c7cd0439114cd4&download=auto_generated_captions.vtt"
+  }
+}

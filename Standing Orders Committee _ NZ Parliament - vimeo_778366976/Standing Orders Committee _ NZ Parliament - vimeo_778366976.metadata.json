@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-11T11:08:02.878318+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_778366976",
+  "title": "Standing Orders Committee | NZ Parliament",
+  "url": "https://vimeo.com/778366976",
+  "published_at": "20221207",
+  "published_display": "2022-12-07",
+  "duration_seconds": 6503,
+  "source_labels": "Vimeo Showcase 6380625",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6502.2,
+    "segment_count": 2112,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\Standing Orders Committee _ NZ Parliament - vimeo_778366976\\Standing Orders Committee _ NZ Parliament - vimeo_778366976.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "778366976",
+    "display_id": "778366976",
+    "title": "Standing Orders Committee | NZ Parliament",
+    "webpage_url": "https://vimeo.com/778366976",
+    "original_url": "https://vimeo.com/778366976",
+    "upload_date": "20221207",
+    "timestamp": 1670387578,
+    "release_timestamp": 1670387737,
+    "duration": 6503,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1562861643-9182ba120a9389347750b094c8bc3bb72a2ffc7cf15651e6bb3ecb8755bf38f2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.303,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/59409815.vtt?expires=1778504886&sig=53dba3783f3e48d69aa3c81bee500ef895954317&download=auto_generated_captions.vtt"
+  }
+}
