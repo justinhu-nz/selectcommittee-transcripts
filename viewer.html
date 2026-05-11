@@ -99,7 +99,11 @@
       position: sticky;
       top: 14px;
       display: grid;
+      grid-template-rows: auto auto minmax(0, 1fr);
       gap: 12px;
+      max-height: calc(100vh - 28px);
+      min-height: 0;
+      overflow: hidden;
     }
 
     .video-shell {
@@ -149,7 +153,10 @@
 
     .search-panel {
       display: grid;
+      grid-template-rows: auto auto minmax(0, 1fr);
       gap: 10px;
+      min-height: 0;
+      overflow: hidden;
     }
 
     input {
@@ -187,7 +194,11 @@
 
     .match-list {
       display: grid;
+      align-content: start;
       gap: 8px;
+      min-height: 0;
+      overflow-y: auto;
+      padding-right: 4px;
     }
 
     .match-jump {
@@ -274,7 +285,19 @@
 
     @media (max-width: 900px) {
       main { grid-template-columns: 1fr; }
-      .video-panel { position: static; }
+      .video-panel {
+        position: static;
+        max-height: none;
+        overflow: visible;
+      }
+
+      .search-panel {
+        overflow: visible;
+      }
+
+      .match-list {
+        max-height: 55vh;
+      }
     }
 
     @media (max-width: 640px) {
@@ -462,7 +485,7 @@
       `;
 
       els.matches.innerHTML = query && matches.length
-        ? matches.slice(0, 12).map((chunk) => `
+        ? matches.map((chunk) => `
             <button class="match-jump" type="button" data-index="${chunk.index}">
               <span class="time-text">${escapeHtml(chunk.time || "Transcript")}</span>
               <span>${highlightText(chunkExcerpt(chunk, query), query)}</span>
