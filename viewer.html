@@ -14,7 +14,6 @@
       --line: #d8dee8;
       --blue: #1b5f9e;
       --green: #236b4e;
-      --amber: #9a5b11;
       --soft-blue: #eaf2fb;
       --soft-green: #e8f4ee;
       --soft-amber: #fff4df;
@@ -53,7 +52,7 @@
       padding: 18px 0;
     }
 
-    .navline {
+    .navline, .meta {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
@@ -66,14 +65,6 @@
       font-size: clamp(1.5rem, 3vw, 2.35rem);
       line-height: 1.12;
       letter-spacing: 0;
-    }
-
-    .meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      color: var(--muted);
-      font-size: 0.94rem;
     }
 
     .tag {
@@ -142,12 +133,9 @@
       border-radius: 6px;
       padding: 5px 9px;
       background: #fff;
-      font-size: 0.92rem;
-    }
-
-    .links button {
       color: var(--blue);
       font: inherit;
+      font-size: 0.92rem;
       cursor: pointer;
     }
 
@@ -266,9 +254,7 @@
       color: var(--blue);
     }
 
-    .transcript-row p {
-      margin: 0;
-    }
+    .transcript-row p { margin: 0; }
 
     .time-text {
       color: var(--blue);
@@ -297,13 +283,8 @@
         overflow: visible;
       }
 
-      .search-panel {
-        overflow: visible;
-      }
-
-      .match-list {
-        max-height: 55vh;
-      }
+      .search-panel { overflow: visible; }
+      .match-list { max-height: 55vh; }
     }
 
     @media (max-width: 640px) {
@@ -342,8 +323,10 @@
 
   <script>
     const state = {
-      data: null,
+      manifest: null,
+      siteData: null,
       meeting: null,
+      transcript: null,
       chunks: [],
       query: "",
       player: null,
@@ -380,6 +363,12 @@
       .trim()
       .slice(0, 120) || "transcript";
 
+    const fetchJson = async (url, options = {}) => {
+      const response = await fetch(url, options);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.json();
+    };
+
     const highlightText = (value, query) => {
       const text = String(value || "");
       if (!query) return escapeHtml(text);
@@ -387,12 +376,6 @@
       return text.split(regex)
         .map((part) => normalize(part) === normalize(query) ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part))
         .join("");
-    };
-
-    const parseTimeToSeconds = (time) => {
-      const parts = String(time || "").split(":").map((part) => Number(part));
-      if (parts.some((part) => Number.isNaN(part))) return 0;
-      return parts.reduce((total, part) => total * 60 + part, 0);
     };
 
     const secondsToVimeoFragment = (seconds) => {
@@ -413,24 +396,6 @@
       if (!state.videoId) return "";
       const base = `https://player.vimeo.com/video/${encodeURIComponent(state.videoId)}?dnt=1&title=0&byline=0&portrait=0`;
       return seconds === null ? base : `${base}#t=${secondsToVimeoFragment(seconds)}`;
-    };
-
-    const parseTranscript = (meeting) => {
-      const text = String(meeting.transcriptText || "").replace(/\r\n/g, "\n");
-      return text.split(/\n\s*\n/)
-        .map((block) => block.trim())
-        .filter(Boolean)
-        .map((block, index) => {
-          const match = block.match(/^\[(\d{2}:\d{2}:\d{2})\]\s*([\s\S]*)$/);
-          const time = match ? match[1] : "";
-          return {
-            index,
-            time,
-            seconds: parseTimeToSeconds(time),
-            text: match ? match[2].trim() : block,
-            raw: block
-          };
-        });
     };
 
     const cleanTranscriptText = () => state.chunks
@@ -493,7 +458,7 @@
 
     const renderTranscript = () => {
       const query = normalize(state.query).trim();
-      const matches = query ? state.chunks.filter((chunk) => normalize(chunk.raw).includes(query)) : [];
+      const matches = query ? state.chunks.filter((chunk) => normalize(chunk.text).includes(query)) : [];
 
       els.stats.innerHTML = `
         <span class="pill"><strong>${state.chunks.length}</strong> transcript blocks</span>
@@ -510,7 +475,7 @@
         : "";
 
       els.transcript.innerHTML = state.chunks.map((chunk) => {
-        const isMatch = query && normalize(chunk.raw).includes(query);
+        const isMatch = query && normalize(chunk.text).includes(query);
         return `
           <article class="transcript-row ${isMatch ? "is-match" : ""}" id="transcript-row-${chunk.index}">
             ${chunk.time ? `<button class="time-button" type="button" data-seconds="${chunk.seconds}" data-index="${chunk.index}">${escapeHtml(chunk.time)}</button>` : `<span class="time-text">Transcript</span>`}
@@ -552,7 +517,7 @@
         <button id="downloadCleanTxt" type="button">Download clean TXT</button>
         <a href="index.html">Search</a>
       `;
-      state.chunks = parseTranscript(meeting);
+      state.chunks = state.transcript.chunks || [];
       els.state.hidden = true;
       els.viewer.hidden = false;
       renderVideo();
@@ -588,14 +553,11 @@
     state.query = params.get("q") || "";
     els.search.value = state.query;
 
-    fetch("search-data.json", { cache: "no-cache" })
-      .then((response) => {
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        return response.json();
-      })
-      .then((data) => {
-        state.data = data;
-        state.meeting = data.meetings.find((item) => item.guid === guid);
+    (async () => {
+      try {
+        state.manifest = await fetchJson("site-manifest.json", { cache: "no-cache" });
+        state.siteData = await fetchJson(state.manifest.siteDataUrl);
+        state.meeting = state.siteData.meetings.find((item) => item.guid === guid);
         if (!guid) {
           showState("No meeting was selected. Go back to search and open a transcript.");
           return;
@@ -604,11 +566,12 @@
           showState("Meeting not found. It may have been removed or regenerated with a different GUID.");
           return;
         }
+        state.transcript = await fetchJson(state.meeting.transcriptDataUrl);
         renderMeeting();
-      })
-      .catch((error) => {
-        showState(`Could not load search-data.json: ${error.message}`);
-      });
+      } catch (error) {
+        showState(`Could not load transcript data: ${error.message}`);
+      }
+    })();
   </script>
 </body>
 </html>
