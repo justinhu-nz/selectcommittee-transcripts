@@ -373,6 +373,7 @@
       committee: "",
       month: "",
       transcriptMatches: null,
+      searchSnippets: new Map(),
       transcriptStatus: "",
       searchRun: 0,
       shardCache: new Map(),
@@ -447,6 +448,16 @@
       .filter((term) => !stopWords.has(term))
       .filter((term) => term.length >= (state.manifest?.search?.minQueryLength || 3));
 
+    const highlightTerms = (value, query) => {
+      const text = String(value || "");
+      const terms = queryTerms(query).sort((a, b) => b.length - a.length);
+      if (!terms.length) return highlightText(text, query);
+      const regex = new RegExp(`(${terms.map(escapeRegExp).join("|")})`, "ig");
+      return text.split(regex)
+        .map((part) => terms.includes(normalize(part)) ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part))
+        .join("");
+    };
+
     const shardKey = (term) => {
       const first = term[0] || "";
       return /^[a-z0-9]$/.test(first) ? term.slice(0, 2) : "other";
@@ -471,12 +482,16 @@
       for (const posting of termPostings[0]) {
         const key = `${posting.guid}|${posting.chunkIndex}`;
         if (otherSets.some((set) => !set.has(key))) continue;
-        const existing = grouped.get(posting.guid) || { count: 0 };
+        const existing = grouped.get(posting.guid) || { count: 0, chunkIndices: new Set() };
         existing.count += 1;
+        existing.chunkIndices.add(posting.chunkIndex);
         grouped.set(posting.guid, existing);
       }
 
-      return grouped;
+      return new Map([...grouped.entries()].map(([guid, item]) => [guid, {
+        count: item.count,
+        chunkIndices: [...item.chunkIndices].sort((a, b) => a - b)
+      }]));
     };
 
     const updateTranscriptSearch = async () => {
@@ -485,6 +500,7 @@
       const minLength = state.manifest?.search?.minQueryLength || 3;
       if (query.length < minLength) {
         state.transcriptMatches = null;
+        state.searchSnippets = new Map();
         state.transcriptStatus = query ? `Transcript search starts at ${minLength}+ characters.` : "";
         render();
         return;
@@ -493,11 +509,13 @@
       const terms = queryTerms(query);
       if (!terms.length) {
         state.transcriptMatches = null;
+        state.searchSnippets = new Map();
         state.transcriptStatus = `Transcript search starts at ${minLength}+ characters.`;
         render();
         return;
       }
 
+      state.searchSnippets = new Map();
       state.transcriptStatus = "Searching transcript index...";
       render();
 
@@ -513,9 +531,11 @@
         state.transcriptMatches = buildTranscriptMatches(termPostings);
         state.transcriptStatus = `${[...state.transcriptMatches.values()].reduce((sum, item) => sum + item.count, 0)} transcript matches`;
         render();
+        loadTranscriptSearchSnippets(run, query);
       } catch (error) {
         if (run !== state.searchRun) return;
         state.transcriptMatches = new Map();
+        state.searchSnippets = new Map();
         state.transcriptStatus = `Transcript search unavailable: ${error.message}`;
         render();
       }
@@ -552,6 +572,25 @@
       }
     };
 
+    const renderTranscriptSnippets = (transcriptMatch, snippetState, query) => {
+      if (!transcriptMatch) return "";
+      if (!snippetState || snippetState.loading) {
+        return `<div class="snippets"><p class="snippet">Loading transcript preview...</p></div>`;
+      }
+      if (snippetState.error) {
+        return `<div class="snippets"><p class="snippet">${escapeHtml(snippetState.error)}</p></div>`;
+      }
+      if (!snippetState.snippets?.length) {
+        return `<div class="snippets"><p class="snippet">Transcript match found, but no preview text was available.</p></div>`;
+      }
+      return `<div class="snippets">${snippetState.snippets.map((snippet) => `
+        <p class="snippet">
+          ${snippet.time ? `<span class="snippet-time">${escapeHtml(snippet.time)}</span>` : ""}
+          ${highlightTerms(snippet.text, query)}
+        </p>
+      `).join("")}</div>`;
+    };
+
     const render = () => {
       if (!state.data) return;
       const query = normalize(state.query).trim();
@@ -567,6 +606,7 @@
       els.empty.style.display = meetings.length ? "none" : "block";
       els.meetings.innerHTML = meetings.map((meeting) => {
         const transcriptMatch = state.transcriptMatches?.get(meeting.guid);
+        const snippetState = transcriptMatch ? state.searchSnippets.get(meeting.guid) : null;
         const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
         const vimeo = meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : "";
         const viewerHref = `viewer.html?guid=${encodeURIComponent(meeting.guid)}${query ? `&q=${encodeURIComponent(query)}` : ""}`;
@@ -581,6 +621,7 @@
               ${matchLabel}
             </div>
             <p class="desc">${highlightText(meeting.description || "", query)}</p>
+            ${renderTranscriptSnippets(transcriptMatch, snippetState, query)}
             <div class="links">
               <a href="${escapeHtml(viewerHref)}">Open transcript</a>
               <button class="open-reader" type="button" data-guid="${escapeHtml(meeting.guid)}">Preview here</button>
@@ -605,11 +646,68 @@
       const text = collapseWhitespace(chunk.text);
       if (!query) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
       const lower = normalize(text);
-      const index = lower.indexOf(query);
+      let index = lower.indexOf(query);
+      let matchLength = query.length;
+      if (index < 0) {
+        for (const term of queryTerms(query)) {
+          const termIndex = lower.indexOf(term);
+          if (termIndex >= 0 && (index < 0 || termIndex < index)) {
+            index = termIndex;
+            matchLength = term.length;
+          }
+        }
+      }
       if (index < 0) return text.slice(0, 360) + (text.length > 360 ? " ..." : "");
       const start = Math.max(0, index - radius);
-      const end = Math.min(text.length, index + query.length + radius);
+      const end = Math.min(text.length, index + matchLength + radius);
       return `${start > 0 ? "... " : ""}${text.slice(start, end)}${end < text.length ? " ..." : ""}`;
+    };
+
+    const buildTranscriptSnippets = (transcript, chunkIndices, query, limit = 3) => {
+      const chunksByIndex = new Map((transcript.chunks || []).map((chunk) => [chunk.index, chunk]));
+      return chunkIndices
+        .map((index) => chunksByIndex.get(index))
+        .filter(Boolean)
+        .slice(0, limit)
+        .map((chunk) => ({
+          time: chunk.time || "",
+          text: chunkExcerpt(chunk, query)
+        }));
+    };
+
+    const loadTranscriptSearchSnippets = async (run, query) => {
+      if (!state.transcriptMatches || !state.data) return;
+      const matchedMeetings = filteredMeetings()
+        .filter((meeting) => state.transcriptMatches.has(meeting.guid));
+      if (!matchedMeetings.length) return;
+
+      for (const meeting of matchedMeetings) {
+        if (!state.searchSnippets.has(meeting.guid)) {
+          state.searchSnippets.set(meeting.guid, { loading: true, snippets: [] });
+        }
+      }
+      render();
+
+      await Promise.allSettled(matchedMeetings.map(async (meeting) => {
+        const match = state.transcriptMatches.get(meeting.guid);
+        if (!match) return;
+        try {
+          const transcript = await loadTranscript(meeting);
+          if (run !== state.searchRun) return;
+          state.searchSnippets.set(meeting.guid, {
+            loading: false,
+            snippets: buildTranscriptSnippets(transcript, match.chunkIndices || [], query)
+          });
+        } catch (error) {
+          if (run !== state.searchRun) return;
+          state.searchSnippets.set(meeting.guid, {
+            loading: false,
+            error: `Could not load transcript preview: ${error.message}`,
+            snippets: []
+          });
+        }
+        render();
+      }));
     };
 
     const renderReader = () => {
