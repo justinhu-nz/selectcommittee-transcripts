@@ -134,7 +134,7 @@
       gap: 8px;
     }
 
-    .links a {
+    .links a, .links button {
       display: inline-flex;
       align-items: center;
       min-height: 32px;
@@ -145,7 +145,13 @@
       font-size: 0.92rem;
     }
 
-    .links a:hover {
+    .links button {
+      color: var(--blue);
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .links a:hover, .links button:hover {
       border-color: var(--blue);
       background: var(--soft-blue);
       text-decoration: none;
@@ -368,6 +374,11 @@
     const normalize = (value) => String(value || "").toLowerCase();
     const collapseWhitespace = (value) => String(value || "").replace(/\s+/g, " ").trim();
     const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const cleanFileName = (value) => String(value || "transcript")
+      .replace(/[<>:"/\\|?*\u0000-\u001F]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 120) || "transcript";
 
     const highlightText = (value, query) => {
       const text = String(value || "");
@@ -421,6 +432,11 @@
           };
         });
     };
+
+    const cleanTranscriptText = () => state.chunks
+      .map((chunk) => collapseWhitespace(chunk.text))
+      .filter(Boolean)
+      .join("\r\n\r\n");
 
     const chunkExcerpt = (chunk, query, radius = 170) => {
       const text = collapseWhitespace(chunk.text);
@@ -504,6 +520,20 @@
       }).join("");
     };
 
+    const downloadCleanTranscript = () => {
+      const text = cleanTranscriptText();
+      const fileName = `${cleanFileName(state.meeting?.title)} - clean transcript.txt`;
+      const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = fileName;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    };
+
     const renderMeeting = () => {
       const meeting = state.meeting;
       const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
@@ -519,6 +549,7 @@
         <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
         <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
         <a href="${escapeHtml(meeting.folderUrl)}">Folder</a>
+        <button id="downloadCleanTxt" type="button">Download clean TXT</button>
         <a href="index.html">Search</a>
       `;
       state.chunks = parseTranscript(meeting);
@@ -527,6 +558,12 @@
       renderVideo();
       renderTranscript();
     };
+
+    els.links.addEventListener("click", (event) => {
+      const button = event.target.closest("#downloadCleanTxt");
+      if (!button) return;
+      downloadCleanTranscript();
+    });
 
     els.search.addEventListener("input", (event) => {
       state.query = event.target.value;
