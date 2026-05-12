@@ -388,6 +388,8 @@
       searchSnippets: new Map(),
       transcriptStatus: "",
       searchRun: 0,
+      searchDebounceTimer: null,
+      searchDebounceMs: 220,
       shardCache: new Map(),
       transcriptCache: new Map(),
       expandedDescriptions: new Set(),
@@ -563,6 +565,17 @@
         state.transcriptStatus = `Transcript search unavailable: ${error.message}`;
         render();
       }
+    };
+
+    const scheduleGlobalSearch = () => {
+      state.searchRun += 1;
+      if (state.searchDebounceTimer) {
+        window.clearTimeout(state.searchDebounceTimer);
+      }
+      state.searchDebounceTimer = window.setTimeout(() => {
+        state.searchDebounceTimer = null;
+        updateTranscriptSearch();
+      }, state.searchDebounceMs);
     };
 
     const filteredMeetings = () => {
@@ -749,8 +762,8 @@
             snippets: []
           });
         }
-        render();
       }));
+      if (run === state.searchRun) render();
     };
 
     const renderReader = () => {
@@ -826,8 +839,9 @@
 
     els.search.addEventListener("input", (event) => {
       state.query = event.target.value;
-      updateTranscriptSearch();
-      render();
+      state.transcriptMatches = null;
+      state.searchSnippets = new Map();
+      scheduleGlobalSearch();
     });
 
     els.committee.addEventListener("change", (event) => {

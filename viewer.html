@@ -145,24 +145,31 @@
       text-decoration: none;
     }
 
-    .description-panel {
+    .header-description {
       display: grid;
       gap: 6px;
+      max-width: 920px;
       color: var(--muted);
       font-size: 0.93rem;
     }
 
-    .description-panel summary {
+    .header-description[hidden] { display: none; }
+
+    .header-description summary {
+      width: fit-content;
       color: var(--blue);
       cursor: pointer;
       user-select: none;
     }
 
-    .description-panel p {
-      margin: 0;
-      max-height: 9.5rem;
+    .header-description p {
+      margin: 6px 0 0;
+      max-height: 7.5rem;
       overflow: auto;
-      padding-right: 4px;
+      border-left: 3px solid var(--line);
+      border-radius: 6px;
+      background: #f8fafc;
+      padding: 9px 11px;
       white-space: pre-line;
     }
 
@@ -324,6 +331,7 @@
       </div>
       <h1 id="title">Transcript Viewer</h1>
       <div class="meta" id="meta"></div>
+      <details class="header-description" id="descriptionPanel" hidden></details>
     </div>
   </header>
 
@@ -333,7 +341,6 @@
     <aside class="video-panel">
       <div class="video-shell" id="videoShell"></div>
       <div class="panel links" id="links"></div>
-      <details class="panel description-panel" id="descriptionPanel"></details>
       <div class="panel search-panel">
         <input id="search" type="search" autocomplete="off" placeholder="Search this transcript">
         <div class="stats" id="stats"></div>
@@ -544,9 +551,13 @@
         <button id="downloadCleanTxt" type="button">Download clean TXT</button>
         <a href="index.html">Search</a>
       `;
-      els.descriptionPanel.innerHTML = meeting.description
-        ? `<summary>Video description</summary><p>${escapeHtml(meeting.description)}</p>`
-        : "";
+      if (meeting.description) {
+        els.descriptionPanel.hidden = false;
+        els.descriptionPanel.innerHTML = `<summary>Video description</summary><p>${escapeHtml(meeting.description)}</p>`;
+      } else {
+        els.descriptionPanel.hidden = true;
+        els.descriptionPanel.innerHTML = "";
+      }
       state.chunks = state.transcript.chunks || [];
       els.state.hidden = true;
       els.viewer.hidden = false;
