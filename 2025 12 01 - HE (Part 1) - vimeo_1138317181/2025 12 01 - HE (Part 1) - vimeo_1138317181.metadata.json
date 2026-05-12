@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:03:31.463769+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138317181",
+  "title": "2025 12 01 - HE (Part 1)",
+  "url": "https://vimeo.com/1138317181",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 5254,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5244.94,
+    "segment_count": 2039,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 01 - HE (Part 1) - vimeo_1138317181\\2025 12 01 - HE (Part 1) - vimeo_1138317181.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138317181",
+    "display_id": "1138317181",
+    "title": "2025 12 01 - HE (Part 1)",
+    "description": "Monday 1 December 2025 | Health Committee\n\n2024/25 Annual review of the Pharmaceutical Management Agency (PHARMAC)\n\nHearing of evidence: \n\nHon David Seymour, Associate Minister of Health (Pharmac)\n\nPharmaceutical Management Agency\n\nNatalie McMurtry, Chief Executive\nHon Paula Bennett, Board Chair\nMargaret Wilsher, Board Member\nMichael Johnson, Director Strategy, Policy and Performance\nAdrienne Martin, Director Pharmaceuticals\nCatherine Epps, Director Medical Devices\nGraham Durston, Manager Finance\nOliver Whitehead, Team Leader Government Services\nMatthew McCrorie, Communications Team Leader",
+    "webpage_url": "https://vimeo.com/1138317181",
+    "original_url": "https://vimeo.com/1138317181",
+    "upload_date": "20251201",
+    "timestamp": 1764554667,
+    "release_timestamp": 1764554676,
+    "duration": 5254,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089495324-3cbac2fa6da6052d013776328c9835cb4efd022ec52e1591caaa1a790e38b9ad-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268590905.vtt?expires=1778562215&sig=d3fdeadf1617eed8dd7d8dd61b1b35657f4f4ba6&download=auto_generated_captions.vtt"
+  }
+}

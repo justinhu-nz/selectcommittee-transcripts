@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:33.996832+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142264169",
+  "title": "2025/12/02 - FD (Part 1)",
+  "url": "https://vimeo.com/1142264169",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 11302,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11301.39,
+    "segment_count": 3978,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - FD (Part 1) - vimeo_1142264169\\2025_12_02 - FD (Part 1) - vimeo_1142264169.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142264169",
+    "display_id": "1142264169",
+    "title": "2025/12/02 - FD (Part 1)",
+    "description": "Tuesday 2 December 2025 | Foreign Affairs, Defence and Trade Committee\n\n2024/25 Annual review of the Ministry of Defence; 2024/25 Annual review of the New Zealand Defence Force\n\nHearing of evidence:\nSubmitter list:\n\nHon Chris Penk, Minister for Veterans, Associate Minister of Defence\n\nMinistry of Defence\n\nBrook Barrington, Chief Executive\nPasanka Wickremasinghe, Chief Financial Officer\nSarah Minson, Deputy Secretary Capability Delivery\nHuntley Wright, Assistance Secretary Capability Delivery\n\n\nNew Zealand Defence Force\n\nAir Marshal Tony Davies, Chief of Defence Force\nRear Admiral Mat Williams, Vice Chief of Defence Force\nAlex Brunt, Acting Head of Veterans\u2019 Affairs\nJacinda Funnell, Chief People Officer\nBridget Marks, Chief Finance Officer\nBrigadier James Kennedy-Good, Director Defence Legal Service\nBrigadier Andrew Shaw, Assistant Chief Strategic Commitments\nMark Brunton, Head of Defence and Infrastructure",
+    "webpage_url": "https://vimeo.com/1142264169",
+    "original_url": "https://vimeo.com/1142264169",
+    "upload_date": "20251202",
+    "timestamp": 1764650435,
+    "release_timestamp": 1764650447,
+    "duration": 11302,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090340976-89e7a767c18e25b616ca3dc32792addbbb6d759898ff61d521ca64b0260bd919-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268854014.vtt?expires=1778562398&sig=1dfed6d5411bf464fe47563f8d1846e35b77a320&download=auto_generated_captions.vtt"
+  }
+}

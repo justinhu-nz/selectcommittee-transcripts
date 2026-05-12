@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:04.791323+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125342055",
+  "title": "2025 10 15 - HE",
+  "url": "https://vimeo.com/1125342055",
+  "published_at": "20251014",
+  "published_display": "2025-10-14",
+  "duration_seconds": 1458,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1455.58,
+    "segment_count": 497,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 15 - HE - vimeo_1125342055\\2025 10 15 - HE - vimeo_1125342055.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125342055",
+    "display_id": "1125342055",
+    "title": "2025 10 15 - HE",
+    "description": "15 October 2025 | Health Committee\n\nPetition of Gareth Lowndes: Increase resources for the Health and Disability Commissioner\nOffice of the Health and Disability Commissioner\n\tMorag McDowell, Health and Disability Commissioner\n\tDr Vanessa Caldwell, Deputy Commissioner, Health and Disability",
+    "webpage_url": "https://vimeo.com/1125342055",
+    "original_url": "https://vimeo.com/1125342055",
+    "upload_date": "20251014",
+    "timestamp": 1760470642,
+    "release_timestamp": 1760470647,
+    "duration": 1458,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2070423333-df210189244a235ed01597a3d80e0df7bf765a0a0caa1c811a12034528fbd7ac-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259348944.vtt?expires=1778563089&sig=5acfc351e3f9fe017ba9e2bdfead575e14733ee6&download=auto_generated_captions.vtt"
+  }
+}

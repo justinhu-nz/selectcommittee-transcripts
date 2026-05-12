@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:19:36.569173+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1086565566",
+  "title": "2025 06 05 FD (part 1)",
+  "url": "https://vimeo.com/1086565566",
+  "published_at": "20250604",
+  "published_display": "2025-06-04",
+  "duration_seconds": 737,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 737.13,
+    "segment_count": 240,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 05 FD (part 1) - vimeo_1086565566\\2025 06 05 FD (part 1) - vimeo_1086565566.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1086565566",
+    "display_id": "1086565566",
+    "title": "2025 06 05 FD (part 1)",
+    "description": "Thursday 5 June 2025 | Foreign Affairs, Defence and Trade Committee\n\nAnzac Day Amendment Bill\nCatherine Sixtus\nDianne Landy",
+    "webpage_url": "https://vimeo.com/1086565566",
+    "original_url": "https://vimeo.com/1086565566",
+    "upload_date": "20250604",
+    "timestamp": 1749070812,
+    "release_timestamp": 1749070818,
+    "duration": 737,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2023373237-13912ed95fa4215479c1c67fa758b996d9891e1b8efe06db484c9f76475ae27e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/235176089.vtt?expires=1778563181&sig=81fca62d8845eebf9806d92c3ed03a148c018ad4&download=auto_generated_captions.vtt"
+  }
+}

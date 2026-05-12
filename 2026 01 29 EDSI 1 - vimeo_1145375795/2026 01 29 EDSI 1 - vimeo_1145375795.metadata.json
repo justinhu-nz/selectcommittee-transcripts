@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:56.214863+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145375795",
+  "title": "2026 01 29 EDSI 1",
+  "url": "https://vimeo.com/1145375795",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 389,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 383.31,
+    "segment_count": 111,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 01 29 EDSI 1 - vimeo_1145375795\\2026 01 29 EDSI 1 - vimeo_1145375795.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145375795",
+    "display_id": "1145375795",
+    "title": "2026 01 29 EDSI 1",
+    "description": "Meteorological Services (Acquisition and Policies) Legislation Amendment Bill\n\nMurray Boardman",
+    "webpage_url": "https://vimeo.com/1145375795",
+    "original_url": "https://vimeo.com/1145375795",
+    "upload_date": "20260128",
+    "timestamp": 1769627578,
+    "release_timestamp": 1769627585,
+    "duration": 389,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113678539-f633e3fa14551406126a86625e564ea020f8a1393139f481cbca2eeeba0f9767-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279385595.vtt?expires=1778562720&sig=6297d4b22eb71c4d422295d12b0fd93546d598e5&download=auto_generated_captions.vtt"
+  }
+}

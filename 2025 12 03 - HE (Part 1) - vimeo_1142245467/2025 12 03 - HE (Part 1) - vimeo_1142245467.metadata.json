@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:02:46.291308+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142245467",
+  "title": "2025 12 03 - HE (Part 1)",
+  "url": "https://vimeo.com/1142245467",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 4839,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4834.97,
+    "segment_count": 1771,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 03 - HE (Part 1) - vimeo_1142245467\\2025 12 03 - HE (Part 1) - vimeo_1142245467.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142245467",
+    "display_id": "1142245467",
+    "title": "2025 12 03 - HE (Part 1)",
+    "description": "Wednesday 3 December 2025 | Health Committee\n\n2024/25 Annual review of the Ministry of Health\n\nHearing of evidence:\n\nHon Casey Costello, Minister for Seniors and Associate Minister of Health\n\nMinister for Mental Health\n\nHon Matt Doocey",
+    "webpage_url": "https://vimeo.com/1142245467",
+    "original_url": "https://vimeo.com/1142245467",
+    "upload_date": "20251202",
+    "timestamp": 1764711639,
+    "release_timestamp": 1764711647,
+    "duration": 4839,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090421551-2073bff83e1086bf4c8843a9783e77a171cb6cb72c6d10e4c5201edbfc22adcc-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269060820.vtt?expires=1778562170&sig=099cc472ff3cc6749ad31b79ba9c1e84d848f66c&download=auto_generated_captions.vtt"
+  }
+}

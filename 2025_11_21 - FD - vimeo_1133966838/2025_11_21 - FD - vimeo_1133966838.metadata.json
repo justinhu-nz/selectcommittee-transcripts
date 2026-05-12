@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:38.064122+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133966838",
+  "title": "2025/11/21 - FD",
+  "url": "https://vimeo.com/1133966838",
+  "published_at": "20251120",
+  "published_display": "2025-11-20",
+  "duration_seconds": 979,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 972.92,
+    "segment_count": 344,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_21 - FD - vimeo_1133966838\\2025_11_21 - FD - vimeo_1133966838.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133966838",
+    "display_id": "1133966838",
+    "title": "2025/11/21 - FD",
+    "description": "Thursday 21 November 2025 | Foreign Affairs, Defence and Trade Committee\n\nPetition of Marcelo Rodriguez Ferrere: Require imports of animal products to meet or exceed NZ animal welfare standards\n\nHearing of evidence\nSubmitter list:\nMinistry of Foreign Affairs and Trade\n\nCaroline Ralph, Lead adviser, Trade Law Unit, Legal Division\nBrian Wilson, Unit Manager, Trade Policy and Negotiation Division",
+    "webpage_url": "https://vimeo.com/1133966838",
+    "original_url": "https://vimeo.com/1133966838",
+    "upload_date": "20251120",
+    "timestamp": 1763598312,
+    "release_timestamp": 1763598321,
+    "duration": 979,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085627390-0c641fee02f2ab88c1aa6a6a9b1ce349c06a270c50e64edfce371ed8cccc8b43-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266416073.vtt?expires=1778562402&sig=87f74359b909239a866655b87a80d61a28038248&download=auto_generated_captions.vtt"
+  }
+}

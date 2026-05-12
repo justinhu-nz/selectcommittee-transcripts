@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:04:29.951309+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127294819",
+  "title": "2025 10 15 - HE",
+  "url": "https://vimeo.com/1127294819",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 2707,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2684.16,
+    "segment_count": 962,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 15 - HE - vimeo_1127294819\\2025 10 15 - HE - vimeo_1127294819.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127294819",
+    "display_id": "1127294819",
+    "title": "2025 10 15 - HE",
+    "description": "15 October 2025 | Health Committee\n\nReview briefing on the 2023/24 annual review of the Health Research Council of New Zealand\nHealth Research Council\n\tLynne Bjarnesen, Chief Financial Officer and Director Corporate Services\n\tDr Tania Pocock, Director Policy and Strategy\n\tProfessor Lester Levy, Chair\n\tProfessor Jeroen Douwes, Deputy Chair",
+    "webpage_url": "https://vimeo.com/1127294819",
+    "original_url": "https://vimeo.com/1127294819",
+    "upload_date": "20251015",
+    "timestamp": 1760489479,
+    "release_timestamp": 1760489488,
+    "duration": 2707,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081445251-f277e2c32f0559c56f3fd084804a64c63b9c5d5035dc92291ec85f095a98d065-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/261771736.vtt?expires=1778562274&sig=851be62282577d034fc01d5f1afdb3ab09c34313&download=auto_generated_captions.vtt"
+  }
+}

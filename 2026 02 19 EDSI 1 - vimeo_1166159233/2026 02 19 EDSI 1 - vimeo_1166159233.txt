@@ -1,0 +1,402 @@
+Title: 2026 02 19 EDSI 1
+URL: https://vimeo.com/1166159233
+Published: 2026-02-18
+Duration: 00:17:30
+
+[00:00:17] Thank you, Victoria.
+[00:00:18] Are we waiting for Michael as well? Oh, yes.
+[00:00:20] I can see he is coming online now. Yeah.
+[00:00:22] Thank you so much for your submission.
+[00:00:24] We have 10 minutes with you. Thanks.
+[00:00:26] Thank you. And thank you for the time to speak
+[00:00:28] with you this afternoon on behalf
+[00:00:30] of the New Zealand Law Society.
+[00:00:32] Um, I'm Victoria Fowler.
+[00:00:33] I'm counsel at Web Henderson, uh,
+[00:00:35] with a practice focusing on, um, regulatory litigation
+[00:00:39] and advice on competition
+[00:00:40] and consumer issues, um,
+[00:00:42] with a particular focus on matters
+[00:00:43] regulated by the Commerce Commission.
+[00:00:45] So appreciate the opportunity to speak
+[00:00:47] with you about these important changes to the Commerce Act.
+[00:00:50] Um, appearing with Michael Tilly,
+[00:00:52] who is a competition lawyer at Til and Co.
+[00:00:55] And, um, former Chief Legal Counsel Competition
+[00:00:58] and head of Mergers at the Commerce Commission.
+[00:01:01] Um, we are both here in our capacity as members
+[00:01:04] of the Law Society More Reform Committee.
+[00:01:07] Um, as committee members.
+[00:01:08] We, uh, along with others,
+[00:01:10] provided feedback on the bill to the Law Society
+[00:01:12] to assist them in drafting the submission you have for you.
+[00:01:16] Um, so the, the Law Society supports the bill's intention
+[00:01:20] to update and modernize competition settings, um,
+[00:01:23] and subject to some amendments.
+[00:01:25] We support the continued passage of the bill.
+[00:01:29] Um, in our time today, we'll focus on a, a couple of the,
+[00:01:31] the biggest concerns that we have, um, in order
+[00:01:34] to lose some time for questions.
+[00:01:36] Um, but the, the written submission you have
+[00:01:38] before you goes into detail about some, some changes
+[00:01:41] that the law society considers are required, um, for the,
+[00:01:45] uh, proper functioning of the changes.
+[00:01:48] Um, the, before I move on to talk about one of the, uh,
+[00:01:53] key par parts that we'd like to discuss today, um, I wanted
+[00:01:56] to touch on a general view on alignment with international,
+[00:02:00] uh, comparators.
+[00:02:02] So we, we generally support greater alignment, particularly
+[00:02:05] with Australian settings,
+[00:02:06] unless there is a good reason to diverge, um,
+[00:02:10] changing New Zealand law in a way that doesn't align
+[00:02:13] with equivalent jurisdictions.
+[00:02:15] And in particular with Australia,
+[00:02:17] it increases legal uncertainty,
+[00:02:19] and so that can affect investment
+[00:02:21] and competition in New Zealand markets.
+[00:02:25] Uh, so while that is the, the sort of default setting, uh,
+[00:02:29] we do think that there are some circumstances in which it's
+[00:02:32] reasonable to diverge from the position in Australia.
+[00:02:36] Uh, and one of the parts of the changes
+[00:02:39] that we think falls into that category, um, is the,
+[00:02:43] the changes to the substantially lessening
+[00:02:45] of competition test.
+[00:02:47] Um, so the, the SLC test is intended to ensure
+[00:02:51] that mergers are not going
+[00:02:52] to undermine the competitive market structure
+[00:02:55] of the industry that's affected by a particular merger.
+[00:02:59] The, the bill proposes to introduce new wording so
+[00:03:03] that the SLC test will, uh, effectively consider a merger,
+[00:03:08] a, a killer acquisition if it creates strengthens
+[00:03:12] or entrenches a substantial degree of power in the market.
+[00:03:16] Uh, so those words were imported into the wording
+[00:03:20] of the Australian SLC test, um, in Australia
+[00:03:24] that is restricted in application to just merger control.
+[00:03:28] Um, so that's different to the way
+[00:03:30] that the current bill is drafted in New Zealand,
+[00:03:32] which proposes to expand the SLC test across the board,
+[00:03:36] so including in, in restrictive trade practices.
+[00:03:40] Um, so that expands the test further than in Australia.
+[00:03:44] Uh, the, the Law society's recommendation is
+[00:03:46] that no change is made to the SLC test at all.
+[00:03:50] Um, we consider that divergence from Australia in, in
+[00:03:54] that case is reasonable, primarily
+[00:03:56] because there is minimal evidence of a problem
+[00:03:59] to be solved in New Zealand.
+[00:04:02] Um, that's especially so given the additional powers
+[00:04:05] that are proposed to be granted to the commission, um,
+[00:04:08] that would address any potential risk in a more targeted
+[00:04:11] and responsive way.
+[00:04:13] So, uh, the, the primary submission, um, is that the,
+[00:04:17] the clause amending the SLC test is deleted in its entirety.
+[00:04:22] Um, but, but if it is to be pursued at very least
+[00:04:25] that it should be narrowed in its application, um, so that,
+[00:04:28] like in Australia, it only applies to mergers.
+[00:04:32] Uh, so, uh, that is the, the submission on that point.
+[00:04:35] And I'll pass over to Mr.
+[00:04:36] Tilley now to address the next points.
+[00:04:39] Thank you, Victoria. Good afternoon, everybody.
+[00:04:40] Thank you for the opportunity to appear.
+[00:04:42] Um, the next submission is on predatory pricing.
+[00:04:45] So, as with the SLC test changes, the explanatory materials
+[00:04:48] to the bill disclosed little evidence of an issue
+[00:04:51] with predatory pricing in New Zealand
+[00:04:52] that requires amendments to the act.
+[00:04:54] We think it's also important to note
+[00:04:55] that the cost test proposed
+[00:04:56] for the new prohibition did not increase New Zealand's
+[00:04:58] alignment with comparative
+[00:04:59] jurisdictions as the bill intends.
+[00:05:01] We would also note that section 36 of the act, so the,
+[00:05:04] the prohibition on the misuse of market power,
+[00:05:07] which currently deals with predatory pricing,
+[00:05:09] it's currently, uh, less than three years old in its current
+[00:05:12] form and has
+[00:05:13] therefore not been enforced long enough
+[00:05:14] to determine its effectiveness.
+[00:05:16] So overall, the proposed change risks damaging business
+[00:05:20] confidence in decision making on pricing.
+[00:05:22] In a way that means that large businesses are likely
+[00:05:24] to respond by pricing things higher to be on the safe side,
+[00:05:27] resulting in negative impacts for consumers.
+[00:05:30] So we would recommend that the predatory pricing changes are
+[00:05:33] not, uh, pursued in the bill.
+[00:05:36] I'll now move on to the final point on which we would like
+[00:05:38] to submit today, which is the confidential information.
+[00:05:42] So the bill proposes
+[00:05:43] to insert significant restrictions on the operation
+[00:05:45] of the Official Information Act in relation
+[00:05:47] to official information held by the Commerce Commission.
+[00:05:50] We're referring here to clause 53,
+[00:05:51] which proposes new restrictions on the OIA.
+[00:05:54] The OIA is a key mechanism
+[00:05:56] by which government bodies are held
+[00:05:57] accountable for their activities.
+[00:05:59] It already provides withholding grounds for the provision
+[00:06:01] of confidential information as well
+[00:06:03] as commercially sensitive information
+[00:06:05] as set out in the submission.
+[00:06:06] The policy problem here seems
+[00:06:08] to be initial perception rather than reality
+[00:06:11] in the view of the law society.
+[00:06:13] The more nuanced option
+[00:06:14] provided in the regulatory impact statements, that
+[00:06:16] that alternative procedural
+[00:06:18] and institutional improvements could be
+[00:06:19] pursued, would be preferable.
+[00:06:21] This could look like providing Commerce Commission staff
+[00:06:23] with additional training and guidance from the ombudsman on
+[00:06:25] the application of the OIA and where
+[00:06:28] and when the withholding provisions can be used
+[00:06:29] for commercially sensitive and confidential information.
+[00:06:32] This would likely translate into improved communication
+[00:06:35] with businesses and individuals about the risks
+[00:06:37] of information they provide being released, as well
+[00:06:40] as improved practice in recognizing when
+[00:06:42] and where the existing withholding provisions
+[00:06:44] of the OIA should apply, leading
+[00:06:46] to improved confidence in sharing the relevant
+[00:06:48] information with the commission.
+[00:06:50] Those are our submissions. Um, happy to take any questions.
+[00:06:54] Good, uh, questions on this. Um, Dr. David Wilson.
+[00:06:59] Um, this predatory pricing issue just keeps coming up
+[00:07:03] and we are not getting alignment today in terms
+[00:07:06] of preference on what should happen with this.
+[00:07:08] We had a presentation from the University of Sydney,
+[00:07:11] which says that we are currently in a situation, we have
+[00:07:14] vertical integration, dual conflicts, in other words,
+[00:07:18] competing with your own suppliers, uh,
+[00:07:20] promotional discounts, results, um,
+[00:07:23] exclusive dealing pricing algorithms
+[00:07:25] and so on that take advantage of a whole bunch of things.
+[00:07:27] So you could say that this is monopolistic behavior, um,
+[00:07:33] and we've had, I think, real problems trying
+[00:07:36] to understand whether or not there is actually predatory
+[00:07:38] pricing already going on.
+[00:07:41] So I think a number of us would think that there is,
+[00:07:44] and a number of the consumers would think that there is.
+[00:07:47] Um, so you are against, uh, trying
+[00:07:52] to address this in the way that we have.
+[00:07:55] Can you provide us with the way that you believe
+[00:07:57] that there actually is a way forward to, in, you know, give
+[00:08:01] consumers confidence that we are addressing this issue?
+[00:08:04] Um, sure.
+[00:08:06] I mean, I think that that's a, um, that's a, a, a, a policy,
+[00:08:09] a policy issue and, and we'd be happy to take a look at,
+[00:08:11] at any, any drafting or any alternative drafting.
+[00:08:14] I think our message here today is that, um,
+[00:08:17] the surrounding materials to the bill
+[00:08:20] do not provide strong evidence
+[00:08:21] or do not disclose to us that there is an issue to be,
+[00:08:24] um, to be addressed.
+[00:08:27] All right. Um, thank you for your submission. Thank you.
+[00:08:32] Uh, next we have civil contractors,
+[00:08:34] New Zealand, again on Zoom.
+[00:08:45] Excellent. Uh, can you hear us, Madam
+[00:08:47] Chair? Yes.
+[00:08:48] Uh, we can hear you, but we can't see you,
+[00:08:49] but that's totally fine if you Oh, yeah.
+[00:08:52] Uh, I can see freezer now. Um, got it. Thanks.
+[00:08:55] You as well, Alan. Thank you so much.
+[00:08:57] And we have 10 minutes with you. Thank you.
+[00:09:00] Brilliant. Hey, thank you. Thanks, Madam Chair,
+[00:09:01] the opportunity to, to address you.
+[00:09:02] So I'm a Pollard, I'm Chief executive,
+[00:09:04] the civil contractor, New Zealand.
+[00:09:06] I'm joined online by my colleague Fraser Mo,
+[00:09:08] who's our communications and advocacy manager.
+[00:09:10] Um, or obviously take our submission
+[00:09:12] as Reid will only be, uh, brief.
+[00:09:14] There's really three things that I want to emphasize.
+[00:09:17] The first is, we're really concerned to make sure
+[00:09:19] that we continue to support, um,
+[00:09:22] and allow the positive collaborative model set to exist
+[00:09:25] for project delivery.
+[00:09:26] So Alliance has joint ventures, panels all used
+[00:09:29] with the client, or one
+[00:09:31] or more other parties worked together to deliver a project
+[00:09:35] early supplier engagement.
+[00:09:37] Also, part of that is used to, uh, to ensure
+[00:09:40] that designs are practical
+[00:09:42] and that can include collaboration
+[00:09:43] between competing firms under a single client as well.
+[00:09:47] I mean, these models have been proven to add value
+[00:09:50] where the project scope
+[00:09:51] and risks are uncertain, uh,
+[00:09:53] where there's significant time constraints,
+[00:09:55] where it's a technically challenging project
+[00:09:58] where there could be external, uh, complex external factors
+[00:10:01] where innovative solutions are needed.
+[00:10:04] Flexibility is important.
+[00:10:06] The collective approach helps manage risk,
+[00:10:08] and there's an expectation
+[00:10:10] of knowledge sharing between the parties.
+[00:10:12] Um, they are currently embedded in very large infrastructure
+[00:10:16] projects in New Zealand.
+[00:10:17] They're often codified in the contract.
+[00:10:19] So we support healthy competition on the market,
+[00:10:23] but we are concerned that any changes must ensure
+[00:10:25] that this positive collaboration continue.
+[00:10:27] And to put that in context,
+[00:10:29] the C committee will have seen the announcement on Tuesday,
+[00:10:31] uh, by the infrastructure commission with a 30 year plan,
+[00:10:34] some very significant project on the 272 70
+[00:10:38] $5 billion pipeline.
+[00:10:40] Many of those are gonna rely on these collaborative
+[00:10:43] structures, uh, remaining, uh, as acceptable, uh,
+[00:10:46] to the business and legal community.
+[00:10:49] Uh, it's our submission that, uh, the Regi,
+[00:10:51] the legislation does risk jeopardizing these
+[00:10:54] models in its current form.
+[00:10:55] And we, uh, if that is the case,
+[00:10:58] we would hope the Commerce Commission would make immediate
+[00:11:00] class exemptions, uh, to allow them to continue.
+[00:11:04] Um, secondly, we support efforts, uh,
+[00:11:06] to combat predatory pricing.
+[00:11:08] We urge the committee
+[00:11:09] and the commission to be mindful though
+[00:11:11] of any unintended consequences.
+[00:11:13] There's many situations where businesses offer discount
+[00:11:17] or lower prices, or they might offer to work at
+[00:11:19] or below cost because of some community.
+[00:11:22] Good. And these are positive,
+[00:11:24] as we pointed in our submission.
+[00:11:25] There may be cases where prices are lowered for the benefit
+[00:11:28] of communities, for example, constructing, uh,
+[00:11:31] walking tracks for public good in partnership,
+[00:11:33] the charitable community groups as it stands,
+[00:11:37] we are concerned that, uh,
+[00:11:39] the provisions may not allow for this.
+[00:11:42] Uh, we also want the commission
+[00:11:44] to be mindful about the role procurement practices play in
+[00:11:48] determining prices that, uh, eventually paid for contracts.
+[00:11:52] You, you may be aware of the past 18 months,
+[00:11:54] our industry has suffered from a significant lack
+[00:11:57] of work being brought to market,
+[00:11:58] and that has resulted sometimes in projects being tended,
+[00:12:02] um, below cost just to keep teams busy, uh,
+[00:12:05] rather than lay them off.
+[00:12:07] There are examples where clients have used that market
+[00:12:10] situation to force prices down even further.
+[00:12:15] Um, the third point is we really need
+[00:12:17] to avoid unnecessary regulatory burden, such as the risk
+[00:12:20] of New Zealand religious reform, disadvan disadvantaging,
+[00:12:24] our New Zealand businesses compared
+[00:12:25] to our Australian cousins.
+[00:12:27] We do lose businesses when that happens.
+[00:12:29] So we know that in Australia conduct creating, strengthening
+[00:12:33] or entrenching a substantial degree of power in the market
+[00:12:36] only relates to acquisitions.
+[00:12:37] But in New Zealand, from what we read, it's intended
+[00:12:40] to apply to all Commerce Act prohibition.
+[00:12:43] So we believe that's too broad
+[00:12:45] and will most likely stifle competition.
+[00:12:48] Um, can I invite my colleague, uh, to add any comments
+[00:12:51] that he would like to make?
+[00:12:53] Yeah. Okay. Thanks Alan.
+[00:12:54] Um, and, um, greeting committee, uh, I'd just like
+[00:12:57] to comment briefly around a little more detail
+[00:12:59] around re regulatory burden.
+[00:13:00] As, as Alan's already commented, um,
+[00:13:02] we've got some infrastructure affordability issues and,
+[00:13:05] and we believe that some of that does come down
+[00:13:07] to regulatory burden.
+[00:13:09] So, um, really the points around notifications.
+[00:13:12] So, um, the amount of notification
+[00:13:15] and the confusion they may cause.
+[00:13:17] Um, we're not quite certain what, how, how much of
+[00:13:20] that this legislative form will generate for the industry.
+[00:13:23] And, um, if we're looking to make,
+[00:13:25] make projects more efficient
+[00:13:27] and bring 'em to market, uh, swiftly, um, I mean,
+[00:13:31] for example, I might just give you one of the clauses
+[00:13:35] that require that,
+[00:13:36] that gives the commission 30 working days to respond.
+[00:13:40] And, um, if they do not respond, then they're deemed to,
+[00:13:43] to have declined to give the clearance.
+[00:13:45] And that's, uh, clause 65 BA
+[00:13:50] and um, four.
+[00:13:52] Um, and if you apply that to collective bargaining with, um,
+[00:13:56] two or more persons who supply
+[00:13:58] or require goods, it's quite a lot of notification
+[00:14:00] and quite a lot of room there for, um,
+[00:14:04] perhaps accidental decline or,
+[00:14:05] or, you know, capacity to deal with that.
+[00:14:08] So this is an example of where regulatory burden can kind
+[00:14:11] of slow down infrastructure projects.
+[00:14:13] If these kind of class exemptions, I mean,
+[00:14:15] for recognized working models aren't, aren't, um, allowed
+[00:14:19] or looked at in detail
+[00:14:20] and without clear guidance, it's really hard for us
+[00:14:22] to know if that will be, you know,
+[00:14:25] the changes will be successful.
+[00:14:26] I mean, in summary, we, we, we support the provisions
+[00:14:28] and to foster competition,
+[00:14:31] but um, we we're not sure what's proposed.
+[00:14:34] Um, we'll streamline as intended,
+[00:14:38] and um, you know, we just ask you to consider that.
+[00:14:40] And, um, tha thank you very much for taking the time
+[00:14:43] to hear us and um, we,
+[00:14:44] we'd welcome any questions that you have for us.
+[00:14:48] Any questions, Travis? So a quick question.
+[00:14:51] So, um, what I understand is you're saying
+[00:14:53] that your industry works, um,
+[00:14:56] slightly differently from other industries, uh, given, uh,
+[00:14:59] there has been a reduction in work recently.
+[00:15:05] When you say work differently, uh, can you elaborate?
+[00:15:07] Mean contracts, availability of contracts?
+[00:15:12] So I don't understand the question you're asking.
+[00:15:15] So, um, so in the, um,
+[00:15:16] because you are, um,
+[00:15:18] when we talk about the infrastructure construction industry,
+[00:15:21] so are you saying that, um,
+[00:15:22] because of a lack of projects, uh, the behavior
+[00:15:27] has changed in the recent months
+[00:15:30] and it operate differently from other industries?
+[00:15:32] So I if we compare with other industries,
+[00:15:34] so you think this won't happen in other industries
+[00:15:36] and it's specific to, uh,
+[00:15:38] the infrastructure construction industry.
+[00:15:41] Um, o obviously our familiar familiarity is only
+[00:15:44] with construction, but I can say that, uh, vertical
+[00:15:47] and horizontal parts
+[00:15:49] of the construction sector have
+[00:15:50] experienced the same challenges.
+[00:15:52] So what we've seen, uh, as we mentioned is, uh,
+[00:15:56] if you like some, um, um, low balling if, for want
+[00:16:00] of a better word, of contracted prices to take advantage
+[00:16:03] of the fact that contractors, myself had little or no work.
+[00:16:07] Mm-hmm. If I could just build on that.
+[00:16:10] So in terms of the previous submitter
+[00:16:12] and the point that they made, um,
+[00:16:14] it's often a procurement issue.
+[00:16:16] So, you know, a lot of this is actually handled through,
+[00:16:18] because we are working on public sector contracts in terms
+[00:16:21] of government contracts
+[00:16:22] or consulate contracts for local government.
+[00:16:25] Um, a lot of the terms are set through those,
+[00:16:28] through the procurement terms of, of government.
+[00:16:30] And um, also a lot of, a lot of the behavior is driven
+[00:16:33] through procurement.
+[00:16:35] So, uh, perhaps part of our submission is
+[00:16:37] that the solution could set at a procurement level rather
+[00:16:40] than a legislative level.
+[00:16:41] And, um, that may be appropriate.
+[00:16:43] And this case, because a lot
+[00:16:44] of these things are already handled in detail in procurement
+[00:16:48] and in the construction contracts that we work under, um,
+[00:16:53] the, the, the fact of having, uh, dealt with
+[00:16:56] through another piece of legislation adds confusion
+[00:17:00] and, um, reduces certainty for our, for our members who,
+[00:17:03] who already know how, how the system works, um, under,
+[00:17:06] under their, under their tendering
+[00:17:08] to their, to their clients.
+[00:17:10] Um, so yeah, that, that's, that's possibly
+[00:17:13] a better way, a good way to put that.
+[00:17:15] Um, does that make sense?
+[00:17:17] And that's, that's good. Thank you so much.
+[00:17:18] Any questions, members? No thank you. No, no questions.
+[00:17:21] Thank you so much for your submission. Thank
+[00:17:23] You very much. Thank you.
+[00:17:25] Alright, with that members,
+[00:17:27] we have concluded hearing from submitters for today.

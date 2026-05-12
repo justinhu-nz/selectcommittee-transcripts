@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:06.641553+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166165616",
+  "title": "2026/03/05 EDSI",
+  "url": "https://vimeo.com/1166165616",
+  "published_at": "20260304",
+  "published_display": "2026-03-04",
+  "duration_seconds": 2652,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2644.36,
+    "segment_count": 1002,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_05 EDSI - vimeo_1166165616\\2026_03_05 EDSI - vimeo_1166165616.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166165616",
+    "display_id": "1166165616",
+    "title": "2026/03/05 EDSI",
+    "description": "Commerce (Promoting Competition and Other Matters) Amendment Bill\n\nRetail NZ\nCarolyn Young, Chief Executive\nDenise Garland, Manager\n\nCentre for International Corporate Tax Accountability and Research (CICTAR)\nEdward Miller, Researcher\n\nFired Up Stilettos\nBianca Beebe, Organiser\n\nRussell McVeagh\nBradley Aburn, Partner\nPetra Carey, Partner\nTroy Pilkington, Partner\n\nDebbie Port",
+    "webpage_url": "https://vimeo.com/1166165616",
+    "original_url": "https://vimeo.com/1166165616",
+    "upload_date": "20260304",
+    "timestamp": 1772653798,
+    "release_timestamp": 1772653805,
+    "duration": 2652,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129527679-d10b5a40dce7630897571aaa52e43b11bba73f5dcc244fb542d8b091e261897b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/286089808.vtt?expires=1778562671&sig=53507d9a7463375535bcd47382bb4b9eddb62afd&download=auto_generated_captions.vtt"
+  }
+}

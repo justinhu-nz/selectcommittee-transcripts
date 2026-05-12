@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:10:20.417203+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170102397",
+  "title": "2026/03/04 - EW [Part 2]",
+  "url": "https://vimeo.com/1170102397",
+  "published_at": "20260304",
+  "published_display": "2026-03-04",
+  "duration_seconds": 1775,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1765.73,
+    "segment_count": 744,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_04 - EW [Part 2] - vimeo_1170102397\\2026_03_04 - EW [Part 2] - vimeo_1170102397.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170102397",
+    "display_id": "1170102397",
+    "title": "2026/03/04 - EW [Part 2]",
+    "description": "Wednesday 4 March 2026 | Education and Workforce Committee\n\nBriefing on the 2024/25 performance, current operations, and strategic intentions of Immigration New Zealand\n\nHearing of evidence:\n\nHon Erica Stanford, Minister of Immigration\nHon Casey Costello, Associate Minister of Immigration\n\nMinistry of Business, Innovation and Employment\n   Alison McDonald, Deputy Secretary Immigration",
+    "webpage_url": "https://vimeo.com/1170102397",
+    "original_url": "https://vimeo.com/1170102397",
+    "upload_date": "20260304",
+    "timestamp": 1772582770,
+    "release_timestamp": 1772582779,
+    "duration": 1775,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129166886-79db90e8cee89ef686d481a974eed142889ae7c2634866751cacca7fdb60dc99-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285911980.vtt?expires=1778562624&sig=cdb35b95772c959e5495bb11eab60e20a61de643&download=auto_generated_captions.vtt"
+  }
+}

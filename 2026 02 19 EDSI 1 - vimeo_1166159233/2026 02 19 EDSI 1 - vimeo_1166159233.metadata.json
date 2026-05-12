@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:12.665829+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166159233",
+  "title": "2026 02 19 EDSI 1",
+  "url": "https://vimeo.com/1166159233",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 1050,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1049.81,
+    "segment_count": 397,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 19 EDSI 1 - vimeo_1166159233\\2026 02 19 EDSI 1 - vimeo_1166159233.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166159233",
+    "display_id": "1166159233",
+    "title": "2026 02 19 EDSI 1",
+    "description": "Commerce (Promoting Competition and Other Matters) Amendment Bill\n\nNew Zealand Law Society\nMichael Tilley, Commercial and Business Law Committee member\nVictoria Fowler, Commercial and Business Law Committee member\n\nCivil Contractors New Zealand\nAlan Pollard, Chief Executive\nFraser May, Communications and Advocacy Manager",
+    "webpage_url": "https://vimeo.com/1166159233",
+    "original_url": "https://vimeo.com/1166159233",
+    "upload_date": "20260218",
+    "timestamp": 1771456960,
+    "release_timestamp": 1771456967,
+    "duration": 1050,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123727520-e2fe17ac55aa916379965ec93b9a69687eb9a23a90802acc1b6d9d9a32db9dba-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283500711.vtt?expires=1778562677&sig=b3bd0964ae491c52a9e56e31c2a368008c882605&download=auto_generated_captions.vtt"
+  }
+}

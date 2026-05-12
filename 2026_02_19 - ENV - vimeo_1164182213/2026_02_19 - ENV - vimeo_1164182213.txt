@@ -1,0 +1,1056 @@
+Title: 2026/02/19 - ENV
+URL: https://vimeo.com/1164182213
+Published: 2026-02-18
+Duration: 00:45:58
+
+[00:00:06] Morning.
+[00:00:07] Morning. Welcome, welcome. Good to see you all.
+[00:00:10] And we will, we're obviously, we're faring our way
+[00:00:12] through the briefing.
+[00:00:14] It's about is our third go, I think. It isn't.
+[00:00:16] Um, look, uh, welcome.
+[00:00:17] So, um, if you quickly introduce yourselves
+[00:00:20] and we'll just carry on from we left off team.
+[00:00:22] Great. Thanks.
+[00:00:24] Excellent. Thanks, Mr. Chair.
+[00:00:25] Um, and committee members, this is the, this
+[00:00:28] Is the, Hmm. Long-term
+[00:00:29] Insights. Long-term Insights Briefing.
+[00:00:30] Yeah. Yeah. So our first,
+[00:00:32] First one, first field. Okay.
+[00:00:34] So, um, thanks Chair
+[00:00:36] and committee members for the opportunity to speak
+[00:00:37] to you today on our long term Insights Briefing,
+[00:00:40] building New Zealand's long-term Resilience to Hazards.
+[00:00:43] My name is Ben King. I'm the Secretary
+[00:00:45] and Chief Executive of the Department
+[00:00:47] of the Prime Minister and Cabinet.
+[00:00:48] I'm here with my colleague, James Palmer, who is, uh, the,
+[00:00:52] the Secretary and Chief Executive for Environment
+[00:00:54] and the Ministry for Environment.
+[00:00:57] Um, while this is my first time, uh,
+[00:00:59] before this committee, I'd like
+[00:01:00] to acknowledge the bipartisan approach, uh,
+[00:01:02] that is taken in general on emergency
+[00:01:05] management and national resilience.
+[00:01:07] The committee I usually report to the, uh,
+[00:01:09] government Administration Committee, um, the chair, uh,
+[00:01:12] Camilla Blich and Mr. Mitchell have a really good work
+[00:01:14] relationship building allege, uh, their approach.
+[00:01:18] And I was delighted that James tells me, um,
+[00:01:20] it's a similar approach here.
+[00:01:23] I'd like to start by acknowledging, uh, those
+[00:01:25] who tragically lost their lives in January's, uh,
+[00:01:27] weather events, our thoughts, uh,
+[00:01:29] with those communities affected.
+[00:01:31] And I'd also like to acknowledge the impact weather events
+[00:01:34] more recently, uh, across the Lower North Island, while
+[00:01:38] how long-term Insights Briefing
+[00:01:40] was prepared before these events.
+[00:01:42] Uh, they do bring into focus the stark reality
+[00:01:44] of the challenges we face as an agent, in line
+[00:01:47] with the intent and guidance
+[00:01:49] for long-term insights briefings.
+[00:01:50] Our briefing, uh, was produced independently of ministers
+[00:01:54] and does not comment on government policy
+[00:01:56] or provide recommendations.
+[00:01:58] So it's a think piece, a piece of assessment intended
+[00:02:01] to look beyond the immediate political horizon
+[00:02:03] and help us all parliament, the public
+[00:02:05] and the private sector plan for future challenges.
+[00:02:09] The focus of our briefing is national resilience.
+[00:02:12] We define this as the ability to prevent, minimize, absorb,
+[00:02:15] adapt to recover from, and transform through shocks
+[00:02:19] and stresses resilience
+[00:02:21] and enhance safety, security, prosperity of our people.
+[00:02:27] Historically, new Zealand's approach
+[00:02:28] to risk management has been largely reactive.
+[00:02:31] However, we know that human
+[00:02:33] and financial costs of that model, uh, unacceptably high.
+[00:02:37] So our briefing argues for a strategic, proactive approach,
+[00:02:40] making the investments
+[00:02:41] and the hard choices now that will prevent loss
+[00:02:44] and harm in the future.
+[00:02:47] To be proactive, we must be clear-eyed about the landscape.
+[00:02:49] We are in New Zealand as a multi-aged environment,
+[00:02:53] and we are consistently ranked amongst the countries
+[00:02:55] with the highest disaster risk in the world.
+[00:03:00] National Risk Register identifies 14 major hazards,
+[00:03:03] but in this briefing we have mostly focused on the big six,
+[00:03:07] those hazards that either have the potential
+[00:03:09] for catastrophic impact
+[00:03:10] or occur so frequently
+[00:03:12] that the accumulative cost is immense.
+[00:03:15] DPMC takes the challenges outlined in this briefing.
+[00:03:18] Seriously, over the last year,
+[00:03:20] we have reprioritized our resourcing, allowing us
+[00:03:23] to increase the number of staff we have dedicated
+[00:03:25] to implementing the National Risk and Resilience Framework.
+[00:03:28] From three to 13,
+[00:03:30] these staff are focused on working across government
+[00:03:33] to proactively build resilience.
+[00:03:35] And late last year, we've supported the Prime Minister
+[00:03:37] to deliver the first ever national Risk
+[00:03:39] and Resilience report back to cabinet,
+[00:03:41] which identified opportunities
+[00:03:43] to strengthen accountability and oversight.
+[00:03:46] We also reshaped the governance system, which, uh,
+[00:03:49] which oversees the, uh, national Resilience System, uh,
+[00:03:52] with the National Security Board
+[00:03:54] and Emergency Management Board,
+[00:03:56] and a National Hazard Risk Reduction Board reporting into a
+[00:04:00] National Resilience Board as the umbrella.
+[00:04:03] Well done. Thanks very much for the opportunity
+[00:04:05] to appear before you today.
+[00:04:06] Um, we look forward to the discussion
+[00:04:08] of the, of the Briefing.
+[00:04:09] And pass now to James.
+[00:04:11] Thank you being Koto, uh, chair committee members.
+[00:04:14] Um, thanks Ben for the introduction
+[00:04:16] and also acknowledging the tragic loss of life, uh,
+[00:04:20] and the ongoing disruption caused
+[00:04:21] by our most recent severe weather.
+[00:04:24] Uh, just also wanna acknowledge, uh,
+[00:04:26] the D-P-M-C-N-M-E fee team who developed this briefing, uh,
+[00:04:29] a number of whom are with us, uh, today,
+[00:04:31] and just c in the insights that they've provided,
+[00:04:34] and also the way in which the agencies, uh,
+[00:04:36] have worked together, uh, for the ministry.
+[00:04:39] Working with DPMC, uh,
+[00:04:41] on this has been a particular, uh, privilege.
+[00:04:44] Uh, shortly after our team started this work, uh,
+[00:04:47] the public sector was mobilized, uh,
+[00:04:49] once again alongside communities to deal, uh,
+[00:04:52] the latest real life demonstration of the very issues
+[00:04:55] that raised, and that was, uh, severe weather, uh, in the,
+[00:04:59] uh, Nelson Tasman, uh, district.
+[00:05:02] And throughout the time that we've developed this, uh,
+[00:05:04] and there have been ongoing events, I've been struck
+[00:05:06] by two key thoughts.
+[00:05:09] The first of which is that as a country, we need
+[00:05:12] to stop being surprised.
+[00:05:13] Mm-hmm. Uh, events like these are not anomalies.
+[00:05:16] Um, they're known features of life in New Zealand.
+[00:05:19] Uh, they've had them many times in the past,
+[00:05:21] and they'll continue, uh, to have a science has told us
+[00:05:25] for decades that as a small island nation,
+[00:05:27] nations straddling a tectonic plate boundary
+[00:05:30] and surrounded by warming oceans.
+[00:05:32] Our hazard profile is not a matter of if,
+[00:05:34] but it is when second,
+[00:05:37] there is an enormous opportunity in that predictability.
+[00:05:41] If we accept the certainty of these events,
+[00:05:44] we can become one of the most prepared nations in the world.
+[00:05:48] New Zealand currently loses 0.6%
+[00:05:50] of GDP annually on average to natural hazards.
+[00:05:53] That's nearly twice the OECD average.
+[00:05:56] Since 2010, we've spent $64 billion
+[00:06:00] as a country on hazard related costs,
+[00:06:03] and 97% of that expenditure has been on response
+[00:06:07] and recovery, and only 3% has been spent on
+[00:06:10] reducing risk in the first place.
+[00:06:12] That balance, uh, is unsustainable
+[00:06:15] and that core concept we wanted to highlight, uh,
+[00:06:20] with this briefing, how do we shift
+[00:06:23] as a country from being reactive
+[00:06:25] and focusing on recovery to expecting, anticipating,
+[00:06:29] preparing for, and reducing, uh, risk ahead of harm?
+[00:06:33] Han our briefing outlines, uh, what Ben referred to as six.
+[00:06:38] Uh, the big six hazards, the major, uh, risks
+[00:06:41] that shape New Zealand's resilience landscape.
+[00:06:43] We begin with earthquakes still the most
+[00:06:45] consequential of our hazards.
+[00:06:47] Uh, the Alpine fault, the southern margin, uh,
+[00:06:50] and the Wellington Fault all hold the potential to, to, to,
+[00:06:54] to rupture in ways that could radically transform our cities
+[00:06:57] and infrastructure and our daily lives
+[00:06:59] with national consequences.
+[00:07:02] Uh, I particularly turn, um, the, uh, the, the committee's,
+[00:07:05] uh, attention toward the, uh, the Alpine fault.
+[00:07:08] And the briefing is noted, the 75% probability
+[00:07:11] of a rupture within the next 50 years.
+[00:07:14] Uh, the Alpine fault is unusual, uh, in international terms
+[00:07:19] for its predictability.
+[00:07:20] Uh, it does rupture consistently, reliably, every 300 years,
+[00:07:25] and it is now overdue,
+[00:07:27] and there is an 80% probability of
+[00:07:29] that being a more than a zero, uh, a an eight magnitude, uh,
+[00:07:32] earthquake with massive consequences
+[00:07:35] for particularly the south island,
+[00:07:37] but also New Zealand's infrastructure, tourism, uh,
+[00:07:40] and economy alongside the sits volcanic activity, uh,
+[00:07:44] a continual presence in our geology, uh,
+[00:07:47] and an unexpected eruption in tamaki makoto,
+[00:07:49] or renewed unrest in Taranaki, uh,
+[00:07:52] would bring swift far reaching consequences for communities
+[00:07:55] and the economy, uh,
+[00:07:57] and also draw the committee's attention to the probabilities
+[00:07:59] and the briefing around, uh, a interruption, not taranaki.
+[00:08:03] Uh, it's something we should anticipate this century.
+[00:08:07] We also face, face the threat of tsunami, less frequent,
+[00:08:10] but devastating when they come, often in the wake
+[00:08:12] of some large earthquakes.
+[00:08:14] Uh, we already fear
+[00:08:15] and capable of compounding the damage at
+[00:08:18] extraordinary speed.
+[00:08:19] Uh, and the geological re record shows
+[00:08:21] that New Zealand has been hit
+[00:08:23] by large tsunamis along its coastline many, many times.
+[00:08:27] So again, not a matter of if, just a matter of when
+[00:08:30] severe weather has become the hazard we see and feel.
+[00:08:33] Most often the storms, landslides,
+[00:08:35] and floods of recent months are not outliers.
+[00:08:38] Our warnings, these events are clustering, intensifying,
+[00:08:42] and interacting with where
+[00:08:43] and how we've built our homes, roads, and infrastructure.
+[00:08:47] Some hazards feel newer, even if the risks are very real.
+[00:08:52] Space weather, for example,
+[00:08:53] where a major solar storm could disrupt the satellite based
+[00:08:56] systems that underpin everything from our trading networks
+[00:08:59] to our emergency services.
+[00:09:01] And pandemics, of course, remain an enduring risk,
+[00:09:03] reminding us that biological threats can escalate quickly
+[00:09:07] and globally across all six.
+[00:09:10] One. Truth is constant.
+[00:09:11] A disaster only occurs when a hazard meets people assets
+[00:09:15] and the systems that are exposed and vulnerable.
+[00:09:18] We cannot stop the earth from moving
+[00:09:20] or the weather from intensifying at least, uh,
+[00:09:22] in the short to medium term.
+[00:09:24] But we can shape what is placed in harm's way
+[00:09:27] and how well it can withstand the shocks to come with.
+[00:09:30] That requires systems, legal planning, financial, digital,
+[00:09:34] scientific that consistently drives safer choices.
+[00:09:37] And a cornerstone of that system is reliable, accessible,
+[00:09:41] decision ready, hazard and risk information.
+[00:09:44] This information is in every sense, national infrastructure.
+[00:09:47] Yet in many of the data sets that should, uh,
+[00:09:49] anchor our decisions, such as landside,
+[00:09:52] slide susceptibility, stormwater capacity, rainfall,
+[00:09:56] intensities, soil stability, flood extents,
+[00:09:59] they're all fragmented, aging,
+[00:10:01] and in, uh, inconsistently maintained
+[00:10:04] and funded at present,
+[00:10:06] recent events have shown the cost of that gap.
+[00:10:09] When information is unclear
+[00:10:10] or unavailable, decisions default to reaction
+[00:10:13] and reaction is slower, more expensive,
+[00:10:16] and more damaging for communities.
+[00:10:18] But information is only one part
+[00:10:20] of the resilience landscape.
+[00:10:21] A risk profile is shaped by broader forces.
+[00:10:23] Some that increase our exposure
+[00:10:25] and some that strengthen our ability
+[00:10:27] to withstand shocks On the exposure side are
+[00:10:30] our development patterns.
+[00:10:32] Most of our towns and cities built on river mouths
+[00:10:34] and coastal mouths, our geographic isolation,
+[00:10:37] our concentrated economy, and an aging population,
+[00:10:40] and a growing dependence on digital systems,
+[00:10:43] all occurring against the backdrop of global instability,
+[00:10:48] stable institutions, deep scientific capability, high levels
+[00:10:52] of social trust, and strong partnerships
+[00:10:55] with across central government, local government, iwi,
+[00:10:59] industry, and community can be a strength, uh,
+[00:11:02] when they are nurtured.
+[00:11:04] Crucially, hazards do not operate in isolation.
+[00:11:07] Risks are increasingly cascading.
+[00:11:09] A flood triggers a power failure,
+[00:11:11] which disables communication,
+[00:11:13] which then escalates into a health emergency.
+[00:11:16] Our systems must be designed
+[00:11:17] with this interconnectedness in mind.
+[00:11:19] This is why our briefing emphasizes the
+[00:11:21] unavoidable choices ahead.
+[00:11:23] None are cost free. Delaying decisions only
+[00:11:26] increases the eventual price.
+[00:11:28] And these choices are challenging, not
+[00:11:31] because the risks are unknown, but
+[00:11:33] 'cause information is imperfect.
+[00:11:34] The incentives of different groups vary,
+[00:11:37] and the trade-offs are real,
+[00:11:39] being explicit about those trade-offs, which is gained.
+[00:11:42] Uh, what is gained, what has given up
+[00:11:44] and why allows decisions to be made in transparent,
+[00:11:47] durable, and fair manner.
+[00:11:49] The encouraging news is that momentum is building.
+[00:11:52] Ben's already referred to the investment made in Department
+[00:11:55] of Prime Minister and Cabinet around the National Risk
+[00:11:57] and Resilience framework.
+[00:11:59] The National Adaptation plan,
+[00:12:01] and the work that we've done
+[00:12:02] with this committee in the last few years around adaptation
+[00:12:05] and further policy and legislative, uh, changes to come
+[00:12:08] before this committee later this year.
+[00:12:10] And reforms to our planning
+[00:12:11] and environmental management system, which was of course
+[00:12:14] before, uh, this committee right now, as well as reform
+[00:12:17] to the science system
+[00:12:19] and to, uh, the emergency management system,
+[00:12:22] are all starting to build a much more
+[00:12:24] coherent national approach.
+[00:12:26] New digital tools will for the first time,
+[00:12:28] provide a single national channel for consistent
+[00:12:30] and assured hazard information
+[00:12:32] to flow into those statutory plans
+[00:12:35] that you are overseeing the policy for the spatial plans
+[00:12:38] and the regulatory plans, infrastructure investment, uh,
+[00:12:41] which is topical, obviously
+[00:12:43] with the National Infrastructure Plan,
+[00:12:44] uh, released this week.
+[00:12:46] And local adaptation decisions that will be part of the, uh,
+[00:12:50] adaptation legislation
+[00:12:51] before committee later this year
+[00:12:53] are replacing a current system
+[00:12:55] where 78 councils produce 78 different sets of hazard maps,
+[00:12:59] models and risk layers.
+[00:13:01] All that differ, all with their gaps, uh, in coverage.
+[00:13:04] So we're standing at a rare moment
+[00:13:07] where the resource management reforms,
+[00:13:08] the climate adaptation, the emergency management reforms,
+[00:13:11] digital enablement,
+[00:13:12] and the science system reforms are all actually
+[00:13:14] converging together.
+[00:13:16] They give us the chance to design a risk
+[00:13:18] and planning system that's fit for the future,
+[00:13:20] rather than patching together one from the past.
+[00:13:23] And there is scope to go even further
+[00:13:25] by empowering our communities, harnessing data
+[00:13:27] and technologies like AI, designing smarter
+[00:13:30] and more adaptive infrastructure, including the use
+[00:13:33] of nature-based solutions and natural infrastructure,
+[00:13:36] and strengthening our investment models that spread risk
+[00:13:39] and accelerate resilience.
+[00:13:41] Ultimately, national resilience is not about just about
+[00:13:44] reducing losses, it's actually about unlocking gains,
+[00:13:48] a safer, more resilient, and more insurable.
+[00:13:51] Uh, New Zealand is one where people
+[00:13:53] and businesses thrive, not only when conditions are easy,
+[00:13:57] but also when they are hard.
+[00:13:59] Resilience is a long game, and it requires all
+[00:14:01] of us central government, local government, iwi, industry,
+[00:14:04] and households all to play their part.
+[00:14:07] The future does not simply happen to us.
+[00:14:09] It's something that we can shape together.
+[00:14:11] Thank you for your time, and we welcome your questions.
+[00:14:14] Thank you very much. You both,
+[00:14:15] it's a very sobering way start.
+[00:14:17] Okay. Uh, look, I've got a range
+[00:14:19] of questions we'll, uh, start with
+[00:14:22] Thank you. Um, thank
+[00:14:23] you both for your work on this
+[00:14:24] and your teams at the two agencies.
+[00:14:27] Um, and I think it speaks to the importance
+[00:14:30] of having think pieces like this that sits outside of
+[00:14:34] election cycles and independent of ministers.
+[00:14:37] So I will just say that it's a shame that all
+[00:14:40] of these are gonna be asked except
+[00:14:41] for one, um, going forward.
+[00:14:44] Um, but just a couple of questions that I,
+[00:14:46] that I'll start with, if that's all right.
+[00:14:48] Mr. Chu, um, you have laid out quite clearly, um,
+[00:14:54] throughout the report, sort of, you've alluded
+[00:14:57] to existing pieces of work that are building momentum.
+[00:14:59] You've made the point that we are not
+[00:15:00] sort of starting from scratch.
+[00:15:02] There is work to, uh, towards this.
+[00:15:05] I wondered whether you also, I took a look at pieces
+[00:15:09] of work, um, that perhaps may not be continuing now
+[00:15:13] that would've contributed
+[00:15:15] to towards the goals that you've mentioned.
+[00:15:17] Um, you've mentioned the need for social license,
+[00:15:19] so things like the social cohesion work program, things like
+[00:15:23] that, that would help build, um, uh, resilience
+[00:15:26] and social license.
+[00:15:28] Did you look at other things
+[00:15:30] that perhaps might add to this work program?
+[00:15:34] I'm, I'm happy to, um, have a, have a have a go this.
+[00:15:37] So the, I mean, social cohesion is such an important, um,
+[00:15:40] underpinning piece of fabric, which goes
+[00:15:43] through basically any risk or any threat or any hazard.
+[00:15:47] Um, social occasions becomes, um, really important.
+[00:15:50] So at a, at a broader level across governments,
+[00:15:53] so not necessarily in the context of this,
+[00:15:56] but, um, without, we are long
+[00:15:57] and actively talking about how we continue
+[00:15:59] to build the programs, how we, um, get at, uh, uh,
+[00:16:04] you know, helping people who are in need, anticipating
+[00:16:08] where needs will come, building the, the social cohesion,
+[00:16:11] doing it through, um, a rank, you know, through SD
+[00:16:13] through ethnic communities, and also working
+[00:16:15] with the communities themselves.
+[00:16:17] So we are, it's a active discussion
+[00:16:19] and something we are pushing in on. Uh, so
+[00:16:23] Has stopped As No, no, no.
+[00:16:26] Well, our, we as a, as a system, as a public service,
+[00:16:31] we certainly haven't stopped, um, the work
+[00:16:34] and we haven't stopped the, um, the understanding
+[00:16:38] and the commitment to knowing
+[00:16:39] that social cohesion is something
+[00:16:41] that we need to continue to build.
+[00:16:43] So part of that then is trust in institutions.
+[00:16:45] You've laid this out in your report as well.
+[00:16:49] Um, there are other think pieces that point to the fact
+[00:16:51] that globally trust in institutions is declining.
+[00:16:55] Um, and I wondered whether through this piece of work,
+[00:16:58] you had perhaps seen some good examples overseas,
+[00:17:02] the international models that you've laid out in this
+[00:17:04] report, uh, specifically points to response to security, um,
+[00:17:08] and defense sort of measures perhaps based on risk
+[00:17:11] and resilience in those countries.
+[00:17:14] But outside of that,
+[00:17:15] and if you look at what we need, what pillars we need
+[00:17:19] to build trust in institutions, was there anything
+[00:17:22] that you came across that isn't in this report
+[00:17:24] that you thought might be useful?
+[00:17:27] Uh, well, I don't, I don't think so.
+[00:17:30] Let me just check. Yeah, I,
+[00:17:31] I might, I might just make one, one comment.
+[00:17:33] I'm aware that the, um, the global Edelman survey
+[00:17:35] that's done of, uh, of trust around institutions globally,
+[00:17:40] which is considered to be rigorous
+[00:17:43] and, uh, internationally, uh,
+[00:17:46] consistent from a benchmarking point of view,
+[00:17:49] is certainly showing that, uh, trust
+[00:17:51] and confidence in our science institutions is holding up.
+[00:17:54] Mm-hmm. And I think that's something for us to be,
+[00:17:57] uh, very grateful for.
+[00:17:58] And I think part of, uh, the, the challenge
+[00:18:01] for the science system is it's communication
+[00:18:04] with communities and, and meeting
+[00:18:05] communities where they're at.
+[00:18:08] And it is something that I know the government
+[00:18:10] through the science reforms is particularly, uh, focused
+[00:18:13] as is on the translation of science to,
+[00:18:16] uh, real world outcomes.
+[00:18:17] And there is a particular investment focus
+[00:18:19] around hazards and resilience.
+[00:18:21] So I think, um, we've got, uh, we, we've made some,
+[00:18:25] some progress in that regard,
+[00:18:27] but I think part of what we've tried to highlight here is
+[00:18:30] that there is more work to do to build public awareness
+[00:18:33] around the hazard scape.
+[00:18:35] And science will be critical to that.
+[00:18:37] And trust and confidence in our science institutions,
+[00:18:40] I think, can help depoliticize to an extent,
+[00:18:43] because I think communities do consider, uh, scientists
+[00:18:46] to generally be apolitical, uh,
+[00:18:48] and be, um, uh, neutral on these questions.
+[00:18:51] Mm-hmm. Many of the issues, particularly in relation
+[00:18:53] to climate change, as the committee knows, uh,
+[00:18:56] have become politically contested.
+[00:18:58] Uh, and as a consequence, I think, uh,
+[00:19:00] letting the science speak for itself, uh, as a way of
+[00:19:04] ensuring that we build trust
+[00:19:05] and confidence, uh, in, in a way that's harder, I guess,
+[00:19:08] for democratic institutions to do.
+[00:19:10] So it's in support of local government
+[00:19:12] and central government in
+[00:19:13] the decisions that will need to be taken.
+[00:19:15] Yeah. Thanks, Julian.
+[00:19:17] You supple on up on that, up On that, if
+[00:19:19] I just, just in terms of, uh, impacts of projects
+[00:19:24] that aren't funded that would potentially
+[00:19:27] help New Zealand be better prepared for these kind of
+[00:19:32] resilience outcomes that we're trying to achieve here.
+[00:19:34] What about the very absence of the Climate Resilience fund?
+[00:19:40] Sorry, the Climate Emergency Resilience Response Fund.
+[00:19:44] Um, is that in itself, the absence of that, you know,
+[00:19:49] contributing to our lack of resilience in this area?
+[00:19:53] So there has continued to be investment in, uh, uh,
+[00:19:56] flood management.
+[00:19:58] Mm-hmm. Uh, as the committee will be aware,
+[00:20:00] and the current investment in infrastructure more broadly,
+[00:20:04] um, not just roading, uh, uh, in a, in a range
+[00:20:08] of areas is, uh, helping to build resilience.
+[00:20:11] So I, I, I think it would be, um, incorrect
+[00:20:14] to characterize the, uh, the investment in
+[00:20:18] national infrastructure resilience as, uh,
+[00:20:21] having been turned off
+[00:20:22] or no longer continuing despite the
+[00:20:25] discontinuation of that fund.
+[00:20:27] So there is still, uh, uh, there is still, um,
+[00:20:29] a significant investment going in there.
+[00:20:31] I think what the national infrastructure plan highlighted
+[00:20:34] earlier this week, however, is
+[00:20:35] that this is a very long game.
+[00:20:37] Mm-hmm. And there is a lot
+[00:20:38] of investment required over a very long period of time.
+[00:20:41] That's right. And I think it's, um, it's a statement of fact
+[00:20:44] that New Zealand has a major infrastructure deficit
+[00:20:47] and that we have a lot of catch up to do over,
+[00:20:50] over a long period of time.
+[00:20:52] The affordability of that
+[00:20:53] and the rate at which we can build further resilience and,
+[00:20:56] and, uh, maintain our assets
+[00:20:58] and build new ones are all choices for New Zealanders,
+[00:21:01] obviously, in terms of a, you know, willingness to pay
+[00:21:03] and priorities for, for investment.
+[00:21:05] But yeah. So
+[00:21:07] David, yeah, it is supplementary and,
+[00:21:09] and thank you for the report.
+[00:21:10] I think this is, uh, word is enlightening
+[00:21:13] and particularly with certain risks that you sort
+[00:21:16] of look step back
+[00:21:17] and you think, oh, yeah, I suppose that is absolutely right.
+[00:21:19] But extending on what LAN's saying then in your commentary,
+[00:21:22] just then, James, um, at the end of the day,
+[00:21:25] this committee is, has a, has a very specific purpose,
+[00:21:29] a very, uh, specific job.
+[00:21:31] And I think what would help us is probably having greater
+[00:21:34] visibility of the spend of, with regards
+[00:21:36] to proactive as well as reactive.
+[00:21:39] You've spoken to the many billions of dollars
+[00:21:41] that are spent over the years,
+[00:21:43] but for us to actually understand better, uh,
+[00:21:46] what is actually happening, where the trends with regards
+[00:21:49] to it, I think would be very helpful.
+[00:21:51] And, uh, an example that comes to mind is, uh, the, uh, uh,
+[00:21:55] commissioner for the environment with what he does
+[00:21:57] with the environmental spend, with his, uh, zaki,
+[00:22:00] um, graph and all that sort of stuff.
+[00:22:02] I think that would be very helpful for our committee
+[00:22:05] to be able to work out what are the questions
+[00:22:07] and who to talk to
+[00:22:08] to see whether we're doing the best we can possibly do.
+[00:22:11] Secondly, as a supplementary is about that, uh, priorities.
+[00:22:16] As you say, James, there's lots of spend
+[00:22:18] that's on the horizon,
+[00:22:20] but how do we go about prior we prioritizing
+[00:22:23] what we're spending on, uh,
+[00:22:25] recently we've put a big effort into flood management, uh,
+[00:22:29] and that what's next,
+[00:22:30] cab off the rank, all that sort of stuff.
+[00:22:32] I think those are the questions
+[00:22:33] that I think this committee should be prepared
+[00:22:35] to be asking whatever entity that we've got in front of you.
+[00:22:38] So it's, it's actually more of a comment
+[00:22:40] that I think we could improve upon the information
+[00:22:42] that would help us to do our job.
+[00:22:43] Okay. Okay. That's
+[00:22:45] Good. Good. Thank you. Chair. Can
+[00:22:46] I suggest that we come back
+[00:22:47] to the committee, uh, in, in writing with, uh, some response
+[00:22:51] to either the availability
+[00:22:52] of the information or with the information?
+[00:22:54] That'd be great. Thank you. Appreciate that. Right.
+[00:22:56] So Julianne in the primary.
+[00:22:58] Yeah. Um, well, actually it's pretty related
+[00:23:00] to the discussion we've been having.
+[00:23:01] Thank you so much for the briefing.
+[00:23:04] Um, given the need to have it be long term
+[00:23:08] and outside political cycles, um, like to
+[00:23:13] what extent should we be thinking about something like a
+[00:23:16] parliamentary commissioner for catastrophic risk
+[00:23:19] that's sitting a little bit independent of the government
+[00:23:22] of the day that can advise parliament
+[00:23:24] and do some of that long-term thinking
+[00:23:26] and, you know, offer off insights to government departments
+[00:23:30] because the government
+[00:23:31] of the day has its own priorities it's selected on,
+[00:23:34] which are often shorter term.
+[00:23:38] Yeah. Maybe I'll, I'll add a, um, first response on that.
+[00:23:41] We've actually got a, a range of tools in the transparency
+[00:23:43] around, um, ing
+[00:23:45] and decisions that are made against those becoming more, um,
+[00:23:49] you know, there's much more information
+[00:23:50] going into the public domain.
+[00:23:52] So, um, three years ago there was no national risk
+[00:23:56] and resilience sort of framework, and now we've got it up.
+[00:23:58] It's, it's, uh, cabinet document, it's, it's public,
+[00:24:01] and the risks are against them.
+[00:24:03] And at the moment, we are going through
+[00:24:04] and actually just doing a, um, line by line
+[00:24:07] or a risk by risk review of, um,
+[00:24:10] what's your maximum credible event,
+[00:24:12] what's your response readiness,
+[00:24:13] and what's the, the golf between them?
+[00:24:15] Because of course, you can never, um,
+[00:24:17] or you could throw a whole lot
+[00:24:18] of resource at one particular risk
+[00:24:20] and never actually yeah, be completely ready.
+[00:24:22] So I actually think, um, your, your best tool is actually,
+[00:24:27] um, the transparency of the information and,
+[00:24:30] and the building awareness with the public
+[00:24:32] because, um, that information's available to, to all of you,
+[00:24:35] but actually more importantly, is available to communities.
+[00:24:37] Communities need to understand, um,
+[00:24:40] or they'd benefit from understanding where there are gaps,
+[00:24:43] thinking about how they, as a society, as an individual,
+[00:24:46] as a family, as a, as a community,
+[00:24:48] or as a, as an iwi group, um, actually get themselves ready
+[00:24:52] for particular risk and, and how they're shaped.
+[00:24:55] So that's a long way of saying, um, I'm not sure
+[00:24:59] that you would need a independent commissioner.
+[00:25:02] Um, if there was a sense
+[00:25:03] that there wasn't enough information
+[00:25:05] or that choices weren't available and able to prosecute them
+[00:25:09] and ask questions about them
+[00:25:10] and challenge them, then maybe there'd be a, a role
+[00:25:12] for a independent commissioner.
+[00:25:14] Um, the report identifies
+[00:25:17] that local government iwi community responses
+[00:25:21] and readiness is really important.
+[00:25:24] Um, local government revenue at the moment is only about 4%
+[00:25:28] of GDP, where central government's 33%.
+[00:25:31] Um, like, is local government really sufficiently funded
+[00:25:36] to provide and do that community building
+[00:25:40] and information sharing that
+[00:25:42] and infrastructure investment
+[00:25:44] that might be needed at a local level?
+[00:25:46] Or does, you know, parliament need to think about
+[00:25:49] how we can better resource local government
+[00:25:51] to, to do this work?
+[00:25:54] Yeah, I, I, it's probably outside of the scope of our, um,
+[00:25:58] of our, of our briefing, um, to be honest,
+[00:26:00] because, um, we, we've identified the, the players
+[00:26:02] and the actors, but how, um,
+[00:26:04] various entities of funding are,
+[00:26:06] I mean, I really welcome In the parliament,
+[00:26:08] The acknowledgement of nature-based solutions
+[00:26:10] and the, you know, huge potential there.
+[00:26:13] What we've found is, um, with the shift
+[00:26:16] to the new water entities, um, in Wellington, for example,
+[00:26:20] there's local, locally elected representatives
+[00:26:24] who really want to be able to, um,
+[00:26:28] invest in these nature-based solutions.
+[00:26:30] The community wants it,
+[00:26:31] but now the decisions are gonna be made
+[00:26:34] by these separate water entities
+[00:26:35] who are mainly thinking about reticulated solutions.
+[00:26:38] And, and council has, again, doesn't necessarily have the
+[00:26:43] capital to be able to make those investments.
+[00:26:47] The water entities might benefit from it,
+[00:26:49] but they're just thinking about pipes
+[00:26:51] and their responsibility.
+[00:26:52] They don't, they're not thinking about the water
+[00:26:54] before it gets into the pipes.
+[00:26:55] How, how can we as parliamentarians, enable local government
+[00:27:00] to be able to make,
+[00:27:01] or who, who who really has the incentive
+[00:27:04] to think about the nature-based solutions?
+[00:27:08] So I'll make a comment on that.
+[00:27:09] So the, one of the reasons that, that we wanted to highlight
+[00:27:12] that, uh, uh, is that, uh,
+[00:27:16] nature-based solutions often, uh,
+[00:27:18] cost effective over the longer term.
+[00:27:21] Uh, and putting a pipe in the ground can often be, uh,
+[00:27:25] a good short term solution,
+[00:27:26] but longer term present issues including ongoing ma
+[00:27:30] maintenance and renewal.
+[00:27:32] So, um, I think lifting up the, the, the broader sentiment
+[00:27:36] that the, uh, that the briefings trying to, uh, provoke is
+[00:27:41] around longer term thinking
+[00:27:42] and our investment horizons around preparedness,
+[00:27:45] including an infrastructure investment.
+[00:27:48] And that comes down to a question
+[00:27:50] of priorities for communities.
+[00:27:51] And I think for, for local government in particular, uh, uh,
+[00:27:55] but also for central government, um, you know,
+[00:27:59] we're acutely aware of the affordability challenges for, uh,
+[00:28:03] many communities and households right now with,
+[00:28:05] with rating burdens as well as insurance on top of that,
+[00:28:08] as well as, um, the broader economic backdrop.
+[00:28:11] And so, um, I think we're provoking, uh, local government
+[00:28:15] to think hard about priorities and, uh, short versus long
+[00:28:21] and certainly infrastructure
+[00:28:22] that reduces long-term cost and harm.
+[00:28:25] Uh, the case we are making here, uh, is, is something
+[00:28:29] that's well worth, uh, at least being properly considered,
+[00:28:33] if not being compelling
+[00:28:35] for investment. I need a quick step on
+[00:28:37] This person. Yeah. Just, just
+[00:28:38] on those nature-based solution projects,
+[00:28:41] is it right that MFE has 20 of these kind
+[00:28:46] of regional nature-based solution studies that are in
+[00:28:50] relationship with regional councils?
+[00:28:53] So slightly different.
+[00:28:55] Uh, so that's the work we are doing around, uh,
+[00:28:57] nature credit markets, and there are
+[00:28:59] 20 pilots at the moment.
+[00:29:01] Oh, so those aren't the, um, resilient rivers.
+[00:29:05] Oh, sorry, I thought that was the nature-based solutions
+[00:29:07] for flood mitigation projects.
+[00:29:09] Oh, yes. So that is, that's, that's, uh, out of the
+[00:29:13] previous, uh, essential fresh water funding,
+[00:29:15] there were some projects of that nature.
+[00:29:17] Okay. Yeah, no, you
+[00:29:19] That are still in train and working towards,
+[00:29:22] So pretty much all of that work is coming to an end,
+[00:29:25] or should have come to an end, uh, by now.
+[00:29:29] Uh oh, okay. But,
+[00:29:30] but many of those projects will be continued
+[00:29:32] by the local authorities that have stimulated them,
+[00:29:34] and we've highlighted them through various documents.
+[00:29:37] Um,
+[00:29:39] Okay. Thank
+[00:29:40] You. Okay. Cool.
+[00:29:41] You have a quick supple on this
+[00:29:42] One. Very quick. Supple. Yeah.
+[00:29:43] Thank you. Next chair.
+[00:29:44] Um, I like the nature based solutions
+[00:29:47] that you've laid out here as well,
+[00:29:48] and if this committee wanted
+[00:29:50] to get a bit more information on what that could look like,
+[00:29:52] what work is underway in that space currently,
+[00:29:55] do you have suggestions of, of who we could talk to
+[00:29:57] as there work in MFE, um, that we could look to or others?
+[00:30:03] Uh, yes. Uh, so, um, uh,
+[00:30:07] probably one organization worth, uh,
+[00:30:09] looking at would be the RTRI circle
+[00:30:12] that's currently been undertaking work on, uh,
+[00:30:16] a natural infrastructure plan for New Zealand.
+[00:30:19] Um, and they've been working with, uh, be's been leading
+[00:30:22] that work on their behalf.
+[00:30:24] And, uh, it's a collaboration across, um,
+[00:30:28] the infrastructure commission, uh, range
+[00:30:30] of government departments and private sector entities too.
+[00:30:33] So that, that work is, uh, uh, going
+[00:30:37] to be released later this year.
+[00:30:39] And we'll be sitting alongside the national infrastructure
+[00:30:43] plan as a companion document,
+[00:30:45] and we've been engaged with, um,
+[00:30:46] the infrastructure commission on
+[00:30:48] that work coming together. Thanks.
+[00:30:51] Right. Um, David, you had a primary No, I was
+[00:30:53] I right Now or doubt.
+[00:30:55] Okay. Right. Then I'll, I'll, I'll, I'll get a, um,
+[00:30:58] question you touch on here.
+[00:31:00] And one of the things, obviously with, um, the recent events
+[00:31:02] with severe weather and flooding, um,
+[00:31:05] has there been any work done, uh, look,
+[00:31:09] look you referenced there, but that shows like over, say,
+[00:31:12] the last 50 years, is is it becoming more
+[00:31:15] regular and more intense?
+[00:31:17] Because this is the discussion we had I have with people.
+[00:31:20] Some, some people think it's a whole pile of rubb.
+[00:31:23] Others think it's, well, yes, we are getting that.
+[00:31:25] So facts and figures would be really helpful.
+[00:31:27] The number of events, the intensity of them compared now,
+[00:31:31] compared to 50 years ago would be quite helpful if we're
+[00:31:33] trying to convince people of
+[00:31:34] Speak. So,
+[00:31:35] um, certainly, uh, NEMA has, uh, collated the, uh,
+[00:31:41] uh, the number of, uh, declared emergencies over, uh,
+[00:31:45] particularly the last 20 year period.
+[00:31:46] Mm. And you can see a very dramatic uptick,
+[00:31:49] particularly in the last seven or eight years.
+[00:31:51] Mm-hmm. Uh, so certainly that that is true.
+[00:31:54] And then also, um, our national flood data suggests
+[00:31:58] that there has been a, uh, a, a, a fairly
+[00:32:01] significant increase in the last few years as well.
+[00:32:04] So yes, the data is
+[00:32:05] available and we can provide the committee. That'd
+[00:32:07] Be great, that you'd be really helpful.
+[00:32:08] Yeah. It's equivocal.
+[00:32:10] Yeah. Well, that would be very helpful, trying
+[00:32:11] to convince some of those people that think this Yes.
+[00:32:14] Doesn't exist. Right.
+[00:32:16] Anyway, next on the list we have, uh, Kim,
+[00:32:19] Thank you chair.
+[00:32:20] Uh, I've got a question about, like,
+[00:32:22] so you've got some risks in here
+[00:32:24] that are not normally talked about so much, like tsunamis,
+[00:32:28] um, you know, the old country faces,
+[00:32:30] but I feel living on a sand spot in and,
+[00:32:33] and, um, the very imminent, um,
+[00:32:35] feeling about Mount Taranaki, uh,
+[00:32:38] and what, what could be coming there considering its
+[00:32:41] geological history, which I'm sure Mr.
+[00:32:43] McLeod's thinking about in the back of his mind sometimes.
+[00:32:45] Um, I've experienced as a, you know,
+[00:32:49] child at school getting, um, taught about tsunami risk
+[00:32:52] that my local area faces, and now I'm an mp
+[00:32:55] and I'm hearing, um, reports, uh, coming
+[00:32:59] to us saying we've got tsunami and,
+[00:33:01] and other, um, catastrophic risks.
+[00:33:03] What sort of, uh, role has been undertaken in making people
+[00:33:08] aware of what their properties have with o you know,
+[00:33:11] we have overlays for flooding.
+[00:33:13] Um, what sort of overlays are there
+[00:33:15] for property risks from catastrophic events like tsunami
+[00:33:18] and volcanoes?
+[00:33:19] Um, and if doing that, what's the benefit?
+[00:33:24] Uh, what's the, the way up in actually making that decision?
+[00:33:27] So if you were to say it's a one in 500, um,
+[00:33:30] tsunami event area, is what risk tolerance does, say mfe,
+[00:33:35] think it was appropriate to start actually taking a step
+[00:33:38] of proactively putting that thing on a title?
+[00:33:40] Is it one in 10,000? Is it one in 50?
+[00:33:42] Is it, is it expected the next a hundred years,
+[00:33:45] perhaps like a volcano, we know mm-hmm.
+[00:33:47] Um, how do we, how do you weigh up the risk
+[00:33:50] of actually putting that onto properties?
+[00:33:53] So chair, there's, there's
+[00:33:54] a, there's a number of issues in there.
+[00:33:55] First, uh, first of all to say that the, uh, uh, the,
+[00:33:59] the public awareness and education's typically driven
+[00:34:02] by local authorities,
+[00:34:03] and they have responsibilities existing under, uh,
+[00:34:06] the local government act as well as the, uh,
+[00:34:09] the Resource Management Act for, uh, hazard management.
+[00:34:13] So there is a, there is a, um, a set of obligations there
+[00:34:15] that, that will result typically in councils, uh,
+[00:34:19] having hazard maps available and, uh, informing communities.
+[00:34:23] And often that's done through the group civil defense, uh,
+[00:34:26] effort within a region as well.
+[00:34:28] Um, much of that work historically has been supported
+[00:34:30] by Nima, uh, who have funded, for example,
+[00:34:33] the subduction zone work to understand the, uh, uh, risk
+[00:34:38] of tsunami on the east coast of, of, of New Zealand.
+[00:34:40] And that's been done in collaboration
+[00:34:42] with local authorities.
+[00:34:43] So it is a partnership between, uh, central
+[00:34:45] and local government getting more specifically
+[00:34:48] to hazard standards
+[00:34:51] and the, the point at which, uh, a decision needs
+[00:34:54] to be made about a property.
+[00:34:56] Uh, at the moment, the focus is very heavily
+[00:34:58] around flood risk, and we've got this work underway
+[00:35:00] around a national, uh, flood map
+[00:35:02] that will inform future decision making on that.
+[00:35:05] Um, there are standards in the building act, for example,
+[00:35:07] that, that the floor level must be
+[00:35:09] above a one 50 year event.
+[00:35:11] The decision to trigger a retreat, um, at the moment, uh,
+[00:35:14] certainly, uh, uh, has not been contemplated anywhere
+[00:35:18] that I'm aware of with respect to a tsunami
+[00:35:19] because of their, um, uh, their, their, their low level
+[00:35:23] of predictability and their infrequency, if you like.
+[00:35:26] So the focus around, uh, retreat from, uh, an area
+[00:35:31] or precluding construction is predominantly around, uh,
+[00:35:35] flooding and, and coastal inundation.
+[00:35:37] But I might just ask Catherine,
+[00:35:40] Whether just on, uh,
+[00:35:42] the national regulation under the rma,
+[00:35:45] so we put national policy, state
+[00:35:46] and further direction, have we got more, uh, specific
+[00:35:51] guidance in the winds for local authorities on those sort
+[00:35:56] of, uh, exceedance probabilities?
+[00:35:59] Can I, can I just, just
+[00:36:00] before you answer that, um, I just really want
+[00:36:02] to understand risk tolerance.
+[00:36:03] Yes. Like, how, how are you, how would you even,
+[00:36:07] like if MFE was gonna provide advice Yes.
+[00:36:09] Um, saying, look, at this point, you should, I,
+[00:36:11] and I don't, I'm not talking about risk Yes.
+[00:36:14] Of retreat. Sorry. Yes.
+[00:36:15] I'm talking about retreat, talking about when do you start
+[00:36:17] saying this property title needs to attach
+[00:36:19] with it a one in 10,000 chance?
+[00:36:21] Yep. Like, what's that trigger for different,
+[00:36:23] specifically volcanoes say in tsunamis?
+[00:36:26] Like, have you thought about this? Yes. Yes.
+[00:36:27] So at, at the moment, the,
+[00:36:29] those judgments about risk tolerances are left
+[00:36:32] with local government who have the responsibilities,
+[00:36:35] but there is work underway as part of
+[00:36:37] what will be rolled out to support the
+[00:36:39] planning system reforms.
+[00:36:41] And that can, driving the consistency
+[00:36:43] of standards across the country
+[00:36:44] around it should be the same in different places
+[00:36:47] in terms of that tolerance.
+[00:36:48] Not necessarily the same for all hazards.
+[00:36:51] You might have a different tolerance
+[00:36:53] for tsunami versus flooding,
+[00:36:55] but there is work, um, that will come underway
+[00:36:58] after the legislation has passed
+[00:36:59] to drive quite a consistency in that. Thank
+[00:37:01] You.
+[00:37:02] Um, supplementary then we'll go to,
+[00:37:04] Just picking up on your mention of managed retreat,
+[00:37:07] and I get that you were talking in terms of tsunami
+[00:37:10] and it hasn't gone there,
+[00:37:12] but I noticed the, um, I think it's the section
+[00:37:15] existing work is building momentum.
+[00:37:17] It doesn't mention either the previous government
+[00:37:20] or the current government's inquiry into managed retreat.
+[00:37:24] Mm-hmm. Where does that sit and,
+[00:37:27] and why wasn't it talked about as part of this?
+[00:37:30] Is it just 'cause it isn't concluded or
+[00:37:32] What?
+[00:37:33] Uh, well, um, the inquiries, uh, uh,
+[00:37:37] are complete in terms of the advice to government.
+[00:37:40] So, um, the previous, uh, inquiry, uh,
+[00:37:45] working group actually,
+[00:37:47] and then there was inquiry by this select committee, uh,
+[00:37:51] and their recommendations have come forward.
+[00:37:54] Cabinets received those as have as the advice
+[00:37:57] of the independent expert group that was assembled, uh,
+[00:38:01] around adaptation.
+[00:38:02] So all that's fed into the policy decision making.
+[00:38:05] So, so that work is complete.
+[00:38:07] The work that's now underway is the preparation
+[00:38:10] of legislation to come
+[00:38:12] before this house, which, uh, minister Watts has, um,
+[00:38:16] has indicated as a priority for government
+[00:38:18] and, uh, to be introduced this term.
+[00:38:20] So we, we are currently working
+[00:38:21] with parliamentary council on that.
+[00:38:25] Okay. Done. Ryan Primary. Thanks, chair.
+[00:38:28] Um, thanks for your presentation.
+[00:38:30] Um, One of the common themes I've seen over the
+[00:38:32] last, the framework
+[00:38:34] We did, um, parliamentary commissioners always, um,
+[00:38:37] going on about it, and it's,
+[00:38:39] and it's sort of, um, riddled throughout your report too,
+[00:38:43] is, is data consistency of data, housing, of data, um,
+[00:38:47] you know, we've got flood mapping, you've got earthquake,
+[00:38:49] you have all these different measures of metrics.
+[00:38:52] Um, do you have a view on who or where this should be housed
+[00:38:57] and or, uh, does it need, um,
+[00:39:00] I'll ask you something out of scope,
+[00:39:02] but does it need a political direction
+[00:39:04] or is it inhouse internally?
+[00:39:07] You know, how do we grip this up
+[00:39:08] and have a, a single source of truth, you know,
+[00:39:12] across such a small country,
+[00:39:16] Uh, the science system reforms have, um,
+[00:39:19] uh, are partway through.
+[00:39:21] So, uh, there are some changes to, uh,
+[00:39:24] the funding institutions that are underway at the moment,
+[00:39:27] um, uh, which are aimed at providing
+[00:39:31] particularly greater stability of funding
+[00:39:34] for core national data sets
+[00:39:36] and core, uh, science infrastructure.
+[00:39:38] Mm-hmm. So, so that Work Envy is currently shepherding
+[00:39:42] through part of those reforms.
+[00:39:43] Were creating the public research organizations
+[00:39:46] and the creation of Earth Sciences New Zealand was
+[00:39:49] specifically to bring net service niwa
+[00:39:51] and GNSS capabilities around hazard information
+[00:39:55] together in a unified way.
+[00:39:56] And I think what we've seen recently is how climate science
+[00:40:01] that formally was held by nema niwa, sorry, uh,
+[00:40:04] weather forecasting undertaken by net net service
+[00:40:07] and landslide risk, uh, that GNS are responsible
+[00:40:10] for actually all combine when it comes
+[00:40:13] to severe weather events.
+[00:40:14] So bringing those organizations together has been the first
+[00:40:17] step at creating a national capability that is end
+[00:40:20] to end the question.
+[00:40:22] Now that becomes one of, uh, ongoing and future investment,
+[00:40:25] and that's the work that, uh, uh,
+[00:40:27] NB currently have underway.
+[00:40:28] So, um, that, but look, there's the science responsibility
+[00:40:32] and then there's responsibility, uh,
+[00:40:34] within central government for, uh, ensuring that there is,
+[00:40:38] uh, sufficient, uh, science
+[00:40:39] and data to underpin decision making.
+[00:40:41] Uh, and that sits under the broader architecture that, uh,
+[00:40:45] that, that been referred to that Dpmc is leaving.
+[00:40:48] So, just a supplementary, are you confident
+[00:40:50] that it's going towards urgents in terms
+[00:40:54] of some entity housing it rather than multiple housing,
+[00:40:57] you know, entities, housing bits and pieces
+[00:40:59] and disparate information across councils regions?
+[00:41:02] Uh, so, so I would say, say yes,
+[00:41:04] but we, we should also acknowledge that there will continue
+[00:41:07] to be a role for local authorities
+[00:41:10] and also for the private sector insurers, banks, uh,
+[00:41:14] the Natural Hazards Commission
+[00:41:15] for making their own investments in, in, in data sets
+[00:41:18] and things that are useful to them.
+[00:41:19] So we don't wanna crowd out the effort by others,
+[00:41:22] but what we do want to have is a, is a, is a base level
+[00:41:25] of national capability that's available for, for everyone.
+[00:41:30] And then if others build, uh, off the back of that,
+[00:41:32] we have a system wide coordination around that effort.
+[00:41:35] So it, it, it is both a, so it's a hub
+[00:41:38] and spoke really, uh, type model and,
+[00:41:40] and that's what we're working towards at the moment.
+[00:41:42] Thanks, Ken.
+[00:41:44] Thank you, Mr. Chair. Um, Auckland Council responded, uh,
+[00:41:48] has responded relatively well
+[00:41:50] and relatively urgently, um, uh,
+[00:41:53] post the 2023 floods, um, with its, um,
+[00:41:57] zoning changes, uh, as we've seen.
+[00:42:00] And, um, uh, but Auckland Council comes
+[00:42:03] with a revenue rates revenue of $3 billion
+[00:42:06] and a staff of 12,000 people.
+[00:42:08] Mm-hmm. Um, how confident are you are, are you that some
+[00:42:12] of these smaller territorial local authorities mm-hmm.
+[00:42:15] And frankly, that's where a lot of the natural hazards are
+[00:42:19] and events are happening, uh, that they can fund, uh,
+[00:42:23] and resource, um, you know, better planning rules
+[00:42:28] and, uh, the better protections, um, through the,
+[00:42:31] through down zonings and retreats
+[00:42:34] and the likes, uh, going forward,
+[00:42:37] Uh, I think it's, it's obvious that we've got, uh,
+[00:42:41] councils in parts of the country where they're, uh,
+[00:42:45] geographically extensive, hazard prone, uh,
+[00:42:48] and yet low socioeconomic
+[00:42:51] or low population density,
+[00:42:53] RAF Gisborne district is a classic case in point.
+[00:42:56] Mm-hmm. So, um, that,
+[00:42:58] that is why these matters are not left entirely
+[00:43:00] for our local authorities
+[00:43:02] and central government partners
+[00:43:03] with those local authorities, uh, in response.
+[00:43:06] Um, but I, I think that the member raises a, um, uh,
+[00:43:10] a deep question for New Zealand about
+[00:43:12] long-term affordability.
+[00:43:13] So we are currently the ministry
+[00:43:15] of the environment's currently working
+[00:43:17] with treasury on advice
+[00:43:18] to government following the previous work of this committee
+[00:43:21] and previous, uh, work undertaken about cost sharing.
+[00:43:25] And the, the, the balance we need to strike as a country is,
+[00:43:28] is maximizing the effectiveness of our insurance markets
+[00:43:31] and having, uh, insurance do as much
+[00:43:34] of the heavy lifting as possible.
+[00:43:35] Mm-hmm. Uh, and not crowding that out
+[00:43:37] or creating moral hazard around the taxpayer riding
+[00:43:40] to the rescue, uh, in each and every occasion.
+[00:43:42] Mm-hmm. Um, on the other hand, uh, there are communities,
+[00:43:46] uh, and particularly local authorities
+[00:43:48] that will not have the financial resources
+[00:43:50] to, to, to deal with it.
+[00:43:51] So there is gonna be a role for, um, public expenditure
+[00:43:54] and striking the balance around that
+[00:43:56] and creating the right incentives is core to the work
+[00:43:58] that we are presently doing for government. Thank you.
+[00:44:00] Thank you very much. Sean, you did you want one short
+[00:44:04] Question? Oh, just, just
+[00:44:05] a supplementary on that. Okay.
+[00:44:06] Then that'll be the last one.
+[00:44:08] Yeah, sure. So just on the kind of,
+[00:44:11] 'cause I, I get like, ideally we would be in a great
+[00:44:14] position for research and prediction and all that,
+[00:44:16] but how big is the gap in
+[00:44:20] that basic information understanding and,
+[00:44:24] and the funding of like, you know,
+[00:44:26] because the question was raised,
+[00:44:27] will local government be able to afford it?
+[00:44:30] I think it's like clear
+[00:44:31] that they cannot afford it on a case by case basis.
+[00:44:34] That's the whole point that we need to do this together.
+[00:44:37] But what are the gaps like in Wide did up,
+[00:44:40] we just had this splitting, as far as I understand,
+[00:44:42] there's no detailed mapping of southern wided up.
+[00:44:45] So how, how bad is that across the country?
+[00:44:49] Uh, so, uh, you wanna mention Ben?
+[00:44:52] Well, so, so that is work that has been commissioned
+[00:44:55] and is now underway to undertake
+[00:44:57] stock take of what we've got.
+[00:44:58] Yeah. Um, because we've had the institutions in reform, uh,
+[00:45:02] it is important that we, we ensure
+[00:45:04] that in the first instance, our existing capability is,
+[00:45:08] is joined up and as delivered as efficiently as possible.
+[00:45:11] So, so that is, that is the reform underway right now.
+[00:45:14] But there is a gap analysis, uh, which has, um,
+[00:45:17] just recently been commissioned to ensure
+[00:45:18] that we've got a good handle on, uh, on the opportunities
+[00:45:22] for future investments
+[00:45:23] and the various trade offs around that.
+[00:45:25] So, uh, that's something that we would be in a position
+[00:45:27] as agencies, particularly between DPMC
+[00:45:30] and to come back to the committee, uh, later in the year,
+[00:45:34] uh, once we've undertaken that work and, uh,
+[00:45:36] provided advice to ministers.
+[00:45:39] Well, we've reached our time, so thanks very much.
+[00:45:41] It was, uh, very informative and very sobering,
+[00:45:44] but, um, I don't think any of us are unaware
+[00:45:46] of the challenges we face as a country.
+[00:45:49] Thank you very much. Thank You.

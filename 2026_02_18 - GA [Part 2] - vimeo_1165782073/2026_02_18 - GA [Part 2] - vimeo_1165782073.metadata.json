@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:02.768417+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1165782073",
+  "title": "2026/02/18 - GA [Part 2]",
+  "url": "https://vimeo.com/1165782073",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 2717,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2692.01,
+    "segment_count": 771,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_18 - GA [Part 2] - vimeo_1165782073\\2026_02_18 - GA [Part 2] - vimeo_1165782073.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1165782073",
+    "display_id": "1165782073",
+    "title": "2026/02/18 - GA [Part 2]",
+    "description": "Wednesday 18 February 2026 | Governance and Administration Committee\n\nEmergency Management Bill (No 2)\n\nHorizons Regional Council\n- Nickie Riley, Chair\n- Maria Reiche, Policy\n- Matthew Putt, EM\n\nAuckland Council\n- Alf Filipaina, Chair of Auckland Council CDEM Committee\n- Ken Turner, Deputy Chair of Auckland Council CDEM Committee\n- Michelle Wilson, Auckland Council CDEM Committee Houkura Representative\n- Adam Maggs, General Manager, Auckland Emergency Management\n- Sarah le Claire, Head of Strategy & Capability, Auckland Emergency Management\n- Wayne Brown, Principal Recovery Advisor, Auckland Emergency Management\n\nKiwiRail Holdings Limited\n- David Gordon, Chief Metro and Capital Programme Office\n- Marija Batistich, Senior Corporate Counsel",
+    "webpage_url": "https://vimeo.com/1165782073",
+    "original_url": "https://vimeo.com/1165782073",
+    "upload_date": "20260218",
+    "timestamp": 1771375440,
+    "release_timestamp": 1771375446,
+    "duration": 2717,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2126095922-d55fab5b87c0dd13126209cbb8c47e652ded7651175ea8c3f8dae7c499f1b442-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283305778.vtt?expires=1778562307&sig=bb2600e382537759e1517510b780aa8483152957&download=auto_generated_captions.vtt"
+  }
+}

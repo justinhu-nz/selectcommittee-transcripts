@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:24.011829+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109496364",
+  "title": "2025 09 10 - HE",
+  "url": "https://vimeo.com/1109496364",
+  "published_at": "20250909",
+  "published_display": "2025-09-09",
+  "duration_seconds": 8834,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8833.75,
+    "segment_count": 2793,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 10 - HE - vimeo_1109496364\\2025 09 10 - HE - vimeo_1109496364.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109496364",
+    "display_id": "1109496364",
+    "title": "2025 09 10 - HE",
+    "description": "10 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nToi Mata Hauora Association of Salaried Medical Specialists\n\tDr Katie Ben, President\n\tSarah Dalton, Executive Director\nAPEX and NZRDA\n\tNatalia D'Souza, Research and Policy Advisor\nHauora Taiwhenua Rural Health Network\n\tGrant Davidson, CEO\n\tPeter Jackson, Board Member\nWai 3307 claimants\n\tLady Tureiti Moxam\n\tJanice Kuka\nMedicines New Zealand\n\tTanya Baker, Head of Regulatory, Science and Technical Advice\nT\u016bwharetoa Iwi M\u0101ori Partnership Board\n\tLouisa Wall, Chairperson\nTe Runanga o Toa Rangatira and Ora Toa Primary Health Organisation\n\tMicheal Rongo, Director\nTe Kete Pounamu - Te Rau Ora\n\tGloria Sheridan, Pouwhakahaere o Te Kete Pounamu M\u0101ori National Lived Experience member\n\tPaamu Kahu, Te Kete Pounamu National Governance M\u0101ori National Lived Experience member\nPatient Voice Aotearoa\n\tDr Malcolm Mulholland\nNew Zealand Nurses Organisation\n\tKerry Nuku\t\n\tAnn Daniels\nRuth Spearing\nThe Cancer Society of New Zealand\n\tRachel Newman\n\tKirsty Duclas\nPSA\n\tSarah Parry\n\tAshok Sankar\nMedical Council of New Zealand\n\tSimon Watt, Deputy Chair\n\tJones Simeon, CEO\n\tKiri Rikihana, Deputy CEO",
+    "webpage_url": "https://vimeo.com/1109496364",
+    "original_url": "https://vimeo.com/1109496364",
+    "upload_date": "20250909",
+    "timestamp": 1757457375,
+    "release_timestamp": 1757457391,
+    "duration": 8834,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057676068-6a9c1bc3204ed9d6f6c44010a15745f3d35c43f1107e211cd04199a1c9f02c68-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252969489.vtt?expires=1778563108&sig=261e66993acff7a7a12e63dd7b862b77c00c297c&download=auto_generated_captions.vtt"
+  }
+}

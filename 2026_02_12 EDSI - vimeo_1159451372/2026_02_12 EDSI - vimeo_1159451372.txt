@@ -1,0 +1,967 @@
+Title: 2026/02/12 EDSI
+URL: https://vimeo.com/1159451372
+Published: 2026-02-11
+Duration: 00:48:22
+
+[00:00:31] Yes.
+[00:00:31] Yeah, it's Zoom. Yes. Yeah.
+[00:00:42] Good morning. So now
+[00:00:46] we are moving into public session.
+[00:00:48] Is
+[00:00:55] Zara there online now?
+[00:01:01] Yeah,
+[00:01:23] I don't think it is.
+[00:01:27] It wasn't supposed to. Zan, can you please accept
+[00:01:31] that invite to become a
+[00:01:32] panelist if you can.
+[00:01:36] Hopefully Zan can hear me. Zans not accepting.
+[00:01:44] Okay, Brett,
+[00:02:17] look at this.
+[00:02:21] There was ring.
+[00:02:23] Hello Brett, I can see your name on the screen.
+[00:02:26] Can you please turn your, um, microphone
+[00:02:30] and video on if you like to.
+[00:02:33] Oh, thank you so much. Now we can see you. Can you hear me?
+[00:02:37] Yes. Oh, great. We can hear you as well.
+[00:02:39] Thank you so much, Brett. We have five minutes with you
+[00:02:42] and this is your time.
+[00:02:43] So, uh, if you would like to speak
+[00:02:45] to your submission, uh, that's good.
+[00:02:48] And if there is any time left,
+[00:02:49] there might be some questions from members. Thank you.
+[00:02:52] Thank you for your time. Uh, my name is Brett Murphy.
+[00:02:55] I used to work for Newshub in the Australian Press
+[00:02:57] Association, and I'm here to, here to oppose this bill
+[00:02:59] that will erode the privacy of New Zealand citizens
+[00:03:02] and what I call another example
+[00:03:04] of government overreach and censorship.
+[00:03:07] Proposed changes could significantly affect
+[00:03:08] how we communicate online, particularly
+[00:03:11] with encrypted services
+[00:03:12] and overseas providers are concerned.
+[00:03:15] The bill would extend New Zealand's regulatory regime
+[00:03:18] to overseas based providers, such as messaging apps
+[00:03:21] and satellite services, requiring them to comply
+[00:03:23] with local interception rules.
+[00:03:26] The changes would apply
+[00:03:27] to familiar services New Zealanders use every day, including
+[00:03:31] WhatsApp, signal, telegram, and satellite providers.
+[00:03:34] Like starlink, end-to-end encryption isn't a niche
+[00:03:37] technical feature.
+[00:03:39] It's how journalists protect sources,
+[00:03:41] how whistleblowers come forward,
+[00:03:43] and how ordinary people speak freely
+[00:03:45] without fear of surveillance.
+[00:03:47] Bill would require overseas providers to ensure
+[00:03:50] in depth capability, even for encrypted communications that
+[00:03:55] raises serious questions about whether genuine private
+[00:03:58] communication would remain available in New Zealand.
+[00:04:01] The bill also introduces a new enforcement power,
+[00:04:04] allowing the Secretary of the Ministry
+[00:04:06] for Business Innovation and Employment to suspend
+[00:04:08] or revoke licenses.
+[00:04:10] If providers do not comply with regulatory requirements,
+[00:04:14] that power effectively gives a government official the
+[00:04:17] ability to switch off a
+[00:04:18] communication service in New Zealand.
+[00:04:20] Once that infrastructure exists,
+[00:04:22] it can be repurposed in ways Parliament may
+[00:04:24] not currently intend.
+[00:04:27] I wonder if the committee is familiar with Paval Roux,
+[00:04:30] the founder and CE of Social Men Messaging App Telegram.
+[00:04:34] His app has around 1 billion users worldwide
+[00:04:37] with a focus on privacy.
+[00:04:38] He was arrested in France in 2024 before being released.
+[00:04:42] Six months later, he was detained on suspicion of failing
+[00:04:45] to take action to curb with the alleged criminal use
+[00:04:48] of his platform and was eventually charged with 12 offenses.
+[00:04:52] Pavel denied all the charges against him describing his
+[00:04:54] arrest as legally and logically absurd,
+[00:04:58] and saying investigators were struggling to find anything
+[00:05:01] that I or Telegram did wrong.
+[00:05:03] The cynic in me would suggest his arrest was
+[00:05:06] because his platform could not be monitored
+[00:05:09] or controlled and highlights.
+[00:05:10] Another example of government overreach like we
+[00:05:13] witnessed during COVID-19.
+[00:05:15] He was in the newspaper again this week
+[00:05:16] and I will now read some quotes from the Guardian newspaper.
+[00:05:20] Spain has accused Pavo Vero of spreading lies
+[00:05:23] and seeking to undermine democratic institutions.
+[00:05:26] After the Telegram, founder used his messaging app
+[00:05:29] to attack government plans to introduce a social media ban
+[00:05:32] for under sixteens and to hold tech,
+[00:05:34] the companies responsible for hateful
+[00:05:36] and harmful content to Ros public intervention,
+[00:05:39] which came a day after Elon Musk called Spain's prime
+[00:05:42] minister Pedro Sanchez.
+[00:05:44] A true fascist totalitarian
+[00:05:46] over the proposed measures reveals the rapid escalating
+[00:05:49] tensions between governments
+[00:05:51] and powerful global technological chiefs,
+[00:05:54] and a blanket message sent to all telegram users of Spain.
+[00:05:57] The Russian entrepreneur accused Sanchez's government are
+[00:06:00] pushing dangerous new regulations
+[00:06:01] that threaten your internet freedoms.
+[00:06:03] Adding that the measures could turn Spain into a
+[00:06:06] surveillance state under the guise to protection Dero claim.
+[00:06:09] The mandatory aid verification contained in the proposed
+[00:06:13] legislations with set a precedent
+[00:06:15] for tracking every user's identity, eroding anonymity
+[00:06:18] and opening doors to mass data collection.
+[00:06:21] He also said that holding tech executives liable
+[00:06:24] for illegal, hateful,
+[00:06:26] or harmful content would encourage over censorship
+[00:06:29] and lead platforms to delete
+[00:06:31] anything remotely controversial.
+[00:06:32] To avoid risks silencing, political dissent, journalism,
+[00:06:36] and everyday opinions,
+[00:06:38] Spanish government sources hit back saying Deros
+[00:06:40] unprecedented message to millions of users was designed
+[00:06:43] to ERO trust in institutions
+[00:06:45] and demonstrated the need for social media
+[00:06:47] and mobile messaging apps to be regulated.
+[00:06:50] I would respectfully suggest to the Spanish government
+[00:06:52] to stop invading your citizen's privacy
+[00:06:54] like this bill threatens to do here in New Zealand.
+[00:06:57] I wonder if the committee is familiar
+[00:06:59] with Elon Musk's battle with Australia's eaf commissioner.
+[00:07:02] The Safety Commissioner was forced
+[00:07:04] to drop a legal case against x to have footage
+[00:07:06] of a stabbing removed that went global in 2024.
+[00:07:09] The reason this footage appears to be targeted is
+[00:07:12] because it shows a Muslim terrorist attempting to stab
+[00:07:15] to death a Christian leader in his own church,
+[00:07:16] which resulted in the victim losing an eye.
+[00:07:19] The question is, is this really about removing hate speech
+[00:07:22] and harmful online content
+[00:07:23] or stopping speech that people hate
+[00:07:25] or criticism of governments?
+[00:07:27] People are pushing back around the world.
+[00:07:28] As you know, the previous government's hate speech laws
+[00:07:31] were soundly rejected.
+[00:07:33] Labor has been forced to backtrack from its compulsory
+[00:07:35] digital ID in Britain.
+[00:07:37] The Australia's labor government will not likely survive the
+[00:07:40] backlash after introducing a variety
+[00:07:42] of unpopular policies like banning under sixteens from
+[00:07:45] social media, which Spain is attempting to do right now.
+[00:07:49] I would suggest now is a good time
+[00:07:50] to turn back from the insanity before Elon and Pavel decide.
+[00:07:54] New Zealand needs to be woken up
+[00:07:55] regarding freedoms we look set
+[00:07:57] to lose if this bill is approved, thank you for your time
+[00:07:59] and consideration and as a former journalist ask you please
+[00:08:02] respect the freedom of the press
+[00:08:03] and the individual's right to privacy. Thank you.
+[00:08:07] Thank you so much, Brett.
+[00:08:08] You timed it really well. Thank you so much.
+[00:08:10] Have a great day. Take care.
+[00:08:12] Bye-bye. Bye-bye.
+[00:08:17] Still up? Yeah,
+[00:08:30] sorry.
+[00:08:44] We couldn't, we Okay.
+[00:09:19] Oh, uh, Roy, can you hear me?
+[00:09:21] Yes, I can. Oh, okay, great.
+[00:09:24] So can you please, um, have you accepted to be a panelist?
+[00:09:29] Yes, I have. Uh, madam.
+[00:09:31] Oh, great. Okay.
+[00:09:33] So, um, and if you would like to just speak that's fine.
+[00:09:36] Yeah. And start you, um, speaking to your submission.
+[00:09:40] Good morning ladies and thank you, uh, Dr. Parmar.
+[00:09:45] So I'm like, in my submission, I totally oppose the bill
+[00:09:49] because under the, under the guise of fixing some anomalies,
+[00:09:53] I think it will severely restrict, uh, Kiwi freedom
+[00:09:58] of speech and allowed the government to dramatically censor
+[00:10:03] and promote their own view.
+[00:10:07] I think, uh, in this country, right from inception, freedom
+[00:10:10] of expression, freedom of, uh,
+[00:10:13] opinion has been a cornerstone, uh, of,
+[00:10:17] of this great country.
+[00:10:18] And, uh, under the guise
+[00:10:20] of fixing some lacuna in the present legislation,
+[00:10:23] that there is so much overreach in this bill
+[00:10:25] that it would cause severe, uh,
+[00:10:28] quite draconian free speech erosion in this whole country.
+[00:10:34] It also would, uh, result in the expansion of surveillance
+[00:10:37] and enforcement powers.
+[00:10:40] Uh, while these are aimed at offshore providers,
+[00:10:45] it could, uh, result in denial of service from these,
+[00:10:48] uh, offshore providers.
+[00:10:50] If they do not want to comply with the provisions
+[00:10:52] of this bill, this would cause a further
+[00:10:54] isolation of New Zealand.
+[00:11:00] And, uh, the end,
+[00:11:02] end-to-end inscription is essential infrastructure
+[00:11:05] that protects journalists
+[00:11:07] and their sources, whistleblowers victims,
+[00:11:11] and people who are being, who,
+[00:11:13] who are suffering injustice to speak out.
+[00:11:17] So I would, uh, it would also interfere with, uh,
+[00:11:23] um, you know, kis engaging in free exp in, uh,
+[00:11:27] private communication among themselves.
+[00:11:29] So for these reasons, I recommend the bill not proceed in
+[00:11:32] its current form, and it has to be substantially amended
+[00:11:36] to address the concerns lined, outlined above.
+[00:11:43] That's all I have to say, madam.
+[00:11:45] Oh, thank you Roy. Uh, are there any questions?
+[00:11:48] Yes, there is a question from, uh, Dr. David Wilson.
+[00:11:51] Uh, we are speaking to Roy,
+[00:11:52] Aren't we? Yep. Roy Menzies.
+[00:11:54] Yes, you are. Okay, thank you Roy.
+[00:11:56] Um, under the expansion of surveillance
+[00:11:58] and enforcement powers, you mentioned that, uh, uh,
+[00:12:01] the powers restrict
+[00:12:03] or revoke licenses
+[00:12:04] where court based enforcement is deemed impractical.
+[00:12:09] Can you explain what you think a narrowing
+[00:12:12] of those powers would look like in your view?
+[00:12:16] Sure. I think we have to be part of the global community
+[00:12:20] bringing New Zealand into a little bit of island where the,
+[00:12:23] where the government has a lot of power
+[00:12:25] and it also hands power to unelected bureaucrats to, to, uh,
+[00:12:30] to make changes to the New Zealand side, which is,
+[00:12:32] which will not have to go through parliament.
+[00:12:34] I'm, I would certainly be strongly opposed to that.
+[00:12:39] So you, you mentioned that you, um, you saw a way
+[00:12:42] of narrowing those powers
+[00:12:45] and maintaining privacy on one hand
+[00:12:47] and public interest on the other.
+[00:12:49] Um, do you have a view of what that would be
+[00:12:52] and what that would look like?
+[00:12:55] I don't have at this point, uh,
+[00:12:58] have had enough involvement
+[00:13:00] and knowledge to come up with a solution,
+[00:13:02] but all I can see is the bill in its present form could have
+[00:13:06] a very adverse impact
+[00:13:09] on kis the freedom of expression.
+[00:13:12] It could also force foreign provider, foreign providers
+[00:13:15] who choose not to, uh, go along with this,
+[00:13:19] to restrict new kiwi's access
+[00:13:21] to the global communication system.
+[00:13:23] So, so I think the bill has to be, uh,
+[00:13:27] redrafted in a very substantial way.
+[00:13:30] Thank you, Roy. Okay. Thank
+[00:13:32] You sir.
+[00:13:33] Thank you Roy. Thank you for your submission.
+[00:13:35] Thank you, Ms. Palm. Okay, thanks.
+[00:13:38] Have a good day. Bye-bye.
+[00:13:39] Thank you. Uh, who do we have next?
+[00:13:47] Okay.
+[00:14:03] Hello. Can you hear me now?
+[00:14:05] Yes. Siron, we can hear you but we can't see you.
+[00:14:07] But, um, if you wish to turn your video on,
+[00:14:12] um, otherwise you can just start,
+[00:14:14] um, speaking to your submission.
+[00:14:16] That's totally fine. It's your time.
+[00:14:18] Do we have five minutes with you? Uh, this time? Time.
+[00:14:20] And any questions from members if
+[00:14:22] there will be any time left. Thank you.
+[00:14:25] Uh, Madam Chair
+[00:14:26] and members of the committee, thank you
+[00:14:28] for the opportunity to speak.
+[00:14:30] I want to be clear at the outset.
+[00:14:32] Regulatory clarity and digital environment is legitimate.
+[00:14:35] Ensuring overseas providers are subject
+[00:14:37] to New Zealand law is a reasonable objective.
+[00:14:40] However, this bill materially expands state enforcement
+[00:14:43] power in ways that without strong safeguards creates civil
+[00:14:47] liberties and market confidence risks.
+[00:14:50] My submission focuses on three issues.
+[00:14:53] One, interception capability
+[00:14:55] and decryption, two license revocation
+[00:14:58] as an enforcement weapon.
+[00:15:00] Three, due process
+[00:15:02] and proportion proportionality,
+[00:15:05] one interception capability and encryption.
+[00:15:08] The bill expands the territorial scope
+[00:15:10] of the telecommunications act so that overseas providers
+[00:15:13] and network operators are clearly subject
+[00:15:16] to interception obligations,
+[00:15:18] even though the bill does not explicitly mandate weakening
+[00:15:21] encrypt encryption.
+[00:15:23] The practical reality is this,
+[00:15:25] when interception compliance is backed
+[00:15:28] by strong enforcement sanctions,
+[00:15:30] providers whose systems rely on strict end-to-end encryption
+[00:15:33] may face structural pressure to redesign their systems.
+[00:15:37] Strong encryption is not optional technology.
+[00:15:40] It protects ordinary new Zealand's new citizens from cyber
+[00:15:44] crime businesses, from commercial espionage lawyers
+[00:15:48] and journalists, from breaches of confidentiality,
+[00:15:52] families from identity theft.
+[00:15:54] If regulatory uncertainty leads
+[00:15:56] to weakened encryption architecture,
+[00:15:58] or if providers withdraw secure services from the
+[00:16:01] New Zealand market, new Zealanders are less
+[00:16:04] safe, not more safe.
+[00:16:06] This bill should therefore include an explicit clause
+[00:16:09] stating that compliance mechanisms must not require systemic
+[00:16:14] vulnerabilities or general weakening
+[00:16:16] of end-to-end encryption That would provide clarity without
+[00:16:20] obstructing lawful interception under proper authority.
+[00:16:24] Two, license revocation and restriction powers.
+[00:16:27] The new part seven. A enforcement regime allows the
+[00:16:31] secretary to revoke or permanently restrict radio
+[00:16:34] and spectrum licenses where there is serious non-compliance.
+[00:16:37] This is not a MI minor sanction
+[00:16:40] spectrum access is foundational
+[00:16:42] to telecommunications operations.
+[00:16:44] The bill also allows enforcement consequences to flow
+[00:16:47] through to licenses held
+[00:16:49] by third parties if provider relies on them.
+[00:16:53] That means regulatory action against one entity may affect
+[00:16:57] intermediaries and end users.
+[00:16:59] When interception compliance is linked to the potential loss
+[00:17:03] of spectrum rights, the leverage is significant
+[00:17:06] without a clearly articulated proportionality framework
+[00:17:09] on the face of the act.
+[00:17:11] The risk is that license revocation becomes a blunt
+[00:17:14] compliance tool rather than a last resort.
+[00:17:17] If revocation is available, it must be clearly structured
+[00:17:21] as one necessary.
+[00:17:23] Two. Proportionate three demonstrably the least
+[00:17:27] intrusive option available.
+[00:17:29] Those requirements should not be implied.
+[00:17:31] They should be explicit.
+[00:17:33] Three due process and evidential standards.
+[00:17:36] The bill permits the secretary
+[00:17:38] to rely solely on summary information
+[00:17:40] provided by surveillance agencies when considering
+[00:17:43] enforcement action,
+[00:17:45] where the sanction may include revocation
+[00:17:47] or permanent restriction of spectrum licenses.
+[00:17:50] That evidential threshold is low. This creates two risks.
+[00:17:54] First, a due process risk for providers.
+[00:17:56] Second, a confidence risk for the broader market.
+[00:18:00] Severe regulatory sanctions require strong procedural
+[00:18:03] safeguards for revocation
+[00:18:04] or permanent restriction decisions.
+[00:18:07] The bill should require a higher evidential standard than
+[00:18:11] summary material alone.
+[00:18:12] Clear recorded reasoning addressing proportionality
+[00:18:16] and structured consideration
+[00:18:17] of downstream impact on New Zealand customers.
+[00:18:20] That is not an obstruction. It is good regulatory design.
+[00:18:24] Four, offshore provider confidence.
+[00:18:27] The bill's purpose is
+[00:18:28] to ensure overseas providers are subject to New Zealand law.
+[00:18:31] However, New Zealand is a small market.
+[00:18:34] If compliance risk is uncertain, technically incompatible
+[00:18:37] with certain encryption models
+[00:18:39] or tied to severe discretionary enforcement powers,
+[00:18:43] providers may choose to limit services here.
+[00:18:45] The result would be, would not be improved sovereignty.
+[00:18:48] It would be reduced service availability
+[00:18:50] and potentially reduced cybersecurity resilience.
+[00:18:54] Clear statutory safeguards reduce
+[00:18:56] that risk while preserving enforcement capability.
+[00:18:59] Conclusion, this bill shifts power that may be justified,
+[00:19:04] but when power shifts,
+[00:19:06] safeguards must strengthen accordingly.
+[00:19:08] I recommended the committee amend the bill to include
+[00:19:11] an explicit non weakening of encryption safeguard.
+[00:19:15] A statutory proportionality
+[00:19:17] and least intrusive means test for license sanctions,
+[00:19:21] stronger evidential requirements for vocational
+[00:19:24] or permanent restriction, clear protection of third party
+[00:19:28] and end user interests.
+[00:19:29] Limited transparency reporting on use
+[00:19:32] of these new enforcement powers.
+[00:19:34] With those amendments, the bill can achieve its policy
+[00:19:37] objective without undermining civil liberties,
+[00:19:40] cybersecurity, or market confidence.
+[00:19:43] Thank you.
+[00:19:44] Thank you Zoran.
+[00:19:45] Um, that's all the time we had
+[00:19:48] for your submission. Thank you.
+[00:19:50] You're welcome. Contribution. Have a good day. Bye-bye.
+[00:19:53] A good day. Bye. Looking
+[00:19:57] for the next summit, Wayne?
+[00:20:00] Yeah, on Zoom. Hello Wayne. How are you?
+[00:20:06] I'm good, thank you. Good morning.
+[00:20:08] Thank you. Um, thank you for your submission.
+[00:20:09] We have five minutes, uh, for your submission.
+[00:20:12] This includes if there will be any time left
+[00:20:14] after you have spoken to your submission.
+[00:20:17] Uh, and, and if there are any questions from members.
+[00:20:20] Sure. Thank you. Okay. So good morning.
+[00:20:23] My name is Wayne Wooderson
+[00:20:24] and this is my submission to the select committee.
+[00:20:26] Today, the tele communications
+[00:20:29] and other amendments, uh,
+[00:20:30] other matters amendment bill significantly changes
+[00:20:32] how New Zealand telecommunications laws apply
+[00:20:35] to overseas service providers.
+[00:20:37] It reflects a general consensus
+[00:20:39] that overseas providers operating in New Zealand in the
+[00:20:41] New Zealand market should be subject
+[00:20:43] to comparable regulatory obligations as local operators.
+[00:20:48] This seems reasonable, however,
+[00:20:49] both the Law Society Law Association
+[00:20:52] and the Free Speech Union have highlighted in their
+[00:20:54] submissions that the bill in its present form
+[00:20:56] will do more harm than good.
+[00:20:58] If passed, yes,
+[00:20:59] it will close the jurisdictional gap highlighted
+[00:21:01] by the Commerce Commission versus Cordia Group limited case,
+[00:21:05] but it will introduce the raft of other problems due
+[00:21:08] to its wide extraterritorial reach,
+[00:21:11] complex enforcement mechanisms,
+[00:21:13] broad administrative discretion,
+[00:21:15] and unchecked ministerial powers.
+[00:21:17] If the spell is genuinely concerned about protecting persons
+[00:21:20] in New Zealand, then it needs
+[00:21:22] to address its current limitations
+[00:21:25] and potential dangers for the future.
+[00:21:27] The FCU Law Society
+[00:21:29] and Law Association have done a thorough job in
+[00:21:32] outlining these to the committee.
+[00:21:33] So I won't repeat them here this morning.
+[00:21:36] However, as someone the bill is seeking to protect, here is
+[00:21:39] what I feel needs to change.
+[00:21:41] Firstly, drop the idea
+[00:21:43] that some service providers are too essential to sanction.
+[00:21:47] This limits effective consumer protection
+[00:21:49] and undermines any service integrity within the sector.
+[00:21:53] Providers, all providers need to face some form
+[00:21:55] of sanction if there is a breach
+[00:21:57] because no one is above the law.
+[00:21:59] What this will look like will need to be carefully thought
+[00:22:02] through and developed.
+[00:22:05] Secondly, protect private communications from New Zealand
+[00:22:08] surveillance agencies by amending section ten four
+[00:22:11] of the telecommunications intersection Capability
+[00:22:14] and Security Act 2013, whatever the future
+[00:22:17] of encryption will be.
+[00:22:19] New Zealanders have a right, a right
+[00:22:21] to private encrypted communications without network
+[00:22:24] operators and service providers building back doors
+[00:22:27] or decrypting communications when they do not possess
+[00:22:31] the decryption keys they need.
+[00:22:33] Thirdly, limit surveillance capacity of present
+[00:22:35] and future laws by amending section five
+[00:22:38] of the Telecommunications Act to ensure
+[00:22:40] that retail quality service matters
+[00:22:42] focus on technical delivery rather than editorial
+[00:22:46] or content related matters.
+[00:22:48] As the FCU has pointed out, this will ensure
+[00:22:50] that the government cannot administratively regulate pre
+[00:22:53] speech without new primary legislation.
+[00:22:57] Which leads me to a concern about the range
+[00:22:59] of powers the secretary has under the spill at present,
+[00:23:02] along with the Commerce Commission
+[00:23:04] and future New Zealand surveillance agencies
+[00:23:07] and the capital, capital intensive sector like
+[00:23:09] telecommunications that relies on predictability.
+[00:23:12] Is the ability to revoke, suspend, or restrict radio
+[00:23:15] and spectrum licenses really the best response
+[00:23:18] to alleged breaches
+[00:23:20] or for the industry to be met
+[00:23:22] with new obligations without the need
+[00:23:23] for new primary legislation?
+[00:23:26] The reality is, is
+[00:23:27] that the regulatory framework proposed under the bill,
+[00:23:30] it's designed to be adaptable over time.
+[00:23:33] Retail service quality is currently limited to billing
+[00:23:36] and service standards.
+[00:23:37] However, there is nothing in this bill at present
+[00:23:39] to stop content moderation
+[00:23:41] and platform governance becoming a service requirement
+[00:23:44] or for the Commerce Commission to mandate mandate
+[00:23:47] Industry codes related to each of these.
+[00:23:50] Also, there are no checks
+[00:23:51] and balances on the power used by surveillance agencies.
+[00:23:55] With this in mind, I'd like to see the recommendations made
+[00:23:58] by the FCU to be included to ensure that the Secretary
+[00:24:02] Commerce Commission and New Zealand surveillance agencies
+[00:24:05] are held accountable under the bill.
+[00:24:07] Finally, I'd like to recommend in light of this,
+[00:24:09] that a yearly board be required under the bill for the
+[00:24:12] above actors to ensure the ongoing transparency
+[00:24:15] and accountability of the government
+[00:24:17] and the telecommunication sector.
+[00:24:19] I think this would for me bring peace of mind
+[00:24:23] as a member of the public.
+[00:24:25] If the telecommunications
+[00:24:26] and other amendments built is really
+[00:24:28] for protecting persons in New Zealand, then in my opinion
+[00:24:31] as a New Zealander, it needs
+[00:24:33] to address the concerns highlighted in the submissions
+[00:24:36] provided by the Law Society Law Association, FCU
+[00:24:40] and previous, um, attendees like myself,
+[00:24:43] of which my submission is touched on today.
+[00:24:46] So thank you for your time and God bless.
+[00:24:48] Thank you so much. Uh, any questions We have,
+[00:24:51] um, just 30 seconds.
+[00:24:52] Very quick question. No, that's all good.
+[00:24:54] Thank you so much, Wayne, for your contribution.
+[00:24:56] You are welcome. Thank you. Bye.
+[00:25:00] Um, next we have, we, we don't have it here, Paul.
+[00:25:05] Oh, Paul. Hello. Hi. Good morning. Hi.
+[00:25:08] Uh, thank you so much, uh, for coming here in person,
+[00:25:12] uh, for your submission.
+[00:25:13] We have five minutes with you. Yep.
+[00:25:14] And you've seen how it works. Thank you. Yep.
+[00:25:16] No, thank you. Thanks for allowing me to speak.
+[00:25:19] Um, I just wanna being, having been the victim
+[00:25:21] of excessive surveillance many years ago, I wish
+[00:25:25] to tell you what can go wrong.
+[00:25:27] So I'll go back to 1979.
+[00:25:29] I was working as a tour maker for Phillips
+[00:25:30] and Nine Eye with a general strike called
+[00:25:33] by the engineering union, which I didn't,
+[00:25:35] which I broke single handedly.
+[00:25:37] That's me. Um,
+[00:25:39] and in those days we had compulsory trade unionism.
+[00:25:43] So anyhow, that didn't go down well,
+[00:25:44] but I didn't get attacked or beaten
+[00:25:46] up 'cause that used to happen.
+[00:25:47] Sorry. But it did. Anyhow, I decided to appeal
+[00:25:51] to be a conscientious objector.
+[00:25:53] You're allowed to. So I got a lawyer friend of mine,
+[00:25:57] Peter Richardson from Upper Hut retired,
+[00:25:59] and we went to the, a week before the tribunal case.
+[00:26:02] He rings me up very excited that, uh, Mr.
+[00:26:05] Mcwe in the top QC in the, in the country, one
+[00:26:08] of the top three at that time and 79 wanted
+[00:26:10] to do the case pro bono
+[00:26:11] because I fired the balls
+[00:26:13] to take on the trade union movement.
+[00:26:14] I needed help. So anyhow, we, um, went to the,
+[00:26:19] to the hearing and, um, that that was fine.
+[00:26:23] And I got a chance
+[00:26:24] to cross examine the trade union guy briefly.
+[00:26:27] And because I'd been to Russia once in 75
+[00:26:29] as a drive through tourist.
+[00:26:31] And secondly, in 19, in 76 as the first mountaineer
+[00:26:34] to climb in Russia from New Zealand
+[00:26:36] for, since the revolution.
+[00:26:37] I got a good look at the inside of communism for the elite,
+[00:26:40] with the elite corruption at its highest, highest levels.
+[00:26:43] Then anyhow, um,
+[00:26:45] we had the hearing here in the building in parliament
+[00:26:48] up the hill, up the hill there.
+[00:26:50] And I got a chance to cross examine the trade union guy.
+[00:26:54] And I ripped into him, I'll be quite blunt,
+[00:26:56] didn't take a lot of prisoners.
+[00:26:57] Um, then I felt both lawyers kicking me under the table.
+[00:27:01] The only hell we adjourned anyhow,
+[00:27:03] made my submission to them.
+[00:27:05] I asked lawyers, I remember that McGwen was one
+[00:27:07] of the top three QCs in the country at the time.
+[00:27:10] Why? What I did, what I had, why, what I,
+[00:27:12] why would they kick me under the table?
+[00:27:14] You destroyed the trade union thing.
+[00:27:16] Anyhow, I was found to have no sincerity of belief
+[00:27:20] and, um, my case
+[00:27:22] for being a conscious subjector was rejected.
+[00:27:25] Anyhow, we fast forward to the end of 79
+[00:27:29] and a friend of mine, Dr.
+[00:27:30] Featherston, who now resides in America
+[00:27:32] and myself, held a party at his house in Alah.
+[00:27:37] And that was fine.
+[00:27:38] I'd done the sing as you didn't in those days.
+[00:27:40] Ring 'em up, you wanna come to a party
+[00:27:41] and a Christmas party, two, three before Christmas.
+[00:27:43] All those things were all very friendly. Well, good, fine.
+[00:27:46] So I'm out the back Saturday night, mid-December 79,
+[00:27:49] helping John do a few things.
+[00:27:51] And one of my friends comes out
+[00:27:52] and says, oh, Paul says there's a hot chick looking for you.
+[00:27:55] Well, I've never considered myself chick
+[00:27:56] ba sorry, not been rude here.
+[00:27:57] And so I go out and, um, there was an attractive woman.
+[00:28:01] I was 29 at the time about,
+[00:28:02] I'd say about roughly about the same age.
+[00:28:05] And, um, I thought, this is weird.
+[00:28:07] I don't even know this woman. Why is she here?
+[00:28:08] I didn't invite her. So this goes back
+[00:28:11] to surveillance unauthorized effectively.
+[00:28:13] 'cause I was seen as a danger to the country.
+[00:28:16] And, um, I said, well, you, I'm Paul, hi.
+[00:28:18] I gather you wanna have a yarn trying to be friendly.
+[00:28:20] And then she flawed me. She said, Paul, you are Mr. Clark.
+[00:28:24] Yes, fine. I am here on behalf
+[00:28:27] of the New Zealand government.
+[00:28:29] To tell you personally, on behalf
+[00:28:31] of the New Zealand government, the government, Mr.
+[00:28:34] Moderno was prime minister, will not allow you
+[00:28:37] to destroy the trade union movement.
+[00:28:39] And the thing about it, that spider on me,
+[00:28:41] Kate crashed a party effectively.
+[00:28:43] 'cause I had a contrary belief.
+[00:28:45] I didn't believe in trade unionism.
+[00:28:47] And I made a few flippant remarks about trade unionism.
+[00:28:49] Sorry, that's me. And I said, well,
+[00:28:52] can we have a glass of wine and discuss it?
+[00:28:53] Anyhow, so I turned around to get the wine and she goes,
+[00:28:58] and anyhow, um, people said,
+[00:28:59] oh God, you upset here pretty quickly.
+[00:29:00] Or I didn't go into it with anybody that night. Fine.
+[00:29:03] On the Monday I rang my two lawyers, Peter Richardson,
+[00:29:06] who's retired now here in Upper Hut, and told him,
+[00:29:09] and he was like, holy crap, that's ridiculous.
+[00:29:12] And then I rang McGwen
+[00:29:14] and he just recently retired a couple of years ago as um,
+[00:29:17] head of the appeals court here in New Zealand.
+[00:29:20] And I told him twice, he, he hung up on me.
+[00:29:23] And on the third time he heard me out
+[00:29:25] and he said, Paul, you've won, if the government feels
+[00:29:28] so threatened by what you did, um, I was seen as a front
+[00:29:32] for the employers federation.
+[00:29:33] I wasn't, I just a totally independent guy.
+[00:29:36] And this is where surveillance can go wrong so easily.
+[00:29:38] I had done nothing wrong. I had not broken any laws,
+[00:29:42] and yet I get effectively raided for my beliefs,
+[00:29:45] which were totally legal.
+[00:29:46] There was no law that said you had
+[00:29:47] to believe in trade unionism.
+[00:29:50] So I just wanna tell you what happens when you get overreach
+[00:29:52] with no accountability.
+[00:29:54] And the funny thing was, four years later,
+[00:29:56] all compulsory trade unionism went, uh, I like
+[00:30:00] to think demons of this day.
+[00:30:01] I had a part in that. That's just my own personal beliefs.
+[00:30:03] But what I'm trying to say here is, it's all all very nice
+[00:30:06] to have all these surveillance rules,
+[00:30:07] but it's also often people involved
+[00:30:09] with them are not accountable or not held to account.
+[00:30:13] And unless you're very strong
+[00:30:14] and luckily I've, I are a fairly strong person in
+[00:30:16] that sense, you don't get the pushback
+[00:30:18] that really justice requires.
+[00:30:22] Um, thank you Paul, for your submission.
+[00:30:23] We have run of the Yeah.
+[00:30:25] Oh, sorry about that. For Your submission.
+[00:30:26] That's just five minutes. Thank you so much. Yep.
+[00:30:28] Is there any questions or anything?
+[00:30:30] Okay, thank you. Okay, Thanks. Bye. Thank, thank you.
+[00:30:33] Thank you. Um,
+[00:30:34] next we have Erica.
+[00:30:56] Erica, can you as accept to be a panelist? Oh, sorry.
+[00:31:00] No, this is the next subject. Oh, sorry.
+[00:31:02] Sorry about that. Well, thank
+[00:31:03] you for Yeah, I can see you.
+[00:31:04] You now Erica. Thank you. Can you hear me?
+[00:31:07] Yes. Isn't technology great?
+[00:31:09] Good. Um, so we have five minutes with you.
+[00:31:13] Um, this includes, um, any questions, um,
+[00:31:16] after you have spoken to your submission,
+[00:31:18] if there is any time left.
+[00:31:19] Thank you so much.
+[00:31:22] Thank you. Thank you member. My name is Erica Whitham.
+[00:31:27] I about me, I have a Bachelor
+[00:31:29] of Arts degree from the University of Toronto
+[00:31:33] at my time in Toronto.
+[00:31:35] I studied one year in former East Berlin
+[00:31:38] in the nineties at Hobart University.
+[00:31:41] I've worked in it in New Zealand since 2002
+[00:31:44] in private and government sector.
+[00:31:46] So that's just a bit about me.
+[00:31:48] Just bill the telecommunications
+[00:31:50] and other matters amendment bill.
+[00:31:52] Um, it's really concerns me gravely
+[00:31:54] because this bill violates freedom of speech, freedom
+[00:31:57] of expression, freedom of association, freedom
+[00:31:59] of information and respect for human rights,
+[00:32:01] which is written in our 1990 bill of Rights.
+[00:32:04] I support the submissions from the Free Speech Union.
+[00:32:07] I heard Sue Gray's submissions with her academic,
+[00:32:12] um, person who accompanied her.
+[00:32:17] And this bill really is overreach.
+[00:32:20] I agree with what the former gentleman was just saying
+[00:32:23] before me about the former overreach
+[00:32:25] of the Eastern eastern block.
+[00:32:29] Um, encryption is essential infrastructure
+[00:32:32] for private security and free expression.
+[00:32:35] Um, I, my submission is that the commission needs
+[00:32:38] to amend this bill or not have it proceed.
+[00:32:42] There needs to be encryption, sorry.
+[00:32:46] The, this regulation, um, gives the mechanism to shut down
+[00:32:52] non-compliant platforms.
+[00:32:54] And what I find most concerning
+[00:32:58] is section, I think it's section 50,
+[00:33:05] uh, just be with me, 65 i sharing of information
+[00:33:09] and, um, documents.
+[00:33:12] As I said in Berlin, I studied, one
+[00:33:16] of my lecturers told me all mail was opened
+[00:33:20] by the secret police by the Chaz.
+[00:33:23] All overseas mail was opened, read and sealed back up.
+[00:33:26] Sometimes her mail arrived and it was a block of glue
+[00:33:30] because they'd used so much glue to seal it back up.
+[00:33:33] But she couldn't even read it.
+[00:33:34] You know, she just had this, this brick, this section
+[00:33:40] about in the bill about sharing of information and documents
+[00:33:45] and a surveillance agency.
+[00:33:46] This is really, really concerning.
+[00:33:49] Um, I'm trying to think of the society where surveillance
+[00:33:53] and censorship has done it well.
+[00:33:55] Uh, I can't think of any examples as, as the guy
+[00:33:59] before me was talking about, you know, former Eastern, um,
+[00:34:04] block countries in their surveillance,
+[00:34:06] it didn't turn out well for them.
+[00:34:08] There's the United Nations Declaration of Human Rights.
+[00:34:13] Everyone has the right to freedom of opinion and expression.
+[00:34:16] This right includes freedom
+[00:34:17] to hold opinions without interference, to seek, receive
+[00:34:20] and impart information
+[00:34:21] and ideas through any media regardless of frontier.
+[00:34:25] So any media is the take home for me on that one.
+[00:34:30] Um, you know,
+[00:34:34] people in former eastern block countries, if their radio
+[00:34:37] or TV aerials were facing West, you know,
+[00:34:41] meaning they were listening to the BBC, they had the Shazi
+[00:34:44] or the KGB at their house interrogating them
+[00:34:47] and they lost their jobs and they were given a job.
+[00:34:51] They didn't recognize their skills.
+[00:34:53] This is not what we want in New Zealand.
+[00:34:56] You know, we have a democracy.
+[00:34:59] Um, any kind of surveillance agency, um,
+[00:35:02] is not part of a democracy.
+[00:35:05] I'd like to talk about the US case in 2022.
+[00:35:09] That was the state of Missouri versus Joe Biden.
+[00:35:12] This was the Attorney General of the state
+[00:35:14] of Missouri, Eric Schmidt.
+[00:35:15] And he took a case against the White House
+[00:35:17] for censorship censorship on Facebook, Twitter, Instagram,
+[00:35:23] YouTube, uh, LinkedIn.
+[00:35:25] And under the First Amendment, one of the decisions was
+[00:35:29] that the federal government should have no role in policing
+[00:35:32] private speech or picking winners
+[00:35:34] and losers in the marketplace of ideas.
+[00:35:37] That case went on
+[00:35:38] and resulted in Mark Zuckerberg
+[00:35:40] being questioned in Congress.
+[00:35:42] And then he's since backed down on, uh,
+[00:35:45] he issued a written apology after being questioned.
+[00:35:50] So I don't think the internet should be turned
+[00:35:55] into some sort of cleaned up version of the Yellow Pages.
+[00:35:59] 'cause that's what this bill is gonna ultimately result in.
+[00:36:02] You know, the internet is about free, free speech
+[00:36:07] and we live in a democracy.
+[00:36:08] We don't live in an oligarchy
+[00:36:12] and we live in the age of enlightenment.
+[00:36:16] That's where information is shared.
+[00:36:19] I know the former PM Arder talked about
+[00:36:22] the one source of truth.
+[00:36:24] Um, this is the sort of thing
+[00:36:25] that happened in the dark ages.
+[00:36:27] You know, there was an academic Galileo Galileo
+[00:36:29] who was shut down per saying the Earth was not the center
+[00:36:33] of the solar system by the Catholic church in,
+[00:36:36] in our century of the internet, sorry, of communications.
+[00:36:39] We embrace information. Sorry.
+[00:36:41] Sorry to interrupt Erica. Uh, we have run out of time.
+[00:36:44] So thank you so much for your submission.
+[00:36:47] Thank you for your contribution.
+[00:36:49] Okay, thank you. Thank you. Bye-bye.
+[00:37:15] Scott, can you hear me?
+[00:37:16] Uh, yes. Oh, great. Thank you so much.
+[00:37:19] Uh, we can see you, but we can hear you.
+[00:37:21] That's totally fine. So we have five
+[00:37:23] minutes with you. Thank you.
+[00:37:25] Okay. Uh, thank you for the opportunity to appear.
+[00:37:28] Um, in my written submission, I focused on infrastructure,
+[00:37:31] competition and regulatory architecture.
+[00:37:34] I'd like to briefly expand on structural implications, um,
+[00:37:39] of extending that architecture extra territorially.
+[00:37:44] First, I acknowledge, uh, acknowledge the policy problem.
+[00:37:48] Offshore telecommunications providers are increasingly
+[00:37:52] delivering services into New Zealand,
+[00:37:54] ensuring regulatory clarity
+[00:37:56] and a level of level playing field is reasonable.
+[00:37:59] The regulatory gap is real.
+[00:38:02] My concern is not the objective, it's the design choice.
+[00:38:06] The bill addresses the gap primarily
+[00:38:08] by extending the extraterritorial scope
+[00:38:10] of existing obligations
+[00:38:12] and strengthening enforcing enforcement mechanisms,
+[00:38:15] including spectrum based leverage,
+[00:38:17] where traditional enforcement may be impractical.
+[00:38:22] That approach preserves the existing regulatory paradigm.
+[00:38:26] It does not reexamine it.
+[00:38:28] When legislation expands enforcement reach without bending
+[00:38:33] balancing architecture alongside it.
+[00:38:36] It creates what might be described best
+[00:38:39] as a path of dependence.
+[00:38:42] Institutions naturally operate within
+[00:38:43] the tools they are given.
+[00:38:45] Over time, regulatory effort, compliance, cost,
+[00:38:48] and enforcement dynamics can become self-reinforcing.
+[00:38:55] The regulatory impact statement acknowledges
+[00:38:57] that outcomes will depend significantly on compliance levels
+[00:39:02] and regulatory effort.
+[00:39:04] That is understandable, but it also highlights
+[00:39:07] that enforcement is likely
+[00:39:08] to require ongoing institutional energy
+[00:39:11] and may not always succeed.
+[00:39:13] That makes clarity around scope
+[00:39:15] and proportionality even more important, the new power
+[00:39:19] to revoke or restrict radio spectrum licenses
+[00:39:23] is a significant lever.
+[00:39:25] It may, may be justified as backstop.
+[00:39:29] However, spectrum is not merely a technical resource.
+[00:39:32] It is an economic one.
+[00:39:34] When enforcement relies on economic choke points,
+[00:39:38] it can shape markets indirectly.
+[00:39:41] If the underlying policy objective includes infrastructure
+[00:39:43] protection or market stabilization,
+[00:39:46] it would strengthen legitimacy to state that explicitly
+[00:39:50] and debate proportionality transparently.
+[00:39:54] Um, there is also a perimeter question.
+[00:39:58] New Zealand's search surveillance
+[00:40:00] and inception frameworks evolved within a domestic
+[00:40:04] constitutional and cultural environment.
+[00:40:07] Judicial oversight prosecutor, uh, prosecution standards
+[00:40:12] and informal accountability.
+[00:40:14] Accountability norms form part of their ecosystem.
+[00:40:18] As telecommunications obligations become
+[00:40:22] explicitly extraterritorial infrastructure providers
+[00:40:25] operating offshore are effectively brought into
+[00:40:27] that domestic enforcement architecture.
+[00:40:31] It is worth considering whether the visibility of safeguards
+[00:40:34] scales appropriately with that expansion.
+[00:40:39] That leads to a broader point about
+[00:40:41] transparency and accountability.
+[00:40:44] If TSA is increasingly operating as part
+[00:40:47] of New Zealand's outward facing regulatory posture,
+[00:40:51] then strengthening the visibility
+[00:40:53] of its balancing principles would enhance legitimacy both
+[00:40:57] domestically and internationally.
+[00:40:59] This does not require weakening lawful
+[00:41:01] interception capability.
+[00:41:03] It may simply require clearer articulation
+[00:41:06] of proportionality review mechanisms
+[00:41:10] and constitutional content within the
+[00:41:13] statutory framework itself.
+[00:41:17] Finally, telecommunication systems are inherently dual use.
+[00:41:21] The same architectures that enable lawful access
+[00:41:24] can also be designed to strengthen privacy protections.
+[00:41:29] Legislative signals matter
+[00:41:30] because they shape the architectural incentives.
+[00:41:34] If enforcement mechanisms are being expanded,
+[00:41:36] extra territorially, that may be prudent to ensure
+[00:41:40] that incentives towards privacy preserving design
+[00:41:44] are equally visible within the framework.
+[00:41:47] In short, the regulatory gap is real
+[00:41:52] equal treatment cross providers is reasonable,
+[00:41:56] but as a perimeter of enforcement expands,
+[00:41:59] embedding explicit balancing architecture will strength,
+[00:42:03] durability, legitimacy, and long-term trust.
+[00:42:07] Thank you.
+[00:42:09] Thank you for your submission. Any questions for members?
+[00:42:12] No, thank you so much, uh, for your submission. Thank you.
+[00:42:17] Thank you. Thanks Carl. We don't have marks.
+[00:42:23] Glen. Yeah,
+[00:42:35] Glen, can you hear me?
+[00:42:39] Not yet.
+[00:42:51] Great. Uh, thank you so much Glen for your submission.
+[00:42:54] We have five minutes with you
+[00:42:56] and this includes, um, time
+[00:42:58] for any questions if there is any time left
+[00:43:00] after you have spoken to your submission. Thank you.
+[00:43:03] Yeah, thank you very much. And, um, I, I do wanna
+[00:43:06] I guess give an apology up front.
+[00:43:07] I've been running around, um, but crazily this morning.
+[00:43:10] So, um, realize I didn't actually have a copy
+[00:43:13] of the submission to hand,
+[00:43:14] but, so I'll just be winging it a little bit
+[00:43:16] and I apologize for that.
+[00:43:18] But, um, I guess the, the gist of of my submission was that
+[00:43:22] I have concerns around this bill
+[00:43:24] and it's probably the kind
+[00:43:25] of concerns I imagine you've heard from a number
+[00:43:27] of submitters.
+[00:43:29] And I guess to sort of summarize them, I, you know, having,
+[00:43:33] having read through it, a friend of mine sort
+[00:43:35] of notified me about it.
+[00:43:36] Um, and I had a look at the time,
+[00:43:39] and to me, this, this is something that's sort of presented
+[00:43:43] as kind of, you know, almost technical amendments to things.
+[00:43:49] But I see it as quite a big policy shift
+[00:43:52] and it changes, um, to my mind significantly,
+[00:43:56] the expansion of this country's surveillance regime
+[00:44:00] and, um, extending those interception powers
+[00:44:04] to cover overseas communication services is, is quite a,
+[00:44:08] quite a notable shift, um, in terms of the philosophy
+[00:44:12] behind it, but also the practical implications.
+[00:44:16] So that's, I guess summing up my view would be that the,
+[00:44:20] the, the fundamental sort of civil liberties
+[00:44:22] that we all value, um, needs a lot more scrutiny
+[00:44:26] than the public have, have really given this bill so far.
+[00:44:30] And, and I, you know, I urge you all to,
+[00:44:32] to really work through that.
+[00:44:34] Um, I guess specifically I think the bill risks,
+[00:44:40] um, the whole basis of, of modern communication systems
+[00:44:44] where you, which allow for freedom of expression and,
+[00:44:48] and all kinds of societies around the world.
+[00:44:51] And I think it's easy to sort of just go, well,
+[00:44:53] we're okay here, so we'll just do this here,
+[00:44:57] but just, just look at the scalability of this
+[00:45:00] and to look at the impacts on end-to-end encryption.
+[00:45:04] You know, I, the way I sort of see it is that either
+[00:45:08] these commun global communication providers are gonna have
+[00:45:11] to tam with that technology and have impacts globally,
+[00:45:16] or they're gonna have to limit
+[00:45:18] or withdraw their services in the New Zealand market.
+[00:45:20] And, and either way, you know, I just look at,
+[00:45:23] look at why we are going down this track when the
+[00:45:27] implications in a lot of countries for doing this would be
+[00:45:30] incredibly severe.
+[00:45:31] And I think it's easy, like a lot of things to do
+[00:45:33] with free speech, it's easy to sort of go, well,
+[00:45:37] it's not a big deal here
+[00:45:39] until it is a big deal here one day.
+[00:45:41] Um, and I think when you look at people like journalists
+[00:45:45] who are needing to protect sources, whistleblowers, people
+[00:45:50] who just wanna speak out politically
+[00:45:52] and sort of organize themselves in an environment
+[00:45:54] that sometimes can be quite, um,
+[00:45:57] restrictive in modern society.
+[00:45:59] Um, people who, who, who are from vulnerable communities,
+[00:46:03] people who are, um, minority groups who,
+[00:46:07] and you know, you can go back through New Zealand's history
+[00:46:10] and see there are times whatever group it is,
+[00:46:12] whether it it be, um, the, the um,
+[00:46:15] gay lesbian community back in, in the time who,
+[00:46:18] who would be under severe threat in a modern society if we
+[00:46:22] transpose what they were dealing
+[00:46:23] with politically at the time to a modern
+[00:46:27] communication system
+[00:46:28] because that's how people communicate these days.
+[00:46:31] So to sort of, to, to think that it's sort
+[00:46:33] of maybe untoward actors all the time
+[00:46:36] who are utilizing this, I think misses the key point
+[00:46:39] that there is a free speech component
+[00:46:40] and there is a genuine, um, need for people to be able to
+[00:46:45] have, uh, privacy in their communications.
+[00:46:48] Um, and the other thing I guess for me that it seems
+[00:46:54] somewhat significant is, is this what, you know,
+[00:46:56] people are calling the kill switch that, um,
+[00:47:00] feature governments can sort of expand this, can, you know,
+[00:47:04] shut down non-compliant platforms and and so forth.
+[00:47:09] And I, I just think that the, you know, I have to ask,
+[00:47:13] you know, what is, what are we really
+[00:47:14] trying to achieve here?
+[00:47:16] And is this the right way to approach it?
+[00:47:19] So to me, there need to be, there needs
+[00:47:21] to be amendments to the bill.
+[00:47:23] Um, there needs to be an understanding
+[00:47:25] of why encryption is important, um, why, um, there needs
+[00:47:30] to be a better balance between surveillance powers
+[00:47:32] and safeguards for people's privacy.
+[00:47:35] And I think ideally there needs to be a,
+[00:47:38] a proactive approach to, to more public, um,
+[00:47:41] debate about this because it is, it is a, you know, we're
+[00:47:45] between a rock and a hard place nowadays with the type
+[00:47:48] of society we have and, and social media.
+[00:47:51] But I think we really need to think a few times more
+[00:47:54] before we actually push any buttons on this one.
+[00:47:56] So that, that's sort of my summary.
+[00:47:58] Um, happy if there is time for any question.
+[00:48:00] Yes, thank you. Actually, we don't have any time left.
+[00:48:03] That's all right. Much for your submission. Thank you.
+[00:48:06] Thank you. Um, so, um, it's 8 55.
+[00:48:09] Yeah, we, that's the, we don't have, uh, so all right.
+[00:48:12] So members, I suspend the meeting until 1:00 PM.

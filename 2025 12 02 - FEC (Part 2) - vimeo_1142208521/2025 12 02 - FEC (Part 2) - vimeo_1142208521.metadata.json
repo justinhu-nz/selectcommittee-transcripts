@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:20:18.254349+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142208521",
+  "title": "2025 12 02 - FEC (Part 2)",
+  "url": "https://vimeo.com/1142208521",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 3903,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3902.18,
+    "segment_count": 1426,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 02 - FEC (Part 2) - vimeo_1142208521\\2025 12 02 - FEC (Part 2) - vimeo_1142208521.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142208521",
+    "display_id": "1142208521",
+    "title": "2025 12 02 - FEC (Part 2)",
+    "description": "Tuesday 2 December 2025 | Finance and Expenditure Committee\n\n2024/25 Annual review of the Reserve Bank of New Zealand\n\nHearing of evidence:\n\nReserve Bank of New Zealand\n\nDr Anna Breman, Governor\nRodger Finlay, Board Chair\nKate Le Quesne, Assistant Governor Enterprise Services\nJohn McDermott, Assistant Governor Operations\nKaren Silk, Assistant Governor Money\nAngus McGregor, (Acting) Assistant Governor Financial Stability\nNick McBride, General Counsel",
+    "webpage_url": "https://vimeo.com/1142208521",
+    "original_url": "https://vimeo.com/1142208521",
+    "upload_date": "20251201",
+    "timestamp": 1764627461,
+    "release_timestamp": 1764627470,
+    "duration": 3903,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089916341-1eef759edab639f0d37d26a7e4d8bb1161e67774f2df04c7b9fc7165907bdfd1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268802252.vtt?expires=1778563222&sig=3503c1424d40c8fe9b2567696869cd29e642124a&download=auto_generated_captions.vtt"
+  }
+}

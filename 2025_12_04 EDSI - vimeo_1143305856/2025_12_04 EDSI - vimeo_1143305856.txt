@@ -1,0 +1,653 @@
+Title: 2025/12/04 EDSI
+URL: https://vimeo.com/1143305856
+Published: 2025-12-04
+Duration: 00:31:39
+
+[00:00:09] Thank you.
+[00:00:14] Thank you so much.
+[00:00:18] Hello.
+[00:00:18] Good afternoon.
+[00:00:19] Good
+[00:00:19] afternoon.
+[00:00:26] So we have Rob, uh, Harrison and, uh, Martin?
+[00:00:29] That's correct.
+[00:00:30] Thank you so much. Um, so we have 30 minutes with you.
+[00:00:33] So if you would like to start, um, by, uh, providing some opening
+[00:00:36] remarks, and then we will have questions from members.
+[00:00:39] Sure. Let me open. I'm, I'm Martin Matthews, I'm chair of the board.
+[00:00:43] Rob Harrison, who's chief executive.
+[00:00:45] Thank you for the opportunity to, to meet with you today.
+[00:00:48] Um,
+[00:00:49] can I open by kind of firstly just putting our role a little bit in context?
+[00:00:53] And I'll let Rob say a little bit more about this.
+[00:00:55] But even though we're a state ente- enterprise and
+[00:00:59] charged with the role of acting commercially, we see our
+[00:01:03] role as actually being critical to basically
+[00:01:06] every f- facet of life and activity in New Zealand.
+[00:01:09] If you think about the impact weather has, uh, on
+[00:01:13] our nation, uh, it's quite s- significant and
+[00:01:17] increasingly so. So it's a role that we take very
+[00:01:21] seriously. Um,
+[00:01:23] and a role we have, you know, although we're charged with
+[00:01:27] acting commercially, we think very hard about kinda how we
+[00:01:31] serve our customers, communities, citizens, businesses
+[00:01:35] to ensure that people can better manage the impact of
+[00:01:38] weather. Uh, you, I'm sure, are well aware of the
+[00:01:42] bill that's with this committee now, um, with the proposal
+[00:01:46] for MetService to eventually become part of the
+[00:01:50] new Earth Sciences New Zealand, should that bill be enacted.
+[00:01:54] Uh, I should say at the outset, this is something we support as
+[00:01:58] a, as a, as a company, as a, as a weather forecasting
+[00:02:01] agency. We support the need for ensuring that
+[00:02:05] we have a fit for the future weather forecast and climate system for New
+[00:02:08] Zealand. Uh, the ability to bring the
+[00:02:11] capabilities of the two organizations together
+[00:02:15] is, I think, a really significant opportunity to ensure that we can do a
+[00:02:19] better job for the future of New Zealand and help manage the impact of
+[00:02:23] weather and changing climate. With that, I'll hand over to Rob to say a little bit
+[00:02:27] more.
+[00:02:28] Yeah. Thanks, Martin, and good afternoon, everybody.
+[00:02:30] Um, so you, you'll all know MetService as,
+[00:02:34] uh, the New, New Zealand's, um, authorized and trusted
+[00:02:38] provider of weather warnings and our national weather
+[00:02:42] service. Um, but MetService's role goes well beyond
+[00:02:46] this. Y- you know, what we do isn't just about providing weather
+[00:02:49] forecasts, data and expertise. It's critical to what we do
+[00:02:53] is creating that connection between the weather intelligence and
+[00:02:58] all of our varied, um,
+[00:03:00] customers and their particular needs, and of course
+[00:03:04] all New Zealanders who have, uh, preferences and needs to receive
+[00:03:08] and access weather information that makes sense to them, and ultimately
+[00:03:12] helps them, um, make the decisions that they need to make.
+[00:03:15] So that's really what MetService is all about.
+[00:03:19] We wrap that up in our purpose which kind of drives the organization,
+[00:03:22] so making easy connections to weather intelligence so we're
+[00:03:26] all ready for any weather. And that speaks to,
+[00:03:30] um, the weather intelligence bit about the core of our organization,
+[00:03:34] but, um, the importance of connecting with customers and the
+[00:03:36] public, um, to, to enable weather resilience and weather
+[00:03:40] response.
+[00:03:42] Um, fundamental to our DNA is providing
+[00:03:46] operational high quality robust services, um,
+[00:03:50] 24/7, 365 days a year. And our
+[00:03:53] customers span across government,
+[00:03:57] councils and emergency response, agriculture,
+[00:04:01] aviation, marine transport, energy, the list goes on.
+[00:04:04] You know, it w- you know, we, we are connected across the country and also
+[00:04:08] internationally to enable decision-making based on weather.
+[00:04:12] Um, reaching the public is critical to what we do.
+[00:04:15] We're really proud of, um, progress we're making to just
+[00:04:19] maintain our connections to the public in this time of r- a really
+[00:04:23] rapid change in the media landscape.
+[00:04:25] So, you know, we, we put a lot of work into creating channels that,
+[00:04:29] um, enable people to access, um, the information that we
+[00:04:32] have. We've got some really, um, really good stats around
+[00:04:36] that. And the final piece of our jigsaw is that
+[00:04:39] relationships with our customers, they're absolutely critical and we,
+[00:04:43] um, spend a lot of time nurturing and building those customer
+[00:04:46] relationships. Um, and our only great people that we have at
+[00:04:50] MetS- MetService, committed, knowledgeable, are a fundamental
+[00:04:53] part of, um, the customer satisfaction that we have.
+[00:04:57] So that's, uh, our opening remarks and um-
+[00:05:01] Answer questions.
+[00:05:02] Thank you so much. Um, Scott Willis?
+[00:05:06] Well, firstly, um, how is the, how is the merging
+[00:05:10] going with Earth Sciences? That's a, you know, I know, I know it
+[00:05:13] was, um, signaled a long time ago-
+[00:05:16] Yeah.
+[00:05:16] ... there was gonna be some change, but how's that
+[00:05:20] rolling out?
+[00:05:21] Can I open w- with a brief comment, um, 'cause we're working very
+[00:05:25] closely both at a governance and an executive level
+[00:05:29] simply because, as I said e- earlier and as Rob has reinforced, we, we support
+[00:05:33] this change. So we're working very closely.
+[00:05:36] Um, obviously we're all mindful that we can't do certain things until
+[00:05:40] the enabling legislation is in place, but, uh, Rob is
+[00:05:43] co-leading, um, the work to ensure we're well-prepared
+[00:05:47] when the legislation, uh, is in place, but Rob?
+[00:05:50] Mm-hmm.
+[00:05:52] Yeah. Um, you know, there, there's, um, there's significant
+[00:05:56] opportunity in bringing MetService in- into Earth Sciences
+[00:06:00] as a subs- as a subsidiary organization.Looking at Earth Sciences and
+[00:06:04] MetService, essentially our capabilities are
+[00:06:07] complementary. And, um, and, and bringing the
+[00:06:11] organizations together will enable forecasting of
+[00:06:14] we- not only weather, but also climate and associated
+[00:06:18] impacts to, um, a level far greater than we're able to
+[00:06:22] do right now. So, um, that'll bring huge benefits
+[00:06:26] to, um,
+[00:06:28] both national resilience but a- also the economy as we, as we're able
+[00:06:32] to extend what we're able to do for our very customers.
+[00:06:34] So essentially, this is about being able to achieve much
+[00:06:38] more through that combination of capabilities.
+[00:06:40] Do you want to comment a little bit about the process that we're following with
+[00:06:43] Earth Sciences at the moment?
+[00:06:45] Yeah. Thanks, Martin. So, well, obviously, this is...
+[00:06:49] We're h- fully aware this is all subject to legislation, and there are a few
+[00:06:52] constraints that we have to work in currently, such as competition and
+[00:06:56] law. But we're working really well with Earth Sciences.
+[00:06:59] We've got a, um,
+[00:07:01] project running to, um, maximize this opportunity and really
+[00:07:04] design the future state before we have to shift to
+[00:07:08] that. Um,
+[00:07:10] I- I'm co-leading that with, um, a ca- a counterpart within Earth
+[00:07:14] Sciences. We have a, we run a steering group, and then there's some
+[00:07:18] oversight provided from a gover- Governance Oversight Group, which is two
+[00:07:22] directors from MetService, two directors from Earth Sciences,
+[00:07:26] plus the two chief executives and, and a couple of other staff that are working on
+[00:07:29] the project. So, it's going really well.
+[00:07:32] We've made significant progress over the last six months.
+[00:07:35] And, um, you know, change always brings some challenges,
+[00:07:39] but in the whole, everyone's pretty excited about the future.
+[00:07:42] Mm. That's really interesting.
+[00:07:43] Yeah. So, um, in the, in the merger, you've talked
+[00:07:47] about
+[00:07:49] beefing up capability essentially, merging weather with
+[00:07:53] climate, et cetera.
+[00:07:54] Mm-hmm.
+[00:07:54] We've certainly, in the Deep South, we've seen the effects of some extreme weather-
+[00:07:58] Mm.
+[00:07:59] ... reasonably recently.
+[00:08:01] So, thinking about how, how that
+[00:08:05] capability may grow as you merge with Earth
+[00:08:08] Sciences, how do you think that's gonna
+[00:08:11] help? How are, how are you going to be able to communicate that, that
+[00:08:15] new, new approach?
+[00:08:17] Mm-hmm.
+[00:08:17] What's, what's that looking like?
+[00:08:19] What are you, what are you putting in place now, I guess-
+[00:08:22] Yeah.
+[00:08:22] ... for where, where you're going?
+[00:08:23] Yeah. Um, so a couple of, a couple of really key examples
+[00:08:27] there. Uh, f- firstly, MetService
+[00:08:30] currently is, is focused very much on that operational forecasting
+[00:08:34] timescale, days we, da-days maybe a week ahead, and,
+[00:08:38] um, responding to extreme weather events.
+[00:08:41] Integrating with Earth Sciences, it enables a much better connection
+[00:08:45] between longer term planning timescales.
+[00:08:48] So, you know, what are the weather conditions of the future expected to
+[00:08:52] look like? How can that flow through to planning and
+[00:08:55] designing infrastructure, et cetera, et cetera, in ways that are resilient to
+[00:08:59] future weather, uh, and not just current
+[00:09:01] weather? But then, but then that, um, kind of
+[00:09:05] long-term planning horizon can get integrated into, well, what
+[00:09:09] about, um, the summer season ahead?
+[00:09:12] Are we looking at, um, drier than average, wetter than average?
+[00:09:14] What does that mean for managing my agriculture business?
+[00:09:17] And then through to, you know, the next, the next week, the next few
+[00:09:21] days, and, and managing those high impacts of weather events.
+[00:09:24] So connecting across that timescale, I see as a really big
+[00:09:27] opportunity. And the other aspect is
+[00:09:30] extending from weather to, um,
+[00:09:34] the vision that we have within our co-design project with, with Earth Sciences is
+[00:09:38] forecasting of weather, climate, and associated
+[00:09:41] impacts. So it's, so it's, you know, what, what is the weather
+[00:09:45] forecast to be? But what will that do?
+[00:09:47] You know, what will that mean in terms of, um,
+[00:09:50] flooding in, in partnership with regional councils,
+[00:09:55] uh, land, landslips, droughts? Um, the actual
+[00:09:58] impacts that weather, that people and businesses experience of being able
+[00:10:02] to f- a bit forecast more, in a more integrated way, those
+[00:10:06] impacts.
+[00:10:06] And can I just reinforce that? 'Cause I think the, the vision very much is about
+[00:10:10] sort of, it's one thing to forecast what the weather will be, it's
+[00:10:14] another thing to start to actually get much more effective
+[00:10:18] at being able to describe the impact so that people can be better
+[00:10:22] prepared for those events.
+[00:10:23] Mm, mm-hmm.
+[00:10:23] So, the bringing together, not just of the climate, but the, the hydrology
+[00:10:28] functions of earth science and so on-
+[00:10:30] Mm.
+[00:10:30] ... actually start to kind of allow you to see possibilities that
+[00:10:34] actually ultimately mean that the sort of, the
+[00:10:37] warning system and the messaging to, to citizens, to
+[00:10:41] communities, to businesses can be a whole lot more effective.
+[00:10:45] Yeah. I'll ask a quick sup here. So, how are you managing your international
+[00:10:49] brand, um, in this kind of phase? Uh, it's Metra
+[00:10:52] Weather?
+[00:10:53] Mm.
+[00:10:53] Yeah.
+[00:10:54] Yeah, I mean, um, Me- MetrWeather's a real Kiwi
+[00:10:58] success story, actually, in that we've, um, you know, we've managed to really grow
+[00:11:02] that overseas, uh, weather business on the back of the capability that we've
+[00:11:06] developed in, for New Zealand over, over the last few years.
+[00:11:08] And we've seen really strong growth in Australia, uh,
+[00:11:12] recently. Um,
+[00:11:14] we haven't got into the details of what this, um,
+[00:11:18] w- what this will mean for MetRuaWeather, other than the assumption that, um,
+[00:11:21] a- actually, you know, that, that's an, that's an asset that we can
+[00:11:25] protect and actually grow more in the future.
+[00:11:27] So, we see, I think, I think both entities see that as an
+[00:11:30] opportunity. And of course, um, just like the
+[00:11:34] example that we've talked about in terms of the Deep South and opportunities in New
+[00:11:37] Zealand, there are opportunities for Me- to grow MetRuaWeather's capability through
+[00:11:41] pulling through, um, more of what exists within Earth Sciences.
+[00:11:45] Mm.
+[00:11:46] Um, we've got a really strong team that, um, that
+[00:11:50] leads MetRuaWeather re- and, and, uh, is competing really effectively with some of
+[00:11:54] the biggest weather companies in the world.
+[00:11:56] Interesting.
+[00:11:56] Can I perhaps add also, uh, although your question is around
+[00:11:59] MetRuaWeather, you, you, your reference to the s- the
+[00:12:03] brand. A- and I do think, uh, one of the, one of the decisions
+[00:12:07] the government made, uh, as part of this process was that-
+[00:12:10] ... MetService would be retained at least for up to three years as a fully
+[00:12:14] owned subsidiary.
+[00:12:16] Mm-hmm.
+[00:12:16] Mm-hmm.
+[00:12:16] And we're very conscious of the strength of the MetService brand,
+[00:12:20] not just for commercial reasons, but actually for the s- this, this sort
+[00:12:24] of importance of being the authoritative voice
+[00:12:28] around weather. And so, uh, we fully expect, at
+[00:12:31] least for the foreseeable future, the MetService brand to still
+[00:12:35] be the key, kind of, um,
+[00:12:39] outward-facing, um, uh, brand for, for
+[00:12:43] weather forecasting impacts. So notwithstanding the change in
+[00:12:46] institutional arrangements, the brand is important.
+[00:12:49] Mm. Mm.
+[00:12:50] Mm.
+[00:12:50] Okay. Uh, Scott Willis for the supplementaries.
+[00:12:52] Thank you. Mm. I think it might be supplementary, I'm not sure.
+[00:12:55] (laughs) Um, or primary.
+[00:12:57] (laughs) Okay, it's primary.
+[00:12:59] Um,
+[00:13:00] um, I'm wondering if you could help me understand the, the way
+[00:13:04] in which you manage the public good side of
+[00:13:08] Ne- MetService and, and the, and the commercial side.
+[00:13:11] Because given that we are moving into a, a
+[00:13:14] climate-challenged future with more extreme weather events, more
+[00:13:18] greater variability-
+[00:13:20] Mm-hmm.
+[00:13:21] ... our energy system, for example, when we're 100% renewable
+[00:13:24] electricity, not just for electricity but for energy, will
+[00:13:28] require
+[00:13:29] understanding what, what weather events-
+[00:13:31] Mm-hmm.
+[00:13:32] ... come up. We'll, we'll need to understand-
+[00:13:34] (laughs)
+[00:13:34] ... in advance of when a dry year, a dry winter's going to
+[00:13:38] hit. We'll need to understand solar and, and the
+[00:13:42] change in wind patterns for building wind farms.
+[00:13:44] Mm-hmm.
+[00:13:45] All of those things, there's a large public good element-
+[00:13:49] Mm.
+[00:13:49] ... to all of that. How are you managing, how are you managing
+[00:13:53] that, the commercial imperative along with the public good?
+[00:13:56] Yep.
+[00:13:56] Yeah. Um, you know, it's, uh, it's, um, it's a discussion we have around the
+[00:14:00] executive leadership table quite often on MetService.
+[00:14:03] The, the way we look at it, um, essentially is that,
+[00:14:07] um,
+[00:14:09] pretty much everything we do leads to a public good benefit in some
+[00:14:13] way. You know, w- we're, we're all about helping,
+[00:14:16] um, councils or those business sectors be more
+[00:14:20] effective in their decision-making.
+[00:14:23] Um, and the, and the commercial n- nature of what we do, um, really
+[00:14:26] translates through to customer centricity.
+[00:14:29] So you know, to, to, for, to enable that exchange of value in
+[00:14:33] our commercial contracts to work, we have to deliver
+[00:14:37] on, um, providing value to our customers. So I think it's...
+[00:14:40] The way, the way that I think of it is, the better job we do
+[00:14:43] of, um, our commercial and customer-centric business,
+[00:14:47] the more public good we're able to do.
+[00:14:49] And I think it's, uh, MetService has been an example of the SOE model working
+[00:14:53] pretty well in that regard.
+[00:14:55] Mm-hmm.
+[00:14:55] Um, and, you know, the intention is to retain
+[00:14:59] the stuff that works really well in terms of how, how we, how
+[00:15:03] MetService is customer-centric, delivers that value to customers.
+[00:15:06] And then at the overall economic, the benefit that comes from that in, in the
+[00:15:10] future setup.
+[00:15:11] Mm-hmm.
+[00:15:12] Okay, final sub Scott Willis and then I go to Reuben. Yeah.
+[00:15:16] Um,
+[00:15:18] do you think there, would... There is merit given the decarbonization
+[00:15:21] journey we're on and the, the urgency that we, we
+[00:15:26] pursue that, that we, we look to put more
+[00:15:29] focus on that public good element?
+[00:15:31] Because understanding what's happening with our weather is
+[00:15:35] absolutely critical to, to how, how we do that and, and, and
+[00:15:39] how-
+[00:15:39] Yeah. W- we, um,
+[00:15:42] we had a really good look at the, um, value returned from the
+[00:15:46] MetService Ministry of Transport contract.
+[00:15:48] So we hold a tran- a contract with the Ministry of Transport for the overall
+[00:15:51] national weather service provision.
+[00:15:53] Um, it's particularly the weather warnings
+[00:15:56] program. And we did some economic, um, got a third party to
+[00:16:00] do some economic work on that, which basically, um, showed that
+[00:16:03] the, uh, benefit-cost ratio of that investment from the government was
+[00:16:07] somewhere in the range of 10:1 to 48:1.
+[00:16:10] So in simple terms, you know, $1 investment from the Crown results in a
+[00:16:14] $48
+[00:16:16] benefit to the nation. So that, that's the level of public good that's
+[00:16:20] possible 'cause w- we're a good investment
+[00:16:23] (laughs) case. At the same time, you know, we, we're fully aware
+[00:16:27] of the, um, you know, the range of different priorities across New Zealand.
+[00:16:31] So, uh, somewhat realistic in terms of, um, you
+[00:16:34] know, what's possible in terms of government investment.
+[00:16:37] And therefore, um, adding to that with our, with our customer-centric
+[00:16:41] commercial business is, is the way that we've been able to maximize our
+[00:16:45] impact. And we, and we think that can c- can continue.
+[00:16:49] Mm-hmm.
+[00:16:50] Thank you.
+[00:16:50] Yep.
+[00:16:51] Mm-hmm.
+[00:16:51] Thank you, um, Madam Chair. The, the report speaks to, um, New
+[00:16:55] Zealanders accessing weather information from social media
+[00:16:59] platforms.
+[00:16:59] Mm.
+[00:16:59] Your weather information.
+[00:17:00] Yep.
+[00:17:01] That is, from social-
+[00:17:01] Yep.
+[00:17:02] ... from, from social media platforms-
+[00:17:04] Yeah.
+[00:17:04] ... um, increasingly. Do you have
+[00:17:07] the s- the sufficient
+[00:17:10] funding and infrastructure to staff, moderate, and, and
+[00:17:13] deliver that?
+[00:17:15] Yeah. Um,
+[00:17:19] so, you know, 20 years ago people got their weather
+[00:17:22] information from One News and from the radio-
+[00:17:25] Mm-hmm.
+[00:17:25] ... and that was the source of MetService brand recognition, et cetera, et cetera.
+[00:17:29] And that's, um, changed slowly and then incredibly rapidly
+[00:17:32] over the last five years. Um, we have
+[00:17:37] invested quite a bit in being able to move with those changing
+[00:17:41] times in media. Um, we have
+[00:17:45] changed our media delivery model quite successfully to be, to
+[00:17:48] providing, um, more content in different forms and different
+[00:17:52] ways, you know, that's appropriate for social media, for
+[00:17:55] example. Um, so I think we've, I think we, I
+[00:17:59] think, I think our, and our, and our engagement numbers are pretty good.
+[00:18:02] They're not, they're not where I want them to be, but 1, 1,
+[00:18:06] 1,000,000 on average views of our website and app every day, 400,000
+[00:18:10] social me- social media follow- followers, 8,000
+[00:18:14] stories in the media, um-... quoting a represent Met-
+[00:18:18] MetService over this, over this period. So, they're pretty good numbers.
+[00:18:22] We can push them further, um, and I- and- and we,
+[00:18:25] um... Hey, as chief executive, I'd- I'd always want more
+[00:18:29] resources in these areas, but we can make it work with what we've got.
+[00:18:32] (coughs)
+[00:18:33] So, that's ballpark, what sort of dollar figure put on
+[00:18:37] what is m- the resource that's required to keep those feeds
+[00:18:42] updated, moderated?
+[00:18:44] Oh. You know, um, m- multiple... Oh, oh, just the social
+[00:18:48] media bit is, um, you know,
+[00:18:52] le- less th- less than a million dollars-
+[00:18:54] Yeah.
+[00:18:54] ... I would, I would say.
+[00:18:55] Yeah.
+[00:18:55] ... you know, we- we do have a commercial model built around
+[00:18:59] our
+[00:19:01] web, and app, and- and media content.
+[00:19:03] And, of course, it's all pa- social media is all part of that ecosystem.
+[00:19:07] You know, social media is a way to build our brand and then, um, enco-
+[00:19:11] encourage people to be MetService fans, download our app like, hopefully,
+[00:19:15] this committee has. And, um, and tha- and that all feeds into the, into
+[00:19:19] the mo- the commercial model surrounding our public weather content.
+[00:19:23] It is an interesting sort of area though.
+[00:19:25] We are, you know-
+[00:19:27] Mm-hmm.
+[00:19:27] ... we are actively thinking about, again, how we have to continue to
+[00:19:31] evolve the deliv- delivery kind of methods and approaches,
+[00:19:35] particularly actually-
+[00:19:36] Yeah.
+[00:19:36] ... uh, notwithstanding questions around social media, the significant
+[00:19:40] changes that are occurring in mainstream kind of, um,
+[00:19:44] media and the kind of viability that they have.
+[00:19:47] Those are still important vehicles to certain segments of,
+[00:19:51] of society and for sort of the brand.
+[00:19:54] And so w- we have a- actively thinking about how do we continue
+[00:19:58] to adapt, and that's not gonna change.
+[00:20:01] But I do think, um,
+[00:20:03] d- d- uh, you know, it's helpful to, I believe, reinforce a point Rob made
+[00:20:07] ou- ou- am- couple of minutes ago, which is actually one of the sort
+[00:20:11] of significant advantages of the sort of
+[00:20:14] customer-centric focus which the commercial model has driven for
+[00:20:18] us is that MetService, I think,
+[00:20:22] is m- probably more so than most other
+[00:20:25] national meteorological organizations, is
+[00:20:29] really innovative and thoughtful about how it communicates
+[00:20:33] and engages with its customers and the public, because
+[00:20:37] it's kind of part of our DNA. So, um, it's a really
+[00:20:40] important kinda aspect of how, how we conduct ourselves
+[00:20:44] day-to-day.
+[00:20:45] Mm-hmm. Mm-hmm.
+[00:20:46] Sub from Jan Timme?
+[00:20:47] Yeah. I... Look, I... When I read your report, I was reading those figures
+[00:20:51] around the, um, app hits, and the Met- the
+[00:20:55] Facebook, and the, uh, social media, and all of those, and it's quite
+[00:20:59] impressive. But as you said, it's part of our DNA.
+[00:21:02] Um, we love our weather.
+[00:21:03] (laughs) Yeah.
+[00:21:03] And, you know, I'm one of those people that will go on to your app-
+[00:21:06] Yeah. ... about six or seven times a day.
+[00:21:08] (laughing)
+[00:21:09] So-
+[00:21:09] Me too.
+[00:21:10] (laughing)
+[00:21:10] ... so, um, what if- what is the percentage, do you think, of the
+[00:21:14] adult population that you'd actually be reaching?
+[00:21:17] Is there a way of measuring that?
+[00:21:21] Um... Well, is there- is there a way of
+[00:21:25] measuring it? The, um...
+[00:21:29] The... Yeah. And it- and it- and it- and of course, it's- it's, um, it changes
+[00:21:33] quite a bit as well.
+[00:21:33] Mm. Mm.
+[00:21:34] So, I think o- on a, um, on a- on a- on an average day,
+[00:21:38] um, maybe, um, 400,000 people. So
+[00:21:42] hard to know. And we don't, we don't track who they are-
+[00:21:45] ... so we don't know if they're adults-
+[00:21:47] Yeah.
+[00:21:47] ... or, um,
+[00:21:49] youth, et cetera, et cetera. Um,
+[00:21:52] so, so, you know, uh, t- 10% on an average weather day
+[00:21:56] directly, but then indirectly, significantly more than
+[00:21:59] that. So through our, um, through our arrangements with,
+[00:22:03] um, traditional media-
+[00:22:05] Mm.
+[00:22:06] ... um, online media, social media, um,
+[00:22:09] a much greater percentage. But, um, th- I don't have an
+[00:22:13] exact number.
+[00:22:14] We're about to do some research though, aren't we?
+[00:22:16] Um, the res- th- we are gonna do research.
+[00:22:18] We do do quite a bit of research to make sure that what we're doing is relevant and
+[00:22:21] future-focused. The- the piece that we're looking at right now is looking at our
+[00:22:25] severe weather warnings, so that core aspect-
+[00:22:29] Mm-hmm.
+[00:22:29] ... of what we do. And, um, really going out and asking,
+[00:22:33] um, all asp- all aspects of society, you know, what would they like
+[00:22:37] to see from MetService to make, um, our advice e-
+[00:22:41] even more useful and even more actionable.
+[00:22:43] So we are, we do, we do go out, we do go out routinely and, and get
+[00:22:46] feedback. But we're- we're reaching, um, a large
+[00:22:50] portion of, uh, the public. We, you know, we
+[00:22:54] wanna keep pushing that. Ideally, we'll be reaching w- more people
+[00:22:58] every day and, um, providing r- a richer set of
+[00:23:02] information in the ways that might make sense to them.
+[00:23:04] Mm. Thank you.
+[00:23:06] Um, question from Dr. Vanessa Benney.
+[00:23:09] Thank you very much. Um, now, in this, um, transition,
+[00:23:13] um, has there been any, uh, change in
+[00:23:17] the accuracy of the service, um, provide- of the- of the
+[00:23:21] predi- weather prediction that's happening and occurring?
+[00:23:24] Um,
+[00:23:25] i- the, um... I just, uh, I had a, a question from a
+[00:23:29] constituent about whether MetService was still as reliable-
+[00:23:32] Yeah.
+[00:23:33] (laughs) ... as it always, uh, has been.
+[00:23:35] Definit- definitely no negative impacts.
+[00:23:38] And, um, um, and it- and it- and when we work with Earth Sciences
+[00:23:42] on the acquisition, top of mind all the time is, um,
+[00:23:46] protecting and enhancing that 24 by 7,
+[00:23:50] 365 days e- a week, a year, operational role of
+[00:23:54] MetService.
+[00:23:55] Mm-hmm.
+[00:23:56] Um,
+[00:23:57] we have, um, you know, just, just through the, um,
+[00:24:01] startings of planning for the acquisition achieved a few
+[00:24:05] early wins.
+[00:24:06] Mm-hmm.
+[00:24:06] So there's a bit more collaboration that happens now between Earth Sciences and
+[00:24:10] MetService in the run-up to severe weather events.
+[00:24:13] So actually, for your constituent, there might be some improvements
+[00:24:17] coming through.
+[00:24:18] Yeah.
+[00:24:18] Um, l- longer term, through that joining up of
+[00:24:22] capabilities in a really purposeful and planned way, there, there will be
+[00:24:25] significant, um, enhancements actually.
+[00:24:28] Mm-hmm.
+[00:24:29] Um,
+[00:24:30] to Martin's point, um, MetService absolutely punches
+[00:24:34] above it- above its weight looking at any global benchmark.
+[00:24:37] You know, the, the, the range and quality of what we do for the size of our
+[00:24:41] organization, I mean, I was really impressive when, you know, when I interact with
+[00:24:45] my heads of MetService-
+[00:24:46] ... colleagues from around the world. But, uh, we can definitely take that further.
+[00:24:50] You know?
+[00:24:50] We're a nation impacted by the weather of weather infuse, yes, and
+[00:24:54] we can, and we can, we can do even more in the future.
+[00:24:57] Hmm. Thank you.
+[00:24:58] Yeah.
+[00:24:58] Awesome.
+[00:24:59] Uh, Dr. David Wilson, a quick question.
+[00:25:01] Yeah. First up, um, thank you for over 50 years of the surface
+[00:25:05] pressure map. (laughs)
+[00:25:07] (laughs)
+[00:25:08] More things change, the more they stay the same.
+[00:25:10] Um, if you can widen the Southwest Pacific one, I'd be very appreciative.
+[00:25:14] Um, just wondering about, um, the
+[00:25:17] relationship, you know, Earth Sciences, MetService, you've got, uh,
+[00:25:21] this protection for three years of your brand.
+[00:25:24] How is this all fitting in with NIWA and GNS, and what does that look
+[00:25:27] like, um, from your perspective and as an overall?
+[00:25:31] Hm. Hmm. Yeah, so, um, so, so Earth Sciences
+[00:25:35] is the new CRI organization that's been formed
+[00:25:39] by the merger of, um, NIWA and GNS.
+[00:25:42] Yeah.
+[00:25:42] So that's, they're crack- cracking on with that.
+[00:25:45] Um,
+[00:25:47] and of course, MetService will become a subsidiary of that organization subject to
+[00:25:51] legislation in, in due course-
+[00:25:53] Mm-hmm.
+[00:25:53] ... um, is the intention. So, um, you know, we've,
+[00:25:57] we've spoken quite a bit in this session so far about some of those opportunities
+[00:26:01] in terms of climate and associated impacts.
+[00:26:04] When, when you also think about GNS capability, there's some
+[00:26:09] potentially some longer term synergies in terms of, um,
+[00:26:13] operational, uh, wider ha-
+[00:26:17] hazards forecasting a- approach for New Zealand, so it's one of the things that's
+[00:26:20] kind of got potential for the future, and um, certainly the
+[00:26:24] organizations are aware of. Um, you know, but
+[00:26:28] really it focuses on joining up the whole climate, weather, and associated
+[00:26:32] impacts and, and then looking at some of those opportunities down the line.
+[00:26:36] And NIWA?
+[00:26:38] Yeah, so, so um, so, so NIWA is, is
+[00:26:42] the business unit now within Earth Sciences that we're interacting mostly
+[00:26:45] with.
+[00:26:46] Yeah.
+[00:26:46] Yeah, so that's, um... And, and of course this all started with a
+[00:26:51] weather forecast systems review that was MetService and NIWA and then the, uh,
+[00:26:55] forming of Earth Sciences kind of came along at, at a similar
+[00:26:58] time.
+[00:26:59] Yeah.
+[00:26:59] Yeah.
+[00:27:00] I think what, what, you know, what we're saying is, you know, I
+[00:27:04] think
+[00:27:05] widely perceived sort of tensions between what was NIWA
+[00:27:09] and MetService, uh, you know, concerns are list
+[00:27:13] sometimes around whether, um, there was confusion
+[00:27:16] about who to listen to, especially around severe weather
+[00:27:20] events. What is really significant about what's occurred in the
+[00:27:24] last, uh, six to nine months is the way in which the two
+[00:27:28] organizations have come together, are working together with common
+[00:27:31] objectives, uh, as Rob has just mentioned, particularly
+[00:27:35] around, uh, severe weather events, to ensure that there was
+[00:27:39] alignment around messaging and so on.
+[00:27:42] Yeah.
+[00:27:42] Um, so I, I, I think some of the
+[00:27:46] historical issues that, that I think have been widely
+[00:27:50] cited by others, you know, this process has actually
+[00:27:53] enabled the organizations, not withstanding the fact that we can't get ahead of the
+[00:27:57] legislation, to work together in a way which actually is good for New
+[00:28:01] Zealand.
+[00:28:02] Okay, final question from Rueben, Rueben Davidson.
+[00:28:05] Thank you. Sorry. (laughs)
+[00:28:07] (laughs) You can do a written question later on.
+[00:28:09] Madam Chair, um,
+[00:28:11] just to get a sense, with, with the merger, um, o- one of the
+[00:28:15] things that can happen is people can lose their jobs.
+[00:28:19] Um, so I'm keen to get a sense of whether there's been cuts
+[00:28:22] or, um, hiring freezes or positions left vacant through this
+[00:28:26] process. Um, and
+[00:28:29] yeah, so as a, as a starter, that's probably the first question.
+[00:28:33] Okay. So we'll just, I think, maybe have time only for that question. Yeah.
+[00:28:37] Thank you.
+[00:28:37] Okay. So, um, you know, the, the, the, um, the
+[00:28:41] acquisition process is, is predominantly about a better w- weather
+[00:28:45] forecasting system w- from within the existing
+[00:28:48] resources. Right? So, um, whilst it's, when we
+[00:28:52] get through, when we get further into this process, there will be
+[00:28:56] n- naturally so- some areas of duplication and overlap and some opportunities
+[00:29:00] for rationalization of some, uh,
+[00:29:04] capabilities. But in the whole, you know, when you look at
+[00:29:08] MetService and, you know, areas, um, such as support
+[00:29:12] functions co- you know, could be part of that mix.
+[00:29:15] In the whole though, when you look at what was NIWA and what is MetService,
+[00:29:19] the com- the capabilities don't overlap much.
+[00:29:23] It's highly complementary, so this is gonna be more a case of much more
+[00:29:26] opportunity from within the existing, um, set of
+[00:29:30] resources r- rather than loss of duplication.
+[00:29:34] So they have... Have there been freezes
+[00:29:36] on hiring through the process?
+[00:29:38] No. N- not from a MetService perspective.
+[00:29:40] You know, we are focused on running our business to support New
+[00:29:44] Zealand and keeping the business healthy and growing.
+[00:29:47] And I take, I take
+[00:29:48] We do-
+[00:29:48] Sorry.
+[00:29:49] Oh, you know, we do manage our cost base really carefully.
+[00:29:52] You know, we've always done that as an SOE and we're continuing to do that now.
+[00:29:56] But we, you know, you know, we, we, we're keeping the business, um, healthy
+[00:30:00] and productive and can have without any freezes in place.
+[00:30:03] Any-
+[00:30:03] I mean, we have been working actually also with, with,
+[00:30:07] um, Earth Sciences and their sort of predecessor organizations
+[00:30:11] in a way which actually has also enabled us on occasions to fill
+[00:30:14] roles, um, uh, our ch-
+[00:30:18] people, um, general manager is someone who was initially
+[00:30:22] seconded in from GNS, so you know, there, there are opportunities where we have
+[00:30:26] been s- able to kind of fill roles very efficiently and,
+[00:30:30] and favorably because of the relationship between the
+[00:30:33] organizations.
+[00:30:34] The time is up for this hearing, but any concluding remarks because this is the
+[00:30:38] final time, I guess, you will be at the MetService.
+[00:30:41] (laughs)
+[00:30:41] (laughs)
+[00:30:41] Well, perhaps I, perhaps I will...
+[00:30:43] You will, you will have seen in our annual report, we, we, we kind
+[00:30:47] of thought it might be our last annual report.
+[00:30:49] Yeah.
+[00:30:49] I suspect there may, there may be one more, but, um...
+[00:30:52] But you will have seen that we tried to tell the story of 30 years of-
+[00:30:56] It's very good.
+[00:30:57] ... the MetService.
+[00:30:58] Mm-hmm.
+[00:30:59] Mm-hmm.
+[00:30:59] And, uh, and you'll have, I hope, picked up from both Rob and I that, you
+[00:31:03] know, we are proud of what the MetService does.
+[00:31:06] Mm-hmm.
+[00:31:06] We're proud of the performance of the
+[00:31:08] organization, and we are very optimistic
+[00:31:12] and enthusiastic about what the future holds for
+[00:31:16] creating a much better fit for the future with the
+[00:31:19] climate forecasting and impacts service.
+[00:31:22] Mm-hmm. All the best, um, as you become part of Earth Sciences,
+[00:31:27] and good to see you. Thank you.
+[00:31:28] Thank you.
+[00:31:29] Thank you.
+[00:31:29] Thank you.
+[00:31:29] ... very much.
+[00:31:30] Thanks all. Thank you.

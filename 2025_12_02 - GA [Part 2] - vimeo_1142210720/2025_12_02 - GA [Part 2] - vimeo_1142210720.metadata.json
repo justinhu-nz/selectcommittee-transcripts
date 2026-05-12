@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:52.841632+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142210720",
+  "title": "2025/12/02 - GA [Part 2]",
+  "url": "https://vimeo.com/1142210720",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 2664,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2660.51,
+    "segment_count": 994,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - GA [Part 2] - vimeo_1142210720\\2025_12_02 - GA [Part 2] - vimeo_1142210720.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142210720",
+    "display_id": "1142210720",
+    "title": "2025/12/02 - GA [Part 2]",
+    "description": "Tuesday 2 December 2025 | Governance and Administration Committee\n\n2024/25 Annual review of the Public Service Commission\n\nPublic Service Commission\n- Sir Brian Roche, Public Service Commissioner\n- Heather Baggott, Deputy Public Service Commissioner\n- Alex Chadwick, Deputy Chief Executive Workforce \u2013 Workforce",
+    "webpage_url": "https://vimeo.com/1142210720",
+    "original_url": "https://vimeo.com/1142210720",
+    "upload_date": "20251201",
+    "timestamp": 1764629498,
+    "release_timestamp": 1764629507,
+    "duration": 2664,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089923161-983c902faa5e823719065a8be3e729db2ef1a2f62cbb53fa1b3604f1cb101497-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268808114.vtt?expires=1778563136&sig=7f1c3b6f527045613ad70d5bed8e546e44ab5538&download=auto_generated_captions.vtt"
+  }
+}

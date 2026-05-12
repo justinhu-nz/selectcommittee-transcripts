@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:04:55.625088+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1165852066",
+  "title": "2026/02/25 GA Subcommittee A [Part 1]",
+  "url": "https://vimeo.com/1165852066",
+  "published_at": "20260224",
+  "published_display": "2026-02-24",
+  "duration_seconds": 4122,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4112.65,
+    "segment_count": 1437,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_25 GA Subcommittee A [Part 1] - vimeo_1165852066\\2026_02_25 GA Subcommittee A [Part 1] - vimeo_1165852066.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1165852066",
+    "display_id": "1165852066",
+    "title": "2026/02/25 GA Subcommittee A [Part 1]",
+    "description": "25 February 2026 | Governance and Administration  Subcommittee A\n\nEmergency Management Bill (No 2)\n\nSave the Children New Zealand\n- Jacqui Southey, Child Rights Advocacy and Research Director\n\nLianne Dalziel\n\nTe Kahui Tika Tangata NZ Human Rights Commission\n- Prudence Walker, Disability Rights Commissioner\n\nEnvironment Southland\n- Rob Phillips, Acting Chief Executive\n- Phil Morrison, Deputy-Chair\n\nHui E! Community Aotearoa\n- Patrick Gemmell, Kaiwhakahaere Matua | Chief Executive, Tangata Whenua\n- Dr. Katie Bruce, Kaiwhakahaere Matua | Chief Executive, Tangata Tiriti\n\nDunedin City Council\n- Mike Costelloe, General Manager, Arts, Culture & Economic Development\n- Danielle Tolson, Corporate Policy Analyst\n\nAndrea Beard\n\nInner City Wellington Residents Association\n- Rev Stephen King, Chair\n\nKaryn Ward",
+    "webpage_url": "https://vimeo.com/1165852066",
+    "original_url": "https://vimeo.com/1165852066",
+    "upload_date": "20260224",
+    "timestamp": 1771967685,
+    "release_timestamp": 1771967693,
+    "duration": 4122,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2126134208-19975379d25e8fa3d1a9521b3bd6798ecc49ef18fb10594fb0183cfc6a202392-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/284533228.vtt?expires=1778562300&sig=e5451ae4b2ba07090cfa1180d5856c4d573c4d1e&download=auto_generated_captions.vtt"
+  }
+}

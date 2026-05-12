@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:25.221931+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1110834968",
+  "title": "2026/03/18 - ENV subcommittee B (Part 1)",
+  "url": "https://vimeo.com/1110834968",
+  "published_at": "20260317",
+  "published_display": "2026-03-17",
+  "duration_seconds": 4334,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4333.68,
+    "segment_count": 1289,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_18 - ENV subcommittee B (Part 1) - vimeo_1110834968\\2026_03_18 - ENV subcommittee B (Part 1) - vimeo_1110834968.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1110834968",
+    "display_id": "1110834968",
+    "title": "2026/03/18 - ENV subcommittee B (Part 1)",
+    "description": "Wednesday, 18 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nWaikato Regional Council\nTe T\u014dpuni K\u014dk\u014drangi\n\nLiana Poutu, Chair\nSean Zieltjes, Planner\n\nNga Hapu o Ngati Porou Management Arrangements\n\nHoriana Irwin-Easthope, Project Manager\n\nTasman District Council\nOne NZ, Fortysouth, Connexa, Spark\n\nGraeme McCarrison\n Colin Clune\nFiona Matthews\n\nGisborne District Council\n\nRehette Stoltz, Mayor\n\nTe Runanga o Ngati Kuia Trust\n\nEugene Whakahoehoe, Tumu Toihau Te R\u016bnanga o Ng\u0101ti Kuia\nRaymond Smith, Te Ihu Kaikow\u0101ho\n\nMarlborough District Council\n\nNadine Taylor, Mayor\nPere Hawes, Head of Environmental Policy\nKim Lawson, Solicitor/Strategic Planner\n\nLighting Council New Zealand\n\nBryan King, Executive Director\n\nDark Skies Group, Royal Astronomical Society of New Zealand\nIndependent Electricity Generators Association Inc\nTe Kahui Maru Trust\nAuckland Airport",
+    "webpage_url": "https://vimeo.com/1110834968",
+    "original_url": "https://vimeo.com/1110834968",
+    "upload_date": "20260317",
+    "timestamp": 1773780451,
+    "release_timestamp": 1773780465,
+    "duration": 4334,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2135695661-c73d1aec44c7080979befd5cba7e461cfed9fc1e2dceffaef463302ceaacace3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288703085.vtt?expires=1778562509&sig=9d5243229c8d6da17395e71557e402ef7951fa72&download=auto_generated_captions.vtt"
+  }
+}

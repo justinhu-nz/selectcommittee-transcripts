@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:20:31.708243+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1164182213",
+  "title": "2026/02/19 - ENV",
+  "url": "https://vimeo.com/1164182213",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 2758,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2750.93,
+    "segment_count": 1051,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_19 - ENV - vimeo_1164182213\\2026_02_19 - ENV - vimeo_1164182213.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1164182213",
+    "display_id": "1164182213",
+    "title": "2026/02/19 - ENV",
+    "description": "Thursday, 19th February 2026 | Environment Committee\n\nMinistry for the Environment and Department of the Prime Minister and Cabinet, Long-term Insights Briefing 2025\n\nHearing of evidence:\n\nDepartment of the Prime Minister and Cabinet\nBen King, Chief Executive\nSean Bolton, Deputy Chief Executive\nPeter Ranger, Senior Advisor\n\nMinistry for the Environment\nJames Palmer, Chief Executive\nDr Alison Collins, Chief Science Advisor\nKatherine Wilson, General Manager \u2013 Adaptation\nDr Alice Cleland, Manager \u2013 Insights\nPaloma Hartevelt, Acting Chief Advisor",
+    "webpage_url": "https://vimeo.com/1164182213",
+    "original_url": "https://vimeo.com/1164182213",
+    "upload_date": "20260218",
+    "timestamp": 1771450592,
+    "release_timestamp": 1771450599,
+    "duration": 2758,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123747599-b149d6125ecbd684eede15233e03329f008574692cd8b871b6823d06314dedf5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283484968.vtt?expires=1778563236&sig=facf1d0eaee4614bbe2885bb2a06b8847af030e0&download=auto_generated_captions.vtt"
+  }
+}

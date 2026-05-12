@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:10:13.171107+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1172369898",
+  "title": "2026/03/25 - EW [Part 1]",
+  "url": "https://vimeo.com/1172369898",
+  "published_at": "20260324",
+  "published_display": "2026-03-24",
+  "duration_seconds": 1138,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1138.38,
+    "segment_count": 364,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_25 - EW [Part 1] - vimeo_1172369898\\2026_03_25 - EW [Part 1] - vimeo_1172369898.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172369898",
+    "display_id": "1172369898",
+    "title": "2026/03/25 - EW [Part 1]",
+    "description": "Wednesday 25 March 2026 | Education and Workforce Committee\n\nHealth and Safety at Work Amendment Bill\n\nHon Brooke van Velden, Minister for Workplace Relations and Safety",
+    "webpage_url": "https://vimeo.com/1172369898",
+    "original_url": "https://vimeo.com/1172369898",
+    "upload_date": "20260324",
+    "timestamp": 1774382067,
+    "release_timestamp": 1774382078,
+    "duration": 1138,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137942560-f18cf1047c056c2c4af1371b207188a29e4b207b890a9b485dfba6b96d987b92-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290169144.vtt?expires=1778562617&sig=0d3015cc2037157206df2b4bd887352018c84df2&download=auto_generated_captions.vtt"
+  }
+}

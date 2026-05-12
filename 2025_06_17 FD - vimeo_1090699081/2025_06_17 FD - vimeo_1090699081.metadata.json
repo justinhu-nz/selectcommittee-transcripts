@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:19:25.058847+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1090699081",
+  "title": "2025/06/17 FD",
+  "url": "https://vimeo.com/1090699081",
+  "published_at": "20250617",
+  "published_display": "2025-06-17",
+  "duration_seconds": 5523,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5522.44,
+    "segment_count": 1930,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_17 FD - vimeo_1090699081\\2025_06_17 FD - vimeo_1090699081.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1090699081",
+    "display_id": "1090699081",
+    "title": "2025/06/17 FD",
+    "description": "Tuesday 17 June 2025 | Foreign Affairs, Defence and Trade Committee\n\n2025/26 Estimates for Vote Foreign Affairs\nRt Hon Winston Peters, Minister of Foreign Affairs\nMinistry of Foreign Affairs",
+    "webpage_url": "https://vimeo.com/1090699081",
+    "original_url": "https://vimeo.com/1090699081",
+    "upload_date": "20250617",
+    "timestamp": 1750133163,
+    "release_timestamp": 1750133171,
+    "duration": 5523,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2029254893-1fbdfb3ff71e084ac0b06eeccfa5eea71aafc9b0c4a3201f57b3c0bfe2408f76-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237325514.vtt?expires=1778563169&sig=a00cdda1c2ed0bf026445af33fbfd95710e5776c&download=auto_generated_captions.vtt"
+  }
+}

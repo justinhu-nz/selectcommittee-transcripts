@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:02:24.190338+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145079155",
+  "title": "2025 12 17 - HE",
+  "url": "https://vimeo.com/1145079155",
+  "published_at": "20251216",
+  "published_display": "2025-12-16",
+  "duration_seconds": 2092,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2091.53,
+    "segment_count": 717,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 17 - HE - vimeo_1145079155\\2025 12 17 - HE - vimeo_1145079155.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145079155",
+    "display_id": "1145079155",
+    "title": "2025 12 17 - HE",
+    "description": "17 December 2025 | Health Committee\n\nBriefing from Michael Papesch\nHealth New Zealand\n\tDame Helen Stokes-Lampard, National Chief Medical Officer\n\tRachel Haggerty, Director, Funding \u2013 Hospitals\nMinistry of Health\n\tAllison Bennett, Group Manager, Health System Settings\n\tPeter Jane, Principal Advisor, Crown Entity Monitoring\n\tSaerom Shin, Senior Policy Analyst\nNew Zealand Blood Service\n\tSam Cliffe, Chief Executive [Zoom]\n\tSarah Morley, CMO\n\tJoanne Ritchie, Clinical Director, Organ Donation NZ",
+    "webpage_url": "https://vimeo.com/1145079155",
+    "original_url": "https://vimeo.com/1145079155",
+    "upload_date": "20251216",
+    "timestamp": 1765914115,
+    "release_timestamp": 1765914121,
+    "duration": 2092,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096886825-0b1b9989f1db0fb6167491d6ce17c3cfaf4c62cc3743bd31b840c4078a2616b3-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272978405.vtt?expires=1778562148&sig=12402b82a068e2db7ef729161bf217d1a4720c29&download=auto_generated_captions.vtt"
+  }
+}

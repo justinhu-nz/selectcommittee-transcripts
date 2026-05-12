@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:20:46.622682+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163112338",
+  "title": "2026/02/09 - ENV",
+  "url": "https://vimeo.com/1163112338",
+  "published_at": "20260209",
+  "published_display": "2026-02-09",
+  "duration_seconds": 2703,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2702.99,
+    "segment_count": 987,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_09 - ENV - vimeo_1163112338\\2026_02_09 - ENV - vimeo_1163112338.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163112338",
+    "display_id": "1163112338",
+    "title": "2026/02/09 - ENV",
+    "description": "Monday, 9th February 2026 | Environment Committee\n\nPlanning Bill; Natural Environment Bill\n\nHearing of evidence:\n\nHon Chris Bishop, Minister Responsible for RMA Reform",
+    "webpage_url": "https://vimeo.com/1163112338",
+    "original_url": "https://vimeo.com/1163112338",
+    "upload_date": "20260209",
+    "timestamp": 1770606603,
+    "release_timestamp": 1770606612,
+    "duration": 2703,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2119196436-8757f817a3536ca7f4d11611968f1c3ebfc63dd07164a7585584ef00bfb39cf7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/281660121.vtt?expires=1778563251&sig=a2036fde7a7557de9e899658a9ecb086c5ea5533&download=auto_generated_captions.vtt"
+  }
+}

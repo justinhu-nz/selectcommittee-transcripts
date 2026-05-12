@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:49.828868+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142785051",
+  "title": "2025/12/10 - GA [Part 1]",
+  "url": "https://vimeo.com/1142785051",
+  "published_at": "20251209",
+  "published_display": "2025-12-09",
+  "duration_seconds": 3237,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3237.37,
+    "segment_count": 984,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_10 - GA [Part 1] - vimeo_1142785051\\2025_12_10 - GA [Part 1] - vimeo_1142785051.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142785051",
+    "display_id": "1142785051",
+    "title": "2025/12/10 - GA [Part 1]",
+    "description": "Wednesday 10 December 2025 | Governance and Administration Committee\n\nRegulatory Systems (Internal Affairs) Amendment Bill\n\nInsurance Council of New Zealand\n- John Lucas, Insurance Manager\n- Michael Dunning, Manager Insurance Transformation, Suncorp New Zealand\n\nArchives and Records Association of New Zealand (ARANZ)\n- Richard Foy, President\n\nIAG New Zealand\n- Andrew Saunders, Government Relations Manager\n\nChief Ombudsman\n- John Allen, Chief Ombudsman\n- Gareth Derby, Principal Advisor Strategic Advice\n\nDalley Sundar\n- Stewart Dalley, Partner",
+    "webpage_url": "https://vimeo.com/1142785051",
+    "original_url": "https://vimeo.com/1142785051",
+    "upload_date": "20251209",
+    "timestamp": 1765310195,
+    "release_timestamp": 1765310203,
+    "duration": 3237,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2093871751-dbdf9bb33023e477602311a1370a16e01d75d88d83e96543492469ce4f999109-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271001573.vtt?expires=1778562354&sig=afa104de871fdc8dfac58d5cc72999fce9b7152a&download=auto_generated_captions.vtt"
+  }
+}

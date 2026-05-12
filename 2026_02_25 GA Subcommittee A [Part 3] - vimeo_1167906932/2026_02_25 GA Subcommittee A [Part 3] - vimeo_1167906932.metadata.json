@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:04:42.478204+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1167906932",
+  "title": "2026/02/25 GA Subcommittee A [Part 3]",
+  "url": "https://vimeo.com/1167906932",
+  "published_at": "20260225",
+  "published_display": "2026-02-25",
+  "duration_seconds": 10242,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10240.3,
+    "segment_count": 3272,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_25 GA Subcommittee A [Part 3] - vimeo_1167906932\\2026_02_25 GA Subcommittee A [Part 3] - vimeo_1167906932.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1167906932",
+    "display_id": "1167906932",
+    "title": "2026/02/25 GA Subcommittee A [Part 3]",
+    "description": "Wednesday 25 February 2026 | Governance and Administration Subcommittee A\n\nEmergency Management Bill (No 2)\n\n\ufeffChristchurch City Council\n- Brenden Winder, CDEM Manager\n\nOffice of the Clerk of the House of Representatives\n- Dr David Wilson, Clerk of the House of Representatives\n\nRadio New Zealand Limited (RNZ)\n- Paul Thompson, Chief Executive\n- Kate Gudsell, Emergency Planning Manager\n\nOtago Waste Network\n- Anna Robinson, Regional Waste Officer\n\nHamilton City Council\n- Hon Tim Macindoe, Mayor of Hamilton\n- Councillor Emma Pike,\u00a0Chair of the Community Committee\n- Kelvin Powel, Safety and Resilience Unit Director\n\nOraTaiao Aotearoa NZ Climate and Health Council\n- Summer Wright\n\nVolunteering NZ Incorporated\n- Michelle Kitney, Chief Executive\n- Glenda Martin, Board member, and GM of Volunteering Canterbury\n\nWater New Zealand\n- Gillian Blythe, Chief Executive\n\nDenis Tegg\n\nStudent Volunteer Army\n- Sam Johnson, Founder and Chair\n- Kim Aiomanu-Bagley, Trustee\n- Cam Dickson, President University of Victoria SVA Club\n\nPou Take Ahuarangi - National Iwi Chairs Forum\n- Hon Kiri Allan, Director, KLA Ltd\n\nTranspower NZ Ltd\n- Jo Mooar, Senior Corporate Counsel\n- Julian Morton, Strategy, Performance and Risk Manager\n\nNew Zealand Telecommunications Forum (TCF)\n- Paul Brislen, Chief Executive\n- Kim Connolly-Stone, Policy Director\n\nEnviro NZ Services Ltd\n- Kaaren Rosser, Environmental Planner\n- Laurence Dolan, Environmental Manager\n\nMarlborough District Council\n- Matt Kerr, Emergency Services Manager",
+    "webpage_url": "https://vimeo.com/1167906932",
+    "original_url": "https://vimeo.com/1167906932",
+    "upload_date": "20260225",
+    "timestamp": 1771990571,
+    "release_timestamp": 1771990584,
+    "duration": 10242,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2128104846-0d728c714e7f3576b0c4c5c7f13be6a7d165585322ecaa08795a54df707ab6c5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/284593079.vtt?expires=1778562285&sig=a17db103219562d8f7e9f7622dfa14c3c30b3660&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,1153 @@
+{
+  "language": "en-x-autogen",
+  "duration": 735.57,
+  "segments": [
+    {
+      "start": 3.32,
+      "end": 5.78,
+      "text": "Good morning, Karen. Very good to have you here."
+    },
+    {
+      "start": 6.2,
+      "end": 7.68,
+      "text": "Welcome to the Health Committee."
+    },
+    {
+      "start": 8.86,
+      "end": 10.66,
+      "text": "We have you here discussing"
+    },
+    {
+      "start": 12.74,
+      "end": 16.7,
+      "text": "a part of a briefing from the Prostate Cancer Foundation, and we've received"
+    },
+    {
+      "start": 16.72,
+      "end": 20.28,
+      "text": "the response back from Health New Zealand on that."
+    },
+    {
+      "start": 20.32,
+      "end": 22.58,
+      "text": "We have you in here for 10 minutes to talk to that."
+    },
+    {
+      "start": 22.74,
+      "end": 25.56,
+      "text": "If you're able to, leave us some time to answer questions, that would be"
+    },
+    {
+      "start": 25.62,
+      "end": 27.12,
+      "text": "appreciated by members of the committee."
+    },
+    {
+      "start": 28.48,
+      "end": 32.38,
+      "text": "We will pass it over to you to make some opening remarks. Thank you."
+    },
+    {
+      "start": 33.22,
+      "end": 36.75,
+      "text": "Thanks very much for your time. I'm Karen Bartholomew, public health physician and"
+    },
+    {
+      "start": 36.8,
+      "end": 40.1,
+      "text": "chair of the National Screening Advisory Committee, here with my colleague, Jane"
+    },
+    {
+      "start": 40.12,
+      "end": 43.42,
+      "text": "O'Halloran, who's deputy chair. Thanks for the opportunity to have a"
+    },
+    {
+      "start": 43.46,
+      "end": 47.36,
+      "text": "conversation today. And just before we start, I did really want to"
+    },
+    {
+      "start": 47.4,
+      "end": 51.23,
+      "text": "acknowledge that prostate cancer touches a large number of men and"
+    },
+    {
+      "start": 51.26,
+      "end": 53.98,
+      "text": "their wider families, including my own."
+    },
+    {
+      "start": 54.44,
+      "end": 58.16,
+      "text": "And really want to acknowledge the impact of that as we talk about prostate"
+    },
+    {
+      "start": 58.2,
+      "end": 61.28,
+      "text": "cancer screening in quite a technical way."
+    },
+    {
+      "start": 62.02,
+      "end": 65.44,
+      "text": "You asked about the current state of prostate cancer screening in New Zealand."
+    },
+    {
+      "start": 65.76,
+      "end": 68.28,
+      "text": "So PSA testing is widely available."
+    },
+    {
+      "start": 68.44,
+      "end": 72.38,
+      "text": "The test itself is free, and it's part of a conversation in primary care"
+    },
+    {
+      "start": 73.22,
+      "end": 77.17,
+      "text": "about testing in that particular man's circumstances, and the benefits and harms of"
+    },
+    {
+      "start": 77.22,
+      "end": 78.02,
+      "text": "that."
+    },
+    {
+      "start": 78.84,
+      "end": 82.68,
+      "text": "And we actually have really high levels of testing, of PSA testing, in New"
+    },
+    {
+      "start": 82.74,
+      "end": 86.22,
+      "text": "Zealand, much higher than our comparator countries, probably about double"
+    },
+    {
+      "start": 86.64,
+      "end": 88.44,
+      "text": "Australia, our colleagues in Australia."
+    },
+    {
+      "start": 88.5,
+      "end": 92.13,
+      "text": "So we have very high testing rates, but there is variation in"
+    },
+    {
+      "start": 92.2,
+      "end": 96.11,
+      "text": "testing. For example, Maori, Pacific, and Indian men have lower rates of testing,"
+    },
+    {
+      "start": 96.52,
+      "end": 98.78,
+      "text": "and there's lower rates of testing in some parts of New Zealand."
+    },
+    {
+      "start": 100.16,
+      "end": 103.94,
+      "text": "We have, I think, in New Zealand, an opportunity to really reduce"
+    },
+    {
+      "start": 103.98,
+      "end": 107.44,
+      "text": "the harms from PSA testing. I think those harms are widely"
+    },
+    {
+      "start": 107.46,
+      "end": 110.44,
+      "text": "recognized and understood, and we've had a number of conversations with the"
+    },
+    {
+      "start": 110.46,
+      "end": 113.08,
+      "text": "Prostate Foundation and with others about that."
+    },
+    {
+      "start": 114.36,
+      "end": 118.32,
+      "text": "And to really rapidly learn, I think, from the broader international,"
+    },
+    {
+      "start": 118.34,
+      "end": 121.9,
+      "text": "particularly European and our Australian colleagues' approaches to"
+    },
+    {
+      "start": 121.96,
+      "end": 125.85,
+      "text": "optimizing the benefits and harms so that we can consider what that"
+    },
+    {
+      "start": 125.86,
+      "end": 129.38,
+      "text": "balance looks like and whether that tips in favor of a"
+    },
+    {
+      "start": 129.54,
+      "end": 133.3,
+      "text": "prostate cancer organized screening program as opposed to what we have now, which"
+    },
+    {
+      "start": 133.34,
+      "end": 137.24,
+      "text": "is opportunistic testing. So I think there's a large number"
+    },
+    {
+      "start": 137.28,
+      "end": 140.64,
+      "text": "of trials and pilots happening internationally, and"
+    },
+    {
+      "start": 141.24,
+      "end": 143.76,
+      "text": "we have regularly reviewed, as NSAC, the evidence."
+    },
+    {
+      "start": 144.58,
+      "end": 148.3,
+      "text": "We reviewed it in 2018 and '19, 2023, and again in"
+    },
+    {
+      "start": 148.32,
+      "end": 152.02,
+      "text": "'24, and we will be doing so this year because that evidence rapidly"
+    },
+    {
+      "start": 152.06,
+      "end": 155.78,
+      "text": "evolves. And we have had conversations with the Praise U"
+    },
+    {
+      "start": 155.88,
+      "end": 158.56,
+      "text": "pilot. I think you asked a question about that, with the Praise U pilot,"
+    },
+    {
+      "start": 159.62,
+      "end": 163.6,
+      "text": "and we'll continue to do so. The Praise U pilot actually"
+    },
+    {
+      "start": 163.94,
+      "end": 167.92,
+      "text": "completes this year in April, and they just had a big policy summit in"
+    },
+    {
+      "start": 167.98,
+      "end": 171.5,
+      "text": "March, just the 4th of March, so a couple of weeks ago, where they"
+    },
+    {
+      "start": 171.6,
+      "end": 173.59,
+      "text": "presented back some of their early findings."
+    },
+    {
+      "start": 173.6,
+      "end": 177.22,
+      "text": "And they are really starting to drill down on what a"
+    },
+    {
+      "start": 177.24,
+      "end": 178.03,
+      "text": "harmonized"
+    },
+    {
+      "start": 178.9,
+      "end": 182.66,
+      "text": "approach to reducing the harms and improving the benefits of prostate cancer"
+    },
+    {
+      "start": 182.72,
+      "end": 185.6,
+      "text": "screening is, and they're now moving on to look at cost-effectiveness."
+    },
+    {
+      "start": 186.07,
+      "end": 189.96,
+      "text": "And we've also got the opportunity to learn from a big review in the UK,"
+    },
+    {
+      "start": 190.32,
+      "end": 194.06,
+      "text": "which is similarly looking at those things as they embark on a very, very large"
+    },
+    {
+      "start": 194.16,
+      "end": 197.66,
+      "text": "trial called Transform, where they're looking at quite specific"
+    },
+    {
+      "start": 197.92,
+      "end": 201.52,
+      "text": "risk-based screening approaches and the introduction of new, better"
+    },
+    {
+      "start": 201.64,
+      "end": 205.12,
+      "text": "imaging modalities, such as biparametric or fast MRI"
+    },
+    {
+      "start": 205.26,
+      "end": 209.05,
+      "text": "scans. So it's really a time of change and evolution in this"
+    },
+    {
+      "start": 209.14,
+      "end": 212.86,
+      "text": "space and an opportunity for us to really understand what that might mean in our"
+    },
+    {
+      "start": 212.88,
+      "end": 214.72,
+      "text": "context."
+    },
+    {
+      "start": 214.78,
+      "end": 217.12,
+      "text": "Excellent, Karen. Thank you very much. Dr. Verhaagh."
+    },
+    {
+      "start": 218.9,
+      "end": 222.8,
+      "text": "Thanks, Dr. Bartholomew. The paragraph in the letter you"
+    },
+    {
+      "start": 222.86,
+      "end": 225.64,
+      "text": "sent to the committee says that the"
+    },
+    {
+      "start": 226.76,
+      "end": 229.56,
+      "text": "National Screening Advisory Committee reviewed prostate"
+    },
+    {
+      "start": 229.64,
+      "end": 232.78,
+      "text": "cancer screening against eight criteria."
+    },
+    {
+      "start": 233.26,
+      "end": 236.06,
+      "text": "Could you explain the criteria that"
+    },
+    {
+      "start": 236.98,
+      "end": 239.52,
+      "text": "weren't met for prostate cancer screening,"
+    },
+    {
+      "start": 241.76,
+      "end": 243.96,
+      "text": "so that we can understand why it is that"
+    },
+    {
+      "start": 244.96,
+      "end": 245.1,
+      "text": "it's"
+    },
+    {
+      "start": 246.62,
+      "end": 248.56,
+      "text": "considered potentially harmful?"
+    },
+    {
+      "start": 249.9,
+      "end": 253.68,
+      "text": "Certainly. So the eight criteria are the standard New Zealand screening"
+    },
+    {
+      "start": 253.76,
+      "end": 257.47,
+      "text": "criteria. So we assess much more broadly than whether there's benefits or"
+    },
+    {
+      "start": 257.62,
+      "end": 260.35,
+      "text": "harms. There's a whole range of other criteria to consider."
+    },
+    {
+      "start": 261.14,
+      "end": 264.76,
+      "text": "In particular, that assessment was of general population"
+    },
+    {
+      "start": 264.78,
+      "end": 268.5,
+      "text": "prostate cancer screening, and I think there's wide international agreement"
+    },
+    {
+      "start": 268.54,
+      "end": 269.88,
+      "text": "that general population,"
+    },
+    {
+      "start": 271.06,
+      "end": 274.82,
+      "text": "classic PSA testing and biopsy approaches are"
+    },
+    {
+      "start": 275.34,
+      "end": 279.0,
+      "text": "very unlikely ever to meet those screening criteria because of the balance of"
+    },
+    {
+      "start": 279.06,
+      "end": 282.42,
+      "text": "benefits and harms. So any future assessments would be done against"
+    },
+    {
+      "start": 283.1,
+      "end": 284.5,
+      "text": "a risk-based screening approach."
+    },
+    {
+      "start": 285.14,
+      "end": 288.5,
+      "text": "So Jane, did you want to talk about those two criteria"
+    },
+    {
+      "start": 289.2,
+      "end": 289.9,
+      "text": "that were met?"
+    },
+    {
+      "start": 292.04,
+      "end": 294.12,
+      "text": "Sorry, I just missed that, Karen. Which two are you talking about?"
+    },
+    {
+      "start": 294.38,
+      "end": 297.48,
+      "text": "The two criteria that were met in the last assessment we did of prostate"
+    },
+    {
+      "start": 297.54,
+      "end": 299.02,
+      "text": "screening."
+    },
+    {
+      "start": 299.46,
+      "end": 301.42,
+      "text": "Well, I was just concentrating on the..."
+    },
+    {
+      "start": 303.04,
+      "end": 306.7,
+      "text": "I mean, we do have a test, but it is not very sensitive nor specific."
+    },
+    {
+      "start": 307.08,
+      "end": 309.28,
+      "text": "I mean, the key issue is around the harms"
+    },
+    {
+      "start": 310.7,
+      "end": 313.32,
+      "text": "with over-diagnosis and over-treatment,"
+    },
+    {
+      "start": 314.82,
+      "end": 318.73,
+      "text": "and what"
+    },
+    {
+      "start": 318.86,
+      "end": 320.4,
+      "text": "other ones were you thinking about, Karen?"
+    },
+    {
+      "start": 321.24,
+      "end": 324.69,
+      "text": "So the range of other criteria we consider are the cost-effectiveness or cost"
+    },
+    {
+      "start": 324.78,
+      "end": 325.14,
+      "text": "benefit-"
+    },
+    {
+      "start": 325.44,
+      "end": 325.45,
+      "text": "Yeah"
+    },
+    {
+      "start": 325.45,
+      "end": 329.14,
+      "text": "... and that's clearly not met, and that's been confirmed again in the large UK"
+    },
+    {
+      "start": 329.24,
+      "end": 332.74,
+      "text": "cost-effectiveness analysis just released in December 2025."
+    },
+    {
+      "start": 332.78,
+      "end": 336.52,
+      "text": "And they actually looked at quite a large number of those stratified approaches,"
+    },
+    {
+      "start": 336.9,
+      "end": 338.34,
+      "text": "and they're not yet cost-effective."
+    },
+    {
+      "start": 338.42,
+      "end": 340.4,
+      "text": "But I think the opportunity with Praise U"
+    },
+    {
+      "start": 341.46,
+      "end": 344.6,
+      "text": "is that if there's refinement of those benefits and harms, it may become"
+    },
+    {
+      "start": 344.68,
+      "end": 346.4,
+      "text": "cost-effective for some of those strategies."
+    },
+    {
+      "start": 346.66,
+      "end": 350.5,
+      "text": "So cost-effectiveness was definitely one that wasn't met, as was health"
+    },
+    {
+      "start": 350.56,
+      "end": 352.6,
+      "text": "capacity, health system capacity,"
+    },
+    {
+      "start": 353.66,
+      "end": 357.56,
+      "text": "and particularly, there's a number of other criteria about social"
+    },
+    {
+      "start": 357.66,
+      "end": 360.08,
+      "text": "and ethical issues in terms of informed consent."
+    },
+    {
+      "start": 360.76,
+      "end": 360.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 361.04,
+      "end": 364.74,
+      "text": "But we can provide a list of what that assessment is to the committee, if that's"
+    },
+    {
+      "start": 364.82,
+      "end": 365.12,
+      "text": "useful."
+    },
+    {
+      "start": 367.24,
+      "end": 367.46,
+      "text": "So-"
+    },
+    {
+      "start": 367.72,
+      "end": 367.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 369.26,
+      "end": 372.38,
+      "text": "Next one. So just for clarification, so when"
+    },
+    {
+      "start": 373.04,
+      "end": 376.34,
+      "text": "the potential prostate screening"
+    },
+    {
+      "start": 376.86,
+      "end": 380.84,
+      "text": "program was evaluated, that was just based on a PSA"
+    },
+    {
+      "start": 380.88,
+      "end": 384.32,
+      "text": "test and no stratification, just on the PSA test?"
+    },
+    {
+      "start": 385.26,
+      "end": 387.96,
+      "text": "And is that my understanding?"
+    },
+    {
+      "start": 388.04,
+      "end": 391.68,
+      "text": "Yes. The last evaluation that we did, that was what it was based on as"
+    },
+    {
+      "start": 391.96,
+      "end": 395.67,
+      "text": "most international programs similar to ours, international committees that"
+    },
+    {
+      "start": 395.68,
+      "end": 398.56,
+      "text": "provide advice on screening, similarly based on that."
+    },
+    {
+      "start": 398.69,
+      "end": 402.36,
+      "text": "And I think from now on, as the opportunity, as the evidence comes out,"
+    },
+    {
+      "start": 402.72,
+      "end": 406.64,
+      "text": "to actually consider quite specific detail of risk-stratified approaches."
+    },
+    {
+      "start": 406.98,
+      "end": 410.66,
+      "text": "Risk-stratified approaches are much more complex with a large number of potential"
+    },
+    {
+      "start": 410.7,
+      "end": 414.26,
+      "text": "combinations that quite markedly affect the benefit and"
+    },
+    {
+      "start": 414.68,
+      "end": 416.08,
+      "text": "cost, and risk profile."
+    },
+    {
+      "start": 417.08,
+      "end": 417.82,
+      "text": "And very much."
+    },
+    {
+      "start": 418.92,
+      "end": 422.5,
+      "text": "And just following up there, but appreciate one of the concerns is"
+    },
+    {
+      "start": 422.6,
+      "end": 425.64,
+      "text": "over-treatment, and the adverse effects of that."
+    },
+    {
+      "start": 426.04,
+      "end": 429.66,
+      "text": "In the letter that you have provided, you go through numbers."
+    },
+    {
+      "start": 430.02,
+      "end": 431.46,
+      "text": "Can you tell the committee how that"
+    },
+    {
+      "start": 432.72,
+      "end": 435.76,
+      "text": "kind of compares to, say, the breast cancer screening program?"
+    },
+    {
+      "start": 435.78,
+      "end": 437.62,
+      "text": "Mm-hmm. Yeah."
+    },
+    {
+      "start": 438.56,
+      "end": 442.24,
+      "text": "The risk of over-diagnosis and over-treatment is substantially higher for prostate"
+    },
+    {
+      "start": 442.26,
+      "end": 444.58,
+      "text": "than any of the other comparable programs."
+    },
+    {
+      "start": 445.52,
+      "end": 449.42,
+      "text": "So the estimates of over-diagnosis range from about"
+    },
+    {
+      "start": 449.7,
+      "end": 451.38,
+      "text": "40% to 70%."
+    },
+    {
+      "start": 452.24,
+      "end": 453.2,
+      "text": "So that means that"
+    },
+    {
+      "start": 454.56,
+      "end": 457.96,
+      "text": "for every life saved, two to three prostate cancers are"
+    },
+    {
+      "start": 458.02,
+      "end": 458.91,
+      "text": "over-diagnosed."
+    },
+    {
+      "start": 459.94,
+      "end": 462.98,
+      "text": "So that's quite a significant level of over-diagnosis."
+    },
+    {
+      "start": 463.06,
+      "end": 466.08,
+      "text": "For example, the comparison in breast is the level in breast is"
+    },
+    {
+      "start": 466.68,
+      "end": 469.4,
+      "text": "approximately 20% over-diagnosis."
+    },
+    {
+      "start": 469.84,
+      "end": 470.52,
+      "text": "And the"
+    },
+    {
+      "start": 471.62,
+      "end": 475.12,
+      "text": "harms related to over-diagnosis in prostate are quite a different profile as well"
+    },
+    {
+      "start": 475.46,
+      "end": 478.26,
+      "text": "because of the harms with biopsies, which"
+    },
+    {
+      "start": 479.72,
+      "end": 483.62,
+      "text": "have particular set of harms, and then the surgery, radiotherapy,"
+    },
+    {
+      "start": 483.66,
+      "end": 485.16,
+      "text": "et cetera, have additional harms."
+    },
+    {
+      "start": 485.5,
+      "end": 485.78,
+      "text": "So it's"
+    },
+    {
+      "start": 487.04,
+      "end": 490.26,
+      "text": "really the consequential harms, not just the quantum of"
+    },
+    {
+      "start": 490.32,
+      "end": 493.02,
+      "text": "over-diagnosis that's particularly problematic."
+    },
+    {
+      "start": 493.72,
+      "end": 497.32,
+      "text": "Sorry. Did you say 40, four, zero percent to"
+    },
+    {
+      "start": 497.6,
+      "end": 498.54,
+      "text": "70%, seven, zero?"
+    },
+    {
+      "start": 498.56,
+      "end": 502.32,
+      "text": "Correct, over-diagnosed. So most cancers that are diagnosed with PSA"
+    },
+    {
+      "start": 502.38,
+      "end": 506.34,
+      "text": "testing are over-diagnosed, which is why in the"
+    },
+    {
+      "start": 506.48,
+      "end": 508.82,
+      "text": "treatment pathway, active surveillance, which is"
+    },
+    {
+      "start": 510.1,
+      "end": 513.58,
+      "text": "where those cancers are not treated, but they are surveilled over time."
+    },
+    {
+      "start": 514.2,
+      "end": 518.08,
+      "text": "Approximately 88% of prostate cancers in Australia and New"
+    },
+    {
+      "start": 518.16,
+      "end": 520.22,
+      "text": "Zealand are under active surveillance."
+    },
+    {
+      "start": 522.5,
+      "end": 523.22,
+      "text": "Sorry, can I just have a-"
+    },
+    {
+      "start": 523.64,
+      "end": 525.17,
+      "text": "I'll come to Dr. Fletcher."
+    },
+    {
+      "start": 525.72,
+      "end": 529.66,
+      "text": "So with stratification and additional imaging, you"
+    },
+    {
+      "start": 529.72,
+      "end": 531.66,
+      "text": "expect that number to decrease?"
+    },
+    {
+      "start": 532.34,
+      "end": 536.22,
+      "text": "Absolutely. MRI by itself reduces the"
+    },
+    {
+      "start": 536.28,
+      "end": 538.72,
+      "text": "harms, particularly related to biopsy."
+    },
+    {
+      "start": 538.8,
+      "end": 541.96,
+      "text": "So it reduces the number of biopsies needed and their consequent harms."
+    },
+    {
+      "start": 543.0,
+      "end": 546.88,
+      "text": "And there are a number of risks calculators that are used"
+    },
+    {
+      "start": 546.94,
+      "end": 550.46,
+      "text": "in addition to MRI, and that also changes the"
+    },
+    {
+      "start": 550.5,
+      "end": 554.26,
+      "text": "profile. And there's quite a few options for risk"
+    },
+    {
+      "start": 554.32,
+      "end": 557.26,
+      "text": "calculators, and there's quite a few options for when those calculators are"
+    },
+    {
+      "start": 557.3,
+      "end": 561.02,
+      "text": "conducted prior to biopsy or after biopsy."
+    },
+    {
+      "start": 561.62,
+      "end": 562.88,
+      "text": "Thank you for your patience, Sasha."
+    },
+    {
+      "start": 563.48,
+      "end": 567.42,
+      "text": "There's also advocacy that the bowel cancer"
+    },
+    {
+      "start": 567.5,
+      "end": 571.14,
+      "text": "screening age gets reduced and that new screening for former"
+    },
+    {
+      "start": 571.24,
+      "end": 573.98,
+      "text": "smokers for lung cancer gets introduced."
+    },
+    {
+      "start": 574.5,
+      "end": 575.68,
+      "text": "Can you give an"
+    },
+    {
+      "start": 576.98,
+      "end": 580.94,
+      "text": "indication of the comparable cost efficacy"
+    },
+    {
+      "start": 581.0,
+      "end": 584.92,
+      "text": "of those interventions relative to prostate screening, please?"
+    },
+    {
+      "start": 585.66,
+      "end": 586.1,
+      "text": "Thank you."
+    },
+    {
+      "start": 587.74,
+      "end": 591.5,
+      "text": "Certainly, lung cancer screening, NSAC has assessed the evidence on lung"
+    },
+    {
+      "start": 591.54,
+      "end": 594.57,
+      "text": "cancer screening, and there is a very, very clear"
+    },
+    {
+      "start": 594.88,
+      "end": 598.84,
+      "text": "benefit to lung cancer screening, estimated to be a life saved"
+    },
+    {
+      "start": 598.86,
+      "end": 601.96,
+      "text": "a day from that program. And there's also clear"
+    },
+    {
+      "start": 602.06,
+      "end": 605.6,
+      "text": "cost-effectiveness for a lung cancer screening approach, which is a targeted"
+    },
+    {
+      "start": 606.2,
+      "end": 606.92,
+      "text": "screening program."
+    },
+    {
+      "start": 607.88,
+      "end": 611.16,
+      "text": "There's probably no other comparable screening program that has that level of"
+    },
+    {
+      "start": 611.2,
+      "end": 611.64,
+      "text": "benefit,"
+    },
+    {
+      "start": 612.72,
+      "end": 615.66,
+      "text": "and perhaps no other health intervention that has that level of benefit."
+    },
+    {
+      "start": 615.98,
+      "end": 619.58,
+      "text": "So certainly from a potential new screening program"
+    },
+    {
+      "start": 619.68,
+      "end": 623.66,
+      "text": "introduction, lung cancer screening has a significant health benefit."
+    },
+    {
+      "start": 624.7,
+      "end": 625.02,
+      "text": "And"
+    },
+    {
+      "start": 625.82,
+      "end": 629.1,
+      "text": "NSAC has certainly recommended and supported lung cancer screening."
+    },
+    {
+      "start": 629.34,
+      "end": 632.88,
+      "text": "In terms of bowel cancer screening, that similarly has a really"
+    },
+    {
+      "start": 632.92,
+      "end": 634.48,
+      "text": "significant benefit profile,"
+    },
+    {
+      "start": 635.4,
+      "end": 639.16,
+      "text": "and a large number of lives saved with extending age ranges."
+    },
+    {
+      "start": 639.2,
+      "end": 643.06,
+      "text": "And we have modeling on that that supported age range extension decisions."
+    },
+    {
+      "start": 643.14,
+      "end": 645.58,
+      "text": "NSAC has considered that quite specifically."
+    },
+    {
+      "start": 646.8,
+      "end": 649.18,
+      "text": "You've been quite definitive in that answer."
+    },
+    {
+      "start": 649.26,
+      "end": 652.84,
+      "text": "So are you saying those are cost-saving"
+    },
+    {
+      "start": 652.96,
+      "end": 656.92,
+      "text": "across the health system and prostate screening is not, or are"
+    },
+    {
+      "start": 656.96,
+      "end": 658.27,
+      "text": "you saying they are"
+    },
+    {
+      "start": 659.66,
+      "end": 662.44,
+      "text": "more cost-effective, but none of them are cost-saving?"
+    },
+    {
+      "start": 663.54,
+      "end": 667.34,
+      "text": "I don't think any screening program, as far as I know, is cost-saving, but"
+    },
+    {
+      "start": 667.4,
+      "end": 670.4,
+      "text": "lung is probably the closest to that."
+    },
+    {
+      "start": 670.9,
+      "end": 674.84,
+      "text": "It is highly cost-effective. And prostate cancer screening, as far as we"
+    },
+    {
+      "start": 674.88,
+      "end": 678.06,
+      "text": "know, is not cost-effective. The UK evidence, even with"
+    },
+    {
+      "start": 678.2,
+      "end": 681.7,
+      "text": "MRI to reduce harms and even with risk"
+    },
+    {
+      "start": 681.78,
+      "end": 685.44,
+      "text": "stratified triage approaches, so PSA-based or age-based,"
+    },
+    {
+      "start": 686.62,
+      "end": 690.44,
+      "text": "is not cost-effective. In the UK, they've only said bracket testing"
+    },
+    {
+      "start": 690.48,
+      "end": 691.9,
+      "text": "is likely to be cost-effective."
+    },
+    {
+      "start": 692.82,
+      "end": 696.38,
+      "text": "Thank you, Dr. Bartholomew. And thank you, Jane, as well."
+    },
+    {
+      "start": 696.82,
+      "end": 698.34,
+      "text": "Very good to have you here today."
+    },
+    {
+      "start": 699.16,
+      "end": 703.02,
+      "text": "We've reached our time, but appreciate the responses that you've given us in"
+    },
+    {
+      "start": 703.04,
+      "end": 704.74,
+      "text": "this paper and to the committee today."
+    },
+    {
+      "start": 704.92,
+      "end": 706.62,
+      "text": "Oh, Mr. Chair, just one other point."
+    },
+    {
+      "start": 706.73,
+      "end": 706.95,
+      "text": "Dr. Allen."
+    },
+    {
+      "start": 707.0,
+      "end": 708.9,
+      "text": "The officials mentioned"
+    },
+    {
+      "start": 709.88,
+      "end": 712.84,
+      "text": "the assessment against the eight criteria, if that could be shared with the-"
+    },
+    {
+      "start": 713.36,
+      "end": 713.73,
+      "text": "Yes, they did"
+    },
+    {
+      "start": 713.74,
+      "end": 714.57,
+      "text": "... the committee, please."
+    },
+    {
+      "start": 714.84,
+      "end": 715.02,
+      "text": "Thanks."
+    },
+    {
+      "start": 715.04,
+      "end": 716.33,
+      "text": "Certainly. Thank you."
+    },
+    {
+      "start": 716.36,
+      "end": 716.52,
+      "text": "Thanks."
+    },
+    {
+      "start": 718.06,
+      "end": 718.66,
+      "text": "Have a good day."
+    },
+    {
+      "start": 722.2,
+      "end": 724.22,
+      "text": "They do have shared outside."
+    },
+    {
+      "start": 727.06,
+      "end": 729.02,
+      "text": "We'll move to private, please."
+    },
+    {
+      "start": 735.56,
+      "end": 735.57,
+      "text": "Thank you."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 03 25 - HE - vimeo_1170080286\\2026 03 25 - HE - vimeo_1170080286.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170080286",
+    "display_id": "1170080286",
+    "title": "2026 03 25 - HE",
+    "description": "25 March 2026 | Health Committee\n\nBriefing from the Prostate Cancer Foundation\nHealth New Zealand\u2014Te Whatu Ora \n\tKaren Bartholomew, Chair, National Screening Advisory Committee\n\tJane O\u2019Hallaran, Deputy Chair, National Screening Advisory Committee",
+    "webpage_url": "https://vimeo.com/1170080286",
+    "original_url": "https://vimeo.com/1170080286",
+    "upload_date": "20260324",
+    "timestamp": 1774384649,
+    "release_timestamp": 1774384655,
+    "duration": 736,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2138326064-c16a632f3514a422f5d7c5702161c6611f451817f1ddce816480789dab35bba4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290179095.vtt?expires=1778562133&sig=9eea529f77281e41402cb218fb5425888b733a4d&download=auto_generated_captions.vtt"
+  }
+}

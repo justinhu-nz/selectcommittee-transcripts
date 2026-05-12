@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:03:54.708968+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129330355",
+  "title": "2025 11 05 - HE",
+  "url": "https://vimeo.com/1129330355",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 3089,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3088.14,
+    "segment_count": 1105,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 05 - HE - vimeo_1129330355\\2025 11 05 - HE - vimeo_1129330355.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129330355",
+    "display_id": "1129330355",
+    "title": "2025 11 05 - HE",
+    "description": "6 November 2025 | Health Committee\n\nBriefing on the New Zealand Health Plan\nHealth New Zealand\u2014Te Whatu Ora\n\tDale Bramley, Chief Executive Officer\n\tBevan McKenzie, Chief Financial Officer\n\tJason Power, Acting National Director - Planning Funding & Outcomes\n\tDr Richard Sullivan, Chief Clinical Officer\n\tLisa Williams, Head of Strategy Planning & Performance\n\tSelah Hart, Interim National Director \u2013 Haora M\u0101ori Service\n\tDr Nick Chamberlain, National Director \u2013 Public Health Service",
+    "webpage_url": "https://vimeo.com/1129330355",
+    "original_url": "https://vimeo.com/1129330355",
+    "upload_date": "20251105",
+    "timestamp": 1762304326,
+    "release_timestamp": 1762304335,
+    "duration": 3089,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078912828-91485eac868e1589c4a9546b2810ac73ba87e5830b591b471f91f70373eef4cb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263123613.vtt?expires=1778562239&sig=c99336e7902b07d1256d59065d305f5edc6b57f8&download=auto_generated_captions.vtt"
+  }
+}

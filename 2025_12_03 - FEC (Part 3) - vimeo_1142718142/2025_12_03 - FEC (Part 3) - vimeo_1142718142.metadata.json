@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:19:58.745342+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142718142",
+  "title": "2025/12/03 - FEC (Part 3)",
+  "url": "https://vimeo.com/1142718142",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 2866,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2861.28,
+    "segment_count": 1103,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - FEC (Part 3) - vimeo_1142718142\\2025_12_03 - FEC (Part 3) - vimeo_1142718142.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142718142",
+    "display_id": "1142718142",
+    "title": "2025/12/03 - FEC (Part 3)",
+    "description": "Wednesday 3 December 2025 | Finance and Expenditure Committee\n\n2024/25 Annual review of the Inland Revenue Department\n\nHearing of evidence:\n\nInland Revenue Department\n\nPeter Mersi, Commissioner of Inland Revenue\nDavid Carrigan, Deputy Commissioner, Policy\nJames Grayson, Deputy Commissioner, Customer & Compliance Services \u2013 Individuals\nLisa Barrett, Deputy Commissioner, Customer & Compliance Services \u2013 Business\nNick Bradley, Enterprise Leader, Finance Services",
+    "webpage_url": "https://vimeo.com/1142718142",
+    "original_url": "https://vimeo.com/1142718142",
+    "upload_date": "20251203",
+    "timestamp": 1764731899,
+    "release_timestamp": 1764731910,
+    "duration": 2866,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091261802-04a8f4ad98bf772036314c7207db3a53bda5d42adf6b8e1a1a59c61a1b974ae8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269215963.vtt?expires=1778563203&sig=de57eaa1c7bd5029a9258c013cc28e4c8958d3c0&download=auto_generated_captions.vtt"
+  }
+}

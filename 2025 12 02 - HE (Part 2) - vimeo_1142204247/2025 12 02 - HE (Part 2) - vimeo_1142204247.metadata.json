@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:02:54.432376+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142204247",
+  "title": "2025 12 02 - HE (Part 2)",
+  "url": "https://vimeo.com/1142204247",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 8775,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8762.82,
+    "segment_count": 2957,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 02 - HE (Part 2) - vimeo_1142204247\\2025 12 02 - HE (Part 2) - vimeo_1142204247.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142204247",
+    "display_id": "1142204247",
+    "title": "2025 12 02 - HE (Part 2)",
+    "description": "Tuesday 2 December 2025 | Health Committee\n\n2024/25 Annual review of the Ministry of Health\n\nHearing of evidence:\n\nHon Simeon Brown, Minister of Health\n\nMinistry of Health\n\nAudrey Sonerson, Director-General of Health\nAndrew Old, Deputy Director-General, Public Health Agency\nBrent Johnson, Deputy Director-General, Performance and Governance\nJennie Kerr, Deputy Director-General, Regulatory Services\nCelia Wellington, Deputy Director-General, Corporate Services\nJohn Whaanga, Deputy Director-General, Strategy and Policy\nFergus Welsh, Chief Financial Officer\nKiri Richards, Associate Deputy Director-General, Mental Health Addiction and Suicide Preventions\nHamiora Bowkett, Executive Director",
+    "webpage_url": "https://vimeo.com/1142204247",
+    "original_url": "https://vimeo.com/1142204247",
+    "upload_date": "20251201",
+    "timestamp": 1764631936,
+    "release_timestamp": 1764631948,
+    "duration": 8775,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089934439-724aeba6e729566c14ad4598ca29303a700383654213e09602e1bd2b2bf7951e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268814970.vtt?expires=1778562178&sig=818cbdd30822c47415ca02252b2a91550027a68b&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:04:48.933393+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1167880401",
+  "title": "2026/02/25 GA Subcommittee A [Part 2]",
+  "url": "https://vimeo.com/1167880401",
+  "published_at": "20260224",
+  "published_display": "2026-02-24",
+  "duration_seconds": 4518,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4517.62,
+    "segment_count": 1569,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_25 GA Subcommittee A [Part 2] - vimeo_1167880401\\2026_02_25 GA Subcommittee A [Part 2] - vimeo_1167880401.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1167880401",
+    "display_id": "1167880401",
+    "title": "2026/02/25 GA Subcommittee A [Part 2]",
+    "description": "25 February 2026 | Governance and Administration Subcommittee A\n\nEmergency Management Bill (No 2)\n\nEngineering New Zealand\n- Richard Templer, Chief Executive\n- Tania Williams, General Manager Member Services\n- Paul Campbell, National Technical Leader Building Structures, WSP\n\nNew Zealand Animal Law Association\n- Dr Marcelo Rodriguez Ferrere, President\n\nWhatunga Tuao Volunteer Central\n- Kate Aplin, Tumu Whakahaere | Manager\n\nWaimakariri District Council\n- Mayor Dan Gordon\n- Elena Gessler, Manager of Emergency Management\u00a0\n\nKay Jones\n\nAmateur Radio Emergency Communications\n- John Murphy, CEO\n\nTe Runanganui o Ngati Porou\n- Keita Kohere, Chief Adviser\u00a0\n\nCanterbury CDEM Group and Canterbury Mayoral Forum\n- Councillor John Sunckell, Deputy Chair of the Canterbury CDEM Group Joint Committee\n- James Thompson, Group Manager\u00a0",
+    "webpage_url": "https://vimeo.com/1167880401",
+    "original_url": "https://vimeo.com/1167880401",
+    "upload_date": "20260224",
+    "timestamp": 1771973711,
+    "release_timestamp": 1771973719,
+    "duration": 4518,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2126069802-3982ce074db91e891f582a28decb0d2312a321e913b724dea578130149204e46-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/284555538.vtt?expires=1778562293&sig=b641c5721e8c6cbfaad9120b58f1f5c9db0bbdd5&download=auto_generated_captions.vtt"
+  }
+}

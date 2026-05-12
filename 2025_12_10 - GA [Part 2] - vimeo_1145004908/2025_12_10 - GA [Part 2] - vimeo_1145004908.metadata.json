@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:42.382335+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145004908",
+  "title": "2025/12/10 - GA [Part 2]",
+  "url": "https://vimeo.com/1145004908",
+  "published_at": "20251210",
+  "published_display": "2025-12-10",
+  "duration_seconds": 2766,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2760.41,
+    "segment_count": 804,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_10 - GA [Part 2] - vimeo_1145004908\\2025_12_10 - GA [Part 2] - vimeo_1145004908.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145004908",
+    "display_id": "1145004908",
+    "title": "2025/12/10 - GA [Part 2]",
+    "description": "Wednesday 10 December 2025 | Governance and Administration Committee\n\nRegulatory Systems (Internal Affairs) Amendment Bill\n\nRunze Liu\n\nAaron Fox\n\nNew Zealand Mixed Martial Arts Federation\n- Adeleina Loto Meleisea\n\nCornerman Sports Advisory\n- Adeleina Loto Meleisea\n\nPeri McCardle\n\nNew Zealand Council for Civil Liberties\n- Steven Ensslen, Secretary",
+    "webpage_url": "https://vimeo.com/1145004908",
+    "original_url": "https://vimeo.com/1145004908",
+    "upload_date": "20251210",
+    "timestamp": 1765327813,
+    "release_timestamp": 1765327821,
+    "duration": 2766,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113231971-7f7bff6007f1c0d7b871fdb68db665b5b984808d0022d77b29533e8f5a0fbf13-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271062711.vtt?expires=1778562346&sig=88c22e5daa804bc6814f529d2c2d1fdbc78aa0d2&download=auto_generated_captions.vtt"
+  }
+}

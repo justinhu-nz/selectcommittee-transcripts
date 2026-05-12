@@ -1,0 +1,1690 @@
+Title: 2026 01 29 EDSI 4
+URL: https://vimeo.com/1159386913
+Published: 2026-01-28
+Duration: 01:24:48
+
+[00:00:00] Names.
+[00:00:00] Um, but feel free to, um, introduce yourself.
+[00:00:04] We have 10 minutes with you, and
+[00:00:06] after you have finished, uh, speaking to your submission,
+[00:00:08] there might be questions from members.
+[00:00:10] Thank you.
+[00:00:17] Yeah. Please get started when you're ready.
+[00:00:19] Good morning, Madam Chair and members of the committee.
+[00:00:22] My name is Hannah Clo,
+[00:00:23] and I appear on behalf
+[00:00:25] of the Free Speech Union alongside Douglas Brown, one
+[00:00:28] of the members of our board.
+[00:00:30] We have made a submission on the telecommunications
+[00:00:33] and other matters, bill,
+[00:00:34] because it has significant implications for freedom
+[00:00:37] of expression in New Zealand.
+[00:00:39] For that reason, we oppose the bill.
+[00:00:42] Before I turn to the bill itself.
+[00:00:44] It's worth noting how broad the
+[00:00:46] telecommunications regime is.
+[00:00:48] A telecommunication covers almost any communication sent
+[00:00:52] electronically, uh, from texts, messages,
+[00:00:54] and emails to Fiverr and satellite data.
+[00:00:58] In short, the regulatory regime touches nearly all forms
+[00:01:01] of digital communication in New Zealand.
+[00:01:04] In the time available, I want
+[00:01:05] to focus on two provisions of the bill.
+[00:01:08] First, the bill is trying to apply New Zealand laws
+[00:01:11] and rules to companies based overseas
+[00:01:14] if they offer services to New Zealand.
+[00:01:17] These laws include consumer protection codes and rules,
+[00:01:20] but also require full interception capability,
+[00:01:24] meaning systems must be designed
+[00:01:26] and maintained to assist surveillance agencies
+[00:01:29] to obtain access to private communications.
+[00:01:31] This includes the duty
+[00:01:32] to decrypt communications if the entity
+[00:01:35] supplied the encryption.
+[00:01:37] Second, the bill introduces a new enforcement power,
+[00:01:41] allowing the Secretary of the Ministry
+[00:01:43] of Business Business Innovation
+[00:01:44] and Employment MBIE to suspend, revoke, or restrict radio
+[00:01:49] and spectrum licenses.
+[00:01:51] That means if an overseas company is unwilling
+[00:01:55] or unable to comply with our laws in relation
+[00:01:57] to the consumer codes
+[00:01:58] or surveillance, their license can be revoked.
+[00:02:02] If they don't have a New Zealand spectrum license
+[00:02:05] because they're piggybacking on another,
+[00:02:07] the secretary can then threaten to revoke that license
+[00:02:10] unless access to the overseas provider is blocked.
+[00:02:14] So what does that mean for free speech?
+[00:02:16] Well, the bill significantly expands the ability
+[00:02:19] of New Zealand surveillance agencies, New Zealand Police,
+[00:02:23] N-Z-I-S-G-C-S-B, to access private communications.
+[00:02:27] New Zealanders will no longer be able
+[00:02:28] to rely on overseas based networks
+[00:02:31] or applications, offering greater protection
+[00:02:33] for private communications.
+[00:02:35] Provided a warrant is obtained,
+[00:02:37] New Zealand surveillance agencies will have access
+[00:02:39] to communications across virtually all platforms
+[00:02:42] and networks used by New Zealanders.
+[00:02:44] This is dangerous because private encrypted
+[00:02:47] communication is essential for journalists protecting, uh,
+[00:02:52] their sources, whistleblowers, exposing wrongdoing,
+[00:02:55] individuals organizing politically or speak anonymously,
+[00:02:59] and members of vulnerable
+[00:03:00] or marginalized communicating
+[00:03:02] communities communicating with each other.
+[00:03:04] These forms of communication are fundamental
+[00:03:07] to accountability, dissent, and checks on government power.
+[00:03:11] Not only can they be accessed by surveillance agencies,
+[00:03:14] but any back doors into encrypted communications will be
+[00:03:18] abused by criminals.
+[00:03:19] Not only is the door being opened
+[00:03:21] for our surveillance agencies,
+[00:03:22] but is also being opened for anyone else
+[00:03:25] who can work their way in.
+[00:03:27] Now, that is just one free speech issue.
+[00:03:30] Content moderation
+[00:03:31] and platform governance requirements can easily be added
+[00:03:34] to these codes and rules,
+[00:03:35] which will be enforceable against all platforms
+[00:03:38] and networks, which the Secretary
+[00:03:40] of MBIE can enforce compliance with by suspending
+[00:03:44] and revoking licenses.
+[00:03:45] So what we're looking at is the creation
+[00:03:48] of a huge censorship tool by this bill,
+[00:03:51] which will be sitting there just ready to abuse.
+[00:03:55] And finally, we are a small country faced
+[00:03:58] with expanded interception, decryption,
+[00:04:01] and enforcement obligations.
+[00:04:03] Overseas companies may decide it's just not worth it
+[00:04:06] and withdraw, withdraw their services from New Zealand
+[00:04:08] rather than comply.
+[00:04:10] If that happens, the New Zealanders will lose access
+[00:04:13] to networks and services that they use for communicating
+[00:04:15] with people overseas.
+[00:04:17] Uh, access to diverse sources of information, research
+[00:04:20] and part participating generally in global intellectual,
+[00:04:24] cultural and political debate.
+[00:04:25] This isn't hypothetical.
+[00:04:27] This has happened and is happening overseas.
+[00:04:30] Just looking at the bill in the context of the other acts,
+[00:04:34] in the regime within the regime, the Telecommunications Act,
+[00:04:37] the Telecommunications Intersection Capability
+[00:04:40] and Security Act, and the Radio Communications Act, it is,
+[00:04:43] if it is even technically possible to achieve what it aims
+[00:04:47] to, it will have significant negative impacts on freedom
+[00:04:52] of expression in this country.
+[00:04:55] Now, that is an overview of our submission.
+[00:04:58] I will now hand it over to Douglas Brown, uh, from our board
+[00:05:01] to give him the opportunity to speak
+[00:05:04] and to take the lead in responding to any questions
+[00:05:06] that the committee may have.
+[00:05:10] Thank you, Hannah. So the real, uh,
+[00:05:15] focus that we have, or real concern that we have with this,
+[00:05:18] uh, comes through with the interception capability
+[00:05:20] that's being requested here, especially in regards to, uh,
+[00:05:23] overseas based service providers.
+[00:05:25] And that's really, uh, where this hammer's home is the fact
+[00:05:28] that the overseas service providers are almost all, uh,
+[00:05:32] these days offering what is called end-to-end
+[00:05:34] encrypted communications.
+[00:05:36] Governments around the world have been very keen to gain
+[00:05:39] what they call a backdoor, uh, what is, uh, called in the,
+[00:05:43] uh, interception Telecom, telecommunications, interception
+[00:05:47] and Communications Act,
+[00:05:48] or tsa, uh, an interception capability, uh,
+[00:05:53] into end-to-end encrypted, uh, communications.
+[00:05:57] Uh, it is mathematically impossible, and that is
+[00:06:01] because, uh, when you get a backdoor into something,
+[00:06:04] it is no longer end-to-end encrypted.
+[00:06:06] The providers do not hold keys between the devices.
+[00:06:10] They cannot interrupt the flow of the communication
+[00:06:14] if there is a way of interrupting that flow
+[00:06:16] of communication, uh, that is given to a government.
+[00:06:19] And that is what this bill is even essentially asking
+[00:06:23] those providers to do.
+[00:06:25] Uh, it is not just something that the government has.
+[00:06:29] It is something that any bad actor can discover and crack.
+[00:06:32] And we know for a fact that, uh, governments are not, uh,
+[00:06:36] the most advanced people in the room.
+[00:06:39] Uh, the bad actors, in fact,
+[00:06:40] are far superior in their ability to find those back doors
+[00:06:43] and to crack them and to use them.
+[00:06:46] Uh, we like to think that, uh,
+[00:06:48] our security services are in fact superior to the, uh,
+[00:06:51] foreign bad actors.
+[00:06:52] But that is in fact not the truth.
+[00:06:54] And we have found, again
+[00:06:55] and again that government databases themselves, uh,
+[00:06:58] have been cracked, uh, notwithstanding what is supposed
+[00:07:00] to be world-leading security.
+[00:07:02] Uh, the fact is that in regimes, even Western regimes, uh,
+[00:07:07] where there has been dissent, where there has been, uh,
+[00:07:13] um, attacks on freedom of expression by those governments,
+[00:07:17] and we only have to look back five years
+[00:07:19] to have our own government, uh, describe itself
+[00:07:21] as being the sole source of truth on a matter.
+[00:07:24] Uh, it is the fact that things like that
+[00:07:27] where dissent can be met with, uh, ostracism, uh,
+[00:07:32] with even, uh, threats of criminal action,
+[00:07:34] if it goes far enough that the need
+[00:07:37] for end-to-end encryption, for the need for the ability to
+[00:07:40] communicate free of others, uh,
+[00:07:43] or the state spying on you is necessary.
+[00:07:46] We have had plenty of, uh, um,
+[00:07:50] what was often called by Eric Crampton, Helen, love, joy,
+[00:07:54] uh, think of the children.
+[00:07:55] It's about crime. It's about safety.
+[00:07:57] But never have we had data, never have we had actual, uh,
+[00:08:01] information telling us what is necess, why it is necessary.
+[00:08:05] And finally, the worst part of all of this is the fact
+[00:08:08] that nobody has been told about this.
+[00:08:09] This is being, uh, crept through without announcement,
+[00:08:13] without being told, without, uh, the
+[00:08:16] providers being notified.
+[00:08:17] Uh, it's not mentioned in parliament.
+[00:08:19] It's not being mentioned in the media.
+[00:08:20] It is simply being placed in there with this capacity.
+[00:08:23] It may not be activated now,
+[00:08:25] but it could be activated in the future.
+[00:08:27] And the government can go to apps like Signal, WhatsApp,
+[00:08:31] Facebook Messenger, apple Messages,
+[00:08:32] and say, we have this ability.
+[00:08:34] Provide us with this interception capacity.
+[00:08:36] Uh, or we can block your servers. Uh, I'll leave it there.
+[00:08:41] Okay, great. Thank you. We have just one minute.
+[00:08:44] Um, so very quickly I would ask, um, uh, is
+[00:08:48] in the powers of the secretary
+[00:08:51] to revoke our restrict licenses for non-compliance.
+[00:08:54] So non-compliance is just not just non-compliance.
+[00:08:56] It also describes what does that mean?
+[00:08:58] So the bill talks about the nature
+[00:09:00] and the extent of the non-compliance,
+[00:09:02] and there is like list of things
+[00:09:03] that the secretary will be required
+[00:09:05] to take into consideration
+[00:09:07] before they can exercise their power.
+[00:09:08] Is there something that you think should be added in
+[00:09:11] that list, Hannah,
+[00:09:19] Added to the list of things
+[00:09:20] that the secretary should consider
+[00:09:22] Before exercising out to revoke for non-compliant?
+[00:09:25] Well, I, I don't think that's the key issue there,
+[00:09:27] because having, it's, it's still a very
+[00:09:31] big power that the secretary has.
+[00:09:33] So even if they're required to consider certain elements,
+[00:09:35] they still have the power to do so and justify it.
+[00:09:39] Yeah. But it's for non-compliance, right?
+[00:09:41] So, so you're saying that that should not be there at all.
+[00:09:45] That's what you're saying? Exactly.
+[00:09:46] We are raising, we're raising our concern with that power
+[00:09:49] and how significant it is and what effect it has.
+[00:09:53] Yeah. And that's why I was asking if there was something
+[00:09:56] you wanted to add to the list, the things
+[00:09:58] that they should consider before exercising that power.
+[00:10:01] So no, I get what you have to say.
+[00:10:02] Thank you so much for your response. Thank you.
+[00:10:04] Thank you for your submission. Thanks for your contribution.
+[00:10:06] Thank you very much. Thank
+[00:10:07] You. Bye.
+[00:10:08] Uh, next we have fund RNZ
+[00:10:11] and the Kiwi rocket on Zoom again.
+[00:10:27] And
+[00:10:34] Hi.
+[00:10:35] Hi, how are you? Jay, thank you
+[00:10:37] so much for your submission.
+[00:10:38] We have, uh, 10 minutes with you. Thank you.
+[00:10:41] Thank you very much. So while I can see some
+[00:10:46] good intentions with this bill,
+[00:10:48] I cannot support it in its current form.
+[00:10:51] And one of the reasons is that
+[00:10:54] end-to-end encryption is very important
+[00:10:58] for journalism for a start.
+[00:11:01] There are people who are putting their livelihoods on the
+[00:11:04] line for stories.
+[00:11:06] They're putting their safety on the line.
+[00:11:08] In some cases, sometimes they can't even reveal their
+[00:11:11] own identities.
+[00:11:13] And if their security
+[00:11:16] of their contact details is compromised,
+[00:11:20] they could cost them a lot.
+[00:11:22] And we don't wanna make people afraid to come forward
+[00:11:25] with information about stories that could benefit society
+[00:11:30] and get justice from people and expose corruption.
+[00:11:34] So I am very concerned
+[00:11:39] about the breadth, the breadth of this bill
+[00:11:43] and the power that the secretary of the Ministry
+[00:11:46] of Innovation and Employment has over
+[00:11:51] telecommunication companies and other countries.
+[00:11:53] Because that's a good place to
+[00:11:56] companies overseas is a good place to route information
+[00:11:59] to avoid compromising security and confidentiality.
+[00:12:04] And I cannot understand why the decision
+[00:12:08] making is left up to one individual
+[00:12:13] and not put through the legal system in the courts.
+[00:12:17] And at least having a committee
+[00:12:22] and why a secretary, what qualifies a secretary exactly
+[00:12:26] to make a decision about telecommunication infrastructure
+[00:12:30] will, it affects so many facets of our society.
+[00:12:33] A lot of our lives are online now.
+[00:12:37] People rely on the internet for just about everything.
+[00:12:41] They rely on the internet to communicate,
+[00:12:45] to pass on confidential information, to do business,
+[00:12:51] to have our footprint expanded to the rest of the world
+[00:12:54] because we're such a small country
+[00:12:56] and we are quite geographically isolated, that we need
+[00:13:01] overseas companies to actually be prepared
+[00:13:04] to do business in New Zealand
+[00:13:06] and not be afraid to do business in New Zealand
+[00:13:08] because of the rules
+[00:13:10] that I think are not written in such a way
+[00:13:13] that is friendly towards business
+[00:13:16] and friendly towards journalism.
+[00:13:18] I think that the whole bill needs a rework.
+[00:13:22] And a big concern of mine is actually what would happen
+[00:13:27] if various telecommunication companies
+[00:13:30] and social media platforms just decided
+[00:13:33] that doing business in New Zealand was too much trouble.
+[00:13:36] I note that the Free Speech Union talks about
+[00:13:38] how small our country is
+[00:13:40] and how there isn't a lot to be gained for them
+[00:13:42] and doing business here.
+[00:13:44] The benefits for us and them coming here
+[00:13:47] far outweighs the business.
+[00:13:49] The benefits of them doing business here.
+[00:13:52] They could just withdraw from New Zealand
+[00:13:55] and it wouldn't hurt them much,
+[00:13:57] but it would hurt New Zealand as an awful lot in my opinion.
+[00:14:01] And we have to talk about the fact that
+[00:14:04] we have main newstream New Zealand mainstream media in
+[00:14:07] New Zealand, and we also have alternative media.
+[00:14:11] And I know there may be mixed feelings about alternative
+[00:14:14] media, but alternative media is a great leveler in society.
+[00:14:19] Not just for free speech,
+[00:14:21] but for getting out information that might be ignored
+[00:14:25] by the mainstream media initially.
+[00:14:29] And whether or not to agree with what is being communicated.
+[00:14:33] Free speech is important.
+[00:14:35] It's actually a human right as well.
+[00:14:37] And so we need places where people can go to
+[00:14:42] express their divergent views.
+[00:14:45] And some of them may not be popular,
+[00:14:48] but the wider range of views that are able
+[00:14:49] to be expressed in society,
+[00:14:51] the healthier the debate can be in society.
+[00:14:55] We cannot have a restriction in
+[00:15:00] information by gatekeepers who have a lot
+[00:15:03] of power in the mainstream media.
+[00:15:06] I'm not knocking mainstream media, I think
+[00:15:07] that does a fantastic job.
+[00:15:09] But sometimes I've noticed that there's certain information
+[00:15:13] that doesn't get through on the mainstream media.
+[00:15:16] It gets through on the alternative media.
+[00:15:18] And those servers are not in New Zealand.
+[00:15:20] Those companies are not in New Zealand,
+[00:15:22] they're in other countries.
+[00:15:24] And also it connects us to the rest of the world.
+[00:15:30] We could communicate to the rest of the world.
+[00:15:34] Now what happens if,
+[00:15:35] and it's not the case with this government,
+[00:15:38] but what happens if we did end up
+[00:15:40] with a corrupt government someday, just suppose we did,
+[00:15:45] and our only lifeline to communicate to other countries
+[00:15:49] because a mass censorship was put down on the whole country,
+[00:15:52] including the mainstream media.
+[00:15:54] Akin to North Korea is the alternative media.
+[00:15:58] But the Secretary of the Ministry innovation
+[00:16:00] and employment thought that they'd breached rules
+[00:16:03] and decided to cut off either their radio spectrum
+[00:16:06] or their digital spectrum.
+[00:16:08] And as far as I can see, there's no redress
+[00:16:11] for those companies to actually appeal
+[00:16:15] or even be given full information on why they're being cut
+[00:16:18] off with the infrastructure in New Zealand.
+[00:16:22] How would people tell the rest of the world what is wrong?
+[00:16:26] Because the laws at the moment are pretty good.
+[00:16:30] But what happens if we get a corrupt government
+[00:16:32] who brings in all kinds of laws that restricts free speech
+[00:16:37] to the level of North Korea?
+[00:16:38] Even the way that people become censored is
+[00:16:42] by the gradual erosion of free speech,
+[00:16:46] even unpopular speech.
+[00:16:48] If you take away people's avenues, you are running the risk
+[00:16:51] of actually taking away something
+[00:16:53] that could potentially save people.
+[00:16:56] A social media blackout
+[00:16:58] or an internet blackout is an absolute
+[00:17:00] disaster, in my opinion.
+[00:17:03] And also add to that, that why is it,
+[00:17:08] does it not go through the courts?
+[00:17:10] Why cannot people
+[00:17:12] and companies overseas
+[00:17:15] who have breached New Zealand regulations,
+[00:17:17] which are not set in stone,
+[00:17:18] it could change at any time with any government.
+[00:17:21] Why can they not be heard before a magistrate or a jury?
+[00:17:26] Why can they not actually appeal their case?
+[00:17:31] Why is it that this one person has
+[00:17:34] so much power in our country?
+[00:17:37] It's not good. And I just think
+[00:17:40] that social media is a great leveler.
+[00:17:43] I think that alternative media is a great leveler and
+[00:17:46] and we need that infrastructure
+[00:17:49] because we don't have enough of it in New Zealand.
+[00:17:51] 'cause we're only 5 million people
+[00:17:53] and we need to be able to put ourselves out
+[00:17:55] there to other countries.
+[00:17:58] And you can't rely on the mainstream media to do that.
+[00:18:00] They're underfunded. They're under-resourced.
+[00:18:02] There's only so much that they can do.
+[00:18:04] There's only so many stories that they can cover.
+[00:18:07] We actually need as many different media outlets
+[00:18:10] as possible, even the amateur ones.
+[00:18:14] So I implore you to look again,
+[00:18:20] and also I am wondering,
+[00:18:21] would VPN's virtual private networks be included
+[00:18:25] in this legislation?
+[00:18:28] That's a question that I have.
+[00:18:33] Alright, members, any questions for Joe?
+[00:18:37] Uh, looks like there are no questions.
+[00:18:38] Thank you so much, Joe. Um, thank you for your submission.
+[00:18:42] Thanks for your contribution.
+[00:18:44] You have a good day. You too. Bye-bye. Thank you.
+[00:18:47] Uh, next we have New Zealand Outdoors
+[00:18:50] and Freedom Party. Thank you.
+[00:18:52] Is it okay if we do a live stream
+[00:18:54] Of our own Space?
+[00:18:56] Uh, um, members, uh, they're seeking permission
+[00:19:00] to do their own live stream.
+[00:19:02] You need to provide, um, permission for that. Yeah.
+[00:19:05] So, and is provided for them to do their own live streams,
+[00:19:08] because we have this going on.
+[00:19:10] It's just that it's, it's so long that people find it hard
+[00:19:13] to scroll through to the parts they want. If that's
+[00:19:15] Helpful, we can send you a timestamp for your submission.
+[00:19:19] Okay. You, I think that would be good.
+[00:19:20] We can't do a live stream. No,
+[00:19:21] That's the committee.
+[00:19:22] Yes. Committee hasn't given the permission, so yeah. Okay.
+[00:19:25] Thank you. Uh, so we have 10 minutes with you.
+[00:19:28] Thank you. Um, I'm Sue Gray, the leader
+[00:19:31] of the New Zealand Outdoors and Freedom Party.
+[00:19:33] I specialize in my day job as a human rights
+[00:19:36] and complex emerging issues lawyer.
+[00:19:39] Um, and particularly concerned about democracy
+[00:19:42] and protecting democracy.
+[00:19:43] With me is Dr. Allison Pavlov chooses an academic in
+[00:19:47] business and law, and also our candidate
+[00:19:51] for Wellington Central for the upcoming election.
+[00:19:53] The New Zealand Outdoors
+[00:19:54] and Freedom Party is a voice for people, communities,
+[00:19:57] small business and nature.
+[00:19:59] We are a voice for fundamental rights and freedoms, ethics
+[00:20:04] and local decision making.
+[00:20:06] We're a voice against the globalist agenda.
+[00:20:11] We are a voice for people, power
+[00:20:14] and respect for fundamental rights
+[00:20:16] and freedoms, respect for the New Zealand Bill of Rights
+[00:20:19] and for our other laws such as privacy laws.
+[00:20:22] And we are making a submission today.
+[00:20:24] We largely share the concerns of the free speech union
+[00:20:27] and actually the previous submitter.
+[00:20:30] Our concerns are this bill is further erosion
+[00:20:34] of our fundamental rights, including freedom of expression
+[00:20:38] and our rights, our protection against
+[00:20:39] search and surveillance.
+[00:20:41] And particularly
+[00:20:43] because not all of the decisions for search
+[00:20:47] and surveillance would even go before the courts.
+[00:20:50] The GCSB and the SIS already can do search
+[00:20:53] and surveillance through their own protocols without
+[00:20:56] judicial independent overview.
+[00:20:58] So it's a slippery slope. It's a cumulative effect.
+[00:21:01] And controlling overseas media is contrary
+[00:21:06] to the freedom of expression.
+[00:21:08] What we need to do is look at the hierarchy of laws,
+[00:21:10] fundamental rights and freedoms.
+[00:21:12] Part of our constitution should be at the top,
+[00:21:15] and we should not be making ad hoc law changes that come
+[00:21:19] undermine those fundamental rights and freedoms.
+[00:21:22] It's very convenient to make ad hoc law changes,
+[00:21:25] but it's not constitutional, it's not good government,
+[00:21:28] and it's not for democracy.
+[00:21:33] So we focus on our written submission on the privacy issues,
+[00:21:36] and we, we stand by
+[00:21:38] what we've put in the written submission.
+[00:21:40] What we want to talk about more today is our bill
+[00:21:44] of rights issues and how this bill undermines those rights.
+[00:21:50] We need to look not only at preserving the rights we've got,
+[00:21:54] but reclaiming our rights.
+[00:21:55] So if anything, we would be promoting less interference in
+[00:21:59] free speech than what we've already got,
+[00:22:01] rather than extending the telecommunications laws further
+[00:22:05] to capture overseas organizations.
+[00:22:08] The free speech union raised a couple of very good points.
+[00:22:12] One was about whistleblowers.
+[00:22:14] Now I've been acting for Barry Young, who is a whistleblower
+[00:22:17] who whistle blew data on the, um, health
+[00:22:21] New Zealand webpage or not webpage, health New Zealand data.
+[00:22:26] He has been treated abysmally over 750 days
+[00:22:31] of being under police bailing conditions while his criminal
+[00:22:34] processes proceed despite Parliament's law,
+[00:22:38] the Protected Disclosures Act, which was supposed
+[00:22:41] to protect whistleblowers,
+[00:22:43] the current protections are not working.
+[00:22:45] So again, we need more protection
+[00:22:48] for whistleblowers if we want
+[00:22:50] to hold corrupt practices to account.
+[00:22:53] The second point is, we can't say anymore
+[00:22:56] that there's no corruption in New Zealand.
+[00:22:57] We've had the shocking example
+[00:22:59] of j Mc skimming the Deputy Police Commissioner
+[00:23:03] and the police conduct resulting in the downfall
+[00:23:05] of the former police commissioner Andrew Costa.
+[00:23:08] And the, the shocking findings of the IPCA.
+[00:23:12] We have to be much more alert to transparency
+[00:23:16] and to exposing the problems that we have in the system.
+[00:23:21] We have to protect people coming forward.
+[00:23:24] We have to give people the ability to communicate
+[00:23:27] between themselves without state overview.
+[00:23:32] It's incredibly important in a democratic society.
+[00:23:36] We've had a discussion
+[00:23:37] with the previous submitter about the risk of
+[00:23:41] what if our state turns corrupt.
+[00:23:44] However, just looking back over the last few years,
+[00:23:46] we've had so many abuses of our fundamental rights
+[00:23:50] and freedoms already.
+[00:23:52] And we've had this, again,
+[00:23:53] it's been described a single source
+[00:23:55] of truth from the government.
+[00:23:56] But the current Prime Minister was going down
+[00:23:59] that path yesterday talking about there is only a, um,
+[00:24:03] disinformation, all these things.
+[00:24:05] Information that the government doesn't like is
+[00:24:07] not disinformation.
+[00:24:08] It is a different view from the government view.
+[00:24:12] And what's really important is
+[00:24:13] that we can still talk about different views respectfully,
+[00:24:18] and often people are misinformed.
+[00:24:20] That's fine if we talk about it.
+[00:24:22] We can work through these issues if we try
+[00:24:25] to censor different views.
+[00:24:26] We have a real problem in terms
+[00:24:30] of our fundamental freedom rights, our Constitution,
+[00:24:33] and the democracy of New Zealand.
+[00:24:35] So we stand at the New Zealand S
+[00:24:37] and Freedom Party for the people of New Zealand,
+[00:24:39] not the globalists, not other, other international agendas.
+[00:24:43] We stand for the people having their fundamental rights
+[00:24:46] for principled law reform
+[00:24:48] that is always looking in the context
+[00:24:51] of freedom freedom's first
+[00:24:54] and whether changes are beneficial to the future
+[00:24:57] of the people, to our children, our grandchildren,
+[00:25:00] and future generations.
+[00:25:02] Let's not have these ad hoc secret changes sneak
+[00:25:06] through over the Christmas holiday break, hoping
+[00:25:08] that nobody will even notice 'em.
+[00:25:10] Let's be transparent.
+[00:25:12] Let's be a government that we can all be proud of with laws
+[00:25:15] that we can all be proud of so
+[00:25:17] that New Zealand can be an example
+[00:25:19] of the best practice for the world.
+[00:25:22] Not some hidden agendas going on
+[00:25:24] that people don't understand.
+[00:25:26] If we've still got time, Alison's got a
+[00:25:27] couple more points to make too.
+[00:25:29] Yeah, I'd just like to, um, say that I've listened
+[00:25:32] to the Free speech Union and Joe, was it Reed?
+[00:25:35] Um, and now Sue.
+[00:25:37] And I'm actually just really shocked that we are having
+[00:25:41] to sit here and protect a fundamental right
+[00:25:46] to have personal communications.
+[00:25:49] What what this bill does is it's prioritizing.
+[00:25:52] And indeed previously legislation is prioritizing opaque
+[00:25:57] state run organizations over,
+[00:26:01] over New Zealanders.
+[00:26:03] We we don't have to justify with a list
+[00:26:06] why we should have com personal communication.
+[00:26:09] Of course we should. It's, it's, we should,
+[00:26:12] it's a fundamental right that we are born
+[00:26:14] and we should be able to have private communications
+[00:26:17] with other people without having to justify it
+[00:26:20] and certainly without state oversight.
+[00:26:23] So that's all I'd like to say on that.
+[00:26:27] Um, any questions? Members? There are no questions.
+[00:26:31] Thank you so much for your submission. Thank you very much.
+[00:26:35] And next we have protected, uh, individual life,
+[00:26:38] liberty, and rights. Thank you so much.
+[00:26:43] Hi.
+[00:26:49] Hello. Thank you. Hello. We have 10 minutes with you.
+[00:26:51] Perfect. Thank you. So my name's Nathan.
+[00:26:54] I'm the executive director of Pillar,
+[00:26:56] and this is my colleague Arian.
+[00:26:57] We are here today to submit, uh, to this bill.
+[00:27:00] We have read through it.
+[00:27:01] We have a few questions and queries
+[00:27:03] and some amendments that we would like to see.
+[00:27:05] We don't support the bill in its current state,
+[00:27:06] and we would love to share with you why,
+[00:27:09] and also receive some questions as to
+[00:27:10] how it may or may not be improved.
+[00:27:12] I'll hand it back. Irene, thank you so much. Yeah.
+[00:27:14] As Na Nathan said, uh, we, we are generally in support
+[00:27:18] of updating New Zealand's
+[00:27:19] telecommunications regulatory framework.
+[00:27:21] Uh, but there's just specific provisions within the Bill's
+[00:27:24] current format, which we believe, uh, pose threats to, uh,
+[00:27:28] privacy, uh, freedom of, uh, of expression,
+[00:27:32] and also, uh, uh, fail in areas around, uh, just principle,
+[00:27:36] uh, around limiting powers
+[00:27:38] that are vested in one individual.
+[00:27:39] Uh, and so we'd like to just address those,
+[00:27:41] uh, to you today.
+[00:27:42] Uh, first on the issue of, uh, giving significant authority
+[00:27:45] to one person and failing to put in place, uh,
+[00:27:48] the appropriate checks and balances, as has been noted by,
+[00:27:51] uh, previous submitters, uh, the Secretary of mb, uh,
+[00:27:55] under the newly proposed part seven A, uh,
+[00:27:57] is given significant authority to, uh, restrict
+[00:28:01] or revoke, uh, or,
+[00:28:02] or simply remove a, a access to the New Zealand market
+[00:28:05] for certain, uh, providers or, or services.
+[00:28:08] Um, and this is probably seen in section 65, E, f,
+[00:28:12] and G, uh, under these provisions, the secretary only needs,
+[00:28:16] uh, an assurance, and that's a quote from, uh, the,
+[00:28:19] the bill, uh, that the other agencies, uh,
+[00:28:23] that are making the request to, uh,
+[00:28:25] the secretary are doing it in good faith, essentially.
+[00:28:29] Uh, and, and they've done their due diligence.
+[00:28:31] And that requests are essentially, uh, yeah, as I say, in,
+[00:28:34] in good faith, uh, there's, there's no real checks
+[00:28:36] or balances in place.
+[00:28:38] Uh, no objective thresholds, uh, for her to consider
+[00:28:42] before she takes, takes that power.
+[00:28:45] Uh, and so this lack of clarity we think is, is significant
+[00:28:49] and, and we believe it should be addressed,
+[00:28:51] and we should, uh, have in place as a matter of principle,
+[00:28:54] uh, a good checks and balances, uh, to, to the authority
+[00:28:56] that's, that's given to her.
+[00:28:58] Uh, there's two reasons for that.
+[00:29:00] One in particular is just around, uh,
+[00:29:01] trust in our public institutions, uh, uh,
+[00:29:04] and if, if there is a perception, uh, that she
+[00:29:07] or he, uh, as a secretary is exercising her, her
+[00:29:11] essentially penal powers, uh, uh, as granted
+[00:29:13] by the government in a way that is unfair, uh, that can, uh,
+[00:29:17] create a, a relatively, uh, uh, we would suggest negative,
+[00:29:21] uh, impact on, on the trust in the institutions
+[00:29:23] that are involved, uh, mb as well as the security,
+[00:29:27] uh, uh, agencies.
+[00:29:29] And so we, we believe that this should be addressed.
+[00:29:32] Uh, now on the issue of speech, uh, you've heard, uh, from,
+[00:29:36] uh, multiple submitters on that.
+[00:29:38] Uh, we think that the, the failure to, to put in place, uh,
+[00:29:43] measures that, that regulate the, the power, uh, o
+[00:29:48] of the secretary would also threaten
+[00:29:49] speech, uh, and in two ways.
+[00:29:51] Um, firstly, it creates a higher risk operating environment,
+[00:29:54] uh, for these network providers in New Zealand.
+[00:29:56] Uh, because, well, you have one person who has lots
+[00:29:59] of authority, uh, uh,
+[00:30:01] and the risk that they would lose their access, uh, to the,
+[00:30:04] to New Zealand market is relatively higher.
+[00:30:06] Uh, and we believe that given New Zealand is a smaller
+[00:30:08] market, uh, and would
+[00:30:11] therefore also reduce, uh, produce lower returns
+[00:30:14] for these providers, uh, or services.
+[00:30:17] Uh, having a, a high risk operating environment
+[00:30:20] for them means they might be more willing to, to pull out
+[00:30:22] of this, uh, this country, uh,
+[00:30:25] and reduce New Zealand's ability to freely
+[00:30:27] and frankly communicate and transfer information.
+[00:30:30] Uh, as well as this, uh, I think it would be very important
+[00:30:33] for the committee, and as we progress with this bill
+[00:30:35] to address any concerns around, uh, free speech.
+[00:30:38] Because even if the bill technically doesn't, uh, allow
+[00:30:43] the government access to encrypted material, uh,
+[00:30:45] with the whole point of end-to-end tion is
+[00:30:47] that no one can access it.
+[00:30:49] Uh, even if that's the case, uh, just the thought
+[00:30:51] of surveillance taking place, uh,
+[00:30:53] can have a chilling effect, uh, on speech, uh, even, uh,
+[00:30:57] and, and there's, you know, European jurisprudence and, and,
+[00:31:00] and precedent set on that, that, uh, even the thought
+[00:31:02] of surveillance, uh, can, can suppress speech, uh, which is
+[00:31:06] what we call the, the chilling effect.
+[00:31:08] And so we, we really believe that this should be addressed,
+[00:31:10] uh, just in the communications that,
+[00:31:12] that are being practiced, uh, throughout, throughout this,
+[00:31:15] uh, the passing of this legislation.
+[00:31:18] Uh, and then, uh, finally, just on the issue of privacy, uh,
+[00:31:22] one of the issues that we work across is around privacy.
+[00:31:24] I do note that, uh, under six section 65, I, uh,
+[00:31:28] there are protections for personal
+[00:31:30] and private information, uh, which is good.
+[00:31:32] We believe that, uh, that section does, uh, give, uh, uh,
+[00:31:37] essentially information sharing between, uh,
+[00:31:39] different, uh, agencies.
+[00:31:41] Uh, we believe that there should also be a clause in there
+[00:31:44] for data minimization that only information that is required
+[00:31:47] for the carrying out of the tasks
+[00:31:49] of the secretary are passed along, not any
+[00:31:52] and every piece of information.
+[00:31:54] Uh, so, and that is particularly, uh, uh,
+[00:31:57] relevant given the, the metadata that would be extracted,
+[00:31:59] uh, from, you know, any warrants that are issued, uh, uh,
+[00:32:02] uh, an interception that takes place.
+[00:32:04] Uh, so those are, are our key concerns around
+[00:32:07] institutional trust.
+[00:32:09] Uh, trust in our, you know, uh, in the public, in, in, in,
+[00:32:12] in these institutions, uh, around free speech,
+[00:32:15] the chilling effect and, and privacy.
+[00:32:17] And so, all in all, we, we do believe that there is, uh,
+[00:32:20] an appropriate time and place to,
+[00:32:22] to update regulatory frameworks for, uh, you know,
+[00:32:25] uh, telecommunications.
+[00:32:26] Uh, but we hope that this is done with due diligence
+[00:32:28] and caution, uh, and vigilance
+[00:32:30] and consideration for the foundational rights, uh, of,
+[00:32:33] of New Zealanders, which don't disappear overnight, uh,
+[00:32:36] but slowly instead, we can erode if we are not vigilant.
+[00:32:39] And so with that, uh, we are happy to take questions.
+[00:32:42] Thank you so much. And there is a question
+[00:32:43] from Dr. David Wilson. Yeah,
+[00:32:46] I enjoyed your, um,
+[00:32:48] and your surveillance really over the right
+[00:32:50] to privacy versus some of the issues around
+[00:32:52] that in particular, so the right to know
+[00:32:54] and the public interest, what's actually being talked about.
+[00:32:58] So there's a balancing act there.
+[00:32:59] So think about if you want
+[00:33:01] to preserve end-to-end encryption, full stop,
+[00:33:04] that also leads to, uh, bad actors of a different kind, such
+[00:33:08] as organized crime groups,
+[00:33:10] pornography, et cetera, et cetera.
+[00:33:12] So I'm really interested in the way that you, uh, started
+[00:33:16] to talk about what are the
+[00:33:18] levels mitigations against which information
+[00:33:22] such an organization, whether it's one person in MV
+[00:33:24] or maybe a group or a panel
+[00:33:26] or whatever, what
+[00:33:27] that might look like from your perspective.
+[00:33:30] So could you be, I
+[00:33:31] was a bit more clear with that question,
+[00:33:32] Made a statement around, uh, there are only certain levels
+[00:33:35] of, of information that should be able to be,
+[00:33:38] Uh, oh, on the pri on the privacy issue.
+[00:33:40] Yeah. Yeah. Um, well, I think it'll just be a case
+[00:33:43] by case basis in terms of,
+[00:33:45] obviously we've got our security agencies
+[00:33:47] that are carrying out their tasks.
+[00:33:48] Yeah. Um, and intercepting based on the information and,
+[00:33:51] and the warrant, the, the, the criteria
+[00:33:53] for getting a warrant.
+[00:33:55] Uh, and so I, I I, I do think it's a case by case basis, um,
+[00:33:59] when, uh, you know, in the legislation as it is, uh,
+[00:34:02] only information that is required can be ex extracted.
+[00:34:06] Um, and so that, that is a positive,
+[00:34:08] uh, kind of clause in there.
+[00:34:09] But for the carrying out of, uh, the role
+[00:34:14] of the secretary, not all
+[00:34:15] that information may necessarily be needed
+[00:34:17] to be transferred, if that makes sense.
+[00:34:19] Yeah. So are you, are you sort of, um, prodding
+[00:34:22] for greater governance around
+[00:34:24] what information is actually attainable? Sure.
+[00:34:26] More clarity on what the, exactly what,
+[00:34:29] what exactly is required to clear, clear thresholds and,
+[00:34:31] and greater checks and balances to ensure
+[00:34:33] that an unelected bureaucrat, such as the secretary of MB,
+[00:34:36] wouldn't be imbued with power such
+[00:34:37] that they could ideologically, uh,
+[00:34:39] apply their role where they see fit.
+[00:34:41] Thank you. Okay. Great.
+[00:34:43] Thank you so much for your submission.
+[00:34:44] Thank you. Thanks Ion.
+[00:34:46] Thank you. Uh, we move on to next,
+[00:34:49] that is sponsor me chapters by Zoom.
+[00:34:54] Um, they're not Nick here, um,
+[00:34:57] but we do have another later on who we
+[00:35:02] online, which is Yes.
+[00:35:08] If we can,
+[00:36:12] I think she might not be ready, so, um,
+[00:36:15] perhaps you could take a short break.
+[00:36:18] Yeah. We are running a bit ahead,
+[00:36:20] so I think it would be good to see, um, call a couple
+[00:36:22] of the submitters
+[00:36:23] and those who are next to see who's ready yet.
+[00:36:26] So members, we have a break for just two minutes,
+[00:36:30] two minutes
+[00:36:39] into public session.
+[00:36:41] Um, and this is on Zoom,
+[00:36:49] just waiting for a, uh, David to come online.
+[00:37:06] Sure.
+[00:37:09] I was just signed in for an hour at some stage. Okay.
+[00:37:12] I said I would do an hour,
+[00:37:14] how many of us are on this committee? Ruben,
+[00:37:16] Get this three, but at 1130 for half an hour?
+[00:37:20] Well, maybe. I'm, I'm here from 11
+[00:37:22] till 12, as far as I know.
+[00:37:24] Yep. So I'll just be here from 11 till 12. It's, I just,
+[00:37:27] Yeah. 12
+[00:37:29] To do
+[00:37:40] On, looks like it's working.
+[00:37:43] Yes, we can see you now. Uh, can you hear me?
+[00:37:46] Um, are you talking to me? Yes.
+[00:37:49] Oh, we're starting now. Oh, sorry, my thing said, uh,
+[00:37:50] um, 1115, so
+[00:37:52] Yes, yes. No, thank you for
+[00:37:53] becoming, um, okay, no worries.
+[00:37:54] A bit earlier. So we have 10 minutes with you.
+[00:37:57] Yeah. Okay. Uh, sorry. I'll just keep my, um, oration out.
+[00:38:00] Awesome. Oh, cool. Oh, cool.
+[00:38:02] So, uh, my name is Dan Gda Harbin.
+[00:38:04] Um, I'm the deputy leader of Dr.
+[00:38:07] VNZ, and I'm just here to speak on behalf of RTV.
+[00:38:10] We're just a political party that, um, that's committed
+[00:38:12] to freedom, accountability, transparency, and government.
+[00:38:16] We, uh, we believe in first principle's policy,
+[00:38:19] personal respons, personal responsibility,
+[00:38:21] and clear constitutional boundaries.
+[00:38:23] Um, so today, um, we appear mostly
+[00:38:28] in opposition to the telecommunications and other matters.
+[00:38:32] Bill, just as it stands right now,
+[00:38:34] or hence what the bill, so I'm just gonna it brief.
+[00:38:38] I'll just address the three most
+[00:38:40] significant concerns that we have.
+[00:38:43] So the first thing is the whole idea of the court oversight
+[00:38:47] and how it's being considered like, um,
+[00:38:49] imp practicable in some cases.
+[00:38:51] So currently under the telecommunication, oh, well,
+[00:38:56] texta, serious non-compliance is addressed
+[00:38:58] through enforcement notice under section 90, followed
+[00:39:01] by an application to the high court under section 91
+[00:39:04] for compliance for penalty orders, which currently,
+[00:39:07] this is this current, which only the court may grant.
+[00:39:11] And this structure is deliberate and, um,
+[00:39:13] and ensures that when enforcement reaches such a serious
+[00:39:16] stage that decisions are made by an independent court
+[00:39:20] and all legal standards are applied and blah, blah, blah.
+[00:39:24] You know, I'm subject to appeal and all that.
+[00:39:26] So our concern is that the parallel enforcement pathway,
+[00:39:31] which is, um, would be created under created, um, uh,
+[00:39:34] by seven A with the new, um, bill, is
+[00:39:39] that it somewhat treats it as like an obstacle.
+[00:39:43] It treats all of these statutory things as
+[00:39:47] like obstacles.
+[00:39:50] It's like, obviously the bill isn't saying
+[00:39:53] that the court enforcement is unavailable
+[00:39:55] or ineffective, it's just saying that it's
+[00:39:58] not always the most practical thing to do.
+[00:40:00] So we fully understand the policy drivers.
+[00:40:03] I mean, certainly in, in like today's age with the internet,
+[00:40:06] it's a lot, you know, speed
+[00:40:08] and flexibility is, needs to be concerned and,
+[00:40:12] and taken into account, but these aren't totally new things.
+[00:40:17] Um, I mean, when texter came through,
+[00:40:20] the internet was already kind of booming.
+[00:40:22] Then I, I suppose with ai it's a lot more prevalent now,
+[00:40:28] but I think well, um,
+[00:40:31] we think the bill goes a bit further than just streamlining
+[00:40:33] the framework, but tries to actually bypass it.
+[00:40:36] And, um, evidential standards, it depends on the court.
+[00:40:41] There aren't obstacles.
+[00:40:43] These are actually really important safeguards.
+[00:40:46] Um, a judicial review
+[00:40:47] after the fact is not really an equivalent substitute
+[00:40:50] for prior, um, authorization,
+[00:40:54] in particular when it's like a
+[00:40:56] permanent service restriction.
+[00:40:58] So our concern really with this first point is that, um,
+[00:41:03] if speed is the concern, then
+[00:41:06] it should be looking at maybe expediting judicial process,
+[00:41:09] not just cutting the court out.
+[00:41:12] Um, the second point is the, um,
+[00:41:15] the permanent service disruption.
+[00:41:17] Um, the second concern follows directly from the first is
+[00:41:21] that under part seven A,
+[00:41:23] the secretary's powers do not operate only against
+[00:41:27] the noncompliant provider itself.
+[00:41:29] The new section created, well, section 65 F created
+[00:41:34] by the bill allows the secretary
+[00:41:36] to permanently restrict the service.
+[00:41:38] Um, and in practical terms,
+[00:41:42] this means enforcement can be affected
+[00:41:44] by compelling third parties
+[00:41:46] and intermediaries to act as enforcement agents.
+[00:41:50] Um, even though they are not themselves in breach,
+[00:41:53] and it's not a temporary
+[00:41:55] or, um, interim power, the statute expressly
+[00:41:59] contemplates permanent restriction.
+[00:42:01] Right. The concern here is the collateral impact.
+[00:42:06] Um, a decision taken without prior judicial oversight can
+[00:42:11] result in the long-term disruption of services to customers.
+[00:42:14] And it's all about our market, um, appeal, um,
+[00:42:19] obligations imposed on innocent license holders.
+[00:42:24] It's kind of just
+[00:42:24] something that we are a bit concerned about.
+[00:42:26] It's, again, our concern is not the state that the, um,
+[00:42:32] not that the state has tools
+[00:42:33] to address serious noncompliance,
+[00:42:35] but the permanent service effecting outcomes can now
+[00:42:38] be achieved through third parties.
+[00:42:40] And we, uh, I suppose we're just really concerned about
+[00:42:43] safeguards, ensuring that everything
+[00:42:44] follows our quick procedure.
+[00:42:47] Uh, the last point we'll make is that, is the fact
+[00:42:50] that decisions, um, can be made on summary information alone
+[00:42:55] without, um, adversarial testing.
+[00:42:58] Uh, the third concern is the adequacy of the safeguards, uh,
+[00:43:01] that accompany these powers.
+[00:43:03] Because under the, um, new sec, uh,
+[00:43:07] section 60 5G, I believe, uh,
+[00:43:10] before exercising the power to revoke
+[00:43:12] or permanently restrict license rights,
+[00:43:15] secretary may consider the required matters
+[00:43:17] by relying solely on summary information
+[00:43:20] provided by a surveillance agency
+[00:43:22] or the comments commission.
+[00:43:24] There's no requirement, um, for the information
+[00:43:27] to be tested in an adversarial process
+[00:43:30] and independently verified or assessed by a court
+[00:43:33] before permanent consequences are imposed.
+[00:43:37] I suppose with summary information, we are just concerned
+[00:43:40] that we're not concerned about bad faith.
+[00:43:42] Okay? We try, look, we don't play those games.
+[00:43:47] We always assume good faith,
+[00:43:49] but it does not mean that it's not a substitute
+[00:43:52] for an evidence tested, thorough independent process,
+[00:43:57] particularly where the outcome may be a permanent service
+[00:44:00] restriction or indirect enforcement through a third party.
+[00:44:05] Um, when this ability, ability
+[00:44:10] to rely on summary information is combined
+[00:44:12] with executive decision making
+[00:44:13] and permanent license impacts the results is a concentration
+[00:44:17] of power with limited procedural counterweights
+[00:44:21] judicial review after the fact.
+[00:44:23] Again, it doesn't, I mean, I get it, you want
+[00:44:27] to have it like after the fact
+[00:44:28] to make sure everything's all good,
+[00:44:29] but it's, it's just not the same thing.
+[00:44:31] Um, our review tends to focus more on the legality
+[00:44:33] of everything, not so much the merits.
+[00:44:35] Well, it's the, and, um, in our view
+[00:44:38] and occurs only, um, only
+[00:44:40] after the disruption will take place.
+[00:44:43] Um, and it's just our concern being that the severity,
+[00:44:47] it's just being coupled with the safeguards.
+[00:44:50] It's just we feel like the courts
+[00:44:55] and we want the committee to really take into account
+[00:44:57] that actually these aren't just obstacles.
+[00:45:02] And I suppose taken together these provisions
+[00:45:07] shift serious enforcement away from court supervision,
+[00:45:10] allow permanent service disruption through third parties,
+[00:45:14] and permit those outcomes
+[00:45:15] to be decided on summary information alone,
+[00:45:17] which is our main concern, at least from what we've read
+[00:45:19] so far, that combination warrants a higher statutory
+[00:45:24] threshold and strongest safeguards in the
+[00:45:26] bill presently provides.
+[00:45:28] So just for these reasons, uh, well, there's a, a few more,
+[00:45:31] but just for those primary ones, we don't support, um,
+[00:45:34] the bill in this current form,
+[00:45:36] we fully acknowledge the importance
+[00:45:38] of effective national security and regulatory enforcement.
+[00:45:42] And with ai, like we understand, especially
+[00:45:46] with ai, um, generated content, um,
+[00:45:50] that things are being created at a much higher speed
+[00:45:54] and things are being generated at a, you know,
+[00:45:56] people in the mainstream, well actually, um,
+[00:45:59] I suppose even young people are just sick of AI now.
+[00:46:02] Um, you know,
+[00:46:04] and definitely with harmful AI content, um,
+[00:46:06] if this bill can do something about that.
+[00:46:10] But we still believe that there needs
+[00:46:13] to be some court supervision.
+[00:46:15] Um, permanent service reduction is a massive step to take,
+[00:46:20] um, and needs to be evidence-based.
+[00:46:23] Um, if Parliament wishes to confer power to the severity,
+[00:46:25] they should be accompanied by highest statutory thresholds
+[00:46:29] and default, uh, judicial oversight.
+[00:46:33] We ly uh, uh, we
+[00:46:35] therefore recommend that the bill be amended, uh,
+[00:46:38] to restore those safeguards before it proceeds further.
+[00:46:41] Thank you.
+[00:46:42] Thank you so much. Um, that's good.
+[00:46:45] Thank you so much for your submission.
+[00:46:47] Okay, thank you. Um, are there
+[00:46:48] any questions or are we all good?
+[00:46:50] No. Okay. Thank you so much guys. You have a good one.
+[00:46:54] Sorry. Yeah, thank you so much. Yeah.
+[00:47:02] Okay. Yeah, welcome.
+[00:47:07] So members, we move to Chris Newman.
+[00:47:20] Are they online? Yeah, online.
+[00:47:22] So, so just waiting for him to come online.
+[00:47:29] Chris. Hello. Good morning.
+[00:47:30] Hi there. Thank you so much.
+[00:47:33] My room. So here we are. Um, can, how's that?
+[00:47:36] Are you getting a clear image?
+[00:47:38] Yes, we can see you and we can hear you too.
+[00:47:41] And thank you for becoming, um, available earlier.
+[00:47:43] So we have five minutes with you.
+[00:47:46] Sure. Thank you.
+[00:47:48] Um, right, so let's get started.
+[00:47:51] The, now I've,
+[00:47:52] I've read the New Zealand Telecoms Forum submission,
+[00:47:56] and I find that that
+[00:47:58] that covers all the key points on the technical side that,
+[00:48:01] that were of concern to me.
+[00:48:03] On the policy side.
+[00:48:06] Um, we have a, we have some issues about, uh,
+[00:48:10] I guess vexatious outcomes that frequently arise from pieces
+[00:48:14] of well-intended legislation.
+[00:48:17] For example, the Resource Management Act has impinged
+[00:48:20] and has inhibited an awful lot of development.
+[00:48:23] And, uh, these inhibitory outcomes
+[00:48:26] of well-intended legislation are almost impossible for us
+[00:48:30] to address once they get passed through parliament.
+[00:48:33] Um, and it becomes a burden around everybody's neck.
+[00:48:37] We have no way to correct policy or statutory errors
+[00:48:40] or unintended consequences.
+[00:48:43] And this is often the result of well meant, uh, legislation.
+[00:48:48] So we are losing our freedom all the time
+[00:48:51] as the encroachment of bureaucracy
+[00:48:53] and, uh,
+[00:48:55] policies which are not very helpful to the people.
+[00:48:59] So, um, this thing seemed to be back to front,
+[00:49:02] and that is our concern that the, uh, we are being driven
+[00:49:07] by legislation rather than legislation
+[00:49:09] serving our interests.
+[00:49:12] And this is the core that goes back to the core of, of all
+[00:49:16] of, uh, communications, including Jelly Communications.
+[00:49:19] So my concern is that how much redress are we going to have
+[00:49:24] the people to direct parliament
+[00:49:26] and guide you people when you start, when this sort
+[00:49:29] of legislation gets through?
+[00:49:32] And, uh, we can't modify or adjust it
+[00:49:34] or retune it quickly as it's implemented.
+[00:49:38] We can't always get everything lined up at the beginning
+[00:49:42] because when you pass legislation,
+[00:49:44] then it changes in the real world from all the talk
+[00:49:47] that we do before it,
+[00:49:49] before, you know, in the, in the, in the lead up,
+[00:49:51] and this is our concern, is, uh, policy
+[00:49:55] and reality are not very closely aligned.
+[00:49:59] Um, we have a burden of complicated legislation,
+[00:50:04] for example, health and safety has, has created a lot
+[00:50:07] of problems out there.
+[00:50:08] Um, immigration policies well
+[00:50:11] intended, but it's not working.
+[00:50:13] It's, uh, easy for people to violate those rules
+[00:50:16] and, uh, they're not being administered properly.
+[00:50:19] And I suspect that this sort of, uh, telecoms idea,
+[00:50:24] this whole idea
+[00:50:25] that we are discussing now will also fall
+[00:50:28] into the same category.
+[00:50:30] So without the ongoing evaluation, it's very difficult
+[00:50:33] for anybody to support legislation,
+[00:50:36] which is well intended often,
+[00:50:38] but has, uh, harmful consequences
+[00:50:41] and unintended consequences.
+[00:50:43] Sometimes it might be even beneficial, but
+[00:50:46] unless you know afterwards
+[00:50:49] and have a means of addressing it, uh, we,
+[00:50:52] we are in a process which is like,
+[00:50:55] but like trying to stop a steam train, a big train,
+[00:50:58] once it gets going down the tracks,
+[00:51:00] you know, we're all at the station.
+[00:51:01] We are talking about the legislation
+[00:51:03] and how it suits us and so on.
+[00:51:05] But once it leaves the station,
+[00:51:07] it's a whole different creature.
+[00:51:08] It's now moving and, uh, it's very hard to adjust it.
+[00:51:12] So this is the, the at the root of these sort
+[00:51:15] of well meant intentions that frequently
+[00:51:18] turn into nightmares for us.
+[00:51:21] Um, any attempt to touch freedom
+[00:51:23] of speech always creates a very, um, uh,
+[00:51:28] big flag for us out here in the, uh,
+[00:51:31] in the general community.
+[00:51:33] So this is at the base of my concern that the, uh,
+[00:51:39] existing intentions may be well thought through
+[00:51:42] and intended, but mm, how much of our work, our, our,
+[00:51:47] our submission is taken on board, we get the feeling
+[00:51:50] that this is a rubber stamp rather than a, um, a sincere,
+[00:51:54] um, um, adjustment, you know, attempt to adjust legislation.
+[00:51:58] So that's pretty much my point. The unintended consequences.
+[00:52:02] We don't have a, we should have an active unintended
+[00:52:05] consequences that enables us to quickly adjust, um,
+[00:52:09] matters which get out of control very quickly.
+[00:52:12] And whenever you go near freedom of speech, which is
+[00:52:15] where this is going close to, um, we start
+[00:52:18] to get very concerned.
+[00:52:20] That's my basic point. I should stop there. I guess.
+[00:52:25] Uh, how are we doing for time?
+[00:52:27] Uh, we have actually, uh, just, um, done five minutes.
+[00:52:30] Uh, Chris would, let me just, um, say this,
+[00:52:32] that it's not our rubber stamp,
+[00:52:34] the select committees made up
+[00:52:35] of members from various parties in parliament,
+[00:52:38] and we are sitting here and listening to all the submitters.
+[00:52:40] Yeah. And then from there is a process
+[00:52:42] where we analyze what submitters say.
+[00:52:44] So thank you so much for your contribution. Thank you.
+[00:52:47] Sure. Okay. Bye-bye.
+[00:52:49] Bye.
+[00:52:57] Yes. Yeah. Okay,
+[00:53:16] good morning.
+[00:53:17] Good morning. Uh, we have, um, Ken, you online?
+[00:53:22] Yes, I'm, thank you so much. We have 10 minutes with you.
+[00:53:26] Okay. Thank you. Thank you.
+[00:53:27] Uh, thank you for allowing me
+[00:53:30] to address my concerns about this bill.
+[00:53:33] I'm opposed to the telecommunications
+[00:53:35] and other matters amendment bill in its current form.
+[00:53:38] This is quite a technical bill
+[00:53:40] and it has serious implications for both
+[00:53:42] free speech and privacy.
+[00:53:45] The bill mentions surveillance agency eight times,
+[00:53:49] and it appears to be a major concern within this bill
+[00:53:52] to expand the surveillance of Kiwis,
+[00:53:55] the bill makes offshore providers
+[00:53:56] who currently provide encryption communication services
+[00:53:59] subject to full interception capability
+[00:54:02] and network security duties, including the duty
+[00:54:04] to decrypt communications if the entity
+[00:54:08] supplied the encryption.
+[00:54:09] That raises serious questions about whether genuine private
+[00:54:13] communication would remain available in New Zealand at all.
+[00:54:16] Encryption is a tool designed
+[00:54:18] to help internet users keep their online data
+[00:54:21] and communications private and secure,
+[00:54:24] and make sure private messages stay private.
+[00:54:28] It is essential for protecting freedom of expression
+[00:54:31] and privacy for some communities like human rights
+[00:54:34] offenders, advocacy groups, community organizers
+[00:54:37] and humanitarian actors, encryption is especially crucial
+[00:54:42] and should be used with other more conventional privacy
+[00:54:44] protection tools to keep people safe both online
+[00:54:47] and in their everyday lives.
+[00:54:50] Just why does the government need to read or listen into
+[00:54:52] or private correspondence and communication between Kiwis?
+[00:54:56] It's a good question. This government has consistently
+[00:54:59] sought to uphold the rights and freedoms of New Zealanders,
+[00:55:01] and I was thankful for the Prime Minister's comments
+[00:55:04] to India's prime minister when he said, we want people
+[00:55:07] to have access to free speech.
+[00:55:09] It's a very important part of a liberal democracy,
+[00:55:12] and people have the complete right to free speech
+[00:55:14] and to protest, and they need to do so lawfully.
+[00:55:18] These comments seem to be at odd
+[00:55:19] with the unstated intention of this bill.
+[00:55:23] Although the word encryption is not mentioned in the bill,
+[00:55:25] it's directly under attack.
+[00:55:28] Encryption is key
+[00:55:29] to preserving confidentially confidentiality
+[00:55:31] and unknown amenity in our online communications, and is
+[00:55:36] therefore essential for the enjoyment of a range
+[00:55:39] of human rights and its latest resolution on privacy.
+[00:55:42] In the digital age,
+[00:55:43] the UN Human Rights Council stress the importance
+[00:55:47] of encryption pseudo nom,
+[00:55:50] and to ensure in particular, the enjoyment of the rights
+[00:55:55] to privacy, to freedom of opinion and expression,
+[00:55:58] and to freedom of peaceful assembly and association.
+[00:56:02] In an excellent article entitled Encryption,
+[00:56:04] it's not about good and bad guys, it's about all of us.
+[00:56:08] The author delineated the pros
+[00:56:10] and cons of removing encryption
+[00:56:12] and stated, the modern debate over encryption has focused on
+[00:56:17] combating child sexual abuse and terrorism.
+[00:56:21] These are worthy causes
+[00:56:23] and it's important that law enforcement has the tools it
+[00:56:25] needs to investigate them,
+[00:56:26] but it is also clear that providing them with some
+[00:56:29] of the tools they ask for or to degrade
+[00:56:31] or break encryption risks significant social costs.
+[00:56:36] Encryption is a technology that we rely on as a society
+[00:56:39] to protect our data.
+[00:56:41] The do not justify the means when we talk about
+[00:56:45] undermining encryption and security.
+[00:56:48] Many governments are demanding a backdoor into the
+[00:56:51] encryption algorithm that they can exploit.
+[00:56:54] Encryption. Back doors are designed weaknesses
+[00:56:56] or access points and encryption algorithms.
+[00:56:59] They allow parties, typically government agencies
+[00:57:02] or law enforcement to bypass encryption
+[00:57:04] and access encrypted data without the knowledge
+[00:57:07] or consent of the data's owner.
+[00:57:09] And potentially without the knowledge
+[00:57:11] of the company providing the service
+[00:57:12] or device for its supporters.
+[00:57:15] Back doors offer an appealing approach, allowing services
+[00:57:19] and data to remain encrypted while ensuring law enforcement
+[00:57:22] and other good actors access needed information.
+[00:57:26] Unfortunately, anyone can use vulnerabilities in the
+[00:57:29] encryption algorithm with the back door,
+[00:57:32] whether they're the people who created them, the people
+[00:57:34] who are supposed to use them,
+[00:57:36] or the bad actors seeking to exploit the vulnerability.
+[00:57:40] Once intentional back doors are injected into algorithms,
+[00:57:44] other actors can exploit the two and no one would know.
+[00:57:47] In addition, front doors are as vulnerable to misuse
+[00:57:50] and exploitation as back doors.
+[00:57:52] In addition, by forcing technology companies
+[00:57:55] to use weakened encryption, anti
+[00:57:58] encryption mandates also risk stifling
+[00:58:01] cybersecurity innovation, leaving industries
+[00:58:04] and individuals vulnerable in the long term
+[00:58:08] targeted interception can easily slip into
+[00:58:10] ubiquitous surveillance.
+[00:58:12] Effective investigation does not require
+[00:58:15] compromising encryption.
+[00:58:17] There are many less harmful ways to support law enforcement
+[00:58:21] and national security interests.
+[00:58:23] Another author stated law enforcement
+[00:58:25] and intelligence agencies are increasingly asking
+[00:58:28] for encryption back doors to intercept
+[00:58:30] or access encrypted communications
+[00:58:32] to help catch the bad guys themselves
+[00:58:35] or order companies to do it for them.
+[00:58:37] This not only weakens the global internet infrastructure,
+[00:58:40] it also puts the lives
+[00:58:41] of human rights defenders at greater risk of harm.
+[00:58:46] Because this bill is classified as urgent,
+[00:58:48] it will not have the customer period of debate.
+[00:58:52] Encryption is essential, privacy,
+[00:58:54] security, and pre-ex expression.
+[00:58:55] Any changes affecting these issues
+[00:58:57] require far greater public scrutiny than this.
+[00:59:00] Bill allows for. Freedom
+[00:59:02] of speech is a fundamental right guarantee to citizens
+[00:59:04] to express their opinions
+[00:59:06] and dissenting point of view without censor
+[00:59:10] or fear from anyone.
+[00:59:13] My ultimate concern with this bill is that, um,
+[00:59:17] religious freedom is not a given in many parts of the world.
+[00:59:21] World. According to Pew Research Center,
+[00:59:23] government pressure on religious life remains widespread
+[00:59:27] In 2022 governments, governments harassed religious groups
+[00:59:31] and 186 out of 198 countries.
+[00:59:35] That's 94% of all countries in the world were harassed
+[00:59:39] by their governments and interfered
+[00:59:41] and worshiped in 170 countries.
+[00:59:45] Christians are by far the largest group in the world
+[00:59:48] who are routinely persecuted, restricted,
+[00:59:50] or discriminated against safe houses.
+[00:59:53] Together with secure communications offered
+[00:59:55] by various Christian ministries provide the only way
+[00:59:58] that they can support these individuals
+[01:00:00] to find some peace in the midst of ongoing violence.
+[01:00:04] There is a major chain of vulnerable lives
+[01:00:07] that will be impacted if a chain in that link is exposed
+[01:00:10] to their, you might say, well,
+[01:00:13] our government would not pass on such information that
+[01:00:17] if it was known, that might currently be true.
+[01:00:19] However, employees of the government are not immune
+[01:00:22] to either talk compromise, bribery, or deceit.
+[01:00:27] I read a novel where ISIS members infiltrated the American
+[01:00:30] NSA and passed on valuable intelligence
+[01:00:32] to undermine US national security interests.
+[01:00:36] This is not farfetched
+[01:00:37] as the government surveillance agency will expand
+[01:00:39] as a result of all the decryption work that will result.
+[01:00:42] If this bill passes, then a ra diverse range
+[01:00:45] of employees will be employed, and it will not be long
+[01:00:48] before the whereabouts
+[01:00:49] of persecuted Christians will be discreetly discovered
+[01:00:52] and relayed to their enemies.
+[01:00:55] Please carefully consider the implications of this bill
+[01:00:57] for those who really need your protection.
+[01:01:01] As expected, the severity of the laws against Christians
+[01:01:04] and the punishments for breaking them vary by country.
+[01:01:07] In most cases, it means Christians cannot gather
+[01:01:10] to worship together and futures,
+[01:01:12] nor can they publicly express their faith
+[01:01:14] that Jesus Christ died as an atoning sacrifice
+[01:01:17] covering their sins with his holy, sinless blood
+[01:01:20] and rose again bodily on the third day, so that all
+[01:01:23] who put their trust in him by faith alone, by grace alone
+[01:01:26] and Christ alone, will receive the gift of eternal life.
+[01:01:30] Persecution also frankly, means that simply owning a Bible
+[01:01:34] or talking about Christianity, even
+[01:01:36] among family members in the privacy of one's own home,
+[01:01:39] can result in imprisonment or death.
+[01:01:43] As you might know, Christians in Pakistan,
+[01:01:45] Stan are considered second class blasphemy laws
+[01:01:48] that forbid any insult to the Muslim prophet Muhammad
+[01:01:51] or the Koran are frequently used to justify the mis
+[01:01:54] of Christians ranging from the denial
+[01:01:56] of humanitarian aid to mob violence.
+[01:01:58] Christian girls and women are also frequent targets
+[01:02:02] of kidnappings, forced marriages and forced conversions.
+[01:02:06] Like many other Islamic countries that follow Sharia,
+[01:02:08] Christians face harassment
+[01:02:10] and persecution by the government,
+[01:02:12] their non-Christian neighbors and even their own families.
+[01:02:15] Additionally, if a Muslim can to Christianity,
+[01:02:17] that person can face or even death.
+[01:02:21] Persecution of Christians is growing in India
+[01:02:24] and many other countries around the world.
+[01:02:25] Therefore, it's imperative to understand
+[01:02:27] that many people could die if communications
+[01:02:30] are made insecure.
+[01:02:32] This bill must be revised in order to save lives.
+[01:02:35] In closing, I urge the committee to adopt the RESO
+[01:02:40] resolutions and recommendations the free speech Union
+[01:02:43] proposed in their submission to parliament.
+[01:02:45] We need to cherish, preserve,
+[01:02:47] and protect our freedoms, not undermine them.
+[01:02:50] Our forefathers fought for them list, we forget
+[01:02:53] they were purchased dearly
+[01:02:55] and must not be given away lightly.
+[01:02:57] Thank you for your attention to this matter.
+[01:03:00] Do you have any questions?
+[01:03:02] Uh, we don't have much time left for any questions.
+[01:03:04] Uh, thank you so much for your submission. Thanks.
+[01:03:07] You're welcome. Have a good day.
+[01:03:09] You too. Uh, next do we have seven, four skills?
+[01:03:14] Great. Yes, please come forward.
+[01:03:23] Is that Rebecca Jacob? It is.
+[01:03:24] Thank you Rebecca for your submission.
+[01:03:26] We have 10 minutes with you. Thank you. No problem.
+[01:03:29] Thank you for the opportunity to come in
+[01:03:30] and talk, um, to the committee.
+[01:03:32] We appreciate that. Um, for context,
+[01:03:35] I'm obviously general counsel of Southern Cross.
+[01:03:37] I'm assuming people don't
+[01:03:38] necessarily know much about the company.
+[01:03:40] Um, okay. So we're the, um,
+[01:03:42] fiber optic subsea cable operator.
+[01:03:44] Um, we land in the 13 locations globally,
+[01:03:47] um, across six countries.
+[01:03:48] So we are one of the main con uh, connectivity, um,
+[01:03:52] infrastructure providers for New Zealand.
+[01:03:55] Um, so I guess to to say we do support the purpose
+[01:03:59] of the bill, um, and the context
+[01:04:02] and the reason that we are here is that
+[01:04:04] we are a purely international operator.
+[01:04:07] Um, we don't provide any services
+[01:04:09] to end users in New Zealand.
+[01:04:10] Um, we sell to operators who do, uh, utilize our service
+[01:04:15] as part of the provision of services in New Zealand,
+[01:04:18] but we ourselves don't, um, have any end users.
+[01:04:21] So we feel that the bill currently,
+[01:04:24] as it's currently proposed, gives some unintentional, um,
+[01:04:28] ambiguity around the fact that international services are,
+[01:04:31] um, picked up under the liable person's definition.
+[01:04:36] Um, the reason that we are focused on this is that, um,
+[01:04:40] in 2025, the Commerce Commission did change
+[01:04:43] their approach to us.
+[01:04:44] Um, and they did find that we were a liable person, um,
+[01:04:47] for the purposes of the, um, TDL, the telecommunications,
+[01:04:51] um, development levy.
+[01:04:53] That was a change
+[01:04:54] and we didn't support, um, their interpretation,
+[01:04:57] but, um, we collaborate, um, with all our regulators.
+[01:05:00] So therefore we, we did, um, uh,
+[01:05:03] without prejudice accept their position.
+[01:05:04] But this bill was an opportunity for us to hopefully, uh,
+[01:05:07] remedy that, um, incorrect interpretation.
+[01:05:10] Um, from our, from our end, it imposes administrative
+[01:05:15] and compliance cost.
+[01:05:16] That to us just do not make any sense.
+[01:05:19] Um, there is, uh, the, the purpose
+[01:05:24] of the TDL is not met
+[01:05:26] by capturing companies like ourselves, um, in our opinion.
+[01:05:30] So, um, it is creating regulatory uncertainty.
+[01:05:35] Um, and for critical infrastructure like sub C, it is,
+[01:05:40] that is a crucial element when people are selecting landing
+[01:05:42] points and when they decide whether
+[01:05:44] or not they're going to bother landing in the country.
+[01:05:47] Uh, the reality for New Zealand is
+[01:05:49] that we only get branching units nowadays.
+[01:05:51] Um, we are not a key market for subsea.
+[01:05:55] So it is a factor having regulatory uncertainty about this
+[01:05:59] and dragging international companies, um, into a domestic.
+[01:06:02] What is fundamentally a domestic regulatory issue, um,
+[01:06:06] is not a desirable outcome in our view.
+[01:06:09] Uh, satellite operators,
+[01:06:10] however, uh, fundamentally different, which, um,
+[01:06:14] we understand that the purpose of the ACT is trying
+[01:06:16] to address the concern there.
+[01:06:19] They provide direct to consumer broadband services.
+[01:06:22] They are the correct focus of the scope
+[01:06:24] of this expanded bill.
+[01:06:26] Um, and the TDL is about benefiting those
+[01:06:31] who directly benefit from New Zealand consumers.
+[01:06:34] Um, so we understand the intent, um, behind the change,
+[01:06:39] but a satellite provider provides up down link services
+[01:06:43] which go directly to the end user.
+[01:06:45] The origination and termination points are the end users
+[01:06:48] residents in, in New Zealand.
+[01:06:50] The entire service is provided for end users in New Zealand.
+[01:06:55] Um, in the case of our services, we provide an on-ramp
+[01:06:58] to an international service.
+[01:07:00] Um, we do not have any
+[01:07:02] termination domestically in New Zealand.
+[01:07:05] Um, we are simply an on-ramp to our service, um, as we are,
+[01:07:09] uh, for lots of different services including broadband.
+[01:07:13] Um, so what we are looking for is a simple clarification
+[01:07:15] to the definition of liable person, um, to confirm that it,
+[01:07:19] it is about, doesn't include international services
+[01:07:23] provided, um, to people
+[01:07:25] who are not end users in New Zealand.
+[01:07:28] We, we went through many iterations of,
+[01:07:30] and our submission about
+[01:07:31] what would be the best, uh, amendment.
+[01:07:34] Um, and that's where we landed as the only way
+[01:07:37] that would be, you know, give enough clarity,
+[01:07:40] um, to the commerce commission.
+[01:07:41] Um, that actually that we are not supposed
+[01:07:43] to be being picked up in terms of the policy intent.
+[01:07:49] Um, all of our, everyone that we provide an on-ramp to
+[01:07:53] are caught by the TDL, um,
+[01:07:54] and they are paying, um, their share of the levy.
+[01:07:58] So from a policy perspective, there's no gap created
+[01:08:02] by us not being part of the regime.
+[01:08:05] Um, and we believe that
+[01:08:09] what we're proposing aligns with what you're trying
+[01:08:11] to capture, which is the overseas providers in New Zealand
+[01:08:14] providing New Zealand services.
+[01:08:17] Um, so, uh, I do want to clarify that we are not proposing
+[01:08:21] that we are exempt from regulation in New Zealand
+[01:08:23] and we are certainly not proposing that we're not a network
+[01:08:27] operator for the purposes of the bill.
+[01:08:28] Um, we're not suggesting any amendment
+[01:08:32] that would affect that at all.
+[01:08:33] We understand that we are a network operator and
+[01:08:36] therefore we have oversight under the act.
+[01:08:38] That's not a concern.
+[01:08:40] Um, and that has been the case
+[01:08:41] for the last 25 years of our operation.
+[01:08:43] Um, it's the fact that this new overlay, which is to us, um,
+[01:08:48] not in line with the policy.
+[01:08:50] So thanks. Great. Thanks. Why are we here?
+[01:08:52] Um, first question from Marina,
+[01:08:55] Um, just on the difference between if you were exempted,
+[01:08:58] um, just as yourselves
+[01:08:59] or the class of, um, others
+[01:09:01] who might at some time provide the service.
+[01:09:04] Yeah. You wouldn't expect any new ones, eh,
+[01:09:06] because of the way that satellites have changed the market,
+[01:09:09] you would expect the existing providers to be the providers.
+[01:09:13] Uh, correct. Yeah. Yeah.
+[01:09:14] And so, um, if you, if,
+[01:09:17] if the committee was interested in pursuing, um,
+[01:09:20] more guidance around the exemption
+[01:09:22] that you had from the Well no,
+[01:09:24] you never had an exemption from the Commerce commission.
+[01:09:27] Oh, so the Commerce Commission has always,
+[01:09:28] so we had correspondence
+[01:09:29] with them when the levy was first introduced.
+[01:09:32] Yeah. And they agreed with us that we were
+[01:09:33] outside of the regime. Okay.
+[01:09:35] And they didn't give you an
+[01:09:36] exemption then? They just agreed that
+[01:09:37] They agreed that we were outside of the scope.
+[01:09:39] Correct. Whereas this, uh, in 2025, um, they came to us
+[01:09:43] and said that they had had direction, um,
+[01:09:45] obviously it was aimed at the satellite providers,
+[01:09:48] but they had had direction, the international services were
+[01:09:50] to be included. Um, that makes
+[01:09:53] Sense. How much is
+[01:09:54] the, um, how do they calculate your
+[01:09:55] levy given that you don't have any?
+[01:09:57] It was extremely difficult process
+[01:09:59] and it cost, one of the administrative burdens
+[01:10:01] for us was it cost us a lot with p WC to work through that
+[01:10:04] with them because we don't have New Zealand revenue.
+[01:10:07] Um, and so we went through, we have intercompany, uh,
+[01:10:10] 'cause we have a New Zealand company.
+[01:10:12] So we went through the, uh, uh, PWC, um,
+[01:10:17] audited and, uh, originally created, um, inter companies
+[01:10:21] that we worked for through all of our 13 companies, um,
+[01:10:24] throughout the globe.
+[01:10:26] And they agreed they had to get a, um,
+[01:10:29] exemption from the telecommunications.
+[01:10:32] Um, oh. So they commission saying that
+[01:10:34] actually we don't fit the square box
+[01:10:36] and we, you know, they're trying
+[01:10:37] to ram a into the round hole. Can you share
+[01:10:40] Us how much, um, Levy, uh, US dollars?
+[01:10:45] It was around 12,000. Okay,
+[01:10:47] Thank you. What,
+[01:10:48] um, so, um,
+[01:10:49] and that is our other problem is we account in USD.
+[01:10:52] So we had to have, we had to, uh, work through
+[01:10:54] how we were gonna convert that
+[01:10:55] and how the Commerce Commission would be happy
+[01:10:57] with the exchange rate where you replied, et cetera.
+[01:10:59] It was administratively heavy for a very small, um, fee.
+[01:11:04] Mm-hmm. Uh, or no question. Okay. Dr. David Wilson, uh,
+[01:11:09] In New Zealand Domicile
+[01:11:10] Company, say, uh, we have a subsidiary here, which is, um,
+[01:11:14] uh, SCCL, New Zealand Limited, which is a New Zealand, um,
+[01:11:17] incorporated company, um, that is one
+[01:11:21] of our 13 companies globally,
+[01:11:22] and that provides our New Zealand landing service.
+[01:11:25] So we have the on ramp for your cable station. Yep.
+[01:11:27] And our, uh, that actual cable station is owned
+[01:11:30] by Spark New Zealand Limited,
+[01:11:31] and we, that Cab Con cable is contracted
+[01:11:35] by the New Zealand subsidiary.
+[01:11:36] Yeah. So, uh, so one leaning station,
+[01:11:40] Uh oh, sorry. Well, well,
+[01:11:41] uh, we actually landed twice,
+[01:11:42] but we're Spark in both cases. Yeah.
+[01:11:45] And um, so your clients own five repair within No.
+[01:11:49] The sub cables? No. No.
+[01:11:51] Southern Cross owns all five pairs.
+[01:11:53] Okay. And rents them.
+[01:11:54] So who are your clients? No, um, we sell, um,
+[01:11:57] what's called IUs inable Right.
+[01:11:59] To use. Yep. So, um, the actual, uh,
+[01:12:03] five pairs, each
+[01:12:04] of our cables has a different five pair configuration,
+[01:12:06] but the, um, only product we currently sell is a right
+[01:12:11] to use, which is like a lease. Right.
+[01:12:13] It's, so You own typically not from an accounting
+[01:12:15] perspective, but it's a lease in layman
+[01:12:17] Terms, and they land on land
+[01:12:18] and they connect to the terrestrial network
+[01:12:21] that we have here in New Zealand, correct, yeah.
+[01:12:23] Which is all owned by all the other companies.
+[01:12:25] Correct. Who will, who will pay the TDL? Yeah. So
+[01:12:28] You're an infrastructure supplier.
+[01:12:29] Yeah, we're, we're, we think of ourselves as layer zero.
+[01:12:32] Yeah. We are literally a pipe. Yeah. Um, sub C. Yeah. Yeah.
+[01:12:36] Yeah. Thank
+[01:12:37] You so much for your submission.
+[01:12:38] No problem. Have a good day. Thank you. Thank you.
+[01:12:41] The next submission not,
+[01:12:45] And we would reach it one, um, okay,
+[01:12:48] we're running about two minutes.
+[01:12:50] Two minutes. Yeah, it's not much though.
+[01:12:52] So, um, I think members, we will just be patient and mm-hmm.
+[01:12:56] Another couple of minutes.
+[01:14:21] Oh, question list came out.
+[01:14:24] So we have Dr, um, Andrew Shelley with us. Mm-hmm.
+[01:14:28] Zoom on Zoom I think
+[01:14:35] should be coming on Zoom,
+[01:14:37] just, oh, um, Dr.
+[01:14:41] Shelley, are you there online? Oh, okay.
+[01:14:51] Should be there now. Dr. Shelley. I, yes,
+[01:14:56] Yes, there we go. Sorry,
+[01:14:57] that, um, that changed as I was, uh,
+[01:15:00] changed from an attendee to a panelist.
+[01:15:02] No, you, you look good and we can hear you as well.
+[01:15:05] So we have five minutes with you. Thank you.
+[01:15:08] Great. Thank you. Uh, so you've obviously read my
+[01:15:10] submission and there was three parts to it.
+[01:15:13] The first part covered things like, um, privacy
+[01:15:17] and security of digital infrastructure
+[01:15:19] that will have been covered by other submitters.
+[01:15:21] So I don't wanna talk to that.
+[01:15:22] Uh, second part was the economic issues, which I think, uh,
+[01:15:27] probably deserves a, a little bit of focus.
+[01:15:29] And, and I think you have to be mindful here
+[01:15:33] of unintended consequences in telecom's, uh, regulation.
+[01:15:39] So, um, first example I'll give there is when
+[01:15:44] we went through the, the unbundling of telecom's network,
+[01:15:47] local loop unbundling,
+[01:15:49] Telstra Clear had been investing in a fiber network, uh,
+[01:15:53] particularly around urban areas.
+[01:15:55] Uh, and as local loop UNB bundling was announced, uh,
+[01:16:01] Telstra Clear decided to stop investing in that network.
+[01:16:04] Um, that was an unintended consequence
+[01:16:07] of, of the regulation.
+[01:16:08] Yes, we got retail competition,
+[01:16:10] but we didn't have competition in the network provision.
+[01:16:14] Second case that I'll give you is around mobile
+[01:16:19] coverage in New Zealand.
+[01:16:21] We've had this big push to move to 5G
+[01:16:24] and that push to move to 5G has resulted in poorer
+[01:16:28] and poorer coverage around more
+[01:16:30] and more of New Zealand as just a, a consequence of the,
+[01:16:33] the frequency issues.
+[01:16:35] Uh, so for example, I
+[01:16:37] until recently lived in a subdivision just out of, uh,
+[01:16:40] fielding called Mount Taylor.
+[01:16:42] Um, that's a fairly high income subdivision
+[01:16:47] and it was terribly served by mobile coverage
+[01:16:51] because everyone's gone to 5G.
+[01:16:53] Uh, the three G's disappearing.
+[01:16:55] Uh, we've got competition in mobile spark one NZ,
+[01:16:59] two degrees, um, but the coverage up there was atrocious.
+[01:17:02] You'd have to find the right spot on your property to stand,
+[01:17:05] to be able to hold a phone call
+[01:17:08] driving the 20 kilometers from fielding to Palmers North.
+[01:17:12] There's black spots. You can't hold a,
+[01:17:15] a phone call anymore when you are driving that distance.
+[01:17:18] So that's, that's, that's one of the things that happens.
+[01:17:21] So when we are thinking about levying
+[01:17:24] and imposing conditions on satellite broadband providers,
+[01:17:28] I'd suggest that you need to think very,
+[01:17:32] very carefully about that They are providing the service
+[01:17:36] that's missing in these poor coverage areas.
+[01:17:39] Uh, they're already providing that service.
+[01:17:41] So levying them is about taxing them
+[01:17:46] to subsidize their New Zealand terrestrial competitors
+[01:17:49] to provide a service that's not being provided very well.
+[01:17:51] So be aware of that.
+[01:17:53] Um, they're already providing that, that alternative
+[01:17:56] and then think about how are you actually gonna be able
+[01:18:00] to effectively enforce these regulations.
+[01:18:02] You know, I included a copy of
+[01:18:04] that tweet in my submission from Iran,
+[01:18:07] but that's literally the only ways that you can enforce.
+[01:18:10] If they won't pay, you either have to jam the signal
+[01:18:13] or confiscate satellite terminals.
+[01:18:15] So think about whether that actually makes sense.
+[01:18:20] Okay. Uh, members, any questions?
+[01:18:23] It looks like there are no questions.
+[01:18:25] Thank you so much Dr. Shelly, for your submission.
+[01:18:27] Great, thank you very much. Have a good day. Bye-bye.
+[01:18:31] Um, we sound right online now. Okay, good.
+[01:19:03] Okay. Just reading
+[01:19:07] for some connection to come up.
+[01:19:14] Yeah. Alex, thank you so much. Can you hear me?
+[01:19:18] I can hear you. Can you hear me?
+[01:19:20] Yes, we can hear you.
+[01:19:21] Thank you so much for your submission.
+[01:19:23] We have five minutes with you. Yep. Thank you.
+[01:19:27] I hope I can fill the five minutes.
+[01:19:30] You can speak to your submission for as long
+[01:19:32] as you like within five minutes,
+[01:19:33] and if there is any time left,
+[01:19:34] there might be questions from members.
+[01:19:37] Sure. Okay. Thank you.
+[01:19:39] Alright, so, um, I listened to the, uh,
+[01:19:44] telecommunications side of things, the science there,
+[01:19:47] but for me, this bill is more about privacy, um,
+[01:19:52] uh, requiring, uh, providers to, um,
+[01:19:57] increase access, government access, um,
+[01:20:02] uh, in that, um,
+[01:20:06] because a lot of us are on platforms these days
+[01:20:09] that are encrypted and stuff like that.
+[01:20:11] We have our weak communities, we have our chats
+[01:20:14] and, um, I think that this bill is
+[01:20:19] about privacy ultimately.
+[01:20:22] Um, and not just the privacy that's in your head,
+[01:20:25] but the privacy that you share with like-minded individuals.
+[01:20:30] Now, I promise you I'm not a threat to anyone,
+[01:20:34] but at the same time, I, I see myself as a Christian, right?
+[01:20:39] Um, I'm never gonna see things the way a Muslim
+[01:20:42] person would see them.
+[01:20:45] And I should also say
+[01:20:47] that I don't really talk about things like that anyway,
+[01:20:50] but I think that somebody's thoughts
+[01:20:54] and expressions, I think they're a God-given, right.
+[01:20:58] You know, and, um, being able
+[01:21:02] to probe people's conversations is a breach of that, right?
+[01:21:06] We have a privacy act that virtually means nothing today.
+[01:21:11] Um, it doesn't really protect us, it brings us under.
+[01:21:16] Um, it's like
+[01:21:19] whenever we're asked to share details,
+[01:21:22] it's like we're contracting.
+[01:21:24] Um, and if we wanna keep our details private
+[01:21:27] or our lives private, um, the system
+[01:21:31] or the government seems to continually be wanting to
+[01:21:35] access those for why?
+[01:21:37] I don't know. Um,
+[01:21:40] like when I was growing up, most Kiwis thought
+[01:21:44] relatively the same.
+[01:21:46] I think, you know, sport, you know, uh,
+[01:21:50] social, et cetera.
+[01:21:52] There's been a lot of immigration over the years.
+[01:21:54] And I'm not against immigration
+[01:21:56] because my mom's an immigrant,
+[01:21:58] but what I see is a lot of different cultures coming in,
+[01:22:02] making it even harder to find the unity
+[01:22:05] that we used to have.
+[01:22:07] Um, and I don't believe that government can legislate unity
+[01:22:11] by simply shutting down thoughts, you know?
+[01:22:15] Um, so what I saw in the amendment Bill
+[01:22:20] and other stuff is, um, powers to,
+[01:22:25] uh, go to internet providers
+[01:22:28] and, you know, ask for access that they don't have now.
+[01:22:32] And if, um,
+[01:22:36] if this goes against our privacy, if it goes against our,
+[01:22:40] our fundamental human rights, we've got a bill of rights
+[01:22:45] and, and it seems to be being eroded
+[01:22:49] with just about every second little bit of legislation
+[01:22:53] that comes down the pike lately,
+[01:22:55] the last few years ever since COVID.
+[01:22:57] You know, it just seems to be more and more control
+[01:23:01] or a desire by government to control more and more.
+[01:23:06] And, uh, I just feel like rebelling against that control
+[01:23:10] because I don't want my privacy breached.
+[01:23:15] I don't want to be told where I can go and what I can do.
+[01:23:19] Often reason, of course, I'm a reasonable person.
+[01:23:22] I don't go around committing crimes or hurting people.
+[01:23:25] I'm not like that, you know?
+[01:23:28] But I care about my privacy and my telecommunications.
+[01:23:32] I'm on many platforms. I belong to many groups.
+[01:23:36] Uh, I don't ascribe to all the values
+[01:23:38] that those groups hold,
+[01:23:40] but you know, I reserve the right to, um,
+[01:23:45] I'm waffling, aren't I really?
+[01:23:47] I just don't wanna see us moving into an Orwellian type
+[01:23:52] situation with, uh, more and more surveillance.
+[01:23:55] And that's what this is ultimately about is surveillance,
+[01:23:59] you know, and I, I don't think we need it.
+[01:24:02] I've been to places like England
+[01:24:04] and stuff like that where they've got CCTV on every corner.
+[01:24:07] And while it may look quite good on some
+[01:24:10] of the British cop shows, you know, that they can,
+[01:24:13] you know. Um,
+[01:24:15] Sorry to interrupt. Alexa,
+[01:24:16] I'm the start.
+[01:24:17] You were worried how you're going to talk for five minutes?
+[01:24:19] Guess it's already five minutes.
+[01:24:22] Okay. Thank you. Thank you for your contribution.
+[01:24:24] I shoulda have prepared, I shoulda have prepared,
+[01:24:27] but you get the guest if, if you can't guarantee my privacy,
+[01:24:32] I don't think this bill should proceed.
+[01:24:34] Thank you for your submission. Good summary.
+[01:24:37] I thank you. Good day.
+[01:24:39] Um, alright, members, we go in private.

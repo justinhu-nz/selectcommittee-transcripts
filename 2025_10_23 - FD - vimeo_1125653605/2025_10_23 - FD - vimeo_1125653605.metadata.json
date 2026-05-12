@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:49.279405+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125653605",
+  "title": "2025/10/23 - FD",
+  "url": "https://vimeo.com/1125653605",
+  "published_at": "20251022",
+  "published_display": "2025-10-22",
+  "duration_seconds": 765,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 759.24,
+    "segment_count": 307,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_23 - FD - vimeo_1125653605\\2025_10_23 - FD - vimeo_1125653605.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125653605",
+    "display_id": "1125653605",
+    "title": "2025/10/23 - FD",
+    "description": "Thursday 23 October 2025 | Foreign Affairs, Defence and Trade Committee\n\nPetition of Marcelo Rodriguez Ferrere: Require imports of animal products to meet or exceed NZ animal welfare standards \n\nHearing of evidence\nSubmitter list:\n\nMarcelo Rodriguez Ferrere",
+    "webpage_url": "https://vimeo.com/1125653605",
+    "original_url": "https://vimeo.com/1125653605",
+    "upload_date": "20251022",
+    "timestamp": 1761162586,
+    "release_timestamp": 1761162595,
+    "duration": 765,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073132013-2da171ffb032224857920f38052d4719f6ea7db0c28e1f18470476e8daea819c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260648893.vtt?expires=1778562414&sig=30580d825061f5eeb56276a65fc5c76c65dcb5e0&download=auto_generated_captions.vtt"
+  }
+}

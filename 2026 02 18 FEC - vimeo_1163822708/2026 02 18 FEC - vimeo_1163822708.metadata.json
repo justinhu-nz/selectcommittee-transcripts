@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:07:34.793030+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163822708",
+  "title": "2026 02 18 FEC",
+  "url": "https://vimeo.com/1163822708",
+  "published_at": "20260217",
+  "published_display": "2026-02-17",
+  "duration_seconds": 3339,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3338.3,
+    "segment_count": 1328,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 18 FEC - vimeo_1163822708\\2026 02 18 FEC - vimeo_1163822708.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163822708",
+    "display_id": "1163822708",
+    "title": "2026 02 18 FEC",
+    "description": "Wednesday 18 February 2026| Finance and Expenditure Committee\nBriefing on the response to the inquiry into banking competition\nDosh\nShane Marsh, Chief Executive\nKiwibank\nSusan Peterson, Chair\nSteve Jurkovich, Chief Executive\nNon-bank Deposit Takers Association\nDaniel McGrath, Xceda, CEO\nJohn Healye, Wairarapa Building Society",
+    "webpage_url": "https://vimeo.com/1163822708",
+    "original_url": "https://vimeo.com/1163822708",
+    "upload_date": "20260217",
+    "timestamp": 1771358577,
+    "release_timestamp": 1771358584,
+    "duration": 3339,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123220747-f70489f3c26fa30b4e4d370fd1abb6b947a0a3d041564fb9d8e37da2d1e9c7fd-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283263761.vtt?expires=1778562459&sig=86929be5c4a83c3a644da1f45389e7f529b92aaa&download=auto_generated_captions.vtt"
+  }
+}

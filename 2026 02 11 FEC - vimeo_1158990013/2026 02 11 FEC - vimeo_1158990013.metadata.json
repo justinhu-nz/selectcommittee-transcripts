@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:07:50.056523+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1158990013",
+  "title": "2026 02 11 FEC",
+  "url": "https://vimeo.com/1158990013",
+  "published_at": "20260210",
+  "published_display": "2026-02-10",
+  "duration_seconds": 3383,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3382.39,
+    "segment_count": 1191,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 11 FEC - vimeo_1158990013\\2026 02 11 FEC - vimeo_1158990013.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1158990013",
+    "display_id": "1158990013",
+    "title": "2026 02 11 FEC",
+    "description": "Wednesday 11 February 2026| Finance and Expenditure Committee\n2024/25 Annual review of the Natural Hazards Commission and 2024/25 Annual review of Southern Response Earthquake Services Limited\nSouthern Response Earthquake Services Limited\nCasey Hurren, Chief Executive\nBevan Killick, Chair\nNatural Hazards Commission\nChris Black, Board Chair\nTina Mitchell, Chief Executive\nChris Chainey, Chief Financial Officer\nMichala Beacham, Chief Strategy Officer",
+    "webpage_url": "https://vimeo.com/1158990013",
+    "original_url": "https://vimeo.com/1158990013",
+    "upload_date": "20260210",
+    "timestamp": 1770754161,
+    "release_timestamp": 1770754171,
+    "duration": 3383,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120163380-b976b069ec69caec89689dd4efb2e36d302325a84928ed46d8dffe94c2c99fa5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282031295.vtt?expires=1778562474&sig=8d8ab89903ce93bf1a63fc6ad93976647f52cbfa&download=auto_generated_captions.vtt"
+  }
+}

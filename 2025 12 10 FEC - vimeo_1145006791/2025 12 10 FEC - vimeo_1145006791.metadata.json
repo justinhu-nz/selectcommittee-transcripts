@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:15.228818+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145006791",
+  "title": "2025 12 10 FEC",
+  "url": "https://vimeo.com/1145006791",
+  "published_at": "20251210",
+  "published_display": "2025-12-10",
+  "duration_seconds": 3016,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3015.61,
+    "segment_count": 950,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 10 FEC - vimeo_1145006791\\2025 12 10 FEC - vimeo_1145006791.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145006791",
+    "display_id": "1145006791",
+    "title": "2025 12 10 FEC",
+    "description": "Wednesday 10 December 2025 | Finance and Expenditure Committee\nFinancial Markets Conduct Amendment Bill - Amendment Paper 446\nFinancial Services Federation\nLyn McMorran, Executive Director\nInvestor Group on Climate Change\nFrancesca Muskovic, Executive Director \u2013 Policy, Investor Group on Climate Change\nNZX Limited\nKristin Brandon, Head of Policy and Regulatory Affairs\nSimon Beattie, General Manager Corporate Affairs & Sustainability\nResponsible Investment Association Australasia (RIAA)\nDean Hegarty, Co-CEO\nTower Limited\nPaul Johnston, Chief Executive Officer\nMcGuinness Institute\nWendy McGuinness, Chief Executive",
+    "webpage_url": "https://vimeo.com/1145006791",
+    "original_url": "https://vimeo.com/1145006791",
+    "upload_date": "20251210",
+    "timestamp": 1765328342,
+    "release_timestamp": 1765328353,
+    "duration": 3016,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2093916438-32e9d6d29a19a36bd2eba81f4d9d903d289386b513bb2ab397b3678cc251b38d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271064348.vtt?expires=1778562499&sig=b67a25ab647f33b44d224433425d4a5e1d5f11cb&download=auto_generated_captions.vtt"
+  }
+}

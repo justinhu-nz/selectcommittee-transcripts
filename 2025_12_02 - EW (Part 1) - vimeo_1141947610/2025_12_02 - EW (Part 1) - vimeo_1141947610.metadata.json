@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:18.908980+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141947610",
+  "title": "2025/12/02 - EW (Part 1)",
+  "url": "https://vimeo.com/1141947610",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 6569,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6510.95,
+    "segment_count": 2264,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - EW (Part 1) - vimeo_1141947610\\2025_12_02 - EW (Part 1) - vimeo_1141947610.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141947610",
+    "display_id": "1141947610",
+    "title": "2025/12/02 - EW (Part 1)",
+    "description": "Tuesday 2 December 2025 | Education and Workforce Committee\n\n2024/25 Annual review of the Tertiary Education Commission\n\nHearing of evidence:\n\nTertiary Education Commission\n\nDr Alan Bollard, Board Chair\nTim Fowler, Chief Executive\nGillian Dudgeon, Deputy Chief Executive, Delivery\nNina Ive, Deputy Chief Executive, Careers & Investment Design\nJohn Soulis, Deputy Chief Executive, Corporate & Finance / CFO\nSimon Hall, Principal Advisor, Special Projects",
+    "webpage_url": "https://vimeo.com/1141947610",
+    "original_url": "https://vimeo.com/1141947610",
+    "upload_date": "20251201",
+    "timestamp": 1764625191,
+    "release_timestamp": 1764625201,
+    "duration": 6569,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089928188-f60494b4ed9faf363b38976f0572fd253293a48afe474dd7d729b57d0d8a2d75-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268794701.vtt?expires=1778563283&sig=9135f1690e180ab0c6ab0ed9c947629e2048dc0d&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:21.088295+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142314421",
+  "title": "2025/12/04 - FD (Part 1)",
+  "url": "https://vimeo.com/1142314421",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 12925,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12924.4,
+    "segment_count": 4077,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - FD (Part 1) - vimeo_1142314421\\2025_12_04 - FD (Part 1) - vimeo_1142314421.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142314421",
+    "display_id": "1142314421",
+    "title": "2025/12/04 - FD (Part 1)",
+    "description": "Thursday 4 December 2025 | Foreign Affairs, Defence and Trade Committee\n\n2024/25 Annual review of the Ministry of Foreign Affairs and Trade\n\nHearing of evidence:\nSubmitter list:\n\nHon Todd McClay - Associate Minister of Foreign Affairs\n\nMinistry of Foreign Affairs and Trade\n\nBede Corry, Chief Executive and Secretary of Foreign Affairs and Trade\nTaha Macpherson, Deputy Chief Executive \u2013 Policy\nCecile Hillyer, Deputy Chief Executive \u2013 People and Operations Group\nVangelis Vitalis, Deputy Secretary Trade and Economic Group\nBernadette Cavanagh, Deputy Secretary Pacific and Development Group\nGrahame Morton, Deputy Secretary Americas and Asia Group\nVictoria Hallum, Deputy Secretary Multilateral and Legal Affairs Group\nPaula Wilson, Deputy Secretary Europe, Middle East & Africa and Australia Group\nWayne Verhoeven, Chief Financial Officer",
+    "webpage_url": "https://vimeo.com/1142314421",
+    "original_url": "https://vimeo.com/1142314421",
+    "upload_date": "20251203",
+    "timestamp": 1764805078,
+    "release_timestamp": 1764805091,
+    "duration": 12925,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091391707-a78ead935db40f68036294c0007e3972d5572eaa49b67fec0c790d83fafff0c1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269715542.vtt?expires=1778562385&sig=accb8b9dbde74e1f85253703699e2f5b3a71c0c9&download=auto_generated_captions.vtt"
+  }
+}

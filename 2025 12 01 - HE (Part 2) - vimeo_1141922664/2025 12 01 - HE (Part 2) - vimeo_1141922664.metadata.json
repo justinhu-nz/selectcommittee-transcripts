@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:03:16.984453+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141922664",
+  "title": "2025 12 01 - HE (Part 2)",
+  "url": "https://vimeo.com/1141922664",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 2915,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2914.26,
+    "segment_count": 1093,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 01 - HE (Part 2) - vimeo_1141922664\\2025 12 01 - HE (Part 2) - vimeo_1141922664.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141922664",
+    "display_id": "1141922664",
+    "title": "2025 12 01 - HE (Part 2)",
+    "description": "Monday 1 December 2025 | Health Committee\n\n2024/25 Annual review of the Pharmaceutical Management Agency (PHARMAC)\n\nPharmaceutical Management Agency\n\nNatalie McMurtry, Chief Executive\nHon Paula Bennett, Board Chair\nMargaret Wilsher, Board Member\nMichael Johnson, Director Strategy, Policy and Performance\nAdrienne Martin, Director Pharmaceuticals\nCatherine Epps, Director Medical Devices\nGraham Durston, Manager Finance\nOliver Whitehead, Team Leader Government Services\nMatthew McCrorie, Communications Team Leader",
+    "webpage_url": "https://vimeo.com/1141922664",
+    "original_url": "https://vimeo.com/1141922664",
+    "upload_date": "20251201",
+    "timestamp": 1764558037,
+    "release_timestamp": 1764558046,
+    "duration": 2915,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089832442-85d15c9d1d2506b8798fd1b28327c1f64d122cc8a9c2825cbf77248c465659d0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268596116.vtt?expires=1778562201&sig=6f10c85a555dbf3840a88eaeeaa29f5806d81ce9&download=auto_generated_captions.vtt"
+  }
+}

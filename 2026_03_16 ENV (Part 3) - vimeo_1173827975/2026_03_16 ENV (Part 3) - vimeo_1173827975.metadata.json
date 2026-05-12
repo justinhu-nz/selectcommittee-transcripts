@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:47.935297+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1173827975",
+  "title": "2026/03/16 ENV (Part 3)",
+  "url": "https://vimeo.com/1173827975",
+  "published_at": "20260315",
+  "published_display": "2026-03-15",
+  "duration_seconds": 3800,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3800.26,
+    "segment_count": 1100,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_16 ENV (Part 3) - vimeo_1173827975\\2026_03_16 ENV (Part 3) - vimeo_1173827975.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1173827975",
+    "display_id": "1173827975",
+    "title": "2026/03/16 ENV (Part 3)",
+    "description": "Monday, 16 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nTe Hunga Roia Maori o Aotearoa\nFederated Farmers\nTe Arawa Lakes Trust",
+    "webpage_url": "https://vimeo.com/1173827975",
+    "original_url": "https://vimeo.com/1173827975",
+    "upload_date": "20260315",
+    "timestamp": 1773618554,
+    "release_timestamp": 1773618562,
+    "duration": 3800,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2134277672-1ecd13c7880a8e59a69b26dbd3dd0a7e97be9d8dd4eeb6acf656e1bb4dea8c04-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288242309.vtt?expires=1778562532&sig=3bb4d3d01a44a327383a69f525d424a376a53d44&download=auto_generated_captions.vtt"
+  }
+}

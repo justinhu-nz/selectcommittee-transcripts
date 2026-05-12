@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:30.010564+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159451372",
+  "title": "2026/02/12 EDSI",
+  "url": "https://vimeo.com/1159451372",
+  "published_at": "20260211",
+  "published_display": "2026-02-11",
+  "duration_seconds": 2902,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2895.49,
+    "segment_count": 962,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_12 EDSI - vimeo_1159451372\\2026_02_12 EDSI - vimeo_1159451372.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159451372",
+    "display_id": "1159451372",
+    "title": "2026/02/12 EDSI",
+    "description": "Telecommunications and Other Matters Amendment Bill\n\nBrett Murphy\nRoy Menzies\nZoran Rakovic\nWayne Widdowson\nPaul Clark\nErika Whittome\nScott Barnett\nGlen Crowther",
+    "webpage_url": "https://vimeo.com/1159451372",
+    "original_url": "https://vimeo.com/1159451372",
+    "upload_date": "20260211",
+    "timestamp": 1770839995,
+    "release_timestamp": 1770840002,
+    "duration": 2902,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120628491-a2ce9afb18fe811363df665c8c854e649735b5705c13f6daf91f97565976336f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282247014.vtt?expires=1778562694&sig=683ce7b045f857a99ee01f39ad0bebace5508a7f&download=auto_generated_captions.vtt"
+  }
+}

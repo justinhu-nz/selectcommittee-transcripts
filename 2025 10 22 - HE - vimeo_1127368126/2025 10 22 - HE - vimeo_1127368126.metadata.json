@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:04:04.975890+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127368126",
+  "title": "2025 10 22 - HE",
+  "url": "https://vimeo.com/1127368126",
+  "published_at": "20251021",
+  "published_display": "2025-10-21",
+  "duration_seconds": 2271,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2270.82,
+    "segment_count": 852,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 22 - HE - vimeo_1127368126\\2025 10 22 - HE - vimeo_1127368126.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127368126",
+    "display_id": "1127368126",
+    "title": "2025 10 22 - HE",
+    "description": "22 October 2025 | Health Committee\n\nPetition of Kathleen Walsh: Urgently find obstetric specialists for maternity services at Whakat\u0101ne Hospital\nHealth NZ\n\tKate Grimwade, Te Hauora a Toi Chief Medical Officer\n\tCath Cronin, Executive Regional Director Te Manawa Taki - Midland Region\n\nBriefing on assisted dying\nDr. Jo Scott-Jones (some audio missing due to technical error)\n\nPetition of Fluoride Free New Zealand: Stop water fluoridation\nMinistry of Health\n\tDr Richard Jaine, Deputy Director, Public Health\n\tRiana Clark, Clinical Chief Advisor, Oral Health\n\tMark Ayson, Principal Advisor, Public Health Agency\n\nPetition of Lisa Er: Halt the Gene Technology Bill and set up a Commission of Inquiry\nLisa Er",
+    "webpage_url": "https://vimeo.com/1127368126",
+    "original_url": "https://vimeo.com/1127368126",
+    "upload_date": "20251021",
+    "timestamp": 1761080615,
+    "release_timestamp": 1761080629,
+    "duration": 2271,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073665064-357ba3028b8302b122a1deb63e3f4f20dd79bcc27b6ea5f31a71988d59ae7edb-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/261796791.vtt?expires=1778562249&sig=56ae93a51448f49f8636c6f7157de4ff4ec9c742&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:20.247983+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142758015",
+  "title": "2025 12 10 FEC",
+  "url": "https://vimeo.com/1142758015",
+  "published_at": "20251209",
+  "published_display": "2025-12-09",
+  "duration_seconds": 2534,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2534.23,
+    "segment_count": 852,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 10 FEC - vimeo_1142758015\\2025 12 10 FEC - vimeo_1142758015.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142758015",
+    "display_id": "1142758015",
+    "title": "2025 12 10 FEC",
+    "description": "Wednesday 10 December 2025 | Finance and Expenditure Committee\nInquiry into performance reporting and public accountability\nExternal Reporting Board\nJohn Kensington, Chairperson\nWendy Ventner, Chief Executive\nMichelle Lombaard, Director, Accounting Standards\nFinancial Markets Conduct Amendment Bill - Amendment Paper 446\nChartered Accountants Australia and New Zealand\nKaren McWilliams, Sustainability leader\nLydia Tsen, New Zealand Government Affairs leader\nChapman Tripp\nRoger Wallis, Partner\nFinancial Services Council\nAimie Hines, General Manager Financial Services Council",
+    "webpage_url": "https://vimeo.com/1142758015",
+    "original_url": "https://vimeo.com/1142758015",
+    "upload_date": "20251209",
+    "timestamp": 1765310520,
+    "release_timestamp": 1765310527,
+    "duration": 2534,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2093824638-72db9892cb3b31de764b1c808dbf706bb6ce062add15d58864bd7252724da2bb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271003858.vtt?expires=1778562504&sig=ee0448a0d881ab01da8f326c373d30887c22f1d8&download=auto_generated_captions.vtt"
+  }
+}

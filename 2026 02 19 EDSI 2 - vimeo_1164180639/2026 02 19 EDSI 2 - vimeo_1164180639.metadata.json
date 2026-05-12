@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:17.993833+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1164180639",
+  "title": "2026 02 19 EDSI 2",
+  "url": "https://vimeo.com/1164180639",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 8392,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8382.42,
+    "segment_count": 2929,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 19 EDSI 2 - vimeo_1164180639\\2026 02 19 EDSI 2 - vimeo_1164180639.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1164180639",
+    "display_id": "1164180639",
+    "title": "2026 02 19 EDSI 2",
+    "description": "Commerce (Promoting Competition and Other Matters) Amendment Bill\n\nBroadband and Internet New Zealand Limited (BAINZ)\nPete Bains\n\nBell Gully\nGlenn Shewan, Partner\nPenny Pasley, Special Counsel\nEmma Quigley, Senior Associate\n\nWebb Henderson\nSarah Keene, Partner\nAntonia Horrocks, Consultant\n\nEdward Willis\n\nHazlett Limited\nMelanie Brooks, Chief Executive Officer\n\nJohn Land\n\nMax Marshall\n\nMonopoly Watch\nTex Edwards\n\nNews Publishers' Association\nBrook Cameron, General Manager\n\nOffice of the Ombudsman\nMark Torley, Communications Manager\nJohn Allen, Chief Ombudsman\n\nChapman Tripp\nSimon Peart,\nLucy Cooper\n\nThe University of Sydney\nRob Nicholls, Senior Research Associate\n\nWaikato-Bay of Plenty Chicken Growers' Association\nAnna Ryan, Competition Law Barrister\n\nThe University of Sydney Business School\nLisa Asher, PhD Candidate\nCatherine Sutton-Brady, Associate Professor",
+    "webpage_url": "https://vimeo.com/1164180639",
+    "original_url": "https://vimeo.com/1164180639",
+    "upload_date": "20260218",
+    "timestamp": 1771455292,
+    "release_timestamp": 1771455304,
+    "duration": 8392,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123734350-fd47093def12322dd6bc20f46ea169924657e30066e1139ebcad28dd3b10cf0e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283496756.vtt?expires=1778562682&sig=6c9005d8d4022bff8e1235c7294a229f3cd62438&download=auto_generated_captions.vtt"
+  }
+}

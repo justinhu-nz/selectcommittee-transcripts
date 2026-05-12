@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:58.647699+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142680471",
+  "title": "2025/12/03 - GA [Part 3]",
+  "url": "https://vimeo.com/1142680471",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 5949,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5947.98,
+    "segment_count": 2264,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - GA [Part 3] - vimeo_1142680471\\2025_12_03 - GA [Part 3] - vimeo_1142680471.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142680471",
+    "display_id": "1142680471",
+    "title": "2025/12/03 - GA [Part 3]",
+    "description": "Wednesday 3 December 2025 | Governance and Administration Committee\n\n2024/25 Annual review of the National Emergency Management Agency\n\nHon Mark Mitchell, Minister for Emergency Management\n\nNational Emergency Management Agency\n- Dave Gawn, Chief Executive\n- Jenna Rogers, Deputy Chief Executive Strategic Enablement\n- Stef Michie, Deputy Chief Executive Assurance\n- Dwain Hendriksen, Acting Deputy Chief Executive Emergency Management\n- Stefan Weir, Chief of Staff\n- Ann Kilgour, Chief Advisor, Corporate Transition",
+    "webpage_url": "https://vimeo.com/1142680471",
+    "original_url": "https://vimeo.com/1142680471",
+    "upload_date": "20251203",
+    "timestamp": 1764734377,
+    "release_timestamp": 1764734384,
+    "duration": 5949,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091265125-1b620e025320d34633b7b56842e5cf4d18a090576eba6e4761ea9197e43c82f9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269247140.vtt?expires=1778562362&sig=55de2f3442d831752b36bf73ffb6dc5f7436aaaa&download=auto_generated_captions.vtt"
+  }
+}

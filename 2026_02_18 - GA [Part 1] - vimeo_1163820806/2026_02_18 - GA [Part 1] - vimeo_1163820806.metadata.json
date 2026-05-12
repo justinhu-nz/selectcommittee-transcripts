@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:08.483566+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163820806",
+  "title": "2026/02/18 - GA [Part 1]",
+  "url": "https://vimeo.com/1163820806",
+  "published_at": "20260217",
+  "published_display": "2026-02-17",
+  "duration_seconds": 2889,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2873.41,
+    "segment_count": 1093,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_18 - GA [Part 1] - vimeo_1163820806\\2026_02_18 - GA [Part 1] - vimeo_1163820806.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163820806",
+    "display_id": "1163820806",
+    "title": "2026/02/18 - GA [Part 1]",
+    "description": "Wednesday 18 February 2026 | Governance and Administration Committee\n\nEmergency Management Bill (No 2)\n\nHawke's Bay Civil Defence Emergency Management Group\n- Sophie Siers, Chair of Joint Committee\n- Shane Briggs, Director of Hawkes Bay Emergency Management, and Statutory role of Group Controller\n\nHawke's Bay Regional Council\n- Sophie Siers, Chair of Hawkes Bay Regional Council\n- Katrina Brunton, Group Manager Policy and Regulations\n\nHato Hone St John\n- Peter Bradley, Chief Executive\n- Doug Gallagher, General Manager, Ambulance Operations Integrated Operations Centre\n\nCanterbury Regional Council (Environment Canterbury)\n- Dr Deon Swiggs, Chair, Canterbury Regional Council\n- John Sunckell, Councillor, Canterbury Regional Council and Deputy Chair of the Canterbury Civil Defence Emergency Management Group Joint Committee",
+    "webpage_url": "https://vimeo.com/1163820806",
+    "original_url": "https://vimeo.com/1163820806",
+    "upload_date": "20260217",
+    "timestamp": 1771357932,
+    "release_timestamp": 1771357939,
+    "duration": 2889,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2126095263-e560877fe68c01fbe6b585ed915d7880050a23004e558dea7bb60e079bca81d5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283261995.vtt?expires=1778562313&sig=4e8aec69fdb7cb4ad646f1ee2c4d05ae4b9274a6&download=auto_generated_captions.vtt"
+  }
+}

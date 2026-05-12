@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:09:22.192950+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170482707",
+  "title": "2026/03/09 - ENV (Part 1 of 2)",
+  "url": "https://vimeo.com/1170482707",
+  "published_at": "20260308",
+  "published_display": "2026-03-08",
+  "duration_seconds": 16407,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 16392.08,
+    "segment_count": 5623,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_09 - ENV (Part 1 of 2) - vimeo_1170482707\\2026_03_09 - ENV (Part 1 of 2) - vimeo_1170482707.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170482707",
+    "display_id": "1170482707",
+    "title": "2026/03/09 - ENV (Part 1 of 2)",
+    "description": "Monday, 9th March 2026 | Environment Committee\n\nPlanning Bill; Natural Environment Bill\n\nHearing of evidence:\n\nNew Zealand Winegrowers\n\nBeca Limited\nAndrea Rickard, Managing Director NZ\nBryce Julyan, Senior Principal Planner\n\nNew Zealand Planning Institute\nAndrea Harris, Chair\nDavid Curtis, CEO\nEmily Grace, Chief Policy Officer\n\nTe R\u016bnanga o Toa Rangatira\nCallum Katene,\nRawiri Faulkner,\nAimee Bishop,\n\nAquaculture New Zealand\nSteph Hopkins, Policy Manager\nStewart Hawthorn,\nTeena Hale Pennington,\n\nCoromandel Marine Farmers Association\nNicole Zeier, Executive Officer\nChloe Bull,\n\nCanterbury Regional Council\nDr Deon Swiggs, Chair\nIaean Cranwell, Deputy Chair of the Canterbury Regional Council\nMegan McKay, Councillor\nOlivia Cook, Council officer\nPatrick Lindsay, Council officer\n\nHamilton City Council\nCouncillor Maria Huata, Chair of the Growth and Economic Development Committee\nDr Juliana Reu Junqueira, Unit Director \u2013 Urban and Spatial Planning Unit\nHannah Windle, Unit Director \u2013 Strategic Planning and Advocacy\n\nJ-Swap\n\nBay of Plenty Regional Council\nCouncillor Glenn Dougal, Deputy Chair\nCouncillor Te Whau, Chair of Komiti M\u0101ori\nKat Macmillan, Chair of the Strategy and Policy Committee\nStephen Lamb, Natural Resource Policy Manager\nAdele Hadfield, Strategy and Planning Manager\nElla Tennant, Consents Manager\n\nPort of Auckland\nAlistair Kirk, General Manager - Infrastructure\nJulie Wagener,\n\nBusinessNZ\nJohn Pask, Chief Economist\n\nWaikato Regional Airport Limited\nMark Morgan, CEO\nRobert Dol, Group GM Property and Infrastructure",
+    "webpage_url": "https://vimeo.com/1170482707",
+    "original_url": "https://vimeo.com/1170482707",
+    "upload_date": "20260308",
+    "timestamp": 1773012966,
+    "release_timestamp": 1773012982,
+    "duration": 16407,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2131589370-4186872efa20a530f0b243390605e9eb3d660d91ff4e14ca996437ba8507cce8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/286806065.vtt?expires=1778562566&sig=ce03005c160cd6ce375ecf2d776282ac2b161fe9&download=auto_generated_captions.vtt"
+  }
+}

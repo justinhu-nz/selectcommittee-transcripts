@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:10:45.540892+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159011255",
+  "title": "2026/02/09 - EW",
+  "url": "https://vimeo.com/1159011255",
+  "published_at": "20260209",
+  "published_display": "2026-02-09",
+  "duration_seconds": 10613,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10609.28,
+    "segment_count": 3218,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_09 - EW - vimeo_1159011255\\2026_02_09 - EW - vimeo_1159011255.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159011255",
+    "display_id": "1159011255",
+    "title": "2026/02/09 - EW",
+    "description": "Monday 9 February 2026 | Education and Workforce Committee\n\nEducation and Training (System Reform) Amendment Bill\n\nHearing of evidence:\n\nList of submitters:\n\nTe Runanga o Ngai Takoto\n\tMere Henry,\n\tDr Therese Ford-Cartwright\n\nPost Primary Teachers' Association Te Wehengarua, jointly with the PPTA Secondary Principals' Council of Aotearoa, PPTA Te Wehengarua - Te Huarahi Maori Motuhake, PPTA Te Wehengarua - Te Reo a Rohe, PPTA Te Wehengarua - Te Tiriti o Waitangi Komiti, & PPTA Te Wehengarua - Te Awa Kairangi Lower Hutt regional Committee\n\nWaitakere Area Principals Association\n\tNgaria Stephenson, President\n\nQuentin Abraham\n\nDavid Haynes\n\nEducation Outdoors New Zealand\n\tFiona McDonald, Chief Executive\n\nOffice of Early Childhood Education\n\tDr Sarah Alexander, Chief Advisor\n\nKarena Ngata\n\nVivienne Anderson\n\nCraig Atkinson\n\nRebekah Ripeka Lessels\n\nBruce Nicol\n\nTherese Ford\n\nJoanne Doyle\n\nAlastair Crawford\n\nNZEI Te Riu Roa & Kaupapa Marau Committee - Te Kahu Kiwi, NZEI Te Riu Roa\n\tRipeka Lessels, Manukura | National President\n\tStephanie Mills, Korimako Tangiata | National Secretary\n\tBarb Curran, National Executive Member/Curriculum Subcommittee, Primary Teacher\n\nLisa Steenhauer\n\nSusan Sandretto\n\nJodi ELLIS\n\nAnna Williams\u00a0\n\nTe Kura o Nga Puna Waiora, Newtown School\n\tNadia Abu Shanab,\n\tSian Smith",
+    "webpage_url": "https://vimeo.com/1159011255",
+    "original_url": "https://vimeo.com/1159011255",
+    "upload_date": "20260209",
+    "timestamp": 1770609917,
+    "release_timestamp": 1770609930,
+    "duration": 10613,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120663977-fe3c5aadf4abb721a000ca0f25554e3ddd529be0f2861da28c68ee12d4a70c9f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/281663596.vtt?expires=1778562649&sig=ad6829ae158d846005f5e39edf100b15708ff704&download=auto_generated_captions.vtt"
+  }
+}

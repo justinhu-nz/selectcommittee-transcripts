@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:58.826420+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135941603",
+  "title": "2025/12/02 - GA [Part 1]",
+  "url": "https://vimeo.com/1135941603",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 5624,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5615.93,
+    "segment_count": 2018,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - GA [Part 1] - vimeo_1135941603\\2025_12_02 - GA [Part 1] - vimeo_1135941603.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135941603",
+    "display_id": "1135941603",
+    "title": "2025/12/02 - GA [Part 1]",
+    "description": "Tuesday 2 December 2025 | Governance and Administration Committee\n\n2024/25 Annual review of the Office of the Clerk of the House of Representatives; 2024/25 Annual review of the Parliamentary Service; 2024/25 Annual review of the Office of the Ombudsman\n\n2024/25 Annual review of the Office of the Clerk of the House of Representatives; 2024/25 Annual review of the Parliamentary Service\n\nSpeaker of the House of Representatives, Rt Hon Gerry Brownlee\n\nOffice of the Clerk\n- Dr David Wilson, Clerk of the House of Representatives\n\nParliamentary Service\n- Rafael Gonzalez-Montero, Chief Executive\n\n2024/25 Annual review of the Office of the Ombudsman\n\nOffice of the Ombudsman\n- John Allen, Chief Ombudsman\n- Bridget Hewson, Deputy Ombudsman\n- Meaw-Fong Phang, CFO\n- Emma Leach, Senior Assistant Ombudsman",
+    "webpage_url": "https://vimeo.com/1135941603",
+    "original_url": "https://vimeo.com/1135941603",
+    "upload_date": "20251201",
+    "timestamp": 1764623632,
+    "release_timestamp": 1764623644,
+    "duration": 5624,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089908396-671c36090812ab4e6e16b9bc7c4004754c2712108121469dfceb04a8aee33892-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268789586.vtt?expires=1778563143&sig=900edc4fbe692e1a39168912fcef4e97ec74f6fd&download=auto_generated_captions.vtt"
+  }
+}

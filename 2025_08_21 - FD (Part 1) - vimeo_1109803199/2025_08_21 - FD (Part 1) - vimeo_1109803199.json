@@ -1,0 +1,5453 @@
+{
+  "language": "en-x-autogen",
+  "duration": 2784.16,
+  "segments": [
+    {
+      "start": 11.52,
+      "end": 11.78,
+      "text": "All right."
+    },
+    {
+      "start": 12.04,
+      "end": 13.26,
+      "text": "Good morning. Morning. Morning,"
+    },
+    {
+      "start": 13.62,
+      "end": 14.62,
+      "text": "Everyone. Welcome along"
+    },
+    {
+      "start": 14.62,
+      "end": 15.05,
+      "text": "to the committee."
+    },
+    {
+      "start": 15.05,
+      "end": 16.66,
+      "text": "Today, we are looking forward"
+    },
+    {
+      "start": 16.71,
+      "end": 20.7,
+      "text": "to today's hearing on the defense Major Projects report"
+    },
+    {
+      "start": 20.91,
+      "end": 22.09,
+      "text": "for 2024."
+    },
+    {
+      "start": 22.64,
+      "end": 24.66,
+      "text": "Um, we have half an hour sit down"
+    },
+    {
+      "start": 24.75,
+      "end": 25.86,
+      "text": "for this morning's discussion."
+    },
+    {
+      "start": 25.86,
+      "end": 27.86,
+      "text": "I'm sure there'll be plenty of questions from members,"
+    },
+    {
+      "start": 27.95,
+      "end": 30.98,
+      "text": "but we'd like to hand over to you both for initial comments"
+    },
+    {
+      "start": 31.32,
+      "end": 33.22,
+      "text": "and then we can delve into it. Thank you."
+    },
+    {
+      "start": 34.19,
+      "end": 35.94,
+      "text": "Thank you, um, for the opportunity"
+    },
+    {
+      "start": 35.99,
+      "end": 37.58,
+      "text": "to attend this oral hearing today"
+    },
+    {
+      "start": 37.63,
+      "end": 40.26,
+      "text": "for the defense Major projects Report 2024."
+    },
+    {
+      "start": 40.72,
+      "end": 42.05,
+      "text": "Uh, my name is Sarah Minson."
+    },
+    {
+      "start": 42.16,
+      "end": 44.45,
+      "text": "I'm the Defense Secretary Capability Delivery at"
+    },
+    {
+      "start": 44.45,
+      "end": 45.49,
+      "text": "the Ministry of Defense."
+    },
+    {
+      "start": 46.03,
+      "end": 49.49,
+      "text": "And with me today is the Defense Force Assistant Chief"
+    },
+    {
+      "start": 49.49,
+      "end": 50.73,
+      "text": "Capability, Bri Matt."
+    },
+    {
+      "start": 50.73,
+      "end": 55.09,
+      "text": "We, this is the 15th edition of the Major Projects Report."
+    },
+    {
+      "start": 55.48,
+      "end": 58.02,
+      "text": "The series was established to provide greater visibility"
+    },
+    {
+      "start": 58.2,
+      "end": 61.7,
+      "text": "and scrutiny of major defense acquisition projects."
+    },
+    {
+      "start": 62.31,
+      "end": 63.77,
+      "text": "And in the report you will see"
+    },
+    {
+      "start": 63.77,
+      "end": 66.69,
+      "text": "that we are reporting on projects across four domains."
+    },
+    {
+      "start": 66.69,
+      "end": 68.69,
+      "text": "So there's 12 projects across four domains."
+    },
+    {
+      "start": 69.02,
+      "end": 72.86,
+      "text": "Maritime, land, air, and information delivering new"
+    },
+    {
+      "start": 73.0,
+      "end": 75.66,
+      "text": "or upgraded capability remains vital to ensuring"
+    },
+    {
+      "start": 75.66,
+      "end": 77.89,
+      "text": "that defense can continue to deliver safe"
+    },
+    {
+      "start": 78.39,
+      "end": 80.81,
+      "text": "and effective safely and effectively to the level"
+    },
+    {
+      "start": 80.81,
+      "end": 83.22,
+      "text": "that the government requires, and that our allies"
+    },
+    {
+      "start": 83.31,
+      "end": 85.06,
+      "text": "and partners have come to expect."
+    },
+    {
+      "start": 86.19,
+      "end": 87.97,
+      "text": "The ongoing publication of this report"
+    },
+    {
+      "start": 88.58,
+      "end": 90.22,
+      "text": "demonstrates a commitment to transparency"
+    },
+    {
+      "start": 90.8,
+      "end": 94.02,
+      "text": "and assurance about defense managed projects."
+    },
+    {
+      "start": 94.72,
+      "end": 96.53,
+      "text": "I'd like to acknowledge the work of Audit New Zealand,"
+    },
+    {
+      "start": 96.67,
+      "end": 99.06,
+      "text": "who have provided independent, uh, reviews"
+    },
+    {
+      "start": 99.06,
+      "end": 100.5,
+      "text": "of these reports since 2019."
+    },
+    {
+      "start": 101.8,
+      "end": 104.97,
+      "text": "The projects in this report are part of an overall portfolio"
+    },
+    {
+      "start": 105.03,
+      "end": 106.3,
+      "text": "of around 6 billion worth"
+    },
+    {
+      "start": 106.3,
+      "end": 108.34,
+      "text": "of ministry led capability projects."
+    },
+    {
+      "start": 108.95,
+      "end": 110.94,
+      "text": "And this report focuses on the medium"
+    },
+    {
+      "start": 111.08,
+      "end": 113.17,
+      "text": "to high risk projects that we are delivering."
+    },
+    {
+      "start": 113.84,
+      "end": 116.41,
+      "text": "It includes $2.4 billion acquisition"
+    },
+    {
+      "start": 116.41,
+      "end": 117.73,
+      "text": "of the P eight Poseidon fleet"
+    },
+    {
+      "start": 117.73,
+      "end": 120.06,
+      "text": "and the associated training materials and systems"
+    },
+    {
+      "start": 120.16,
+      "end": 123.73,
+      "text": "and infrastructure, as well as the 1.5 billion replacement"
+    },
+    {
+      "start": 123.73,
+      "end": 126.81,
+      "text": "of the Hercules fleet and associated infrastructure"
+    },
+    {
+      "start": 126.88,
+      "end": 128.54,
+      "text": "and training systems."
+    },
+    {
+      "start": 129.38,
+      "end": 131.47,
+      "text": "Both of those large projects were delivered ahead"
+    },
+    {
+      "start": 131.47,
+      "end": 132.5,
+      "text": "of schedule and under budget."
+    },
+    {
+      "start": 133.16,
+      "end": 135.82,
+      "text": "And last week we were proud to celebrate the formal opening"
+    },
+    {
+      "start": 135.88,
+      "end": 138.26,
+      "text": "of the home of the p eights and number five squadron."
+    },
+    {
+      "start": 138.32,
+      "end": 142.81,
+      "text": "At IP alongside current projects, we are focused on"
+    },
+    {
+      "start": 142.81,
+      "end": 145.49,
+      "text": "what is required to deliver projects within the 2025"
+    },
+    {
+      "start": 145.49,
+      "end": 146.84,
+      "text": "defense capability plan."
+    },
+    {
+      "start": 147.43,
+      "end": 149.81,
+      "text": "The plan commitments of 12 billion over the next four"
+    },
+    {
+      "start": 149.81,
+      "end": 150.84,
+      "text": "years is significant."
+    },
+    {
+      "start": 151.78,
+      "end": 154.09,
+      "text": "We must deliver on time within budget"
+    },
+    {
+      "start": 154.19,
+      "end": 156.37,
+      "text": "and within scope, providing value for money,"
+    },
+    {
+      "start": 156.75,
+      "end": 158.84,
+      "text": "but also providing innovative thinking."
+    },
+    {
+      "start": 159.75,
+      "end": 162.25,
+      "text": "The operating model we use to deliver project delivery."
+    },
+    {
+      "start": 162.87,
+      "end": 166.12,
+      "text": "The cap, the Defense Capability Management system is a"
+    },
+    {
+      "start": 166.12,
+      "end": 168.84,
+      "text": "proven model that is scalable and resilient."
+    },
+    {
+      "start": 169.76,
+      "end": 172.25,
+      "text": "Clearly, our industry partners are a key part"
+    },
+    {
+      "start": 172.25,
+      "end": 174.22,
+      "text": "of successful delivery, and we look forward"
+    },
+    {
+      "start": 174.22,
+      "end": 176.85,
+      "text": "to reporting in future on the defense industry strategy"
+    },
+    {
+      "start": 177.12,
+      "end": 178.38,
+      "text": "that is in development and will"
+    },
+    {
+      "start": 178.38,
+      "end": 179.69,
+      "text": "be released in the next few months."
+    },
+    {
+      "start": 180.24,
+      "end": 182.44,
+      "text": "I'll now pass on to Brigette Western for smoking comments."
+    },
+    {
+      "start": 183.68,
+      "end": 185.76,
+      "text": "Koto, it's a pleasure to be here with you today"
+    },
+    {
+      "start": 185.78,
+      "end": 188.56,
+      "text": "to discuss the, uh, major defense capability projects."
+    },
+    {
+      "start": 189.26,
+      "end": 190.69,
+      "text": "The world remains an unstable"
+    },
+    {
+      "start": 190.71,
+      "end": 192.21,
+      "text": "and dangerous place, one"
+    },
+    {
+      "start": 192.21,
+      "end": 193.6,
+      "text": "where the rules based international order"
+    },
+    {
+      "start": 193.6,
+      "end": 196.28,
+      "text": "that we rely on New Zealand is constantly under threat."
+    },
+    {
+      "start": 197.16,
+      "end": 199.53,
+      "text": "This topic has been well covered in previous committees,"
+    },
+    {
+      "start": 199.53,
+      "end": 200.53,
+      "text": "so I won't dwell on it."
+    },
+    {
+      "start": 201.06,
+      "end": 202.16,
+      "text": "The major projects"
+    },
+    {
+      "start": 202.43,
+      "end": 204.72,
+      "text": "and indeed the Defense Capability Plan are designed"
+    },
+    {
+      "start": 204.72,
+      "end": 206.72,
+      "text": "to improve the New Zealand Defense Force's ability"
+    },
+    {
+      "start": 206.78,
+      "end": 208.37,
+      "text": "to understand partner"
+    },
+    {
+      "start": 208.55,
+      "end": 211.49,
+      "text": "and then act in response to the New Zealand security needs."
+    },
+    {
+      "start": 212.82,
+      "end": 215.49,
+      "text": "We in the N-Z-N-Z-D-F understand investments"
+    },
+    {
+      "start": 215.49,
+      "end": 217.65,
+      "text": "and military capability often come at the"
+    },
+    {
+      "start": 217.65,
+      "end": 218.72,
+      "text": "cost of other priorities."
+    },
+    {
+      "start": 219.38,
+      "end": 221.41,
+      "text": "We are well aware that it was our responsibility"
+    },
+    {
+      "start": 221.59,
+      "end": 224.72,
+      "text": "to turn major projects into productive military capabilities"
+    },
+    {
+      "start": 224.8,
+      "end": 226.2,
+      "text": "that serve New Zealand's needs."
+    },
+    {
+      "start": 227.12,
+      "end": 229.25,
+      "text": "This requires the integration of input such"
+    },
+    {
+      "start": 229.25,
+      "end": 232.72,
+      "text": "as infrastructure, workforce, information systems, and data,"
+    },
+    {
+      "start": 233.15,
+      "end": 236.2,
+      "text": "and key aspects of interop interoperability such"
+    },
+    {
+      "start": 236.2,
+      "end": 237.49,
+      "text": "as training and doctrine."
+    },
+    {
+      "start": 237.99,
+      "end": 239.44,
+      "text": "In doing so, we must continue"
+    },
+    {
+      "start": 239.44,
+      "end": 241.97,
+      "text": "to be rigorous in managing cost pressures and budget."
+    },
+    {
+      "start": 243.28,
+      "end": 245.46,
+      "text": "Due to the current global security situation,"
+    },
+    {
+      "start": 245.46,
+      "end": 247.78,
+      "text": "there is an imperative to deliver military capabilities"
+    },
+    {
+      "start": 248.0,
+      "end": 249.01,
+      "text": "whilst continuing"
+    },
+    {
+      "start": 249.01,
+      "end": 251.38,
+      "text": "to improve the New Zealand Defense Forces Preparedness"
+    },
+    {
+      "start": 251.59,
+      "end": 253.09,
+      "text": "and Readiness to operate."
+    },
+    {
+      "start": 253.19,
+      "end": 255.97,
+      "text": "Now, the NZD has maintaining its commitment"
+    },
+    {
+      "start": 255.97,
+      "end": 257.42,
+      "text": "to the rules based international order"
+    },
+    {
+      "start": 257.63,
+      "end": 258.98,
+      "text": "for ongoing operations"
+    },
+    {
+      "start": 259.31,
+      "end": 262.81,
+      "text": "to support the Ukraine in the Middle East and in North Asia."
+    },
+    {
+      "start": 263.56,
+      "end": 266.1,
+      "text": "The, at the same time, we are fielding new capabilities"
+    },
+    {
+      "start": 266.56,
+      "end": 268.01,
+      "text": "as we improve our interoperability"
+    },
+    {
+      "start": 268.19,
+      "end": 271.5,
+      "text": "and demonstrate intent to act within the Pacific"
+    },
+    {
+      "start": 271.56,
+      "end": 274.5,
+      "text": "to both our partners and to potential malign actors."
+    },
+    {
+      "start": 275.64,
+      "end": 279.47,
+      "text": "Recent examples include Thar's current deployment"
+    },
+    {
+      "start": 279.47,
+      "end": 281.87,
+      "text": "to the Middle East and the Indo-Pacific,"
+    },
+    {
+      "start": 282.08,
+      "end": 283.9,
+      "text": "and she returns with her crew this Sunday"
+    },
+    {
+      "start": 283.95,
+      "end": 287.14,
+      "text": "after seven months, deployed a significant deployment"
+    },
+    {
+      "start": 287.14,
+      "end": 288.58,
+      "text": "to excise Talisman Saber,"
+    },
+    {
+      "start": 288.6,
+      "end": 291.19,
+      "text": "which include new network enabled Army capabilities"
+    },
+    {
+      "start": 291.61,
+      "end": 293.67,
+      "text": "and our newly acquired Bushmaster vehicles."
+    },
+    {
+      "start": 294.25,
+      "end": 296.19,
+      "text": "The deployment of UNC crewed maritime systems"
+    },
+    {
+      "start": 296.28,
+      "end": 298.7,
+      "text": "to provide maritime domain awareness in Fiji,"
+    },
+    {
+      "start": 298.7,
+      "end": 300.14,
+      "text": "and that is ongoing as we speak."
+    },
+    {
+      "start": 300.69,
+      "end": 303.23,
+      "text": "And the recent use of p eights in North Asia"
+    },
+    {
+      "start": 303.23,
+      "end": 305.79,
+      "text": "and the southwest Pacific for maritime domain awareness"
+    },
+    {
+      "start": 306.12,
+      "end": 308.79,
+      "text": "and our new C one 30 js for meeting"
+    },
+    {
+      "start": 309.39,
+      "end": 311.02,
+      "text": "operations in the Antarctica."
+    },
+    {
+      "start": 311.1,
+      "end": 313.23,
+      "text": "That was well covered then."
+    },
+    {
+      "start": 313.43,
+      "end": 315.67,
+      "text": "NZDF is operating at a high tempo, has work"
+    },
+    {
+      "start": 315.67,
+      "end": 317.79,
+      "text": "to understand partner and then act while,"
+    },
+    {
+      "start": 317.92,
+      "end": 319.26,
+      "text": "while still say developing"
+    },
+    {
+      "start": 319.26,
+      "end": 321.19,
+      "text": "and delivering new capabilities guided"
+    },
+    {
+      "start": 321.2,
+      "end": 322.82,
+      "text": "by the defense capability plan."
+    },
+    {
+      "start": 323.2,
+      "end": 324.62,
+      "text": "Our people are making great progress,"
+    },
+    {
+      "start": 324.87,
+      "end": 326.38,
+      "text": "building their combat capability"
+    },
+    {
+      "start": 326.64,
+      "end": 328.55,
+      "text": "and a avoid by the government's commitment"
+    },
+    {
+      "start": 328.55,
+      "end": 329.99,
+      "text": "to invest in their ability"
+    },
+    {
+      "start": 330.05,
+      "end": 331.82,
+      "text": "to defend New Zealand and our interests."
+    },
+    {
+      "start": 332.28,
+      "end": 334.58,
+      "text": "We continue to operate with courage, commitment,"
+    },
+    {
+      "start": 334.77,
+      "end": 336.14,
+      "text": "comradeship, and integrity."
+    },
+    {
+      "start": 336.27,
+      "end": 337.27,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 338.68,
+      "end": 341.24,
+      "text": "Excellent. Thank you both for those introductory comments."
+    },
+    {
+      "start": 341.42,
+      "end": 343.56,
+      "text": "Um, happy to take questions from members just"
+    },
+    {
+      "start": 343.56,
+      "end": 345.6,
+      "text": "to confirm we are in our live session,"
+    },
+    {
+      "start": 347.42,
+      "end": 348.6,
+      "text": "uh, Tim Costley. Thanks,"
+    },
+    {
+      "start": 348.6,
+      "end": 349.07,
+      "text": "Mr. Chair."
+    },
+    {
+      "start": 349.1,
+      "end": 351.48,
+      "text": "Um, thanks for joining us. I do,"
+    },
+    {
+      "start": 351.48,
+      "end": 354.51,
+      "text": "We have the agility that we need to bring in"
+    },
+    {
+      "start": 355.15,
+      "end": 357.56,
+      "text": "emerging technology to upgrade systems."
+    },
+    {
+      "start": 358.19,
+      "end": 359.69,
+      "text": "And I'm looking at, you know,"
+    },
+    {
+      "start": 359.69,
+      "end": 363.17,
+      "text": "when we spend 44 months in the capability definition phase"
+    },
+    {
+      "start": 363.17,
+      "end": 364.93,
+      "text": "for frigate sustainment, uh,"
+    },
+    {
+      "start": 364.93,
+      "end": 367.56,
+      "text": "when we spent 55 months in capability definition"
+    },
+    {
+      "start": 367.7,
+      "end": 369.25,
+      "text": "for protected mobility,"
+    },
+    {
+      "start": 370.55,
+      "end": 373.88,
+      "text": "The next War isn't gonna wait 45, 55 months for us"
+    },
+    {
+      "start": 373.88,
+      "end": 376.52,
+      "text": "to decide, um, just to get to that stage."
+    },
+    {
+      "start": 376.52,
+      "end": 378.25,
+      "text": "And, and, and maybe we can talk about some"
+    },
+    {
+      "start": 378.25,
+      "end": 379.81,
+      "text": "of the timelines on projects like, um,"
+    },
+    {
+      "start": 379.81,
+      "end": 381.12,
+      "text": "network enabled Army in a minute."
+    },
+    {
+      "start": 381.31,
+      "end": 383.37,
+      "text": "But, but firstly, just add a big picture."
+    },
+    {
+      "start": 384.04,
+      "end": 385.25,
+      "text": "Have we got the settings right?"
+    },
+    {
+      "start": 385.38,
+      "end": 387.52,
+      "text": "Is is the big picture where it needs to be to,"
+    },
+    {
+      "start": 388.81,
+      "end": 390.7,
+      "text": "to bring capabilities to New Zealand? Yeah,"
+    },
+    {
+      "start": 390.75,
+      "end": 392.26,
+      "text": "I can, um, I'll make some comments"
+    },
+    {
+      "start": 392.26,
+      "end": 394.19,
+      "text": "and I'll hand over to, um, Bridy Western."
+    },
+    {
+      "start": 395.12,
+      "end": 399.47,
+      "text": "Um, we have been focusing very hard on our, um,"
+    },
+    {
+      "start": 399.49,
+      "end": 401.23,
+      "text": "on those processes that you refer to,"
+    },
+    {
+      "start": 401.25,
+      "end": 403.31,
+      "text": "to get the capability into service faster."
+    },
+    {
+      "start": 403.83,
+      "end": 406.31,
+      "text": "We've been working with treasury to make sure"
+    },
+    {
+      "start": 406.31,
+      "end": 407.87,
+      "text": "that we understand and can refine"
+    },
+    {
+      "start": 407.87,
+      "end": 408.9,
+      "text": "the better business case process."
+    },
+    {
+      "start": 409.49,
+      "end": 412.62,
+      "text": "And as an example of where we have, um, proven"
+    },
+    {
+      "start": 412.62,
+      "end": 414.38,
+      "text": "that we can do things faster is"
+    },
+    {
+      "start": 414.38,
+      "end": 418.31,
+      "text": "with the recent 7, 5 7, uh, procurement process."
+    },
+    {
+      "start": 418.52,
+      "end": 421.11,
+      "text": "We put an indicative business case up for government last"
+    },
+    {
+      "start": 421.79,
+      "end": 424.06,
+      "text": "September, a detailed business case in December,"
+    },
+    {
+      "start": 424.69,
+      "end": 427.26,
+      "text": "and a, uh, implementation business case,"
+    },
+    {
+      "start": 427.85,
+      "end": 429.11,
+      "text": "um, in the middle of this year."
+    },
+    {
+      "start": 429.61,
+      "end": 432.46,
+      "text": "So we, we can prove that we can go faster."
+    },
+    {
+      "start": 433.05,
+      "end": 435.79,
+      "text": "Um, so I think we do have the agility that we need."
+    },
+    {
+      "start": 435.85,
+      "end": 439.02,
+      "text": "The capability management system is, um, flexible"
+    },
+    {
+      "start": 439.05,
+      "end": 441.35,
+      "text": "and we are continually making improvements to that"
+    },
+    {
+      "start": 441.35,
+      "end": 442.38,
+      "text": "so that we can go faster."
+    },
+    {
+      "start": 442.96,
+      "end": 444.55,
+      "text": "Um, so I'll hand over to Matt,"
+    },
+    {
+      "start": 444.55,
+      "end": 446.02,
+      "text": "but what I take your point, Tim,"
+    },
+    {
+      "start": 446.02,
+      "end": 448.43,
+      "text": "but we are definitely focused on doing things a lot faster."
+    },
+    {
+      "start": 449.06,
+      "end": 451.5,
+      "text": "Yeah, I mean, I, I think it's a very salient question."
+    },
+    {
+      "start": 451.64,
+      "end": 454.9,
+      "text": "Um, you know, the emergence of new threats is, you know,"
+    },
+    {
+      "start": 454.97,
+      "end": 456.38,
+      "text": "is happening quickly mm-hmm."
+    },
+    {
+      "start": 456.47,
+      "end": 458.06,
+      "text": "And faster than, um,"
+    },
+    {
+      "start": 458.63,
+      "end": 461.47,
+      "text": "often traditional capability development has occurred."
+    },
+    {
+      "start": 461.76,
+      "end": 464.11,
+      "text": "Um, and it's a challenge all of our partners face."
+    },
+    {
+      "start": 464.44,
+      "end": 468.19,
+      "text": "Um, what we are experiencing is, um,"
+    },
+    {
+      "start": 468.72,
+      "end": 472.58,
+      "text": "there is a lot of pressure on the, um, supply chain"
+    },
+    {
+      "start": 472.76,
+      "end": 476.9,
+      "text": "and, um, industry to d to D, you know, deploy new, um,"
+    },
+    {
+      "start": 477.37,
+      "end": 478.58,
+      "text": "and existing capabilities"
+    },
+    {
+      "start": 478.85,
+      "end": 480.62,
+      "text": "and getting into the queues really important"
+    },
+    {
+      "start": 480.92,
+      "end": 483.11,
+      "text": "where we are actually experiencing delays"
+    },
+    {
+      "start": 483.11,
+      "end": 484.79,
+      "text": "where we've done all the work we need to do,"
+    },
+    {
+      "start": 484.85,
+      "end": 486.14,
+      "text": "but then we've got weight"
+    },
+    {
+      "start": 486.4,
+      "end": 489.87,
+      "text": "to the production line can produce, um, elements for us."
+    },
+    {
+      "start": 490.29,
+      "end": 493.55,
+      "text": "Um, in terms of high tech, um,"
+    },
+    {
+      "start": 494.5,
+      "end": 497.9,
+      "text": "capabilities, we, we are looking at new ways of operating"
+    },
+    {
+      "start": 497.9,
+      "end": 500.7,
+      "text": "and within the defense capability plan there is the, uh,"
+    },
+    {
+      "start": 500.7,
+      "end": 502.62,
+      "text": "tech accelerator, which is a, um,"
+    },
+    {
+      "start": 502.96,
+      "end": 505.19,
+      "text": "we are developing the operating model for that now,"
+    },
+    {
+      "start": 505.31,
+      "end": 508.5,
+      "text": "which will be a focused on New Zealand, um,"
+    },
+    {
+      "start": 509.1,
+      "end": 512.02,
+      "text": "high tech industry and how we can take dual use"
+    },
+    {
+      "start": 512.45,
+      "end": 514.54,
+      "text": "or new, um, initiatives"
+    },
+    {
+      "start": 514.61,
+      "end": 516.59,
+      "text": "and field them quickly within the military"
+    },
+    {
+      "start": 516.8,
+      "end": 519.47,
+      "text": "or help their company, uh, prepare it for, um,"
+    },
+    {
+      "start": 519.64,
+      "end": 521.47,
+      "text": "use in another military and for export."
+    },
+    {
+      "start": 521.85,
+      "end": 525.14,
+      "text": "Um, we are experimenting with new technologies"
+    },
+    {
+      "start": 525.16,
+      "end": 526.59,
+      "text": "as we speak in the, um,"
+    },
+    {
+      "start": 526.73,
+      "end": 529.95,
+      "text": "UNC crewed systems we're using in Fiji at the moment have"
+    },
+    {
+      "start": 529.95,
+      "end": 532.3,
+      "text": "come to, into use very quickly."
+    },
+    {
+      "start": 532.8,
+      "end": 534.14,
+      "text": "Um, they haven't been"
+    },
+    {
+      "start": 534.14,
+      "end": 536.17,
+      "text": "through the full capability development cycle,"
+    },
+    {
+      "start": 536.5,
+      "end": 538.4,
+      "text": "but we are using them to affect now."
+    },
+    {
+      "start": 538.79,
+      "end": 540.16,
+      "text": "Yeah, and I guess that's, that,"
+    },
+    {
+      "start": 540.16,
+      "end": 541.25,
+      "text": "that's maybe a good example."
+    },
+    {
+      "start": 541.27,
+      "end": 543.0,
+      "text": "Like I hear reports that in Ukraine,"
+    },
+    {
+      "start": 543.03,
+      "end": 545.97,
+      "text": "unit commanders are empowered to make capability decisions,"
+    },
+    {
+      "start": 546.39,
+      "end": 549.0,
+      "text": "acquire, uh, you know, that sort of unmanned systems."
+    },
+    {
+      "start": 549.0,
+      "end": 550.21,
+      "text": "Yeah, it's not a new frigate."
+    },
+    {
+      "start": 550.62,
+      "end": 552.92,
+      "text": "Um, but they need that agility."
+    },
+    {
+      "start": 553.02,
+      "end": 554.97,
+      "text": "And if we look at, at every conflict"
+    },
+    {
+      "start": 554.97,
+      "end": 557.73,
+      "text": "through history about think of World War ii, the, the rate"
+    },
+    {
+      "start": 557.73,
+      "end": 559.68,
+      "text": "of change and the speed that you need to,"
+    },
+    {
+      "start": 559.99,
+      "end": 563.4,
+      "text": "to introduce capability, are we stuck in a, uh,"
+    },
+    {
+      "start": 563.73,
+      "end": 566.57,
+      "text": "a peace time mentality where there is time for that wheel"
+    },
+    {
+      "start": 566.66,
+      "end": 567.85,
+      "text": "to, to turn the,"
+    },
+    {
+      "start": 567.92,
+      "end": 570.85,
+      "text": "I think there's a real, I mean, the Ukraine example is an"
+    },
+    {
+      "start": 571.09,
+      "end": 572.92,
+      "text": "interesting one, and it's a real challenge of course,"
+    },
+    {
+      "start": 572.92,
+      "end": 575.88,
+      "text": "when you are, when you've got something more than an"
+    },
+    {
+      "start": 575.88,
+      "end": 578.64,
+      "text": "existential threat and, you know, natural mobilization,"
+    },
+    {
+      "start": 578.83,
+      "end": 580.16,
+      "text": "you, you do move faster."
+    },
+    {
+      "start": 580.78,
+      "end": 584.16,
+      "text": "Um, as we bring in new, uh, equipments"
+    },
+    {
+      "start": 584.16,
+      "end": 586.92,
+      "text": "and technologies that we still have a absolute"
+    },
+    {
+      "start": 586.92,
+      "end": 589.8,
+      "text": "responsibility around training and safety and assurance"
+    },
+    {
+      "start": 589.95,
+      "end": 592.21,
+      "text": "and, um, and how we spend government money."
+    },
+    {
+      "start": 592.26,
+      "end": 593.4,
+      "text": "So we have to be very sure"
+    },
+    {
+      "start": 593.4,
+      "end": 595.57,
+      "text": "that we are borrowing the right things at the right time,"
+    },
+    {
+      "start": 595.74,
+      "end": 598.28,
+      "text": "which does tend to move the delegations"
+    },
+    {
+      "start": 598.35,
+      "end": 600.88,
+      "text": "for experimentation higher within the organization,"
+    },
+    {
+      "start": 601.04,
+      "end": 602.16,
+      "text": "I think, which is fair."
+    },
+    {
+      "start": 602.47,
+      "end": 604.8,
+      "text": "Um, we are working with our partners"
+    },
+    {
+      "start": 604.8,
+      "end": 607.09,
+      "text": "and allies on how we can do things quicker, um,"
+    },
+    {
+      "start": 607.54,
+      "end": 612.21,
+      "text": "and how we share, um, technological advancements,"
+    },
+    {
+      "start": 612.21,
+      "end": 614.09,
+      "text": "experimentation, uh, together"
+    },
+    {
+      "start": 614.11,
+      "end": 615.57,
+      "text": "so we are not replicating other people."
+    },
+    {
+      "start": 615.9,
+      "end": 618.09,
+      "text": "And, and just if I can a final one on that and,"
+    },
+    {
+      "start": 618.09,
+      "end": 620.92,
+      "text": "and I take the point you made about the 7, 5 7"
+    },
+    {
+      "start": 621.14,
+      "end": 622.68,
+      "text": "as a recent project is a good"
+    },
+    {
+      "start": 622.68,
+      "end": 623.88,
+      "text": "example of moving a lot quicker."
+    },
+    {
+      "start": 624.27,
+      "end": 626.85,
+      "text": "What about in terms of the implementation phase?"
+    },
+    {
+      "start": 626.87,
+      "end": 629.33,
+      "text": "And, and, and I could look through a range of projects from,"
+    },
+    {
+      "start": 630.42,
+      "end": 633.12,
+      "text": "but if I look at Network enabled Army, um,"
+    },
+    {
+      "start": 633.12,
+      "end": 634.64,
+      "text": "which started in 2015"
+    },
+    {
+      "start": 635.3,
+      "end": 637.8,
+      "text": "and has had a co been rebaselined at least twice"
+    },
+    {
+      "start": 637.8,
+      "end": 638.88,
+      "text": "between 2019"
+    },
+    {
+      "start": 638.9,
+      "end": 642.12,
+      "text": "and 2023, it looks like in that period, significant delays."
+    },
+    {
+      "start": 642.75,
+      "end": 644.09,
+      "text": "Um, and, and"
+    },
+    {
+      "start": 644.09,
+      "end": 646.52,
+      "text": "because this report's a year old, it's a bit hard to tell,"
+    },
+    {
+      "start": 646.66,
+      "end": 651.45,
+      "text": "but, um, it seems like a very long implementation timeframe"
+    },
+    {
+      "start": 651.5,
+      "end": 654.64,
+      "text": "and we are not even at full operational release yet."
+    },
+    {
+      "start": 654.64,
+      "end": 656.0,
+      "text": "And the same for protected mobility."
+    },
+    {
+      "start": 656.18,
+      "end": 657.92,
+      "text": "So is there an update on that"
+    },
+    {
+      "start": 658.02,
+      "end": 659.45,
+      "text": "or are we moving with urgency"
+    },
+    {
+      "start": 659.45,
+      "end": 661.04,
+      "text": "to get them fully operational? Um,"
+    },
+    {
+      "start": 661.04,
+      "end": 662.92,
+      "text": "Yeah, I'll make a general comment then maybe Matt can talk"
+    },
+    {
+      "start": 662.92,
+      "end": 664.8,
+      "text": "more specifically about the complexity of"
+    },
+    {
+      "start": 664.85,
+      "end": 666.04,
+      "text": "what NEA is trying to do."
+    },
+    {
+      "start": 666.62,
+      "end": 669.52,
+      "text": "Um, we are very focused on getting, as soon"
+    },
+    {
+      "start": 669.52,
+      "end": 671.21,
+      "text": "as we've got the capability, getting it introduced"
+    },
+    {
+      "start": 671.26,
+      "end": 672.49,
+      "text": "as quickly as possible."
+    },
+    {
+      "start": 672.49,
+      "end": 675.21,
+      "text": "With the recent, um, purchases of the C one thirties"
+    },
+    {
+      "start": 675.42,
+      "end": 678.33,
+      "text": "and the P eights, we had those aircraft introduced into"
+    },
+    {
+      "start": 678.33,
+      "end": 680.57,
+      "text": "service and fully used by the NCDF, um,"
+    },
+    {
+      "start": 680.6,
+      "end": 683.85,
+      "text": "very quickly within months of the aircraft arriving for,"
+    },
+    {
+      "start": 683.95,
+      "end": 685.64,
+      "text": "um, to be able to be used."
+    },
+    {
+      "start": 685.99,
+      "end": 689.64,
+      "text": "So we are focused, um, on that, um,"
+    },
+    {
+      "start": 690.65,
+      "end": 691.73,
+      "text": "protective mobility."
+    },
+    {
+      "start": 691.75,
+      "end": 694.12,
+      "text": "So the Bush Masters, we've received them, um,"
+    },
+    {
+      "start": 694.65,
+      "end": 696.4,
+      "text": "we've put comms into them"
+    },
+    {
+      "start": 696.4,
+      "end": 698.33,
+      "text": "and they were deployed recently into T and Saber."
+    },
+    {
+      "start": 698.5,
+      "end": 700.88,
+      "text": "So while there is a, um, as I'm sure you're aware,"
+    },
+    {
+      "start": 700.88,
+      "end": 702.52,
+      "text": "there is a project to put, um,"
+    },
+    {
+      "start": 702.55,
+      "end": 704.68,
+      "text": "more high tech comms into those vehicles."
+    },
+    {
+      "start": 704.68,
+      "end": 707.09,
+      "text": "They are being used in an operational sense already."
+    },
+    {
+      "start": 707.59,
+      "end": 710.97,
+      "text": "So we are trying to phase the release of operation"
+    },
+    {
+      "start": 711.07,
+      "end": 712.92,
+      "text": "of these capabilities so that,"
+    },
+    {
+      "start": 712.94,
+      "end": 714.8,
+      "text": "that we can get them out into the hands of the war fighter"
+    },
+    {
+      "start": 714.87,
+      "end": 717.49,
+      "text": "as soon as possible while we finish off the remainder"
+    },
+    {
+      "start": 717.54,
+      "end": 720.25,
+      "text": "of the, um, trading and checks and balances."
+    },
+    {
+      "start": 720.59,
+      "end": 722.49,
+      "text": "But NEA is, um, I'll get Matt"
+    },
+    {
+      "start": 722.49,
+      "end": 723.68,
+      "text": "to talk a little bit more about NEA"
+    },
+    {
+      "start": 723.85,
+      "end": 725.37,
+      "text": "'cause it's not just like by the ship."
+    },
+    {
+      "start": 725.96,
+      "end": 728.8,
+      "text": "Yeah. Um, there's a number of aspects I'd like"
+    },
+    {
+      "start": 728.8,
+      "end": 730.4,
+      "text": "to highlight with the network enabled Army."
+    },
+    {
+      "start": 730.75,
+      "end": 733.68,
+      "text": "Um, one is that, uh, MOD"
+    },
+    {
+      "start": 733.68,
+      "end": 736.61,
+      "text": "and NZD did make some prioritization decisions, um,"
+    },
+    {
+      "start": 737.08,
+      "end": 739.25,
+      "text": "some years ago for good reason, which meant"
+    },
+    {
+      "start": 739.25,
+      "end": 742.85,
+      "text": "that NEA wasn't resourced as quickly as it might have been,"
+    },
+    {
+      "start": 743.35,
+      "end": 747.85,
+      "text": "um, as we've tried to, um, NEA as a, you know,"
+    },
+    {
+      "start": 747.85,
+      "end": 750.92,
+      "text": "delivers a mesh to network to the army of communications,"
+    },
+    {
+      "start": 750.92,
+      "end": 753.33,
+      "text": "command and control and, um, reconnaissance"
+    },
+    {
+      "start": 753.33,
+      "end": 758.21,
+      "text": "and surveillance, um, assets, um, as it's been, uh,"
+    },
+    {
+      "start": 758.64,
+      "end": 760.28,
+      "text": "I guess slowed down a little."
+    },
+    {
+      "start": 760.71,
+      "end": 762.12,
+      "text": "Um, the situation's changed."
+    },
+    {
+      "start": 762.22,
+      "end": 765.16,
+      "text": "We've had to, we've gone from a emphasis on quite static"
+    },
+    {
+      "start": 765.2,
+      "end": 766.88,
+      "text": "command and control, so, you know,"
+    },
+    {
+      "start": 767.33,
+      "end": 768.92,
+      "text": "a command post that sat on the ground."
+    },
+    {
+      "start": 769.35,
+      "end": 773.04,
+      "text": "Um, now looking at the Ukraine example, if you emit"
+    },
+    {
+      "start": 773.11,
+      "end": 774.25,
+      "text": "and don't move, if you die."
+    },
+    {
+      "start": 774.35,
+      "end": 777.21,
+      "text": "So, um, you know, we've had to go to more mobile command"
+    },
+    {
+      "start": 777.21,
+      "end": 779.0,
+      "text": "and control, uh, situations."
+    },
+    {
+      "start": 779.18,
+      "end": 780.88,
+      "text": "At the same time the technologies have"
+    },
+    {
+      "start": 780.88,
+      "end": 782.09,
+      "text": "changed, so we've had to adapt."
+    },
+    {
+      "start": 782.54,
+      "end": 785.45,
+      "text": "Um, we're at, we're in a good place to move forward now."
+    },
+    {
+      "start": 785.7,
+      "end": 787.8,
+      "text": "We've proven the network works."
+    },
+    {
+      "start": 788.35,
+      "end": 790.52,
+      "text": "Um, our special forces are fully equipped"
+    },
+    {
+      "start": 790.52,
+      "end": 793.16,
+      "text": "with network enabled Army capability, um,"
+    },
+    {
+      "start": 793.35,
+      "end": 795.64,
+      "text": "and our most deployable, uh,"
+    },
+    {
+      "start": 795.64,
+      "end": 798.09,
+      "text": "conventional land forces are equipped with it as well."
+    },
+    {
+      "start": 798.83,
+      "end": 801.16,
+      "text": "Uh, on Taliman Sabre, we utilized the, um,"
+    },
+    {
+      "start": 801.42,
+      "end": 802.85,
+      "text": "the drones for surveillance."
+    },
+    {
+      "start": 802.96,
+      "end": 804.21,
+      "text": "They were very successful"
+    },
+    {
+      "start": 804.47,
+      "end": 806.88,
+      "text": "and, um, we had good data connectivity."
+    },
+    {
+      "start": 807.38,
+      "end": 811.16,
+      "text": "Um, it's interesting, the Australian army was in front"
+    },
+    {
+      "start": 811.16,
+      "end": 813.68,
+      "text": "of us on this journey and they've had to change technologies"
+    },
+    {
+      "start": 814.02,
+      "end": 816.28,
+      "text": "and now they've basically dropped behind."
+    },
+    {
+      "start": 816.75,
+      "end": 819.76,
+      "text": "Um, the next, uh, intended next step"
+    },
+    {
+      "start": 819.76,
+      "end": 821.85,
+      "text": "with network enabled army is now to populate the army"
+    },
+    {
+      "start": 821.96,
+      "end": 824.09,
+      "text": "with the radios they require."
+    },
+    {
+      "start": 824.23,
+      "end": 826.37,
+      "text": "So it goes across the force at the moment."
+    },
+    {
+      "start": 826.41,
+      "end": 828.37,
+      "text": "We've got small parts of the force using it,"
+    },
+    {
+      "start": 828.5,
+      "end": 830.73,
+      "text": "and I think that will be a step change for the army."
+    },
+    {
+      "start": 831.36,
+      "end": 833.09,
+      "text": "Okay. Supplementary Financiary Walters,"
+    },
+    {
+      "start": 834.38,
+      "end": 835.38,
+      "text": "Thank you. Thank"
+    },
+    {
+      "start": 835.38,
+      "end": 837.33,
+      "text": "you. And thank you for being with us today"
+    },
+    {
+      "start": 837.35,
+      "end": 839.37,
+      "text": "and for the work of the broader team in terms"
+    },
+    {
+      "start": 839.37,
+      "end": 843.0,
+      "text": "of interoperability and artificial intelligence."
+    },
+    {
+      "start": 843.54,
+      "end": 845.12,
+      "text": "I'm just curious about, um,"
+    },
+    {
+      "start": 845.15,
+      "end": 848.4,
+      "text": "what the current approach is in terms of the development"
+    },
+    {
+      "start": 848.42,
+      "end": 852.64,
+      "text": "of autonomous technology, um, just given that, it appears"
+    },
+    {
+      "start": 852.64,
+      "end": 855.12,
+      "text": "to me that there are quite different standards being,"
+    },
+    {
+      "start": 855.26,
+      "end": 858.21,
+      "text": "but there's at least no agreement internationally in terms"
+    },
+    {
+      "start": 858.21,
+      "end": 860.68,
+      "text": "of what the appropriate ethical criteria are."
+    },
+    {
+      "start": 861.99,
+      "end": 864.84,
+      "text": "So, um, we need to develop"
+    },
+    {
+      "start": 865.25,
+      "end": 868.91,
+      "text": "and confirm New Zealand's policy around au autonomous,"
+    },
+    {
+      "start": 869.62,
+      "end": 871.39,
+      "text": "um, technologies."
+    },
+    {
+      "start": 871.86,
+      "end": 876.67,
+      "text": "Um, obviously, um, some AI tools are perfectly, um,"
+    },
+    {
+      "start": 877.22,
+      "end": 879.48,
+      "text": "you know, I'll use the word benign, you know,"
+    },
+    {
+      "start": 879.54,
+      "end": 880.84,
+      "text": "running your organization,"
+    },
+    {
+      "start": 881.22,
+      "end": 884.96,
+      "text": "but there is potential to use AI in a, in a manner that, uh,"
+    },
+    {
+      "start": 885.25,
+      "end": 887.96,
+      "text": "I'm not sure where to ethically but be comfortable with."
+    },
+    {
+      "start": 888.22,
+      "end": 889.72,
+      "text": "So there's a piece of work around that."
+    },
+    {
+      "start": 890.22,
+      "end": 894.0,
+      "text": "Um, some of the coming upgrades that we are planning for,"
+    },
+    {
+      "start": 894.26,
+      "end": 897.57,
+      "text": "um, some of our systems would utilize AI for, um,"
+    },
+    {
+      "start": 898.08,
+      "end": 899.88,
+      "text": "sorting intelligence, uh,"
+    },
+    {
+      "start": 900.02,
+      "end": 903.37,
+      "text": "and information making sense of a large volume, um,"
+    },
+    {
+      "start": 904.3,
+      "end": 907.4,
+      "text": "and then creating, uh, intelligence that we can use quickly."
+    },
+    {
+      "start": 907.66,
+      "end": 910.09,
+      "text": "And I think, um, that along with"
+    },
+    {
+      "start": 910.26,
+      "end": 912.61,
+      "text": "how we understand our supply chain, um,"
+    },
+    {
+      "start": 912.99,
+      "end": 914.45,
+      "text": "and other aspects are definitely things"
+    },
+    {
+      "start": 914.47,
+      "end": 915.61,
+      "text": "we need to move forward into."
+    },
+    {
+      "start": 915.77,
+      "end": 920.37,
+      "text": "There are some issues we need to, um, solve around, um,"
+    },
+    {
+      "start": 921.37,
+      "end": 923.49,
+      "text": "security of our information networks"
+    },
+    {
+      "start": 923.49,
+      "end": 924.97,
+      "text": "and how the AI works from that."
+    },
+    {
+      "start": 925.3,
+      "end": 929.49,
+      "text": "Um, but we are, I mean, I had a meeting with a, uh,"
+    },
+    {
+      "start": 929.49,
+      "end": 931.37,
+      "text": "medium sized New Zealand firm earlier this week"
+    },
+    {
+      "start": 931.5,
+      "end": 933.37,
+      "text": "around AI tools that we could use"
+    },
+    {
+      "start": 933.59,
+      "end": 935.45,
+      "text": "to assist in capability development."
+    },
+    {
+      "start": 935.71,
+      "end": 938.76,
+      "text": "Um, so yeah, it's a broad subject. Lots of use."
+    },
+    {
+      "start": 939.91,
+      "end": 942.4,
+      "text": "Yeah. Thanks. Um, so just talking about NEA"
+    },
+    {
+      "start": 942.4,
+      "end": 945.49,
+      "text": "and the delivery, so obviously it's been very long time."
+    },
+    {
+      "start": 946.02,
+      "end": 948.4,
+      "text": "Um, I understand there's quite a few complexities with"
+    },
+    {
+      "start": 948.4,
+      "end": 952.25,
+      "text": "that project, but given, um, the way in which tech is moving"
+    },
+    {
+      "start": 952.3,
+      "end": 956.73,
+      "text": "so quickly now quicker than it was in 2015, um, what,"
+    },
+    {
+      "start": 957.78,
+      "end": 961.96,
+      "text": "like mistakes or what have you learned from the start"
+    },
+    {
+      "start": 961.96,
+      "end": 963.55,
+      "text": "of this project to what you need to do now"
+    },
+    {
+      "start": 963.65,
+      "end": 965.43,
+      "text": "to give the public confidence"
+    },
+    {
+      "start": 965.48,
+      "end": 966.91,
+      "text": "that you will actually be able to deliver?"
+    },
+    {
+      "start": 967.29,
+      "end": 969.6,
+      "text": "Um, is any NEA still fit for purpose"
+    },
+    {
+      "start": 969.82,
+      "end": 974.0,
+      "text": "or do you need to actually look at the landscape now"
+    },
+    {
+      "start": 974.01,
+      "end": 975.27,
+      "text": "and maybe make some changes?"
+    },
+    {
+      "start": 975.86,
+      "end": 978.72,
+      "text": "Um, I, I would contend that NEA is absolutely fit"
+    },
+    {
+      "start": 978.72,
+      "end": 979.84,
+      "text": "for purpose now."
+    },
+    {
+      "start": 980.15,
+      "end": 984.48,
+      "text": "I think, um, there is a standard of, uh, security"
+    },
+    {
+      "start": 984.48,
+      "end": 986.24,
+      "text": "around your military communications"
+    },
+    {
+      "start": 986.24,
+      "end": 988.63,
+      "text": "that you must meet in a five eyes environment."
+    },
+    {
+      "start": 988.84,
+      "end": 992.67,
+      "text": "NEA is absolutely, um, of that standard"
+    },
+    {
+      "start": 992.89,
+      "end": 995.91,
+      "text": "and, uh, better than a lot of of people are utilizing."
+    },
+    {
+      "start": 995.91,
+      "end": 999.32,
+      "text": "Mm-hmm. Um, the systems are absolutely upgradable, you know,"
+    },
+    {
+      "start": 999.32,
+      "end": 1001.84,
+      "text": "whilst you have a green box, it's a software inside it"
+    },
+    {
+      "start": 1001.87,
+      "end": 1003.32,
+      "text": "that you can adjust."
+    },
+    {
+      "start": 1003.77,
+      "end": 1007.49,
+      "text": "Um, and, you know, the effect"
+    },
+    {
+      "start": 1007.49,
+      "end": 1010.04,
+      "text": "of NEA will make our soldiers a lot safer"
+    },
+    {
+      "start": 1010.14,
+      "end": 1012.97,
+      "text": "and a lot more effective on the battlefield side."
+    },
+    {
+      "start": 1013.02,
+      "end": 1016.04,
+      "text": "And I is, um, it's able to be adapted. Mm-hmm."
+    },
+    {
+      "start": 1016.12,
+      "end": 1020.25,
+      "text": "What I would say is, um, you know, the traditional,"
+    },
+    {
+      "start": 1020.3,
+      "end": 1023.4,
+      "text": "you know, you buy a big steel thing and have it for 20 years"
+    },
+    {
+      "start": 1024.18,
+      "end": 1028.37,
+      "text": "and upgrade it once that NEA will be continually upgraded"
+    },
+    {
+      "start": 1028.37,
+      "end": 1031.05,
+      "text": "as we go, as will all of our information and, um,"
+    },
+    {
+      "start": 1031.62,
+      "end": 1033.24,
+      "text": "and communication systems going forward."
+    },
+    {
+      "start": 1033.31,
+      "end": 1034.92,
+      "text": "The only thing I'd add to that, um, just to reinforce"
+    },
+    {
+      "start": 1034.92,
+      "end": 1036.48,
+      "text": "what Matt said, is the underlying, um,"
+    },
+    {
+      "start": 1036.51,
+      "end": 1040.29,
+      "text": "battle management system that we use as a system, um, called"
+    },
+    {
+      "start": 1040.59,
+      "end": 1041.77,
+      "text": "by a company called Systematic,"
+    },
+    {
+      "start": 1041.77,
+      "end": 1043.48,
+      "text": "which is providing to NATO countries."
+    },
+    {
+      "start": 1043.48,
+      "end": 1045.88,
+      "text": "Mm-hmm. So they are clearly constantly updating their"
+    },
+    {
+      "start": 1046.09,
+      "end": 1049.09,
+      "text": "software, and we are part of that group mm-hmm. Tiano to"
+    },
+    {
+      "start": 1049.09,
+      "end": 1050.09,
+      "text": "Be on. Yeah. Uh, thank"
+    },
+    {
+      "start": 1050.09,
+      "end": 1052.64,
+      "text": "you for, um, thank you for your, um,"
+    },
+    {
+      "start": 1052.64,
+      "end": 1053.81,
+      "text": "presentation so far."
+    },
+    {
+      "start": 1053.85,
+      "end": 1057.85,
+      "text": "I I, I was just thinking in the context of, of threats of,"
+    },
+    {
+      "start": 1058.62,
+      "end": 1060.37,
+      "text": "of the ability for these projects"
+    },
+    {
+      "start": 1060.37,
+      "end": 1061.85,
+      "text": "to respond to environmental threats."
+    },
+    {
+      "start": 1061.85,
+      "end": 1063.33,
+      "text": "Yeah. Uh, we are, you know,"
+    },
+    {
+      "start": 1063.33,
+      "end": 1065.64,
+      "text": "living in a climate change world when we travel"
+    },
+    {
+      "start": 1065.64,
+      "end": 1067.16,
+      "text": "around the Pacific, this is one"
+    },
+    {
+      "start": 1067.16,
+      "end": 1068.48,
+      "text": "of the things they always talk to us about,"
+    },
+    {
+      "start": 1068.66,
+      "end": 1071.48,
+      "text": "ex existential threat of, of climate change."
+    },
+    {
+      "start": 1072.03,
+      "end": 1075.57,
+      "text": "Um, and when we do look at generally at, at threats"
+    },
+    {
+      "start": 1075.6,
+      "end": 1079.33,
+      "text": "that are, uh, more conflict orientated, you can kind"
+    },
+    {
+      "start": 1079.33,
+      "end": 1081.96,
+      "text": "of see them bubbling away, uh, for, for a while,"
+    },
+    {
+      "start": 1081.96,
+      "end": 1084.01,
+      "text": "but sometimes these things just happen all of a sudden."
+    },
+    {
+      "start": 1084.46,
+      "end": 1087.09,
+      "text": "And we are looking at kind of long term, um, kind"
+    },
+    {
+      "start": 1087.09,
+      "end": 1089.61,
+      "text": "of midterm projects like for example, moving over"
+    },
+    {
+      "start": 1089.61,
+      "end": 1091.53,
+      "text": "to Australia and pathway for them."
+    },
+    {
+      "start": 1092.22,
+      "end": 1096.24,
+      "text": "How are, how easy, uh, will these projects respond to,"
+    },
+    {
+      "start": 1096.24,
+      "end": 1098.88,
+      "text": "like disaster relief, humanitarian aid, uh,"
+    },
+    {
+      "start": 1098.88,
+      "end": 1100.64,
+      "text": "with a particular focus on the Pacific"
+    },
+    {
+      "start": 1101.97,
+      "end": 1102.97,
+      "text": "Start, Sheila? Yeah."
+    },
+    {
+      "start": 1102.97,
+      "end": 1106.29,
+      "text": "So, um, I think, you know, the projects"
+    },
+    {
+      "start": 1106.48,
+      "end": 1109.48,
+      "text": "that very clearly have, um, high utility, um,"
+    },
+    {
+      "start": 1109.7,
+      "end": 1113.53,
+      "text": "the C one 30 J, um, you know, that delivers an aircraft"
+    },
+    {
+      "start": 1113.53,
+      "end": 1117.53,
+      "text": "with more load capacity, um, than the, than its predecessor."
+    },
+    {
+      "start": 1117.9,
+      "end": 1120.88,
+      "text": "Um, and, you know, great ability to get into tight"
+    },
+    {
+      "start": 1121.22,
+      "end": 1125.01,
+      "text": "and difficult airfields, um, the Maritime Fleet Review will,"
+    },
+    {
+      "start": 1125.14,
+      "end": 1127.01,
+      "text": "um, which is projected,"
+    },
+    {
+      "start": 1127.27,
+      "end": 1129.53,
+      "text": "but we are looking at, you know, how do we project"
+    },
+    {
+      "start": 1130.39,
+      "end": 1133.33,
+      "text": "into the Pacific better, both in terms of, um,"
+    },
+    {
+      "start": 1133.56,
+      "end": 1135.68,
+      "text": "gaining access to information quickly."
+    },
+    {
+      "start": 1135.9,
+      "end": 1139.98,
+      "text": "So, um, uh, so better situational understanding,"
+    },
+    {
+      "start": 1139.98,
+      "end": 1142.35,
+      "text": "understanding is a disaster unfolds,"
+    },
+    {
+      "start": 1142.61,
+      "end": 1145.03,
+      "text": "but then how do we get, uh, New Zealand"
+    },
+    {
+      "start": 1146.05,
+      "end": 1148.07,
+      "text": "assets there quickly?"
+    },
+    {
+      "start": 1148.53,
+      "end": 1151.14,
+      "text": "Um, and that's just not military assets, but aid."
+    },
+    {
+      "start": 1151.57,
+      "end": 1153.98,
+      "text": "Um, so, you know, keeping the Canterbury,"
+    },
+    {
+      "start": 1154.2,
+      "end": 1155.55,
+      "text": "the vessel Canterbury running"
+    },
+    {
+      "start": 1155.84,
+      "end": 1157.98,
+      "text": "until we replace it perhaps in the mid thirties"
+    },
+    {
+      "start": 1158.05,
+      "end": 1159.11,
+      "text": "is gonna be very important."
+    },
+    {
+      "start": 1159.53,
+      "end": 1160.74,
+      "text": "Um, you know,"
+    },
+    {
+      "start": 1160.74,
+      "end": 1163.42,
+      "text": "commander control systems will be very important in"
+    },
+    {
+      "start": 1163.66,
+      "end": 1166.22,
+      "text": "disasters because obviously, you know, your civilian, uh,"
+    },
+    {
+      "start": 1166.27,
+      "end": 1168.62,
+      "text": "networks will be likely to be impaired."
+    },
+    {
+      "start": 1169.05,
+      "end": 1172.07,
+      "text": "Um, so our ability to get into the Pacific with aid"
+    },
+    {
+      "start": 1172.07,
+      "end": 1173.42,
+      "text": "and help, I think will be,"
+    },
+    {
+      "start": 1173.42,
+      "end": 1177.31,
+      "text": "and then understand what's going on, will be the key, these"
+    },
+    {
+      "start": 1177.31,
+      "end": 1178.31,
+      "text": "Projects. And, and just"
+    },
+    {
+      "start": 1178.31,
+      "end": 1180.03,
+      "text": "to that agility point, um,"
+    },
+    {
+      "start": 1180.85,
+      "end": 1183.79,
+      "text": "and talking earlier about the NDAs, uh,"
+    },
+    {
+      "start": 1183.85,
+      "end": 1186.66,
+      "text": "and technology does move really, really quickly, um,"
+    },
+    {
+      "start": 1186.66,
+      "end": 1188.59,
+      "text": "have you factored that in, in terms"
+    },
+    {
+      "start": 1188.61,
+      "end": 1190.22,
+      "text": "of movement of technology?"
+    },
+    {
+      "start": 1190.29,
+      "end": 1191.51,
+      "text": "So if something happens, you can"
+    },
+    {
+      "start": 1191.89,
+      "end": 1192.94,
+      "text": "kind of switch it up a little"
+    },
+    {
+      "start": 1192.94,
+      "end": 1193.94,
+      "text": "Bit. Most of our"
+    },
+    {
+      "start": 1193.94,
+      "end": 1195.31,
+      "text": "large platforms in the,"
+    },
+    {
+      "start": 1195.64,
+      "end": 1197.66,
+      "text": "in the defense capability plan, looking forward,"
+    },
+    {
+      "start": 1197.85,
+      "end": 1200.79,
+      "text": "our large platforms will have upgrades provisioned for,"
+    },
+    {
+      "start": 1200.85,
+      "end": 1204.55,
+      "text": "so we can, a lot of these, um, systems, you know,"
+    },
+    {
+      "start": 1204.55,
+      "end": 1206.59,
+      "text": "we we're almost buying into a club, so, you know,"
+    },
+    {
+      "start": 1206.59,
+      "end": 1209.03,
+      "text": "you upgrade is like your, I find upgrades,"
+    },
+    {
+      "start": 1209.03,
+      "end": 1212.11,
+      "text": "we'll upgrade our systems as, as that technology develops,"
+    },
+    {
+      "start": 1212.11,
+      "end": 1213.87,
+      "text": "and we do it together with our partners."
+    },
+    {
+      "start": 1214.53,
+      "end": 1216.9,
+      "text": "And, and just one, one last thing around interoperability,"
+    },
+    {
+      "start": 1217.61,
+      "end": 1220.07,
+      "text": "um, and, and I get the point around ensuring"
+    },
+    {
+      "start": 1220.07,
+      "end": 1222.42,
+      "text": "that we are interop, so you can plug and move quickly,"
+    },
+    {
+      "start": 1222.96,
+      "end": 1227.34,
+      "text": "but is there a point where, um, where you can become un,"
+    },
+    {
+      "start": 1227.76,
+      "end": 1229.49,
+      "text": "un inoperable if the tired of"
+    },
+    {
+      "start": 1230.37,
+      "end": 1232.65,
+      "text": "what partners are doing is not in line"
+    },
+    {
+      "start": 1232.65,
+      "end": 1233.69,
+      "text": "with what we want to do?"
+    },
+    {
+      "start": 1234.6,
+      "end": 1237.62,
+      "text": "So, sorry. Yeah, no, you go. That's fine."
+    },
+    {
+      "start": 1237.62,
+      "end": 1240.02,
+      "text": "Um, sovereignty is key."
+    },
+    {
+      "start": 1240.32,
+      "end": 1242.65,
+      "text": "So yeah, we, you don't, um,"
+    },
+    {
+      "start": 1243.08,
+      "end": 1244.73,
+      "text": "we don't buy into interoperability"
+    },
+    {
+      "start": 1244.76,
+      "end": 1246.38,
+      "text": "and lose sovereign decision making."
+    },
+    {
+      "start": 1246.8,
+      "end": 1249.96,
+      "text": "Um, that's really important, you know, with new technologies"
+    },
+    {
+      "start": 1250.18,
+      "end": 1252.33,
+      "text": "so that we, you know, that we are using technologies"
+    },
+    {
+      "start": 1252.43,
+      "end": 1254.57,
+      "text": "that we are ethically comfortable with"
+    },
+    {
+      "start": 1254.83,
+      "end": 1256.85,
+      "text": "and that our, our government is comfortable with."
+    },
+    {
+      "start": 1257.07,
+      "end": 1259.72,
+      "text": "But also in terms of, you know, some, um,"
+    },
+    {
+      "start": 1260.51,
+      "end": 1262.81,
+      "text": "interoperability efforts with our partners are just"
+    },
+    {
+      "start": 1262.81,
+      "end": 1265.2,
+      "text": "so expensive, we can't afford to go there."
+    },
+    {
+      "start": 1265.38,
+      "end": 1267.53,
+      "text": "So we need to make really clear on decisions."
+    },
+    {
+      "start": 1268.07,
+      "end": 1271.48,
+      "text": "Interoperability, um, is important and essential,"
+    },
+    {
+      "start": 1271.48,
+      "end": 1272.61,
+      "text": "but where it adds value"
+    },
+    {
+      "start": 1272.9,
+      "end": 1275.92,
+      "text": "and it shouldn't add, there's a bit of burden to maintain,"
+    },
+    {
+      "start": 1276.42,
+      "end": 1277.48,
+      "text": "uh, interoperable systems,"
+    },
+    {
+      "start": 1277.59,
+      "end": 1281.64,
+      "text": "but it shouldn't, um, you know, overburden us to the point"
+    },
+    {
+      "start": 1281.64,
+      "end": 1284.05,
+      "text": "where we, you know, can't make good self decisions."
+    },
+    {
+      "start": 1284.78,
+      "end": 1286.33,
+      "text": "Thank you. Finish your als."
+    },
+    {
+      "start": 1286.38,
+      "end": 1287.53,
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "start": 1287.79,
+      "end": 1291.16,
+      "text": "Um, my question is around the ability of New Zealand"
+    },
+    {
+      "start": 1291.35,
+      "end": 1292.57,
+      "text": "to be defense ready"
+    },
+    {
+      "start": 1292.87,
+      "end": 1295.33,
+      "text": "and the context of the job cuts"
+    },
+    {
+      "start": 1295.43,
+      "end": 1297.4,
+      "text": "that have happened, but also training."
+    },
+    {
+      "start": 1297.74,
+      "end": 1300.01,
+      "text": "So I understand at the end of July, it was confirmed"
+    },
+    {
+      "start": 1300.01,
+      "end": 1304.2,
+      "text": "that 281 civilian staff roles would be disestablished,"
+    },
+    {
+      "start": 1304.38,
+      "end": 1306.2,
+      "text": "but there was a piece in the post this morning"
+    },
+    {
+      "start": 1306.27,
+      "end": 1309.33,
+      "text": "as well talking about the fact that the canceling of"
+    },
+    {
+      "start": 1310.12,
+      "end": 1312.4,
+      "text": "exercises reducing Air Force flying hours"
+    },
+    {
+      "start": 1312.4,
+      "end": 1314.88,
+      "text": "and Navy days at sea, slowing the recruitment"
+    },
+    {
+      "start": 1314.88,
+      "end": 1318.29,
+      "text": "of new personnel and taking voluntary redundancies point"
+    },
+    {
+      "start": 1318.29,
+      "end": 1320.61,
+      "text": "of hasn't been sufficient to close the deficit."
+    },
+    {
+      "start": 1321.07,
+      "end": 1322.44,
+      "text": "So it's a question, not just,"
+    },
+    {
+      "start": 1322.44,
+      "end": 1323.44,
+      "text": "Sorry."
+    },
+    {
+      "start": 1323.59,
+      "end": 1324.64,
+      "text": "Um, Mr."
+    },
+    {
+      "start": 1324.64,
+      "end": 1327.62,
+      "text": "Chair, I just wonder if we can stick to the, um,"
+    },
+    {
+      "start": 1327.7,
+      "end": 1329.54,
+      "text": "major reports that we've got. We,"
+    },
+    {
+      "start": 1329.54,
+      "end": 1331.34,
+      "text": "We, it's about capacity to"
+    },
+    {
+      "start": 1332.01,
+      "end": 1334.3,
+      "text": "Exactly, sorry, point, points of water hearing in silence."
+    },
+    {
+      "start": 1334.67,
+      "end": 1336.41,
+      "text": "Um, we are varying into areas that,"
+    },
+    {
+      "start": 1336.53,
+      "end": 1338.41,
+      "text": "that we would need the secretary"
+    },
+    {
+      "start": 1338.47,
+      "end": 1340.1,
+      "text": "and the chief of defense to answer."
+    },
+    {
+      "start": 1340.28,
+      "end": 1343.82,
+      "text": "If it's about, um, the, the personnel aspect of capability."
+    },
+    {
+      "start": 1343.82,
+      "end": 1345.17,
+      "text": "This is about delivering projects,"
+    },
+    {
+      "start": 1346.38,
+      "end": 1348.34,
+      "text": "Speaking to the point of order, they did bring out the"
+    },
+    {
+      "start": 1348.34,
+      "end": 1351.69,
+      "text": "issues of workforce in the introduction, but I do have"
+    },
+    {
+      "start": 1351.77,
+      "end": 1353.1,
+      "text": "What said as relevant"
+    },
+    {
+      "start": 1353.12,
+      "end": 1355.93,
+      "text": "and it's key to being able to deliver the key projects. So"
+    },
+    {
+      "start": 1355.96,
+      "end": 1359.21,
+      "text": "Yeah, so the key thrust of today's briefing is"
+    },
+    {
+      "start": 1359.21,
+      "end": 1360.54,
+      "text": "around defense major projects."
+    },
+    {
+      "start": 1360.56,
+      "end": 1362.49,
+      "text": "So yes, in the context of that,"
+    },
+    {
+      "start": 1362.8,
+      "end": 1365.38,
+      "text": "you can ask the question potentially around some"
+    },
+    {
+      "start": 1365.38,
+      "end": 1366.45,
+      "text": "of the other Mr."
+    },
+    {
+      "start": 1366.45,
+      "end": 1367.73,
+      "text": "Chair, they must link to the major"
+    },
+    {
+      "start": 1367.73,
+      "end": 1368.73,
+      "text": "Projects. Thank you, Mr. Chair."
+    },
+    {
+      "start": 1368.73,
+      "end": 1369.93,
+      "text": "Uh, so in the context"
+    },
+    {
+      "start": 1370.08,
+      "end": 1373.78,
+      "text": "of delivering the major projects, um, my question is"
+    },
+    {
+      "start": 1373.78,
+      "end": 1377.02,
+      "text": "around whether there's sufficient capacity as well"
+    },
+    {
+      "start": 1377.13,
+      "end": 1378.26,
+      "text": "as sufficient training,"
+    },
+    {
+      "start": 1378.71,
+      "end": 1380.86,
+      "text": "or whether you are seeing that you are having to pull"
+    },
+    {
+      "start": 1380.86,
+      "end": 1383.26,
+      "text": "that back and potentially forward looking, having to pull"
+    },
+    {
+      "start": 1383.26,
+      "end": 1385.89,
+      "text": "that back in a way that would be detrimental"
+    },
+    {
+      "start": 1386.15,
+      "end": 1387.38,
+      "text": "to the major projects."
+    },
+    {
+      "start": 1389.79,
+      "end": 1392.12,
+      "text": "Um, you talk About the military"
+    },
+    {
+      "start": 1392.12,
+      "end": 1393.12,
+      "text": "Stuff. Yeah. So from"
+    },
+    {
+      "start": 1393.12,
+      "end": 1394.85,
+      "text": "an NZ dev perspective, um,"
+    },
+    {
+      "start": 1396.94,
+      "end": 1399.72,
+      "text": "we are, as I said in my open incomes, we are very aware"
+    },
+    {
+      "start": 1399.72,
+      "end": 1401.88,
+      "text": "that, um, there's a broad range"
+    },
+    {
+      "start": 1401.88,
+      "end": 1405.72,
+      "text": "of priorities across government and, you know, and money"
+    },
+    {
+      "start": 1405.94,
+      "end": 1407.53,
+      "text": "and resource is uh, tied."
+    },
+    {
+      "start": 1408.11,
+      "end": 1410.96,
+      "text": "Um, so we've made prioritization decisions"
+    },
+    {
+      "start": 1411.07,
+      "end": 1412.37,
+      "text": "to manage our budget,"
+    },
+    {
+      "start": 1412.66,
+      "end": 1415.44,
+      "text": "but still allow us then the, uh, capacity"
+    },
+    {
+      "start": 1415.44,
+      "end": 1416.85,
+      "text": "to invest going forward."
+    },
+    {
+      "start": 1417.35,
+      "end": 1421.29,
+      "text": "Um, within the defense capability plan, there is investments"
+    },
+    {
+      "start": 1421.79,
+      "end": 1424.09,
+      "text": "for people, um, infrastructure"
+    },
+    {
+      "start": 1424.18,
+      "end": 1426.48,
+      "text": "and those other elements that combined to make a,"
+    },
+    {
+      "start": 1426.96,
+      "end": 1428.72,
+      "text": "a project into a military capability."
+    },
+    {
+      "start": 1429.14,
+      "end": 1431.81,
+      "text": "Um, and from that, we've got an integrated investment plan"
+    },
+    {
+      "start": 1431.81,
+      "end": 1434.61,
+      "text": "going forward where we consider all of those aspects so"
+    },
+    {
+      "start": 1434.61,
+      "end": 1435.88,
+      "text": "that we can synchronize"
+    },
+    {
+      "start": 1435.88,
+      "end": 1437.72,
+      "text": "and deliver capabilities as promised"
+    },
+    {
+      "start": 1439.28,
+      "end": 1441.92,
+      "text": "nows from Tim Costley and from Tim. How, how"
+    },
+    {
+      "start": 1441.92,
+      "end": 1443.57,
+      "text": "Does that impact compare with, say the,"
+    },
+    {
+      "start": 1443.83,
+      "end": 1448.77,
+      "text": "the really high attrition we saw 21, 22, 23 people being"
+    },
+    {
+      "start": 1448.78,
+      "end": 1452.33,
+      "text": "taken away from these major projects to do things like, uh,"
+    },
+    {
+      "start": 1452.33,
+      "end": 1454.53,
+      "text": "guarding MIQ facilities."
+    },
+    {
+      "start": 1455.07,
+      "end": 1457.68,
+      "text": "And, and in your report here that we are looking at today,"
+    },
+    {
+      "start": 1457.7,
+      "end": 1460.44,
+      "text": "you talk about and to baseline twice, um,"
+    },
+    {
+      "start": 1461.31,
+      "end": 1464.24,
+      "text": "in AI network Army during the last, um,"
+    },
+    {
+      "start": 1464.38,
+      "end": 1465.96,
+      "text": "say six years before the election."
+    },
+    {
+      "start": 1466.37,
+      "end": 1469.44,
+      "text": "H how, how does this compare with those challenges to"
+    },
+    {
+      "start": 1469.44,
+      "end": 1470.44,
+      "text": "Major? I'll make a couple"
+    },
+    {
+      "start": 1470.44,
+      "end": 1472.12,
+      "text": "of quick comments from an NZD"
+    },
+    {
+      "start": 1472.12,
+      "end": 1473.48,
+      "text": "perspective, then I'll hand over to Sarah."
+    },
+    {
+      "start": 1473.87,
+      "end": 1476.57,
+      "text": "Um, so our attrition rates have, um,"
+    },
+    {
+      "start": 1477.22,
+      "end": 1478.57,
+      "text": "you know, stabilized decline."
+    },
+    {
+      "start": 1478.63,
+      "end": 1482.88,
+      "text": "Well, um, we still have a shortage of, uh,"
+    },
+    {
+      "start": 1482.95,
+      "end": 1486.81,
+      "text": "skilled people in the middle ranks, um, which is, uh,"
+    },
+    {
+      "start": 1486.81,
+      "end": 1489.88,
+      "text": "forcing us to, you know, really prioritize hard."
+    },
+    {
+      "start": 1490.18,
+      "end": 1492.53,
+      "text": "We are looking at ways where we can utilize people"
+    },
+    {
+      "start": 1492.56,
+      "end": 1495.64,
+      "text": "with significant military experience to populate projects,"
+    },
+    {
+      "start": 1496.24,
+      "end": 1498.92,
+      "text": "allowing our younger personnel to focus on training"
+    },
+    {
+      "start": 1499.03,
+      "end": 1502.29,
+      "text": "and bringing, uh, new capabilities in into service,"
+    },
+    {
+      "start": 1502.62,
+      "end": 1505.33,
+      "text": "you know, via, you know, exercises and operations."
+    },
+    {
+      "start": 1505.54,
+      "end": 1507.24,
+      "text": "Sarah. Yeah, I'll just add that, um,"
+    },
+    {
+      "start": 1507.24,
+      "end": 1509.85,
+      "text": "while Matt's talked a lot about the military skill shortage,"
+    },
+    {
+      "start": 1510.42,
+      "end": 1514.29,
+      "text": "um, you will appreciate that IT specialists also very, um,"
+    },
+    {
+      "start": 1514.84,
+      "end": 1516.24,
+      "text": "well sought after in New Zealand."
+    },
+    {
+      "start": 1516.79,
+      "end": 1520.05,
+      "text": "So network engineers, software engineers, cyber specialists."
+    },
+    {
+      "start": 1520.35,
+      "end": 1523.2,
+      "text": "So one of the risks that we are focused on into the future"
+    },
+    {
+      "start": 1523.2,
+      "end": 1525.92,
+      "text": "with the defense capability plan is making sure that we can,"
+    },
+    {
+      "start": 1526.42,
+      "end": 1527.88,
+      "text": "um, recruit sufficient"
+    },
+    {
+      "start": 1527.88,
+      "end": 1530.48,
+      "text": "of these people without competing across government."
+    },
+    {
+      "start": 1530.62,
+      "end": 1533.4,
+      "text": "So we have to find a way to get these people in without, um,"
+    },
+    {
+      "start": 1533.98,
+      "end": 1535.48,
+      "text": "making it difficult for everyone else."
+    },
+    {
+      "start": 1535.51,
+      "end": 1538.12,
+      "text": "The other comment is that the integrated project teams"
+    },
+    {
+      "start": 1538.12,
+      "end": 1540.05,
+      "text": "that we run, which are specialists, um,"
+    },
+    {
+      "start": 1540.15,
+      "end": 1541.53,
+      "text": "project management commercial"
+    },
+    {
+      "start": 1541.7,
+      "end": 1544.77,
+      "text": "and NCDF expertise are very small."
+    },
+    {
+      "start": 1544.87,
+      "end": 1546.68,
+      "text": "We run very lean compared"
+    },
+    {
+      "start": 1546.74,
+      "end": 1548.24,
+      "text": "to other countries around the world."
+    },
+    {
+      "start": 1548.79,
+      "end": 1549.92,
+      "text": "Um, so we are able"
+    },
+    {
+      "start": 1549.94,
+      "end": 1553.09,
+      "text": "to run these IPTs very successfully with small numbers of people."
+    },
+    {
+      "start": 1553.88,
+      "end": 1555.16,
+      "text": "Okay. Stuff on that."
+    },
+    {
+      "start": 1555.18,
+      "end": 1557.96,
+      "text": "Um, you were, you were talking earlier around unmanned,"
+    },
+    {
+      "start": 1558.35,
+      "end": 1560.64,
+      "text": "uh, vessels, unmanned vehicles and stuff like that."
+    },
+    {
+      "start": 1560.64,
+      "end": 1563.96,
+      "text": "Does that mean less jobs just to, and,"
+    },
+    {
+      "start": 1563.96,
+      "end": 1565.92,
+      "text": "and if so, is there a Yeah."
+    },
+    {
+      "start": 1565.95,
+      "end": 1568.05,
+      "text": "What, what's, what's the strategy of it if it is?"
+    },
+    {
+      "start": 1568.27,
+      "end": 1572.16,
+      "text": "The general finding and finding within crewed systems is"
+    },
+    {
+      "start": 1572.67,
+      "end": 1575.77,
+      "text": "your workforce size doesn't necessarily change,"
+    },
+    {
+      "start": 1575.87,
+      "end": 1577.09,
+      "text": "but they change what they do."
+    },
+    {
+      "start": 1577.87,
+      "end": 1580.53,
+      "text": "So UNC crewed systems typically give you the ability"
+    },
+    {
+      "start": 1580.59,
+      "end": 1583.68,
+      "text": "to use a machine rather than a person somewhere"
+    },
+    {
+      "start": 1583.68,
+      "end": 1585.33,
+      "text": "where it's dirty, dangerous or boring,"
+    },
+    {
+      "start": 1585.83,
+      "end": 1588.12,
+      "text": "or you need just them to stay out there for a long time."
+    },
+    {
+      "start": 1588.59,
+      "end": 1591.16,
+      "text": "But then you need a workforce in behind it to assess"
+    },
+    {
+      "start": 1591.87,
+      "end": 1593.92,
+      "text": "the information it's sending back, uh,"
+    },
+    {
+      "start": 1593.92,
+      "end": 1595.37,
+      "text": "to maintain control of it."
+    },
+    {
+      "start": 1595.66,
+      "end": 1598.72,
+      "text": "Um, so you tend to see a workforce maybe shifts emphasis,"
+    },
+    {
+      "start": 1598.9,
+      "end": 1600.48,
+      "text": "but it doesn't necessarily reduce."
+    },
+    {
+      "start": 1601.04,
+      "end": 1602.05,
+      "text": "Okay. Start from Lauren."
+    },
+    {
+      "start": 1602.83,
+      "end": 1606.2,
+      "text": "Oh, Um, thank you. So thinking about the staff"
+    },
+    {
+      "start": 1606.2,
+      "end": 1608.33,
+      "text": "and the workforce, and you talked about there are some"
+    },
+    {
+      "start": 1609.33,
+      "end": 1611.44,
+      "text": "forecasted potential gaps and shortages."
+    },
+    {
+      "start": 1611.98,
+      "end": 1615.2,
+      "text": "Um, the private sector obviously pays a lot more"
+    },
+    {
+      "start": 1615.38,
+      "end": 1617.4,
+      "text": "for quite a lot of these, and you've got like, um,"
+    },
+    {
+      "start": 1618.09,
+      "end": 1620.81,
+      "text": "a DF doing a bit of a campaign to recruit some"
+    },
+    {
+      "start": 1620.81,
+      "end": 1622.77,
+      "text": "of our our team in that space."
+    },
+    {
+      "start": 1622.98,
+      "end": 1625.85,
+      "text": "Um, what is the plan, um,"
+    },
+    {
+      "start": 1626.7,
+      "end": 1629.33,
+      "text": "to retain the staff that you have currently with"
+    },
+    {
+      "start": 1629.33,
+      "end": 1631.37,
+      "text": "that capability and to also attract them over?"
+    },
+    {
+      "start": 1632.57,
+      "end": 1634.07,
+      "text": "And that possibly is probably more for you."
+    },
+    {
+      "start": 1634.12,
+      "end": 1636.35,
+      "text": "That's, I think it's another NZD question, not, uh,"
+    },
+    {
+      "start": 1636.35,
+      "end": 1638.66,
+      "text": "aligned to our integrated investment plan."
+    },
+    {
+      "start": 1638.72,
+      "end": 1643.59,
+      "text": "We also, um, uh, finalizing a workforce strategy that talks"
+    },
+    {
+      "start": 1643.61,
+      "end": 1647.18,
+      "text": "to, uh, attraction, it talks to retention, um,"
+    },
+    {
+      "start": 1647.91,
+      "end": 1651.74,
+      "text": "maybe a more agile, uh, system of, um, of,"
+    },
+    {
+      "start": 1652.4,
+      "end": 1653.51,
+      "text": "uh, managing skill."
+    },
+    {
+      "start": 1653.96,
+      "end": 1657.23,
+      "text": "Um, and then we're also working on, um,"
+    },
+    {
+      "start": 1657.56,
+      "end": 1660.04,
+      "text": "I guess I'd call it the supply side of that."
+    },
+    {
+      "start": 1660.06,
+      "end": 1661.52,
+      "text": "So how the investments"
+    },
+    {
+      "start": 1661.52,
+      "end": 1665.32,
+      "text": "and people unfold so that we're, uh, developing"
+    },
+    {
+      "start": 1665.32,
+      "end": 1668.23,
+      "text": "and delivering people into our organization at the right"
+    },
+    {
+      "start": 1668.23,
+      "end": 1670.43,
+      "text": "time to actually utilize military capabilities."
+    },
+    {
+      "start": 1670.73,
+      "end": 1673.08,
+      "text": "So looking forward, we're looking at a much more integrated,"
+    },
+    {
+      "start": 1673.49,
+      "end": 1676.71,
+      "text": "uh, suite of plans, which includes workforce. Thank you."
+    },
+    {
+      "start": 1677.06,
+      "end": 1679.08,
+      "text": "Um, just had a final question before we wrap up."
+    },
+    {
+      "start": 1679.08,
+      "end": 1681.88,
+      "text": "Appreciate we're at time now, um, in relation"
+    },
+    {
+      "start": 1681.88,
+      "end": 1685.91,
+      "text": "to risk appetite, and we've seen obviously through this"
+    },
+    {
+      "start": 1685.93,
+      "end": 1689.52,
+      "text": "and previous reports that timeframes can be quite generous"
+    },
+    {
+      "start": 1689.86,
+      "end": 1692.32,
+      "text": "for different projects, and I understand that in the context"
+    },
+    {
+      "start": 1692.58,
+      "end": 1695.52,
+      "text": "of being in a relatively low risk,"
+    },
+    {
+      "start": 1696.67,
+      "end": 1699.08,
+      "text": "although threat environment I should say, and"
+    },
+    {
+      "start": 1699.27,
+      "end": 1701.91,
+      "text": "therefore the benefit of taking more time to get it right,"
+    },
+    {
+      "start": 1701.91,
+      "end": 1703.36,
+      "text": "being a higher priority."
+    },
+    {
+      "start": 1703.73,
+      "end": 1707.95,
+      "text": "Um, but in a more nuanced situation like we see now"
+    },
+    {
+      "start": 1707.95,
+      "end": 1710.91,
+      "text": "where there is a more, uh,"
+    },
+    {
+      "start": 1711.62,
+      "end": 1713.52,
+      "text": "or I guess a tighter timeframe"
+    },
+    {
+      "start": 1713.52,
+      "end": 1715.71,
+      "text": "around potentially delivering some of these capabilities,"
+    },
+    {
+      "start": 1715.86,
+      "end": 1717.71,
+      "text": "how do we manage that risk appetite"
+    },
+    {
+      "start": 1717.86,
+      "end": 1719.52,
+      "text": "around making decisions quickly"
+    },
+    {
+      "start": 1720.21,
+      "end": 1722.08,
+      "text": "versus potentially getting some wrong,"
+    },
+    {
+      "start": 1722.58,
+      "end": 1724.6,
+      "text": "but actually acting now to deliver capability?"
+    },
+    {
+      "start": 1724.86,
+      "end": 1726.08,
+      "text": "And where are we on that spectrum?"
+    },
+    {
+      "start": 1728.02,
+      "end": 1730.71,
+      "text": "Oh, look, we've, um, both MOD"
+    },
+    {
+      "start": 1730.71,
+      "end": 1733.76,
+      "text": "and NCDF, uh, just adopted a, um,"
+    },
+    {
+      "start": 1734.67,
+      "end": 1735.76,
+      "text": "a framework I guess we,"
+    },
+    {
+      "start": 1735.76,
+      "end": 1738.28,
+      "text": "we call the minimum viable, uh, capability."
+    },
+    {
+      "start": 1738.86,
+      "end": 1742.39,
+      "text": "So, um, you know, you talk how we used to trade schedule for"
+    },
+    {
+      "start": 1742.94,
+      "end": 1744.56,
+      "text": "cost and scope, um,"
+    },
+    {
+      "start": 1744.69,
+      "end": 1748.88,
+      "text": "now the minimum viable capability view is what can we get"
+    },
+    {
+      "start": 1748.88,
+      "end": 1751.67,
+      "text": "that's good enough, but fast within schedule."
+    },
+    {
+      "start": 1751.73,
+      "end": 1755.6,
+      "text": "So we're now trying to hold schedule constant, um,"
+    },
+    {
+      "start": 1755.82,
+      "end": 1757.39,
+      "text": "manage the cost, and if we have"
+    },
+    {
+      "start": 1757.39,
+      "end": 1759.91,
+      "text": "to scale back a little on scope, then we do so."
+    },
+    {
+      "start": 1760.38,
+      "end": 1762.36,
+      "text": "Um, so we, we, we'll go"
+    },
+    {
+      "start": 1762.36,
+      "end": 1766.76,
+      "text": "for an 80% solution on time rather than 105% solution in"
+    },
+    {
+      "start": 1766.76,
+      "end": 1768.84,
+      "text": "five years, which is possibly something a lot"
+    },
+    {
+      "start": 1768.84,
+      "end": 1770.76,
+      "text": "of mil like militaries have been guilty"
+    },
+    {
+      "start": 1770.78,
+      "end": 1771.84,
+      "text": "of over recent times."
+    },
+    {
+      "start": 1772.74,
+      "end": 1775.08,
+      "text": "Okay. All right. Thank you very, very much for your time."
+    },
+    {
+      "start": 1775.08,
+      "end": 1776.08,
+      "text": "Appreciate it."
+    },
+    {
+      "start": 1781.63,
+      "end": 1782.44,
+      "text": "Another hour."
+    },
+    {
+      "start": 1786.48,
+      "end": 1787.48,
+      "text": "Oh,"
+    },
+    {
+      "start": 1802.19,
+      "end": 1804.41,
+      "text": "We have Orion Health And"
+    },
+    {
+      "start": 1806.23,
+      "end": 1808.38,
+      "text": "As our first submitter for today."
+    },
+    {
+      "start": 1818.99,
+      "end": 1820.37,
+      "text": "Morning, Andrew. Is it?"
+    },
+    {
+      "start": 1820.37,
+      "end": 1821.64,
+      "text": "Yeah, that's right, please. Great to see."
+    },
+    {
+      "start": 1821.91,
+      "end": 1826.4,
+      "text": "Cool. Good to be here."
+    },
+    {
+      "start": 1827.88,
+      "end": 1829.53,
+      "text": "Excellent. All right. Thanks for your time this morning."
+    },
+    {
+      "start": 1829.59,
+      "end": 1831.57,
+      "text": "And so the committee's been doing an ongoing piece"
+    },
+    {
+      "start": 1831.57,
+      "end": 1834.05,
+      "text": "of work in relation to the impact on non tariff barriers."
+    },
+    {
+      "start": 1834.19,
+      "end": 1836.24,
+      "text": "Yeah. And we've been particularly interested in how"
+    },
+    {
+      "start": 1836.24,
+      "end": 1837.4,
+      "text": "that impacts the tech sector"
+    },
+    {
+      "start": 1837.9,
+      "end": 1840.81,
+      "text": "and uh, obviously from your unique perspective, we're keen"
+    },
+    {
+      "start": 1840.81,
+      "end": 1843.29,
+      "text": "to hear directly commercially how"
+    },
+    {
+      "start": 1843.43,
+      "end": 1846.37,
+      "text": "that impacts whether there are impacts in some of the areas"
+    },
+    {
+      "start": 1846.47,
+      "end": 1849.85,
+      "text": "that government may be able to look at adapting processes"
+    },
+    {
+      "start": 1849.98,
+      "end": 1852.57,
+      "text": "to support, uh, industry growth."
+    },
+    {
+      "start": 1852.67,
+      "end": 1854.64,
+      "text": "Yeah. Cool. So over to you, Andrew. Great."
+    },
+    {
+      "start": 1854.64,
+      "end": 1857.01,
+      "text": "Well thank you, um, for the opportunity to appear today."
+    },
+    {
+      "start": 1857.11,
+      "end": 1859.16,
+      "text": "Um, so I'm Andrew Bywater from,"
+    },
+    {
+      "start": 1859.22,
+      "end": 1860.77,
+      "text": "um, representing Orion Health."
+    },
+    {
+      "start": 1861.31,
+      "end": 1864.16,
+      "text": "Um, so we're a homegrown digital health company,"
+    },
+    {
+      "start": 1864.79,
+      "end": 1865.96,
+      "text": "uh, with global Reach."
+    },
+    {
+      "start": 1866.14,
+      "end": 1868.09,
+      "text": "Um, so we've been building software"
+    },
+    {
+      "start": 1868.14,
+      "end": 1870.64,
+      "text": "for the healthcare systems around the world, uh,"
+    },
+    {
+      "start": 1870.64,
+      "end": 1871.81,
+      "text": "for the last 30 years."
+    },
+    {
+      "start": 1872.18,
+      "end": 1874.33,
+      "text": "Um, we probably do come with a,"
+    },
+    {
+      "start": 1874.37,
+      "end": 1876.57,
+      "text": "a slightly different angle than what you might expect"
+    },
+    {
+      "start": 1876.57,
+      "end": 1880.53,
+      "text": "around, um, non tariff barriers, um, in particularly, um,"
+    },
+    {
+      "start": 1880.7,
+      "end": 1881.88,
+      "text": "the issues we see."
+    },
+    {
+      "start": 1882.79,
+      "end": 1887.48,
+      "text": "Um, so we've been working from Auckland to Alberta"
+    },
+    {
+      "start": 1887.48,
+      "end": 1888.92,
+      "text": "to Albuquerque, um,"
+    },
+    {
+      "start": 1889.42,
+      "end": 1893.16,
+      "text": "but across 15 countries, the uk, Canada, us, uh,"
+    },
+    {
+      "start": 1893.18,
+      "end": 1897.24,
+      "text": "the Middle East, Saudi Arabia, Abu Dhabi, um, France, Spain."
+    },
+    {
+      "start": 1897.27,
+      "end": 1898.81,
+      "text": "So we do, we do the software"
+    },
+    {
+      "start": 1898.81,
+      "end": 1900.2,
+      "text": "for health systems across the world."
+    },
+    {
+      "start": 1901.27,
+      "end": 1904.53,
+      "text": "Um, the New Zealand health tech sector, though, um,"
+    },
+    {
+      "start": 1904.67,
+      "end": 1906.92,
+      "text": "it's actually evolved, um, into quite a,"
+    },
+    {
+      "start": 1907.16,
+      "end": 1908.33,
+      "text": "a robust industry now."
+    },
+    {
+      "start": 1908.33,
+      "end": 1910.2,
+      "text": "It's valued according to a report last year,"
+    },
+    {
+      "start": 1910.2,
+      "end": 1911.57,
+      "text": "about $2.1 billion."
+    },
+    {
+      "start": 1911.7,
+      "end": 1915.96,
+      "text": "And a lot of that is Fisher and ourselves and admittedly,"
+    },
+    {
+      "start": 1916.35,
+      "end": 1919.57,
+      "text": "but there are about 200 companies, um,"
+    },
+    {
+      "start": 1920.04,
+      "end": 1923.57,
+      "text": "that work in medical devices, uh, digital health solutions,"
+    },
+    {
+      "start": 1923.71,
+      "end": 1924.88,
+      "text": "information technology."
+    },
+    {
+      "start": 1925.31,
+      "end": 1927.33,
+      "text": "So we're specifically a software company though."
+    },
+    {
+      "start": 1927.9,
+      "end": 1930.92,
+      "text": "Um, and so there are a lot of other small companies though,"
+    },
+    {
+      "start": 1930.92,
+      "end": 1932.81,
+      "text": "with cool ideas being nurtured here."
+    },
+    {
+      "start": 1933.35,
+      "end": 1936.61,
+      "text": "Um, but what we need is actually the home market, um,"
+    },
+    {
+      "start": 1936.62,
+      "end": 1938.29,
+      "text": "to be our launch pad for exports."
+    },
+    {
+      "start": 1938.29,
+      "end": 1939.61,
+      "text": "And that is probably, um,"
+    },
+    {
+      "start": 1939.61,
+      "end": 1941.33,
+      "text": "what I'm gonna talk mostly about today."
+    },
+    {
+      "start": 1942.11,
+      "end": 1944.85,
+      "text": "Um, so it's not so much about export wins,"
+    },
+    {
+      "start": 1944.87,
+      "end": 1948.37,
+      "text": "but what's holding that next generation of companies, um,"
+    },
+    {
+      "start": 1948.39,
+      "end": 1950.53,
+      "text": "from growing is actually, um,"
+    },
+    {
+      "start": 1950.79,
+      "end": 1952.37,
+      "text": "what's happening at home more than"
+    },
+    {
+      "start": 1952.6,
+      "end": 1955.12,
+      "text": "what we see happening here, more than necessarily overseas."
+    },
+    {
+      "start": 1955.22,
+      "end": 1957.96,
+      "text": "So if you see there's been a lot of attention"
+    },
+    {
+      "start": 1958.62,
+      "end": 1960.81,
+      "text": "around things like tariffs in the US"
+    },
+    {
+      "start": 1961.31,
+      "end": 1963.92,
+      "text": "or for software companies that, that hasn't affected us yet,"
+    },
+    {
+      "start": 1964.46,
+      "end": 1965.48,
+      "text": "um, I say yet."
+    },
+    {
+      "start": 1966.09,
+      "end": 1968.68,
+      "text": "Um, but, and hopefully that remains the same."
+    },
+    {
+      "start": 1968.87,
+      "end": 1970.61,
+      "text": "And when it comes to tax systems"
+    },
+    {
+      "start": 1970.66,
+      "end": 1972.24,
+      "text": "and that these, there's complexities,"
+    },
+    {
+      "start": 1972.24,
+      "end": 1974.44,
+      "text": "but it's fairly straightforward when, you know,"
+    },
+    {
+      "start": 1974.44,
+      "end": 1975.85,
+      "text": "we've been doing this for a long time."
+    },
+    {
+      "start": 1977.22,
+      "end": 1980.37,
+      "text": "Um, but as I say, uh, our biggest barrier"
+    },
+    {
+      "start": 1980.37,
+      "end": 1981.85,
+      "text": "that we've seen has actually been local"
+    },
+    {
+      "start": 1981.85,
+      "end": 1983.16,
+      "text": "procurement here in New Zealand."
+    },
+    {
+      "start": 1983.9,
+      "end": 1987.68,
+      "text": "Um, so it's a bit of a shocking fact"
+    },
+    {
+      "start": 1987.68,
+      "end": 1989.68,
+      "text": "that we've found it easier to win business"
+    },
+    {
+      "start": 1990.31,
+      "end": 1994.09,
+      "text": "and the likes of Canada to the uk, Saudi Arabia, uh,"
+    },
+    {
+      "start": 1994.09,
+      "end": 1995.92,
+      "text": "than it is to get a pilot off the ground"
+    },
+    {
+      "start": 1995.99,
+      "end": 1998.01,
+      "text": "here, um, these days."
+    },
+    {
+      "start": 1998.22,
+      "end": 2000.72,
+      "text": "Um, and that is, while it sounds a little bit absurd,"
+    },
+    {
+      "start": 2000.84,
+      "end": 2002.81,
+      "text": "that is a bit of the reality that we face."
+    },
+    {
+      "start": 2003.51,
+      "end": 2006.69,
+      "text": "So Orion Health started in the health sector, um,"
+    },
+    {
+      "start": 2006.77,
+      "end": 2008.54,
+      "text": "roughly about 25 years ago."
+    },
+    {
+      "start": 2008.6,
+      "end": 2009.93,
+      "text": "Um, so it was already doing software,"
+    },
+    {
+      "start": 2009.93,
+      "end": 2011.26,
+      "text": "but, uh, found a niche there."
+    },
+    {
+      "start": 2011.84,
+      "end": 2015.54,
+      "text": "Um, and it was a small $50,000 project in counties Manco."
+    },
+    {
+      "start": 2016.12,
+      "end": 2017.97,
+      "text": "Um, and, and basically an idea"
+    },
+    {
+      "start": 2018.15,
+      "end": 2021.13,
+      "text": "and using an innovation fund there at counties"
+    },
+    {
+      "start": 2021.22,
+      "end": 2022.41,
+      "text": "Manco District Health Board."
+    },
+    {
+      "start": 2023.23,
+      "end": 2027.78,
+      "text": "Um, and we essentially grew by approving local results."
+    },
+    {
+      "start": 2027.78,
+      "end": 2029.17,
+      "text": "We could deliver results locally"
+    },
+    {
+      "start": 2029.52,
+      "end": 2032.21,
+      "text": "and then, um, used that as a springboard."
+    },
+    {
+      "start": 2032.47,
+      "end": 2034.21,
+      "text": "So, and used our New Zealand Inc."
+    },
+    {
+      "start": 2034.36,
+      "end": 2035.93,
+      "text": "We get given a go around the world."
+    },
+    {
+      "start": 2036.43,
+      "end": 2037.82,
+      "text": "Um, and having that credibility"
+    },
+    {
+      "start": 2037.95,
+      "end": 2040.38,
+      "text": "of those small projects here enabled us."
+    },
+    {
+      "start": 2040.53,
+      "end": 2043.62,
+      "text": "That was the, the real thing we needed as a launchpad"
+    },
+    {
+      "start": 2043.62,
+      "end": 2044.65,
+      "text": "to secure investment"
+    },
+    {
+      "start": 2045.28,
+      "end": 2047.45,
+      "text": "and become attractive, um, to international markets."
+    },
+    {
+      "start": 2048.41,
+      "end": 2051.18,
+      "text": "Unfortunately, what we've seen now in the last few years is"
+    },
+    {
+      "start": 2051.18,
+      "end": 2053.34,
+      "text": "that's procurement here, particularly with government,"
+    },
+    {
+      "start": 2053.39,
+      "end": 2056.7,
+      "text": "has become actually the biggest domestic barrier to scale"
+    },
+    {
+      "start": 2056.88,
+      "end": 2057.89,
+      "text": "for software companies."
+    },
+    {
+      "start": 2058.64,
+      "end": 2061.22,
+      "text": "Um, so without a strong home market,"
+    },
+    {
+      "start": 2061.76,
+      "end": 2063.86,
+      "text": "it's actually been much harder to grow offshore."
+    },
+    {
+      "start": 2064.11,
+      "end": 2066.45,
+      "text": "Um, and we, we are confident enough,"
+    },
+    {
+      "start": 2066.45,
+      "end": 2067.61,
+      "text": "and we've been around long enough that we,"
+    },
+    {
+      "start": 2067.68,
+      "end": 2069.26,
+      "text": "we don't mind putting our heads up about"
+    },
+    {
+      "start": 2069.26,
+      "end": 2070.34,
+      "text": "the power pit to say this."
+    },
+    {
+      "start": 2070.88,
+      "end": 2071.89,
+      "text": "Um, but I know a lot"
+    },
+    {
+      "start": 2071.89,
+      "end": 2074.14,
+      "text": "of other small players in the New Zealand software"
+    },
+    {
+      "start": 2074.14,
+      "end": 2075.74,
+      "text": "sector do have found this."
+    },
+    {
+      "start": 2075.74,
+      "end": 2077.7,
+      "text": "And this is not just in the last little while."
+    },
+    {
+      "start": 2077.7,
+      "end": 2080.89,
+      "text": "This has been happening for 25 years now, 20 years."
+    },
+    {
+      "start": 2081.51,
+      "end": 2084.22,
+      "text": "Um, and that, that's, um, an issue."
+    },
+    {
+      "start": 2084.32,
+      "end": 2088.3,
+      "text": "So, um, it's much harder to grow offshore if you haven't got"
+    },
+    {
+      "start": 2088.3,
+      "end": 2089.53,
+      "text": "that strong base here."
+    },
+    {
+      "start": 2089.76,
+      "end": 2092.01,
+      "text": "And unfortunately, that means also things like"
+    },
+    {
+      "start": 2092.01,
+      "end": 2094.66,
+      "text": "what we did in counties, Manco don't tend to happen"
+    },
+    {
+      "start": 2094.66,
+      "end": 2097.01,
+      "text": "because you end up with risk aversion"
+    },
+    {
+      "start": 2097.07,
+      "end": 2100.49,
+      "text": "and rigid panels that favor, frankly, the big players,"
+    },
+    {
+      "start": 2101.28,
+      "end": 2102.57,
+      "text": "the Microsoft sales forces"
+    },
+    {
+      "start": 2102.64,
+      "end": 2104.57,
+      "text": "and whatnot who are unfortunately foreign."
+    },
+    {
+      "start": 2105.03,
+      "end": 2107.09,
+      "text": "So the small New Zealand outfits"
+    },
+    {
+      "start": 2107.09,
+      "end": 2108.41,
+      "text": "often don't even get a chance."
+    },
+    {
+      "start": 2108.68,
+      "end": 2111.3,
+      "text": "So we're always told to punch above our weight."
+    },
+    {
+      "start": 2111.55,
+      "end": 2114.14,
+      "text": "Um, but we don't actually let people step into the"
+    },
+    {
+      "start": 2114.14,
+      "end": 2115.61,
+      "text": "room at times."
+    },
+    {
+      "start": 2116.51,
+      "end": 2120.49,
+      "text": "Um, so as I say, we need, we need like Orion wouldn't be"
+    },
+    {
+      "start": 2120.49,
+      "end": 2122.82,
+      "text": "where it is without having those small projects"
+    },
+    {
+      "start": 2122.82,
+      "end": 2125.05,
+      "text": "to kick us off, you know, 25 years ago."
+    },
+    {
+      "start": 2126.16,
+      "end": 2129.26,
+      "text": "Um, so often, you know, while there may be cool"
+    },
+    {
+      "start": 2130.11,
+      "end": 2131.89,
+      "text": "ideas happening out there, you know,"
+    },
+    {
+      "start": 2131.89,
+      "end": 2133.82,
+      "text": "you really need a solid cash flow"
+    },
+    {
+      "start": 2133.84,
+      "end": 2135.93,
+      "text": "and a solid bunch of projects that you can then take"
+    },
+    {
+      "start": 2135.93,
+      "end": 2137.49,
+      "text": "to the world to show, Hey, look,"
+    },
+    {
+      "start": 2137.49,
+      "end": 2139.09,
+      "text": "we've been given a chance on our home patch"
+    },
+    {
+      "start": 2139.43,
+      "end": 2141.49,
+      "text": "and we've proven ourselves, we've done something good"
+    },
+    {
+      "start": 2141.82,
+      "end": 2143.28,
+      "text": "and here's what we'd like to do with you."
+    },
+    {
+      "start": 2143.91,
+      "end": 2146.93,
+      "text": "But too often we, um, we see companies having"
+    },
+    {
+      "start": 2146.93,
+      "end": 2150.68,
+      "text": "to explain why, uh, we're on the back foot saying,"
+    },
+    {
+      "start": 2150.68,
+      "end": 2152.49,
+      "text": "explaining why we haven't been given a go at home"
+    },
+    {
+      "start": 2152.59,
+      "end": 2154.32,
+      "text": "and why, you know, why, why we should be"
+    },
+    {
+      "start": 2154.32,
+      "end": 2155.53,
+      "text": "given a go overseas."
+    },
+    {
+      "start": 2156.59,
+      "end": 2160.49,
+      "text": "So we see here local companies stifled, um,"
+    },
+    {
+      "start": 2161.03,
+      "end": 2163.84,
+      "text": "and forced to almost to go offshore to prove themselves."
+    },
+    {
+      "start": 2164.59,
+      "end": 2166.57,
+      "text": "And unfortunately a bit of a, a culture here"
+    },
+    {
+      "start": 2166.59,
+      "end": 2168.84,
+      "text": "of playing it safe and going with the big safe ones."
+    },
+    {
+      "start": 2168.84,
+      "end": 2170.2,
+      "text": "You know, it's, it used"
+    },
+    {
+      "start": 2170.2,
+      "end": 2172.16,
+      "text": "to be saying you never lose your job if you choose"
+    },
+    {
+      "start": 2172.28,
+      "end": 2173.32,
+      "text": "IBM or Microsoft."
+    },
+    {
+      "start": 2173.78,
+      "end": 2176.53,
+      "text": "And that, that tends to be where, how we've ended up."
+    },
+    {
+      "start": 2176.55,
+      "end": 2179.93,
+      "text": "Now people often and agencies here playing it safe."
+    },
+    {
+      "start": 2180.91,
+      "end": 2182.41,
+      "text": "And unfortunately there is the,"
+    },
+    {
+      "start": 2182.64,
+      "end": 2184.24,
+      "text": "I would say the tall poppy element too,"
+    },
+    {
+      "start": 2184.28,
+      "end": 2186.97,
+      "text": "when companies like ourselves, you know, we've, we've um,"
+    },
+    {
+      "start": 2187.03,
+      "end": 2190.36,
+      "text": "had a lot of support from NZTE done work with Callahan."
+    },
+    {
+      "start": 2190.55,
+      "end": 2193.16,
+      "text": "Um, they've still sponsor some of our internships."
+    },
+    {
+      "start": 2193.59,
+      "end": 2195.12,
+      "text": "Uh, NBIE do great work."
+    },
+    {
+      "start": 2195.66,
+      "end": 2197.28,
+      "text": "Um, but often when you put your hand up"
+    },
+    {
+      "start": 2197.28,
+      "end": 2198.68,
+      "text": "and ask for that support, then you can"
+    },
+    {
+      "start": 2198.68,
+      "end": 2199.84,
+      "text": "be attacked for that as well."
+    },
+    {
+      "start": 2200.11,
+      "end": 2204.12,
+      "text": "Um, so the r and e end up on a list or being published, uh,"
+    },
+    {
+      "start": 2204.12,
+      "end": 2206.53,
+      "text": "and the media love to um, say, oh, this,"
+    },
+    {
+      "start": 2206.53,
+      "end": 2207.68,
+      "text": "this company's getting that as well."
+    },
+    {
+      "start": 2207.74,
+      "end": 2212.32,
+      "text": "So we get this sort of this dual modality almost there,"
+    },
+    {
+      "start": 2212.32,
+      "end": 2213.8,
+      "text": "where, you know, you wanna encourage all this,"
+    },
+    {
+      "start": 2213.8,
+      "end": 2215.84,
+      "text": "but then also you get attacked for it."
+    },
+    {
+      "start": 2216.99,
+      "end": 2220.12,
+      "text": "Um, and the big kick is probably all the"
+    },
+    {
+      "start": 2220.12,
+      "end": 2221.28,
+      "text": "government procurement panels."
+    },
+    {
+      "start": 2221.55,
+      "end": 2223.76,
+      "text": "Um, there are actually probably a higher barrier than"
+    },
+    {
+      "start": 2223.97,
+      "end": 2225.24,
+      "text": "anything we've seen overseas."
+    },
+    {
+      "start": 2225.55,
+      "end": 2228.05,
+      "text": "Um, um, if you don't make a panel"
+    },
+    {
+      "start": 2228.43,
+      "end": 2230.05,
+      "text": "and all the government procurement panel,"
+    },
+    {
+      "start": 2230.14,
+      "end": 2231.28,
+      "text": "you really got no chance."
+    },
+    {
+      "start": 2231.86,
+      "end": 2235.57,
+      "text": "So, um, and you have to beg for anything, literally beg"
+    },
+    {
+      "start": 2235.86,
+      "end": 2238.09,
+      "text": "for anything like that small $50,000 project"
+    },
+    {
+      "start": 2238.11,
+      "end": 2240.49,
+      "text": "that kicked us off about 25 years ago in healthcare."
+    },
+    {
+      "start": 2241.7,
+      "end": 2244.14,
+      "text": "Um, and the problem with the panels is"
+    },
+    {
+      "start": 2244.38,
+      "end": 2246.99,
+      "text": "that the best case scenario you can do is apply"
+    },
+    {
+      "start": 2246.99,
+      "end": 2248.47,
+      "text": "to be on one every few years,"
+    },
+    {
+      "start": 2248.8,
+      "end": 2251.34,
+      "text": "but once the panels are established,"
+    },
+    {
+      "start": 2251.34,
+      "end": 2252.47,
+      "text": "they get evergreen status."
+    },
+    {
+      "start": 2252.76,
+      "end": 2255.62,
+      "text": "And so, um, right now"
+    },
+    {
+      "start": 2255.64,
+      "end": 2257.66,
+      "text": "for if tech business providing services"
+    },
+    {
+      "start": 2257.84,
+      "end": 2261.26,
+      "text": "and the, say the, all the government consultancies, um,"
+    },
+    {
+      "start": 2261.26,
+      "end": 2263.18,
+      "text": "there's actually no timeline for that to be opened up"
+    },
+    {
+      "start": 2263.39,
+      "end": 2266.26,
+      "text": "'cause it is evergreen and they can read the, the,"
+    },
+    {
+      "start": 2266.72,
+      "end": 2268.74,
+      "text": "the official line we got while the panel is closed."
+    },
+    {
+      "start": 2268.74,
+      "end": 2271.39,
+      "text": "Now a new providers NZ GB GP is in the process"
+    },
+    {
+      "start": 2271.49,
+      "end": 2273.47,
+      "text": "of undertaking a strategic review of the panel,"
+    },
+    {
+      "start": 2274.28,
+      "end": 2275.43,
+      "text": "the re press process"
+    },
+    {
+      "start": 2275.64,
+      "end": 2278.34,
+      "text": "and contractual frameworks as it currently stands."
+    },
+    {
+      "start": 2278.34,
+      "end": 2280.22,
+      "text": "There are no timelines in place,"
+    },
+    {
+      "start": 2280.61,
+      "end": 2282.3,
+      "text": "but when a go to market process may happen,"
+    },
+    {
+      "start": 2282.49,
+      "end": 2285.82,
+      "text": "but once it's been decided we'll be in touch short, um,"
+    },
+    {
+      "start": 2287.12,
+      "end": 2288.66,
+      "text": "our reef pressure, that panel was last"
+    },
+    {
+      "start": 2288.66,
+      "end": 2289.99,
+      "text": "undertaken five years ago."
+    },
+    {
+      "start": 2290.64,
+      "end": 2292.47,
+      "text": "Mm-hmm. So, which, you know,"
+    },
+    {
+      "start": 2292.47,
+      "end": 2295.14,
+      "text": "for the tech industry when we're moving rapidly all the"
+    },
+    {
+      "start": 2295.14,
+      "end": 2296.59,
+      "text": "time, that's just too slow."
+    },
+    {
+      "start": 2296.89,
+      "end": 2299.78,
+      "text": "Mm-hmm. Um, so one of the, one"
+    },
+    {
+      "start": 2299.78,
+      "end": 2300.91,
+      "text": "of the most valuable things we need"
+    },
+    {
+      "start": 2300.91,
+      "end": 2303.59,
+      "text": "for an exporting business is dependable cash flow."
+    },
+    {
+      "start": 2304.32,
+      "end": 2307.34,
+      "text": "Um, so we need to have government processes that enable"
+    },
+    {
+      "start": 2307.49,
+      "end": 2309.95,
+      "text": "and nimble procurement to pick up the best providers,"
+    },
+    {
+      "start": 2309.95,
+      "end": 2312.51,
+      "text": "pick up cool things that are happening here, um,"
+    },
+    {
+      "start": 2313.32,
+      "end": 2315.21,
+      "text": "not just wait for the next time you're gonna gonna"
+    },
+    {
+      "start": 2315.47,
+      "end": 2316.64,
+      "text": "do the five year review."
+    },
+    {
+      "start": 2317.43,
+      "end": 2319.45,
+      "text": "Um, and let me say like"
+    },
+    {
+      "start": 2319.45,
+      "end": 2321.2,
+      "text": "where New Zealand government spends its money"
+    },
+    {
+      "start": 2321.26,
+      "end": 2322.32,
+      "text": "has an amplifying effect."
+    },
+    {
+      "start": 2322.62,
+      "end": 2326.76,
+      "text": "Um, but right now we don't feel it's set up right to amplify"
+    },
+    {
+      "start": 2327.51,
+      "end": 2328.64,
+      "text": "software companies like ourselves."
+    },
+    {
+      "start": 2329.26,
+      "end": 2332.2,
+      "text": "Um, and yes, there are dispensations, that's true,"
+    },
+    {
+      "start": 2332.49,
+      "end": 2334.32,
+      "text": "but in reality that's a huge barrier."
+    },
+    {
+      "start": 2334.66,
+      "end": 2339.2,
+      "text": "Um, it puts many entities just looking outside the panel,"
+    },
+    {
+      "start": 2339.2,
+      "end": 2340.8,
+      "text": "particularly in this current climate."
+    },
+    {
+      "start": 2341.53,
+      "end": 2345.07,
+      "text": "So something we think makes sense as a basic principle, um,"
+    },
+    {
+      "start": 2345.14,
+      "end": 2347.55,
+      "text": "was at a minimum have a level playing field for GCF"
+    },
+    {
+      "start": 2347.55,
+      "end": 2348.59,
+      "text": "and overseas suppliers."
+    },
+    {
+      "start": 2348.97,
+      "end": 2351.03,
+      "text": "So kiwi companies are treated the same"
+    },
+    {
+      "start": 2351.03,
+      "end": 2352.03,
+      "text": "as overseas companies."
+    },
+    {
+      "start": 2352.38,
+      "end": 2354.99,
+      "text": "So we have those doors open so when the IT"
+    },
+    {
+      "start": 2355.7,
+      "end": 2357.16,
+      "text": "procurement processes happen,"
+    },
+    {
+      "start": 2357.3,
+      "end": 2359.47,
+      "text": "we feel like we're actually got an opportunity to bid"
+    },
+    {
+      "start": 2360.26,
+      "end": 2362.55,
+      "text": "and then we can leverage that ourselves to go to market"
+    },
+    {
+      "start": 2362.57,
+      "end": 2363.72,
+      "text": "and we can use the support"
+    },
+    {
+      "start": 2363.72,
+      "end": 2365.47,
+      "text": "of the NZT and that to go out there."
+    },
+    {
+      "start": 2366.34,
+      "end": 2368.84,
+      "text": "Um, so some examples of that, um,"
+    },
+    {
+      "start": 2370.97,
+      "end": 2375.03,
+      "text": "we've seen where we you to, to sign agreements"
+    },
+    {
+      "start": 2375.03,
+      "end": 2377.28,
+      "text": "with certain agencies, you have to allow your,"
+    },
+    {
+      "start": 2377.47,
+      "end": 2379.28,
+      "text": "your cost models to be fully audited."
+    },
+    {
+      "start": 2380.03,
+      "end": 2381.43,
+      "text": "I can't imagine PWC"
+    },
+    {
+      "start": 2381.43,
+      "end": 2384.51,
+      "text": "and um, Microsoft to don't necessarily having those, um,"
+    },
+    {
+      "start": 2384.91,
+      "end": 2387.24,
+      "text": "contracts, those stipulations being put into this."
+    },
+    {
+      "start": 2387.28,
+      "end": 2388.84,
+      "text": "Maybe they are. Um,"
+    },
+    {
+      "start": 2389.05,
+      "end": 2392.07,
+      "text": "but that's certainly something we've seen also."
+    },
+    {
+      "start": 2392.49,
+      "end": 2395.8,
+      "text": "Um, another stifling factor there is local vendors."
+    },
+    {
+      "start": 2396.57,
+      "end": 2399.03,
+      "text": "Um, you have to agree with some agencies,"
+    },
+    {
+      "start": 2399.7,
+      "end": 2403.36,
+      "text": "health New Zealand, to, to any IP that's developed"
+    },
+    {
+      "start": 2403.49,
+      "end": 2405.8,
+      "text": "by you on working on that project as owned by them."
+    },
+    {
+      "start": 2406.45,
+      "end": 2408.59,
+      "text": "So we actually have to give up our IP rides,"
+    },
+    {
+      "start": 2409.18,
+      "end": 2410.43,
+      "text": "um, to stuff we've worked on."
+    },
+    {
+      "start": 2410.43,
+      "end": 2413.16,
+      "text": "And that doesn't mean that that's regardless if they've had"
+    },
+    {
+      "start": 2413.16,
+      "end": 2415.99,
+      "text": "any involvement in the development or design of that ip."
+    },
+    {
+      "start": 2417.05,
+      "end": 2419.3,
+      "text": "So again, we remain on that back foot."
+    },
+    {
+      "start": 2419.49,
+      "end": 2422.22,
+      "text": "So it's unfair, counterproductive from our point of view,"
+    },
+    {
+      "start": 2422.8,
+      "end": 2425.14,
+      "text": "uh, and signals to innovators"
+    },
+    {
+      "start": 2425.14,
+      "end": 2427.82,
+      "text": "that you're actually better off going offshore."
+    },
+    {
+      "start": 2428.3,
+      "end": 2429.91,
+      "text": "Okay. So quite simple."
+    },
+    {
+      "start": 2430.2,
+      "end": 2431.99,
+      "text": "Um, we're not asking"
+    },
+    {
+      "start": 2431.99,
+      "end": 2434.03,
+      "text": "for handouts though we're particularly special treatments."
+    },
+    {
+      "start": 2434.26,
+      "end": 2435.78,
+      "text": "It's a really a level playing field,"
+    },
+    {
+      "start": 2435.78,
+      "end": 2437.47,
+      "text": "but is what we think we do do the most"
+    },
+    {
+      "start": 2437.49,
+      "end": 2440.22,
+      "text": "for software companies to set them up for success."
+    },
+    {
+      "start": 2440.84,
+      "end": 2442.78,
+      "text": "So procure, like we believe in ourselves,"
+    },
+    {
+      "start": 2444.12,
+      "end": 2446.3,
+      "text": "let kiwi companies pilots scale things"
+    },
+    {
+      "start": 2446.41,
+      "end": 2448.91,
+      "text": "and build solutions up here, get a cashflow established"
+    },
+    {
+      "start": 2449.41,
+      "end": 2451.51,
+      "text": "so then when they go to market they can get going."
+    },
+    {
+      "start": 2451.57,
+      "end": 2452.66,
+      "text": "Mm-hmm. Um,"
+    },
+    {
+      "start": 2452.97,
+      "end": 2456.11,
+      "text": "and I think, think beyond export promotion, um,"
+    },
+    {
+      "start": 2456.49,
+      "end": 2458.59,
+      "text": "we made a bit of a joke in the office the other day"
+    },
+    {
+      "start": 2458.82,
+      "end": 2462.66,
+      "text": "actually, uh, that NZT does such a great job offshore."
+    },
+    {
+      "start": 2462.72,
+      "end": 2465.82,
+      "text": "It would be great to have them around advocating"
+    },
+    {
+      "start": 2466.16,
+      "end": 2470.14,
+      "text": "for domestically, um, for New Zealand companies, uh, as well"
+    },
+    {
+      "start": 2470.14,
+      "end": 2471.14,
+      "text": "to champion innovation."
+    },
+    {
+      "start": 2471.49,
+      "end": 2473.11,
+      "text": "Um, because really we need"
+    },
+    {
+      "start": 2473.11,
+      "end": 2475.34,
+      "text": "that steady domestic revenue to be able to launch."
+    },
+    {
+      "start": 2475.89,
+      "end": 2479.14,
+      "text": "So best you can give any, uh,"
+    },
+    {
+      "start": 2479.14,
+      "end": 2481.78,
+      "text": "advantage you give any tech business is credible,"
+    },
+    {
+      "start": 2482.39,
+      "end": 2484.3,
+      "text": "referenceable, cash flow stable on markets"
+    },
+    {
+      "start": 2484.8,
+      "end": 2486.82,
+      "text": "and that's, that's really what we, we look for."
+    },
+    {
+      "start": 2486.97,
+      "end": 2489.22,
+      "text": "Awesome. Alright, well thank you very much for,"
+    },
+    {
+      "start": 2489.22,
+      "end": 2491.26,
+      "text": "and there's some really valid points there I think in terms"
+    },
+    {
+      "start": 2491.26,
+      "end": 2492.74,
+      "text": "of looking to try"
+    },
+    {
+      "start": 2492.74,
+      "end": 2495.8,
+      "text": "And enable domestic economic activity."
+    },
+    {
+      "start": 2496.11,
+      "end": 2498.36,
+      "text": "Uh, you know, and this would apply across other industries"
+    },
+    {
+      "start": 2498.47,
+      "end": 2500.53,
+      "text": "as well, I'm, I'm sure, but certainly in your"
+    },
+    {
+      "start": 2500.76,
+      "end": 2501.8,
+      "text": "industry it's a relevant area."
+    },
+    {
+      "start": 2502.22,
+      "end": 2506.36,
+      "text": "Um, and in terms of what this committee's looking at, um,"
+    },
+    {
+      "start": 2506.74,
+      "end": 2509.89,
+      "text": "it is specifically on yeah, offshore piece."
+    },
+    {
+      "start": 2509.91,
+      "end": 2511.76,
+      "text": "And there were a couple aspects though that you raised"
+    },
+    {
+      "start": 2511.76,
+      "end": 2514.61,
+      "text": "that I wanted to, um, pick up on from that."
+    },
+    {
+      "start": 2515.03,
+      "end": 2517.89,
+      "text": "And you'd said it was difficult at times to go"
+    },
+    {
+      "start": 2517.89,
+      "end": 2520.09,
+      "text": "to market if you hadn't had the opportunity"
+    },
+    {
+      "start": 2520.09,
+      "end": 2522.12,
+      "text": "to demonstrate a track record domestically."
+    },
+    {
+      "start": 2522.51,
+      "end": 2524.84,
+      "text": "So is that something that many markets are"
+    },
+    {
+      "start": 2524.91,
+      "end": 2526.28,
+      "text": "requiring or wanting to see?"
+    },
+    {
+      "start": 2526.34,
+      "end": 2530.36,
+      "text": "Is proof of work done in your home location"
+    },
+    {
+      "start": 2530.36,
+      "end": 2531.41,
+      "text": "before they'll award"
+    },
+    {
+      "start": 2531.57,
+      "end": 2532.57,
+      "text": "Contracts? I I mean, that's not the end"
+    },
+    {
+      "start": 2532.57,
+      "end": 2532.8,
+      "text": "of the"
+    },
+    {
+      "start": 2532.8,
+      "end": 2533.68,
+      "text": "world if you don't have that."
+    },
+    {
+      "start": 2533.8,
+      "end": 2535.76,
+      "text": "Okay. But it certainly makes it a hell of a lot easier."
+    },
+    {
+      "start": 2536.03,
+      "end": 2537.53,
+      "text": "And so from our experience,"
+    },
+    {
+      "start": 2537.84,
+      "end": 2540.49,
+      "text": "just having those referenceable examples certainly helped."
+    },
+    {
+      "start": 2541.11,
+      "end": 2543.2,
+      "text": "And, you know, we see ourselves, you know,"
+    },
+    {
+      "start": 2543.38,
+      "end": 2545.72,
+      "text": "being well established as having a bit of a role, um,"
+    },
+    {
+      "start": 2546.51,
+      "end": 2548.61,
+      "text": "but to support, um, our peers and,"
+    },
+    {
+      "start": 2548.66,
+      "end": 2550.41,
+      "text": "and smaller ups uh, startups."
+    },
+    {
+      "start": 2551.03,
+      "end": 2552.76,
+      "text": "Um, and you know, a lot"
+    },
+    {
+      "start": 2552.76,
+      "end": 2553.97,
+      "text": "of those people who've done"
+    },
+    {
+      "start": 2553.97,
+      "end": 2555.41,
+      "text": "startups have come out of our business."
+    },
+    {
+      "start": 2555.43,
+      "end": 2558.61,
+      "text": "So we do feel a bit of a, a role in helping them and,"
+    },
+    {
+      "start": 2558.78,
+      "end": 2561.45,
+      "text": "and we know, yes, they might still go and win business."
+    },
+    {
+      "start": 2561.59,
+      "end": 2563.68,
+      "text": "Um, I can think of a couple that companies"
+    },
+    {
+      "start": 2563.68,
+      "end": 2564.93,
+      "text": "that have done okay overseas"
+    },
+    {
+      "start": 2564.93,
+      "end": 2567.12,
+      "text": "and particularly in the Middle East and been given a go,"
+    },
+    {
+      "start": 2567.55,
+      "end": 2568.89,
+      "text": "but you're starting on the back foot"
+    },
+    {
+      "start": 2569.22,
+      "end": 2571.49,
+      "text": "and it would be a hell of a lot easier if we were able to"
+    },
+    {
+      "start": 2572.12,
+      "end": 2573.16,
+      "text": "leverage something that we've done here"
+    },
+    {
+      "start": 2573.16,
+      "end": 2574.24,
+      "text": "and to be able to point to that"
+    },
+    {
+      "start": 2574.24,
+      "end": 2575.36,
+      "text": "and say, Hey, look, this was awesome."
+    },
+    {
+      "start": 2576.14,
+      "end": 2578.01,
+      "text": "Here's some tangible examples. Yeah."
+    },
+    {
+      "start": 2578.3,
+      "end": 2583.24,
+      "text": "So with those, um, pitches then, are there any scenarios"
+    },
+    {
+      "start": 2583.24,
+      "end": 2585.64,
+      "text": "where you might have done work in a particular country"
+    },
+    {
+      "start": 2586.07,
+      "end": 2588.12,
+      "text": "that significantly improves your likelihood"
+    },
+    {
+      "start": 2588.12,
+      "end": 2589.97,
+      "text": "of getting a contract in another country?"
+    },
+    {
+      "start": 2590.36,
+      "end": 2591.41,
+      "text": "Yeah, sure. I mean,"
+    },
+    {
+      "start": 2591.43,
+      "end": 2594.28,
+      "text": "so particularly the work we've done in the US over the last"
+    },
+    {
+      "start": 2594.28,
+      "end": 2597.53,
+      "text": "15 to 20 years, we've been able to re reference that into,"
+    },
+    {
+      "start": 2598.14,
+      "end": 2599.93,
+      "text": "um, the Middle East in particular."
+    },
+    {
+      "start": 2599.95,
+      "end": 2601.05,
+      "text": "They take a lot of guidance"
+    },
+    {
+      "start": 2601.09,
+      "end": 2603.36,
+      "text": "where we follow a lot of them the way they operate."
+    },
+    {
+      "start": 2603.95,
+      "end": 2606.12,
+      "text": "Um, particularly the work we've done with the NHS"
+    },
+    {
+      "start": 2606.51,
+      "end": 2608.64,
+      "text": "that's referenced into Canada and vice versa."
+    },
+    {
+      "start": 2609.07,
+      "end": 2611.01,
+      "text": "Um, and same with Australia and ourselves."
+    },
+    {
+      "start": 2611.51,
+      "end": 2613.16,
+      "text": "So some of the work we've done here, those,"
+    },
+    {
+      "start": 2613.18,
+      "end": 2616.36,
+      "text": "those early kickoff projects were able, enabled us"
+    },
+    {
+      "start": 2616.36,
+      "end": 2617.8,
+      "text": "to really start with that credibility"
+    },
+    {
+      "start": 2617.8,
+      "end": 2618.72,
+      "text": "and say, Hey, look, here's something"
+    },
+    {
+      "start": 2619.01,
+      "end": 2619.68,
+      "text": "tangible that we've done."
+    },
+    {
+      "start": 2620.7,
+      "end": 2624.89,
+      "text": "Um, so being that, you know, working here for 25 years or so"
+    },
+    {
+      "start": 2624.89,
+      "end": 2627.2,
+      "text": "and having our clinical portal in almost every hospital in"
+    },
+    {
+      "start": 2627.2,
+      "end": 2629.24,
+      "text": "New Zealand is something we, we are able"
+    },
+    {
+      "start": 2629.24,
+      "end": 2630.49,
+      "text": "to still leverage to this day."
+    },
+    {
+      "start": 2630.76,
+      "end": 2633.64,
+      "text": "Okay. And you touched on NZTE being, um,"
+    },
+    {
+      "start": 2633.64,
+      "end": 2634.89,
+      "text": "quite effective Yeah."
+    },
+    {
+      "start": 2635.84,
+      "end": 2637.41,
+      "text": "Encouraging you here. Can you just give us perhaps a"
+    },
+    {
+      "start": 2637.41,
+      "end": 2638.45,
+      "text": "bit more context around that?"
+    },
+    {
+      "start": 2638.51,
+      "end": 2641.76,
+      "text": "Are there particular aspects that they are doing really well"
+    },
+    {
+      "start": 2641.76,
+      "end": 2644.45,
+      "text": "to support the industry or, or any of that conversely or not"
+    },
+    {
+      "start": 2644.74,
+      "end": 2646.12,
+      "text": "and perhaps the level of knowledge"
+    },
+    {
+      "start": 2646.12,
+      "end": 2648.36,
+      "text": "or understanding within NZT of"
+    },
+    {
+      "start": 2648.8,
+      "end": 2649.8,
+      "text": "Y? Yeah, so I mean,"
+    },
+    {
+      "start": 2649.8,
+      "end": 2651.41,
+      "text": "a great example is, I mean, it's, it's,"
+    },
+    {
+      "start": 2651.45,
+      "end": 2653.57,
+      "text": "I guess it's a bit of that soft touch diplomacy,"
+    },
+    {
+      "start": 2653.57,
+      "end": 2655.84,
+      "text": "if you will, and, and opening doors up, um,"
+    },
+    {
+      "start": 2655.97,
+      "end": 2659.01,
+      "text": "particularly in places like the Middle East, Europe,"
+    },
+    {
+      "start": 2659.7,
+      "end": 2660.93,
+      "text": "um, and Asia."
+    },
+    {
+      "start": 2661.47,
+      "end": 2664.72,
+      "text": "Um, we certainly see the benefit of having the,"
+    },
+    {
+      "start": 2664.72,
+      "end": 2666.8,
+      "text": "the fern mark that we use proudly."
+    },
+    {
+      "start": 2667.26,
+      "end": 2669.2,
+      "text": "Uh, and, and having EZTE"
+    },
+    {
+      "start": 2669.2,
+      "end": 2670.93,
+      "text": "and the trade commissioners out there opening doors"
+    },
+    {
+      "start": 2670.98,
+      "end": 2673.53,
+      "text": "and looking to host events, do things with us"
+    },
+    {
+      "start": 2674.03,
+      "end": 2675.64,
+      "text": "just gives us that level of credibility."
+    },
+    {
+      "start": 2675.7,
+      "end": 2677.64,
+      "text": "And I think there's an appreciation, you know,"
+    },
+    {
+      "start": 2677.64,
+      "end": 2679.8,
+      "text": "the New Zealand, new Zealand's got a good reputation in the"
+    },
+    {
+      "start": 2679.8,
+      "end": 2683.05,
+      "text": "world, um, so they're able to leverage that, I suppose"
+    },
+    {
+      "start": 2683.05,
+      "end": 2685.49,
+      "text": "with their, with their contacts and whatnot out there"
+    },
+    {
+      "start": 2685.55,
+      "end": 2686.68,
+      "text": "and able to open doors for us."
+    },
+    {
+      "start": 2686.7,
+      "end": 2689.68,
+      "text": "And that almost having that, that nod"
+    },
+    {
+      "start": 2689.7,
+      "end": 2690.84,
+      "text": "and acknowledgement, um,"
+    },
+    {
+      "start": 2690.88,
+      "end": 2693.16,
+      "text": "from the New Zealand agency we find very helpful."
+    },
+    {
+      "start": 2693.39,
+      "end": 2696.28,
+      "text": "Mm-hmm. Um, so an example of that, we've got a delegation,"
+    },
+    {
+      "start": 2696.55,
+      "end": 2698.89,
+      "text": "um, this week coming from Saudi Arabia,"
+    },
+    {
+      "start": 2699.05,
+      "end": 2701.45,
+      "text": "which NCTE has helped facilitate."
+    },
+    {
+      "start": 2701.91,
+      "end": 2703.72,
+      "text": "So there's ongoing partnership work"
+    },
+    {
+      "start": 2703.72,
+      "end": 2704.84,
+      "text": "that we do with them all the time."
+    },
+    {
+      "start": 2705.93,
+      "end": 2708.24,
+      "text": "Excellent. All right. Any final questions for Andrew?"
+    },
+    {
+      "start": 2709.86,
+      "end": 2712.84,
+      "text": "Maybe very briefly. Um, fascinating."
+    },
+    {
+      "start": 2713.18,
+      "end": 2716.16,
+      "text": "And do you have kind of a best practice example of a country"
+    },
+    {
+      "start": 2716.39,
+      "end": 2719.68,
+      "text": "who both, um, encourages that domestic innovation"
+    },
+    {
+      "start": 2719.78,
+      "end": 2721.28,
+      "text": "but has still got the doors open"
+    },
+    {
+      "start": 2721.62,
+      "end": 2723.09,
+      "text": "and does it Well, I mean,"
+    },
+    {
+      "start": 2723.09,
+      "end": 2724.05,
+      "text": "you've talked about Middle East and"
+    },
+    {
+      "start": 2724.05,
+      "end": 2725.24,
+      "text": "Canada. Is it one of those?"
+    },
+    {
+      "start": 2725.59,
+      "end": 2729.49,
+      "text": "Yeah, Canada, uh, Canada, I mean, it's, it's funny the,"
+    },
+    {
+      "start": 2729.7,
+      "end": 2732.76,
+      "text": "we won a project there covering 15 million people, um,"
+    },
+    {
+      "start": 2732.78,
+      "end": 2733.84,
+      "text": "in Ontario, and"
+    },
+    {
+      "start": 2733.84,
+      "end": 2734.84,
+      "text": "that's probably the most robust"
+    },
+    {
+      "start": 2734.84,
+      "end": 2736.09,
+      "text": "procurement we've ever been through."
+    },
+    {
+      "start": 2736.3,
+      "end": 2738.45,
+      "text": "Mm-hmm. Um, and literally the, the Ministry"
+    },
+    {
+      "start": 2738.45,
+      "end": 2739.68,
+      "text": "of Healthcare gets peer reviewed"
+    },
+    {
+      "start": 2739.74,
+      "end": 2741.32,
+      "text": "by their treasury for all their work."
+    },
+    {
+      "start": 2741.34,
+      "end": 2743.89,
+      "text": "So it's, it's not like it's an open, say this sort of thing."
+    },
+    {
+      "start": 2744.62,
+      "end": 2748.84,
+      "text": "Um, but, um, they, they're really clear in terms of"
+    },
+    {
+      "start": 2749.03,
+      "end": 2750.2,
+      "text": "what they want in terms"
+    },
+    {
+      "start": 2750.2,
+      "end": 2752.36,
+      "text": "of local engagement that we have to do."
+    },
+    {
+      "start": 2752.39,
+      "end": 2754.49,
+      "text": "So we have local partners there. Mm-hmm."
+    },
+    {
+      "start": 2754.59,
+      "end": 2758.05,
+      "text": "Um, they're really open about their expectations in terms"
+    },
+    {
+      "start": 2758.05,
+      "end": 2760.01,
+      "text": "of the work we need to do on the ground, uh,"
+    },
+    {
+      "start": 2760.01,
+      "end": 2762.2,
+      "text": "particularly in Ontario with their indigenous communities,"
+    },
+    {
+      "start": 2762.66,
+      "end": 2765.12,
+      "text": "um, and, and having contacts in with them."
+    },
+    {
+      "start": 2765.66,
+      "end": 2767.45,
+      "text": "That's been a huge part of that."
+    },
+    {
+      "start": 2767.47,
+      "end": 2770.05,
+      "text": "But it's really clear and really straightforward what,"
+    },
+    {
+      "start": 2770.05,
+      "end": 2772.32,
+      "text": "what's expected of you, what to do in that market."
+    },
+    {
+      "start": 2773.18,
+      "end": 2775.28,
+      "text": "And, um, we've, we've found them really great"
+    },
+    {
+      "start": 2775.28,
+      "end": 2776.32,
+      "text": "to work with. Yeah."
+    },
+    {
+      "start": 2776.97,
+      "end": 2779.45,
+      "text": "Excellent. Hey, thank you so much for coming in, Andrew."
+    },
+    {
+      "start": 2779.45,
+      "end": 2780.64,
+      "text": "Thank you. Really appreciate your insights"
+    },
+    {
+      "start": 2780.91,
+      "end": 2783.16,
+      "text": "and uh, some good challenges there for us. Cool."
+    },
+    {
+      "start": 2783.16,
+      "end": 2784.16,
+      "text": "Thank you very much. Alright. Cheers."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_21 - FD (Part 1) - vimeo_1109803199\\2025_08_21 - FD (Part 1) - vimeo_1109803199.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109803199",
+    "display_id": "1109803199",
+    "title": "2025/08/21 - FD (Part 1)",
+    "description": "Thursday, 21 August 2025 | Foreign Affairs, Defence and Trade Committee\n\nBriefing on the Ministry of Defence Major Projects Report 2024\n\nHearing of evidence \nSubmitters list: \nMinistry of Defence and New Zealand Defence Force\u00a0\n\nBrigadier Matthew Weston, Assistant Chief Capability - New Zealand Defence Force\u00a0\nSarah Minson, Deputy Secretary Capability Delivery - Ministry of Defence\u00a0\n\n\nBriefing on non-tariff barriers\u00a0\nOrion Health\u00a0\n\nAndrew Bowater, Vice President - Operations\u00a0",
+    "webpage_url": "https://vimeo.com/1109803199",
+    "original_url": "https://vimeo.com/1109803199",
+    "upload_date": "20250820",
+    "timestamp": 1755728660,
+    "release_timestamp": 1755728668,
+    "duration": 2793,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049891912-f1afc8b9e3afdfb78348fd41e00c8966063952c755a1b23f85c614215191496d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249015715.vtt?expires=1778562429&sig=ad6c9fbd50aff1ff9f140ac4f4124732a69f70d6&download=auto_generated_captions.vtt"
+  }
+}

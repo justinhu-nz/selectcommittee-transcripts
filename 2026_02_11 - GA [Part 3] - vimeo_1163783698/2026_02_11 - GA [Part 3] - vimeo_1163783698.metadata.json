@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:15.157625+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163783698",
+  "title": "2026/02/11 - GA [Part 3]",
+  "url": "https://vimeo.com/1163783698",
+  "published_at": "20260211",
+  "published_display": "2026-02-11",
+  "duration_seconds": 4282,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4267.73,
+    "segment_count": 1487,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_11 - GA [Part 3] - vimeo_1163783698\\2026_02_11 - GA [Part 3] - vimeo_1163783698.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163783698",
+    "display_id": "1163783698",
+    "title": "2026/02/11 - GA [Part 3]",
+    "description": "2 February 2026 | Governance and Administration Committee\n\nEmergency Management Bill (No 2)\nHon Mark Mitchell, Minister for Emergency Management\nAotearoa Community Resilience Network\n\tRodney Barber, Chair\nLocal Government New Zealand [Zoom]\nNew Zealand Veterinary Association\n\tKevin Bryant, Chief Executive Officer\nMax Mashall\nFederated Farmers of New Zealand\n\tSandra Faulkner, National Board Member and Adverse Events Spokesperson",
+    "webpage_url": "https://vimeo.com/1163783698",
+    "original_url": "https://vimeo.com/1163783698",
+    "upload_date": "20260211",
+    "timestamp": 1770768846,
+    "release_timestamp": 1770768854,
+    "duration": 4282,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120209601-630a8ffb9df21ecfec47143a6777f13330d4ebe08c8f34bb78b054d8c55df75e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282072158.vtt?expires=1778562319&sig=6a522c80398a7030deb64a94ef8364bda2e78bf1&download=auto_generated_captions.vtt"
+  }
+}

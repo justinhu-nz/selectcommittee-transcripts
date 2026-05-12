@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:02:09.045969+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170080286",
+  "title": "2026 03 25 - HE",
+  "url": "https://vimeo.com/1170080286",
+  "published_at": "20260324",
+  "published_display": "2026-03-24",
+  "duration_seconds": 736,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 735.57,
+    "segment_count": 224,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 03 25 - HE - vimeo_1170080286\\2026 03 25 - HE - vimeo_1170080286.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170080286",
+    "display_id": "1170080286",
+    "title": "2026 03 25 - HE",
+    "description": "25 March 2026 | Health Committee\n\nBriefing from the Prostate Cancer Foundation\nHealth New Zealand\u2014Te Whatu Ora \n\tKaren Bartholomew, Chair, National Screening Advisory Committee\n\tJane O\u2019Hallaran, Deputy Chair, National Screening Advisory Committee",
+    "webpage_url": "https://vimeo.com/1170080286",
+    "original_url": "https://vimeo.com/1170080286",
+    "upload_date": "20260324",
+    "timestamp": 1774384649,
+    "release_timestamp": 1774384655,
+    "duration": 736,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2138326064-c16a632f3514a422f5d7c5702161c6611f451817f1ddce816480789dab35bba4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290179095.vtt?expires=1778562133&sig=9eea529f77281e41402cb218fb5425888b733a4d&download=auto_generated_captions.vtt"
+  }
+}

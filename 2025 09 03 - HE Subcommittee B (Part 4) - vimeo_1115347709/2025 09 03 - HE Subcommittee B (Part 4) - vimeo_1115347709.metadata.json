@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:31.526825+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1115347709",
+  "title": "2025 09 03 - HE Subcommittee B (Part 4)",
+  "url": "https://vimeo.com/1115347709",
+  "published_at": "20250903",
+  "published_display": "2025-09-03",
+  "duration_seconds": 10049,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10045.69,
+    "segment_count": 2696,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 03 - HE Subcommittee B (Part 4) - vimeo_1115347709\\2025 09 03 - HE Subcommittee B (Part 4) - vimeo_1115347709.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1115347709",
+    "display_id": "1115347709",
+    "title": "2025 09 03 - HE Subcommittee B (Part 4)",
+    "description": "3 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nPSA Mental Health and Addictions Committee\nTu Atea Limited\n\tAntony Royal, Chief Executive Officer\n\tHermione McCallum, Chief Policy Officer\nJohn Gregson\nPSA Te Whatu Oral Health Sector Committee\nCoal Action Murihiku\n\tJenny Campbell, Co- convenor\nTe Punanga Ora Iwi Maori Partnership Board\nTairawhiti Toitu Te Ora\nTe Moana a To Iwi Maori Partnership board\n\tHone Te Rire, Co-Chair\n\tRutu Swinton, Co-Chair\nMcGuinness Institute\n\tWendy McGuinness\nNga Maia Trust\nNgai Tamanuhiri\n\tPauline Hill, Chair\nTihei Takitimu Iwi-Maori Partnership Board\n\tKerri Nuku\n\tLewis Ratapu\nTamara Karu\nRauawaawa Kaumatua Charitable Trust\nCouncil of Medical Colleges in New Zealand\n\tDr Samantha Murton, Chair of the Council of Medical Colleges.\n\tAlex Marett, Executive Director",
+    "webpage_url": "https://vimeo.com/1115347709",
+    "original_url": "https://vimeo.com/1115347709",
+    "upload_date": "20250903",
+    "timestamp": 1756873317,
+    "release_timestamp": 1756873327,
+    "duration": 10049,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2055513858-67249241eebac77fe42180cc1fc28df2afea9a752946ce6f84e29a2347efe3ed-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/251299586.vtt?expires=1778563116&sig=75fab7170d38366d96b67e1457c96b042e611de6&download=auto_generated_captions.vtt"
+  }
+}

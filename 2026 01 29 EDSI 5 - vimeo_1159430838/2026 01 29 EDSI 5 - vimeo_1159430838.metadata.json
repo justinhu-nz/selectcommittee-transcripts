@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:35.856439+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159430838",
+  "title": "2026 01 29 EDSI 5",
+  "url": "https://vimeo.com/1159430838",
+  "published_at": "20260129",
+  "published_display": "2026-01-29",
+  "duration_seconds": 3482,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3476.76,
+    "segment_count": 1093,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 01 29 EDSI 5 - vimeo_1159430838\\2026 01 29 EDSI 5 - vimeo_1159430838.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159430838",
+    "display_id": "1159430838",
+    "title": "2026 01 29 EDSI 5",
+    "description": "Telecommunications and Other Matters Amendment Bill\n\nDianne Downward\n\nGeoff Dale\n\nJeanette Williams\n\nDr John McDonald-Wharry\n\nKara Vandeleur\n\nKevin Murphy\n\nMatthew Woods\n\nRex Landy\n\nClaire Bleakley\n\nRiccie de Brouwer\n\nSusan Crawford",
+    "webpage_url": "https://vimeo.com/1159430838",
+    "original_url": "https://vimeo.com/1159430838",
+    "upload_date": "20260129",
+    "timestamp": 1769645601,
+    "release_timestamp": 1769645613,
+    "duration": 3482,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113852571-3fe5ca1bd2d573fbadcee9977111b2bdf2f96e286df895e6c63ffbf2f4d3f402-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279438075.vtt?expires=1778562700&sig=2b33c40d6dadac401631e513c95ce430f203d633&download=auto_generated_captions.vtt"
+  }
+}

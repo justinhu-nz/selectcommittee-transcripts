@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:07:41.549107+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163764022",
+  "title": "2026 02 11 FEC",
+  "url": "https://vimeo.com/1163764022",
+  "published_at": "20260211",
+  "published_display": "2026-02-11",
+  "duration_seconds": 9943,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9942.17,
+    "segment_count": 3742,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 11 FEC - vimeo_1163764022\\2026 02 11 FEC - vimeo_1163764022.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163764022",
+    "display_id": "1163764022",
+    "title": "2026 02 11 FEC",
+    "description": "Wednesday 11 February 2026| Finance and Expenditure Committee\nBudget Policy Statement 2026\nAnimal Justice Party Aotearoa New Zealand\nRob McNeil, Executive President\nFinCap\nFleur Howard, Chief Executive\nJake Lilley, Senior Policy Advisor\nNorth Harbour Budgeting Services Inc\nRob Collins, Chair\nClaudette Wilson, General Manager\nSave The Children\nJacqui Southey, Child Rights Advocacy and Research Director\nChild Poverty Action Group\u00a0\nYu (Harry) Shi, Research and Programme Officer\nAndy Oakley\nBriefing on the response to the inquiry into banking competition\nBlinkpay\nAdrian Smith, Tumu Whakarae (CEO)\nReserve Bank of New Zealand\nAngus McGregor, Acting Assistant Governor Financial Stability\nJess Rowe, Director, Prudential Policy\nMinistry of Business, Innovation and Employment\nEphraim Wilson-Binding, Senior Policy Adviser\nBudget Policy Statement 2026\nSt Peter's on Willis Social Justice Group\nGail E. Duncan MRSNZ, Chair St Peter\u2019s on Willis Social Justice Group\nParents of Vision Impaired NZ\nDr Rebekah Graham, National Director\nBriefing on the response to the inquiry into banking competition\nWestpac\nCatherine McGrath, Chief Executive Officer\nFinancial Markets Authority\nSamantha Barrass, Chief Executive\nHomely\nRoy Chowdhury, Chief Technology Officer",
+    "webpage_url": "https://vimeo.com/1163764022",
+    "original_url": "https://vimeo.com/1163764022",
+    "upload_date": "20260211",
+    "timestamp": 1770769370,
+    "release_timestamp": 1770769382,
+    "duration": 9943,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120209618-12750c0d9a34b1ce891c704596a756e6dfef07b12626a99ab3f58d9279b476c5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282073649.vtt?expires=1778562465&sig=83a9bfe9860783a2c387edd702bc1cfacd087d2e&download=auto_generated_captions.vtt"
+  }
+}

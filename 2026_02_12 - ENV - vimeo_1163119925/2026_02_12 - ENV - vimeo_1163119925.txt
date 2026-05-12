@@ -1,0 +1,902 @@
+Title: 2026/02/12 - ENV
+URL: https://vimeo.com/1163119925
+Published: 2026-02-12
+Duration: 00:41:44
+
+[00:00:01] So we welcome you commissioner
+[00:00:03] to the select committee this afternoon.
+[00:00:05] Uh, we all have, uh, this report now, just, uh, members,
+[00:00:09] the primary production committee was going to be joining us,
+[00:00:12] but, uh, they aren't
+[00:00:14] because they've run over on their session.
+[00:00:16] So I understand you may do a private briefing
+[00:00:19] with them, a separate one.
+[00:00:21] So, uh, look, Simon, we will hand it over
+[00:00:24] to you for our remarks.
+[00:00:26] Actually, just before we start,
+[00:00:27] because Barbara has just walked into the room, um, uh,
+[00:00:31] just gonna seek leave of the committee for Barbara PR
+[00:00:35] to participate, um, in this briefing this afternoon.
+[00:00:40] Yes. Hearing Okay. We have Deborah come in. Yes.
+[00:00:43] And we may have, and other members join as long
+[00:00:46] as members are, are happy to, to grant me for
+[00:00:49] that participation.
+[00:00:50] Thank you. Okay. Well, we will hand it over to you
+[00:00:53] for some opening remarks,
+[00:00:55] and yes, be mindful that there'll be plenty
+[00:00:57] of questions, I'm sure.
+[00:00:58] Sure. Thank you, Madam Chair.
+[00:01:00] Uh, I have with me Dr. Anna Hooper and, uh, Dr. Uh, Nora.
+[00:01:05] Ari. These are the two people who've done a lot
+[00:01:07] of the spade work here
+[00:01:08] and Matt Patterson, whom I think, you know, uh, I'd like
+[00:01:11] to present the key findings from my latest report,
+[00:01:15] which is entitled, reviewing the use
+[00:01:17] of the LUC System in a regulatory context,
+[00:01:21] which was published last December.
+[00:01:24] Let me start by outlining
+[00:01:27] what the LUC system is.
+[00:01:30] LUC stands for Land Use Capability.
+[00:01:34] It's a land classification system,
+[00:01:36] which was developed in the 1950s based on, uh,
+[00:01:40] an American approach.
+[00:01:42] It was designed to support long-term sustained
+[00:01:45] production on the land.
+[00:01:46] So we did this because we wanted
+[00:01:48] to know about the productive capability of, uh, the land.
+[00:01:53] Um, it, there's eight classes.
+[00:01:55] I think most of you probably know this, LUC one to eight.
+[00:01:58] Uh, within each of those classes, uh, there are subclasses.
+[00:02:02] The subclasses are, uh, identified on the basis
+[00:02:06] of the dominant limitation for production.
+[00:02:09] There's four potential limitations.
+[00:02:12] I mean, all of them might apply,
+[00:02:13] but only the, the predominant one is then subclassified.
+[00:02:18] They are erod ability, wetness, soil
+[00:02:21] and climate, um, and that then there are units within those.
+[00:02:26] But this is the key point.
+[00:02:28] It was never designed to address environmental challenges.
+[00:02:32] It was to tell us what, what our land could produce.
+[00:02:37] So the first question you might ask is, why review the use
+[00:02:41] of the NUC system for a biological economy like ours?
+[00:02:46] High quality information about the land
+[00:02:49] and the wider landscape is critical,
+[00:02:52] and it is also critical for high quality, uh,
+[00:02:55] environmental regulation.
+[00:02:58] Currently, the LUC system is being relied on
+[00:03:03] to support three pieces of national regulation.
+[00:03:07] These are the national policy statement
+[00:03:10] for highly productive land,
+[00:03:12] the national environmental standard for commercial forestry
+[00:03:15] and regulation under the Climate Change Response Act
+[00:03:19] to limit ETS driven fund forestry conversions.
+[00:03:24] In addition, the LUC system is being used in regional
+[00:03:28] regulatory plans in the context of water quality
+[00:03:31] and nutrient management.
+[00:03:33] Now, given that it wasn't designed
+[00:03:36] to address environmental management challenges,
+[00:03:38] but it's now being used to support regulations,
+[00:03:42] it's prudent, I think,
+[00:03:43] to review whether the system is sufficiently robust,
+[00:03:47] particularly if the proposed new planning system is going
+[00:03:51] to have much more national direction.
+[00:03:56] The key finding of the review is
+[00:03:59] that the LUC system is ill suited for regulatory use,
+[00:04:03] especially for use of the property scale.
+[00:04:05] And that's due to several limitations.
+[00:04:09] The first is that the LUC system is outdated.
+[00:04:15] This is because the main mapping which underlies it,
+[00:04:20] was carried out in the 1970s and 1980s.
+[00:04:22] So it's around half a century ago.
+[00:04:25] And that mapping remains unchanged.
+[00:04:28] So it doesn't reflect the situation today
+[00:04:30] because land management practices such as irrigation
+[00:04:36] or drainage have directly affected the subclass limitation
+[00:04:40] of, say, wetness, for instance.
+[00:04:42] So think about Canterbury, which has been transformed, uh,
+[00:04:45] by irrigation now at the time
+[00:04:49] of the mapping, when, and,
+[00:04:52] and they did an amazing job with what they had.
+[00:04:55] So this is, we're not
+[00:04:56] being critical of the people who did it.
+[00:04:57] They did a very good job at the time,
+[00:04:59] but they had to use, uh, manual technologies
+[00:05:02] and a high degree of expert judgment.
+[00:05:05] Um, and that unavoidably introduces a high degree
+[00:05:09] of subjectivity into the areas or the polygons on the maps
+[00:05:13] and the boundaries between them.
+[00:05:16] The second, uh, limitation is that the core scale
+[00:05:21] of the mapping makes the national
+[00:05:23] LUC data set in appropriate for use at a property scale.
+[00:05:29] So the scale, uh,
+[00:05:31] of the national LUC data set is one to 50,000.
+[00:05:34] So that means a centimeter on the map equals 500
+[00:05:38] meters on the ground.
+[00:05:40] But to make operational
+[00:05:42] or site-based decisions, you need maps at the scale of say,
+[00:05:46] one to 5,000, one to 10,000 or whatever.
+[00:05:48] A centimeter equals 50 meters or a hundred meters.
+[00:05:51] Now, as any landowner knows,
+[00:05:54] and that there must be a couple in the room, I'm one,
+[00:05:57] the limitations of land can change much more frequently than
+[00:06:01] at 500 meter intervals.
+[00:06:03] I know from my own farm
+[00:06:05] that paddocks can move from well drained to not
+[00:06:08] so well drained much, much more swiftly than, uh,
+[00:06:11] 50 uh, meters.
+[00:06:12] In fact, I'm having some work done
+[00:06:14] by a student at present just
+[00:06:15] to understand some of this variability.
+[00:06:18] It's really interesting stuff.
+[00:06:21] Now, let me outline how these limitations
+[00:06:24] of the LUC system play out in existing national regulations.
+[00:06:28] I'll start with highly productive land.
+[00:06:30] Let's look at a tangible example from the Hawke's Bay
+[00:06:34] where the council explored very familiar.
+[00:06:36] No, it wasn't chosen because of you, Madame Chair.
+[00:06:39] It just, it
+[00:06:44] just happens that they've got very good
+[00:06:46] information in Hawke's Bay.
+[00:06:48] Yes. But, um, this, this is what the, the regional council,
+[00:06:52] uh, explored to identify highly productive land.
+[00:06:57] Now, if you look at this map,
+[00:06:58] so this is just south of Hastings, okay?
+[00:07:00] Mm-hmm. The pink colors on the map show areas
+[00:07:04] of LUC classes, one to three identified using the national
+[00:07:10] LUC dataset.
+[00:07:12] And if you look at the second map on the right
+[00:07:15] with the yellow, it shows the class one to three land
+[00:07:19] that shows up when you use an alternative dataset.
+[00:07:23] In this case, the digital soil map s map,
+[00:07:26] which is much more recent.
+[00:07:29] And as you may be able to see, uh, at a glimpse, uh,
+[00:07:33] the areas don't match.
+[00:07:35] There's a bigger version for you.
+[00:07:38] So the teal color areas show the overlap between the two.
+[00:07:42] So the old one, the old stuff is the pink
+[00:07:45] and the newer SAP is the yellow,
+[00:07:47] and they only overlap over 41% of the land area.
+[00:07:52] Mm-hmm. The rest doesn't, the significant disagreement
+[00:07:56] between the two data sets, similar analysis in Canterbury,
+[00:07:59] by the way, showed an even lower level of agreement
+[00:08:02] around 21%.
+[00:08:04] The point is that it would need substantial ground truthing
+[00:08:09] to reconcile and validate the two.
+[00:08:12] You'd be ill-advised to rely solely on one
+[00:08:16] or either of the methods for identification
+[00:08:18] of Hadi productive land and practical terms.
+[00:08:22] If you were concerned,
+[00:08:24] and you might be that being classed
+[00:08:26] as highly productive could limit your land use options, then
+[00:08:31] that lack of overlap could spill real problems.
+[00:08:33] Just look at the pink bits south, just south of Hastings.
+[00:08:35] Hastings is the top of the map there,
+[00:08:37] and there's teal stuff.
+[00:08:39] So they both agree, but then there's some quite big bits
+[00:08:42] of pink below that.
+[00:08:44] Mm. Now the digital soil map doesn't give these a high
+[00:08:48] status, but LUC does.
+[00:08:51] So you could find yourself in an argument
+[00:08:52] with a regulator if you were in those places.
+[00:08:57] The second illustration I've chosen of
+[00:08:59] how the LEC system plays out is the national environmental
+[00:09:02] standard on commercial forestry.
+[00:09:04] Now, the N-E-S-C-F uses the erosion susceptibility
+[00:09:09] classification, that's called ESC for short, um,
+[00:09:13] which has been derived from the LUC system.
+[00:09:18] And it's a screening tool
+[00:09:20] or threshold test to identify the erosion
+[00:09:25] susceptibility of land intended for forestry.
+[00:09:28] The threshold test is used
+[00:09:31] to determine whether a forestry activity is permitted
+[00:09:34] subject to certain conditions being met,
+[00:09:36] or whether No, no, you've gotta get a resource consent.
+[00:09:40] So it it, it's, it's what's used
+[00:09:42] to triage looking at the land's erosion susceptibility.
+[00:09:46] Now, given that erosion from forestry activities is a key
+[00:09:49] environmental issue, as we know from RAF
+[00:09:51] and elsewhere, that the,
+[00:09:55] this environmental standard is supposed to manage.
+[00:09:58] Identifying the risky land accurately is really critical.
+[00:10:02] That relies on the robustness of the erosion classification
+[00:10:06] and the national ESC data set.
+[00:10:10] So let's just look at practice at what this means.
+[00:10:14] Unfortunately, the ESC erosion susceptibility
+[00:10:20] both over and under classifies susceptibility
+[00:10:24] of land to erosion.
+[00:10:26] Now, under classifying land is a problem environmentally
+[00:10:30] because it gives the green light
+[00:10:32] to forestry when maybe more questions should be asked in
+[00:10:36] stricter controls imposed.
+[00:10:39] Let's explore again with some analysis from the Hawke's Bay.
+[00:10:43] This map shows three, uh, ESC zones,
+[00:10:48] lovely smooth edges, green with low erosion susceptibility,
+[00:10:52] orange with high susceptibility
+[00:10:54] and red with very high susceptibility.
+[00:10:56] There was a fourth yellow zone for medium susceptibility,
+[00:11:00] but there wasn't any on this map.
+[00:11:02] Okay, so there's a, there's a, there's a color missing,
+[00:11:04] but for this map, there's only three,
+[00:11:06] three susceptibilities.
+[00:11:08] Just note the uniformity and ness of these zones.
+[00:11:13] That reflects the fact that this all goes back to a one
+[00:11:15] to 50,000 data set.
+[00:11:17] Okay, now look at the green zone on the second map.
+[00:11:21] So it's not, it's the identical area.
+[00:11:23] Just look at that green zone, but go down to the second map.
+[00:11:26] This adds in recent research from what was
+[00:11:29] to recently called landcare research, me federa,
+[00:11:32] which reveals that this area contains areas
+[00:11:35] of high susceptibility to landslides
+[00:11:38] and high connectivity to waterways.
+[00:11:40] And that's the red. So you can see there's plenty
+[00:11:44] of red bits in the green zone.
+[00:11:46] So here, the ESC under classifies the land.
+[00:11:51] Now, as I've mentioned, under classifying,
+[00:11:53] it lands a real risk because of the more permissive approach
+[00:11:57] the environmental standard takes to management of that land.
+[00:12:01] Now, there are of course, gonna be instances
+[00:12:03] where ESC over classifies the land
+[00:12:05] and says, we should be more cautious than we should be.
+[00:12:07] But, but the, the fact of the matter is you can't rely on
+[00:12:11] that ESC alone.
+[00:12:14] And here, just by way of interest, this third map,
+[00:12:17] we have added some additional information.
+[00:12:19] Overlaying research from Earth Sciences New Zealand,
+[00:12:23] the old GNS, this shows areas in purple
+[00:12:26] with a greater than 80% probability
+[00:12:29] of rainfall induced landslides.
+[00:12:32] Again, it shows just
+[00:12:33] how coarse the ESC zones are in comparison
+[00:12:37] with the recent research output.
+[00:12:40] But I was keen to include this slide
+[00:12:41] because I think it shows something of the power of newer,
+[00:12:46] finer resolution data sets.
+[00:12:48] The problem is
+[00:12:50] that we do not have them over all of New Zealand.
+[00:12:53] There's lots and lots and lots of gaps.
+[00:12:57] And even when we've got them,
+[00:12:58] they haven't been gathered necessarily in a way that's easy
+[00:13:00] to stitch them together for the purpose
+[00:13:03] that you're, you're concerned about.
+[00:13:05] So that brings me to my recommendations.
+[00:13:07] Uh, the first is that as a result
+[00:13:10] of the limitations I've outlined,
+[00:13:12] the current LUC system should not be used
+[00:13:16] as a basis for any future environmental regulation.
+[00:13:20] This recommendation applies both to national
+[00:13:23] and regional regulation through RMA plans.
+[00:13:28] The use of the national LUC data set
+[00:13:31] for property scale regulation used regularly in RMA plans is
+[00:13:35] particularly problematic.
+[00:13:38] Secondly, the government should invest in progressively
+[00:13:41] and proving essential contemporary data sets
+[00:13:45] that underpin land use regulation
+[00:13:48] and ensure they are publicly available and affordable
+[00:13:52] and can be easily integrated.
+[00:13:54] It's one thing to have them,
+[00:13:55] but then if you wanna put them together, you need to be sure
+[00:13:59] that they gathered in a way which enables that to happen.
+[00:14:03] As part of the review, uh,
+[00:14:04] we've identified several such data sets.
+[00:14:07] Lidars one, very accurate information on
+[00:14:09] elevation as well as slope.
+[00:14:11] And that's used for a gazillion applications hazard
+[00:14:15] management, forestry engineering, flood management
+[00:14:18] S map, which I've mentioned.
+[00:14:20] Digital soil map provides associated information
+[00:14:23] about soil properties.
+[00:14:24] There's something called the land cover database,
+[00:14:26] which tells us what's happening with land cover, you know,
+[00:14:30] forest versus grassland versus wetland versus urban versus
+[00:14:32] bare soil versus water bodies.
+[00:14:35] Uh, that one, um,
+[00:14:38] I think it's undertaken every set or eight years.
+[00:14:41] And then we need,
+[00:14:43] obviously comprehensive real time land use mapping
+[00:14:47] to support spatial planning decisions at
+[00:14:49] the national and local level.
+[00:14:51] Such maps don't currently exist.
+[00:14:56] I mean, there's lots and lots of land use maps,
+[00:14:58] but we do not have a common methodology.
+[00:15:01] Mm-hmm. There are satellites flying over
+[00:15:03] New Zealand all the time.
+[00:15:04] We do not have that information.
+[00:15:07] I just thought you'd like to see what LIDAR tells
+[00:15:09] you about Parliament.
+[00:15:10] Thi I think we are in a
+[00:15:14] building, a building.
+[00:15:17] Thirdly, these essential contemporary data sets,
+[00:15:21] and I've only mentioned a handful.
+[00:15:22] There's, there's many, many more than that. A handful.
+[00:15:24] They need to be used to modernize that LUC and ESC systems.
+[00:15:29] You don't throw the baby up with the bath water, but,
+[00:15:31] but they need to be modernized.
+[00:15:33] But I think more importantly, we are suitable.
+[00:15:36] We need to create bespoke fit for purpose models
+[00:15:40] for specific regulatory purposes.
+[00:15:42] And I think you can imagine a world in which national
+[00:15:44] direction could specify the data requirements
+[00:15:47] and layers needed to address particular problems.
+[00:15:50] But you have to have the layers
+[00:15:52] and you have to have the data, and it has to be in a form.
+[00:15:54] You can use it to do that.
+[00:15:56] Finally, we need to focus improvements on areas
+[00:16:01] where better information is most urgently needed.
+[00:16:05] I know the stuff is costly
+[00:16:07] and there are limited resources, so you need
+[00:16:10] to be able to prioritize.
+[00:16:12] And that is what a government should do, for example,
+[00:16:15] in the context of the, uh,
+[00:16:18] highly productive land regulation.
+[00:16:20] You need to focus getting the data right in those areas,
+[00:16:23] which are under pressure from urban expansion.
+[00:16:25] Mm-hmm. So that's Auckland, Tara Hamilton,
+[00:16:27] Napier Hastings, Christchurch.
+[00:16:29] I mean, it's obvious, isn't it?
+[00:16:32] Finally, some concluding remarks.
+[00:16:34] Uh, this review has highlighted
+[00:16:37] that the LUC system isn't fit for purpose
+[00:16:39] for certainly from environmental regulation.
+[00:16:42] Uh, and the sorts of uses it's been put to most recently
+[00:16:45] for the farm forestry conversion, uh, thing.
+[00:16:48] And that's really what got me, uh, going.
+[00:16:51] The limitations of that system are yet another example
+[00:16:56] of the broader issue, which I keep drawing
+[00:16:58] to this committee's attention.
+[00:17:00] And that is the state of our environmental information.
+[00:17:04] The need for better information, which is the foundation
+[00:17:09] for good decision making, uh, has been a consistent theme
+[00:17:12] that I have raised with you now
+[00:17:14] and some of your predecessors for eight years.
+[00:17:18] The new resource management system proposes
+[00:17:21] to make greater use of spatial planning
+[00:17:24] and environmental limits.
+[00:17:27] These will require much, much better information
+[00:17:32] than we have currently available.
+[00:17:36] If you're gonna have limits which can stand up in court,
+[00:17:39] which you can justify to your taxpayers rate, payers
+[00:17:43] and citizens, they need
+[00:17:44] to be based on good quality information that is not there.
+[00:17:47] In many cases. I can't stress to you enough
+[00:17:52] how critical good environmental data
+[00:17:54] and information is for environmental management.
+[00:17:58] I would go further and suggest
+[00:18:00] that without significant investment in the underlying
+[00:18:02] environmental data and information I proposed,
+[00:18:07] planning and environmental management system will fail.
+[00:18:11] With that, we'd be very happy to answer questions,
+[00:18:14] particularly my colleagues on any of the detail around, uh,
+[00:18:19] the science behind this. Hmm.
+[00:18:21] Look, thank you very much, Simon.
+[00:18:23] That really insightful, really interesting.
+[00:18:26] And look, I might just take the opportunity
+[00:18:28] to ask the first question, given
+[00:18:29] that you have given Hawks Bay as an example,
+[00:18:31] and given that, uh, you know, it is, it is an issue, uh,
+[00:18:35] you know, the luck one, two, and three, um,
+[00:18:38] and all on highly productive land Hastings, uh,
+[00:18:42] Tonga Plains, um, and you know, in terms of development,
+[00:18:46] and you just said, uh, you know, it is expensive to look at,
+[00:18:49] uh, you know, changing the modeling,
+[00:18:51] but it seemed the maps that you gave, it was the soil
+[00:18:54] that was the, um, the differentiating point.
+[00:18:57] Yes. The soil mapping. Yeah.
+[00:18:59] And so obviously that would be a priority area
+[00:19:02] that you would recommend,
+[00:19:03] but then also geographically you said as well.
+[00:19:06] So you've identified the areas that you think as, as a,
+[00:19:10] you know, government, if you were
+[00:19:11] to take on the recommendations
+[00:19:13] that you would pri prioritize areas like Hawkes Bay,
+[00:19:16] like Oakland, like Tonga, well,
+[00:19:17] Maybe not Hawkes Bay, because maybe we,
+[00:19:19] that we may actually have better information there.
+[00:19:21] I'm, I'm aware for instance, that there are, you know,
+[00:19:24] some parts of New Zealand like Canterbury, like
+[00:19:28] Horizons Man two, where there are significant gaps.
+[00:19:31] And I can tell you more about the detail of that.
+[00:19:33] Uh, yeah. Uh, and obviously focusing on the soil,
+[00:19:36] definitely that's kind of the main focus in the context
+[00:19:39] of highly productive land.
+[00:19:40] Mm. Um, but both Hog Bay
+[00:19:44] and Vito actually have almost a hundred percent
+[00:19:47] coverage of the sap.
+[00:19:48] So they do have that more refine.
+[00:19:51] So information, but, uh, it's, uh, from memory,
+[00:19:55] Canterbury has, uh, gaps
+[00:19:58] and gaps around 50% of the region.
+[00:20:01] Still missing that, but obviously the coverage is much
+[00:20:05] better on the plains, essentially the areas where
+[00:20:09] that highly productive land is more likely to be.
+[00:20:12] So if you look only at that, you know, the possible areas
+[00:20:15] for highly productive land, the coverage is almost 80%
+[00:20:20] or just for those specific ones.
+[00:20:23] But obviously there are plenty of gaps specifically for the,
+[00:20:26] on the hills on the Hillier country.
+[00:20:28] So it's not, uh, providing maybe as much help
+[00:20:31] for managing erosion issues. Mm-hmm.
+[00:20:34] And just a quick supplementary internationally, in terms
+[00:20:37] of other countries and how they classify their land
+[00:20:41] and, you know, marry it all up, uh, you know, are we, are we
+[00:20:45] behind in terms of, uh, a global international sense?
+[00:20:51] Well, we didn't specifically look into this as part
+[00:20:54] of the LEC review,
+[00:20:56] but we're, uh, well aware,
+[00:20:57] especially if you look at Australia,
+[00:20:59] there are quite a few data sets
+[00:21:00] and the, uh, obviously, you know, huge country,
+[00:21:04] but equally more resources
+[00:21:05] and more sort of efforts,
+[00:21:07] especially from the research community.
+[00:21:09] Hmm. Uh, I, uh, so it's maybe the question of ensuring
+[00:21:14] that there are those, you know, uh, correct
+[00:21:18] or robust environmental information being available
+[00:21:21] to support policy decisions,
+[00:21:24] but also to support, uh, management
+[00:21:27] of environmental issues of concern.
+[00:21:29] Just on that, can, can I tell a committee,
+[00:21:32] I'll have a report with you around the middle of the year,
+[00:21:35] which this is just a little bit of it,
+[00:21:37] which we'll pull together a lot of
+[00:21:39] what I've been saying about environmental information.
+[00:21:42] I've already, um, sent ministers in advance of coming
+[00:21:46] to Parliament, actually, but it's, it's on my website
+[00:21:49] and I've notified all of you about it.
+[00:21:51] But we produced a piece about integrated,
+[00:21:54] uh, environmental data.
+[00:21:55] Um, I'm going to pull that together with an assessment of,
+[00:22:00] um, the, the way in which some of the new technologies, uh,
+[00:22:05] which are out there can change the game
+[00:22:08] in terms of pulling us together.
+[00:22:09] Mm-hmm. Now, is New Zealand ahead or behind?
+[00:22:12] I mean, look, we've got very good scientists in pockets
+[00:22:15] doing really good bits of stuff.
+[00:22:17] We've got a slew of national data sets.
+[00:22:20] Some of them properly funded, some of them literally it's a,
+[00:22:24] you know, a, a penny here,
+[00:22:25] a penny there as they could put it together.
+[00:22:27] But, but we've, we've got bits of it.
+[00:22:30] What is needed is a conscious effort to sit down
+[00:22:34] and prioritize this
+[00:22:35] and invest in it in a, you can't do it all in a year anyhow,
+[00:22:39] but have a strategy where over a decade we seek
+[00:22:42] to transform things.
+[00:22:43] And we would certainly look at Australia in that context,
+[00:22:46] but other countries, uh, as well.
+[00:22:48] Uh, and this is the moment to do it. Mm.
+[00:22:51] Because if you're gonna have a resource management system
+[00:22:53] based on permission subject to things that you monitor,
+[00:22:58] you have to have the information to do that.
+[00:23:01] Um, so this is, this is the moment for this committee
+[00:23:04] to focus on this.
+[00:23:06] Brilliant. Thank you. Uh, Ryan Hamilton has a question.
+[00:23:09] Um, thanks, chair. Um,
+[00:23:11] and you probably segued into where I was going.
+[00:23:13] Um, Simon last year,
+[00:23:15] when we did the climate adoption framework, this got exposed
+[00:23:18] as being quite rudimentary,
+[00:23:20] and yet it still sort of formed that foundation of it.
+[00:23:24] And when I questioned, I guess, different entities within
+[00:23:29] our lovely government bureaucracy, um, no one really knew
+[00:23:33] where it should be housed.
+[00:23:35] And I wonder, and I mean, I'm assuming you are relatively
+[00:23:37] agnostic, but who do you think should house this in terms
+[00:23:40] of an entity, a ministry?
+[00:23:42] Because it crosses over
+[00:23:44] So many, well, yeah.
+[00:23:46] Um, housing sort of has a physical sense to it.
+[00:23:49] I, someone's gotta lead.
+[00:23:50] And, and my suggestion to minister was
+[00:23:52] that they should actually sit down and identify who leads.
+[00:23:55] Now, you know, we said, well, you could look at statistics,
+[00:23:58] you could look at Lenss, you could look at environment.
+[00:24:00] Now the government's abolishing
+[00:24:01] them, ministry for the environment.
+[00:24:03] Um, I don't, I don't have the answer there.
+[00:24:07] I'm rather attracted by the idea of Lins, actually.
+[00:24:10] But look, it is a question.
+[00:24:11] It's not a question of saying,
+[00:24:12] here is the commander in chief and they're gonna do it all.
+[00:24:15] It is a question of having the leadership
+[00:24:17] to look across our system to ask how it can talk to buts,
+[00:24:21] can talk to one another where the investment is needed
+[00:24:24] that needs a government wide strategy.
+[00:24:26] So in a sense, uh, that's the really the first decision.
+[00:24:30] I think a ministerial level discussion should move
+[00:24:32] to seek advice on where that should be.
+[00:24:35] And there is no right answer to that,
+[00:24:37] but we've gotta get on with it.
+[00:24:39] Um, and as you say, adaptation,
+[00:24:41] this is a, this is a classic.
+[00:24:42] There are so many data sets which you need to be able
+[00:24:46] to put together, whether it's because of land slip
+[00:24:49] and so on, and I've shown you some bits there,
+[00:24:51] or whether it's coastal, uh, sea level change or whatever.
+[00:24:55] Uh, we need fit for purpose data to make good decisions
+[00:24:59] for insurers, to make good decisions for, you know, uh,
+[00:25:03] the government to make good decisions. Mm-hmm.
+[00:25:05] And, uh, David has a question. Thank you.
+[00:25:09] I think, uh, the first thing that comes to mind is, um,
+[00:25:13] what are the perverse outcomes that are occurring
+[00:25:16] as a result of the course nature
+[00:25:18] or the, the, the lack of appropriateness of the data sets
+[00:25:22] that are equal, the information that's before us.
+[00:25:26] 'cause uh, regions, uh, often, uh, have occasions
+[00:25:30] where they need to do some work
+[00:25:31] and they have to make a decision on
+[00:25:33] what tools they used to do that well.
+[00:25:34] Right? Sure.
+[00:25:36] And a lot of that sometimes comes back
+[00:25:38] to the crude cost benefit.
+[00:25:40] Yeah. Analysis of can we afford to it
+[00:25:42] to be at this course nature to be able
+[00:25:44] to serve the purposes of what we are.
+[00:25:45] Yeah. We've also got councils around New Zealand, uh,
+[00:25:49] that within the rules at a high level
+[00:25:52] that when anything does get done on a day-to-day basis,
+[00:25:56] it comes down to a farm lot level.
+[00:25:59] Mm-hmm. Where you get that closer analysis
+[00:26:02] to get the true context Yeah.
+[00:26:04] At the far more granular Yeah. Stage type thing.
+[00:26:08] So I think, uh, you know, to the,
+[00:26:11] everybody empathizes, yeah.
+[00:26:12] We would all love the, the best data we could get.
+[00:26:15] And we would like this to be done every week so
+[00:26:18] that we've got current data.
+[00:26:19] 'cause even lidar, you do it today,
+[00:26:21] next year is outta date type thing.
+[00:26:23] So it's, we want this,
+[00:26:25] but it, it comes down to a cost situation.
+[00:26:28] Absolutely. And therefore, if it's a cost situation,
+[00:26:31] what is it that's incentivizing decision makers
+[00:26:34] to actually say it's worth the investment for
+[00:26:37] what we're actually trying to achieve here? Yeah,
+[00:26:39] Well see this raises,
+[00:26:41] I mean, I've thought about this a lot.
+[00:26:42] I'm a lender. I know
+[00:26:44] how my land's classified under all these things.
+[00:26:46] I can tell you they don't match up. Mm-hmm.
+[00:26:48] They simply don't match up. And so from a regulatory point
+[00:26:51] of view, I could get told to do something
+[00:26:52] because the council says, well, cost benefit
+[00:26:54] of us doing good is fine.
+[00:26:56] Great. Isn't it worth it? You just have to live with,
+[00:26:58] you know, that, you see,
+[00:27:00] the thing about the Resource Management Act is that
+[00:27:04] it wasn't, it, it, it said, well,
+[00:27:06] we don't have the information.
+[00:27:08] Let's gather it. So we've lived in a world which was costly
+[00:27:13] and in some cases slow
+[00:27:14] because you had to get the information.
+[00:27:17] Sure. You know, not far the ordinary farming operation,
+[00:27:20] that's already a permitted use,
+[00:27:21] but all sorts of things, you know, somebody's coming in
+[00:27:24] to do something which isn't happening.
+[00:27:26] Okay. Oh, you're gonna get a report on this, report on this.
+[00:27:28] So you gather all of this information, much of it held
+[00:27:30] by government entities, which taxpayers have funded
+[00:27:33] to provide this, but they may well be charging for it now.
+[00:27:36] But you, you pull all of this together,
+[00:27:39] so the cost is at the front end,
+[00:27:41] and then you get the resource consent and you go and do it.
+[00:27:44] When you move to a system which says, look, um,
+[00:27:48] we're not gonna ask questions at the front end.
+[00:27:50] We've pre decided this is okay provided,
+[00:27:53] and we'll monitor it, then you haven't got the luxury
+[00:27:57] of saying, well, is it worth getting the information or not?
+[00:27:59] You don't know. You're gonna have
+[00:28:01] to invest in the information to make the system flow easily.
+[00:28:05] So I think there's very significant efficiency gains under
+[00:28:09] the proposed legislation
+[00:28:11] provided it's based on good quality information.
+[00:28:15] So, you know, it's a, you take a choice,
+[00:28:16] you either spend upfront, uh, or you spend after.
+[00:28:21] Um, and,
+[00:28:22] and think that's, that's really where it,
+[00:28:25] that's the debate the committee needs
+[00:28:27] to think about in the context of these bills
+[00:28:28] You'd only spend afterwards if you are having litigation
+[00:28:30] or all sorts of problems with.
+[00:28:32] But then also it's the supplementary to that.
+[00:28:34] I mean, there's a cost potentially to the value of the land
+[00:28:39] because yes, you get reclassified
+[00:28:41] and you suddenly go from a class one
+[00:28:43] to a class four or five.
+[00:28:45] Well, obviously that land is potentially not as valuable
+[00:28:48] as it quite was under the older system.
+[00:28:51] But then it could be the flip of that, I suppose.
+[00:28:54] I, I would, who, who's buying land on that.
+[00:28:57] I'd encourage, I'd encourage your land.
+[00:29:00] Have a look at the LUC maps, have a look at the S map,
+[00:29:04] have a look at anything else you can find.
+[00:29:05] 'cause there are some, some amazing stuff actually,
+[00:29:08] which is very granular.
+[00:29:09] There's, there's some stuff, which is just plain role.
+[00:29:13] Mm-hmm. Um, Joe has a question.
+[00:29:15] Oh, thank you. Um, I've really enjoyed reading, uh,
+[00:29:18] through this report of yours.
+[00:29:20] I just have a question with regard to, um, the, uh, side
+[00:29:24] where you talk about, where you talk about underestimating
+[00:29:27] site specific areas that it, you know, could be more prone
+[00:29:30] to erosion than what has been, um, noted, given the erosion
+[00:29:35] that we've seen, uh, with the weather events, you know,
+[00:29:37] like cyclone Gabrielle
+[00:29:39] and, um, uh, all of that type of, um, slipping, et cetera.
+[00:29:44] Yep. I mean, do you think that these data sets have aided
+[00:29:48] or hindered good legislation making?
+[00:29:50] And the reason I ask
+[00:29:51] that is if we think about the climate change response
+[00:29:54] amendment bill that's, that was, uh, passed, that provides,
+[00:29:59] um, and exemptions for forestry expansion on a UC seven
+[00:30:03] and eight land, if it remains unchanged, I mean,
+[00:30:07] are we likely to see worse erosion come outcomes for, or
+[00:30:13] I dunno, I haven't investigated that,
+[00:30:14] but, you know, I mean, my point, I think I made the point
+[00:30:17] to is that if you don't have good quality information,
+[00:30:21] and you, and to take David's point, you know,
+[00:30:24] well cost benefit, is it worth really finding this out?
+[00:30:26] No. On balance, we won't.
+[00:30:28] We'll just, you know, we'll go with the course data.
+[00:30:31] Well, you may, this is what you pay later when suddenly, uh,
+[00:30:35] you've unclassified, you haven't got the right, uh, consent,
+[00:30:39] you know, requirements or permitted use requirements.
+[00:30:43] All the stuff comes down the river
+[00:30:44] and you're paying after the event.
+[00:30:46] So, you know, if you pay for the information in advance,
+[00:30:48] then you, you can hopefully avoid that in the future.
+[00:30:51] Which is why I'd say that investing in these data sets
+[00:30:53] is really a major economically significant investment.
+[00:30:57] And look, it's not just for environmental purposes,
+[00:30:59] you know, for economic purposes.
+[00:31:02] It is really useful for landowners to have access to this.
+[00:31:05] Now you could say, oh no,
+[00:31:07] if it's private, they should pay for it.
+[00:31:08] So then we got every landowner in New Zealand going off
+[00:31:11] and contracted to find this stuff.
+[00:31:12] I'm actually think a believer in governments having a role
+[00:31:15] to provide public good information.
+[00:31:18] I think it's good for the economy.
+[00:31:20] I think it's good for the environment,
+[00:31:23] Jo. Yeah,
+[00:31:24] thank you. And, and stuff on that.
+[00:31:25] So, um, given, given what we are seeing in, in,
+[00:31:29] in these weather events and, and another example,
+[00:31:33] and you talked about perhaps focusing on the hotspots,
+[00:31:36] and I would assume that that would be,
+[00:31:38] um, one of those areas.
+[00:31:39] How much urgency do you think that, uh,
+[00:31:42] future this government
+[00:31:43] or future government should really put
+[00:31:45] on on something like this? So I've
+[00:31:46] Said you should prioritize the hotspot.
+[00:31:48] In fact, I think you'll find the colleagues can correct me
+[00:31:51] here, but as a result of events up the coast, yeah.
+[00:31:54] Uh, we've got much better data there than we have
+[00:31:57] in other places in New Zealand.
+[00:31:58] But it's been a case of after the event, have you
+[00:32:01] Got thinking around a time, time limit for, you know,
+[00:32:03] like within five years, two years,
+[00:32:05] 15 months? Well, as I've said,
+[00:32:06] it all comes down to resources.
+[00:32:08] And governments don't have unlimited resources. No.
+[00:32:10] But I'd have thought that a realistic sort
+[00:32:12] of timeframe might be to say a decade from now, right?
+[00:32:15] We want to have completely changed the data landscape
+[00:32:18] for New Zealand and make it a big national priority.
+[00:32:21] I don't think it's party political.
+[00:32:23] Everyone can sign up to this. It would help everybody.
+[00:32:26] But it requires, you know, this is the thing.
+[00:32:28] It requires more than just, alright, well look,
+[00:32:30] we've found some money for this this year.
+[00:32:33] It's a question of having a strategy. I think we gonna,
+[00:32:36] Yeah, I was going just to add specifically on Tara,
+[00:32:39] you might be aware that obviously the council there since
+[00:32:42] the cyclone, uh, has produced a map really on the back
+[00:32:47] of the research by BSI, uh, which, uh,
+[00:32:50] Simon has also showed showing essentially the areas of high
+[00:32:55] on slight susceptibility Yeah.
+[00:32:56] High connectivity to waterways. Mm-hmm.
+[00:32:59] So really thinking about not just waterland is more likely
+[00:33:02] to road, but where are these areas that are then going
+[00:33:07] to factor waterways, IE all the sediment, all the debris,
+[00:33:10] everything going down the slope into the waterways.
+[00:33:13] But that map has been produced
+[00:33:16] after as a result, you know, of the event.
+[00:33:20] But in a supplementary to that though, I mean this is,
+[00:33:23] we're talking about cost and the benefit, I suppose it's,
+[00:33:25] um, climate mitigation as well, right?
+[00:33:27] Mm-hmm. Because, you know, if you look in Hawkes Bay
+[00:33:29] and during Cyclone Gabrielle, like a lot of
+[00:33:32] that slash came down from the hills
+[00:33:35] and what, like, there was a lot
+[00:33:36] of questioning at the time in terms of the land use
+[00:33:39] and, you know, the classification of the land
+[00:33:41] and whether I suppose it should have been planted.
+[00:33:44] Um, and this, um, if there was a better mapping
+[00:33:47] and better data potentially, you know,
+[00:33:49] that may not happen in future
+[00:33:52] Could, I mean, I just, if I may,
+[00:33:54] I think you should take an interest
+[00:33:55] as a committee in the science changes to the science system
+[00:33:58] because the way we fund, uh, research is changing.
+[00:34:02] And I'm taking a very close interest in this
+[00:34:03] and I'll, I'll bring a report
+[00:34:04] to you at some stage on what it means.
+[00:34:06] But I, I think it, I, I certainly don't think the system
+[00:34:10] as we have it is necessarily very transparent.
+[00:34:13] Um, it's often hard to work out why stuff is happening
+[00:34:16] and why it isn't happening.
+[00:34:18] But we're moving to, I think a more transparent system
+[00:34:21] and the government's putting a lot
+[00:34:22] of eggs on the economic basket.
+[00:34:24] Um, it will be interesting to see what priority they give
+[00:34:27] to environmental research.
+[00:34:28] But key to this are some
+[00:34:31] of these data sets which are used in research and,
+[00:34:35] and they are research based.
+[00:34:37] It is critically important, again, in the science reforms
+[00:34:41] that the system can actually pick up these
+[00:34:44] priorities and fund them.
+[00:34:46] So this is, this is linked not not just
+[00:34:48] to the resource management reforms,
+[00:34:49] but it's also linked to the science reforms. Mm.
+[00:34:52] Mm mm La
+[00:34:54] Um, thank you so much for this.
+[00:34:56] And this question would probably take like
+[00:34:58] a whole research program.
+[00:34:59] Oh, don't encourage him.
+[00:35:03] I, I just wondered if you had any thoughts
+[00:35:05] because is it right that East Met is like 2020,
+[00:35:10] like much more up to
+[00:35:12] Date? I'll just speak. It's
+[00:35:14] Regularly updated. Yeah.
+[00:35:15] Okay. And they keep on expanding it.
+[00:35:17] And the latest update was 2025.
+[00:35:19] Okay. Yeah. But the LUC was
+[00:35:21] between the seventies and nineties.
+[00:35:23] No, 15. It was earlier than that. Seventies,
+[00:35:25] Eighties. The initial mapping was
+[00:35:26] 1970s and eighties.
+[00:35:28] And then there was some additional mapping
+[00:35:30] in the early nineties.
+[00:35:31] Right. Yeah. But no,
+[00:35:32] Do you think even in, because the overlap data was so
+[00:35:36] interesting, like, do you think there's even potentially
+[00:35:39] something in that about the changing,
+[00:35:42] potentially the changing forms of our land use?
+[00:35:46] Say, you know, obviously post, um, you know,
+[00:35:49] deforestation and everything like that.
+[00:35:51] Like could even the differences between them
+[00:35:57] be that the land itself ah,
+[00:35:59] I see is actually quite different.
+[00:36:02] Look, Uh,
+[00:36:04] I've wondered about this actually.
+[00:36:05] I mean, I tend to think if you are thinking this is a really
+[00:36:08] interesting thought, what's the echo
+[00:36:11] of original land clearance?
+[00:36:13] Going back to, to,
+[00:36:14] but what Polynesian arrival,
+[00:36:16] that upsets a whole raft of things happening.
+[00:36:19] Then 8, 7, 800 years later, you have another massive thing.
+[00:36:24] Those processes don't happen in a year or two years. Mm-hmm.
+[00:36:28] They can take decades if not centuries.
+[00:36:30] So there's probably echoes of the past running
+[00:36:34] around all of this.
+[00:36:35] But to be frank, I don't think the sort of research tools
+[00:36:38] and databases we're running now are picking those up.
+[00:36:40] Yeah. That, that would be my instinct.
+[00:36:43] Yeah. No, I don't think so. It's an interesting, very
+[00:36:46] Interesting. Yes. But
+[00:36:47] what's
+[00:36:48] Important is what is today?
+[00:36:49] What's real time? 'cause what we're talking about Yes.
+[00:36:52] Utilizing regulation. Oh, absolutely. Yeah, yeah, yeah.
+[00:36:55] It was, but it's an interesting question.
+[00:36:57] I mean that's the sort of fundamental research question
+[00:36:59] though, that I think a public research system
+[00:37:01] should be able to fund.
+[00:37:02] Because you never know
+[00:37:03] what insights you get out of that sort of work.
+[00:37:05] I mean, I, it's, it's, it's not a silly question.
+[00:37:08] You can't put a vast amount of money into that.
+[00:37:10] 'cause this is pretty expensive. But at the corner
+[00:37:12] of your investment portfolio,
+[00:37:15] And particularly about if you are investing at scale,
+[00:37:18] you also want to understand how that might change
+[00:37:22] and maybe that information, the overlays you're doing
+[00:37:26] actually help inform that as well.
+[00:37:28] Um, one example that I will give, for example,
+[00:37:31] actually again on the back of the cyclone in, uh, Gibo,
+[00:37:35] and we've got this example here.
+[00:37:37] They have flown the lidar again.
+[00:37:40] So essentially they got two, uh, time points
+[00:37:43] where they've obtained the elevation data.
+[00:37:45] Mm-hmm. Um, and it shows essentially
+[00:37:48] before the cyclone and after.
+[00:37:50] And it shows quite big differences,
+[00:37:52] especially when they use the specific technique
+[00:37:55] that really shows the areas where either a lot
+[00:37:59] of city mutation has happened and essentially landslides
+[00:38:02] or earth flows have occurred,
+[00:38:04] or obviously the areas of a acquisition
+[00:38:06] where settlement just got deposited.
+[00:38:09] Mm-hmm. And that is the thing that you get really from, um,
+[00:38:14] doing like at least two times,
+[00:38:16] like having at least two times
+[00:38:18] series, not the one off. Yeah.
+[00:38:20] No. Um, we've got time for one last question
+[00:38:23] before we have to wrap it up.
+[00:38:24] Sure. And, uh, we'll take that from Rachel Booken. Yeah.
+[00:38:26] Thank, thank you. Um,
+[00:38:28] I hear your continued message back in Oh, that's good.
+[00:38:35] In consist Yes. Uh, on, on this point.
+[00:38:39] And the, the data is, it's just not good enough. Is it?
+[00:38:44] Um, is it fear
+[00:38:46] or is there a way of looking at what's in this report
+[00:38:49] as there's soil and soil quality?
+[00:38:53] So productivity of soil is one thing
+[00:38:56] and then there's erosion
+[00:38:58] and we talked about sediment running off
+[00:39:00] and also we've got slips and all those sorts of hazards.
+[00:39:03] That, that's my first question.
+[00:39:05] And then the next one is if you can, um, give us some idea
+[00:39:09] of the cost that might be involved, particularly
+[00:39:12] for these hotspots, whether that's erosion
+[00:39:15] or it's, um, soil productivity.
+[00:39:19] If you were a shake of the head,
+[00:39:21] The answer is no.
+[00:39:23] 'cause we haven't gone in and done that.
+[00:39:24] But look, just, I mean, to give you a sense, yeah,
+[00:39:27] there are, when it comes to, um,
+[00:39:30] understanding what's happening in the landscape from a sort
+[00:39:33] of a climate and adaptation point of view, there is, uh,
+[00:39:37] probably 10 or 15 data sets running there.
+[00:39:40] Um, this is the National Climate database
+[00:39:42] that cost about $10 million a year to maintain
+[00:39:44] as the National River Flows database.
+[00:39:46] Same roughly 10 million bucks. National landslide database.
+[00:39:51] Uh, about 10 million a year to, to run that.
+[00:39:53] Uh, these, these are numbers that I've mfe shared
+[00:39:57] that they're just looking at this right now.
+[00:39:59] But there is a ton of stuff here.
+[00:40:02] You know, there is, there's probably tens
+[00:40:04] of millions being spent right now
+[00:40:07] in maintaining these at various levels of updatedness,
+[00:40:11] you know, now, and
+[00:40:13] that's only, I'm just ones I'm talking about.
+[00:40:15] There are only about this sort of adaptation, you know?
+[00:40:17] Yeah. Rain climate, soil landslide stuff.
+[00:40:21] If you want to then get into biodiversity, if you want
+[00:40:23] to get into land for productive purposes, then
+[00:40:26] that's other data sets that you need.
+[00:40:28] So what's needed is, I think a complete piece
+[00:40:31] of housekeeping, an inventory.
+[00:40:34] And you see if I just add this little fact, Adam chair,
+[00:40:37] when I was the minister in 1992,
+[00:40:39] we actually put together a list of significant databases
+[00:40:42] and collections, which whatever the contestability
+[00:40:45] of the funding system had to be funded.
+[00:40:48] That list has not changed in over three decades now.
+[00:40:52] That is just crazy. Yeah.
+[00:40:53] Because we are living in a different world.
+[00:40:56] There are whole new data sets which have come into
+[00:40:59] existence, but they're not nationally significant.
+[00:41:01] So this has really gotta be picked up
+[00:41:03] and looked at seriously.
+[00:41:05] Yeah. No, look, thank you very much for your time today.
+[00:41:07] We have met time.
+[00:41:09] Is it a useful thing to think about,
+[00:41:12] so the soil productivity differently
+[00:41:14] for from the erosion or, or
+[00:41:17] Well no, you need to put the two together
+[00:41:18] because we use land.
+[00:41:20] So you want to know, okay, how productive,
+[00:41:22] but then how susceptible that may change
+[00:41:25] what you can do on the land.
+[00:41:26] Yeah, yeah. Yeah.
+[00:41:28] No, um, really interesting, really,
+[00:41:30] really interesting report
+[00:41:31] and a lot for us to, to think about.
+[00:41:33] So, uh, thank you for your time today. Really appreciate it.
+[00:41:37] Thank you.

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:10:36.164960+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163129091",
+  "title": "2026/02/11 - EW (Part 1)",
+  "url": "https://vimeo.com/1163129091",
+  "published_at": "20260210",
+  "published_display": "2026-02-10",
+  "duration_seconds": 337,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 336.5,
+    "segment_count": 111,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_11 - EW (Part 1) - vimeo_1163129091\\2026_02_11 - EW (Part 1) - vimeo_1163129091.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163129091",
+    "display_id": "1163129091",
+    "title": "2026/02/11 - EW (Part 1)",
+    "description": "Wednesday 11 February 2026 | Education and Workforce Committee\n\nEducation and Training (System Reform) Amendment Bill\n\nHearing of evidence:\n\nJames Barber",
+    "webpage_url": "https://vimeo.com/1163129091",
+    "original_url": "https://vimeo.com/1163129091",
+    "upload_date": "20260210",
+    "timestamp": 1770764591,
+    "release_timestamp": 1770764598,
+    "duration": 337,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120665359-d25f8a4a7134cc079fbdf95f9b6710c588b26ca5dcc395a4ed6be2e1069b4e90-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282062006.vtt?expires=1778562641&sig=7997003e0d999ceefb1fc091ded0eab8387c3f64&download=auto_generated_captions.vtt"
+  }
+}

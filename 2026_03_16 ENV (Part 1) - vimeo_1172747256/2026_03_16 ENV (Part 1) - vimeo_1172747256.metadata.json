@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:59.896223+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1172747256",
+  "title": "2026/03/16 ENV (Part 1)",
+  "url": "https://vimeo.com/1172747256",
+  "published_at": "20260315",
+  "published_display": "2026-03-15",
+  "duration_seconds": 4882,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4881.47,
+    "segment_count": 1410,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_16 ENV (Part 1) - vimeo_1172747256\\2026_03_16 ENV (Part 1) - vimeo_1172747256.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172747256",
+    "display_id": "1172747256",
+    "title": "2026/03/16 ENV (Part 1)",
+    "description": "Monday, 16 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nProperty Council New Zealand\nSandamali Ambepitiya, Senior Advocacy Advisor\nPou Taiao\nRiki Ellison\n350 Aotearoa\nTe Ohu Kaimoana",
+    "webpage_url": "https://vimeo.com/1172747256",
+    "original_url": "https://vimeo.com/1172747256",
+    "upload_date": "20260315",
+    "timestamp": 1773606443,
+    "release_timestamp": 1773606452,
+    "duration": 4882,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2134277978-d8d4d0194cff3fbf6aa8878c4ff01e64cdd359c1cac3d2a3eaf6192935dc06b8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288226306.vtt?expires=1778562544&sig=96403ba4cb631a9cf2a241c8b245c8cca5fb5c9a&download=auto_generated_captions.vtt"
+  }
+}

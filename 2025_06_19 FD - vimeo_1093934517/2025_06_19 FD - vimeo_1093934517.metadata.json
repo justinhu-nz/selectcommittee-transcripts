@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:19:14.641595+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1093934517",
+  "title": "2025/06/19 FD",
+  "url": "https://vimeo.com/1093934517",
+  "published_at": "20250619",
+  "published_display": "2025-06-19",
+  "duration_seconds": 13489,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 13478.36,
+    "segment_count": 4741,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_19 FD - vimeo_1093934517\\2025_06_19 FD - vimeo_1093934517.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1093934517",
+    "display_id": "1093934517",
+    "title": "2025/06/19 FD",
+    "description": "Thursday 19 June 2025 | Foreign Affairs, Defence and Trade Committee \n\n2025/26 Estimates for Vote Customs\nHon Casey Costello, Minister of Customs\nNew Zealand Customs Service\nJamie Bamford, Acting Comptroller of the New Zealand Customs Service and Deputy Chief Executive Operations\nRichard Bargh, Deputy Chief Executive Policy, Legal and Strategy\n\n2025/26 Estimates for Vote Defence and Vote Defence Force\nHon Judith Collins KC, Minister of Defence\n\nHon Chris Penk, Associate Minister of Defence and Minster for Veterans\n\nMinistry of Defence\nBrook Barrington, Secretary of Defence\nSarah Minson, Deputy Secretary Capability Delivery\nPasanka Wickremasinghe, Chief Financial Officer\nNew Zealand Defence Force\nAir Marshall Tony Davies, Chief of Defence Force\nAlex Brunt, Acting Head of Veterans\u2019 Affairs New Zealand\n\n2025/26 Estimates for Vote Defence Force\nHon Chris Penk, Minister for Veterans\n\nNew Zealand Defence Force\nAir Marshall Tony Davies, Chief of Defence Force\nAlex Brunt, Acting Head of Veterans\u2019 Affairs New Zealand",
+    "webpage_url": "https://vimeo.com/1093934517",
+    "original_url": "https://vimeo.com/1093934517",
+    "upload_date": "20250619",
+    "timestamp": 1750309448,
+    "release_timestamp": 1750309462,
+    "duration": 13489,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2029254122-4bc6a1ffd4b021d23f43f45027113961368e65dee652a004a750f832b927062a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237806395.vtt?expires=1778563159&sig=1bd17590472a20106a7fe4e5f37f42925191b159&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:35.579182+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145084591",
+  "title": "2026/01/28 - GA",
+  "url": "https://vimeo.com/1145084591",
+  "published_at": "20260127",
+  "published_display": "2026-01-27",
+  "duration_seconds": 15393,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 15371.31,
+    "segment_count": 4544,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_01_28 - GA - vimeo_1145084591\\2026_01_28 - GA - vimeo_1145084591.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145084591",
+    "display_id": "1145084591",
+    "title": "2026/01/28 - GA",
+    "description": "Wednesday 28 January 2026 | Governance and Administration Committee\n\n2024/25 Annual review of the Public Service Commission; 2024/25 Annual review of Fire and Emergency New Zealand; 2024/25 Annual review of the Department of Prime Minister and Cabinet\n\nSubmitters\n\n2024/25 Annual review of the Public Service Commission\n\nHon Judith Collins KC, Minister for the Public Service\n\nSir Brian Roche, Public Service Commissioner\n\n2024/25 Annual review of Fire and Emergency New Zealand\n\nFire and Emergency New Zealand\n- Rebecca Keoghan, Board Chair\n- Kerry Gregory, Chief Executive\n- Megan Stiffler, DCE Operational Response\n- Darryl Purdy, DCE Corporate Services\n\n2024/25 Annual review of the Department of Prime Minister and Cabinet\n\nDepartment of the Prime Minister and Cabinet\n- Ben King, Secretary and Chief Executive\n- Alan Cassidy, Deputy CE Corporate and Chief People Officer\n- Janine Smith, Deputy CE Policy and Delivery Unit",
+    "webpage_url": "https://vimeo.com/1145084591",
+    "original_url": "https://vimeo.com/1145084591",
+    "upload_date": "20260127",
+    "timestamp": 1769555957,
+    "release_timestamp": 1769555969,
+    "duration": 15393,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113233583-edcbeac1c7b346efa1bed0b6e4b6cbae0cfce702e984e4b3e6082a32d9c0598b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279214376.vtt?expires=1778562339&sig=4529b42060b50eedd147ccc5cf5551c084464fef&download=auto_generated_captions.vtt"
+  }
+}

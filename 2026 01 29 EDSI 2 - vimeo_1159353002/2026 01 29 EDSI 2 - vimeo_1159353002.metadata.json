@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:50.849035+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159353002",
+  "title": "2026 01 29 EDSI 2",
+  "url": "https://vimeo.com/1159353002",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 1285,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1277.03,
+    "segment_count": 471,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 01 29 EDSI 2 - vimeo_1159353002\\2026 01 29 EDSI 2 - vimeo_1159353002.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159353002",
+    "display_id": "1159353002",
+    "title": "2026 01 29 EDSI 2",
+    "description": "Telecommunications Amendment Bill\n\nInternet Service Providers Association of New Zealand (ISPANZ)\nDavid Haynes\n\nUtilities Disputes Limited\nNeil Mallon\nPaul Byers\n\nWombatNET Limited\nAlex Stewart",
+    "webpage_url": "https://vimeo.com/1159353002",
+    "original_url": "https://vimeo.com/1159353002",
+    "upload_date": "20260128",
+    "timestamp": 1769631914,
+    "release_timestamp": 1769631921,
+    "duration": 1285,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113718517-4e527dff28c90e0aac0ec63e752d427f1c1593bc1ef688b8b3c5e97d20592663-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279400247.vtt?expires=1778562715&sig=5039873ceb3601393e0f940539c1311fc10daf7a&download=auto_generated_captions.vtt"
+  }
+}

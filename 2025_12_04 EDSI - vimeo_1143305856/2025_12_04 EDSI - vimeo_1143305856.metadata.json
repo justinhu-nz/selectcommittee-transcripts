@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:39.437051+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143305856",
+  "title": "2025/12/04 EDSI",
+  "url": "https://vimeo.com/1143305856",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 1899,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1893.47,
+    "segment_count": 648,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 EDSI - vimeo_1143305856\\2025_12_04 EDSI - vimeo_1143305856.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143305856",
+    "display_id": "1143305856",
+    "title": "2025/12/04 EDSI",
+    "description": "2024/2025 Annual review of Meteorological Service of New Zealand\n\nMeteorological Service of New Zealand\nRob Harrison, Interim Chief Executive Officer\nMartin Matthews, Chair",
+    "webpage_url": "https://vimeo.com/1143305856",
+    "original_url": "https://vimeo.com/1143305856",
+    "upload_date": "20251204",
+    "timestamp": 1764822731,
+    "release_timestamp": 1764822739,
+    "duration": 1899,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091797550-7c71997c64215f894be6a07668298abf28470fba61160490f5e1a1c19d8899e5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269754454.vtt?expires=1778563304&sig=131b5a97e7d937e3e3481c8c207fa21ec5bccc15&download=auto_generated_captions.vtt"
+  }
+}

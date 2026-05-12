@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:03:06.331964+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141930453",
+  "title": "2025 12 02 - HE (Part 1)",
+  "url": "https://vimeo.com/1141930453",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 3710,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3709.01,
+    "segment_count": 1427,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 02 - HE (Part 1) - vimeo_1141930453\\2025 12 02 - HE (Part 1) - vimeo_1141930453.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141930453",
+    "display_id": "1141930453",
+    "title": "2025 12 02 - HE (Part 1)",
+    "description": "Tuesday 2 December 2025 | Health Committee\n\n2024/25 Annual review of the Health Quality and Safety Commission New Zealand\n\nHearing of evidence:\n\nHealth Quality and Safety Commission\n\nProfessor Sunny Collings, Chief Executive\nRae Lamb, Board Chair\nRichard Hamblin, Director of Health Quality Intelligence\nDon Matheson, Director, National Mortality Review Committee\nCarlton Irving, Director of M\u0101ori Health and Consumer",
+    "webpage_url": "https://vimeo.com/1141930453",
+    "original_url": "https://vimeo.com/1141930453",
+    "upload_date": "20251201",
+    "timestamp": 1764622288,
+    "release_timestamp": 1764622297,
+    "duration": 3710,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089879382-535cb753ec9facdfd690685abc6a47496e0aca771ab9c8bbacc5bccc258a8b21-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268784573.vtt?expires=1778562190&sig=31858b3f36c4d5c19133f8c67e92d660ea5f8ca2&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:02:37.617904+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142600667",
+  "title": "2025 12 03 - HE (Part 2)",
+  "url": "https://vimeo.com/1142600667",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 19522,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 19518.38,
+    "segment_count": 5695,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 03 - HE (Part 2) - vimeo_1142600667\\2025 12 03 - HE (Part 2) - vimeo_1142600667.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142600667",
+    "display_id": "1142600667",
+    "title": "2025 12 03 - HE (Part 2)",
+    "description": "Wednesday 3 December 2025 | Health Committee\n\n2024/25 Annual review of Health New Zealand\u2014Te Whatu Ora\n\nHearing of evidence:\n\nHealth New Zealand\u2014Te Whatu Ora\n\nDr Dale Bramley, Chief Executive\nDr Richard Sullivan, Executive National Director, Clinical\nBevan McKenzie, Chief Financial Officer\nProfessor Lester Levy, Chair\nDr Nick Chamberlain, National Director, National Public Health Service\nJason Power, Acting National Director, Planning, Funding and Outcomes\nRobyn Shearer, Executive National Director, People and Culture\nSelah Hart, Interim National Director, Hauora M\u0101ori Services\nJess Smaling, Executive National Director, Strategy, Performance and Improvement\nRichard May, , Executive National Director, Business and Governance Services\nDr Andrew Brant, Executive Regional Director, Northern\nPhil Grady, National Director, Mental Health and Addictions Enhancement\nDarren Douglas, Chief Information Technology Officer, Digital Strategy and Investment\nDavid Warburton, Interim National Director of Infrastructure\nDr Andrew Connolly, Deputy Chair\nRoger Jarrold, Board Member",
+    "webpage_url": "https://vimeo.com/1142600667",
+    "original_url": "https://vimeo.com/1142600667",
+    "upload_date": "20251203",
+    "timestamp": 1764732105,
+    "release_timestamp": 1764732119,
+    "duration": 19522,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090681375-68c9e37943374e2bbb664a82c5d5407ec923704fed1aaafb88bbedbe8286d03b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269220412.vtt?expires=1778562161&sig=602873e2ceb9c155381bdfd78eeac0192b8b63ec&download=auto_generated_captions.vtt"
+  }
+}

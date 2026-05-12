@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:05.983728+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142246003",
+  "title": "2025/12/03 - EW (Part 1)",
+  "url": "https://vimeo.com/1142246003",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 7738,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7727.56,
+    "segment_count": 2969,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - EW (Part 1) - vimeo_1142246003\\2025_12_03 - EW (Part 1) - vimeo_1142246003.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142246003",
+    "display_id": "1142246003",
+    "title": "2025/12/03 - EW (Part 1)",
+    "description": "Wednesday 3 December 2025 | Education and Workforce Committee\n\n2024/25 Annual review of WorkSafe New Zealand\n\nHearing of evidence:\n\nHon Brooke van Velden, Minister for Workplace Relations and Safety\n\nWorkSafe New Zealand\n\nSharon Thompson, Chief Executive\nMurray Jagger, Board Chair\nKeely Craig, Deputy Chief Executive, Corporate\nKelly Hanson-White, Deputy Chief Executive, Insights and Engagement\nBill Moran, Deputy Board Chair",
+    "webpage_url": "https://vimeo.com/1142246003",
+    "original_url": "https://vimeo.com/1142246003",
+    "upload_date": "20251202",
+    "timestamp": 1764712271,
+    "release_timestamp": 1764712285,
+    "duration": 7738,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090426955-4a86f01bd54c79aa3222a97ee9a370375508e0696df73361b6bf7f0b50cd531b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269063300.vtt?expires=1778563270&sig=b28f15dff63c278deeac7f06abc38a17b61f7377&download=auto_generated_captions.vtt"
+  }
+}

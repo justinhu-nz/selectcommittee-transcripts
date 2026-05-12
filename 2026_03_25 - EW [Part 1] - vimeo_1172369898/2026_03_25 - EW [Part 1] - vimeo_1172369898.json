@@ -1,0 +1,1853 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1138.38,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.52,
+      "text": "All"
+    },
+    {
+      "start": 13.58,
+      "end": 13.96,
+      "text": "right."
+    },
+    {
+      "start": 17.04,
+      "end": 20.96,
+      "text": "Good morning, Minister. We are here for our first hearing on the Health"
+    },
+    {
+      "start": 21.0,
+      "end": 24.91,
+      "text": "and Safety at Work Act Amendment Bill, and we are"
+    },
+    {
+      "start": 24.94,
+      "end": 27.21,
+      "text": "in public session. You're kicking us off."
+    },
+    {
+      "start": 28.24,
+      "end": 29.66,
+      "text": "We've got half an hour of time with you."
+    },
+    {
+      "start": 29.74,
+      "end": 31.58,
+      "text": "You don't have to use it all, but use it as you wish."
+    },
+    {
+      "start": 32.32,
+      "end": 35.38,
+      "text": "I'm sure we'll have time for questions as well, and we'll pass it over to you."
+    },
+    {
+      "start": 35.56,
+      "end": 35.75,
+      "text": "Thank you."
+    },
+    {
+      "start": 35.75,
+      "end": 38.26,
+      "text": "Awesome. Well, thank you very much, Madam Chair."
+    },
+    {
+      "start": 39.06,
+      "end": 39.3,
+      "text": "And"
+    },
+    {
+      "start": 40.44,
+      "end": 40.89,
+      "text": "this bill"
+    },
+    {
+      "start": 41.92,
+      "end": 45.16,
+      "text": "aims to do three main things, cut down on"
+    },
+    {
+      "start": 45.2,
+      "end": 47.12,
+      "text": "unnecessary compliance costs,"
+    },
+    {
+      "start": 47.94,
+      "end": 51.72,
+      "text": "make it clearer for businesses what is expected of them, and"
+    },
+    {
+      "start": 51.78,
+      "end": 55.54,
+      "text": "keeping workers safe by focusing the system on the risks"
+    },
+    {
+      "start": 56.1,
+      "end": 60.04,
+      "text": "most likely to cause harm. It does that by making"
+    },
+    {
+      "start": 60.08,
+      "end": 64.0,
+      "text": "the rules clearer and more practical so businesses can put"
+    },
+    {
+      "start": 64.02,
+      "end": 67.52,
+      "text": "their time and money into things that prevent the worst harm,"
+    },
+    {
+      "start": 68.3,
+      "end": 70.68,
+      "text": "not paperwork that doesn't make anyone safer."
+    },
+    {
+      "start": 71.28,
+      "end": 75.08,
+      "text": "It is also about fairness. People should be able to go and do their"
+    },
+    {
+      "start": 75.2,
+      "end": 78.58,
+      "text": "work, do their jobs, and come home in one piece."
+    },
+    {
+      "start": 79.26,
+      "end": 83.0,
+      "text": "And when things do go wrong, families deserve to know the system is set"
+    },
+    {
+      "start": 83.1,
+      "end": 87.08,
+      "text": "up to prevent the next tragedy and not to argue about forms"
+    },
+    {
+      "start": 87.16,
+      "end": 88.28,
+      "text": "and technicalities."
+    },
+    {
+      "start": 89.32,
+      "end": 93.0,
+      "text": "I do want to thank the committee for the work that you're going to be doing on this"
+    },
+    {
+      "start": 93.04,
+      "end": 96.98,
+      "text": "bill. It's very important work, and your scrutiny helps make sure the"
+    },
+    {
+      "start": 97.06,
+      "end": 100.62,
+      "text": "words on the page match the intent of the law,"
+    },
+    {
+      "start": 101.26,
+      "end": 105.18,
+      "text": "and the changes are clear enough for real use in the real world."
+    },
+    {
+      "start": 106.24,
+      "end": 110.16,
+      "text": "Clearer rules help the people doing the work on the ground, the foreman on"
+    },
+    {
+      "start": 110.34,
+      "end": 114.16,
+      "text": "site, the manager in a workshop, and the owner/operator"
+    },
+    {
+      "start": 114.26,
+      "end": 117.8,
+      "text": "trying to do the right thing. When the expectations are"
+    },
+    {
+      "start": 117.88,
+      "end": 121.52,
+      "text": "clear, good businesses can get on with it, and our"
+    },
+    {
+      "start": 121.58,
+      "end": 125.32,
+      "text": "regulators can concentrate enforcement on the places where"
+    },
+    {
+      "start": 125.36,
+      "end": 129.24,
+      "text": "people are at real risk. With that in mind, the"
+    },
+    {
+      "start": 129.28,
+      "end": 132.54,
+      "text": "bill makes a set of clear, practical changes."
+    },
+    {
+      "start": 133.28,
+      "end": 137.06,
+      "text": "A big part of that clarity comes from focusing the"
+    },
+    {
+      "start": 137.1,
+      "end": 140.9,
+      "text": "system on critical risks, the hazards that are likely to"
+    },
+    {
+      "start": 140.92,
+      "end": 144.82,
+      "text": "result in death, a notifiable injury, illness"
+    },
+    {
+      "start": 144.86,
+      "end": 147.64,
+      "text": "or incident, or an occupational disease."
+    },
+    {
+      "start": 148.14,
+      "end": 151.82,
+      "text": "For example, if a load is likely to fall and crush"
+    },
+    {
+      "start": 151.83,
+      "end": 155.58,
+      "text": "someone, that is a critical risk. The point is to keep"
+    },
+    {
+      "start": 155.66,
+      "end": 159.25,
+      "text": "everyone's attention on the hazards that lead to deaths and serious"
+    },
+    {
+      "start": 159.28,
+      "end": 162.99,
+      "text": "injuries, and to make it easier to tell the difference between what"
+    },
+    {
+      "start": 163.02,
+      "end": 165.86,
+      "text": "is truly high stakes and what is not."
+    },
+    {
+      "start": 166.68,
+      "end": 170.3,
+      "text": "Other examples are falls from heights, being caught in"
+    },
+    {
+      "start": 170.38,
+      "end": 174.28,
+      "text": "unguarded machinery, or working around vehicles that can strike"
+    },
+    {
+      "start": 174.32,
+      "end": 177.5,
+      "text": "or crush a person. These are the risks that need strong"
+    },
+    {
+      "start": 177.54,
+      "end": 179.24,
+      "text": "controls every time."
+    },
+    {
+      "start": 180.56,
+      "end": 184.32,
+      "text": "This matters for workers and families because the worst incidents are the"
+    },
+    {
+      "start": 184.36,
+      "end": 187.96,
+      "text": "ones that change lives forever. It also matters for small"
+    },
+    {
+      "start": 188.04,
+      "end": 191.48,
+      "text": "business because many owners tell me that they feel buried under"
+    },
+    {
+      "start": 191.52,
+      "end": 195.26,
+      "text": "requirements that don't fit the scale of what it is that they"
+    },
+    {
+      "start": 195.3,
+      "end": 199.26,
+      "text": "do. So the bill creates a simpler set of duties for small"
+    },
+    {
+      "start": 199.32,
+      "end": 203.2,
+      "text": "businesses. It keeps the focus on the biggest dangers while"
+    },
+    {
+      "start": 203.22,
+      "end": 207.06,
+      "text": "still requiring basic standards that every worker should be"
+    },
+    {
+      "start": 207.12,
+      "end": 207.98,
+      "text": "able to rely on."
+    },
+    {
+      "start": 208.82,
+      "end": 212.78,
+      "text": "In plain language, if you are a small business, fewer than"
+    },
+    {
+      "start": 213.0,
+      "end": 216.51,
+      "text": "20 workers, you must manage your critical risks and"
+    },
+    {
+      "start": 216.6,
+      "end": 220.38,
+      "text": "provide basic welfare like decent lighting, bathrooms,"
+    },
+    {
+      "start": 220.56,
+      "end": 222.3,
+      "text": "first aid, and emergency plans."
+    },
+    {
+      "start": 223.2,
+      "end": 226.88,
+      "text": "That approach aims to lift safety where it counts"
+    },
+    {
+      "start": 227.3,
+      "end": 231.0,
+      "text": "without asking a corner dairy or a small builder to run the"
+    },
+    {
+      "start": 231.08,
+      "end": 233.76,
+      "text": "same compliance program as a large corporate."
+    },
+    {
+      "start": 235.08,
+      "end": 238.68,
+      "text": "For larger businesses, the duty to manage all risks"
+    },
+    {
+      "start": 238.88,
+      "end": 241.86,
+      "text": "stays in place, but the expectation is clear."
+    },
+    {
+      "start": 242.34,
+      "end": 245.06,
+      "text": "Put your focus into the critical risks first."
+    },
+    {
+      "start": 246.08,
+      "end": 247.89,
+      "text": "To summarize the key features of the bill,"
+    },
+    {
+      "start": 249.1,
+      "end": 251.72,
+      "text": "the bill sharpens the focus on critical risks."
+    },
+    {
+      "start": 252.2,
+      "end": 255.19,
+      "text": "It sets clearer, simpler duties for smaller business."
+    },
+    {
+      "start": 256.02,
+      "end": 259.42,
+      "text": "It clarifies what good governance and oversight should look like."
+    },
+    {
+      "start": 260.18,
+      "end": 263.64,
+      "text": "It reduces double handling, where another law already"
+    },
+    {
+      "start": 263.7,
+      "end": 267.62,
+      "text": "manages the same safety issue, and it draws clearer"
+    },
+    {
+      "start": 267.68,
+      "end": 270.8,
+      "text": "lines around duties and recreational access"
+    },
+    {
+      "start": 270.86,
+      "end": 271.68,
+      "text": "situations."
+    },
+    {
+      "start": 273.0,
+      "end": 276.84,
+      "text": "The bill sharpens officers' duties, so expectations are"
+    },
+    {
+      "start": 276.94,
+      "end": 280.72,
+      "text": "clearer and more realistic about what good oversight looks like."
+    },
+    {
+      "start": 281.4,
+      "end": 283.0,
+      "text": "It also clarifies"
+    },
+    {
+      "start": 285.04,
+      "end": 288.88,
+      "text": "the overlap between laws. So if you've already met a clear safety"
+    },
+    {
+      "start": 288.96,
+      "end": 292.58,
+      "text": "requirement under another law for a risk, you will meet the Health and"
+    },
+    {
+      "start": 292.7,
+      "end": 296.13,
+      "text": "Safety at Work Act duty too. This should mean that people aren't"
+    },
+    {
+      "start": 296.16,
+      "end": 298.5,
+      "text": "complying twice for the same thing."
+    },
+    {
+      "start": 300.17,
+      "end": 303.7,
+      "text": "Getting the wording right for overlapping laws has been tricky,"
+    },
+    {
+      "start": 304.1,
+      "end": 307.88,
+      "text": "and I know that there's more work to do to make sure that it doesn't cover"
+    },
+    {
+      "start": 307.96,
+      "end": 310.42,
+      "text": "laws that don't regulate the same risks."
+    },
+    {
+      "start": 310.86,
+      "end": 314.46,
+      "text": "I'm keen for the committee to focus on this so that we can get it"
+    },
+    {
+      "start": 314.52,
+      "end": 314.86,
+      "text": "right."
+    },
+    {
+      "start": 315.66,
+      "end": 319.16,
+      "text": "The bill also puts clearer limits around the health and safety duties"
+    },
+    {
+      "start": 319.26,
+      "end": 323.14,
+      "text": "landowners and occupiers owe to people who come onto their land for"
+    },
+    {
+      "start": 323.22,
+      "end": 323.96,
+      "text": "recreation."
+    },
+    {
+      "start": 324.92,
+      "end": 328.76,
+      "text": "Taken together, these changes keep the heart of the health and safety system,"
+    },
+    {
+      "start": 329.26,
+      "end": 332.98,
+      "text": "preventing harm, while making it easier to understand what you"
+    },
+    {
+      "start": 333.04,
+      "end": 336.88,
+      "text": "must do and for regulators to focus on what matters most."
+    },
+    {
+      "start": 338.22,
+      "end": 342.06,
+      "text": "Finally, I wish to address a misunderstanding I've already heard about."
+    },
+    {
+      "start": 342.48,
+      "end": 346.34,
+      "text": "People think that the bill significantly narrows what you must notify"
+    },
+    {
+      "start": 346.38,
+      "end": 348.48,
+      "text": "to WorkSafe. It does not."
+    },
+    {
+      "start": 349.52,
+      "end": 352.82,
+      "text": "Businesses will still need to notify death, serious"
+    },
+    {
+      "start": 352.92,
+      "end": 355.79,
+      "text": "injury and illness, and serious incidents."
+    },
+    {
+      "start": 356.6,
+      "end": 360.58,
+      "text": "What the bill does is add clearer definitions and examples so"
+    },
+    {
+      "start": 360.68,
+      "end": 364.56,
+      "text": "people can tell what must be reported and WorkSafe can focus"
+    },
+    {
+      "start": 364.62,
+      "end": 367.34,
+      "text": "on the events that signal serious harm and near"
+    },
+    {
+      "start": 367.4,
+      "end": 369.28,
+      "text": "misses.In conclusion,"
+    },
+    {
+      "start": 370.12,
+      "end": 373.58,
+      "text": "this bill is about getting better results, clearer rules,"
+    },
+    {
+      "start": 374.08,
+      "end": 377.94,
+      "text": "effort on the highest risks, and fewer families receiving the call"
+    },
+    {
+      "start": 378.0,
+      "end": 381.92,
+      "text": "that someone is not coming home. I appreciate the committee's"
+    },
+    {
+      "start": 381.98,
+      "end": 385.83,
+      "text": "work to test the detail and improve the drafting so we end up with a law that"
+    },
+    {
+      "start": 385.86,
+      "end": 388.68,
+      "text": "is clear, workable, and keeps people safe."
+    },
+    {
+      "start": 389.26,
+      "end": 390.1,
+      "text": "Thank you, Madam Chair."
+    },
+    {
+      "start": 390.36,
+      "end": 393.28,
+      "text": "Thank you very much, Minister. We have our first question from Jan, and then we'll"
+    },
+    {
+      "start": 393.32,
+      "end": 394.16,
+      "text": "move around."
+    },
+    {
+      "start": 394.6,
+      "end": 395.82,
+      "text": "Thank you. And thank you, Minister."
+    },
+    {
+      "start": 396.42,
+      "end": 400.4,
+      "text": "Can we start by, you talked-- and thank you for clarifying some things in"
+    },
+    {
+      "start": 400.46,
+      "end": 404.43,
+      "text": "there. You talked about critical risks and what that looks like, and"
+    },
+    {
+      "start": 404.46,
+      "end": 408.38,
+      "text": "we know that from the bill. What types of risks do"
+    },
+    {
+      "start": 408.52,
+      "end": 412.16,
+      "text": "you and the officials consider are definitely not critical"
+    },
+    {
+      "start": 412.26,
+      "end": 414.56,
+      "text": "risks? Because that's what we haven't heard."
+    },
+    {
+      "start": 415.36,
+      "end": 418.32,
+      "text": "So what are not critical risks and"
+    },
+    {
+      "start": 418.42,
+      "end": 422.23,
+      "text": "therefore it's getting that understanding that they won't be dealt"
+    },
+    {
+      "start": 422.26,
+      "end": 426.14,
+      "text": "with by the small PCBU's or prioritized by"
+    },
+    {
+      "start": 426.18,
+      "end": 427.48,
+      "text": "large PCBUs."
+    },
+    {
+      "start": 428.54,
+      "end": 430.06,
+      "text": "So I think"
+    },
+    {
+      "start": 430.98,
+      "end": 434.96,
+      "text": "the definition is relatively clear at the moment that the"
+    },
+    {
+      "start": 435.02,
+      "end": 439.0,
+      "text": "critical risks are defined as hazards likely to result in"
+    },
+    {
+      "start": 439.06,
+      "end": 442.62,
+      "text": "death, notifiable injury, illness or incident, or an"
+    },
+    {
+      "start": 442.68,
+      "end": 446.54,
+      "text": "occupational disease. And so therefore doesn't"
+    },
+    {
+      "start": 446.59,
+      "end": 449.52,
+      "text": "capture things like putting up posters."
+    },
+    {
+      "start": 450.02,
+      "end": 453.86,
+      "text": "But I'm happy for Hayden here, who's our expert"
+    },
+    {
+      "start": 453.9,
+      "end": 457.62,
+      "text": "within WRS, to go into a little bit more of the definition."
+    },
+    {
+      "start": 458.18,
+      "end": 461.56,
+      "text": "Yes. So it'll be things like lower grade"
+    },
+    {
+      "start": 461.7,
+      "end": 463.31,
+      "text": "strains, so minor strains-"
+    },
+    {
+      "start": 463.34,
+      "end": 464.83,
+      "text": "Sorry, I didn't hear that first part."
+    },
+    {
+      "start": 464.83,
+      "end": 465.08,
+      "text": "Sorry."
+    },
+    {
+      "start": 466.0,
+      "end": 469.82,
+      "text": "Lower grade strains, very minor strains, a very minor"
+    },
+    {
+      "start": 469.9,
+      "end": 470.68,
+      "text": "nick or cut."
+    },
+    {
+      "start": 471.74,
+      "end": 474.52,
+      "text": "So things that are at the very much lower level that you wouldn't"
+    },
+    {
+      "start": 474.56,
+      "end": 478.28,
+      "text": "expect to require any hospital treatment."
+    },
+    {
+      "start": 478.34,
+      "end": 478.54,
+      "text": "Mm."
+    },
+    {
+      "start": 478.66,
+      "end": 482.48,
+      "text": "Maybe some minor first aid, and that resolve themselves fairly"
+    },
+    {
+      "start": 482.52,
+      "end": 482.98,
+      "text": "quickly."
+    },
+    {
+      "start": 483.88,
+      "end": 487.58,
+      "text": "Does psychosocial come into that as well, or would that be a"
+    },
+    {
+      "start": 487.62,
+      "end": 488.44,
+      "text": "critical risk?"
+    },
+    {
+      "start": 489.08,
+      "end": 491.68,
+      "text": "In some circumstances, yes. So,"
+    },
+    {
+      "start": 493.34,
+      "end": 496.84,
+      "text": "under the act currently, there's no notification"
+    },
+    {
+      "start": 496.86,
+      "end": 500.02,
+      "text": "requirement around psychosocial harm per se."
+    },
+    {
+      "start": 500.9,
+      "end": 504.02,
+      "text": "So just psychosocial harm isn't a notifiable event."
+    },
+    {
+      "start": 505.02,
+      "end": 508.44,
+      "text": "Where it does come in under the act currently is hazard is"
+    },
+    {
+      "start": 508.48,
+      "end": 511.98,
+      "text": "defined as including a"
+    },
+    {
+      "start": 512.1,
+      "end": 515.8,
+      "text": "psychosocial harm, trauma, fatigue that will"
+    },
+    {
+      "start": 515.82,
+      "end": 518.38,
+      "text": "potentially lead to a physical injury."
+    },
+    {
+      "start": 518.98,
+      "end": 520.9,
+      "text": "So that's the main area it comes in."
+    },
+    {
+      "start": 521.38,
+      "end": 522.78,
+      "text": "If fatigue or"
+    },
+    {
+      "start": 524.46,
+      "end": 528.34,
+      "text": "shock trauma is likely to lead to physical harm in"
+    },
+    {
+      "start": 528.36,
+      "end": 532.04,
+      "text": "some way, for instance, you're a train driver and you"
+    },
+    {
+      "start": 532.14,
+      "end": 535.77,
+      "text": "witness an incident where someone is killed, that"
+    },
+    {
+      "start": 535.82,
+      "end": 539.18,
+      "text": "is very likely to affect your ability to"
+    },
+    {
+      "start": 540.0,
+      "end": 543.58,
+      "text": "effectively be a train driver, and that will create physical"
+    },
+    {
+      "start": 543.68,
+      "end": 545.72,
+      "text": "risks to yourself and other people."
+    },
+    {
+      "start": 546.14,
+      "end": 547.86,
+      "text": "So that is definitely a critical risk."
+    },
+    {
+      "start": 548.66,
+      "end": 552.28,
+      "text": "In the emergency services area, they would definitely be a critical"
+    },
+    {
+      "start": 552.36,
+      "end": 554.3,
+      "text": "risk. But"
+    },
+    {
+      "start": 555.64,
+      "end": 559.3,
+      "text": "me in my work feeling stressed is unlikely to be a"
+    },
+    {
+      "start": 559.32,
+      "end": 563.16,
+      "text": "physical-- a critical risk because there's no risk"
+    },
+    {
+      "start": 563.22,
+      "end": 566.78,
+      "text": "of physical harm to anyone else from me being"
+    },
+    {
+      "start": 567.16,
+      "end": 569.64,
+      "text": "slightly overworked or stressed at work."
+    },
+    {
+      "start": 570.26,
+      "end": 571.2,
+      "text": "Thank you."
+    },
+    {
+      "start": 571.26,
+      "end": 574.09,
+      "text": "Great. We have a supplementary on that from Shannon, and then we'll move on to the"
+    },
+    {
+      "start": 574.12,
+      "end": 574.8,
+      "text": "next item."
+    },
+    {
+      "start": 574.81,
+      "end": 577.94,
+      "text": "Yeah. Is armed robbery classed as critical risk, and if not, why?"
+    },
+    {
+      "start": 578.68,
+      "end": 581.44,
+      "text": "In a lot of circumstances, yes."
+    },
+    {
+      "start": 582.46,
+      "end": 584.35,
+      "text": "Because there is that risk of physical harm"
+    },
+    {
+      "start": 585.22,
+      "end": 588.06,
+      "text": "from an armed robbery or any sort of"
+    },
+    {
+      "start": 588.74,
+      "end": 589.36,
+      "text": "aggression"
+    },
+    {
+      "start": 590.4,
+      "end": 594.39,
+      "text": "in a retail context from customers, that is likely to need to be"
+    },
+    {
+      "start": 594.42,
+      "end": 596.62,
+      "text": "managed as a critical risk."
+    },
+    {
+      "start": 598.12,
+      "end": 599.34,
+      "text": "Next primary from Palm J."
+    },
+    {
+      "start": 599.62,
+      "end": 603.12,
+      "text": "Thank you. Minister, about the changes regarding PCBU."
+    },
+    {
+      "start": 603.94,
+      "end": 607.76,
+      "text": "So what was that based on? What kind of feedback did you receive from the sector,"
+    },
+    {
+      "start": 607.86,
+      "end": 611.78,
+      "text": "from businesses to make those changes regarding small PCBU versus"
+    },
+    {
+      "start": 611.84,
+      "end": 615.48,
+      "text": "the overall like other PCBUs in this legislation?"
+    },
+    {
+      "start": 615.56,
+      "end": 617.8,
+      "text": "So if you could elaborate on that, that would be really helpful."
+    },
+    {
+      "start": 618.16,
+      "end": 619.38,
+      "text": "Yeah, thank you for your question."
+    },
+    {
+      "start": 620.08,
+      "end": 623.94,
+      "text": "Look, when I did the health and safety roadshow, which feels like a very long"
+    },
+    {
+      "start": 623.98,
+      "end": 627.04,
+      "text": "time ago now, but I cast my mind back,"
+    },
+    {
+      "start": 627.94,
+      "end": 631.86,
+      "text": "we heard a lot from people who run small businesses"
+    },
+    {
+      "start": 632.4,
+      "end": 636.1,
+      "text": "who said that life running a business is just too"
+    },
+    {
+      "start": 636.24,
+      "end": 639.82,
+      "text": "hard and it's far too complicated, and needing to manage"
+    },
+    {
+      "start": 640.28,
+      "end": 641.12,
+      "text": "all risk"
+    },
+    {
+      "start": 642.06,
+      "end": 645.36,
+      "text": "at all stages was just too much when they're also in charge of"
+    },
+    {
+      "start": 645.82,
+      "end": 649.66,
+      "text": "payroll and HR functions. And in many cases"
+    },
+    {
+      "start": 649.7,
+      "end": 653.32,
+      "text": "you've got the manager doing essentially three or four different full-time"
+    },
+    {
+      "start": 653.4,
+      "end": 653.84,
+      "text": "jobs."
+    },
+    {
+      "start": 656.08,
+      "end": 659.0,
+      "text": "What we heard was quite clear that there is huge"
+    },
+    {
+      "start": 659.72,
+      "end": 663.53,
+      "text": "uncertainty about what it is that a small business owner or a"
+    },
+    {
+      "start": 663.6,
+      "end": 665.78,
+      "text": "manager is needing to do to comply with the law."
+    },
+    {
+      "start": 666.75,
+      "end": 670.68,
+      "text": "And it shouldn't be that hard, which is why we've decided to go down the"
+    },
+    {
+      "start": 670.92,
+      "end": 673.22,
+      "text": "path of having a carve-out for small business."
+    },
+    {
+      "start": 674.18,
+      "end": 677.38,
+      "text": "That they shouldn't under any circumstances have the same"
+    },
+    {
+      "start": 677.4,
+      "end": 679.66,
+      "text": "expectation of having an entire corporate"
+    },
+    {
+      "start": 680.5,
+      "end": 683.5,
+      "text": "HR function that a large business has."
+    },
+    {
+      "start": 684.68,
+      "end": 688.52,
+      "text": "But they should be able to be able to look at what it"
+    },
+    {
+      "start": 688.6,
+      "end": 692.31,
+      "text": "is that they're doing on the shop floor, any actions that"
+    },
+    {
+      "start": 692.42,
+      "end": 696.01,
+      "text": "could lead to death and serious injury or illness, and not"
+    },
+    {
+      "start": 696.36,
+      "end": 699.67,
+      "text": "worry about sweating the small stuff because we did hear about a lot of"
+    },
+    {
+      "start": 699.78,
+      "end": 703.07,
+      "text": "companies putting up posters, doing"
+    },
+    {
+      "start": 703.14,
+      "end": 706.8,
+      "text": "unnecessary training modules, just putting in place very"
+    },
+    {
+      "start": 706.84,
+      "end": 707.74,
+      "text": "expensive"
+    },
+    {
+      "start": 708.6,
+      "end": 711.74,
+      "text": "paperwork files that just sit in the bookcase just in case"
+    },
+    {
+      "start": 712.96,
+      "end": 716.74,
+      "text": "WorkSafe turns up if they're audited, but no one's actually reading"
+    },
+    {
+      "start": 716.82,
+      "end": 719.4,
+      "text": "these hundreds of pages of documents."
+    },
+    {
+      "start": 720.8,
+      "end": 724.68,
+      "text": "So trying to simplify it down for anybody who's trying to run"
+    },
+    {
+      "start": 724.72,
+      "end": 726.8,
+      "text": "a small operation is the overall goal."
+    },
+    {
+      "start": 727.84,
+      "end": 730.54,
+      "text": "Great. Next primary question from Carl."
+    },
+    {
+      "start": 731.2,
+      "end": 732.48,
+      "text": "Thanks, Chair. Thanks, Minister."
+    },
+    {
+      "start": 733.06,
+      "end": 736.98,
+      "text": "And thanks for the work that you've done on this.One of the things that has just"
+    },
+    {
+      "start": 737.02,
+      "end": 740.64,
+      "text": "been described around the cut or the nick"
+    },
+    {
+      "start": 741.58,
+      "end": 744.24,
+      "text": "creates still a gray area for small business."
+    },
+    {
+      "start": 744.54,
+      "end": 748.42,
+      "text": "And I suppose if we're wanting to see a shift in the"
+    },
+    {
+      "start": 748.5,
+      "end": 751.78,
+      "text": "way small businesses manage these risks,"
+    },
+    {
+      "start": 752.62,
+      "end": 756.3,
+      "text": "was there any consideration given to making that line"
+    },
+    {
+      "start": 756.88,
+      "end": 760.58,
+      "text": "black and white, and being able to go, \"This sits here and that"
+    },
+    {
+      "start": 760.64,
+      "end": 764.54,
+      "text": "sits there,\" so that small businesses don't end up"
+    },
+    {
+      "start": 764.66,
+      "end": 767.9,
+      "text": "in a space either where they're trying to work through making that decision"
+    },
+    {
+      "start": 767.92,
+      "end": 770.82,
+      "text": "themselves, or in the future, there's"
+    },
+    {
+      "start": 770.86,
+      "end": 774.78,
+      "text": "litigation from WorkSafe that determines that"
+    },
+    {
+      "start": 774.8,
+      "end": 777.26,
+      "text": "and ultimately puts cost on those businesses?"
+    },
+    {
+      "start": 777.44,
+      "end": 781.41,
+      "text": "Mm. It's a really interesting question, and I think from what I'm"
+    },
+    {
+      "start": 781.44,
+      "end": 784.9,
+      "text": "hearing, it's about how do you define it and get the level of"
+    },
+    {
+      "start": 784.94,
+      "end": 785.86,
+      "text": "definition right."
+    },
+    {
+      "start": 786.78,
+      "end": 790.07,
+      "text": "I think that would be a really good question for you to raise with the officials as"
+    },
+    {
+      "start": 790.08,
+      "end": 792.11,
+      "text": "you go through the select committee process."
+    },
+    {
+      "start": 792.86,
+      "end": 796.68,
+      "text": "But ultimately, there's going to be quite a difficulty of"
+    },
+    {
+      "start": 796.74,
+      "end": 800.5,
+      "text": "trying to list every possible thing that could go wrong within a"
+    },
+    {
+      "start": 800.54,
+      "end": 800.82,
+      "text": "law,"
+    },
+    {
+      "start": 801.76,
+      "end": 805.52,
+      "text": "rather than leaving it up to the businesses themselves to"
+    },
+    {
+      "start": 805.56,
+      "end": 809.41,
+      "text": "define what it is that they specifically do as functions and actions within"
+    },
+    {
+      "start": 809.44,
+      "end": 813.02,
+      "text": "their own companies. Because if we tried to list off every"
+    },
+    {
+      "start": 813.1,
+      "end": 815.2,
+      "text": "single action that could happen,"
+    },
+    {
+      "start": 816.1,
+      "end": 818.46,
+      "text": "I think we might end up with a very, very, very long law."
+    },
+    {
+      "start": 819.68,
+      "end": 819.92,
+      "text": "But"
+    },
+    {
+      "start": 820.82,
+      "end": 823.32,
+      "text": "that is something for you to tease out with the officials of-"
+    },
+    {
+      "start": 823.42,
+      "end": 823.52,
+      "text": "Mm"
+    },
+    {
+      "start": 823.58,
+      "end": 825.24,
+      "text": "... does the definition of critical risk"
+    },
+    {
+      "start": 826.22,
+      "end": 828.46,
+      "text": "go too far or does it not go far enough?"
+    },
+    {
+      "start": 828.52,
+      "end": 831.52,
+      "text": "Does there actually need to be more complexity in there?"
+    },
+    {
+      "start": 832.54,
+      "end": 836.45,
+      "text": "So just a supplementary on that. Is it your intention as a minister with"
+    },
+    {
+      "start": 836.5,
+      "end": 840.08,
+      "text": "this bill that it is WorkSafe's role to"
+    },
+    {
+      "start": 840.14,
+      "end": 843.16,
+      "text": "support the organizations as they go through the change,"
+    },
+    {
+      "start": 843.64,
+      "end": 847.34,
+      "text": "understanding now where they sit, what the responsibility is, and how they fit"
+    },
+    {
+      "start": 847.42,
+      "end": 847.65,
+      "text": "because,"
+    },
+    {
+      "start": 848.48,
+      "end": 849.72,
+      "text": "previously as an employer,"
+    },
+    {
+      "start": 850.56,
+      "end": 851.4,
+      "text": "and understanding"
+    },
+    {
+      "start": 852.2,
+      "end": 856.06,
+      "text": "what's a near miss in terms of reportable, what's..."
+    },
+    {
+      "start": 856.36,
+      "end": 860.08,
+      "text": "And because everyone sees their incident as being significant to"
+    },
+    {
+      "start": 860.12,
+      "end": 864.09,
+      "text": "themselves or to their department potentially, so how do you see that going"
+    },
+    {
+      "start": 864.22,
+      "end": 864.92,
+      "text": "through"
+    },
+    {
+      "start": 865.82,
+      "end": 867.82,
+      "text": "the organization in support of this change?"
+    },
+    {
+      "start": 868.76,
+      "end": 872.52,
+      "text": "Yeah. So I definitely see WorkSafe playing more of a guidance"
+    },
+    {
+      "start": 872.6,
+      "end": 873.02,
+      "text": "function."
+    },
+    {
+      "start": 874.06,
+      "end": 877.76,
+      "text": "That had become very clear when we were doing the roadshow, that people were afraid"
+    },
+    {
+      "start": 877.8,
+      "end": 878.62,
+      "text": "of WorkSafe-"
+    },
+    {
+      "start": 878.98,
+      "end": 879.12,
+      "text": "Mm"
+    },
+    {
+      "start": 879.14,
+      "end": 881.4,
+      "text": "... and very afraid of reaching out for help,"
+    },
+    {
+      "start": 882.34,
+      "end": 886.16,
+      "text": "especially if they wanted someone to be able to help check that what they were"
+    },
+    {
+      "start": 886.18,
+      "end": 887.92,
+      "text": "doing was actually compliant with the law."
+    },
+    {
+      "start": 888.84,
+      "end": 892.68,
+      "text": "They were more fearful that if they reached out for help, they'd get pinged for"
+    },
+    {
+      "start": 892.74,
+      "end": 894.86,
+      "text": "it rather than given any assistance."
+    },
+    {
+      "start": 895.58,
+      "end": 899.56,
+      "text": "One of the changes within the law is making it very clear"
+    },
+    {
+      "start": 899.6,
+      "end": 901.64,
+      "text": "that WorkSafe will have more of a guidance role."
+    },
+    {
+      "start": 903.06,
+      "end": 905.68,
+      "text": "For the businesses themselves,"
+    },
+    {
+      "start": 906.6,
+      "end": 909.76,
+      "text": "where there is an industry standard that will be set"
+    },
+    {
+      "start": 910.42,
+      "end": 914.24,
+      "text": "through the approved codes of practice, that will come as a huge guide and help"
+    },
+    {
+      "start": 914.3,
+      "end": 917.82,
+      "text": "to businesses from all sizes about what it is that they"
+    },
+    {
+      "start": 917.84,
+      "end": 921.58,
+      "text": "specifically need to do to comply with the law, as the approved codes of"
+    },
+    {
+      "start": 921.64,
+      "end": 925.52,
+      "text": "practice will get developed over time and actually have a lot of on"
+    },
+    {
+      "start": 925.56,
+      "end": 929.02,
+      "text": "the ground relevant practical use within those approved codes of"
+    },
+    {
+      "start": 929.08,
+      "end": 932.9,
+      "text": "practice, which will become industry standard and helpful for every"
+    },
+    {
+      "start": 932.94,
+      "end": 936.58,
+      "text": "business. And WorkSafe will be signing off on those-"
+    },
+    {
+      "start": 936.77,
+      "end": 936.82,
+      "text": "Mm"
+    },
+    {
+      "start": 936.86,
+      "end": 940.66,
+      "text": "... and that will give businesses a lot more confidence that if they follow that"
+    },
+    {
+      "start": 940.68,
+      "end": 944.38,
+      "text": "approved code of practice, they have actually done what they need to do to comply"
+    },
+    {
+      "start": 944.42,
+      "end": 948.22,
+      "text": "with the law. So I'm very hopeful that the approved codes of practice fill"
+    },
+    {
+      "start": 948.36,
+      "end": 950.76,
+      "text": "those gray areas that currently exist."
+    },
+    {
+      "start": 950.78,
+      "end": 952.08,
+      "text": "Thank you. That's helpful. Vanessa."
+    },
+    {
+      "start": 953.2,
+      "end": 956.32,
+      "text": "Minister, thank you for that clarification about"
+    },
+    {
+      "start": 957.16,
+      "end": 959.32,
+      "text": "the guidance role."
+    },
+    {
+      "start": 959.35,
+      "end": 959.37,
+      "text": "Mm."
+    },
+    {
+      "start": 959.43,
+      "end": 961.18,
+      "text": "Who will form the function"
+    },
+    {
+      "start": 962.16,
+      "end": 965.74,
+      "text": "of being the monitor and being the person who checks that compliance is"
+    },
+    {
+      "start": 965.78,
+      "end": 969.38,
+      "text": "happening or investigates and prosecutes and does all that?"
+    },
+    {
+      "start": 970.68,
+      "end": 973.56,
+      "text": "Well, that would still be the same WorkSafe function that exists now-"
+    },
+    {
+      "start": 973.6,
+      "end": 973.63,
+      "text": "Okay"
+    },
+    {
+      "start": 973.64,
+      "end": 975.24,
+      "text": "... which are the inspectors on the ground."
+    },
+    {
+      "start": 975.48,
+      "end": 976.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 976.59,
+      "end": 978.22,
+      "text": "We have been doing a"
+    },
+    {
+      "start": 979.14,
+      "end": 981.68,
+      "text": "lot more training with some of our WorkSafe inspectors"
+    },
+    {
+      "start": 982.66,
+      "end": 986.2,
+      "text": "to make sure that they know that they have more of a guidance function."
+    },
+    {
+      "start": 986.56,
+      "end": 986.72,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 987.3,
+      "end": 990.51,
+      "text": "But happy for Hayden to pop in about any of the definitions."
+    },
+    {
+      "start": 990.8,
+      "end": 994.26,
+      "text": "Yeah. So just wanting to, just to clarify that we're not"
+    },
+    {
+      "start": 994.72,
+      "end": 998.02,
+      "text": "taking away the ability to do that for"
+    },
+    {
+      "start": 998.04,
+      "end": 999.66,
+      "text": "WorkSafe and saying-"
+    },
+    {
+      "start": 999.72,
+      "end": 999.85,
+      "text": "Oh, no"
+    },
+    {
+      "start": 999.85,
+      "end": 1001.3,
+      "text": "... you are just to guide them."
+    },
+    {
+      "start": 1002.44,
+      "end": 1002.45,
+      "text": "No."
+    },
+    {
+      "start": 1002.45,
+      "end": 1002.63,
+      "text": "No, no, no, no."
+    },
+    {
+      "start": 1002.63,
+      "end": 1005.98,
+      "text": "Because I think that may have been a misinterpretation that some people-"
+    },
+    {
+      "start": 1006.01,
+      "end": 1006.49,
+      "text": "Mm. Mm"
+    },
+    {
+      "start": 1006.49,
+      "end": 1007.99,
+      "text": "... had from this, is that"
+    },
+    {
+      "start": 1009.06,
+      "end": 1012.55,
+      "text": "the intention is that we still carry out these functions,"
+    },
+    {
+      "start": 1013.26,
+      "end": 1014.38,
+      "text": "because that's very important."
+    },
+    {
+      "start": 1014.5,
+      "end": 1014.72,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1015.0,
+      "end": 1015.12,
+      "text": "Mm."
+    },
+    {
+      "start": 1015.78,
+      "end": 1016.88,
+      "text": "But as well as that,"
+    },
+    {
+      "start": 1017.9,
+      "end": 1021.62,
+      "text": "there's a guidance function prior to that. Okay. Thank you."
+    },
+    {
+      "start": 1021.74,
+      "end": 1022.6,
+      "text": "Yeah. Absolutely."
+    },
+    {
+      "start": 1022.61,
+      "end": 1022.76,
+      "text": "Is that right?"
+    },
+    {
+      "start": 1022.86,
+      "end": 1026.86,
+      "text": "There's definitely no goal here that WorkSafe would not be prosecuting or"
+    },
+    {
+      "start": 1026.88,
+      "end": 1030.54,
+      "text": "enforcing the law. But it's simply the case that what we've been"
+    },
+    {
+      "start": 1030.62,
+      "end": 1034.58,
+      "text": "hearing out on the ground is that there hasn't been enough"
+    },
+    {
+      "start": 1034.82,
+      "end": 1035.86,
+      "text": "upfront guidance-"
+    },
+    {
+      "start": 1036.17,
+      "end": 1037.38,
+      "text": "... coming out from WorkSafe-"
+    },
+    {
+      "start": 1037.5,
+      "end": 1037.51,
+      "text": "Mm"
+    },
+    {
+      "start": 1037.51,
+      "end": 1041.36,
+      "text": "... to actually be able to say as a regulator what it is that people"
+    },
+    {
+      "start": 1041.38,
+      "end": 1045.3,
+      "text": "need to be doing right or wrong before they'll get"
+    },
+    {
+      "start": 1045.46,
+      "end": 1048.12,
+      "text": "an infringement notice or a fine or a prosecution."
+    },
+    {
+      "start": 1048.62,
+      "end": 1048.84,
+      "text": "Okay."
+    },
+    {
+      "start": 1049.1,
+      "end": 1049.11,
+      "text": "Perfect."
+    },
+    {
+      "start": 1049.12,
+      "end": 1049.4,
+      "text": "Thank you."
+    },
+    {
+      "start": 1049.48,
+      "end": 1050.56,
+      "text": "Thank you. Jan."
+    },
+    {
+      "start": 1051.1,
+      "end": 1052.26,
+      "text": "Thank you. Thank you, Minister."
+    },
+    {
+      "start": 1053.58,
+      "end": 1057.32,
+      "text": "As I've read all of the submissions, there seems to be universal"
+    },
+    {
+      "start": 1057.34,
+      "end": 1060.59,
+      "text": "confusion over the word likely in Clause 9, sub-"
+    },
+    {
+      "start": 1061.18,
+      "end": 1061.19,
+      "text": "Mm"
+    },
+    {
+      "start": 1061.19,
+      "end": 1062.82,
+      "text": "... the Section 22A and B-"
+    },
+    {
+      "start": 1063.22,
+      "end": 1063.23,
+      "text": "Mm"
+    },
+    {
+      "start": 1063.6,
+      "end": 1065.7,
+      "text": "... and the adding in there of 22A and B."
+    },
+    {
+      "start": 1066.36,
+      "end": 1070.24,
+      "text": "Can you define please what likely to result means"
+    },
+    {
+      "start": 1070.3,
+      "end": 1074.24,
+      "text": "in the definition of critical risk so that we can get clarity and"
+    },
+    {
+      "start": 1074.26,
+      "end": 1077.48,
+      "text": "we can ask those questions of submitters when they're coming in?"
+    },
+    {
+      "start": 1077.84,
+      "end": 1078.28,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1079.18,
+      "end": 1082.92,
+      "text": "So that is a technical definition, so I'll pass to"
+    },
+    {
+      "start": 1082.96,
+      "end": 1085.24,
+      "text": "Hayden because I don't write likely into the law."
+    },
+    {
+      "start": 1085.28,
+      "end": 1087.32,
+      "text": "That's what our officials do for us."
+    },
+    {
+      "start": 1087.64,
+      "end": 1087.79,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1088.36,
+      "end": 1090.92,
+      "text": "So we had this in your initial briefing."
+    },
+    {
+      "start": 1090.98,
+      "end": 1091.22,
+      "text": "It's-"
+    },
+    {
+      "start": 1091.44,
+      "end": 1094.94,
+      "text": "Yeah. So I just wanted some clarification because I've now read the submissions."
+    },
+    {
+      "start": 1095.0,
+      "end": 1097.36,
+      "text": "Yeah. Probable foreseeable risk of harm."
+    },
+    {
+      "start": 1098.54,
+      "end": 1102.28,
+      "text": "So it's more than being possible but less than being certain."
+    },
+    {
+      "start": 1103.02,
+      "end": 1103.17,
+      "text": "Now,"
+    },
+    {
+      "start": 1104.5,
+      "end": 1105.9,
+      "text": "there is judgment involved,"
+    },
+    {
+      "start": 1106.96,
+      "end": 1110.64,
+      "text": "but any test we use will need judgment."
+    },
+    {
+      "start": 1110.68,
+      "end": 1113.66,
+      "text": "There's no perfectly objective, clear test"
+    },
+    {
+      "start": 1114.88,
+      "end": 1118.18,
+      "text": "that you can have under a health and safety work"
+    },
+    {
+      "start": 1118.2,
+      "end": 1118.9,
+      "text": "system"
+    },
+    {
+      "start": 1119.88,
+      "end": 1123.62,
+      "text": "that will get you there. In some of the submissions, they suggest"
+    },
+    {
+      "start": 1123.72,
+      "end": 1124.1,
+      "text": "using"
+    },
+    {
+      "start": 1124.9,
+      "end": 1126.58,
+      "text": "reasonably foreseeable. That's"
+    },
+    {
+      "start": 1127.5,
+      "end": 1129.12,
+      "text": "just a different sort of judgment."
+    },
+    {
+      "start": 1129.22,
+      "end": 1132.72,
+      "text": "You're not going to be able to get away from having a judgment somewhere."
+    },
+    {
+      "start": 1133.0,
+      "end": 1133.34,
+      "text": "Mm."
+    },
+    {
+      "start": 1133.36,
+      "end": 1137.26,
+      "text": "And it's how you describe that judgment and the standard, which is the question"
+    },
+    {
+      "start": 1137.32,
+      "end": 1137.64,
+      "text": "that-"
+    },
+    {
+      "start": 1137.86,
+      "end": 1138.38,
+      "text": "Okay"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_25 - EW [Part 1] - vimeo_1172369898\\2026_03_25 - EW [Part 1] - vimeo_1172369898.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172369898",
+    "display_id": "1172369898",
+    "title": "2026/03/25 - EW [Part 1]",
+    "description": "Wednesday 25 March 2026 | Education and Workforce Committee\n\nHealth and Safety at Work Amendment Bill\n\nHon Brooke van Velden, Minister for Workplace Relations and Safety",
+    "webpage_url": "https://vimeo.com/1172369898",
+    "original_url": "https://vimeo.com/1172369898",
+    "upload_date": "20260324",
+    "timestamp": 1774382067,
+    "release_timestamp": 1774382078,
+    "duration": 1138,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137942560-f18cf1047c056c2c4af1371b207188a29e4b207b890a9b485dfba6b96d987b92-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290169144.vtt?expires=1778562617&sig=0d3015cc2037157206df2b4bd887352018c84df2&download=auto_generated_captions.vtt"
+  }
+}

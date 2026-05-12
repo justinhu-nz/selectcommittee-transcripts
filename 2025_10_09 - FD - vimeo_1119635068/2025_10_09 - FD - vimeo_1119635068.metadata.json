@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:54.737098+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1119635068",
+  "title": "2025/10/09 - FD",
+  "url": "https://vimeo.com/1119635068",
+  "published_at": "20251008",
+  "published_display": "2025-10-08",
+  "duration_seconds": 2011,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1995.33,
+    "segment_count": 746,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_09 - FD - vimeo_1119635068\\2025_10_09 - FD - vimeo_1119635068.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1119635068",
+    "display_id": "1119635068",
+    "title": "2025/10/09 - FD",
+    "description": "Thursday 09 October 2025 | Foreign Affairs, Defence and Trade Committee\n\nDefence (Workforce) Amendment Bill\n\nNew Zealand Council of Trade Unions\u00a0\n\nRichard Wagstaff\n\n\nMax Marshall\u00a0\n\nNew Zealand Public Service Association Te Pukenga Here Tikanga Mahi (PSA)\u00a0\nFleur Fitzsimons, National Secretary\n\nAndrew McCauley, Policy Advisor\nFleur Fitzsimons, National Secretary",
+    "webpage_url": "https://vimeo.com/1119635068",
+    "original_url": "https://vimeo.com/1119635068",
+    "upload_date": "20251008",
+    "timestamp": 1759952457,
+    "release_timestamp": 1759952465,
+    "duration": 2011,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067857966-196ccd7e1bf996644d9dd4de0867586d950d34603c9cdcd951454a3cffdf26e0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/258077811.vtt?expires=1778562419&sig=c32ceb5fd1a8bd62d046804be30645b3e835b0df&download=auto_generated_captions.vtt"
+  }
+}

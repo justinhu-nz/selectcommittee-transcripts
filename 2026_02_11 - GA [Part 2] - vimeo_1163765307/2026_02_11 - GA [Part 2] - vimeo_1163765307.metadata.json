@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:21.092593+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1163765307",
+  "title": "2026/02/11 - GA [Part 2]",
+  "url": "https://vimeo.com/1163765307",
+  "published_at": "20260210",
+  "published_display": "2026-02-10",
+  "duration_seconds": 2997,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2914.26,
+    "segment_count": 1018,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_11 - GA [Part 2] - vimeo_1163765307\\2026_02_11 - GA [Part 2] - vimeo_1163765307.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1163765307",
+    "display_id": "1163765307",
+    "title": "2026/02/11 - GA [Part 2]",
+    "description": "2 February 2026 | Governance and Administration Committee\n\n2024/25 Annual review of Taumata Arowai - the Water Services Regulator\nTaumata Arowai\n\tRaveen Jaduram, Chair\n\tAllan Prangnell, Chief Executive\n\tSarah Howard, Head of Sector Advice and Relations\n\tSara McFall, Head of Systems, Strategy, and Performance\n\tSteve Taylor, Head of Regulatory\n\tYazmin Juned\n\tBevan Tydda\n\tZoe Ogilvie-Burns",
+    "webpage_url": "https://vimeo.com/1163765307",
+    "original_url": "https://vimeo.com/1163765307",
+    "upload_date": "20260210",
+    "timestamp": 1770760321,
+    "release_timestamp": 1770760359,
+    "duration": 2997,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120208990-d35da3d75086eeb529bf2152d7f2773e8448e85d3d493cfa9785aebd126dd614-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282050511.vtt?expires=1778562325&sig=14e73f6c0c3b319b70d0054560e86ac7078def45&download=auto_generated_captions.vtt"
+  }
+}

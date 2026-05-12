@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:09:07.151738+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1171644960",
+  "title": "2026/03/12 -  ENV",
+  "url": "https://vimeo.com/1171644960",
+  "published_at": "20260312",
+  "published_display": "2026-03-12",
+  "duration_seconds": 17136,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 17126.44,
+    "segment_count": 6086,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_12 - ENV - vimeo_1171644960\\2026_03_12 - ENV - vimeo_1171644960.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1171644960",
+    "display_id": "1171644960",
+    "title": "2026/03/12 -  ENV",
+    "description": "12 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nBeef + Lamb\nPublic Health Communication Centre\nTe Whanau a Apanui\n\nNatalie Coates, Barrister\nDayle Takitimu\n\nTe Nehenehenui\nNZ M\u0101ori Council\nForest and Bird\n\nErika Toleman\nRichard Capie\n\nClassic Developments\n\nBill Loutit\nPeter Cooney\n\nTempleton Developments\n\nBill Loutit\nPeter Cooney\n\nLawyers for Climate Action\nGrant Eccles\nBrent Clode\nNew Zealand Institute of Landscape Architects\n\nSimon Button, Deputy Chair NZILA, Environmental Legislation Working Group Member and Registered Member\nShannon Bray, Environmental Legislation Working Group Member, Fellow, and Registered member\nBridget Gilbert, Environmental Legislation Working Group Member, Fellow and Registered Member\nBen Ormsby, Member of Te Tau a Nuku (M\u0101ori Landscape Architects Ropu)\n\nWayfinder Landscape Planning and Strategy Limited\n\nShannon Bray, Environmental Legislation Working Group Member, Fellow, and Registered member\nBen Ormsby, Member of Te Tau a Nuku (M\u0101ori Landscape Architects Ropu)\n\nResource Management Law Association",
+    "webpage_url": "https://vimeo.com/1171644960",
+    "original_url": "https://vimeo.com/1171644960",
+    "upload_date": "20260312",
+    "timestamp": 1773274905,
+    "release_timestamp": 1773274923,
+    "duration": 17136,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2134310245-c0a885399c8be6987d15281b72316cde86b65990acc88150e4fac88f98007a41-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287556591.vtt?expires=1778562551&sig=71520a73fb4e245e5d3318f05e8048fca3eb1907&download=auto_generated_captions.vtt"
+  }
+}

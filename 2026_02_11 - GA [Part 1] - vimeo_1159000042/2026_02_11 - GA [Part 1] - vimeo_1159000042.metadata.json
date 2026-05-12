@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:05:26.858319+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159000042",
+  "title": "2026/02/11 - GA [Part 1]",
+  "url": "https://vimeo.com/1159000042",
+  "published_at": "20260210",
+  "published_display": "2026-02-10",
+  "duration_seconds": 2256,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2234.78,
+    "segment_count": 774,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_11 - GA [Part 1] - vimeo_1159000042\\2026_02_11 - GA [Part 1] - vimeo_1159000042.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159000042",
+    "display_id": "1159000042",
+    "title": "2026/02/11 - GA [Part 1]",
+    "description": "2 February 2026 | Governance and Administration Committee\n\n2024/25 Annual review of the Office of Film and Literature Classification\nClassification Office\n\tCaroline Flora, Chief Censor\n\tRupert Ablett-Hampson, Deputy Chief Censor\n\tCaitlin Wimsett, Information Unit Manager\n\tJulia Dayan, Corporate Services Manager",
+    "webpage_url": "https://vimeo.com/1159000042",
+    "original_url": "https://vimeo.com/1159000042",
+    "upload_date": "20260210",
+    "timestamp": 1770756479,
+    "release_timestamp": 1770756489,
+    "duration": 2256,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2120208526-71478a96fc51bab473d92e54e66d7d25a839efe8bc2b5a0f1467923b7e6b2411-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282038749.vtt?expires=1778562331&sig=f33d7504f2b81d5c3a5144e6bd14458813b800f7&download=auto_generated_captions.vtt"
+  }
+}

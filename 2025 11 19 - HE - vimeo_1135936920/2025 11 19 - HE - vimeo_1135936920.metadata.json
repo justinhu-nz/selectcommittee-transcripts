@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:03:39.410037+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135936920",
+  "title": "2025 11 19 - HE",
+  "url": "https://vimeo.com/1135936920",
+  "published_at": "20251119",
+  "published_display": "2025-11-19",
+  "duration_seconds": 1869,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1861.52,
+    "segment_count": 521,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 19 - HE - vimeo_1135936920\\2025 11 19 - HE - vimeo_1135936920.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135936920",
+    "display_id": "1135936920",
+    "title": "2025 11 19 - HE",
+    "description": "19 November 2025 | Health Committee\n\nBriefing on endometriosis\nEndometriosis New Zealand\n\tTanya Cooke, Chief Executive\n\nPetition of Judy Anderson: Inquiry into advice on GLP-1s for obese children and possible dietary solutions\nJudy Anderson\nGlen Davies",
+    "webpage_url": "https://vimeo.com/1135936920",
+    "original_url": "https://vimeo.com/1135936920",
+    "upload_date": "20251119",
+    "timestamp": 1763513013,
+    "release_timestamp": 1763513022,
+    "duration": 1869,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2084616435-cf8223aa263bae5830beeb4158e8f6ec45a346a97f8fd4d11dbab856b383bccd-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266124455.vtt?expires=1778562224&sig=c2b950b3d18f58c8091facd8af3c25236645e322&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:45.935532+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143290352",
+  "title": "2025/12/04 EDSI",
+  "url": "https://vimeo.com/1143290352",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 3443,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3436.36,
+    "segment_count": 1152,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 EDSI - vimeo_1143290352\\2025_12_04 EDSI - vimeo_1143290352.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143290352",
+    "display_id": "1143290352",
+    "title": "2025/12/04 EDSI",
+    "description": "2024/2025 Annual review of Callaghan Innovation\n\nCallaghan Innovation\nElena Trout, Board Chair\nStefan Korn, Chief Executive\nCliff Hastings, Chief Innovation Expertise Officer",
+    "webpage_url": "https://vimeo.com/1143290352",
+    "original_url": "https://vimeo.com/1143290352",
+    "upload_date": "20251204",
+    "timestamp": 1764818877,
+    "release_timestamp": 1764818884,
+    "duration": 3443,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091445193-18a4842800ec7921df7421576f5fef22aa2a611217e0c47e3b8611f9e78f11cd-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269747306.vtt?expires=1778563310&sig=cdbc3e97e303b72d444982e617e79b44c101afba&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:12.491725+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142217875",
+  "title": "2025/12/02 - EW (Part 2)",
+  "url": "https://vimeo.com/1142217875",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 5404,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5376.01,
+    "segment_count": 2078,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - EW (Part 2) - vimeo_1142217875\\2025_12_02 - EW (Part 2) - vimeo_1142217875.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142217875",
+    "display_id": "1142217875",
+    "title": "2025/12/02 - EW (Part 2)",
+    "description": "Tuesday 2 December 2025 | Education and Workforce Committee\n\n2024/25 Annual review of the Tertiary Education Commission\n\nHearing of evidence:\n\n\nHon Dr Shane Reti, Minister for Universities\nHon Penny Simmonds, Minister for Vocational Education\n\n\n2024/25 Annual review of the New Zealand Qualifications Authority\n\nHearing of evidence:\n\nNew Zealand Qualifications Authority\n\nPrashant Bakshi, Acting Chief Executive\nGrant Klinkum, Chief Executive\nAlex Bidois, Deputy Chief Executive, M\u0101ori\nEmily Fabling, Deputy Chief Executive, Quality Assurance\nJann Marshall, Deputy Chief Executive, Assessment\nUtufa\u2019asisili Rosemary Mose, Deputy Chief Executive, People and Pasifika\nPhilip Lim, Chief Financial Officer\nGavin Middleton, Principal Comms Advisor\nHamsa Lilley, Director, Data, Evaluation and System Performance",
+    "webpage_url": "https://vimeo.com/1142217875",
+    "original_url": "https://vimeo.com/1142217875",
+    "upload_date": "20251201",
+    "timestamp": 1764632112,
+    "release_timestamp": 1764632122,
+    "duration": 5404,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089941198-29c07505074edd0222d5ac1659b95be39c21cb17262267b29658eb787769e953-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268815019.vtt?expires=1778563277&sig=6de64348218716415074865a4ed227962d7c48a6&download=auto_generated_captions.vtt"
+  }
+}

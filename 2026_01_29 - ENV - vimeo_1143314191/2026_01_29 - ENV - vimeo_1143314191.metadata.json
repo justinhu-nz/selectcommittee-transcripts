@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:20:52.838896+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143314191",
+  "title": "2026/01/29 - ENV",
+  "url": "https://vimeo.com/1143314191",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 2802,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2770.14,
+    "segment_count": 962,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_01_29 - ENV - vimeo_1143314191\\2026_01_29 - ENV - vimeo_1143314191.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143314191",
+    "display_id": "1143314191",
+    "title": "2026/01/29 - ENV",
+    "description": "Thursday, 29th January 2026 | Environment Committee\n\nReport of the Parliamentary Commissioner for the Environment, Estimate of environmental expenditure 2025/26: Method and results November 2025\n\nHearing of evidence:\n\nParliamentary Commissioner for the Environment\nSimon Upton, Parliamentary Commissioner for the Environment\nGeoff Simmons, Chief Economist\nMatt Paterson, Chief Advisor \u2013 Policy and Programmes\nPeter Lee, Senior Advisor\nAbigail Bender, Advisor",
+    "webpage_url": "https://vimeo.com/1143314191",
+    "original_url": "https://vimeo.com/1143314191",
+    "upload_date": "20260128",
+    "timestamp": 1769633426,
+    "release_timestamp": 1769633432,
+    "duration": 2802,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2119129055-bae6a05d720da3f373994f36529a01b9b7f467a3e48aaba930b0ed8803fdfd65-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279405548.vtt?expires=1778563257&sig=cf644fa2f0b2e224b4c8947e48d8b1ebd5f54ff8&download=auto_generated_captions.vtt"
+  }
+}

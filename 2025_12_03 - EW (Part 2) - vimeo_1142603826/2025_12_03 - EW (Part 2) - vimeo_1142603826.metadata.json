@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:00.041765+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142603826",
+  "title": "2025/12/03 - EW (Part 2)",
+  "url": "https://vimeo.com/1142603826",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 5422,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5403.97,
+    "segment_count": 2159,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - EW (Part 2) - vimeo_1142603826\\2025_12_03 - EW (Part 2) - vimeo_1142603826.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142603826",
+    "display_id": "1142603826",
+    "title": "2025/12/03 - EW (Part 2)",
+    "description": "Wednesday 3 December 2025 | Education and Workforce Committee\n\n2024/25 Annual review of the Education Review Office\n\nHearing of evidence:\n\nEducation Review Office\n\nRuth Shinoda, Acting Chief Executive and Chief Review Officer\nJeremy France, Deputy Chief Executive, Corporate Services\nCarolyn Palmer, Deputy Chief Executive, Performance and Implementation\nShelley Booysen, Deputy Chief Executive, Review and Improvement\nDeborah Wood, Deputy Chief Executive, Evaluation and Review M\u0101ori\nFiona Stockdill, Chief Financial Officer\nDeborah Platts-Fowler, Acting Director, Evaluation and Policy\nRebecca Bjarnesen, Senior Manager, Evaluation and Policy\nAnne Sanders, Manager, Human Resources",
+    "webpage_url": "https://vimeo.com/1142603826",
+    "original_url": "https://vimeo.com/1142603826",
+    "upload_date": "20251202",
+    "timestamp": 1764719794,
+    "release_timestamp": 1764719805,
+    "duration": 5422,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090503705-e58fe798cfc3dcdcfe23eea10c3e841bc5400390c636a4afd167d32ed9968474-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269106340.vtt?expires=1778563264&sig=e3c160a1b91bec9cbdf628071c08f54fec8b34ed&download=auto_generated_captions.vtt"
+  }
+}

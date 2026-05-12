@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:10:05.848107+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170116064",
+  "title": "2026/03/25 - EW [Part 2]",
+  "url": "https://vimeo.com/1170116064",
+  "published_at": "20260324",
+  "published_display": "2026-03-24",
+  "duration_seconds": 7211,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7211.03,
+    "segment_count": 2320,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_25 - EW [Part 2] - vimeo_1170116064\\2026_03_25 - EW [Part 2] - vimeo_1170116064.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170116064",
+    "display_id": "1170116064",
+    "title": "2026/03/25 - EW [Part 2]",
+    "description": "Wednesday 25 March 2026 | Education and Workforce Committee\n\nHealth and Safety at Work Amendment Bill\n\nHon Brooke van Velden, Minister for Workplace Relations and Safety\nMinistry of Business, Innovation and Employment\n- Hayden Fenwick, Manager, Health and Safety Systems Policy\n\nVictoria University of Wellington\n- Chris Peace, Senior Lecturer in Workplace Health and Safety\n- Professor Joanne Crawford\n\nEngineering New Zealand\n- Richard Templer, Chief Executive\n- Joe Bain, Vice Chair, New Zealand Society for Safety Engineering; and Operations Director, Motivated Design & Analysis Engineering Consultancy\n\nFederated Mountain Clubs of New Zealand and the Aotearoa Access Climbing Trust\n- Allan Brent, Executive Member\n\nThe Law Association of New Zealand\n- Brett Harris, Convenor of The Law Association's Health & Safety Law Committee\n\nSt Peter's on Willis Social Justice Group\n- Gail Duncan, Chair\n- Stephen Jenkins, CPENG, Dist. FEngNZ, Member St Peter's on Willis Social Justice Group\n\nResponsible Care New Zealand (former NZ Chemical Industry Association)\n- Barry Dyer, Chief Executive\n- Ken Clarke, Technical Manager\n\nFederated Farmers of NZ Inc\n- David Birkett, National Board (H+S spokesperson)\n\nShopCare\n- Selena Armstrong, CEO\n- Paul Harrison, Programme Director\n\nStand With Pike\n- Rob Egan\n- Anna Osborne\n- Sonya Rockhouse\n\nBeca Limited\n- Rob Jury\n\nBus and Coach Association NZ\n- James Kennelly, Advocacy Manager",
+    "webpage_url": "https://vimeo.com/1170116064",
+    "original_url": "https://vimeo.com/1170116064",
+    "upload_date": "20260324",
+    "timestamp": 1774389290,
+    "release_timestamp": 1774389299,
+    "duration": 7211,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137943282-2eee390010fa1eef1727078eb554be53c10cfd72228b7c670b78b3b454a85fb1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290193832.vtt?expires=1778562610&sig=060260e943a0dd682bee4493d9515ea9930018e9&download=auto_generated_captions.vtt"
+  }
+}

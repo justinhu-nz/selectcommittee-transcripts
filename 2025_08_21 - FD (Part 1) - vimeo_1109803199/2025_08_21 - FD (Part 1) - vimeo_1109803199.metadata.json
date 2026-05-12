@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:07:05.025712+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109803199",
+  "title": "2025/08/21 - FD (Part 1)",
+  "url": "https://vimeo.com/1109803199",
+  "published_at": "20250820",
+  "published_display": "2025-08-20",
+  "duration_seconds": 2793,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2784.16,
+    "segment_count": 1084,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_21 - FD (Part 1) - vimeo_1109803199\\2025_08_21 - FD (Part 1) - vimeo_1109803199.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109803199",
+    "display_id": "1109803199",
+    "title": "2025/08/21 - FD (Part 1)",
+    "description": "Thursday, 21 August 2025 | Foreign Affairs, Defence and Trade Committee\n\nBriefing on the Ministry of Defence Major Projects Report 2024\n\nHearing of evidence \nSubmitters list: \nMinistry of Defence and New Zealand Defence Force\u00a0\n\nBrigadier Matthew Weston, Assistant Chief Capability - New Zealand Defence Force\u00a0\nSarah Minson, Deputy Secretary Capability Delivery - Ministry of Defence\u00a0\n\n\nBriefing on non-tariff barriers\u00a0\nOrion Health\u00a0\n\nAndrew Bowater, Vice President - Operations\u00a0",
+    "webpage_url": "https://vimeo.com/1109803199",
+    "original_url": "https://vimeo.com/1109803199",
+    "upload_date": "20250820",
+    "timestamp": 1755728660,
+    "release_timestamp": 1755728668,
+    "duration": 2793,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049891912-f1afc8b9e3afdfb78348fd41e00c8966063952c755a1b23f85c614215191496d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249015715.vtt?expires=1778562429&sig=ad6c9fbd50aff1ff9f140ac4f4124732a69f70d6&download=auto_generated_captions.vtt"
+  }
+}

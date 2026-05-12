@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:21:25.941978+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138227399",
+  "title": "2025/12/01 - EW",
+  "url": "https://vimeo.com/1138227399",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 17948,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 17947.4,
+    "segment_count": 5563,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - EW - vimeo_1138227399\\2025_12_01 - EW - vimeo_1138227399.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138227399",
+    "display_id": "1138227399",
+    "title": "2025/12/01 - EW",
+    "description": "Monday 1 December | Education and Workforce Committee\n\n2024/25 Annual review of the Accident Compensation Corporation\n\nHearing of evidence:\n\nAccident Compensation Corporation\n\nJan Dawson, Board Chair\nMegan Main, Chief Executive\nAndrew Milne, Executive Lead, Scheme Sustainability\nDavid Iverson, Chief Investment Officer\nMichael Frampton, Deputy Chief Executive, Service Delivery\nStewart McRobie, Deputy Chief Executive, Corporate and Finance\nRenee Graham, Deputy Chief Executive, Strategy Engagement and Prevention\nJason Hope, Manager, Government Engagement\n\n\nHon Scott Simpson, Minister for ACC\n\n2024/25 Annual review of the Charter School Agency\n\nHearing of evidence:\n\nCharter School Agency\n\nJane Lee, Chief Executive\nSean Teddy, Incoming Chief Executive\nDuane McKibben, Head of Business Strategy and Services\nJuliette Hayes, Head of Performance and Monitoring\nSean Voigt, Finance Lead",
+    "webpage_url": "https://vimeo.com/1138227399",
+    "original_url": "https://vimeo.com/1138227399",
+    "upload_date": "20251201",
+    "timestamp": 1764565511,
+    "release_timestamp": 1764565529,
+    "duration": 17948,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089825826-a8731d1379865ba27e4a13ae70d3c614fcab7cf25b5e2cbc90347ea3fa5e8d5e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268609316.vtt?expires=1778563289&sig=8ad3e354100f2113dfb1c36d6a904fa068825beb&download=auto_generated_captions.vtt"
+  }
+}

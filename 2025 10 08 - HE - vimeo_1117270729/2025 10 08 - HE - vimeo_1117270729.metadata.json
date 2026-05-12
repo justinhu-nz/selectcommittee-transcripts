@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:16.967066+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117270729",
+  "title": "2025 10 08 - HE",
+  "url": "https://vimeo.com/1117270729",
+  "published_at": "20251007",
+  "published_display": "2025-10-07",
+  "duration_seconds": 5823,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5744.16,
+    "segment_count": 2053,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 08 - HE - vimeo_1117270729\\2025 10 08 - HE - vimeo_1117270729.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117270729",
+    "display_id": "1117270729",
+    "title": "2025 10 08 - HE",
+    "description": "8 October 2025 | Health Committee\n\nReview briefing on the 2023/24 annual review of the Cancer Control Agency\nCancer Control Agency\n\tRami Rahal, Chief Executive\n\tNicola Hill, Deputy Chief Executive\n\tSasha Webb, Director, Equity & Whanau Centred Care",
+    "webpage_url": "https://vimeo.com/1117270729",
+    "original_url": "https://vimeo.com/1117270729",
+    "upload_date": "20251007",
+    "timestamp": 1759873420,
+    "release_timestamp": 1759873428,
+    "duration": 5823,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067467412-d4eab6122e4db72604cd4f32a9c7ff5ea42eeb4e9b4a87ed1a1e15d57008d350-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257855874.vtt?expires=1778563101&sig=d2ec51c2dbfc4524936d91b4ea8099a5a0c840dd&download=auto_generated_captions.vtt"
+  }
+}

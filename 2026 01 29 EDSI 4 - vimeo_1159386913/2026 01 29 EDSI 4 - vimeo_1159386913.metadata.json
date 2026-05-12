@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:11:40.973407+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159386913",
+  "title": "2026 01 29 EDSI 4",
+  "url": "https://vimeo.com/1159386913",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 5088,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5082.97,
+    "segment_count": 1685,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 01 29 EDSI 4 - vimeo_1159386913\\2026 01 29 EDSI 4 - vimeo_1159386913.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159386913",
+    "display_id": "1159386913",
+    "title": "2026 01 29 EDSI 4",
+    "description": "Telecommunications and Other Matters Amendment Bill\n\nFree Speech Union\nDouglas Brown\nHannah Clow\n\nFund RNZ and The Kiwi Rocket\nJo Bond\n\nNew Zealand Outdoors and Freedom Party\nSue Grey\n\nProtecting Individual Life, Liberty, And Rights (PILLAR NZ)\nNathan Seiuli,\nArian Tashakkori\n\nRock The Vote NZ\nDaymond Goulder-Horobin\n\nSOS Ministries\nKen Riddle\n\nSouthern Cross Cables Network\nRebecca Jacob\n\nAlexander Kerr\n\nDr Andrew Shelley\n\nChris Newman",
+    "webpage_url": "https://vimeo.com/1159386913",
+    "original_url": "https://vimeo.com/1159386913",
+    "upload_date": "20260128",
+    "timestamp": 1769641224,
+    "release_timestamp": 1769641234,
+    "duration": 5088,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113785159-0e1ac874da7a61efbefaff5679dfdc2c235baebb36745e03b1fb77066ce57cd3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279428202.vtt?expires=1778562704&sig=c3b63f0d334e60003f1a1cc512a037faa34c29cb&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:18:44.991801+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142236194",
+  "title": "2025/12/03 - GA [Part 1]",
+  "url": "https://vimeo.com/1142236194",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 12418,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12409.55,
+    "segment_count": 4480,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - GA [Part 1] - vimeo_1142236194\\2025_12_03 - GA [Part 1] - vimeo_1142236194.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142236194",
+    "display_id": "1142236194",
+    "title": "2025/12/03 - GA [Part 1]",
+    "description": "Wednesday 3 December 2025 | Governance and Administration Committee\n\n2022/23 Annual review of the Department of Internal Affairs; 2022/23 Annual review of the Digital Executive Board\n\nDepartment of Internal Affairs\n- Paul James, Secretary for Internal Affairs\n- Hoani Lambert, Deputy Secretary Partnerships and Commissions\n- Rachel Leota, Deputy Secretary Regulatory and Identity Services\n- Myles Ward, Deputy Secretary Digital Services\n- Katrina Casey, Deputy Secretary Local Government\n- Richard Ward, General Manager Local Government Policy, Partnerships, and Operations\n\nHon Brooke van Velden, Minister of Internal Affairs\n\nDigital Executive Board\n\nHon Simon Watts, Minister of Local Government",
+    "webpage_url": "https://vimeo.com/1142236194",
+    "original_url": "https://vimeo.com/1142236194",
+    "upload_date": "20251202",
+    "timestamp": 1764716456,
+    "release_timestamp": 1764716468,
+    "duration": 12418,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090484657-9d7f2fbde6d9e03417decc7ca5f8bf05016e2e6b93ab1ca1389fe25b35a044ad-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269076509.vtt?expires=1778563128&sig=0ec382806d960478238704b5d779df99ae2fad9b&download=auto_generated_captions.vtt"
+  }
+}

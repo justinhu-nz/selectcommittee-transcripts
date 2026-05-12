@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:08:04.926476+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1147097103",
+  "title": "2025 12 17 FEC",
+  "url": "https://vimeo.com/1147097103",
+  "published_at": "20251217",
+  "published_display": "2025-12-17",
+  "duration_seconds": 1881,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1880.24,
+    "segment_count": 734,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 12 17 FEC - vimeo_1147097103\\2025 12 17 FEC - vimeo_1147097103.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1147097103",
+    "display_id": "1147097103",
+    "title": "2025 12 17 FEC",
+    "description": "Wednesday 17 December 2025 | Finance and Expenditure Committee\nInquiry into performance reporting and public accountability\nPublic Sector Providers (Collated by the Treasury)\nKellie Coombes, Te Tumu Whakarae m\u014d te Wahine Secretary for Women and Chief Executive\nPeter Mersi, Commissioner and Chief Executive of Inland Revenue\nRodney Barber",
+    "webpage_url": "https://vimeo.com/1147097103",
+    "original_url": "https://vimeo.com/1147097103",
+    "upload_date": "20251217",
+    "timestamp": 1765931835,
+    "release_timestamp": 1765931842,
+    "duration": 1881,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096863432-149646c7a6903e3db7ff4c10ebc74297ce8644c52693dcadca1423a1dbfd65eb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272533180.vtt?expires=1778562489&sig=ed30c3fbec3714215d2fcbd95edd90ca8d2d21c0&download=auto_generated_captions.vtt"
+  }
+}

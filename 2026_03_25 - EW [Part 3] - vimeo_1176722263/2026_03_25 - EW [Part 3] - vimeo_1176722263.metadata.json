@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:09:59.274108+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176722263",
+  "title": "2026/03/25 - EW [Part 3]",
+  "url": "https://vimeo.com/1176722263",
+  "published_at": "20260325",
+  "published_display": "2026-03-25",
+  "duration_seconds": 7908,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7890.53,
+    "segment_count": 2486,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_25 - EW [Part 3] - vimeo_1176722263\\2026_03_25 - EW [Part 3] - vimeo_1176722263.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176722263",
+    "display_id": "1176722263",
+    "title": "2026/03/25 - EW [Part 3]",
+    "description": "Wednesday 25 March 2026 | Education and Workforce Committee\n\nHealth and Safety at Work Amendment Bill\n\nCivil Contractors New Zealand\n- Fraser May, Communications and Advocacy Manager\n- Hugh Goddard\n\nHealth Sector Committee of the Public Service Association; PSA DOC National Delegates Committee; PSA Te Pukenga Here Tikanga Mahi\n- Duane Leo, National Secretary\n- Tracy Klenner, Health and Safety Lead\n- Paula Warren, Delegate\n\nTertiary Education Union\n- Megan Morris, Education and Industrial Campaigns Officer\n- Zoe Port, TEU member\n\nRetail NZ\n- Carolyn Young, Chief Executive\n- Denise Garland, Advocacy, Advice & Communications Manager\n- Yevgenya Chityan, Business & HR Advisor\n\nBathurst Resources Limited\n- Richard Tacon, Chief Executive Officer\n- Fiona Bartier, General Manager Health Safety and Environment\n\nNew Zealand Institute of Directors\n- Guy Beatson, GM of the Governance Leadership Centre\n- Herman Visagie, Incoming GM of the Governance Leadership Centre\n\nHealth and Safety Association New Zealand\n- Mike O'Brien, HASANZ Independent Chair\n- Joe Bain, Incoming Executive Director and Current Member of the HASANZ Governance Group representing Engineering NZ\n- Joel Majer, Member of the HASANZ Governance Group representing Institute of Organisational Psychology\n\nMike O'Brien\n\nSimpson Grierson\n- John Rooney, Partner\n- Mike Mercer, Senior Associate\n\nSafer Farms\n- Lindy Nelson, Sheep and Beef Farmer, Farm Without Harm Ambassador, Safer Farms Board Member and past Chair of Safer Farms Board\n- Natalie Bowie, Acting CEO\n\nE tu\n- Karena Brown, Lead Strategic Researcher\n\nParallaxx Limited\n- Dave Tilton, Director\n\nCommunity Law Centres Aotearoa\n- Rupert O'Brien, Law Reform Coordinator\n\nThe Outdoor Access Commission, Herenga a Nuku Aotearoa\n- Geoff Holgate, Regional Field Advisor",
+    "webpage_url": "https://vimeo.com/1176722263",
+    "original_url": "https://vimeo.com/1176722263",
+    "upload_date": "20260325",
+    "timestamp": 1774398680,
+    "release_timestamp": 1774398692,
+    "duration": 7908,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137943406-358f4107d2bff28d744683a667d19f41246e87ca7775c9dee1011d67a4ab4de4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290218450.vtt?expires=1778562603&sig=f6d4eaf81ed719c83d5d49d3f273a08d2806562a&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:06:44.279405+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129655458",
+  "title": "2025/11/06 - FD",
+  "url": "https://vimeo.com/1129655458",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 1319,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1303.88,
+    "segment_count": 543,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_06 - FD - vimeo_1129655458\\2025_11_06 - FD - vimeo_1129655458.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129655458",
+    "display_id": "1129655458",
+    "title": "2025/11/06 - FD",
+    "description": "Thursday 06 November 2025 | Foreign Affairs, Defence and Trade Committee\n\nBriefing on meetings with non-governmental organisations and individuals\n\nHearing of evidence\nSubmitter list:\n\nDr Terence Wood",
+    "webpage_url": "https://vimeo.com/1129655458",
+    "original_url": "https://vimeo.com/1129655458",
+    "upload_date": "20251105",
+    "timestamp": 1762372651,
+    "release_timestamp": 1762372658,
+    "duration": 1319,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078909447-08197ecaba53fa697bad633a99bdfc6065addc646bd4cf570e74f2aca99d032b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263316555.vtt?expires=1778562408&sig=33d079f8be8491bffecb9d3f60cb14006055a372&download=auto_generated_captions.vtt"
+  }
+}

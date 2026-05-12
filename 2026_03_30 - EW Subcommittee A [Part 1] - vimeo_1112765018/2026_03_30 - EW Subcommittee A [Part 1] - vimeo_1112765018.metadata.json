@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:09:52.368671+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1112765018",
+  "title": "2026/03/30 - EW Subcommittee A [Part 1]",
+  "url": "https://vimeo.com/1112765018",
+  "published_at": "20260329",
+  "published_display": "2026-03-29",
+  "duration_seconds": 6476,
+  "source_labels": "Vimeo Showcase 10758097, Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6475.48,
+    "segment_count": 1910,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_30 - EW Subcommittee A [Part 1] - vimeo_1112765018\\2026_03_30 - EW Subcommittee A [Part 1] - vimeo_1112765018.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1112765018",
+    "display_id": "1112765018",
+    "title": "2026/03/30 - EW Subcommittee A [Part 1]",
+    "description": "Monday 30 March 2026 | Education and Workforce subcommittee A\n\nHealth and Safety at Work Amendment Bill\n\nNew Zealand Ethical Employers Incorporated\n- Mike Chapman, Chair\n\nAPEX and NZRDA unions\n- Natalia D'Souza, Research & Policy Advisor\n\nPhysiotherapy New Zealand\n- Kirsten Davie, President\n- Simon Hoar\n\nMinEx Health and Safety Council\n- Wayne Scott, Chief Executive Officer\n\nHASANZ Miller Foundation\n- Ann Miller\n- Mike O'Brien\n\nDavid Lillis\n\nHuman Factors and Ergonomics Society of New Zealand\n- Joanne Crawford, Professor of Health and Safety\n\nEnergy Resources Aotearoa\n- John Carnegie, Chief Executive\n- James Caldwell, Policy Director - Upstream and Environment\n\nBusiness Canterbury\n- Leeann Watson, Chief Executive\n\nHazardous Substances Professionals NZ Inc. (HSPNZ)\n- Kevin Mair, Executive Committee Member\n- Ken Clarke, Executive Committee Member\n\nJonathan Godfrey\n\nNew Zealand Dairy Workers Union -Te Runanga Waiu\n- Jared Phillips, General Counsel\n- Chris Flatt, National Secretary",
+    "webpage_url": "https://vimeo.com/1112765018",
+    "original_url": "https://vimeo.com/1112765018",
+    "upload_date": "20260329",
+    "timestamp": 1774817674,
+    "release_timestamp": 1774817686,
+    "duration": 6476,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2139827448-695f99aad7265215aa56f0653f47997f7e508fa8a0faa1b641fee158969ae37e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291219660.vtt?expires=1778562596&sig=a1aed39ba04c0bb692f5b4602fbb66fa723def59&download=auto_generated_captions.vtt"
+  }
+}

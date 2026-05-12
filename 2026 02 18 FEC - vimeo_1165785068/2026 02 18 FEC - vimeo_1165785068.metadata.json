@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:07:30.492332+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1165785068",
+  "title": "2026 02 18 FEC",
+  "url": "https://vimeo.com/1165785068",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 2945,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2945.18,
+    "segment_count": 1160,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 18 FEC - vimeo_1165785068\\2026 02 18 FEC - vimeo_1165785068.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1165785068",
+    "display_id": "1165785068",
+    "title": "2026 02 18 FEC",
+    "description": "Wednesday 18 February 2026| Finance and Expenditure Committee\nBriefing on the response to the inquiry into banking competition\nASB\nVittoria Shortt, CEO and Managing Director\nANZ New Zealand\nScott St John, Chair\nAntonia Watson, CEO\nCommerce Commission\nDr John Small, Chair",
+    "webpage_url": "https://vimeo.com/1165785068",
+    "original_url": "https://vimeo.com/1165785068",
+    "upload_date": "20260218",
+    "timestamp": 1771376085,
+    "release_timestamp": 1771376093,
+    "duration": 2945,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123698187-0a42de110eb98f30f81373e0d905c5f195a29e88b29828c94ba04cba136b55a1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283306842.vtt?expires=1778562455&sig=7fa81b639dac24bdc7f7531da5010953501f05f7&download=auto_generated_captions.vtt"
+  }
+}

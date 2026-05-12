@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:19:05.148925+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135936597",
+  "title": "2025/11/12 - GA",
+  "url": "https://vimeo.com/1135936597",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 1027,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1019.09,
+    "segment_count": 330,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_12 - GA - vimeo_1135936597\\2025_11_12 - GA - vimeo_1135936597.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135936597",
+    "display_id": "1135936597",
+    "title": "2025/11/12 - GA",
+    "description": "Thursday, 12th November 2025 | Governance and Administration\n\nReport of the Ombudsman, OIA timeliness obligations: Compliance and practice in Department of Prime Minister and Cabinet; Report of the Ombudsman, The Chief Ombudsman's Reflections on the Official Information Act, Report of the Chief Ombudsman Peter Boshier; Report of the Ombudsman, OIA timeliness obligations: Compliance and practice in Department of Internal Affairs\n\nHearing of evidence:\n\nOffice of the Ombudsman\nJohn Allen, Chief Ombudsman",
+    "webpage_url": "https://vimeo.com/1135936597",
+    "original_url": "https://vimeo.com/1135936597",
+    "upload_date": "20251112",
+    "timestamp": 1762909201,
+    "release_timestamp": 1762909208,
+    "duration": 1027,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081483417-b76ba098724e547aaf54dacdb193c732062c289d4ec28bcb1e0322456bdf6de4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264577318.vtt?expires=1778563149&sig=5a5b288cd27fa5e3f64303a195b643022d620528&download=auto_generated_captions.vtt"
+  }
+}

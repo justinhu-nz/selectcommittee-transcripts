@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T03:20:25.508734+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166140871",
+  "title": "2026/03/02 - ENV (Part 1 of 2)",
+  "url": "https://vimeo.com/1166140871",
+  "published_at": "20260301",
+  "published_display": "2026-03-01",
+  "duration_seconds": 11500,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11498.16,
+    "segment_count": 4120,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_02 - ENV (Part 1 of 2) - vimeo_1166140871\\2026_03_02 - ENV (Part 1 of 2) - vimeo_1166140871.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166140871",
+    "display_id": "1166140871",
+    "title": "2026/03/02 - ENV (Part 1 of 2)",
+    "description": "Monday, 2nd March 2026 | Environment Committee\n\nPlanning Bill; Natural Environment Bill\n\nHearing of evidence:\n\nNZ Airports Association\nBillie Moore, Chief Executive\nLauren Rapley, Partner, Russell McVeagh\n\nRangitane o Manawatu Settlement Trust\n\nHorticulture New Zealand\nKate Scott, Chief Executive Officer\nEmily Levenson, Environmental Policy Advisor\n\nVegetables New Zealand\n\nSeafood New Zealand\n\nGreenpeace\nGenevieve Toop, Policy adviser Greenpeace Aotearoa\n\nPoipoia Ltd\n\nSummerset Group Holdings Limited\nAaron Smail, Chief Development Officer\n\nHawke's Bay Regional Council\nKatrina Brunton, Group Manager Policy & Regulation\nNichola Nicholson, Manager Policy & Planning",
+    "webpage_url": "https://vimeo.com/1166140871",
+    "original_url": "https://vimeo.com/1166140871",
+    "upload_date": "20260301",
+    "timestamp": 1772407049,
+    "release_timestamp": 1772407064,
+    "duration": 11500,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2128657637-477276bc6dab6e7f4ad6f2481a35fcb1d651667ec6faf9a2217a394f9b9db54d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285458395.vtt?expires=1778563229&sig=186d36b7e84d4e512861c2c6c4e678647a713ae8&download=auto_generated_captions.vtt"
+  }
+}
