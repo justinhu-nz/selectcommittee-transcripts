@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:23.490625+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1051767943",
+  "title": "2025/02/13 -Petitions",
+  "url": "https://vimeo.com/1051767943",
+  "published_at": "20250213",
+  "published_display": "2025-02-13",
+  "duration_seconds": 3027,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3026.32,
+    "segment_count": 1048,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_02_13 -Petitions - vimeo_1051767943\\2025_02_13 -Petitions - vimeo_1051767943.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1051767943",
+    "display_id": "1051767943",
+    "title": "2025/02/13 -Petitions",
+    "description": "Petition of Barbara Kuriger MP: Open up Ruffell Road in Te Kowhai; Petition of Alistair Reese: Recognise oral agreement as part of the Treaty of Waitangi; Petition of Laura Ancell: Allow children of parents born out of wedlock to apply for citizenship\n\nHearing of Evidence: \n\nPetition of Barbara Kuriger MP\n\nBarbara Kuriger MP\n\n\nPetition of Alistair Reese\n\nSir Geoffrey Palmer\n\n\nPetition of Laura Ancell\n\nLaura Ancell\n\nDepartment of Internal Affairs:\n\nJulia Taylor, Manager Operational Policy and Official Correspondence;\nRachel Prosser, Principal Advisor (Service Delivery and Operations);\nClare O\u2019Connor, Principal Solicitor; \nShiyi Redpath, Senior Policy Analyst (Regulation and Policy)",
+    "webpage_url": "https://vimeo.com/1051767943",
+    "original_url": "https://vimeo.com/1051767943",
+    "upload_date": "20250213",
+    "timestamp": 1739416722,
+    "release_timestamp": 1739416730,
+    "duration": 3027,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1991877930-04bbebccdb9eaa30a47ea9632787204f95c19f0b896f68a925aae3b446fcd925-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/213155734.vtt?expires=1778590108&sig=f0db89233056f98689f9d943633b11abff433168&download=auto_generated_captions.vtt"
+  }
+}

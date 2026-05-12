@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:56:02.589108+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135869362",
+  "title": "2025/11/12 - SSC (Part 2)",
+  "url": "https://vimeo.com/1135869362",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 3135,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3108.89,
+    "segment_count": 1174,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_12 - SSC (Part 2) - vimeo_1135869362\\2025_11_12 - SSC (Part 2) - vimeo_1135869362.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135869362",
+    "display_id": "1135869362",
+    "title": "2025/11/12 - SSC (Part 2)",
+    "description": "Wednesday, 12 November 2025 | Social Services and Community Committee\nBriefing on the Integrated Data Infrastructure\u00a0\u00a0\n  Statistics New Zealand \n\nRachael Milicich, Deputy Government Statistician and Deputy Chief Executive for Insights & Statistics\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nSimon Ross, General Manager, Data Operations and Infrastructure\u00a0\u00a0\u00a0\u00a0",
+    "webpage_url": "https://vimeo.com/1135869362",
+    "original_url": "https://vimeo.com/1135869362",
+    "upload_date": "20251112",
+    "timestamp": 1762909238,
+    "release_timestamp": 1762909247,
+    "duration": 3135,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081451059-170d1faa303c604cfe2d8ccd95b4b0c3615dc19be6dcd5af505fce36e12ae6b3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264577428.vtt?expires=1778590567&sig=07b1dc6f7695d8deb08c0607c4ee1ff3b69e1fdb&download=auto_generated_captions.vtt"
+  }
+}

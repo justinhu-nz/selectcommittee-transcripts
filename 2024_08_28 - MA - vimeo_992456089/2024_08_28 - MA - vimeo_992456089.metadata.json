@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:30.649994+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_992456089",
+  "title": "2024/08/28 - MA",
+  "url": "https://vimeo.com/992456089",
+  "published_at": "20240827",
+  "published_display": "2024-08-27",
+  "duration_seconds": 7134,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7010.89,
+    "segment_count": 1911,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_08_28 - MA - vimeo_992456089\\2024_08_28 - MA - vimeo_992456089.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "992456089",
+    "display_id": "992456089",
+    "title": "2024/08/28 - MA",
+    "description": "Wednesday 28 August 2024 | Maori Affairs Committee\n\nReview briefing on the 2022/23 annual review of Te Taura Whiri I Te Reo M\u0101ori (M\u0101ori Language Commission)\n\nHearing of evidence:\n\nSubmitter List:\n\nTe Taura Whiri I Te Reo M\u0101ori \n- Professor Rawinia Higgins, Toihau/Chairperson \n- Ngahiwi Apanui-Barr, Tumu Whakahaere/Chief Executive \n- Tuehu Harris, Haut\u016b/Deputy CE \n- Ngapera Hoerara, Haut\u016b/Deputy CE \n- Te Tumatakuru O\u2019Connell, Haut\u016b/Deputy CE \n- Matu Ihaka, Haut\u016b/Deputy CE \n- Pirimia Burger, Haut\u016b/Deputy CE \n\nBriefing on Te M\u0101t\u0101wai \n\nHearing of evidence\n\nSubmiiter list:\nTe M\u0101t\u0101wai \n- Reikura Kahi- co-chair of Te M\u0101t\u0101wai \n- Haki Tuaupiki: Board member- Te K\u0101hui \u0101 Rohe o ng\u0101 Iwi o Tainui \n- Paulette Tamati-Elliffe: Board member- Te K\u0101hui \u0101 Rohe o ng\u0101 Iwi o Tainui \n- Poia Rewi: Tumu Whakarae- Tari o Te M\u0101t\u0101wai \n- Ria Tomoana: Kaitohutohu Matua- Tari o Te M\u0101t\u0101wai \n- Basil Keane: kaitohutohu rautraki, kaupapa here - Tari o Te M\u0101t\u0101wai \n- Ursula Featherston: Strategic Advisor (policy and strategy)- Tari o Te M\u0101t\u0101wai \n- Michelle Rikihana-Vieira: kaiwhakahaere P\u0101p\u0101ho- Tari o Te M\u0101t\u0101wai",
+    "webpage_url": "https://vimeo.com/992456089",
+    "original_url": "https://vimeo.com/992456089",
+    "upload_date": "20240827",
+    "timestamp": 1724802103,
+    "release_timestamp": 1724802202,
+    "duration": 7134,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1920342990-9b7f6ffc6ed46327f61941a256069a2b668fa79d02eae55eb5bf0fc7d7817afe-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/180871652.vtt?expires=1778591315&sig=40b243c3e74b1f3af7cca3f8f26fc16973a82963&download=auto_generated_captions.vtt"
+  }
+}

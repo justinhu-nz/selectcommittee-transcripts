@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:01.916536+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1134091347",
+  "title": "2025 11 13 Petitions",
+  "url": "https://vimeo.com/1134091347",
+  "published_at": "20251113",
+  "published_display": "2025-11-13",
+  "duration_seconds": 553,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 551.85,
+    "segment_count": 160,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 13 Petitions - vimeo_1134091347\\2025 11 13 Petitions - vimeo_1134091347.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1134091347",
+    "display_id": "1134091347",
+    "title": "2025 11 13 Petitions",
+    "description": "Petition of Melinda McGregor: Councils need clear guidelines of required actions following a dog attack\n\nTaituar\u0101 | Local Government Professionals NZ\n\nRaymond Horan, Chief Advisor\nPhilip Shackleton, Principal Advisor\nBilly Charlton, Environmental Services Manager, Waimakariri District Council\nLionel Bridger, Manager Animal Services,\u00a0Christchurch City Council",
+    "webpage_url": "https://vimeo.com/1134091347",
+    "original_url": "https://vimeo.com/1134091347",
+    "upload_date": "20251113",
+    "timestamp": 1763001021,
+    "release_timestamp": 1763001029,
+    "duration": 553,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2082497172-59c41f4647b6cbf71743d14a2dd06aa6a635b2fec511081889a9b6b588b8f0d3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264829238.vtt?expires=1778589967&sig=83df7ba77f899b0653b70a84cd1a3b78bf56ef33&download=auto_generated_captions.vtt"
+  }
+}

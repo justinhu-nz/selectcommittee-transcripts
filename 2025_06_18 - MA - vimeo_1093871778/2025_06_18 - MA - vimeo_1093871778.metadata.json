@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:06:46.758760+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1093871778",
+  "title": "2025/06/18 - MA",
+  "url": "https://vimeo.com/1093871778",
+  "published_at": "20250618",
+  "published_display": "2025-06-18",
+  "duration_seconds": 16884,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 16882.01,
+    "segment_count": 4909,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_18 - MA - vimeo_1093871778\\2025_06_18 - MA - vimeo_1093871778.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1093871778",
+    "display_id": "1093871778",
+    "title": "2025/06/18 - MA",
+    "description": "18 July 2025 | M\u0101ori Affairs Committee\n2025/26 Estimates for Vote M\u0101ori Development\nMinister for M\u0101ori Development and Minister for Wh\u0101nau Ora Hon Tama Potaka\nTe Puni K\u014dkiri\n\nDave Samuels, Secretary for M\u0101ori Development\nTerina Cowan, Deputy Secretary, Strategy\nGrace Smit, Deputy Secretary, Regions\nPaula Rawiri, Deputy Secretary, Policy\nManaia King, Deputy Secretary, Corporate\nSteven Sutton, Deputy Secretary, Governance\nKiriama Stevens, General Manager, Data, Insights and Monitoring\nKaren McGuinness, Investment Director\nBernard Te Paa, General Manager \u2013 Wellbeing\nSteve Kerr, Policy Manager/Kai\u0101rahi Kaupapa Here\nJo Tuapawa\nNadia Ward\nAdie Gray\nMark Hickford\nJaclyn Williams\nMarian Smith\nLiz Direen",
+    "webpage_url": "https://vimeo.com/1093871778",
+    "original_url": "https://vimeo.com/1093871778",
+    "upload_date": "20250618",
+    "timestamp": 1750213117,
+    "release_timestamp": 1750213131,
+    "duration": 16884,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2028156454-c6550b04f212e4ad98b40cb0c857f66748244d6b94d591ecd95c19e7b7526652-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237547557.vtt?expires=1778591211&sig=48ac1be5060a602ff191c52aadb26a82bc95df86&download=auto_generated_captions.vtt"
+  }
+}

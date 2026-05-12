@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:29.176911+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117662204",
+  "title": "2025 10 09 Petitions",
+  "url": "https://vimeo.com/1117662204",
+  "published_at": "20251009",
+  "published_display": "2025-10-09",
+  "duration_seconds": 2034,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2033.62,
+    "segment_count": 725,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 09 Petitions - vimeo_1117662204\\2025 10 09 Petitions - vimeo_1117662204.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117662204",
+    "display_id": "1117662204",
+    "title": "2025 10 09 Petitions",
+    "description": "Petition of Chained Dog Awareness NZ Trust: Mandate the Desexing of Dogs in NZ Except to Registered Breeders\n\nDepartment of Internal Affairs\n\nKate Barnes, Senior Policy Analyst\nKaram Talwar (Policy Analyst)\n\nAuckland Council\n\nRobert Irvine, General Manager, Licensing & Compliance\nElly Waitoa, Manager, Animal Management\n\n\nPetition of Joshua Riley on behalf of Sovereign.nz: Allow scrutineers to watch early ballot processing in local government elections\n\nDepartment of Internal Affairs\n\nAmanda Shaw, Principal Policy Analyst\nRowan Burns, Policy Manager",
+    "webpage_url": "https://vimeo.com/1117662204",
+    "original_url": "https://vimeo.com/1117662204",
+    "upload_date": "20251009",
+    "timestamp": 1759978817,
+    "release_timestamp": 1759978830,
+    "duration": 2034,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2068342119-cdde978ea1490a0e00ffa41088118d886d6e642e870cccadb10cec2df831325d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/258135740.vtt?expires=1778589994&sig=8be4fc8c07f6a19092f183d2da427f4cb9db4559&download=auto_generated_captions.vtt"
+  }
+}

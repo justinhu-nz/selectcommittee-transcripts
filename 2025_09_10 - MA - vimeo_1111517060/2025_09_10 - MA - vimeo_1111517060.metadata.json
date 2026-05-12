@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:05:55.989093+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111517060",
+  "title": "2025/09/10 - MA",
+  "url": "https://vimeo.com/1111517060",
+  "published_at": "20250909",
+  "published_display": "2025-09-09",
+  "duration_seconds": 2499,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2490.32,
+    "segment_count": 921,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - MA - vimeo_1111517060\\2025_09_10 - MA - vimeo_1111517060.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111517060",
+    "display_id": "1111517060",
+    "title": "2025/09/10 - MA",
+    "description": "Wednesday 10 September 2025 | M\u0101ori Affairs Committee \n\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\u00a0\u00a0 \n\nHearing of evidence\nSubmitter list:\nDepartment of Conservation\u00a0\n- Sheridan Smith, Deputy Director-General Treaty Relationships\u00a0\n- Peter Galvin, Acting Deputy Director-General Policy\u00a0\n- Huia Forbes, Kaihautu Treaty Relationships Advice and Oversight and Acting Director Treaty Negotiations and Land\u00a0\n- Jos Fryer, Principal Treaty Relationships Advisor\u00a0",
+    "webpage_url": "https://vimeo.com/1111517060",
+    "original_url": "https://vimeo.com/1111517060",
+    "upload_date": "20250909",
+    "timestamp": 1757455590,
+    "release_timestamp": 1757455598,
+    "duration": 2499,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057182616-01fec9cdc61f9ac9fbe9c74bba04b4a76446f14ffe19f1e7155fb3a2902c79c3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252520342.vtt?expires=1778591161&sig=6358224ce149c88735d5987ceb923ee8eaf409ec&download=auto_generated_captions.vtt"
+  }
+}

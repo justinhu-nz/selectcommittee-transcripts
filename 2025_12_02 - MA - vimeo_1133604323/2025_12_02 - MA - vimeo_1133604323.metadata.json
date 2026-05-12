@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:05:12.566029+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133604323",
+  "title": "2025/12/02 - MA",
+  "url": "https://vimeo.com/1133604323",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 11070,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11061.97,
+    "segment_count": 3377,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - MA - vimeo_1133604323\\2025_12_02 - MA - vimeo_1133604323.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133604323",
+    "display_id": "1133604323",
+    "title": "2025/12/02 - MA",
+    "description": "Tuesday 2 December 2025 | M\u0101ori Affairs Committee\n\n2024/25 Annual review of Te Puni K\u014dkiri\u2014Ministry of M\u0101ori Development\n\nHearing of evidence\nSubmitter List:\n\nTe Puni K\u014dkiri\n\nDave Samuels, Secretary for M\u0101ori Development\nTerina Cowan, Deputy Secretary, Strategy\nGrace Smit, Deputy Secretary, Regions\nPaula Rawiri, Deputy Secretary, Policy\nSteven Sutton, Deputy Secretary, Governance\nManaia King, Deputy Secretary, Corporate\nJoanne Tuapawa, General Manager, Strategy & Performance\nAdie Gray, General manager, Data, Insights & Monitoring\nGemma Greentree, Chief Advisor\nNadia Ward, General Manager, Policy Development\nBernard Te Paa, General Manager, Wellbeing\nKaren McGuinness, General Manager, Investments\nPaul Marshall, General manager, Iwi and M\u0101ori Relation\nKatrina Taupo, Regional Director, Te Tai Tokerau\nMartin Mariassouce, Regional Director, T\u0101maki Makaurau\nKelsey Jones, Regional Director, Waikato-Waiariki\nGeorge Mackey, Regional Director, Ikaroa-R\u0101whiti\nJoni Takitimu, Regional Director, Te Tai Hau\u0101uru\nDavid Ormsby, Regional Director, Te Waipounamu\nTimoti Gallagher, General Manager, Regional Support & Alignment\nKiriama Stevens, General Manager, Finance, Property & Procurement\nAnaru Matthews, General Manager, People Capability & Culture\nMelissa Ross, Chief Advisor\nJane Fletcher, General manager, Post Settlement\nMark Hickford, General Manager and Special Counsel, M\u0101ori Crown Relations\nMarian Smith, Director, Whakamana\nJaclyn Williams, Manager, Statutory Entities & Appointments",
+    "webpage_url": "https://vimeo.com/1133604323",
+    "original_url": "https://vimeo.com/1133604323",
+    "upload_date": "20251201",
+    "timestamp": 1764630719,
+    "release_timestamp": 1764630727,
+    "duration": 11070,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089945593-0079ab74bc94d726017c91fba9efea717924e9d9e62b5853c138efb27d78a7e2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268811878.vtt?expires=1778591117&sig=94b1ad572c50686f6655ec259469a255d23a2872&download=auto_generated_captions.vtt"
+  }
+}

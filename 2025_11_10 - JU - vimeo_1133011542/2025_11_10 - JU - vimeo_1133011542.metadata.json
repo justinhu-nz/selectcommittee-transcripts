@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:22.877171+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133011542",
+  "title": "2025/11/10 - JU",
+  "url": "https://vimeo.com/1133011542",
+  "published_at": "20251109",
+  "published_display": "2025-11-09",
+  "duration_seconds": 776,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 771.24,
+    "segment_count": 290,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_10 - JU - vimeo_1133011542\\2025_11_10 - JU - vimeo_1133011542.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133011542",
+    "display_id": "1133011542",
+    "title": "2025/11/10 - JU",
+    "description": "Monday 10 November 2025 | Justice Committee\n\nSummary Offences (Demonstrations Near Residential Premises) Amendment Bill\n\nSubmitters\n\nThe Law Association of New Zealand\n- Samira Taghavi, Convenor of the Public and Administrative Law Committee of TLANZ\n\nLo Aleen",
+    "webpage_url": "https://vimeo.com/1133011542",
+    "original_url": "https://vimeo.com/1133011542",
+    "upload_date": "20251109",
+    "timestamp": 1762718878,
+    "release_timestamp": 1762718886,
+    "duration": 776,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2080342974-22478beb5354b59357a9c7ba727dae31555a454aa6cedee3651cf99e0af3a938-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264069926.vtt?expires=1778591427&sig=37a9c97fb90297134bbf41ff270aa89349c7800d&download=auto_generated_captions.vtt"
+  }
+}

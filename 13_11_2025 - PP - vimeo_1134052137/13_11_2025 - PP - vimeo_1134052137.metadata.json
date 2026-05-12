@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:46.832138+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1134052137",
+  "title": "13/11/2025 - PP",
+  "url": "https://vimeo.com/1134052137",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 3725,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3724.97,
+    "segment_count": 1411,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\13_11_2025 - PP - vimeo_1134052137\\13_11_2025 - PP - vimeo_1134052137.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1134052137",
+    "display_id": "1134052137",
+    "title": "13/11/2025 - PP",
+    "description": "Briefing on Government support for research and development in the primary industries\nHearing of evidence \nBloomz New Zealand\n\nAndy Warren, Managing Director\nLouisa van Den Berg, Client Manager\nChris Claridge,\n\nYummy Fruit\n\nPaul Paynter, General Manager\n\n\nBriefing on the yellow-legged hornet incursion \nHearing of evidence\nMinistry for Primary industries\n\nMike Inglis, Commissioner North \nAndrew Spelman, Commissioner Biosecurity, Intel & Response",
+    "webpage_url": "https://vimeo.com/1134052137",
+    "original_url": "https://vimeo.com/1134052137",
+    "upload_date": "20251112",
+    "timestamp": 1762983212,
+    "release_timestamp": 1762983222,
+    "duration": 3725,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085139304-61f372c9fa758be67520ea65b42ffd95283e14fe2f55f2004e8ee7a2394baef3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264784944.vtt?expires=1778590791&sig=0cff5de78d9520199acbb720406868be860d22f5&download=auto_generated_captions.vtt"
+  }
+}

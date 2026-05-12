@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:18.812064+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1101685616",
+  "title": "2025/07/16 - SSC (Part 2)",
+  "url": "https://vimeo.com/1101685616",
+  "published_at": "20250715",
+  "published_display": "2025-07-15",
+  "duration_seconds": 5469,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5462.26,
+    "segment_count": 1870,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_16 - SSC (Part 2) - vimeo_1101685616\\2025_07_16 - SSC (Part 2) - vimeo_1101685616.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1101685616",
+    "display_id": "1101685616",
+    "title": "2025/07/16 - SSC (Part 2)",
+    "description": "Wednesday, 16 July 2025 | Social Services and Community Committee\n\nReport of the Controller and Auditor-General, Oranga Tamariki: Inquiry into procurement and contract management\n\nHearing of evidence\n\nOranga Tamariki\n- Andrew Bridgman, Chief Executive (Acting)\n- Benesia Smith MNZM, Deputy Chief Executive (Commissioning and Investment)\n- Jesse Roth, General Manager (Commissioning and Investment)",
+    "webpage_url": "https://vimeo.com/1101685616",
+    "original_url": "https://vimeo.com/1101685616",
+    "upload_date": "20250715",
+    "timestamp": 1752622044,
+    "release_timestamp": 1752622053,
+    "duration": 5469,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2037723158-087df8c8d7700a5e3cc0233726126b0d81680c11fa13ebf3b40f89d07e20fa96-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242806304.vtt?expires=1778590643&sig=35dde4f433d086429067ec4306a27fdf8181a1ee&download=auto_generated_captions.vtt"
+  }
+}

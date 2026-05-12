@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:47:09.426539+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1090725574",
+  "title": "2025 07 17 Petitions",
+  "url": "https://vimeo.com/1090725574",
+  "published_at": "20250717",
+  "published_display": "2025-07-17",
+  "duration_seconds": 1860,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1853.92,
+    "segment_count": 642,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 17 Petitions - vimeo_1090725574\\2025 07 17 Petitions - vimeo_1090725574.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1090725574",
+    "display_id": "1090725574",
+    "title": "2025 07 17 Petitions",
+    "description": "Petitions of Juliana Carvalho & Peter Knighton\n\nJuliana Carvalho, Dr Claire Flemmer, Neil Jarvis\n\nWhaikaha\n\nJasmine Lindsay (Acting Director, Outreach and Innovation)\nHelen Walter (Group Manager, Policy and Insights)",
+    "webpage_url": "https://vimeo.com/1090725574",
+    "original_url": "https://vimeo.com/1090725574",
+    "upload_date": "20250717",
+    "timestamp": 1752724124,
+    "release_timestamp": 1752724133,
+    "duration": 1860,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2038115697-00bc0f642afc745bad8595652bc6ea8b34840af4eba27f3e4d96d2ec668f046d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242644174.vtt?expires=1778590034&sig=71539a859c42201fb8d4ef18267bba0c15be5ac6&download=auto_generated_captions.vtt"
+  }
+}

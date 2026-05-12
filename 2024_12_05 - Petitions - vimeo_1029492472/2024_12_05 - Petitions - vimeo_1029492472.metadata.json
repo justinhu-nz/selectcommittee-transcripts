@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:44.466203+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1029492472",
+  "title": "2024/12/05 - Petitions",
+  "url": "https://vimeo.com/1029492472",
+  "published_at": "20241204",
+  "published_display": "2024-12-04",
+  "duration_seconds": 536,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 535.32,
+    "segment_count": 188,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_05 - Petitions - vimeo_1029492472\\2024_12_05 - Petitions - vimeo_1029492472.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1029492472",
+    "display_id": "1029492472",
+    "title": "2024/12/05 - Petitions",
+    "description": "5 December 2024 | Petitions Committee\n\nPetition of Erin Tiplady on behalf of Northcote Intermediate School Room 3: Survey the RMS Niagara to find out exactly how much oil is still on board\n\nRoom 3, Northcote Intermediate\n- Erin Tiplady, Teacher",
+    "webpage_url": "https://vimeo.com/1029492472",
+    "original_url": "https://vimeo.com/1029492472",
+    "upload_date": "20241204",
+    "timestamp": 1733347054,
+    "release_timestamp": 1733347071,
+    "duration": 536,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1960442717-619d80cd740acb02503df2869df55edd687569249c83e20fed4a01d641e9e62d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200567062.vtt?expires=1778590129&sig=ddcac90035f119b2e80c08debc6b9b50b5e5e29d&download=auto_generated_captions.vtt"
+  }
+}

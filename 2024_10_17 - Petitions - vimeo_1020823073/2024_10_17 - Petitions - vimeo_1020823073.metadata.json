@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:16.049291+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1020823073",
+  "title": "2024/10/17 - Petitions",
+  "url": "https://vimeo.com/1020823073",
+  "published_at": "20241018",
+  "published_display": "2024-10-18",
+  "duration_seconds": 6343,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6334.69,
+    "segment_count": 2189,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_10_17 - Petitions - vimeo_1020823073\\2024_10_17 - Petitions - vimeo_1020823073.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1020823073",
+    "display_id": "1020823073",
+    "title": "2024/10/17 - Petitions",
+    "description": "17 October 2024 | Petitions Committee\n\nPetition of Rhodes Farming Partnership: Undertake a parliamentary inquiry into virtual fencing; Petition of Entrust: Stop over taxation of Entrust dividend; Petition of Deb Hayes: Investigate Midwifery Council\u2019s removal of \u2018woman & baby\u2019 from Scope of Practice\n\nSubmitters\n\nPetition of Rhodes Farming Partnership: Undertake a parliamentary inquiry into virtual fencing\n\nRhodes Farming Partnership:\n- Tim Rhodes\n\nHalter:\n- Charlie Baker, Head of Growth\n- Steve Crowhurst, Partnerships Manager\n\nMinistry for Primary Industries:\n- Glen Burrell, Acting DDG Agriculture & Investment Services\n- Carolyn Guy, Director Animal Health & Welfare\n- John Roche, Chief Departmental Science Adviser\n\nNew Zealand Veterinary Association:\n- Kevin Bryant, CEO, NZVA\n- Kyle Kannan, Dairy Vets Special Interest Branch\n\nSociety for Prevention of Cruelty to Animals\n- Dr Alison Vaughan, Scientific Officer, National Support Office\n\nPetition of Entrust: Stop over taxation of Entrust dividend\n\nEntrust:\n- Denise Lee, Chair, Entrust\n- Robin Oliver, Taxation Advisor\n\nInland Revenue Department:\n- Paul Fulton, Principal Policy Advisor\n- Bary Hollow, Principal Policy Advisor\n\nPetition of Deb Hayes: Investigate Midwifery Council\u2019s removal of \u2018woman & baby\u2019 from Scope of Practice\n\nMidwifery Council:\nLesley Clarke, CEO, Midwifery Council\nKiley Clark, Co-chair, Tangata Whenua\nSue Kedgley, Co-chair, Tangata Tiriti\nJessica Schreiber, Registrar",
+    "webpage_url": "https://vimeo.com/1020823073",
+    "original_url": "https://vimeo.com/1020823073",
+    "upload_date": "20241018",
+    "timestamp": 1729220680,
+    "release_timestamp": 1729220680,
+    "duration": 6343,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1939467072-d7a20f75ad1d7bbaf6000186a2b719708e363f47416ce133114db2b6ac774901-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/190876600.vtt?expires=1778590160&sig=b8e996a603784b2471eece18a353389d2d94a023&download=auto_generated_captions.vtt"
+  }
+}

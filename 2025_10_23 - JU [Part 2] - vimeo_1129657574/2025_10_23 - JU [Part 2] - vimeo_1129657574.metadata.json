@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:46.588896+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129657574",
+  "title": "2025/10/23 - JU [Part 2]",
+  "url": "https://vimeo.com/1129657574",
+  "published_at": "20251023",
+  "published_display": "2025-10-23",
+  "duration_seconds": 3042,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3037.28,
+    "segment_count": 766,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_23 - JU [Part 2] - vimeo_1129657574\\2025_10_23 - JU [Part 2] - vimeo_1129657574.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129657574",
+    "display_id": "1129657574",
+    "title": "2025/10/23 - JU [Part 2]",
+    "description": "Thursday 23 October 2025 | Justice Committee\n\nSummary Offences (Demonstrations Near Residential Premises) Amendment Bill\n\nSubmitters\n\nDr Alvina Edwards\n\nTeirangi Klever\n\nPalestine Solidarity Network Aotearoa\n- John Minto, Co-Chair\n\nPeople Against Prisons Aotearoa\n- Toma Pearce, Parliamentary Advocacy Co-ordinator",
+    "webpage_url": "https://vimeo.com/1129657574",
+    "original_url": "https://vimeo.com/1129657574",
+    "upload_date": "20251023",
+    "timestamp": 1761179987,
+    "release_timestamp": 1761179992,
+    "duration": 3042,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2080925126-842e079cf2cc38acac075cd543a7e0152e2fafe74ff385411444cb7fdb7cd867-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260691069.vtt?expires=1778591451&sig=dbb5c89ff6b40b91356bba110c69180d1597efc4&download=auto_generated_captions.vtt"
+  }
+}

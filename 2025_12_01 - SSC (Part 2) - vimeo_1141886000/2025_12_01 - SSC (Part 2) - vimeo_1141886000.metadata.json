@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:46.312381+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141886000",
+  "title": "2025/12/01 - SSC (Part 2)",
+  "url": "https://vimeo.com/1141886000",
+  "published_at": "20251130",
+  "published_display": "2025-11-30",
+  "duration_seconds": 4421,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4416.6,
+    "segment_count": 1291,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - SSC (Part 2) - vimeo_1141886000\\2025_12_01 - SSC (Part 2) - vimeo_1141886000.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141886000",
+    "display_id": "1141886000",
+    "title": "2025/12/01 - SSC (Part 2)",
+    "description": "Monday 1 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the Ministry of Disabled People\n\nThis video includes live interpreting. The goal is to provide clear and accurate information, but some details may be missed or contain errors. It is shared to give you access to the information, but please double-check any details before relying on them.\n\nHearing of evidence:\n\nMinistry for Disabled People \u2013 Whaikaha\n\nPaula Tesoriero, Chief Executive\nGinny Baddeley, Deputy Chief Executive Strategy and Enablement\nBen O\u2019Meara, Deputy Chief Executive Policy and Insights\nRebecca Elvy, Deputy Chief Executive Outreach and Innovation\nRonelle Baker, Kaihaut\u016b \u2013 Chief Advisor M\u0101ori",
+    "webpage_url": "https://vimeo.com/1141886000",
+    "original_url": "https://vimeo.com/1141886000",
+    "upload_date": "20251130",
+    "timestamp": 1764545692,
+    "release_timestamp": 1764545699,
+    "duration": 4421,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089468904-33547390b1e45d50dfc000bb05878542ed577bfffbcb41fc94d56ff6ddfbdc2e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268576562.vtt?expires=1778590551&sig=51b6c6de81d19e63e1600bbe41820b1478f4d558&download=auto_generated_captions.vtt"
+  }
+}

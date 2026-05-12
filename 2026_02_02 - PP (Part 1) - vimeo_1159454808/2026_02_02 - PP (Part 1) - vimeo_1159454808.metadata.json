@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:58:03.772658+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159454808",
+  "title": "2026/02/02 - PP (Part 1)",
+  "url": "https://vimeo.com/1159454808",
+  "published_at": "20260201",
+  "published_display": "2026-02-01",
+  "duration_seconds": 23604,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 23603.94,
+    "segment_count": 8327,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_02 - PP (Part 1) - vimeo_1159454808\\2026_02_02 - PP (Part 1) - vimeo_1159454808.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159454808",
+    "display_id": "1159454808",
+    "title": "2026/02/02 - PP (Part 1)",
+    "description": "Monday, 2 February 2026 | Primary Production \nRacing Industry (Closure of Greyhound Racing Industry) Amendment Bill \nHearing of Evidence: \nHUHA \u2013 Helping You Help Animals Trust\n\nCarolyn Press-McKenzie, CEO/Founder\n\nNew Zealand Companion Animal Blood Bank LTD\n\nPaul Mitchell, Director/Owner\n\nThe Balanced Dog Ltd\n\nKathleen Crisley\n\nJennifer Farge\nMaureen Hindson\nJonathan McInerney\nFatima Avdich\nSouthland Greyhound Racing Club Incorporated; and Otago Greyhound Racing Club Incorporated\n\nBronwyn Eade\n\nTony Music\nLeaha Washington\nCraig Roberts\nGreyhounds Australasia\n\n Simon Stout\n\nRacing Integrity Board  \u00a0\n\nMartin Burns\n\nSharon Hindson\nHoward Anderton\nSean Codlin \nNightrave Greyhounds\n\nRachel Rae\n\nChristchurch Greyhound Racing Club\n \t\tSarah Clausen\nKatharine Birks\nWayne Steele\nMay Hounds\n\t\t Michelle Stebbing, CEO\nSean Hannan\u00a0\nRoyal New Zealand Society for the Prevention of Cruelty to Animals\n\t\t Dr Arnja Dale, Chief Scientific Officer\n\t\t Dr Alison Vaughan, Senior Scientific Officer\nDonald Arthur\nMark Dyhrberg\nChristine Bradshaw / Mark Bradshaw\nAshley Bradshaw\nMay Cutler\nCalum Weir\nEmma Reedy\nWanganui Greyhound Racing Club\n \t\tJohn McArthur\nSarah Clarke-Royfee\nSAFE (Save Animals from Exploitation)\n \t\tEmma Brodie, Campaign Manager\nAnn Jopson\nGraham Dyhrberg\nAnimal Justice Party Aotearoa New Zealand\n \t\tKaren Singleton, Policy President\nEmily Robertson\nJennifer Stone\nIan Collins\nLynette Butler\nStacey McCarthy\nKevin Wicks\nKelly Bold\nMarc Jacquemin\nKieran Griffiths\nDavid Kingston",
+    "webpage_url": "https://vimeo.com/1159454808",
+    "original_url": "https://vimeo.com/1159454808",
+    "upload_date": "20260201",
+    "timestamp": 1769987205,
+    "release_timestamp": 1769987218,
+    "duration": 23604,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2116033742-2d2b7c127acb76a52238f2c1022ca1770932fea9bc0da242a02f13a741681f87-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/280848511.vtt?expires=1778590688&sig=09b629c633bb7f58ff7ca84f7ee31091492a3705&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:05:19.689139+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129338471",
+  "title": "2025/11/05 - MA",
+  "url": "https://vimeo.com/1129338471",
+  "published_at": "20251104",
+  "published_display": "2025-11-04",
+  "duration_seconds": 1805,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1799.53,
+    "segment_count": 673,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_05 - MA - vimeo_1129338471\\2025_11_05 - MA - vimeo_1129338471.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129338471",
+    "display_id": "1129338471",
+    "title": "2025/11/05 - MA",
+    "description": "Wednesday 05 November 2025 | M\u0101ori Affairs Committee \n\nBriefing on accountability settings and outcomes for M\u0101ori\n\nHearing of evidence \nSubmitter List:\nStats NZ Tatauranga Aotearoa\n\nSimon Ross, General Manager \u2013 Data Operations and Infrastructure\nAnna McDowell, General Manager \u2013 Strategic Engagement, M\u0101ori Partnerships and Outcomes\nSean Broughton, General Manager \u2013 Statistical Delivery, Population and Housing",
+    "webpage_url": "https://vimeo.com/1129338471",
+    "original_url": "https://vimeo.com/1129338471",
+    "upload_date": "20251104",
+    "timestamp": 1762286376,
+    "release_timestamp": 1762286382,
+    "duration": 1805,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078271145-1a7aa5e795b1e8be9e122a5678e671cee284f6b267e6822035f1d2d707d4e465-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263078742.vtt?expires=1778591124&sig=a595f85e3fa32066335c9d0d57b861d189830c77&download=auto_generated_captions.vtt"
+  }
+}

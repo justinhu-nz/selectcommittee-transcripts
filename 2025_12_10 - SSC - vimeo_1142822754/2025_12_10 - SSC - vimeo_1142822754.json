@@ -1,0 +1,3148 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1787.59,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 3.3,
+      "text": "... who does, who gains or loses and by how much?"
+    },
+    {
+      "start": 3.4,
+      "end": 7.1,
+      "text": "If Working for Families abatement settings change, what does that mean for families"
+    },
+    {
+      "start": 7.12,
+      "end": 11.0,
+      "text": "with children? What's the likely fiscal cost to the crown?"
+    },
+    {
+      "start": 11.01,
+      "end": 13.78,
+      "text": "And what does that mean for income-based child poverty mea-"
+    },
+    {
+      "start": 13.82,
+      "end": 17.63,
+      "text": "measures? So TAWA applies tax and welfare ru-"
+    },
+    {
+      "start": 17.66,
+      "end": 21.58,
+      "text": "rules to real-world household data that is pro- projected into the near"
+    },
+    {
+      "start": 21.7,
+      "end": 22.08,
+      "text": "future"
+    },
+    {
+      "start": 22.88,
+      "end": 25.96,
+      "text": "to show the direct financial impacts of policy and economic"
+    },
+    {
+      "start": 26.04,
+      "end": 29.92,
+      "text": "conditions. Uh, very briefly, TAWA's input data"
+    },
+    {
+      "start": 30.0,
+      "end": 33.82,
+      "text": "is based on Stats New Zealand's Household Economic Survey, but we"
+    },
+    {
+      "start": 33.86,
+      "end": 37.32,
+      "text": "combine that with additional administrative data inside the Integrated Data"
+    },
+    {
+      "start": 37.38,
+      "end": 41.22,
+      "text": "Infrastructure, or IDI, which I believe you, you may be aware of."
+    },
+    {
+      "start": 42.1,
+      "end": 45.88,
+      "text": "Uh, that data set gives, uh, detailed information then on household"
+    },
+    {
+      "start": 45.94,
+      "end": 49.5,
+      "text": "income, family structure, housing cost, and employment at a very"
+    },
+    {
+      "start": 49.57,
+      "end": 53.36,
+      "text": "detailed household level. Uh, we then operate that data"
+    },
+    {
+      "start": 53.5,
+      "end": 57.07,
+      "text": "based on, um, a range of forecasts that"
+    },
+    {
+      "start": 57.08,
+      "end": 59.12,
+      "text": "reflect likely future conditions."
+    },
+    {
+      "start": 59.14,
+      "end": 63.06,
+      "text": "So we're considering wage growth, benefit indexation, housing cost"
+    },
+    {
+      "start": 63.14,
+      "end": 65.84,
+      "text": "changes, and population changes."
+    },
+    {
+      "start": 65.86,
+      "end": 69.05,
+      "text": "And this then allows us to estimate how household incomes, child poverty"
+    },
+    {
+      "start": 69.12,
+      "end": 73.08,
+      "text": "measures, and fiscal costs will, may evolve under"
+    },
+    {
+      "start": 73.2,
+      "end": 76.84,
+      "text": "current policy or under proposed policy or hypothetical"
+    },
+    {
+      "start": 76.94,
+      "end": 80.58,
+      "text": "policy changes. So with respect to child"
+    },
+    {
+      "start": 80.62,
+      "end": 84.06,
+      "text": "poverty, uh, eh, TAWA plays a central role in"
+    },
+    {
+      "start": 84.12,
+      "end": 86.2,
+      "text": "income-based child poverty analysis."
+    },
+    {
+      "start": 86.22,
+      "end": 90.02,
+      "text": "It's used to support budget advice, assess whether proposed policy"
+    },
+    {
+      "start": 90.08,
+      "end": 93.0,
+      "text": "changes are likely to move the legislated income poverty"
+    },
+    {
+      "start": 93.08,
+      "end": 96.63,
+      "text": "measures, show which groups of children are most affected by different"
+    },
+    {
+      "start": 96.7,
+      "end": 100.47,
+      "text": "policies, and produce those forward projections of income poverty"
+    },
+    {
+      "start": 100.52,
+      "end": 104.22,
+      "text": "levels for the child poverty report, which is required under the Child Poverty"
+    },
+    {
+      "start": 104.28,
+      "end": 105.12,
+      "text": "Reduction Act."
+    },
+    {
+      "start": 105.94,
+      "end": 109.58,
+      "text": "Um, it's important to be clear that TAWA focuses on income poverty."
+    },
+    {
+      "start": 109.65,
+      "end": 113.37,
+      "text": "It can't directly measure material hardship because that depends on much"
+    },
+    {
+      "start": 113.4,
+      "end": 116.92,
+      "text": "broader non-income factors like access to essentials and"
+    },
+    {
+      "start": 116.96,
+      "end": 120.48,
+      "text": "services. Um, I can refer to Budget"
+    },
+    {
+      "start": 120.64,
+      "end": 124.36,
+      "text": "25 for some examples of, of how TAWA modeling is used to support"
+    },
+    {
+      "start": 124.74,
+      "end": 128.6,
+      "text": "advice. So for example, TAWA was used to model options for"
+    },
+    {
+      "start": 128.68,
+      "end": 132.51,
+      "text": "combined changes to Best Start working for families in accommodation"
+    },
+    {
+      "start": 132.58,
+      "end": 136.19,
+      "text": "supplement. And that provided analysis that indicated the number of"
+    },
+    {
+      "start": 136.22,
+      "end": 140.0,
+      "text": "families that would gain or lose from a potential package, the average gain or"
+    },
+    {
+      "start": 140.06,
+      "end": 143.54,
+      "text": "loss, and the income level of those who would gain or lose."
+    },
+    {
+      "start": 143.62,
+      "end": 147.29,
+      "text": "Um, and TAWA also was used to indicate the expected change to income"
+    },
+    {
+      "start": 147.38,
+      "end": 151.34,
+      "text": "poverty for that package, and then that, or the, uh, hypothetical"
+    },
+    {
+      "start": 151.48,
+      "end": 155.41,
+      "text": "packages. And then, uh, these results are used by ministers, uh,"
+    },
+    {
+      "start": 155.48,
+      "end": 159.44,
+      "text": "during the budget process then to compare options, consider trade-offs,"
+    },
+    {
+      "start": 159.48,
+      "end": 163.3,
+      "text": "and make decisions. Um, and then as, as required by legislation,"
+    },
+    {
+      "start": 163.34,
+      "end": 167.22,
+      "text": "TAWA also produced the, uh, income poverty projections for the"
+    },
+    {
+      "start": 167.24,
+      "end": 169.33,
+      "text": "child poverty report in Budget 25."
+    },
+    {
+      "start": 170.04,
+      "end": 172.3,
+      "text": "So that's with respect to child poverty."
+    },
+    {
+      "start": 172.38,
+      "end": 175.95,
+      "text": "Uh, but as I said, TAWA is used more generally, and this modeling"
+    },
+    {
+      "start": 176.0,
+      "end": 178.54,
+      "text": "approach actually has a really long history at Treasury."
+    },
+    {
+      "start": 179.06,
+      "end": 182.1,
+      "text": "Uh, it's existed in different forms for over 30 years."
+    },
+    {
+      "start": 182.16,
+      "end": 185.62,
+      "text": "I can't actually find out how long, but it's a very long time."
+    },
+    {
+      "start": 185.64,
+      "end": 189.52,
+      "text": "(laughs) And, and has been steadily improved as data quality, technology,"
+    },
+    {
+      "start": 189.53,
+      "end": 193.38,
+      "text": "and policy needs have evolved. Um, it's a core piece of Treasury's"
+    },
+    {
+      "start": 193.46,
+      "end": 197.04,
+      "text": "modeling infrastructure and has been consistently invested in by"
+    },
+    {
+      "start": 197.08,
+      "end": 199.7,
+      "text": "Treasury, uh, as part of its stewardship goals."
+    },
+    {
+      "start": 199.74,
+      "end": 203.5,
+      "text": "So this means that Treasury supports the priorities of the government of the day,"
+    },
+    {
+      "start": 203.54,
+      "end": 207.24,
+      "text": "but also underpins the longer-term analysis that Treasury and other agencies"
+    },
+    {
+      "start": 207.34,
+      "end": 211.26,
+      "text": "rely on. Uh, other uses of TAWA include,"
+    },
+    {
+      "start": 211.3,
+      "end": 215.14,
+      "text": "just for example, Treasury's recent stewardship document, the Long-Term Fiscal"
+    },
+    {
+      "start": 215.24,
+      "end": 218.78,
+      "text": "Statement. Although that's primaril- primarily informed by"
+    },
+    {
+      "start": 218.8,
+      "end": 222.59,
+      "text": "Treasury's long-term macro fiscal models, um, it was sup-"
+    },
+    {
+      "start": 222.7,
+      "end": 226.62,
+      "text": "also supported by TAWA's distributional modeling of retirement income"
+    },
+    {
+      "start": 226.7,
+      "end": 230.56,
+      "text": "policy. Um, and related to that, we, we also use"
+    },
+    {
+      "start": 230.64,
+      "end": 234.3,
+      "text": "TAWA to, um, write a policy quarterly"
+    },
+    {
+      "start": 234.36,
+      "end": 237.8,
+      "text": "article, which be- has been published externally, uh, demonstrating"
+    },
+    {
+      "start": 237.84,
+      "end": 241.74,
+      "text": "how, oh, sorry, uh, on retirement income, so really detailed"
+    },
+    {
+      "start": 241.94,
+      "end": 245.16,
+      "text": "information on retirement income policy."
+    },
+    {
+      "start": 245.26,
+      "end": 245.42,
+      "text": "Um,"
+    },
+    {
+      "start": 246.36,
+      "end": 249.8,
+      "text": "but like any model, TAWA's got clear limits."
+    },
+    {
+      "start": 249.81,
+      "end": 253.56,
+      "text": "Uh, it covers a large proportion of tax and transfer policies, but it can't cover"
+    },
+    {
+      "start": 253.64,
+      "end": 254.81,
+      "text": "absolutely everything."
+    },
+    {
+      "start": 254.82,
+      "end": 255.22,
+      "text": "Hmm."
+    },
+    {
+      "start": 255.3,
+      "end": 257.98,
+      "text": "Um, it doesn't model behavioral change."
+    },
+    {
+      "start": 258.0,
+      "end": 261.7,
+      "text": "So by that, I mean if we expect a tax and transfer change"
+    },
+    {
+      "start": 261.84,
+      "end": 265.28,
+      "text": "to impact on the amount of hours someone works, TAWA can't"
+    },
+    {
+      "start": 265.32,
+      "end": 269.28,
+      "text": "incorporate that. Um, it relies on survey data, the same"
+    },
+    {
+      "start": 269.46,
+      "end": 273.22,
+      "text": "as the official statistics. Um, and it needs simplifying"
+    },
+    {
+      "start": 273.26,
+      "end": 275.44,
+      "text": "assumptions because it is a model."
+    },
+    {
+      "start": 275.5,
+      "end": 279.2,
+      "text": "Um, it also measures imput- income impacts rather than wider"
+    },
+    {
+      "start": 279.24,
+      "end": 283.12,
+      "text": "wellbeing outcomes. There's also practical situations"
+    },
+    {
+      "start": 283.14,
+      "end": 286.98,
+      "text": "where it's harder to es- use TAWA. For example, when we're considering small"
+    },
+    {
+      "start": 287.02,
+      "end": 290.84,
+      "text": "population groups, TAWA might not cover those groups."
+    },
+    {
+      "start": 290.86,
+      "end": 294.36,
+      "text": "Or when a payment or a population group is not fully covered by the survey"
+    },
+    {
+      "start": 294.4,
+      "end": 298.32,
+      "text": "itself, we can't model it. Um, when we're considering a completely"
+    },
+    {
+      "start": 298.36,
+      "end": 302.08,
+      "text": "new policy, it's much harder to, to estimate."
+    },
+    {
+      "start": 302.14,
+      "end": 305.98,
+      "text": "Um, or when policies rely heavily on those behavioral changes."
+    },
+    {
+      "start": 306.04,
+      "end": 309.76,
+      "text": "Um, these issues don't stop us from doing the analysis, but they do increase the"
+    },
+    {
+      "start": 309.8,
+      "end": 313.42,
+      "text": "uncertainty and really emphasize the need for expert users of"
+    },
+    {
+      "start": 313.46,
+      "end": 314.12,
+      "text": "TAWA."
+    },
+    {
+      "start": 314.16,
+      "end": 314.58,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 314.66,
+      "end": 318.28,
+      "text": "Uh, some policies as well, although they're targeted on low-income"
+    },
+    {
+      "start": 318.29,
+      "end": 322.09,
+      "text": "people, they have no impact on incomes and therefore can't be modeled by"
+    },
+    {
+      "start": 322.14,
+      "end": 326.0,
+      "text": "TAWA. For one example there, you've got a, a change to a subsidy like"
+    },
+    {
+      "start": 326.04,
+      "end": 329.94,
+      "text": "early childcare education. That doesn't directly change a family's"
+    },
+    {
+      "start": 330.0,
+      "end": 333.74,
+      "text": "income. It changes their expenditure, so that wouldn't be covered by the TAWA"
+    },
+    {
+      "start": 333.82,
+      "end": 337.78,
+      "text": "model. In contrast, though, an increase to the in-work tax"
+    },
+    {
+      "start": 337.82,
+      "end": 341.2,
+      "text": "credit does impact a family's income, so it can be modeled by"
+    },
+    {
+      "start": 341.26,
+      "end": 343.65,
+      "text": "TAWA. Um, and then"
+    },
+    {
+      "start": 344.86,
+      "end": 348.36,
+      "text": "f- finally, uh, access. So TAWA operates inside the"
+    },
+    {
+      "start": 348.42,
+      "end": 352.0,
+      "text": "IDI, um, and therefore it's accessed through Stats New Zealand data"
+    },
+    {
+      "start": 352.06,
+      "end": 355.49,
+      "text": "labs. The data is de-identified and access is tightly"
+    },
+    {
+      "start": 355.5,
+      "end": 359.24,
+      "text": "controlled by Stats through approvals, training, and vetting."
+    },
+    {
+      "start": 359.28,
+      "end": 363.21,
+      "text": "But to support collaboration, Treasury has set up a shared collab- collaborative"
+    },
+    {
+      "start": 363.32,
+      "end": 367.18,
+      "text": "project in the IDI so authorized analysts in other agencies can run the"
+    },
+    {
+      "start": 367.2,
+      "end": 371.1,
+      "text": "model.This has allowed for example, um, Ministry of Housing and"
+    },
+    {
+      "start": 371.21,
+      "end": 374.51,
+      "text": "Urban Development and the Retirement Commission to use it when developing their own"
+    },
+    {
+      "start": 374.53,
+      "end": 378.47,
+      "text": "advice. Um, some modelers in MSD also have access, but I want to be"
+    },
+    {
+      "start": 378.53,
+      "end": 381.93,
+      "text": "really clear that it does take time to become an expert user of the"
+    },
+    {
+      "start": 381.99,
+      "end": 385.87,
+      "text": "model. Um, alongside this collaborative IDI"
+    },
+    {
+      "start": 385.93,
+      "end": 389.72,
+      "text": "project, Treasury has also been developing a version of the model that can be used"
+    },
+    {
+      "start": 389.77,
+      "end": 392.83,
+      "text": "outside of the IDI, called TAWA-Lite."
+    },
+    {
+      "start": 392.84,
+      "end": 396.45,
+      "text": "Uh, this uses synthetic data which mirrors real households, but doesn't"
+    },
+    {
+      "start": 396.47,
+      "end": 400.36,
+      "text": "contain real information. And the idea behind TAWA-Lite is although it's"
+    },
+    {
+      "start": 400.36,
+      "end": 404.02,
+      "text": "not going to be as complete or as accurate as TAWA, it allows people"
+    },
+    {
+      "start": 404.07,
+      "end": 407.95,
+      "text": "outside secure environments to explore how the tax int- transfer system"
+    },
+    {
+      "start": 408.31,
+      "end": 410.74,
+      "text": "affects incomes and therefore income poverty."
+    },
+    {
+      "start": 411.67,
+      "end": 415.65,
+      "text": "Um, so quickly summarizing, TAWA is Treasury's main tool"
+    },
+    {
+      "start": 415.75,
+      "end": 418.95,
+      "text": "for analyzing distributional and fiscal impacts of tax and welfare"
+    },
+    {
+      "start": 419.03,
+      "end": 422.95,
+      "text": "policy. It plays a central role in income-based child poverty"
+    },
+    {
+      "start": 423.03,
+      "end": 426.89,
+      "text": "analysis. Uh, it supports budget decisions, targeting and"
+    },
+    {
+      "start": 426.97,
+      "end": 430.91,
+      "text": "fiscal trade-offs. Um, it's a very useful tool, but also has clear"
+    },
+    {
+      "start": 430.93,
+      "end": 434.65,
+      "text": "and well-understood limits. So, um, very happy to"
+    },
+    {
+      "start": 434.69,
+      "end": 437.97,
+      "text": "answer any questions or clarify any of the technical"
+    },
+    {
+      "start": 438.07,
+      "end": 438.97,
+      "text": "details."
+    },
+    {
+      "start": 439.01,
+      "end": 440.36,
+      "text": "Great. Well, thank you very much for that."
+    },
+    {
+      "start": 440.45,
+      "end": 443.79,
+      "text": "Um, it's re- been, yeah, really interesting. Our first question, Pao."
+    },
+    {
+      "start": 443.81,
+      "end": 447.12,
+      "text": "What are your, uh, I may, if, if you'll allow me to, I'll just fire some quick fire"
+    },
+    {
+      "start": 447.15,
+      "end": 449.19,
+      "text": "ones because we've got, um, a short amount of time."
+    },
+    {
+      "start": 449.21,
+      "end": 451.83,
+      "text": "But hey, you mentioned the use of it for the budget."
+    },
+    {
+      "start": 451.87,
+      "end": 455.86,
+      "text": "Have you used TAWA to give advice on pieces of legislation"
+    },
+    {
+      "start": 456.09,
+      "end": 459.63,
+      "text": "or do you know if it's being used, um, to provide advice on, on"
+    },
+    {
+      "start": 459.81,
+      "end": 462.31,
+      "text": "specific piece of legislation?"
+    },
+    {
+      "start": 462.43,
+      "end": 465.24,
+      "text": "Uh, yes, it's generally used if it's,"
+    },
+    {
+      "start": 465.33,
+      "end": 465.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 465.34,
+      "end": 468.8,
+      "text": "... we're commissioned to provide advice on s- specific things, yeah."
+    },
+    {
+      "start": 468.83,
+      "end": 472.63,
+      "text": "I think one of the things that could be useful, um, is perhaps through this hearing"
+    },
+    {
+      "start": 472.69,
+      "end": 476.61,
+      "text": "is if we could request, um, sort of like in the say"
+    },
+    {
+      "start": 477.77,
+      "end": 481.15,
+      "text": "x number of last legislations, TAWA's being used to provide a model, like to have"
+    },
+    {
+      "start": 481.19,
+      "end": 484.67,
+      "text": "that as a sort of case studies just so that we can see sort of"
+    },
+    {
+      "start": 485.67,
+      "end": 487.17,
+      "text": "that... I'm sure that exists, but it just c-"
+    },
+    {
+      "start": 487.21,
+      "end": 487.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 487.68,
+      "end": 487.88,
+      "text": "Yeah. Having it"
+    },
+    {
+      "start": 487.89,
+      "end": 491.47,
+      "text": "So you're talking about legislative changes that affect the tax and social policy"
+    },
+    {
+      "start": 491.57,
+      "end": 491.68,
+      "text": "system-"
+    },
+    {
+      "start": 491.69,
+      "end": 491.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 492.03,
+      "end": 493.95,
+      "text": "... in the way that it might feed into, for example-"
+    },
+    {
+      "start": 493.99,
+      "end": 494.12,
+      "text": "Yes."
+    },
+    {
+      "start": 494.12,
+      "end": 495.78,
+      "text": "... a red- green tax statement or something like that-"
+    },
+    {
+      "start": 495.78,
+      "end": 496.05,
+      "text": "That's right."
+    },
+    {
+      "start": 496.07,
+      "end": 497.95,
+      "text": "... as well. We can have a look over the last week-"
+    },
+    {
+      "start": 497.99,
+      "end": 498.76,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 498.76,
+      "end": 499.38,
+      "text": "... what software's been used, yeah."
+    },
+    {
+      "start": 499.45,
+      "end": 503.41,
+      "text": "Um, and do you know how many experts MSD has that are able to"
+    },
+    {
+      "start": 503.51,
+      "end": 504.17,
+      "text": "use TAWA?"
+    },
+    {
+      "start": 505.47,
+      "end": 506.13,
+      "text": "Uh,"
+    },
+    {
+      "start": 507.13,
+      "end": 508.55,
+      "text": "I believe it's three."
+    },
+    {
+      "start": 508.61,
+      "end": 508.64,
+      "text": "Okay."
+    },
+    {
+      "start": 508.64,
+      "end": 512.39,
+      "text": "Uh, three of their modelers. Uh, we work very closely with the MSD modelers."
+    },
+    {
+      "start": 512.47,
+      "end": 514.73,
+      "text": "Different modeling teams interact a lot. Yeah."
+    },
+    {
+      "start": 514.77,
+      "end": 518.23,
+      "text": "And when, um, I know you mentioned it's hard to use, but, um, how"
+    },
+    {
+      "start": 518.39,
+      "end": 521.93,
+      "text": "time-consuming is it to, for example, get from defining a"
+    },
+    {
+      "start": 521.99,
+      "end": 524.43,
+      "text": "change to then get the modeling done?"
+    },
+    {
+      "start": 524.47,
+      "end": 527.95,
+      "text": "Like how long does that normally take you and how, how n- yeah."
+    },
+    {
+      "start": 528.01,
+      "end": 531.47,
+      "text": "Uh, it really depends on the policy that you want to model."
+    },
+    {
+      "start": 531.53,
+      "end": 535.37,
+      "text": "If it's an expert user from, from my team, and it's a relatively"
+    },
+    {
+      "start": 535.43,
+      "end": 539.05,
+      "text": "simple change, it might take a week of, of our time."
+    },
+    {
+      "start": 539.11,
+      "end": 542.34,
+      "text": "If it's a very complicated thing that changes eligibility-"
+    },
+    {
+      "start": 542.49,
+      "end": 545.81,
+      "text": "... it could take months. It could be not possible because we don't have the data."
+    },
+    {
+      "start": 545.83,
+      "end": 546.07,
+      "text": "Yeah."
+    },
+    {
+      "start": 546.13,
+      "end": 549.73,
+      "text": "If you're not an expert user, to even be able to"
+    },
+    {
+      "start": 549.77,
+      "end": 553.53,
+      "text": "confidently do basic things, it's probably gonna take six months."
+    },
+    {
+      "start": 553.55,
+      "end": 556.05,
+      "text": "And just, um, so you mentioned you have the ability to measure child material"
+    },
+    {
+      "start": 556.09,
+      "end": 559.49,
+      "text": "hardship, obviously. Um, do you have the ability to measure also material hardship"
+    },
+    {
+      "start": 559.53,
+      "end": 560.73,
+      "text": "more broadly?"
+    },
+    {
+      "start": 560.83,
+      "end": 560.86,
+      "text": "No."
+    },
+    {
+      "start": 560.87,
+      "end": 564.69,
+      "text": "Is that a meas- okay. And finally, um, when you say small populations that you're"
+    },
+    {
+      "start": 564.71,
+      "end": 567.67,
+      "text": "not able to meas- measure, how small are we talking?"
+    },
+    {
+      "start": 567.75,
+      "end": 571.55,
+      "text": "Uh, so for example, there's the, the requirement of Stats New Zealand that we"
+    },
+    {
+      "start": 571.59,
+      "end": 575.45,
+      "text": "can't report on population groups that are, uh, less than 3,000."
+    },
+    {
+      "start": 575.61,
+      "end": 577.27,
+      "text": "Oh, okay. That's a lot smaller."
+    },
+    {
+      "start": 577.29,
+      "end": 581.17,
+      "text": "Um, yeah, so, uh, there's that, but also the smaller the population group,"
+    },
+    {
+      "start": 581.21,
+      "end": 583.53,
+      "text": "the less reliable the data that we have-"
+    },
+    {
+      "start": 583.55,
+      "end": 583.56,
+      "text": "Okay."
+    },
+    {
+      "start": 583.56,
+      "end": 587.13,
+      "text": "... because it's a sample of the population, not the whole population."
+    },
+    {
+      "start": 587.15,
+      "end": 587.28,
+      "text": "Thank you."
+    },
+    {
+      "start": 587.29,
+      "end": 590.13,
+      "text": "So there's larger error bands around it. Yeah."
+    },
+    {
+      "start": 590.23,
+      "end": 591.53,
+      "text": "Uh, next question, Lauren."
+    },
+    {
+      "start": 591.59,
+      "end": 595.49,
+      "text": "Um, thank you. Um, very fascinating, um, part of the system that"
+    },
+    {
+      "start": 595.69,
+      "end": 599.49,
+      "text": "you look at. Um, we have had a presentation in the past about the IDI"
+    },
+    {
+      "start": 599.57,
+      "end": 600.39,
+      "text": "from States."
+    },
+    {
+      "start": 600.47,
+      "end": 604.37,
+      "text": "And, um, of course those systems are only as good as the data"
+    },
+    {
+      "start": 604.41,
+      "end": 606.55,
+      "text": "that goes in, the information that goes in."
+    },
+    {
+      "start": 606.61,
+      "end": 610.49,
+      "text": "So in your use of it, of TAWA, do you"
+    },
+    {
+      "start": 610.69,
+      "end": 614.59,
+      "text": "see where any improvements can be made in terms of the data"
+    },
+    {
+      "start": 614.6,
+      "end": 618.37,
+      "text": "that's collected? Um, and the reason I'm asking that is because when we talk to"
+    },
+    {
+      "start": 618.49,
+      "end": 622.44,
+      "text": "stats, one of the most difficult areas to gather data on was"
+    },
+    {
+      "start": 622.45,
+      "end": 623.88,
+      "text": "from the health sector."
+    },
+    {
+      "start": 623.89,
+      "end": 624.11,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 624.27,
+      "end": 628.21,
+      "text": "Um, and so, you know, have you noticed anywhere in the"
+    },
+    {
+      "start": 628.25,
+      "end": 631.39,
+      "text": "system where it could be improved or the data could be"
+    },
+    {
+      "start": 631.43,
+      "end": 632.25,
+      "text": "better?"
+    },
+    {
+      "start": 632.29,
+      "end": 635.67,
+      "text": "Yeah, I, I mean, we, we are data and modeling people, so we would always, always"
+    },
+    {
+      "start": 635.71,
+      "end": 637.93,
+      "text": "like more data is what (laughs) I would say."
+    },
+    {
+      "start": 638.05,
+      "end": 641.99,
+      "text": "Um, the, the data that TAWA is based on, uh, a"
+    },
+    {
+      "start": 642.05,
+      "end": 643.96,
+      "text": "lot of it is coming from Inland Revenue."
+    },
+    {
+      "start": 643.97,
+      "end": 647.63,
+      "text": "So that is really accurate detailed data based on individuals."
+    },
+    {
+      "start": 647.67,
+      "end": 651.19,
+      "text": "Uh, what is a little bit more difficult is when you go from, uh, individual"
+    },
+    {
+      "start": 651.27,
+      "end": 655.15,
+      "text": "records to households. So when you move to a household, which is"
+    },
+    {
+      "start": 655.19,
+      "end": 658.63,
+      "text": "obviously very important when you're thinking about living standards,"
+    },
+    {
+      "start": 658.75,
+      "end": 662.37,
+      "text": "um, it, it is more difficult to get some concept"
+    },
+    {
+      "start": 662.45,
+      "end": 666.23,
+      "text": "of who to link together. And that's where we use the survey from-"
+    },
+    {
+      "start": 666.29,
+      "end": 666.61,
+      "text": "Oh."
+    },
+    {
+      "start": 666.62,
+      "end": 668.25,
+      "text": "... from HESS. Uh,"
+    },
+    {
+      "start": 669.41,
+      "end": 673.4,
+      "text": "I would say that we, uh, generally have all of the data that,"
+    },
+    {
+      "start": 673.41,
+      "end": 676.19,
+      "text": "that we need for the policies that we're currently modeling."
+    },
+    {
+      "start": 676.25,
+      "end": 680.17,
+      "text": "Sometimes new policies come along and we have to then go and source more data."
+    },
+    {
+      "start": 680.21,
+      "end": 683.93,
+      "text": "Um, our... I, I do think you could add more data to the IDI."
+    },
+    {
+      "start": 683.97,
+      "end": 687.85,
+      "text": "I think our, uh, requests for sort of improvements"
+    },
+    {
+      "start": 687.89,
+      "end": 691.4,
+      "text": "to the IDI would be more around access to different modeling tools and"
+    },
+    {
+      "start": 691.49,
+      "end": 693.87,
+      "text": "technologies within the IDI than data."
+    },
+    {
+      "start": 693.89,
+      "end": 697.57,
+      "text": "But that's just from our position as people who have"
+    },
+    {
+      "start": 697.65,
+      "end": 700.26,
+      "text": "access to the data that we need because it exists, yeah."
+    },
+    {
+      "start": 700.26,
+      "end": 704.15,
+      "text": "Can I add something? Um, and also do-"
+    },
+    {
+      "start": 704.67,
+      "end": 708.21,
+      "text": "where does AI fit in what you're doing or does it fea-"
+    },
+    {
+      "start": 708.47,
+      "end": 709.69,
+      "text": "feature at all?"
+    },
+    {
+      "start": 709.71,
+      "end": 713.41,
+      "text": "Well, you, you definitely would not be able to use any AI tools in the"
+    },
+    {
+      "start": 713.47,
+      "end": 714.83,
+      "text": "IDI. Um,"
+    },
+    {
+      "start": 715.69,
+      "end": 719.67,
+      "text": "we don't generally, uh, uh, we are experimenting carefully"
+    },
+    {
+      "start": 719.77,
+      "end": 723.56,
+      "text": "within Treasury with AI to see if we can, um,"
+    },
+    {
+      "start": 723.69,
+      "end": 726.97,
+      "text": "just automate some of our processes or, or become more"
+    },
+    {
+      "start": 727.01,
+      "end": 730.7,
+      "text": "productive. But that's all at a very experimental safe end, not..."
+    },
+    {
+      "start": 730.73,
+      "end": 733.35,
+      "text": "And this, this work does not use AI. Yeah."
+    },
+    {
+      "start": 733.41,
+      "end": 734.44,
+      "text": "Okay. Thank"
+    },
+    {
+      "start": 734.45,
+      "end": 736.45,
+      "text": "Can I catch up on that? Why not?"
+    },
+    {
+      "start": 737.1,
+      "end": 740.82,
+      "text": "... uh, this work. Uh, we don't need to use AI at this"
+    },
+    {
+      "start": 740.86,
+      "end": 744.27,
+      "text": "point for this. I think, uh, in the future, if I can-"
+    },
+    {
+      "start": 744.27,
+      "end": 744.75,
+      "text": "Yeah. ... talk about-"
+    },
+    {
+      "start": 744.78,
+      "end": 744.8,
+      "text": "That"
+    },
+    {
+      "start": 744.8,
+      "end": 748.52,
+      "text": "sounds cool. ... what might happen in the future, uh, I could see AI being used as"
+    },
+    {
+      "start": 748.62,
+      "end": 750.54,
+      "text": "a, uh, to improve the accessibility to-"
+    },
+    {
+      "start": 750.55,
+      "end": 750.57,
+      "text": "Yep."
+    },
+    {
+      "start": 750.57,
+      "end": 753.53,
+      "text": "... some of our modeling and data, and that's definitely some of the things that"
+    },
+    {
+      "start": 753.55,
+      "end": 756.82,
+      "text": "we've experimented with, is how do we, uh, make some of"
+    },
+    {
+      "start": 756.88,
+      "end": 759.89,
+      "text": "this, this tool open to people who aren't-"
+    },
+    {
+      "start": 759.89,
+      "end": 760.76,
+      "text": "They don't know how to use it. ... modelers?"
+    },
+    {
+      "start": 760.78,
+      "end": 761.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 761.1,
+      "end": 764.91,
+      "text": "Um, and the more detailed sort of machine learning,"
+    },
+    {
+      "start": 765.02,
+      "end": 768.65,
+      "text": "AI side of things, if we were able to use that in a, uh,"
+    },
+    {
+      "start": 769.13,
+      "end": 772.78,
+      "text": "some sort of infrastructure like the IDI in a safe way, I could"
+    },
+    {
+      "start": 772.84,
+      "end": 776.79,
+      "text": "see, uh, that being very useful to identify patterns and, of-"
+    },
+    {
+      "start": 776.8,
+      "end": 777.14,
+      "text": "(clears throat)"
+    },
+    {
+      "start": 777.14,
+      "end": 781.04,
+      "text": "... life courses and things like that, but that is, uh, but beyond the level"
+    },
+    {
+      "start": 781.12,
+      "end": 782.22,
+      "text": "of what we're at right now."
+    },
+    {
+      "start": 782.24,
+      "end": 782.25,
+      "text": "Like-"
+    },
+    {
+      "start": 782.26,
+      "end": 783.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 783.46,
+      "end": 787.17,
+      "text": "I g- I, I guess, uh, a supplementary on that is, um, I imagine you'll be looking at"
+    },
+    {
+      "start": 787.22,
+      "end": 790.2,
+      "text": "how you can, um, isolate that"
+    },
+    {
+      "start": 790.26,
+      "end": 791.26,
+      "text": "data."
+    },
+    {
+      "start": 791.28,
+      "end": 791.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 791.41,
+      "end": 794.79,
+      "text": "So the a- so the AI could work on it without-"
+    },
+    {
+      "start": 794.82,
+      "end": 794.83,
+      "text": "So-"
+    },
+    {
+      "start": 794.83,
+      "end": 797.22,
+      "text": "... the potential of any, any, um, cross-feedback-"
+    },
+    {
+      "start": 797.62,
+      "end": 797.75,
+      "text": "(clears throat) Yeah,"
+    },
+    {
+      "start": 797.75,
+      "end": 799.24,
+      "text": "no- ... or r- or reverse-feedback (laughs) to the-"
+    },
+    {
+      "start": 799.25,
+      "end": 801.91,
+      "text": "Yep. ... to the data streams. That's probably a key challenge I would imagine."
+    },
+    {
+      "start": 801.93,
+      "end": 805.8,
+      "text": "Mm-hmm. Yeah, and I, I think that, that is, um, absolutely up to,"
+    },
+    {
+      "start": 805.9,
+      "end": 809.88,
+      "text": "uh, stats to, that, that is their wheelhouse, and they will be- be the people who"
+    },
+    {
+      "start": 809.9,
+      "end": 810.83,
+      "text": "do that carefully-"
+    },
+    {
+      "start": 810.83,
+      "end": 810.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 810.9,
+      "end": 812.02,
+      "text": "... and responsibly."
+    },
+    {
+      "start": 812.03,
+      "end": 812.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 812.05,
+      "end": 814.02,
+      "text": "We, we can only request, you know."
+    },
+    {
+      "start": 814.1,
+      "end": 817.17,
+      "text": "And one other supplementary on that is just, um, in terms of that accessibility"
+    },
+    {
+      "start": 817.28,
+      "end": 820.17,
+      "text": "piece, um, if there's sort, uh, three experts at"
+    },
+    {
+      "start": 820.32,
+      "end": 824.04,
+      "text": "MSD, um, is there, is there some genuine scope"
+    },
+    {
+      "start": 824.16,
+      "end": 828.15,
+      "text": "there to make it more accessible, the, the, the data, so it"
+    },
+    {
+      "start": 828.17,
+      "end": 830.72,
+      "text": "can be available to more users?"
+    },
+    {
+      "start": 830.78,
+      "end": 831.11,
+      "text": "Um, yeah,"
+    },
+    {
+      "start": 831.38,
+      "end": 835.12,
+      "text": "Uh, across, ac- across a var- a variety of different, um, um, yeah, organizations?"
+    },
+    {
+      "start": 835.16,
+      "end": 839.12,
+      "text": "Yep. Uh, so, um, I, I think, um, it's been two years now since we started"
+    },
+    {
+      "start": 839.16,
+      "end": 843.1,
+      "text": "up the, uh, collaborative IDI project, and we worked closely with Stats"
+    },
+    {
+      "start": 843.16,
+      "end": 844.91,
+      "text": "on that to make sure they were comfortable."
+    },
+    {
+      "start": 844.93,
+      "end": 848.76,
+      "text": "The idea is to improve accessibility to TAWA and any data"
+    },
+    {
+      "start": 848.79,
+      "end": 852.7,
+      "text": "related to it. You still need to be an IDI researcher at this stage,"
+    },
+    {
+      "start": 852.76,
+      "end": 856.24,
+      "text": "so you need to be, you know, a, a expert in that area."
+    },
+    {
+      "start": 856.34,
+      "end": 860.05,
+      "text": "Um, I guess the other thing that we, to talk about that we've been doing"
+    },
+    {
+      "start": 860.22,
+      "end": 864.1,
+      "text": "is, uh, creating this, uh, much more user-friendly synthetic"
+    },
+    {
+      "start": 864.17,
+      "end": 867.82,
+      "text": "version of, of TAWA, which will, uh, gives you the direction"
+    },
+    {
+      "start": 867.86,
+      "end": 868.2,
+      "text": "of-"
+    },
+    {
+      "start": 868.74,
+      "end": 868.75,
+      "text": "(coughs)"
+    },
+    {
+      "start": 868.76,
+      "end": 872.62,
+      "text": "... (clears throat) the direction of an impact and sort of the scale, um, but"
+    },
+    {
+      "start": 872.66,
+      "end": 876.64,
+      "text": "not as detailed as TAWA. And that, the aim is for that to be, uh,"
+    },
+    {
+      "start": 876.76,
+      "end": 880.05,
+      "text": "you know, can be shared with anyone, and it has a user interface."
+    },
+    {
+      "start": 880.12,
+      "end": 884.08,
+      "text": "Um, it's still in development. We've recently passed a milestone"
+    },
+    {
+      "start": 884.12,
+      "end": 888.02,
+      "text": "where we're sharing it around Treasury, but it's kind of in the, the testing phase"
+    },
+    {
+      "start": 888.05,
+      "end": 889.54,
+      "text": "of, of that, so yeah."
+    },
+    {
+      "start": 889.55,
+      "end": 893.46,
+      "text": "And I, I, I should ask then if, um, g- um, now that you've raised it, is, is it"
+    },
+    {
+      "start": 893.5,
+      "end": 894.1,
+      "text": "TAWA Lite-"
+    },
+    {
+      "start": 894.11,
+      "end": 894.21,
+      "text": "TAWA Lite, yeah. That"
+    },
+    {
+      "start": 894.21,
+      "end": 896.12,
+      "text": "is- ... that you've improved upon the, uh, min- materials?"
+    },
+    {
+      "start": 896.16,
+      "end": 896.75,
+      "text": "Yep."
+    },
+    {
+      "start": 897.2,
+      "end": 901.16,
+      "text": "Oh, okay. And c- could you just give us a, a, a sort of a high level sort"
+    },
+    {
+      "start": 901.16,
+      "end": 904.54,
+      "text": "of comparator of what TAWA Lite is v- versus compared to TAWA?"
+    },
+    {
+      "start": 904.72,
+      "end": 905.28,
+      "text": "So..."
+    },
+    {
+      "start": 905.38,
+      "end": 909.32,
+      "text": "Uh, I, I mean, like, the, the very important thing to remember is that the"
+    },
+    {
+      "start": 909.34,
+      "end": 913.16,
+      "text": "data is not real data underneath it. It's synthetic data."
+    },
+    {
+      "start": 913.22,
+      "end": 916.28,
+      "text": "So we have, we can't take real data out of the IDI."
+    },
+    {
+      "start": 916.32,
+      "end": 919.7,
+      "text": "That's private data. There's a lot of protections of it."
+    },
+    {
+      "start": 919.76,
+      "end": 922.46,
+      "text": "Um, so actually, Luke did a lot of work to-"
+    },
+    {
+      "start": 922.48,
+      "end": 922.54,
+      "text": "(clears throat)"
+    },
+    {
+      "start": 922.54,
+      "end": 925.91,
+      "text": "... uh, come up with a method for making synthetic data."
+    },
+    {
+      "start": 925.96,
+      "end": 929.62,
+      "text": "So that is still at very detailed household level, but it's not a"
+    },
+    {
+      "start": 929.67,
+      "end": 933.55,
+      "text": "real household. It just, uh, on aggr- you know, when we aggregate it up, it"
+    },
+    {
+      "start": 933.62,
+      "end": 935.86,
+      "text": "looks like the New Zealand population."
+    },
+    {
+      "start": 935.91,
+      "end": 939.78,
+      "text": "So if we were talking about those small groups again, we're less likely to,"
+    },
+    {
+      "start": 939.84,
+      "end": 943.39,
+      "text": "uh, w- we would have less confidence that those are covered properly in that, that"
+    },
+    {
+      "start": 943.41,
+      "end": 947.22,
+      "text": "model. So that, that's the key limitation, is that it's, it's synthetic"
+    },
+    {
+      "start": 947.36,
+      "end": 949.65,
+      "text": "data. It's not real data. Um,"
+    },
+    {
+      "start": 950.58,
+      "end": 953.95,
+      "text": "the model itself, the current version is quite, uh,"
+    },
+    {
+      "start": 954.0,
+      "end": 957.7,
+      "text": "simplified just to see, uh, what, what the user experience (laughs) is, whether"
+    },
+    {
+      "start": 957.74,
+      "end": 961.26,
+      "text": "people can use it. So it can, uh, it can, you know, change some"
+    },
+    {
+      "start": 961.32,
+      "end": 964.79,
+      "text": "parameters with a, a user interface. You don't need to write code."
+    },
+    {
+      "start": 964.82,
+      "end": 968.78,
+      "text": "And then it gives you an output which is, uh, who's gaining and losing by"
+    },
+    {
+      "start": 968.82,
+      "end": 972.58,
+      "text": "their income level, the poverty impact, income poverty"
+    },
+    {
+      "start": 972.62,
+      "end": 976.48,
+      "text": "incap- impact, uh, inequality, and some, uh, fiscal costs"
+    },
+    {
+      "start": 976.54,
+      "end": 978.2,
+      "text": "obviously, 'cause we're a treasury."
+    },
+    {
+      "start": 978.46,
+      "end": 982.32,
+      "text": "Um, uh, but yeah, that's the current format of it."
+    },
+    {
+      "start": 982.34,
+      "end": 986.26,
+      "text": "But we, we could make it more complex, but it, it depends on"
+    },
+    {
+      "start": 986.54,
+      "end": 990.45,
+      "text": "the more complex you make it, the less easier it is for someone who's not a modeler"
+    },
+    {
+      "start": 990.48,
+      "end": 993.9,
+      "text": "or an expert to use. So there's a bit of a trade-off there."
+    },
+    {
+      "start": 994.14,
+      "end": 997.63,
+      "text": "Tha- that synthetic data, is it, is that effectively mirroring real data, but-"
+    },
+    {
+      "start": 997.63,
+      "end": 997.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 997.65,
+      "end": 1000.37,
+      "text": "... so ensuring there's a step away from it so that it, it-"
+    },
+    {
+      "start": 1000.4,
+      "end": 1000.49,
+      "text": "Yeah."
+    },
+    {
+      "start": 1000.51,
+      "end": 1003.08,
+      "text": "... it completely anonymizes and ensures that anonymity in that?"
+    },
+    {
+      "start": 1003.28,
+      "end": 1007.2,
+      "text": "Yeah. Yeah, and it's, um, there is, um, quite a few organizations who use"
+    },
+    {
+      "start": 1007.22,
+      "end": 1010.98,
+      "text": "the IDI who are starting to think about that, of how can we,"
+    },
+    {
+      "start": 1011.06,
+      "end": 1014.91,
+      "text": "um, leave the IDA- I as it is but get more information"
+    },
+    {
+      "start": 1014.93,
+      "end": 1018.38,
+      "text": "out into, into the general public in a safe way."
+    },
+    {
+      "start": 1018.46,
+      "end": 1021.78,
+      "text": "Um, but it's, it's quite, um,"
+    },
+    {
+      "start": 1021.79,
+      "end": 1025.21,
+      "text": "forward-thinking work rather than currently being used, I would say."
+    },
+    {
+      "start": 1025.45,
+      "end": 1027.7,
+      "text": "Interesting. Uh, geez. Uh, Marie Minow?"
+    },
+    {
+      "start": 1027.91,
+      "end": 1028.18,
+      "text": "Thank you."
+    },
+    {
+      "start": 1028.18,
+      "end": 1028.76,
+      "text": "Any question? (laughs)"
+    },
+    {
+      "start": 1028.8,
+      "end": 1032.78,
+      "text": "Um, Meagan, uh, (speaks Maori) . Um, (clears throat) I read this, and"
+    },
+    {
+      "start": 1032.86,
+      "end": 1036.66,
+      "text": "I put quite a lot of highlights not because I completely comprehend it all, but"
+    },
+    {
+      "start": 1036.69,
+      "end": 1040.02,
+      "text": "because I could see how interesting it is."
+    },
+    {
+      "start": 1040.12,
+      "end": 1042.85,
+      "text": "Um, I, and I, but I'm trying to link..."
+    },
+    {
+      "start": 1042.9,
+      "end": 1046.63,
+      "text": "So listening to your conversation, and I wrote words like, um, so we talked about"
+    },
+    {
+      "start": 1046.66,
+      "end": 1050.41,
+      "text": "child poverty and, um, oh, what all, uh,"
+    },
+    {
+      "start": 1050.46,
+      "end": 1054.18,
+      "text": "just describing the tool and its use."
+    },
+    {
+      "start": 1054.28,
+      "end": 1057.55,
+      "text": "In the world I come from, data in itself is"
+    },
+    {
+      "start": 1057.64,
+      "end": 1061.16,
+      "text": "a, is a, requires a level of trust to be able to"
+    },
+    {
+      "start": 1061.18,
+      "end": 1061.96,
+      "text": "provide-"
+    },
+    {
+      "start": 1061.98,
+      "end": 1061.98,
+      "text": "Mm."
+    },
+    {
+      "start": 1061.98,
+      "end": 1065.86,
+      "text": "... you know? And, um, and that's not present particularly with Maori data or"
+    },
+    {
+      "start": 1065.9,
+      "end": 1069.78,
+      "text": "Maori information. And so, there's always a, there's a"
+    },
+    {
+      "start": 1069.82,
+      "end": 1073.73,
+      "text": "trust thing that's, that's not present, and that's, um, being asked for"
+    },
+    {
+      "start": 1074.12,
+      "end": 1077.8,
+      "text": "and probably not necessarily given in the most open way, um, for obvious"
+    },
+    {
+      "start": 1077.86,
+      "end": 1081.73,
+      "text": "reasons. Um, you will know that the National iwi Chairs, they"
+    },
+    {
+      "start": 1081.78,
+      "end": 1082.65,
+      "text": "have a data set."
+    },
+    {
+      "start": 1082.94,
+      "end": 1083.0,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1083.01,
+      "end": 1086.12,
+      "text": "And so, there's Maori data sitting in various places."
+    },
+    {
+      "start": 1086.16,
+      "end": 1090.06,
+      "text": "I'm not sure how it gets integrated, if at all, into the system that you're"
+    },
+    {
+      "start": 1090.08,
+      "end": 1094.04,
+      "text": "talking about. But there's a, a whole bunch of Maori information there,"
+    },
+    {
+      "start": 1094.05,
+      "end": 1098.02,
+      "text": "(clears throat) which would be valuable at some point, I guess, and"
+    },
+    {
+      "start": 1098.06,
+      "end": 1101.8,
+      "text": "whether there's still enough relationship, trust, and, um-"
+    },
+    {
+      "start": 1102.36,
+      "end": 1106.14,
+      "text": "... crossover to, uh, to have it be of"
+    },
+    {
+      "start": 1106.18,
+      "end": 1110.06,
+      "text": "benefit, particularly two children in poverty equals"
+    },
+    {
+      "start": 1110.34,
+      "end": 1111.56,
+      "text": "too many M\u0101ori children."
+    },
+    {
+      "start": 1111.58,
+      "end": 1111.91,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1111.92,
+      "end": 1115.67,
+      "text": "So that's the, that's the stream that, um, I wanted to open up with you"
+    },
+    {
+      "start": 1115.74,
+      "end": 1116.82,
+      "text": "and, um,"
+    },
+    {
+      "start": 1117.86,
+      "end": 1120.04,
+      "text": "uh, I don't know, I, I guess I just wanted some general"
+    },
+    {
+      "start": 1120.94,
+      "end": 1124.88,
+      "text": "h- M\u0101ori data, M\u0101ori sovereign over their data,"
+    },
+    {
+      "start": 1124.9,
+      "end": 1127.76,
+      "text": "around data, um, how does it figure into your"
+    },
+    {
+      "start": 1128.2,
+      "end": 1131.26,
+      "text": "system, um, and how can that"
+    },
+    {
+      "start": 1131.3,
+      "end": 1132.98,
+      "text": "help?"
+    },
+    {
+      "start": 1133.64,
+      "end": 1135.85,
+      "text": "I mean, uh, we love data for sure."
+    },
+    {
+      "start": 1135.9,
+      "end": 1138.27,
+      "text": "Yeah, yeah, yeah, I can tell."
+    },
+    {
+      "start": 1138.27,
+      "end": 1138.29,
+      "text": "(laughs) More data we can get the better. (laughs)"
+    },
+    {
+      "start": 1138.29,
+      "end": 1141.28,
+      "text": "And that's good, used for good is the thing."
+    },
+    {
+      "start": 1141.32,
+      "end": 1145.16,
+      "text": "Yeah, I would say that, um... Well, uh,"
+    },
+    {
+      "start": 1145.2,
+      "end": 1148.36,
+      "text": "the, the data that we use itself, it's all through the IDI."
+    },
+    {
+      "start": 1148.4,
+      "end": 1148.4,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1148.42,
+      "end": 1151.8,
+      "text": "So any, uh, protections and, um, thinking that Stats"
+    },
+    {
+      "start": 1152.54,
+      "end": 1156.02,
+      "text": "do, at Stats New Zealand do on data sovereignty will also be"
+    },
+    {
+      "start": 1156.04,
+      "end": 1159.71,
+      "text": "incorporated into that. So, so from that side, um,"
+    },
+    {
+      "start": 1160.34,
+      "end": 1164.32,
+      "text": "the sovereignty of that data is, is managed in Stats New Zealand 'cause we rely on"
+    },
+    {
+      "start": 1164.34,
+      "end": 1168.24,
+      "text": "them. Um, they, uh, but then with the"
+    },
+    {
+      "start": 1168.28,
+      "end": 1172.1,
+      "text": "analysis that we do, um, I would say we're early in this"
+    },
+    {
+      "start": 1172.14,
+      "end": 1175.5,
+      "text": "journey, but it is something that we have been thinking about and progressing,"
+    },
+    {
+      "start": 1175.54,
+      "end": 1178.43,
+      "text": "especially over the last, uh, year."
+    },
+    {
+      "start": 1178.5,
+      "end": 1182.31,
+      "text": "Uh, someone in my... Well, we, my team has been working very closely with"
+    },
+    {
+      "start": 1182.4,
+      "end": 1186.29,
+      "text": "a, one of our, uh, principal M\u0101ori policy advisors in"
+    },
+    {
+      "start": 1186.66,
+      "end": 1190.27,
+      "text": "Treasury, and thinking about the high up Arawaora framework-"
+    },
+    {
+      "start": 1190.28,
+      "end": 1190.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1190.69,
+      "end": 1193.66,
+      "text": "... and how we can incorporate some of that thinking of Te Ao M\u0101ori"
+    },
+    {
+      "start": 1194.14,
+      "end": 1197.28,
+      "text": "into the work that we do and the analysis that we do."
+    },
+    {
+      "start": 1197.32,
+      "end": 1201.28,
+      "text": "So it, it is straightforward with Tauasa to do a,"
+    },
+    {
+      "start": 1201.38,
+      "end": 1203.56,
+      "text": "um, an ethnicity breakdown of-"
+    },
+    {
+      "start": 1203.58,
+      "end": 1203.69,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1203.7,
+      "end": 1205.38,
+      "text": "... this many M\u0101ori we'll gain-"
+    },
+    {
+      "start": 1205.54,
+      "end": 1205.55,
+      "text": "Right."
+    },
+    {
+      "start": 1205.55,
+      "end": 1207.12,
+      "text": "... this many M\u0101ori we'll lose."
+    },
+    {
+      "start": 1207.14,
+      "end": 1209.18,
+      "text": "But, uh, that's quite a limited , right?"
+    },
+    {
+      "start": 1209.22,
+      "end": 1211.98,
+      "text": "That's just a, that's just another table of numbers."
+    },
+    {
+      "start": 1212.02,
+      "end": 1215.92,
+      "text": "We wanna incorporate more, um, thick- get more"
+    },
+    {
+      "start": 1215.96,
+      "end": 1217.94,
+      "text": "advice on how to be, uh-"
+    },
+    {
+      "start": 1217.95,
+      "end": 1221.32,
+      "text": "Mm-hmm. ... bring in the wider context of, um, M\u0101ori"
+    },
+    {
+      "start": 1221.72,
+      "end": 1223.68,
+      "text": "children's lived experience. Um,"
+    },
+    {
+      "start": 1224.56,
+      "end": 1226.32,
+      "text": "it's in development, I would say."
+    },
+    {
+      "start": 1226.38,
+      "end": 1228.5,
+      "text": "I don't have a, an answer of-"
+    },
+    {
+      "start": 1228.51,
+      "end": 1232.28,
+      "text": "No. ... of where we are yet, but it is, it is a direction we're going."
+    },
+    {
+      "start": 1232.3,
+      "end": 1233.3,
+      "text": "Thank you. Thank you."
+    },
+    {
+      "start": 1233.32,
+      "end": 1235.3,
+      "text": "I want to ask a supplementary on that actually 'cause it's a really interesting"
+    },
+    {
+      "start": 1235.32,
+      "end": 1238.93,
+      "text": "point that Marie may have raised, um, in, in, you know, the,"
+    },
+    {
+      "start": 1238.98,
+      "end": 1242.96,
+      "text": "the, um, data sovereignty piece, trust."
+    },
+    {
+      "start": 1243.02,
+      "end": 1246.54,
+      "text": "And, um, I'm wondering whether the work that y- you're doing,"
+    },
+    {
+      "start": 1246.62,
+      "end": 1250.56,
+      "text": "um, uh, e- and particular around that, um, mirrored data"
+    },
+    {
+      "start": 1250.62,
+      "end": 1254.24,
+      "text": "effectively. Now, the synthetic data where there's an opportunity there for the"
+    },
+    {
+      "start": 1254.34,
+      "end": 1257.22,
+      "text": "every leaders forum, you know, where they have data, but they're not sure about"
+    },
+    {
+      "start": 1257.26,
+      "end": 1260.26,
+      "text": "sharing it. But if there's an opportunity to actually create a synthetic version of"
+    },
+    {
+      "start": 1260.3,
+      "end": 1264.05,
+      "text": "that, that anonymizes that, but then means that, you know, can actually assist with"
+    },
+    {
+      "start": 1264.12,
+      "end": 1267.94,
+      "text": "some modelings and the work that you're doing to, to assist these communities"
+    },
+    {
+      "start": 1268.02,
+      "end": 1271.76,
+      "text": "who, who, I think, you know, I think everyone wants to get that assistance."
+    },
+    {
+      "start": 1271.8,
+      "end": 1272.16,
+      "text": "Yeah, I mean, I, I mean that-"
+    },
+    {
+      "start": 1272.17,
+      "end": 1274.23,
+      "text": "Yeah, but, but there is that sort of trust base that-"
+    },
+    {
+      "start": 1274.23,
+      "end": 1274.27,
+      "text": "Yeah."
+    },
+    {
+      "start": 1274.27,
+      "end": 1275.34,
+      "text": "... needs to be solved."
+    },
+    {
+      "start": 1275.36,
+      "end": 1279.26,
+      "text": "I mean that, that's a sounds like a, a great area to look down, I, I"
+    },
+    {
+      "start": 1279.34,
+      "end": 1282.6,
+      "text": "think. And that, that is the whole idea of this sort of synthetic data, is that we"
+    },
+    {
+      "start": 1282.66,
+      "end": 1283.61,
+      "text": "can, um,"
+    },
+    {
+      "start": 1284.68,
+      "end": 1287.98,
+      "text": "expand the use of the data without, um, impacting-"
+    },
+    {
+      "start": 1288.04,
+      "end": 1288.08,
+      "text": "Right."
+    },
+    {
+      "start": 1288.22,
+      "end": 1291.96,
+      "text": "... the sovereignty of the data or the, the people who, who own the data."
+    },
+    {
+      "start": 1291.98,
+      "end": 1292.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 1292.84,
+      "end": 1293.56,
+      "text": "Mm-hmm. Thanks."
+    },
+    {
+      "start": 1293.88,
+      "end": 1294.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 1294.6,
+      "end": 1295.72,
+      "text": "Uh, Maureen?"
+    },
+    {
+      "start": 1295.82,
+      "end": 1296.36,
+      "text": "Uh-"
+    },
+    {
+      "start": 1296.38,
+      "end": 1300.34,
+      "text": "Thank you. I'm just, um, just e- every time you answer a question,"
+    },
+    {
+      "start": 1300.38,
+      "end": 1301.32,
+      "text": "it raises more-"
+    },
+    {
+      "start": 1301.54,
+      "end": 1301.57,
+      "text": "Yeah. (laughs)"
+    },
+    {
+      "start": 1301.57,
+      "end": 1305.18,
+      "text": "... you know. The potential obvious, is obvious, you know, for it."
+    },
+    {
+      "start": 1305.2,
+      "end": 1309.02,
+      "text": "But one of the things that, you know, we look at with the, um, with"
+    },
+    {
+      "start": 1309.12,
+      "end": 1313.02,
+      "text": "Taua and how it feeds into the child poverty stats is"
+    },
+    {
+      "start": 1313.06,
+      "end": 1315.22,
+      "text": "all, um, because it's data-driven,"
+    },
+    {
+      "start": 1316.14,
+      "end": 1319.08,
+      "text": "um, we, can we not get to a point"
+    },
+    {
+      "start": 1319.82,
+      "end": 1323.19,
+      "text": "where, um, we actually can measure the outcomes of that?"
+    },
+    {
+      "start": 1323.28,
+      "end": 1326.88,
+      "text": "C- we can measure income levels, but, uh, that actually the"
+    },
+    {
+      "start": 1326.96,
+      "end": 1330.28,
+      "text": "outcome from that investment, if you like, is still"
+    },
+    {
+      "start": 1330.36,
+      "end": 1334.3,
+      "text": "unknown in the real, in real time. So can, can you"
+    },
+    {
+      "start": 1334.36,
+      "end": 1337.9,
+      "text": "see a point or is there a way to get to that as a"
+    },
+    {
+      "start": 1337.94,
+      "end": 1339.58,
+      "text": "destination?"
+    },
+    {
+      "start": 1339.68,
+      "end": 1342.82,
+      "text": "Um, maybe I should just ask you a few clarifying (laughs) questions."
+    },
+    {
+      "start": 1342.86,
+      "end": 1346.74,
+      "text": "So, uh, do, do you mean, uh, so we"
+    },
+    {
+      "start": 1346.82,
+      "end": 1350.8,
+      "text": "can model the, um, increase in a, the income that a child has,"
+    },
+    {
+      "start": 1350.84,
+      "end": 1354.2,
+      "text": "can we then track that through to a longer term outcome?"
+    },
+    {
+      "start": 1354.26,
+      "end": 1355.22,
+      "text": "Yes. Yes, exactly."
+    },
+    {
+      "start": 1355.3,
+      "end": 1358.72,
+      "text": "Yeah, so I, I guess that's when you, well, that's when you'd start leaning more on"
+    },
+    {
+      "start": 1358.76,
+      "end": 1362.3,
+      "text": "the, the IDI. Um, and that's why it's quite useful that Taua is in the"
+    },
+    {
+      "start": 1362.38,
+      "end": 1363.06,
+      "text": "IDI, right?"
+    },
+    {
+      "start": 1363.07,
+      "end": 1366.18,
+      "text": "Yeah. 'Cause it's using the same data and it's all linked, um."
+    },
+    {
+      "start": 1366.2,
+      "end": 1369.97,
+      "text": "So, so yes, that's possible. I, I think that that's m-"
+    },
+    {
+      "start": 1369.97,
+      "end": 1370.7,
+      "text": "more, uh,"
+    },
+    {
+      "start": 1371.68,
+      "end": 1374.11,
+      "text": "leaning into some of MSD and SIA's-"
+    },
+    {
+      "start": 1374.11,
+      "end": 1374.65,
+      "text": "Yes, of course, yeah."
+    },
+    {
+      "start": 1374.65,
+      "end": 1378.29,
+      "text": "... uh, work programs, but we, we work, you know, very closely-"
+    },
+    {
+      "start": 1378.36,
+      "end": 1379.85,
+      "text": "... across the systems, yeah. Um,"
+    },
+    {
+      "start": 1381.04,
+      "end": 1384.99,
+      "text": "Treasury, uh, our system agency and central,"
+    },
+    {
+      "start": 1385.1,
+      "end": 1388.86,
+      "text": "um, central agency. So we kind of have to look at the big picture a lot."
+    },
+    {
+      "start": 1388.88,
+      "end": 1389.24,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1389.3,
+      "end": 1393.12,
+      "text": "Um, but we help to support this, the other agencies when they need to go into the"
+    },
+    {
+      "start": 1393.16,
+      "end": 1396.74,
+      "text": "details. Um, but it's, it's definitely possible, but I think"
+    },
+    {
+      "start": 1397.1,
+      "end": 1400.78,
+      "text": "what you'd need to think about is, uh, what, what is the outcome you wanna track"
+    },
+    {
+      "start": 1400.88,
+      "end": 1401.89,
+      "text": "and do we have the-"
+    },
+    {
+      "start": 1401.9,
+      "end": 1402.84,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1402.85,
+      "end": 1406.68,
+      "text": "... admin data or the survey data in the IDI to track that?"
+    },
+    {
+      "start": 1406.72,
+      "end": 1406.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 1406.86,
+      "end": 1407.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 1407.17,
+      "end": 1407.28,
+      "text": "(laughs)"
+    },
+    {
+      "start": 1407.3,
+      "end": 1410.57,
+      "text": "Just 'cause, um, be- because at the moment, I think that you, you, we can"
+    },
+    {
+      "start": 1410.64,
+      "end": 1413.3,
+      "text": "make, you know, tax and welfare policy-"
+    },
+    {
+      "start": 1413.31,
+      "end": 1414.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1414.69,
+      "end": 1416.9,
+      "text": "... changes. But the outcome is an assumption-"
+    },
+    {
+      "start": 1416.94,
+      "end": 1417.51,
+      "text": "Yeah."
+    },
+    {
+      "start": 1417.51,
+      "end": 1418.38,
+      "text": "... because of that."
+    },
+    {
+      "start": 1418.39,
+      "end": 1420.78,
+      "text": "Yeah. It doesn't have real data to back it up."
+    },
+    {
+      "start": 1420.9,
+      "end": 1421.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 1421.1,
+      "end": 1425.02,
+      "text": "And I think to Marie Mino's point too, that information, some of it's probably"
+    },
+    {
+      "start": 1425.08,
+      "end": 1427.65,
+      "text": "out there, but we just don't know what it is."
+    },
+    {
+      "start": 1428.04,
+      "end": 1428.07,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1428.16,
+      "end": 1431.34,
+      "text": "I think the other thing there is some of those outcomes might take quite a few"
+    },
+    {
+      "start": 1431.4,
+      "end": 1432.37,
+      "text": "years to realize."
+    },
+    {
+      "start": 1432.37,
+      "end": 1432.43,
+      "text": "Yes, yes."
+    },
+    {
+      "start": 1432.43,
+      "end": 1436.22,
+      "text": "So you do need to have sort of a sustained investment in understanding how that has"
+    },
+    {
+      "start": 1436.28,
+      "end": 1437.45,
+      "text": "tracked over time as well."
+    },
+    {
+      "start": 1437.48,
+      "end": 1438.24,
+      "text": "Good pitch. (laughs)"
+    },
+    {
+      "start": 1438.26,
+      "end": 1439.41,
+      "text": "Yeah. (laughs)"
+    },
+    {
+      "start": 1439.42,
+      "end": 1439.58,
+      "text": "(laughs)"
+    },
+    {
+      "start": 1439.6,
+      "end": 1442.79,
+      "text": "And, and I might, I might, uh, make a question as a supplementary on, on that,"
+    },
+    {
+      "start": 1442.79,
+      "end": 1443.43,
+      "text": "on that one."
+    },
+    {
+      "start": 1443.51,
+      "end": 1445.77,
+      "text": "(laughs) Um, 'cause one of, one of the, uh, submissions we heard, I think it might have been"
+    },
+    {
+      "start": 1445.94,
+      "end": 1449.9,
+      "text": "MSD, um, they mentioned, what was it, one of the agencies anyway,"
+    },
+    {
+      "start": 1449.94,
+      "end": 1453.86,
+      "text": "they, they mentioned that they would like to have more access to Taua"
+    },
+    {
+      "start": 1453.96,
+      "end": 1456.36,
+      "text": "modeling, um, but there were some constraints on it."
+    },
+    {
+      "start": 1456.4,
+      "end": 1458.87,
+      "text": "So I'm just, just wondering if you could just give us a bit of an over- overview of"
+    },
+    {
+      "start": 1458.9,
+      "end": 1461.39,
+      "text": "what the constraints are?"
+    },
+    {
+      "start": 1461.5,
+      "end": 1464.82,
+      "text": "Um-I think it was MSD, so..."
+    },
+    {
+      "start": 1464.82,
+      "end": 1465.23,
+      "text": "(laughs)"
+    },
+    {
+      "start": 1465.29,
+      "end": 1466.13,
+      "text": "Um, they, um,"
+    },
+    {
+      "start": 1467.03,
+      "end": 1469.87,
+      "text": "they... I think the constraints are really resource constraints."
+    },
+    {
+      "start": 1469.93,
+      "end": 1473.5,
+      "text": "It, it's not a constraint, a technical constraint that, you know, people..."
+    },
+    {
+      "start": 1473.53,
+      "end": 1476.83,
+      "text": "We will give access to whoever we think needs it."
+    },
+    {
+      "start": 1476.91,
+      "end": 1480.67,
+      "text": "Um, it's just like I said, it does take a while to become an"
+    },
+    {
+      "start": 1480.75,
+      "end": 1484.33,
+      "text": "expert in using the model, and using it incorrectly is going to give you"
+    },
+    {
+      "start": 1484.41,
+      "end": 1485.37,
+      "text": "misleading results."
+    },
+    {
+      "start": 1485.39,
+      "end": 1485.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 1485.46,
+      "end": 1486.05,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1486.11,
+      "end": 1489.77,
+      "text": "Um, I, I think that's, that's the constraint from Treasury's"
+    },
+    {
+      "start": 1489.83,
+      "end": 1493.67,
+      "text": "perspective because TAWA does cover this really wide range of government"
+    },
+    {
+      "start": 1493.79,
+      "end": 1497.61,
+      "text": "priorities. We can never answer all of the questions that come to"
+    },
+    {
+      "start": 1497.65,
+      "end": 1501.11,
+      "text": "one team. Um, we have to... We have to"
+    },
+    {
+      "start": 1501.15,
+      "end": 1504.67,
+      "text": "prioritize them, and we work closely with our policy colleagues who then work with"
+    },
+    {
+      "start": 1504.71,
+      "end": 1508.69,
+      "text": "other agencies and ministers to work out what- what's the highest priority thing"
+    },
+    {
+      "start": 1508.73,
+      "end": 1511.88,
+      "text": "for us to work on. Um, and, and then, um..."
+    },
+    {
+      "start": 1511.91,
+      "end": 1515.57,
+      "text": "And that's why we've been trying to make TAWA more accessible so that it's not just"
+    },
+    {
+      "start": 1515.61,
+      "end": 1518.56,
+      "text": "on one team, so that's another teams. Uh, we've..."
+    },
+    {
+      "start": 1518.59,
+      "end": 1522.07,
+      "text": "It's been successful with, um, HUD and the Retirement"
+    },
+    {
+      "start": 1522.15,
+      "end": 1522.64,
+      "text": "Commission."
+    },
+    {
+      "start": 1522.65,
+      "end": 1526.64,
+      "text": "They're starting to do their own modeling. It requires some sup-..."
+    },
+    {
+      "start": 1526.69,
+      "end": 1529.97,
+      "text": "It's not just access, it's support from us on how to learn how to use it,"
+    },
+    {
+      "start": 1530.03,
+      "end": 1532.94,
+      "text": "but, uh, we're happy to do that, and we have."
+    },
+    {
+      "start": 1532.97,
+      "end": 1536.96,
+      "text": "But, uh, in general, it's a resourcing constraint, and, um,"
+    },
+    {
+      "start": 1537.89,
+      "end": 1541.73,
+      "text": "it is a, you know, a particular sort of academic skill set that you're coming"
+    },
+    {
+      "start": 1541.77,
+      "end": 1545.71,
+      "text": "with as well. You, you need to be comfortable using data and, and code"
+    },
+    {
+      "start": 1545.75,
+      "end": 1548.86,
+      "text": "and, and modeling, but there are plenty of people there"
+    },
+    {
+      "start": 1548.97,
+      "end": 1550.89,
+      "text": "(laughs) who'll help."
+    },
+    {
+      "start": 1550.93,
+      "end": 1554.79,
+      "text": "And, and sort of, um, what, what's the likely trajectory for someone"
+    },
+    {
+      "start": 1554.81,
+      "end": 1557.92,
+      "text": "who could become skilled in this? Like, what, what skill... What..."
+    },
+    {
+      "start": 1557.93,
+      "end": 1558.86,
+      "text": "How many years of training will they"
+    },
+    {
+      "start": 1559.83,
+      "end": 1563.05,
+      "text": "need to have as a base, and then how much more training will they need to"
+    },
+    {
+      "start": 1563.09,
+      "end": 1565.91,
+      "text": "become a, a proficient user of this?"
+    },
+    {
+      "start": 1566.03,
+      "end": 1569.69,
+      "text": "Uh, I, I mean, someone coming i- in as a graduate, they would"
+    },
+    {
+      "start": 1569.79,
+      "end": 1573.61,
+      "text": "usually have up to a, a master's level in some"
+    },
+    {
+      "start": 1573.65,
+      "end": 1576.45,
+      "text": "quantitative discipline that involves a lot of coding."
+    },
+    {
+      "start": 1576.53,
+      "end": 1580.28,
+      "text": "Uh, so there's a wide range of academic disciplines that will cover"
+    },
+    {
+      "start": 1580.33,
+      "end": 1583.65,
+      "text": "that, um, that's if they come in at a graduate level."
+    },
+    {
+      "start": 1583.69,
+      "end": 1587.53,
+      "text": "Someone like that would probably take about six months to come"
+    },
+    {
+      "start": 1587.55,
+      "end": 1591.37,
+      "text": "up to be able to confidently use TAWA for some of the"
+    },
+    {
+      "start": 1591.41,
+      "end": 1595.11,
+      "text": "more basic things. Um, and then, uh, a real"
+    },
+    {
+      "start": 1595.63,
+      "end": 1598.44,
+      "text": "expert user... I mean, I've, I've been..."
+    },
+    {
+      "start": 1598.45,
+      "end": 1602.16,
+      "text": "Before managing, I was working this model, and I was, uh..."
+    },
+    {
+      "start": 1602.17,
+      "end": 1603.69,
+      "text": "I have worked on this for nine years."
+    },
+    {
+      "start": 1603.73,
+      "end": 1606.99,
+      "text": "I think Luke has worked here for five or seven."
+    },
+    {
+      "start": 1607.71,
+      "end": 1611.53,
+      "text": "Um, so that's the length of time if you want deep expertise, but"
+    },
+    {
+      "start": 1611.59,
+      "end": 1612.41,
+      "text": "obviously, you've got"
+    },
+    {
+      "start": 1613.35,
+      "end": 1615.31,
+      "text": "bits in between there, yeah."
+    },
+    {
+      "start": 1615.35,
+      "end": 1617.06,
+      "text": "Could, could you give us just a sort of..."
+    },
+    {
+      "start": 1617.09,
+      "end": 1621.01,
+      "text": "A, a high level synopsis of some of the real value you see in"
+    },
+    {
+      "start": 1621.05,
+      "end": 1624.99,
+      "text": "this tool going forwards?"
+    },
+    {
+      "start": 1625.13,
+      "end": 1625.58,
+      "text": "Um..."
+    },
+    {
+      "start": 1625.91,
+      "end": 1626.44,
+      "text": "Um, do-"
+    },
+    {
+      "start": 1626.44,
+      "end": 1630.14,
+      "text": "(laughs) (laughs) Beyond what you've already... Um, just sort of what are some..."
+    },
+    {
+      "start": 1630.15,
+      "end": 1633.98,
+      "text": "What are some surprising things that, say, the, the, the, um,"
+    },
+    {
+      "start": 1634.09,
+      "end": 1638.01,
+      "text": "committee or the average person or even a chief executive would not be aware"
+    },
+    {
+      "start": 1638.05,
+      "end": 1640.35,
+      "text": "is possible using this tool?"
+    },
+    {
+      "start": 1640.45,
+      "end": 1640.83,
+      "text": "Um,"
+    },
+    {
+      "start": 1642.79,
+      "end": 1646.75,
+      "text": "uh, so maybe I'll think about some of the more recent work we've been doing, which"
+    },
+    {
+      "start": 1646.79,
+      "end": 1648.39,
+      "text": "is on that really long term,"
+    },
+    {
+      "start": 1649.19,
+      "end": 1651.83,
+      "text": "um, fiscal challenge of an aging population."
+    },
+    {
+      "start": 1651.87,
+      "end": 1655.2,
+      "text": "So, we've been doing a lot of work with TAWA to say..."
+    },
+    {
+      "start": 1655.27,
+      "end": 1658.93,
+      "text": "Um, you know, you look at these big macroeconomic models, and they'll tell you the"
+    },
+    {
+      "start": 1658.95,
+      "end": 1662.93,
+      "text": "high level picture of what's happening to average people, but that's not"
+    },
+    {
+      "start": 1662.99,
+      "end": 1666.79,
+      "text": "really enough information if you, um, you, you want to get into"
+    },
+    {
+      "start": 1666.83,
+      "end": 1670.75,
+      "text": "policy development. So, a tool like TAWA lets you get into the real detailed"
+    },
+    {
+      "start": 1670.85,
+      "end": 1674.55,
+      "text": "information of who, who New Zealanders are, how they"
+    },
+    {
+      "start": 1674.71,
+      "end": 1676.97,
+      "text": "have different trajectories into,"
+    },
+    {
+      "start": 1677.05,
+      "end": 1680.95,
+      "text": "um, into retirement and how the tax"
+    },
+    {
+      "start": 1680.97,
+      "end": 1684.85,
+      "text": "and transfer system, retirement incomes policy, even sort"
+    },
+    {
+      "start": 1684.89,
+      "end": 1688.77,
+      "text": "of we can start to incorporate savings policy into that, how that all,"
+    },
+    {
+      "start": 1688.87,
+      "end": 1692.75,
+      "text": "uh, needs to work together to, to sort of help all"
+    },
+    {
+      "start": 1692.79,
+      "end": 1695.23,
+      "text": "New Zealanders and not just an average New Zealander."
+    },
+    {
+      "start": 1695.27,
+      "end": 1699.09,
+      "text": "So, so TAWA is the tool that allows you to think through those questions"
+    },
+    {
+      "start": 1699.19,
+      "end": 1702.87,
+      "text": "rather than just at a really high fiscal level."
+    },
+    {
+      "start": 1702.97,
+      "end": 1706.61,
+      "text": "Um..."
+    },
+    {
+      "start": 1706.75,
+      "end": 1709.99,
+      "text": "Uh, there's... Yeah, I, I guess I kind of... (laughs) I don't know where to start."
+    },
+    {
+      "start": 1710.01,
+      "end": 1710.76,
+      "text": "There's so much."
+    },
+    {
+      "start": 1710.76,
+      "end": 1712.26,
+      "text": "(laughs) And I think one of the... One of the more..."
+    },
+    {
+      "start": 1712.27,
+      "end": 1715.61,
+      "text": "One of the recent things that we've been doing also, I think this is with TAWA, is"
+    },
+    {
+      "start": 1715.65,
+      "end": 1717.32,
+      "text": "kind of looking at effective marginal tax rates-"
+    },
+    {
+      "start": 1717.37,
+      "end": 1717.65,
+      "text": "Right."
+    },
+    {
+      "start": 1717.66,
+      "end": 1721.13,
+      "text": "... and those sorts of things around incentives to work and just really interesting"
+    },
+    {
+      "start": 1721.17,
+      "end": 1724.65,
+      "text": "things that were in a Policy Quarterly article that looks at the relatively high,"
+    },
+    {
+      "start": 1724.75,
+      "end": 1728.7,
+      "text": "um, labor force participation of older workers in New Zealand as well and what"
+    },
+    {
+      "start": 1728.71,
+      "end": 1732.12,
+      "text": "might be driving that. Um, so I think there's some really interesting analysis that"
+    },
+    {
+      "start": 1732.13,
+      "end": 1734.62,
+      "text": "can happen in that space as well too."
+    },
+    {
+      "start": 1734.69,
+      "end": 1736.87,
+      "text": "I think part of this is that, uh, you..."
+    },
+    {
+      "start": 1736.88,
+      "end": 1739.75,
+      "text": "We, we need our modelers working with our policy teams, which they do really"
+    },
+    {
+      "start": 1739.76,
+      "end": 1743.57,
+      "text": "actively to understand what are some of the policy questions that TAWA can help you"
+    },
+    {
+      "start": 1743.63,
+      "end": 1747.55,
+      "text": "address as well too, and that is why, you know, part of the change process"
+    },
+    {
+      "start": 1747.59,
+      "end": 1750.73,
+      "text": "that we've been going through in Treasury is we have brought our analytics,"
+    },
+    {
+      "start": 1750.77,
+      "end": 1754.55,
+      "text": "insights and modeling team into a central team in Treasury so that we can have"
+    },
+    {
+      "start": 1754.63,
+      "end": 1757.87,
+      "text": "that, that wider integration as, as well too."
+    },
+    {
+      "start": 1757.88,
+      "end": 1760.99,
+      "text": "And I think the other exciting development is just if we can improve the"
+    },
+    {
+      "start": 1761.03,
+      "end": 1764.97,
+      "text": "accessibility of this through synthetic data and those sorts of things as"
+    },
+    {
+      "start": 1765.03,
+      "end": 1767.95,
+      "text": "well too. That is, that is something we're, we're very keen to be able to"
+    },
+    {
+      "start": 1767.97,
+      "end": 1769.19,
+      "text": "do."
+    },
+    {
+      "start": 1769.25,
+      "end": 1770.17,
+      "text": "Awesome. Well, thank you very much."
+    },
+    {
+      "start": 1770.21,
+      "end": 1772.28,
+      "text": "I think I would love to ask you more questions, and it's fascinating."
+    },
+    {
+      "start": 1772.28,
+      "end": 1772.38,
+      "text": "(laughs)"
+    },
+    {
+      "start": 1772.38,
+      "end": 1775.02,
+      "text": "I love data, and data, data is, um..."
+    },
+    {
+      "start": 1775.03,
+      "end": 1777.52,
+      "text": "It determines so many things, and it, it made good data."
+    },
+    {
+      "start": 1777.53,
+      "end": 1778.97,
+      "text": "So, look, thanks for the work you're doing."
+    },
+    {
+      "start": 1778.99,
+      "end": 1780.95,
+      "text": "Thanks for briefing the committee this afternoon. Appreciate it."
+    },
+    {
+      "start": 1780.99,
+      "end": 1781.28,
+      "text": "Thank you."
+    },
+    {
+      "start": 1781.28,
+      "end": 1782.27,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 1782.33,
+      "end": 1783.07,
+      "text": "Thank you."
+    },
+    {
+      "start": 1783.09,
+      "end": 1783.71,
+      "text": "Thank you."
+    },
+    {
+      "start": 1783.73,
+      "end": 1787.59,
+      "text": "Thanks."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_10 - SSC - vimeo_1142822754\\2025_12_10 - SSC - vimeo_1142822754.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142822754",
+    "display_id": "1142822754",
+    "title": "2025/12/10 - SSC",
+    "description": "Wednesday 10 December | Social Services and Community Committee\nReport of the Controller and Auditor-General, Effectiveness of arrangements for reducing child poverty\nHearing of evidence: \nThe Treasury\nDr Meghan Stephens, Manager, Analytics, Insights, and Modelling\nKerryn Fowlie, Assistant Secretary, Economic Strategy\nLuke Symes, Senior Modelling Analyst",
+    "webpage_url": "https://vimeo.com/1142822754",
+    "original_url": "https://vimeo.com/1142822754",
+    "upload_date": "20251210",
+    "timestamp": 1765328249,
+    "release_timestamp": 1765328258,
+    "duration": 1788,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2094329561-1a24dbdf7f4dacf9c17170c1637d0973e1030308c0f6a1bd3696527813edb795-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271064154.vtt?expires=1778590459&sig=b78f4d7a8fd683ce78dd7af8d06f205ac72bb440&download=auto_generated_captions.vtt"
+  }
+}

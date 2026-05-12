@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:20.874307+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1160876354",
+  "title": "2026/02/02 - TI (Part 2 of 3)",
+  "url": "https://vimeo.com/1160876354",
+  "published_at": "20260202",
+  "published_display": "2026-02-02",
+  "duration_seconds": 1439,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1259.12,
+    "segment_count": 486,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_02 - TI (Part 2 of 3) - vimeo_1160876354\\2026_02_02 - TI (Part 2 of 3) - vimeo_1160876354.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1160876354",
+    "display_id": "1160876354",
+    "title": "2026/02/02 - TI (Part 2 of 3)",
+    "description": "2 February 2026 | Transport and Infrastructure Committee\nLand Transport (Revenue) Amendment Bill\nFinancial Services Federation\n\nLynn McMorran\n\nThe New Zealand Taxpayers' Union\n\nJames Ross, Head of Policy and Legislative Affairs\nRay Deacon, Economist\nAustin Ellingham-Banks, Researcher",
+    "webpage_url": "https://vimeo.com/1160876354",
+    "original_url": "https://vimeo.com/1160876354",
+    "upload_date": "20260202",
+    "timestamp": 1769995760,
+    "release_timestamp": 1769995767,
+    "duration": 1439,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2116630036-68e2d388917aabd9f5fe4ec6661510cb58c99b5bef2720e914dbf541fdb786e0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/280405584.vtt?expires=1778590225&sig=e5eefdaa62021be3e04c3209cbeaa9b3886296c6&download=auto_generated_captions.vtt"
+  }
+}

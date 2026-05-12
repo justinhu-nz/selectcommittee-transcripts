@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:04:30.174929+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1102021012",
+  "title": "2025/08/21 - PP",
+  "url": "https://vimeo.com/1102021012",
+  "published_at": "20250820",
+  "published_display": "2025-08-20",
+  "duration_seconds": 2211,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2195.78,
+    "segment_count": 785,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_21 - PP - vimeo_1102021012\\2025_08_21 - PP - vimeo_1102021012.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1102021012",
+    "display_id": "1102021012",
+    "title": "2025/08/21 - PP",
+    "description": "Thursday 21 August 2025 | Primary Production Committee\n\nBriefing on new agricultural compounds\n\nHearing of Evidence\n\nMinrock Mineralisation Ltd\n- Owen Jennings\n- John Third",
+    "webpage_url": "https://vimeo.com/1102021012",
+    "original_url": "https://vimeo.com/1102021012",
+    "upload_date": "20250820",
+    "timestamp": 1755726199,
+    "release_timestamp": 1755726208,
+    "duration": 2211,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049900032-78f77305c0504a23a5331cb99de597698544ad32cc6b2b88bbe7aee7b195870c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249010554.vtt?expires=1778591075&sig=f3475305a0b0028399c0fcac37c56db7d0f94db3&download=auto_generated_captions.vtt"
+  }
+}

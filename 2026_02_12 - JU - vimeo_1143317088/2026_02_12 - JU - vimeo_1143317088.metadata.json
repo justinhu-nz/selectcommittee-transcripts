@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:09:36.620907+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143317088",
+  "title": "2026/02/12 - JU",
+  "url": "https://vimeo.com/1143317088",
+  "published_at": "20260212",
+  "published_display": "2026-02-12",
+  "duration_seconds": 2794,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2710.97,
+    "segment_count": 921,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_12 - JU - vimeo_1143317088\\2026_02_12 - JU - vimeo_1143317088.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143317088",
+    "display_id": "1143317088",
+    "title": "2026/02/12 - JU",
+    "description": "Thursday 12 February 2026 | Justice Committee\n\nNotice of declarations of inconsistency: Public Protection Orders under the Public Safety (Public Protection Orders) Act 2014 and Extended Supervision Orders under the Parole Act 2002\n\nSubmitter:\n\nLaw Commission\n\nClaudia Geiringer, Commissioner\nThomas Buocz, Senior Legal and Policy Adviser\n\nDean Knight\nThe Law Association New Zealand\n\nMarie Dyhrberg KC\n\nNew Zealand Law Society\n\nChris Macklin, Criminal Law Committee convener\nMonique van Alphen Fyfe, Human Rights and Privacy Committee member",
+    "webpage_url": "https://vimeo.com/1143317088",
+    "original_url": "https://vimeo.com/1143317088",
+    "upload_date": "20260212",
+    "timestamp": 1770857687,
+    "release_timestamp": 1770857697,
+    "duration": 2794,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2124191854-c2272dd3c704cf9f6366c5177c65c8f1abbca207a36e985234939eac60b3ce40-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282294812.vtt?expires=1778591381&sig=a776c5c4da315d63eb7ca57fb0ca9f1d70755b77&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:56:22.264616+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133605439",
+  "title": "2025/11/05 - SSC (Part 2)",
+  "url": "https://vimeo.com/1133605439",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 396,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 395.68,
+    "segment_count": 143,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_05 - SSC (Part 2) - vimeo_1133605439\\2025_11_05 - SSC (Part 2) - vimeo_1133605439.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133605439",
+    "display_id": "1133605439",
+    "title": "2025/11/05 - SSC (Part 2)",
+    "description": "Wednesday, 5 November 2025 | Social Services and Community Committee\n\nCarter Trust Amendment Bill \n\nHearing of evidence: \nCarter Society \n Sharon Parker, Chair",
+    "webpage_url": "https://vimeo.com/1133605439",
+    "original_url": "https://vimeo.com/1133605439",
+    "upload_date": "20251105",
+    "timestamp": 1762302068,
+    "release_timestamp": 1762302075,
+    "duration": 396,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078348967-08060b7a87c6619aaf5888ef90b120f3ea13b72195d671ce60f910fd14128cf3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263119253.vtt?expires=1778590587&sig=34ee110452461e9a89032d046c449a101346368a&download=auto_generated_captions.vtt"
+  }
+}

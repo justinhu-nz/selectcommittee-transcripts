@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:26.914952+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138657607",
+  "title": "2025/12/01 PP (Part 1)",
+  "url": "https://vimeo.com/1138657607",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 3714,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3709.39,
+    "segment_count": 1513,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 PP (Part 1) - vimeo_1138657607\\2025_12_01 PP (Part 1) - vimeo_1138657607.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138657607",
+    "display_id": "1138657607",
+    "title": "2025/12/01 PP (Part 1)",
+    "description": "Monday 1 December | Primary Production Committee \n2024/25 Annual review of Landcorp Farming Limited (P\u0101mu Farms)\nLandcorp Farming Limited\nJohn Rae, Chair\nMark Leslie, Chief Executive Officer\nWill Burrett, Chief Operating Officer\nAndrew Sliper, Chief Investment Officer",
+    "webpage_url": "https://vimeo.com/1138657607",
+    "original_url": "https://vimeo.com/1138657607",
+    "upload_date": "20251201",
+    "timestamp": 1764556129,
+    "release_timestamp": 1764556137,
+    "duration": 3714,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089508836-9677874328a57a99fcfab9bb8fa729a39fe02e7b948aabc5b91fc4dd1dfc13a4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268593291.vtt?expires=1778590771&sig=f5dab206c6a9c2706c9f6a4c7a4396669557f38e&download=auto_generated_captions.vtt"
+  }
+}

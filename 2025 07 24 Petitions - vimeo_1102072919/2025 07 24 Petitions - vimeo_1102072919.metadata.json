@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:47:03.437327+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1102072919",
+  "title": "2025 07 24 Petitions",
+  "url": "https://vimeo.com/1102072919",
+  "published_at": "20250724",
+  "published_display": "2025-07-24",
+  "duration_seconds": 1650,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1649.24,
+    "segment_count": 631,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 24 Petitions - vimeo_1102072919\\2025 07 24 Petitions - vimeo_1102072919.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1102072919",
+    "display_id": "1102072919",
+    "title": "2025 07 24 Petitions",
+    "description": "Thursday, 24 July 2025 | Petitions Committee\n\nPetition of Sam Fisher: Inquiry into threats and violence against women MPs and local authority reps\nSam Fisher\nParliamentary Service\nRafael Gonzalez-Montero, Chief Executive\nBridget Wilson, Security Manager - Systems & Enablement\nDr Justin Barry-Walsh",
+    "webpage_url": "https://vimeo.com/1102072919",
+    "original_url": "https://vimeo.com/1102072919",
+    "upload_date": "20250724",
+    "timestamp": 1753329447,
+    "release_timestamp": 1753329453,
+    "duration": 1650,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2040487218-b28d0eda731d99d7e3b38d6c452f1659dbfd605d5ed0d4ce84f8aaa1063c7bd7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/243912205.vtt?expires=1778590028&sig=330eb1d31c6c146c413dee1e9efc352ff27f3be4&download=auto_generated_captions.vtt"
+  }
+}

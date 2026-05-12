@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:56:49.537565+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109486877",
+  "title": "2025/09/10 - SSC",
+  "url": "https://vimeo.com/1109486877",
+  "published_at": "20250909",
+  "published_display": "2025-09-09",
+  "duration_seconds": 3643,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3626.49,
+    "segment_count": 1356,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - SSC - vimeo_1109486877\\2025_09_10 - SSC - vimeo_1109486877.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109486877",
+    "display_id": "1109486877",
+    "title": "2025/09/10 - SSC",
+    "description": "Wednesday, 10 September 2025 | Social Services and Community Committee\n\nReport of the Controller and Auditor-General, Oranga Tamariki: Inquiry into procurement and contract management\n\nHearing of Evidence\n\nIndependent Children's Monitor\u2013Aroturuki Tamariki\n- Arran Jones, Chief Executive\nMana Mokopuna\u2013Children's Commissioner\n- Dr Claire Achmad, Children\u2019s Commissioner",
+    "webpage_url": "https://vimeo.com/1109486877",
+    "original_url": "https://vimeo.com/1109486877",
+    "upload_date": "20250909",
+    "timestamp": 1757455724,
+    "release_timestamp": 1757455732,
+    "duration": 3643,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057175169-7f68966fbf1157a77136d322e29b10af7adf8255607d8c5feb45c12df6b64c6d-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252585055.vtt?expires=1778590614&sig=a56dd6bf24651d713d0055fe0b418a2fd9491c70&download=auto_generated_captions.vtt"
+  }
+}

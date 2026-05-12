@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:13.643263+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1010418867",
+  "title": "2024/10/23 - MA",
+  "url": "https://vimeo.com/1010418867",
+  "published_at": "20241022",
+  "published_display": "2024-10-22",
+  "duration_seconds": 2788,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2785.53,
+    "segment_count": 892,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_10_23 - MA - vimeo_1010418867\\2024_10_23 - MA - vimeo_1010418867.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1010418867",
+    "display_id": "1010418867",
+    "title": "2024/10/23 - MA",
+    "description": "Wednesday 23 October 2024 | M\u0101ori Affairs Committee\n\nBriefing on the M\u0101ori Trustee\n\nHearings of evidence\n\nList of Submitters:\nTe Tumu Paeroa\n           Dr Charlotte Severne, M\u0101ori Trustee\n           Greg Shaw, Deputy M\u0101ori Trustee and General Counsel\n           Martin Eadie, Corporate Services Director",
+    "webpage_url": "https://vimeo.com/1010418867",
+    "original_url": "https://vimeo.com/1010418867",
+    "upload_date": "20241022",
+    "timestamp": 1729631420,
+    "release_timestamp": 1729631491,
+    "duration": 2788,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1927775742-2bd122665c8d1d2f80b9c1d1b3322d02d3e0cd1b6331deed076b021662b28443-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/191820059.vtt?expires=1778591298&sig=c27320b6601148d68d91d7063a0eb568aaeee473&download=auto_generated_captions.vtt"
+  }
+}

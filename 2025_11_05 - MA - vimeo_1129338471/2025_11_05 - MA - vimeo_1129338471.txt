@@ -1,0 +1,678 @@
+Title: 2025/11/05 - MA
+URL: https://vimeo.com/1129338471
+Published: 2025-11-04
+Duration: 00:30:05
+
+[00:00:00] Uh, good morning everybody.
+[00:00:01] Uh, we now move, um, to a hearing
+[00:00:05] of evidence with, um, statistics New Zealand.
+[00:00:09] Uh, so essentially this is under the, um, umbrella of our
+[00:00:14] briefing on accountability settings for outcomes for Maori.
+[00:00:17] And what we've been doing over the course of, um,
+[00:00:20] some months is just, um, yeah, uh, having hearings
+[00:00:24] with different, uh, agencies, organizations with respect to,
+[00:00:29] um, public sector agencies being held
+[00:00:33] to account when it comes to outcomes, um, with Maori.
+[00:00:37] So we have you today for half an hour.
+[00:00:40] Um, I'd like to welcome general manager, Simon
+[00:00:43] and, uh, of data operations and infrastructure.
+[00:00:47] Anna McDowell, general Manager of Strategic Engage,
+[00:00:50] strategic Engagement, Maori Partnerships and Outcomes,
+[00:00:54] and Sean, general Manager
+[00:00:56] of Statistical Delivery Population and Housing.
+[00:00:59] Would you like to give us a bit of an intro
+[00:01:01] and then we can have a bit of a, um, question
+[00:01:05] and answer our time?
+[00:01:08] Absolutely. Um, so Koto and us to be here today.
+[00:01:11] Um, so as I understand it, we are here to sort
+[00:01:13] of provide an overview of critical data needed
+[00:01:15] for the census and social investments.
+[00:01:18] Um, so in my area of stats, um, we look
+[00:01:23] after the integrated data infrastructure, the IDI, um,
+[00:01:27] more than happy to give a brief overview of that, if
+[00:01:29] that's useful before talking about
+[00:01:31] data for social investments. Very
+[00:01:33] Brief just for PIN for balance
+[00:01:35] As well. So, integrated data
+[00:01:36] infrastructure is a research database
+[00:01:38] that holds de-identified information
+[00:01:40] about people and households.
+[00:01:41] Um, and access to it is within the Stats n Secure Data Lab,
+[00:01:47] um, how the data in the IO is used.
+[00:01:50] It's used for research analysis
+[00:01:51] and evaluation by government departments, NGOs, academics
+[00:01:55] and research service providers.
+[00:01:57] And that's to inform decision making by ministers,
+[00:02:00] by government departments, NGOs,
+[00:02:02] and their understanding of value in their clients
+[00:02:04] and their communities and by other data users
+[00:02:06] and the evidence they produce.
+[00:02:09] And in terms of, there's lots of data
+[00:02:11] that comes into the IDI,
+[00:02:12] it comes from government departments, it comes from NGOs,
+[00:02:14] and then it's integrated together
+[00:02:16] so you can understand the kind of, um, health outcomes of,
+[00:02:19] um, well anybody.
+[00:02:20] And you can understand, educate as you outcomes of people
+[00:02:23] who perhaps, um, have poor health outcomes.
+[00:02:25] So it's the, the power of it is in the data
+[00:02:27] that's brought together from all the different sectors.
+[00:02:29] And, you know, because of this data, um,
+[00:02:32] and the sensitivity of it, we have, um, a couple
+[00:02:35] of key frameworks that keep it safe.
+[00:02:36] One is five safe, which is really the
+[00:02:38] rules about using the data.
+[00:02:40] And the other one is ing, which is the sort
+[00:02:43] of our ethics approach to evaluating research applications.
+[00:02:47] Thank you. Um, in terms of the, the importance
+[00:02:51] of the IDI for social investment
+[00:02:53] and the critical data, there's really three types of data
+[00:02:56] that are critical for social investment.
+[00:02:58] So demographic data, the characteristics of people,
+[00:03:01] particularly people who are, um, at risk of poor outcomes
+[00:03:05] data to identify needs.
+[00:03:06] So outcomes for those who are most at risk
+[00:03:09] and what they're likely to experience, and therefore where
+[00:03:12] and when to intervene to avoid poor outcomes.
+[00:03:15] And then the data about those service outcomes.
+[00:03:17] So the quality and effectiveness of services
+[00:03:20] and the outcomes for people who use those services.
+[00:03:23] So currently the IDI is stronger since coverage
+[00:03:26] of demographic data and data to identify need.
+[00:03:30] There's quite a lot of crossover
+[00:03:31] between the administrative data that we bring into the IDI
+[00:03:34] for research and the data that's needed, uh,
+[00:03:37] for social investment and the
+[00:03:38] data that's needed for the census.
+[00:03:39] Um, but Sean will talk in a minute about the data for census
+[00:03:43] in terms of bringing data into the IDI
+[00:03:46] for social investments.
+[00:03:47] Um, one of the things we've identified rather than
+[00:03:50] necessarily lots of new data sets, um, it's been important
+[00:03:53] to identify existing data sets
+[00:03:56] that would be more useful if they were updated more
+[00:03:59] frequently or if we had more recent data.
+[00:04:01] And so that's certainly a focus
+[00:04:02] for stats in bringing that data in.
+[00:04:05] One of the biggest gaps we have at the moment is data
+[00:04:08] about service outcomes.
+[00:04:09] And 'cause of that we're working closely
+[00:04:11] with the social investment agency
+[00:04:13] and went to puny, uh, to bring in data from NGOs
+[00:04:18] and from AU Water program.
+[00:04:22] So integrating more data about service services delivered
+[00:04:26] by NGOs helps us understand what happens to those cohorts
+[00:04:29] of people and then tracking
+[00:04:31] their outcomes through the other data.
+[00:04:33] The I, um, a few months ago,
+[00:04:38] minister Willis announced the creation
+[00:04:39] of the social investment fund part of this year's budget.
+[00:04:41] Um, so the Social Investment Agency anticipate up
+[00:04:45] to 20 outcomes based contracts being signed
+[00:04:47] and stats is prioritizing integration of data,
+[00:04:50] following those contracts into the IDI.
+[00:04:53] Um, and we're also taking in data following the new
+[00:04:56] contracting approach for Funnel Water, um,
+[00:04:58] which is also aligned to the social investment model.
+[00:05:01] And so there are, I think 169 funnel water providers
+[00:05:05] for commissioning agencies,
+[00:05:06] and we've signed data sharing agreements to bring
+[00:05:08] that data into the IDI.
+[00:05:12] Sure. Thank you.
+[00:05:15] Morning Koto.
+[00:05:17] Um, I thought I'd just touch on the census,
+[00:05:19] the new census model briefly to sort of set the scene.
+[00:05:23] Uh, in June, 2025, uh,
+[00:05:25] following cabinet endorsement Minister of Statistics
+[00:05:28] and the government statistician announced the, uh, details
+[00:05:32] of how the New Zealand census of population
+[00:05:34] and dwellings would be conducted in the future.
+[00:05:37] Uh, and the new approach is built in three main components,
+[00:05:40] uh, first one being administrative or admin data.
+[00:05:44] Um, and that's in a way where census data
+[00:05:46] and statistics will be produced, prioritizing the use
+[00:05:49] of those data sources.
+[00:05:51] Um, it's effectively the foundation
+[00:05:54] of your new census model,
+[00:05:55] and it reduces the need for everyone in the TU
+[00:05:58] to fill out a survey on Census day.
+[00:06:01] Um, the second component is a new annual sample survey
+[00:06:05] census attribute survey
+[00:06:07] that helps verify the accuracy of admin data.
+[00:06:10] It also collects additional information
+[00:06:12] that is misrepresented underrepresented
+[00:06:15] or not available in admin data.
+[00:06:17] So there's some communities
+[00:06:18] that don't show up in those data sources
+[00:06:20] that you still need surveys.
+[00:06:22] Uh, for the third component is tailored solutions.
+[00:06:26] Uh, it's effectively stats nz working with Iwi Maori
+[00:06:30] and priority communities to develop solutions
+[00:06:33] to help meet their data needs and aspirations.
+[00:06:35] So there your three basic components.
+[00:06:38] Um, I guess more specifically,
+[00:06:40] admin data is already doing a lot of the heavy lifting.
+[00:06:43] Um, it provides in some cases better coverage than surveys.
+[00:06:48] And when it comes to counting the population, not describing
+[00:06:52] but counting the population,
+[00:06:54] it is the best tool we have, right?
+[00:06:56] It is better than your traditional model, um,
+[00:06:59] of a survey of everyone in the country.
+[00:07:02] Um, we already have strong admin data for, uh, I guess a lot
+[00:07:06] of key census topics.
+[00:07:08] So some examples might be, uh, age birthplace,
+[00:07:13] how long someone has been an T or New Zealand, uh,
+[00:07:16] and income, if you're thinking about tax records,
+[00:07:18] benefit data and other other sources.
+[00:07:22] Um, and we c we are confident that we can produce quality
+[00:07:25] statistics, uh, in those types of topics
+[00:07:26] and areas using the admin data first approach.
+[00:07:31] Um, I think when it comes to admin data,
+[00:07:33] it's not about relying on one single source.
+[00:07:36] Uh, you're integrating data from multiple sources, uh,
+[00:07:40] for different census variables.
+[00:07:41] So if you take something like ethnicity, uh,
+[00:07:44] people show up in more than one data set
+[00:07:47] and nearly everyone shows up somewhere.
+[00:07:50] And we use statistical techniques and rules to combine
+[00:07:53] or integrate those data sources
+[00:07:55] and choose the most reliable value
+[00:07:57] or values for each person.
+[00:07:59] 'cause you might identify
+[00:08:00] as more than one ethnicity, for example. Sorry
+[00:08:02] To interrupt you. Can you give
+[00:08:03] us a few examples of, um, those data sources?
+[00:08:07] You, you can have, um, so if you're thinking about income,
+[00:08:10] that could be your tax records from Inland Revenue, uh,
+[00:08:13] you could be thinking about, I guess your national health,
+[00:08:16] uh, index, um, data set from Ministry
+[00:08:19] of Health could be benefits data from Ministry
+[00:08:21] of Social Development.
+[00:08:23] Um, it could be enrollment data from the education sector.
+[00:08:27] It's quite, quite varied.
+[00:08:29] Um, and it's depending on different interactions with, uh,
+[00:08:33] public services over a lifetime.
+[00:08:36] Thank you. Um, we are actively, uh, improving the data
+[00:08:40] and we're exploring new admin data sources, uh, at present.
+[00:08:45] Um, the trick there though is
+[00:08:47] that it's a whole of government effort.
+[00:08:49] Uh, it's not something that Stats NZ can do, uh, alone.
+[00:08:53] Um, it requires a lot
+[00:08:54] of collaboration across
+[00:08:55] different agencies and Crown entities.
+[00:08:58] Uh, and in some cases you might need, uh,
+[00:09:00] I guess formal levers to help drive that work
+[00:09:03] and set clear expectations around, uh,
+[00:09:06] data standards and, and adoption.
+[00:09:09] Um, so we, I guess to that end, we've been working
+[00:09:11] with a core group of agencies to develop a list
+[00:09:15] of the most relevant and valuable data sources, uh,
+[00:09:18] for census variables.
+[00:09:21] And we're working towards, um,
+[00:09:24] developing an admin data supply plan effectively.
+[00:09:27] And that's setting out which variables need improvement
+[00:09:30] by way of their quality
+[00:09:32] and consistency of collection, uh,
+[00:09:35] where we might need new data supplies, uh,
+[00:09:38] and where that the plan also sets out which data sets which
+[00:09:43] variables and which agencies will supply them
+[00:09:46] and when the changes are needed
+[00:09:47] and the timeframes for delivering those improvements.
+[00:09:50] So they're not all gonna be instantaneous.
+[00:09:53] It's gonna be a gradual progression.
+[00:09:56] So the Minister of Statistics is intending to take that plan
+[00:09:59] to cabinet in early to mid 2026, um,
+[00:10:03] and it'll feature, uh, core census demographic variables.
+[00:10:07] And we haven't got all of the details nailed down yet.
+[00:10:11] You've got, I guess, live, um, you know, collaboration
+[00:10:14] and deliberations going on with different agencies,
+[00:10:17] but we expect to see things like usual residence address.
+[00:10:21] Um, so if you're thinking about that in the context
+[00:10:23] of university students
+[00:10:24] and still using their parents' home address, for example,
+[00:10:28] um, thinking about, uh, your most detailed ethnicity.
+[00:10:32] Um, so I guess, uh, think about that instead
+[00:10:36] of collecting it at a, say Pacific people's level at sort
+[00:10:40] of individual Pacific Island nation level, um, gender,
+[00:10:45] uh, and Maori descent as well.
+[00:10:48] I guess thinking about Maori descent, we are confident
+[00:10:51] that we can produce good quality statistics from admin data
+[00:10:55] sources on that topic,
+[00:10:57] but we know that there are gaps in coverage when you think
+[00:11:00] about Maori that are born overseas, in particular Australia,
+[00:11:04] and how you go about collecting that data, um,
+[00:11:06] through different mechanisms if it's a New Zealand traveler
+[00:11:08] decoration or other sources. I'll stop there.
+[00:11:13] Thank you. Uh, yes. Um, Gregory,
+[00:11:18] I would like To ask you Yeah, just can you just, um,
+[00:11:20] um, extrapolate on that last one a little bit,
+[00:11:21] just expand on, so we are looking to
+[00:11:26] include in the data set, um, people
+[00:11:29] who are not New Zealand residents,
+[00:11:33] So resident, they might,
+[00:11:36] they might not be New Zealand
+[00:11:37] residents at this point in time.
+[00:11:39] So they might be, uh, STR residents
+[00:11:42] and um, we need to understand if they are,
+[00:11:45] if they f**k up Papa Maori.
+[00:11:46] So you might look to collect that data as they come into Al
+[00:11:51] or New Zealand through the New Zealand Traveler declaration
+[00:11:54] and take up residence here.
+[00:11:56] So that's, that's a, that's a gap that we have.
+[00:11:58] Oh, I see. But we, so we're saying,
+[00:12:00] but we'd only start, we'd only include them in the
+[00:12:02] data set once they're actually
+[00:12:03] Resident in new, correct? Correct. Yes. Yeah.
+[00:12:05] Cool. So we know we've got really good coverage from,
+[00:12:07] let's say, when births are registered.
+[00:12:09] Yes. Um, and,
+[00:12:10] but we know there's a gap, um, for where we've got, um,
+[00:12:14] people of Mari descent who weren't born in New Zealand
+[00:12:16] but are residing in New Zealand.
+[00:12:17] Gotcha. Yeah. Okay, thanks.
+[00:12:19] So thank you Greg.
+[00:12:21] Um, so actually Anna, let's, um, segue to you, um,
+[00:12:25] give us a bit of an intro
+[00:12:26] and then we'll go into, um, deeper questions.
+[00:12:29] I was here more for questions, so yes,
+[00:12:31] there's absolutely nothing I need to add to that.
+[00:12:34] Um, just help out with questions
+[00:12:35] unless there is anything specific that you'd like
+[00:12:37] to know about other
+[00:12:38] collaborative approaches that we're taking.
+[00:12:40] Otherwise, happy just to, to,
+[00:12:42] um, work through your questions
+[00:12:43] And colleagues open to the floor.
+[00:12:45] Then Adrian,
+[00:12:46] Just on that topic, I just wanted to know, um, sort
+[00:12:51] of like what level of detail do you go to?
+[00:12:55] Do you get down into Hapu or just Iwi level?
+[00:13:01] So, um, iwi iwi affiliation, uh, in terms
+[00:13:05] of admin data collection is one variable
+[00:13:07] where we know we need to, um, do some work.
+[00:13:10] Uh, we need to work across, uh, government agencies
+[00:13:14] and entities and also particularly with, uh,
+[00:13:16] our I and Maori partners.
+[00:13:18] Um, and, and so that's one area where we are now gonna have
+[00:13:21] to come up with a plan, uh, for how we develop, uh, the,
+[00:13:24] the capture of iwi affiliation
+[00:13:26] information and the new census
+[00:13:28] Approach Is, uh, just a supplementary on that, is, does
+[00:13:32] that include working
+[00:13:34] with those particular iwi sharing data?
+[00:13:39] 'cause that some of them have pretty good data,
+[00:13:43] others not so much?
+[00:13:45] Yeah, so there is, um, yeah,
+[00:13:47] there's variability in the capture across the country.
+[00:13:50] So not only in in government but also with iwi themselves.
+[00:13:53] Um, we already work with a number of iwi on, um,
+[00:13:56] building the data capability that, that they have
+[00:13:59] and that in relation to the aspirations that they have,
+[00:14:01] we'll continue to do that work
+[00:14:03] and as we can make sure that that's relevant
+[00:14:05] for them in the census context as well.
+[00:14:07] So I think, um,
+[00:14:08] all those avenues are certainly being looked at
+[00:14:11] and we'd want to make sure that we take any
+[00:14:12] of those opportunities that we can.
+[00:14:16] Thank you. That's okay. Um, any other,
+[00:14:19] Yeah, I was just wondering if you could give us an example
+[00:14:21] of where the admin data would potentially be insufficient
+[00:14:25] to capture the information you're looking for
+[00:14:28] and the degree of confidence
+[00:14:30] that the other options survey data, for example,
+[00:14:33] could potentially capture it.
+[00:14:36] 'cause obviously there's a risk here that people might fall
+[00:14:37] through the gaps if they're not capturing admin data.
+[00:14:39] Is it reasonable to expect we can capture in other ways,
+[00:14:43] or are they also going to be more difficult
+[00:14:44] to capture in that context? Yeah,
+[00:14:47] I'll, I'll give a broad example.
+[00:14:49] Um, and I'll go back to I guess your most granular ethnicity
+[00:14:53] and broad in the sense that
+[00:14:55] it is collected in different ways across government
+[00:14:58] departments and, and crown entities.
+[00:15:00] So we want to get to a point where you have consistency, um,
+[00:15:06] in its collection, uh, what we call at the level four level.
+[00:15:09] So that's your most granular level.
+[00:15:11] And then you also, part of
+[00:15:12] that standard is people having an opportunity to identify
+[00:15:16] with, I think, um, up to six ethnicities, right?
+[00:15:20] And so at present you might have, um,
+[00:15:24] that standard adopted in say, uh, an education sector.
+[00:15:27] Um, you might have a slightly different, uh, variation of
+[00:15:31] that in different parts of the health sector.
+[00:15:34] Um, and it could be, um, you know, it could be, uh,
+[00:15:39] you know, to, to a good quality and say MSD or
+[00:15:42] or something like that at present.
+[00:15:44] But the point is you want to work towards that, uh,
+[00:15:48] consistency and standardization, um, where your,
+[00:15:52] where data collection, uh, through those, I guess public,
+[00:15:56] uh, interactions with services is, is consistent.
+[00:16:00] Um, and then you have, I guess that flowing through, uh,
+[00:16:04] to the likes of the IDI for uses around research,
+[00:16:07] social investment and, and census.
+[00:16:11] And so are there areas where you feel
+[00:16:15] that won't be captured
+[00:16:17] or, sorry, I, I guess perhaps aside from that,
+[00:16:19] what I'm interested in is whether your view is the greater
+[00:16:21] concern is not being able to capture
+[00:16:25] complete data across those in terms
+[00:16:27] of variability of how it's reported.
+[00:16:29] Or is it actually that there may be people
+[00:16:30] that miss out entirely from reporting at all
+[00:16:32] in any of these data sets?
+[00:16:34] 'cause obviously that's a risk under the
+[00:16:36] current census model.
+[00:16:37] Is there form at all?
+[00:16:39] And we don't know they exist necessarily, so That's right.
+[00:16:41] Is it that risk of hey,
+[00:16:43] we're not capturing someone in their entirety,
+[00:16:45] or we're capturing lots of people
+[00:16:47] but only partial dataset? Yeah,
+[00:16:49] I guess that comes back to the point
+[00:16:50] that we're not reliant on a, a single admin data source.
+[00:16:53] Yes. Right. So you're integrating multiple sources to ensure
+[00:16:56] that you've got, uh, as good a coverage as, um, you can,
+[00:16:59] you can possibly achieve.
+[00:17:01] And then you can couple that with your survey data sources.
+[00:17:06] You can couple that with, uh, historical census data sets,
+[00:17:10] um, although they do lose value over time.
+[00:17:12] And then you've got statistical techniques to, um,
+[00:17:15] around imputation to help address your gaps as well.
+[00:17:17] So by the time you work through those different data sources
+[00:17:21] and those different statistical techniques, you end up
+[00:17:24] with a good quality coverage for these different, um, topics
+[00:17:28] and variables that come out of census.
+[00:17:30] Okay. Can I add a little bit? Yeah, of course.
+[00:17:32] Um, so I think the three component parts
+[00:17:35] of the new approach are really important too.
+[00:17:37] 'cause your question is really valid.
+[00:17:38] So, and in the traditional census model, you know, we were,
+[00:17:41] we were already worried about groups in the population
+[00:17:43] that we weren't necessarily capturing as best
+[00:17:46] or that to the level that we know we need to.
+[00:17:48] Um, and I think that's, um,
+[00:17:50] really important in the new approach is we will still need
+[00:17:54] to have a very keen eye on that,
+[00:17:56] and that would will be where a lot of effort goes.
+[00:17:58] Um, and the three different component parts of the model,
+[00:18:01] so the admin data, the annual, uh, sample survey,
+[00:18:04] and the tailored solutions,
+[00:18:06] which we haven't arrived at exactly what those are yet,
+[00:18:09] because we want to be able to work through that with
+[00:18:13] agencies and with, uh, the communities that we know need
+[00:18:16] to be captured in there.
+[00:18:17] And, and so the three component
+[00:18:19] parts together will work together.
+[00:18:21] And I think the other really useful thing about this new
+[00:18:23] approach is the train doesn't leave the station
+[00:18:25] once every five years.
+[00:18:27] So we will have opportunities on an annual basis
+[00:18:31] or sort of over two to three years
+[00:18:33] where we are looking at different collections
+[00:18:35] or different ways in which we're capturing data,
+[00:18:37] different ways to partner to, um,
+[00:18:39] to make sure we've got that information.
+[00:18:41] So the opportunities are there, there will be challenges
+[00:18:44] that we'll have to work through,
+[00:18:45] but we are really looking forward to
+[00:18:46] how we can work differently
+[00:18:47] and more flexibly, um, to be able to address some of those,
+[00:18:51] those potential challenges.
+[00:18:52] Thank you. Pardon? 1 0 1, uh, a quick one.
+[00:18:57] Yeah. Just interested if you could give us some initial
+[00:18:59] insights on we, you think those challenge points will be,
+[00:19:02] you know, what's the sort of technical
+[00:19:04] or sorry, tailored solutions or,
+[00:19:06] or survey data that you might have
+[00:19:08] to really focus on capturing that wouldn't
+[00:19:10] otherwise be available through the admin data?
+[00:19:13] I think that probably comes back
+[00:19:14] to the priority communities
+[00:19:16] that we're focused on supporting at least, um, up
+[00:19:18] until 2030, at which point we'll review communities, um,
+[00:19:23] we are collaborating with,
+[00:19:25] and so we've got our Iwi Maori partners obviously, um,
+[00:19:28] but we've got Pacific peoples there.
+[00:19:30] Um, I guess I mentioned that in the context
+[00:19:32] of collecting detailed ethnicity data, we've got, uh,
+[00:19:36] disabled communities, right?
+[00:19:38] They're not all of those communities not, uh,
+[00:19:41] present in admin data.
+[00:19:42] So you still need surveys, um, to,
+[00:19:45] to understand those groups of people.
+[00:19:47] You've got LBTQ Plus or our Rainbow communities.
+[00:19:51] Um, and hence I guess working towards, uh, better adoption
+[00:19:55] of the sex, um, gender variations
+[00:19:59] of sex characteristics, data standard.
+[00:20:01] Uh, we've got homelessness and transient, um, people.
+[00:20:07] Uh, so we, we, I guess when you're thinking about those
+[00:20:09] priority communities and then some
+[00:20:10] of the tailored solutions that we're exploring.
+[00:20:13] So in a, in a, I guess disability, uh, persons, uh, context,
+[00:20:18] we are working with FA Kaha on a, um,
+[00:20:21] disability data framework.
+[00:20:24] And that was, I think in response
+[00:20:25] to a concluding observation out
+[00:20:28] of the United Nations convention, um, for rights, uh,
+[00:20:31] for people with disabilities.
+[00:20:33] Um, and that's basically to understand
+[00:20:36] what data sources exist, understand where the gaps are,
+[00:20:40] and then what sort of, uh, actions you need to take
+[00:20:42] to address those gaps
+[00:20:44] to ensure you have an adequate understanding, um,
+[00:20:47] of different aspects of those population
+[00:20:48] and the barriers that they face, um,
+[00:20:50] with interacting with society.
+[00:20:53] Another example might be in the homelessness
+[00:20:56] and, uh, transient people space.
+[00:20:58] Now we measure severe housing deprivation,
+[00:21:01] or we have done out of the census as it been traditionally,
+[00:21:05] um, conducted.
+[00:21:07] And I guess when you look around, uh,
+[00:21:09] different international jurisdictions
+[00:21:11] and even some, I guess, local authorities around, uh,
+[00:21:15] New Zealand too, um, I guess there's an idea
+[00:21:18] of point in time, street count of, um, people
+[00:21:21] who are say rough sleeping or in sleeping in cars.
+[00:21:25] And so I guess there are questions around
+[00:21:27] how does Stat Z collaborate with the likes of the Ministry
+[00:21:30] of Housing and Urban Development and other agencies
+[00:21:33] and I guess local bodies too, to, um, advance
+[00:21:36] that sort of collection.
+[00:21:38] So we understand, um, that that population for,
+[00:21:42] for policy purposes.
+[00:21:44] So that, that would be, um, another example.
+[00:21:48] So Sean, thank you.
+[00:21:50] Um, we are very interested
+[00:21:52] and we only have nine more minutes, so I'm going
+[00:21:54] to hand over to, um, Jan for a new primary.
+[00:21:58] And, and I think you've just touched on this,
+[00:22:00] but I just wanna explore it a bit deeper.
+[00:22:03] And we're talking about going from the descriptive
+[00:22:05] of the statistics, more the differential approach
+[00:22:09] around pulling the hypothesis together of, of the data
+[00:22:13] and testing that to develop the programs.
+[00:22:15] That's what you're talking about.
+[00:22:18] So the programs are based on your hypothesis
+[00:22:22] and then your modeling of the statistics
+[00:22:25] and what government program
+[00:22:27] Are based on. So
+[00:22:28] you're saying, uh,
+[00:22:29] what is informing our tailored solutions?
+[00:22:32] Yeah, basically, Yeah.
+[00:22:33] I guess you, you do wanna look at what, um, I guess
+[00:22:37] wicked policy problems exist, um, that government is,
+[00:22:41] is facing at present.
+[00:22:43] Um, but you also want to, I think, I guess
+[00:22:47] engage in collaborative design with data experts
+[00:22:50] and stakeholders from those communities to understand
+[00:22:52] what their data needs and aspirations are.
+[00:22:54] 'cause they might be different to, uh, policy problems, um,
+[00:22:59] that I guess government is focused on.
+[00:23:02] I guess the trick is that you can't solve all of those.
+[00:23:04] Mm-hmm. You know, you've gotta work through, um,
+[00:23:08] what is gonna create most value to your, um,
+[00:23:12] official statistics system and government data system,
+[00:23:14] and know that you're working with, uh,
+[00:23:17] those communities in iwi Maori over
+[00:23:19] quite a long period of time.
+[00:23:20] We're not looking to work with them just through until 2030,
+[00:23:24] but over a 10 plus year horizon.
+[00:23:26] So you've got, I think, a longer runway to,
+[00:23:31] um, work towards what their, um,
+[00:23:35] I guess work towards addressing their unmet need.
+[00:23:37] So, added to that, can I just ask,
+[00:23:39] and I've always been curious around this, how does
+[00:23:42] that match up with our longitudinal studies that we have
+[00:23:45] as well, the growing up in New Zealand
+[00:23:47] and the Dunedin study, which are some of the best around,
+[00:23:50] how does the statistics gathering
+[00:23:52] and capturing, do you work alongside those
+[00:23:57] or have that integration between both?
+[00:23:59] Maybe I should jump in on that one.
+[00:24:02] So I think both of those longitudal studies,
+[00:24:05] the purpose is really to capture
+[00:24:08] extremely rich information about a relatively small number
+[00:24:11] of people, kind of a thousand people in the Dunedin study,
+[00:24:13] and maybe six
+[00:24:14] or 7,000 in the case of growing up in New Zealand.
+[00:24:17] The statistics, you know, the IDI, so the kind of capture
+[00:24:20] of data for this is that we're talking about here,
+[00:24:22] we're looking to capture a smaller amount
+[00:24:24] of information about everybody in the country.
+[00:24:26] So, um, currently neither of those surveys in the IDI
+[00:24:31] to need to say probably may never be, um,
+[00:24:33] growing up in New Zealand, there are advanced talks about
+[00:24:35] bringing it in so that you could link
+[00:24:36] those two sources together.
+[00:24:37] But I think the scale of them is quite different
+[00:24:40] and the degree of detail is also a difference.
+[00:24:43] So they, they serve different purposes.
+[00:24:45] I think also, um, the analytical need
+[00:24:47] that you articulated there is exactly,
+[00:24:49] and it does sort of go into, um, the,
+[00:24:51] the needs in social investment
+[00:24:52] and being able to look at outcomes for people
+[00:24:54] and ensure that our people are, are receiving, um,
+[00:24:57] what they need and we're getting positive outcomes.
+[00:25:00] That's exactly why, um,
+[00:25:02] ensuring we've got the data we need in a census context is
+[00:25:05] so important because it, not only does it use get used
+[00:25:07] for policy and counting the population
+[00:25:09] and understanding where we're all are,
+[00:25:10] but it also gets used in the analytical sense
+[00:25:12] As well. Yeah. Yeah.
+[00:25:13] Thank you. Thank you. I'll hand it over to Dana.
+[00:25:17] Oh, sorry. Asia, did you have a question as well? Danna?
+[00:25:20] Um, and just a reminder that Yeah.
+[00:25:22] About, um, outcomes for Maori. Yes. Danna. Yes.
+[00:25:25] Um, yes.
+[00:25:28] Uh, my question is just a bit more about the
+[00:25:30] reporting side of it.
+[00:25:31] Uh, and I mean, we live in a pretty fast paced world now
+[00:25:34] where we all want access to information immediately.
+[00:25:37] Um, and the five year census data timeframe was always kind
+[00:25:41] of, you know, but drawn out by the time we get
+[00:25:43] to year five year completely don't
+[00:25:44] believe anything of it anymore.
+[00:25:46] So I'm just interested in how, um, the new approach
+[00:25:48] and particularly, um, around, um, the information for Maori,
+[00:25:52] um, will deliver a more real time more, um, annualized.
+[00:25:57] Um, what does that look like for us as with, you know,
+[00:26:00] access to, to data stats.
+[00:26:03] So, uh, I think from 2030 we're gonna have, uh,
+[00:26:07] census data and statistics produced annually.
+[00:26:11] Right? Great. And so
+[00:26:13] Happy Days from 2030.
+[00:26:15] Yeah. Subject to
+[00:26:17] Yeah. Changes
+[00:26:18] going through. Yeah.
+[00:26:19] 'cause I think if you look at Data and Statistics Act now,
+[00:26:22] um, and we didn't have those changes go through,
+[00:26:24] we'd be doing census in 2028. Sure.
+[00:26:27] Speak up a Bit, please. I beg your pardon.
+[00:26:29] Well just speak up. Yeah.
+[00:26:30] So from 2030, we're seeking to have census data
+[00:26:34] and statistics produced annually.
+[00:26:36] Yes. Um,
+[00:26:38] and I, when you're looking at admin data,
+[00:26:41] when you're looking at, um,
+[00:26:44] I guess a continuous census attribute survey, uh, the,
+[00:26:49] it's inherently flexible, right?
+[00:26:51] So you can change content each year.
+[00:26:53] You can have, uh, rotating modules
+[00:26:56] or questions coming off that do,
+[00:26:58] that do slightly deeper dives into different topics if
+[00:27:01] that's housing quality,
+[00:27:03] or to understand some of those priority communities
+[00:27:05] that I mentioned earlier.
+[00:27:07] Um, and so yeah, this, this model, um,
+[00:27:10] I think looks to break down.
+[00:27:13] Um, you know, what,
+[00:27:14] what was quite a rigid system when you're looking at that,
+[00:27:16] that five year, uh, traditional approach to, to census.
+[00:27:21] Um, and I think within the census data
+[00:27:23] and statistics that we'll produce,
+[00:27:26] you'd have the topics like Maori descent, uh,
+[00:27:29] iwi affiliation, um, and, and so forth, right?
+[00:27:33] So that, so we are looking
+[00:27:34] to produce statistics across your, your typical units of,
+[00:27:38] uh, individuals, households, families, um, extended families
+[00:27:43] and, and those sorts of things.
+[00:27:45] Great. Thank you. Thank you.
+[00:27:47] Um, we have three more minutes,
+[00:27:48] and if you don't mind, there is a question, um, Simon, your
+[00:27:52] introductory corridor, um, you were talking about
+[00:27:54] with the stages of the integrated data infrastructure, um,
+[00:27:58] there's a point at which you said where
+[00:28:00] and when to intervene to stop poor outcomes.
+[00:28:03] Um, are you able in two minutes to, to,
+[00:28:07] to maybe give an example or how that works in practice?
+[00:28:12] Um, or how you would envisage or you can,
+[00:28:14] or you can write an
+[00:28:16] Answer. I can give an example
+[00:28:17] actually.
+[00:28:17] So, um, one thing I would say is
+[00:28:20] that at stats we are the managers of the infrastructure.
+[00:28:22] We bring the data together, we try and ensure the quality.
+[00:28:24] And then largely it's other people, researchers,
+[00:28:27] government departments who do the kind of work, uh,
+[00:28:29] that you're talking about there, that, you know,
+[00:28:32] identifying the intervention points
+[00:28:33] and then trying to figure out
+[00:28:34] what programs would actually help.
+[00:28:36] Um, so just to give you one example though,
+[00:28:39] there is a program called YS Neat, which is about, um,
+[00:28:43] basically youth who are not in
+[00:28:45] education, employment training.
+[00:28:46] Um, so treasury had used the IDR to evaluate, um,
+[00:28:50] and found that whilst the program was popular
+[00:28:53] and well funded, it wasn't effectively
+[00:28:55] targeting the right youth.
+[00:28:56] And so it wasn't achieving the outcomes it might be.
+[00:28:59] And so, um, having found those insights, they, uh, then used
+[00:29:03] that information to work with, um, not sure which agency,
+[00:29:07] but the agency that was running the program to redesign it,
+[00:29:10] to try and make sure that, um, the interventions were going
+[00:29:13] to the people who really needed it rather than
+[00:29:15] perhaps a broader group of people.
+[00:29:16] So that's just the type of thing that, um, you know,
+[00:29:19] through staged analysis
+[00:29:21] and then working with people who design services
+[00:29:22] that you can get better outcomes using the start. Yep.
+[00:29:25] Thank you very much. We are, um, close rung out
+[00:29:29] of time if there's any quick, uh,
+[00:29:32] questions from my colleagues.
+[00:29:33] Otherwise, I wanna thank you very much, um, for the detail
+[00:29:36] and also putting the detail in a way that, um, is, is easy
+[00:29:40] for a lot of us to understand, um, as well our listeners,
+[00:29:44] um, thank you very much.
+[00:29:45] We'll take on board this important information.
+[00:29:48] If we have any further questions,
+[00:29:49] we'll send them by writing.
+[00:29:51] Um, have a great day
+[00:29:52] and to all our listeners, we are going to, um, now, uh,
+[00:29:56] but um, thanks for tuning in.
+[00:29:58] Thank you very much.

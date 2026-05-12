@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:26.577373+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138731072",
+  "title": "2025/12/01 - TI (Part 1)",
+  "url": "https://vimeo.com/1138731072",
+  "published_at": "20251130",
+  "published_display": "2025-11-30",
+  "duration_seconds": 7879,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7878.2,
+    "segment_count": 2928,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - TI (Part 1) - vimeo_1138731072\\2025_12_01 - TI (Part 1) - vimeo_1138731072.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138731072",
+    "display_id": "1138731072",
+    "title": "2025/12/01 - TI (Part 1)",
+    "description": "Monday 1 December 2025 | Transport and Infrastructure Committee\n\n2024/25 Annual review of the Electricity Corporation of New Zealand Limited (ECNZ)\n\nHearing of evidence:\n\nElectricity Corporation of New Zealand Limited\n\nVictor Wu, Chair \nJane Meares, Director\n\n\n2024/25 Annual review of Transpower New Zealand Limited\n\nHearing of evidence:\n\nTranspower New Zealand Limited\n\nJames Kilty, Chief Executive\nMichele Embling, Chair\nDavid Knight, Executive General Manager Strategy, Regulation and Governance\nMark Ryall, Executive General Manager Grid Delivery\nCatherine Shaw, Chief Financial Officer\nNathan Green, Principal Advisor Corporate Communications",
+    "webpage_url": "https://vimeo.com/1138731072",
+    "original_url": "https://vimeo.com/1138731072",
+    "upload_date": "20251130",
+    "timestamp": 1764542788,
+    "release_timestamp": 1764542796,
+    "duration": 7879,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089467203-42a20ac518118bbe7955b6604af25890ab23101b947b90f7070a9071153da738-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268571893.vtt?expires=1778590291&sig=042cd059e26fdfe85601b3e587c4128dc7f3973d&download=auto_generated_captions.vtt"
+  }
+}

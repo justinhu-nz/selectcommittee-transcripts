@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:30.360917+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159414957",
+  "title": "2026/02/02 - TI (Part 1 of 3)",
+  "url": "https://vimeo.com/1159414957",
+  "published_at": "20260201",
+  "published_display": "2026-02-01",
+  "duration_seconds": 5602,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5601.6,
+    "segment_count": 2075,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_02 - TI (Part 1 of 3) - vimeo_1159414957\\2026_02_02 - TI (Part 1 of 3) - vimeo_1159414957.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159414957",
+    "display_id": "1159414957",
+    "title": "2026/02/02 - TI (Part 1 of 3)",
+    "description": "2 February 2026 | Transport and Infrastructure Committee\nLand Transport (Revenue) Amendment Bill\nEROAD Ltd\n\nMark Heine, Chief Executive Officer\nPeter Carr, Director Regulatory\n\nMax Marshall\nNZ Automobile Association\n\nMartin Glynn, Policy Director\nSarah Geard, Senior Advisor\n\nTransporting New Zealand\n\nDom Kalasih, Chief Executive\nMark Stockdale, Policy Advisor\nBilly Clemens, Head of Policy & Advocacy\n\nRewiring Aotearoa\n\nDawn Bagley\nJosh Ellison\n\nRUC on Rails LTD\n\nAdam Johnston, Director\n\nDrive Electric\n\nKirsten Corson, Board Chair\nDean Roscherr, Manager\n\nInfrastructure New Zealand\n\nNick Leggett, Chief Executive\n\nNational Road Carriers Association\n\nJames Smith, GM Policy & Advocacy\n\nDr John McDonald-Wharry",
+    "webpage_url": "https://vimeo.com/1159414957",
+    "original_url": "https://vimeo.com/1159414957",
+    "upload_date": "20260201",
+    "timestamp": 1769989588,
+    "release_timestamp": 1769989599,
+    "duration": 5602,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2116630954-0f42ccba0b0f8c6b283ae4c576618a87238616e554979dc2fa50f488c001bef0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/280397842.vtt?expires=1778590234&sig=cd2f97c206fa6642424f5ee5115c2d94e90a3392&download=auto_generated_captions.vtt"
+  }
+}

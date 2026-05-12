@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:05:48.630863+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117264790",
+  "title": "2025/09/17 - MA",
+  "url": "https://vimeo.com/1117264790",
+  "published_at": "20250916",
+  "published_display": "2025-09-16",
+  "duration_seconds": 2639,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2621.36,
+    "segment_count": 939,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_17 - MA - vimeo_1117264790\\2025_09_17 - MA - vimeo_1117264790.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117264790",
+    "display_id": "1117264790",
+    "title": "2025/09/17 - MA",
+    "description": "Wednesday 17 September 2025 | M\u0101ori Affairs Committee\u00a0\n\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\u00a0\u00a0\n\nHearing of evidence\nSubmitter list:\n\nMinistry of Housing and Urban Development and K\u0101inga Ora\u00a0\n\u00a0- Te Ariki Pihama, Deputy Chief Executive - M\u0101ori at Kainga Ora - Homes and Communities\u00a0\n- Jessica Smith, Deputy Chief Executive M\u0101ori Crown Relations, Te T\u016b\u0101papa Kura K\u0101inga - Ministry of Housing and Urban Development\u00a0\n\u00a0- Glenn Phillips, Deputy Chief Executive, Organisational Performance, Te T\u016b\u0101papa Kura K\u0101inga - Ministry of Housing and Urban Development\u00a0",
+    "webpage_url": "https://vimeo.com/1117264790",
+    "original_url": "https://vimeo.com/1117264790",
+    "upload_date": "20250916",
+    "timestamp": 1758055975,
+    "release_timestamp": 1758055981,
+    "duration": 2639,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2059635094-130e5de44f955a74ec3acc6404cca45db23bbf2707d2cdaa5c83b215043e5fee-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/253743064.vtt?expires=1778591153&sig=40dd7325ce7fea12a557f45b199cba0b3cb007a3&download=auto_generated_captions.vtt"
+  }
+}

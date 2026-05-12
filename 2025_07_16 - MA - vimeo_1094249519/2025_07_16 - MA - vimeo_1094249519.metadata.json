@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:06:31.068287+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094249519",
+  "title": "2025/07/16 - MA",
+  "url": "https://vimeo.com/1094249519",
+  "published_at": "20250715",
+  "published_display": "2025-07-15",
+  "duration_seconds": 2860,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2857.8,
+    "segment_count": 907,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_16 - MA - vimeo_1094249519\\2025_07_16 - MA - vimeo_1094249519.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094249519",
+    "display_id": "1094249519",
+    "title": "2025/07/16 - MA",
+    "description": "16 July 2025 | M\u0101ori Affairs Committee\nBriefing on Te Tautuhi-o-Rongo (M\u0101ori Macro Policy Framework)\nTe Puni K\u014dkiri\n\nDave Samuels, Secretary for M\u0101ori Development\nPaula Rawiri, Deputy Secretary, Policy\nBernard Te Paa, General Manager, Policy \u2013 Wellbeing\nTerina Cowan, Deputy Secretary, Strategy\nManaia King, Deputy Secretary, Corporate\nGrace Smit, Deputy Secretary, Regions\nSteve Sutton, Deputy Secretary, Governance\nRebecca Nesus, Manager, M\u0101ori Public Policy\nHannah James, Principal Advisor, M\u0101ori Public Policy",
+    "webpage_url": "https://vimeo.com/1094249519",
+    "original_url": "https://vimeo.com/1094249519",
+    "upload_date": "20250715",
+    "timestamp": 1752616457,
+    "release_timestamp": 1752616465,
+    "duration": 2860,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049453032-600ad9b50b362c63fa8ab63174aa9081a23232e88cd8f4298741ac1fec461b6c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242374117.vtt?expires=1778591195&sig=6b812273bf8f6e695c68a4cb488574f4089c6f50&download=auto_generated_captions.vtt"
+  }
+}

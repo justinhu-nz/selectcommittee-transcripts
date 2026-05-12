@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:47:35.878838+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1074160461",
+  "title": "2025 05 08 Petitions",
+  "url": "https://vimeo.com/1074160461",
+  "published_at": "20250508",
+  "published_display": "2025-05-08",
+  "duration_seconds": 3086,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3082.12,
+    "segment_count": 1183,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 05 08 Petitions - vimeo_1074160461\\2025 05 08 Petitions - vimeo_1074160461.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1074160461",
+    "display_id": "1074160461",
+    "title": "2025 05 08 Petitions",
+    "description": "Thursday, 8 May 2025 Petitions Committee\n\nPetition of Benjamin Plows-Kolff: Fair and affordable food regulations for small food businesses\n\nBenjamin Plows-Kolff, Nicole Hecht & Tracy Johnson\u00a0\n\nMinistry for Primary Industries\nVincent Arbuckle, Deputy Director-General, New Zealand Food Safety\nJenny Bishop, Director Food Risk Management, New Zealand Food Safety\nBruce Arnold, Director Cost Recovery, MPI\nMaria Gracie, Manager Policy and Performance, Cost Recovery, MPI\n\nMinistry for Regulation\nPaul Delahunty, Deputy Chief Executive, Reviews and System Capability\nCharlie Hulley, Senior Advisor\n\nPetition of Zane Allan: Ban Geoengineering and Weather Modification in New Zealand\n\nZane Allan, Robina Dobbie and Gabrielle Thompson",
+    "webpage_url": "https://vimeo.com/1074160461",
+    "original_url": "https://vimeo.com/1074160461",
+    "upload_date": "20250508",
+    "timestamp": 1746677773,
+    "release_timestamp": 1746677781,
+    "duration": 3086,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2013703276-f711cd1be4268fe327a8dff8c12c59d8666d2ec2307950aa416a07245f831058-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/229794884.vtt?expires=1778590060&sig=0564b1849a43f07b122247f903386d127190d830&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:05.661521+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1160920359",
+  "title": "2026/02/19 - TI (Part 1 of 2)",
+  "url": "https://vimeo.com/1160920359",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 5544,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5543.48,
+    "segment_count": 2102,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_19 - TI (Part 1 of 2) - vimeo_1160920359\\2026_02_19 - TI (Part 1 of 2) - vimeo_1160920359.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1160920359",
+    "display_id": "1160920359",
+    "title": "2026/02/19 - TI (Part 1 of 2)",
+    "description": "19 February 2026 | Transport and Infrastructure Committee\n2024/25 Annual review of Air New Zealand Limited\nAir New Zealand Limited\n\nDame Therese Walsh, Chairperson\nNikhil Ravishankar, Chief Executive\nRichard Thompson, Chief Financial Officer\nKiri Hannifin, Chief Sustainability and Corporate Affairs Officer\nSam Barry, Government Affairs Manager\nAzelda Madgwick, Executive Assistant to Chief Executive\n\n2024/25 Annual review of Airways Corporation of New Zealand Limited\nAirways Corporation of New Zealand Limited\n\nDarin Cusack, Chair\nJames Young, Chief Executive Officer\nJamie Gray, General Manager People and Partnerships\nBen Girard, General Manager of Air Traffic Services\nFiona Shine, General Counsel and Company Secretary",
+    "webpage_url": "https://vimeo.com/1160920359",
+    "original_url": "https://vimeo.com/1160920359",
+    "upload_date": "20260218",
+    "timestamp": 1771448313,
+    "release_timestamp": 1771448323,
+    "duration": 5544,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2124152327-344782f5d1b05b38c9ac60e8d198ab6716d67aa33b57948cb377ea7b3621e9c7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283478979.vtt?expires=1778590210&sig=0db2a3c8f8767d057f5f428377c7ad6de48674fb&download=auto_generated_captions.vtt"
+  }
+}

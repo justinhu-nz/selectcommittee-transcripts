@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:13.624444+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1095470177",
+  "title": "2025/06/26 -TI",
+  "url": "https://vimeo.com/1095470177",
+  "published_at": "20250625",
+  "published_display": "2025-06-25",
+  "duration_seconds": 3619,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3618.57,
+    "segment_count": 1422,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_26 -TI - vimeo_1095470177\\2025_06_26 -TI - vimeo_1095470177.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1095470177",
+    "display_id": "1095470177",
+    "title": "2025/06/26 -TI",
+    "description": "Thursday 26 June 2025 | Transport and Infrastructure Committee\n\n2025/26 Estimates for Vote Transport (Hearing with Kiwirail)\nHearing of evidence\n\nKiwirail\n\nPeter Reidy, Chief Executive\nDavid Gordon, Chief Capital Planning and Asset Development Officer\nJason Dale, Chief Financial Officer\nDuncan Roy, Interislander Executive General Manager\nAdele Wilson, Chief Customer & Growth Officer",
+    "webpage_url": "https://vimeo.com/1095470177",
+    "original_url": "https://vimeo.com/1095470177",
+    "upload_date": "20250625",
+    "timestamp": 1750885633,
+    "release_timestamp": 1750885642,
+    "duration": 3619,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2030981878-9b15c392ba0571158362190cdad272af8ab662cc76b24a05edcabe3925ca959f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/238978130.vtt?expires=1778590398&sig=b272b4e33562707b7d9beb0bc08e74d38963295c&download=auto_generated_captions.vtt"
+  }
+}

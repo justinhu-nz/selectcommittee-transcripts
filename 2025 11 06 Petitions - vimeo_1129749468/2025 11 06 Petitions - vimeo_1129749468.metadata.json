@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:08.590093+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129749468",
+  "title": "2025 11 06 Petitions",
+  "url": "https://vimeo.com/1129749468",
+  "published_at": "20251106",
+  "published_display": "2025-11-06",
+  "duration_seconds": 6404,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6403.24,
+    "segment_count": 2290,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 06 Petitions - vimeo_1129749468\\2025 11 06 Petitions - vimeo_1129749468.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129749468",
+    "display_id": "1129749468",
+    "title": "2025 11 06 Petitions",
+    "description": "Three petitions calling for the banning of fireworks: \n\nPetition of Animates NZ Holdings Ltd\n\nNathalie Moolenschot\n\nPetition of Raewyn Harrison\n\nRaewyn Harrison\n\nPetition of Suzanne Cook\n\nSuzanne Cook\n\nMinistry for the Environment\n\nGlenn Wigley (General Manager, Waste & Hazardous Substances and New Organisms (HSNO) Policy\nTim Bennetts (Principal Advisor, HSNO Policy)\nSarah Kenward (Manager, HSNO Policy)\n\nFire & Emergency New Zealand\n\nAdrian Nacey, Acting National Manager, Community Readiness & Recovery\n\nNew Zealand Veterinary Association\n\nDr Cristin Dwyer, Head of Veterinary Services - Large Animals\nDr Rebecca Murphy, President, NZVA Companion Animal branch\n\nVeterinarians for Animal Welfare Aotearoa\n\nDr Natalie Lloyd, Companion Animal Veterinarians Branch Secretary\n\nSociety for the Prevention of Cruelty to Animals\n\nDr Arnja Dale, Chief Scientific Officer\nDr Alison Vaughan, Scientific Officer, National Support Office",
+    "webpage_url": "https://vimeo.com/1129749468",
+    "original_url": "https://vimeo.com/1129749468",
+    "upload_date": "20251106",
+    "timestamp": 1762402000,
+    "release_timestamp": 1762402007,
+    "duration": 6404,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2079347905-b18b4fe768b3998964ee6a4ca4da7e56d1349067574fd1875a47cf79f8ab4027-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263405242.vtt?expires=1778589973&sig=804a84ec979846b2c1a9969d681c2f5e5a0256ed&download=auto_generated_captions.vtt"
+  }
+}

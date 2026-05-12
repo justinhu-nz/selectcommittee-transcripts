@@ -1,0 +1,1179 @@
+Title: 2025/11/12 - SSC (Part 2)
+URL: https://vimeo.com/1135869362
+Published: 2025-11-12
+Duration: 00:52:15
+
+[00:00:00] I think more of us need.
+[00:00:06] Yeah,
+[00:00:07] Sorry.
+[00:00:17] Well, good afternoon and welcome to
+[00:00:18] the Social Services CUNY Select Committee.
+[00:00:19] Um, thank you very much for coming in.
+[00:00:21] Um, so gonna give us a briefing this afternoon on the
+[00:00:24] integrated data infrastructure, which I'm paying for sort
+[00:00:26] of more, more understanding
+[00:00:28] and awareness of our parliamentarians
+[00:00:29] and probably others as well around this.
+[00:00:31] But look, um, I'll hand it to you to introduce yourselves
+[00:00:34] and to give an overview, um, into x to take,
+[00:00:38] I think taking the production
+[00:00:40] that I think may not be a wide setting, uh, from some
+[00:00:44] of the, you know, people at the table and, and,
+[00:00:46] and across New Zealand, actually.
+[00:00:48] Uh, so you can give us an oversight and then it's,
+[00:00:50] and then providing how much time I have, you know, questions
+[00:00:52] for members would be great.
+[00:00:54] No problem. Oh, well, thank you for the opportunity to,
+[00:00:57] um, come
+[00:00:58] and speak about, uh, the value of, uh,
+[00:01:00] integrated data today.
+[00:01:02] Uh, my name is Rachel.
+[00:01:04] I'm one of the deputies, um, at Steps nz
+[00:01:06] and with me is, uh, Simon Ross, who's our general manager
+[00:01:10] for data operations and Infrastructure.
+[00:01:13] So we're going to do a little bit of a TAG team,
+[00:01:15] if that's okay for you.
+[00:01:16] So, uh, I'll talk just very briefly about, um, the role
+[00:01:20] of stats in this context, and then I'll hand to Simon
+[00:01:23] and he'll talk more about the integrated data
+[00:01:25] infrastructure itself.
+[00:01:28] Thank you. So, uh, STAT is hopefully many of you know, uh,
+[00:01:32] stats NZ collects information, um, uh, about, uh,
+[00:01:37] people in organizations.
+[00:01:38] Um, and we use that data to provide insights, uh, statistics
+[00:01:43] and data about New Zealand.
+[00:01:44] Uh, we source a wide range of data
+[00:01:47] that includes administrative data, like, uh, tax, uh,
+[00:01:51] private sector data from data intermediaries, as well as,
+[00:01:54] um, from surveying, uh,
+[00:01:57] the government statistician at Stats NZ holds, uh,
+[00:02:00] the government, uh, chief data steward role.
+[00:02:03] Uh, this role supports the use of data
+[00:02:05] as a resource across government
+[00:02:07] to help deliver better services, uh, to New Zealanders
+[00:02:11] within the research landscape.
+[00:02:14] Stats N Z's role is to ingest
+[00:02:16] and link the data, provide the infrastructure,
+[00:02:19] and ensure that the data is kept safe through the safeguards
+[00:02:22] that surround the IDI.
+[00:02:24] Within the data system, uh, government agencies,
+[00:02:28] tertiary sector and research institutions
+[00:02:31] set sector priorities, um, conduct the research
+[00:02:35] and implement the findings of the research into, uh,
+[00:02:38] policy direction, uh,
+[00:02:39] or service evaluation, um, or improvements.
+[00:02:43] Stats NZ responds to the needs of the research community
+[00:02:47] by adding or modifying, uh, new data to the IDI
+[00:02:51] and that enables or supports the research stats.
+[00:02:54] NZI also provides supports in terms of access, uh,
+[00:02:58] to use the IDI stats.
+[00:03:00] N Z's key piece of legislation is the Data
+[00:03:03] and Statistics Act, uh, 2022.
+[00:03:06] The key parts of this legislation include requirements
+[00:03:10] that researchers in the public interest
+[00:03:12] and is, uh, carried out by appropriate researchers only
+[00:03:16] there are strong confidentiality requirements,
+[00:03:19] so people can be assured their data is safe and protected.
+[00:03:23] Uh, for example, data cannot be released where it might, uh,
+[00:03:27] be able to identify an individual.
+[00:03:30] The government statistician must also publish information
+[00:03:32] about research access,
+[00:03:34] and researchers must must publish their results.
+[00:03:38] So New Zealanders can see the way their data
+[00:03:40] is managed and used.
+[00:03:42] Uh, the independence
+[00:03:43] of the government statistician in this process is a
+[00:03:46] unique point of difference.
+[00:03:47] Um, and service delivery agencies, um, uh,
+[00:03:51] could be conflicted in their hosting
+[00:03:53] of the data against their service delivery mandate,
+[00:03:56] whereas Stats NZ can play a more neutral role
+[00:03:59] in this, uh, context. So I'll hand to Simon.
+[00:04:03] Uh, thank you Rachel Koto.
+[00:04:06] Um, so I'm Simon Ross,
+[00:04:07] and just looking to take the opportunity to reinforce a few
+[00:04:10] of the key points about the IDI from the
+[00:04:12] information that we shared in advance.
+[00:04:15] So the IDI is the government's most
+[00:04:16] comprehensive research database.
+[00:04:18] It contains de-identified data about people
+[00:04:20] and households, contains a range of data, um, about events
+[00:04:24] and services such as from education, income, benefits,
+[00:04:28] migration, justice and health.
+[00:04:30] Um, and it's built from data supplied
+[00:04:32] by government agencies from stats NZ surveys
+[00:04:35] and from non-government organizations.
+[00:04:38] The RDI I is built around a central linking spine.
+[00:04:40] It's a list that aims to estimate every,
+[00:04:42] the ever resident population of New Zealand.
+[00:04:44] So every person who's ever been here is a resident,
+[00:04:47] and it's made by combining tax, birth and migration records.
+[00:04:52] Making the data accessible while keeping it safe is an
+[00:04:55] overriding priority for stats NZ in its
+[00:04:57] stewardship of the IDI.
+[00:04:59] So we use the five safes
+[00:05:01] and the HARRY frameworks to manage safe access to the data.
+[00:05:06] The IDI is a critical tool for governments
+[00:05:08] and the wider data system
+[00:05:09] with many agencies now relying on the IDI
+[00:05:11] to inform service planning
+[00:05:13] and delivery, as well as program evaluation.
+[00:05:16] The IDI is also used by, used widely beyond governments,
+[00:05:20] including for research within the academic
+[00:05:21] and tertiary sectors, um, for looking at outcomes
+[00:05:24] of key population groups
+[00:05:26] and the factors that affect these outcomes.
+[00:05:28] The IDI is used by research consultancies
+[00:05:30] that carry out research on behalf of others
+[00:05:32] to support them in accessing the insights they need.
+[00:05:35] And I guess just to a little more on that, um,
+[00:05:38] if you're a agency or a community group
+[00:05:40] and you might not have the technical expertise
+[00:05:41] to gain insights from the IDI, um, it's useful
+[00:05:45] that these kind of experienced, uh, consultancies are able
+[00:05:48] to be contracted to provide that expertise
+[00:05:50] and those insights, just in terms of what the IEI can
+[00:05:54] and can't do, it can link data from multiple sources over
+[00:05:58] time, which allows cohorts
+[00:06:00] to be understood across their lifespan,
+[00:06:02] can help identify characteristics of groups with positive
+[00:06:05] and negative outcomes, and can evaluate
+[00:06:07] how effective service and interventions are, such
+[00:06:10] as the effectiveness of alternative education services
+[00:06:12] or teen parent units.
+[00:06:14] And the effectiveness of the Housing First program,
+[00:06:16] which is a study done by the University of Otago,
+[00:06:19] it can also be used to tailor interventions
+[00:06:21] to people based on characteristics they share
+[00:06:24] with groups that have been studied.
+[00:06:27] In terms of things the IDI cannot do, um,
+[00:06:29] it can't follow individuals who are using services.
+[00:06:32] So it's not a case management system.
+[00:06:34] It can't identify specific individuals who are at risk
+[00:06:37] or would benefit from a specific intervention,
+[00:06:39] and it can't identify specific individuals
+[00:06:41] who are abusing systems or take enforcement action.
+[00:06:43] So the focus of the analysis is at that group level,
+[00:06:46] not that individual level.
+[00:06:49] Uh, just in terms of final comments, um, some key pieces
+[00:06:52] of research that might be relevant to this committee.
+[00:06:55] Uh, so we've had a study on healthcare accessibility
+[00:06:57] and aging in white Taha Canterbury.
+[00:07:01] So the research explores
+[00:07:02] how residential mobility affects healthcare
+[00:07:03] for older adults in Canterbury in the West Coast.
+[00:07:06] The study will assess where the current healthcare
+[00:07:08] infrastructure meets the needs of an aging
+[00:07:09] and increasingly diverse population study of child
+[00:07:13] and adolescent development in New Zealand.
+[00:07:15] This report aims to consolidate data on child development
+[00:07:18] and identify areas for early intervention
+[00:07:21] and a study on neurodegenerative diseases
+[00:07:23] in former rugby players.
+[00:07:24] So this study examines health impacts
+[00:07:26] of playing rugby at various levels,
+[00:07:28] focusing on neurodegenerative diseases
+[00:07:31] and former first class male players
+[00:07:33] also high highlights the innovative uses
+[00:07:35] of big data in sports health research.
+[00:07:39] And just one final comment.
+[00:07:40] Um, stats is not expert in the, you know,
+[00:07:43] these individual pieces of research
+[00:07:44] that are done in the IDI.
+[00:07:46] We need to know enough to evaluate potential projects, uh,
+[00:07:49] but we do not have the full details
+[00:07:51] of findings of research projects.
+[00:07:53] Um, we do seek, however, to ensure that these are published
+[00:07:56] and publicized for transparency,
+[00:07:58] and so that their value can be realized. Thank you.
+[00:08:02] Great, thank you very much. Might kick it off
+[00:08:03] with a questions.
+[00:08:04] Um, is there, is there anything equivalent
+[00:08:08] to this in any other jurisdiction globally?
+[00:08:12] Or is this reasonably unique?
+[00:08:13] Uh, I would say New Zealand is recognized as a leader in,
+[00:08:18] you know, what we've been able to do
+[00:08:19] with bringing the amount of data together that we have.
+[00:08:22] There are various other jurisdictions
+[00:08:23] that have examples of this.
+[00:08:26] Um, so there are some examples in Australia,
+[00:08:29] there's a Western Australia data linkage infrastructure.
+[00:08:32] The, um, the Australian Bureau
+[00:08:35] of Statistics also has a data linkage program.
+[00:08:38] There are a couple of examples in Canada,
+[00:08:40] one in British Columbia and one in Ontario.
+[00:08:42] Uh, it's been worked on in the UK as well.
+[00:08:44] I would say we are more advanced than, um,
+[00:08:47] than England in this space.
+[00:08:48] But, um, Scotland has an example in the health
+[00:08:51] space, which is quite advanced.
+[00:08:52] So there are a number of examples around the world,
+[00:08:55] but they're not all as comprehensive as the one
+[00:08:57] that we've been able to build in New Zealand.
+[00:09:00] And, um, the, you, you need to strike a balance clearly
+[00:09:03] between, um, data integration and,
+[00:09:06] and dashboarding that data and also concerns around privacy
+[00:09:10] and data sovereignty.
+[00:09:12] How do you balance that?
+[00:09:15] Uh, so we are really focused on making sure
+[00:09:19] that the data we bring in is safe,
+[00:09:21] and we have a number of processes to make sure that is, so
+[00:09:24] that is begins in talking with the people, um,
+[00:09:26] who hold the data in the first place to make sure
+[00:09:27] that they have the rights, uh, permissions
+[00:09:30] and sort of privacy statements
+[00:09:31] and things that would allow the data
+[00:09:33] to be on supplied to us.
+[00:09:34] We've also got the protections of the Data
+[00:09:36] and Stats Act, which are important there.
+[00:09:38] So that covers whether we can bring it in the first place
+[00:09:41] and all our obligations once we hold it.
+[00:09:43] Uh, once we've decided that we can bring it in
+[00:09:45] and we've done privacy and fact assessments
+[00:09:47] and we've done data sharing agreements that cover that, um,
+[00:09:51] we then have the protections,
+[00:09:52] and this is all under the five safes framework
+[00:09:54] where every piece of research that wants to come in
+[00:09:57] and access that data set is being scrutinized
+[00:09:59] to make sure it's in the public interest.
+[00:10:01] And so the need ticking a pie Harry framework is more
+[00:10:04] bringing a kind of ethics perspective to it
+[00:10:06] and an indigenous data perspective.
+[00:10:07] So I think you'll find there are controls in various areas
+[00:10:12] and they overlap
+[00:10:13] and they work together to make sure that both it's safe
+[00:10:16] to bring the data in and then it's safe
+[00:10:17] for whatever projects are seeking to use it.
+[00:10:20] One of the, one of the things I've seen over the,
+[00:10:22] over the years is, uh, the challenge in,
+[00:10:25] I guess you might say, um, data dashboarding.
+[00:10:27] So decision makers can actually understand what's going on
+[00:10:30] and what, what are the drivers, what are the population
+[00:10:32] movements, et cetera,
+[00:10:33] and what that means for policy decisions they need
+[00:10:36] to make both at a local government level
+[00:10:37] and a central government level.
+[00:10:39] Um, how, what work has been done to dashboard that
+[00:10:43] decision makers across, you know,
+[00:10:44] so both local and central government?
+[00:10:48] Well, I guess we are not the ones doing that work,
+[00:10:51] so we are sort of providing the infrastructure
+[00:10:53] and making sure it's available to approved projects.
+[00:10:56] There are multiple different government departments
+[00:10:58] who are using that data for their various purposes.
+[00:11:01] So, uh, for instance, um, health as a project.
+[00:11:04] And so they'll do health research
+[00:11:06] and they'll link it through to social factors
+[00:11:08] and they will, um, present that information
+[00:11:09] for their constituencies.
+[00:11:12] The social investment agency has quite a significant
+[00:11:15] dashboarding program where they're bringing data out
+[00:11:17] of the IDI and they're making it available publicly.
+[00:11:19] Um, and a lot of that is broken down at a regional level,
+[00:11:23] so it's quite valuable, uh,
+[00:11:24] throughout the country from that perspective.
+[00:11:28] Um, anything else you'd wanna comment on? Yeah,
+[00:11:30] Well, in terms of our own, uh, statistics
+[00:11:33] and making them available, uh, we use outputs from, um,
+[00:11:36] the IDI in that process as well.
+[00:11:38] What, sorry, could you say that again?
+[00:11:40] Um, in terms of our own statistical releases
+[00:11:43] and programs, um, we also use, um,
+[00:11:46] outputs from the IDI in order to underpin,
+[00:11:49] uh, that work as well.
+[00:11:50] So, uh, in terms of dashboarding, um,
+[00:11:54] it's really those data visualizations
+[00:11:55] that we have available, um, on our website as well.
+[00:11:59] So do do local government, um, access this
+[00:12:02] or use it at all to your knowledge?
+[00:12:05] So I don't have any examples with me of projects
+[00:12:09] that are specifically from local government agencies.
+[00:12:11] So I think that's an area
+[00:12:13] that we probably haven't explored a lot yet.
+[00:12:16] Yeah. And what, what are, what are some opportunities, um,
+[00:12:20] that haven't been sort of fleshed out yet that, that you,
+[00:12:22] you may see on the, on the horizon that, uh,
+[00:12:25] could be useful?
+[00:12:28] Well, I think there's a number of, um, areas
+[00:12:31] where the government's got social investment priorities
+[00:12:33] and are increasingly, you know, seeking to develop projects.
+[00:12:36] So in those areas, um, working with NGOs
+[00:12:39] to bring in new data and then looking to connect
+[00:12:42] that NGO data with the data that's already in the IDI
+[00:12:44] and being able to provide sort of dashboards
+[00:12:46] and things back to those NGOs, um, that's a real area
+[00:12:49] of growth and we'd expect, you know,
+[00:12:51] quite a lot of that to happen over time.
+[00:12:53] Um, NGO data is a current, there isn't a lot
+[00:12:56] of NGO data in the IDI at the moment.
+[00:12:58] And so it's an area where, um, working with the government
+[00:13:01] and the social investment agency we are looking to grow.
+[00:13:02] Its over time.
+[00:13:05] Um, I think, you know, there's 370
+[00:13:10] or so active projects in the I to I at the moment.
+[00:13:12] So, you know, lots of people, uh, have over the years,
+[00:13:16] you know, seen value in the data sets that we've got online
+[00:13:18] and sort of put together a project and brought it to us,
+[00:13:20] and we've evaluated that and now they're working away in it.
+[00:13:22] So, um, there are many projects that are going on right now.
+[00:13:26] Um, and so as I say, we
+[00:13:28] scrutinize the projects on their way in
+[00:13:30] and we are monitoring that they're doing the right things,
+[00:13:32] but we are not, um, monitoring the content
+[00:13:35] of those projects and what comes out of them.
+[00:13:37] Um, so it's really our job to make that data available
+[00:13:39] and to make sure people are using it safely
+[00:13:40] and then they take it
+[00:13:41] and they, uh, develop the insights and then publish it.
+[00:13:45] Okay. And I, I mean, there's two, I'll go go
+[00:13:48] to other questions shortly, but, um,
+[00:13:50] I guess there's two two co cohorts
+[00:13:51] that immediately come to mind for me.
+[00:13:52] Um, one, one is, um, young people
+[00:13:55] and especially those with, with various complexities that
+[00:13:58] that may make it difficult.
+[00:14:00] And so really interested in what that data can be used for
+[00:14:04] and that, so to ensure we get best service delivery to them.
+[00:14:07] The other, the other is our aging population,
+[00:14:09] which is quite a significant bulge,
+[00:14:11] uh, coming from New Zealand.
+[00:14:12] And, and again, that, that data set
+[00:14:14] and what we can, you know, how
+[00:14:15] that can be used actually better informed decision
+[00:14:17] making going forward.
+[00:14:18] It is sort of a very broad question,
+[00:14:20] but I, I, I raised some comments on the usefulness
+[00:14:23] of the data set for, for those two
+[00:14:25] Co Yeah, I can.
+[00:14:27] So, um, just in the older people,
+[00:14:30] there is a project on expenditure patterns
+[00:14:33] of retiree households.
+[00:14:34] So this study analyzes household wealth trends across
+[00:14:36] demographics and explores how wealth affects life outcomes
+[00:14:40] and informs debates on retirement policy taxation, uh,
+[00:14:44] and older age poverty.
+[00:14:47] Um, just trying to see if we've got an example,
+[00:14:50] a youth example in here.
+[00:14:51] We do. Uh, so one example, um, this youth example,
+[00:14:56] so it has been identified that, uh,
+[00:15:00] driver licensing
+[00:15:01] or lack of driver licensing in rural communities
+[00:15:04] for young people was affecting justice outcomes.
+[00:15:06] And so identified that rural males, many
+[00:15:10] of them were entering the justice system
+[00:15:11] after being caught driving without a license.
+[00:15:13] And this sort of led to vines and enforcements
+[00:15:16] and things that could have been averted had there been, um,
+[00:15:19] you know, driver's licenses able to be had earlier.
+[00:15:21] And so, uh, program was run to target driver licensing
+[00:15:25] to support to try and break the cycle.
+[00:15:27] And so in terms of short term outcomes,
+[00:15:29] after one to two years, more young men obtaining licenses,
+[00:15:32] fewer driving offenses, reduced police interactions
+[00:15:35] in the medium term around five years, improved employment
+[00:15:38] and education outcomes, lower benefit reliance,
+[00:15:40] especially in rural areas where
+[00:15:42] licenses often essential for work.
+[00:15:44] And in the longer term, over 10 years, fewer crashes,
+[00:15:47] hospitalizations, and a CC claims fewer justice
+[00:15:50] and corrections and directions
+[00:15:51] and reduced pressure on public services.
+[00:15:53] So, I mean, the two examples I gave,
+[00:15:55] there are only two examples.
+[00:15:56] There are many things that people looked at for older people
+[00:15:59] and for young people in the IEI.
+[00:16:01] So it's, um, data that's available for people
+[00:16:03] to bring projects forward, really.
+[00:16:05] And I'm sorry, I'll get this,
+[00:16:09] I'll get this, got a couple.
+[00:16:10] Um, I just thought that we're gonna
+[00:16:12] Bribe you with this batch, Uh, that, uh, the idea has,
+[00:16:15] has grown since 1991,
+[00:16:17] or see, was it seven, um,
+[00:16:19] to comprise over 500 tables containing
+[00:16:20] 15 billion plus rows of data.
+[00:16:22] Now we're obviously entering an era
+[00:16:24] of artificial intelligence.
+[00:16:25] We've got an ability to analyze data in a way
+[00:16:28] that's never been able to be done before,
+[00:16:29] but also you need to ensure that you,
+[00:16:31] that it stays within that data set.
+[00:16:33] Mm-hmm. Yes. Um, what opportunities, uh, are available there
+[00:16:38] that you sort of have seen you?
+[00:16:39] Is it, is that still no
+[00:16:41] one's really turned their mind to add?
+[00:16:42] So the, I is currently run on what we would describe
+[00:16:46] as reasonably creaky infrastructure.
+[00:16:49] Um, it is safe and secure, but it is not hugely advanced.
+[00:16:53] And so I think that limits the ability to bring kind
+[00:16:56] of modern and advanced AI tooling to bear.
+[00:16:58] Yeah, I think there are also kind
+[00:17:01] of important ethical questions about whether this, you know,
+[00:17:03] rich resource of data about people,
+[00:17:05] whether it's appropriate to bring those tools in there.
+[00:17:07] And so they are kind of questions that we haven't dealt with
+[00:17:09] yet, but we would expect to work through a kind
+[00:17:11] of ethical framework to do so.
+[00:17:13] Um, we are working on a business case for improvements
+[00:17:17] to the IDI for the future.
+[00:17:18] And so, you know, if we were to advance the infrastructure,
+[00:17:21] then those questions become really important.
+[00:17:23] Like is it the right thing to do to bring in, um, AI tools?
+[00:17:26] But it's something that we haven't explicitly addressed yet.
+[00:17:29] Okay. I've got now several up.
+[00:17:31] For me, it's a different question.
+[00:17:34] Um, but the first one is, um, I'll just pick up
+[00:17:37] that issue about the ai
+[00:17:39] and obviously there's the security issues
+[00:17:43] that are involved in a, a developing technology,
+[00:17:47] but there's already security issues.
+[00:17:50] But one of the benefits of this has gotta be the linkage
+[00:17:54] with other countries, hasn't it?
+[00:17:55] Because you can expand your pattern recognition
+[00:17:59] and you can learn more.
+[00:18:01] What do you do about making sure
+[00:18:05] that your development is able to work,
+[00:18:10] um, in a synergistic Yeah.
+[00:18:13] Way with other countries who are doing similar things so
+[00:18:17] that you can power up the wisdom that you're getting out
+[00:18:22] of this, of the information.
+[00:18:26] Um, so I think there's, uh, probably a couple of points.
+[00:18:29] So, uh, so we are part of, uh, a wide network, um,
+[00:18:33] across the international statistical community.
+[00:18:36] Um, so some of the, uh, uh, studies
+[00:18:39] and, um, organizations, um, Simon referenced earlier.
+[00:18:44] So we are all developing, um,
+[00:18:47] and evolving those things together.
+[00:18:49] So we do share, uh, practice around, um,
+[00:18:53] ethics confidentiality,
+[00:18:55] but also obviously a mindful of, uh,
+[00:18:58] things like the security settings.
+[00:19:00] So within, um, our context, um, we meet, uh, a lot
+[00:19:04] of the government, um, requirements for, um,
+[00:19:08] protection and security.
+[00:19:10] Um, uh, yeah, we, we have to meet those,
+[00:19:14] that's a really important part of, um, keeping,
+[00:19:16] uh, the data safe.
+[00:19:18] Uh, we also, uh, uh, regularly audit,
+[00:19:23] um, uh, our practices as well to make sure that, uh,
+[00:19:27] we are keeping things safe.
+[00:19:28] Um, it's very important in terms of, you know,
+[00:19:31] the social license, the license
+[00:19:32] to operate from New Zealanders that, you know,
+[00:19:35] they have confidence in our ability to, um,
+[00:19:39] source data col, um, collect it, uh, integrate it and,
+[00:19:43] and keep that safe while still providing the benefits
+[00:19:47] that I think we've talked about today.
+[00:19:49] Um, we don't, we haven't got joined up databases
+[00:19:52] and network of databases across, uh, the world.
+[00:19:56] Um, but obviously, um, the research
+[00:19:59] that is made available is available to everybody.
+[00:20:02] And so there are opportunities, um, obviously
+[00:20:05] for researchers to link up internationally
+[00:20:08] and work out, um, what types of studies might, uh,
+[00:20:11] be valuable in that context as well.
+[00:20:15] So, um, so are the, is it, would it be fair to say
+[00:20:19] that you're designing mindful of that kind of, um,
+[00:20:24] ecosystem that's broader than just New Zealand?
+[00:20:28] Absolutely. Okay. And can I ask you, this is a sort
+[00:20:31] of philosophical question
+[00:20:32] and you might just say it's beyond your scope.
+[00:20:35] Sure. But it occurs to me that what you are doing might mean
+[00:20:38] that there's a huge boost in understanding of proactive, um,
+[00:20:43] policy responses.
+[00:20:44] So because you are studying those
+[00:20:48] or you've got that information
+[00:20:49] that we might see people finally understand
+[00:20:52] that there is an ambulance at the bottom of the cliff
+[00:20:54] and then there's proactive money into things
+[00:20:58] so that they never happen.
+[00:21:00] Do you see that in what, in the way
+[00:21:03] that the information's being used that we might see a, um,
+[00:21:08] confirmation of proactive
+[00:21:11] policies working?
+[00:21:13] You just gave the example, I think of the one that was, um,
+[00:21:17] the driver's license one is one of those, isn't it?
+[00:21:23] Um, But you are avoiding trouble. Well,
+[00:21:27] Stats is not really involved Yeah.
+[00:21:29] In evaluating, you know, all of the different pieces
+[00:21:32] of research that are being done.
+[00:21:33] So I think these insights are quite diffusely, um,
+[00:21:38] perhaps found throughout government.
+[00:21:41] So, you know, different
+[00:21:42] projects, find 'em in different places.
+[00:21:44] Um, one thing we do observe though, is
+[00:21:46] that sometimes people will go in
+[00:21:47] and they'll be looking at a specific thing, specific set
+[00:21:49] of research questions, but there'll be kind
+[00:21:50] of incidental findings that come out of that
+[00:21:52] that prove useful in some other areas.
+[00:21:54] So that is definitely a value of bringing the data together,
+[00:21:58] um, and allowing these analysis to go on.
+[00:22:00] So, um, there have been examples of interesting
+[00:22:05] and useful findings that have not necessarily been the kind
+[00:22:07] of core reason that that research
+[00:22:08] was being done in the first place.
+[00:22:10] Yeah. Yeah. Okay. Alright,
+[00:22:13] Thank you.
+[00:22:15] Um, just a quick question about the data.
+[00:22:18] So is the data that you make available sold,
+[00:22:21] or is it provided as a service?
+[00:22:24] Sorry, sold. Was that the first part of your question?
+[00:22:26] Yes. Uh, so the data that we bring in, uh, we bring in
+[00:22:30] with agreements with government agencies and others.
+[00:22:32] And so we don't buy it nor do we sell it.
+[00:22:35] We don't sell access to it.
+[00:22:37] Uh, so we, it's not our data, we don't own it.
+[00:22:39] We host it on behalf of others and we make it available.
+[00:22:43] Um, and people need
+[00:22:44] to meet certain standards to be able to access.
+[00:22:46] So it's provided as a service? Yes.
+[00:22:48] It's provided as a service Yes. Under our appropriation.
+[00:22:50] Right? Sure.
+[00:22:52] Um, yeah, I think you mentioned someone at the beginning
+[00:22:55] that you capture data from people
+[00:22:57] who enter New Zealand, come to New Zealand. Was it?
+[00:23:00] Uh, so migration is one of the key data sets.
+[00:23:03] Uh, so when we're trying to, um, define
+[00:23:05] that ever resident population, um, we've got people
+[00:23:08] who are born here and people who die here.
+[00:23:10] So got those records. We've got people
+[00:23:12] who work here through tax records.
+[00:23:14] And then for people who come into the country, we're trying
+[00:23:15] to capture their residency via the crossing of the border.
+[00:23:19] Okay. So it's not just international travelers
+[00:23:21] or are you measuring that
+[00:23:22] As No, so in fact, we're not really trying
+[00:23:24] to capture people who might have just come here
+[00:23:26] for two weeks as tourists.
+[00:23:27] Like that's not the focus of it.
+[00:23:29] But we do wanna capture people who move to New Zealand.
+[00:23:31] So that's the value of those migration records, being able
+[00:23:33] to figure out who those people are and make sure
+[00:23:34] that they're in that core us.
+[00:23:36] Uh, um, so just thinking about that from a tourism point
+[00:23:41] of view, capturing people who are entering,
+[00:23:43] even if it is temporarily, um, would seem to me
+[00:23:47] to be a a, a valuable measure to have
+[00:23:51] or is that easily captured in other data
+[00:23:54] or through through the entry
+[00:23:56] Customs? Yeah, so
+[00:23:57] we, yeah, we provide, um, statistics about, um,
+[00:24:00] migration flows, people who are obviously coming
+[00:24:03] to New Zealand, um, and leaving.
+[00:24:04] And also tourism flows as well. Travelers. Yeah.
+[00:24:07] Okay. Great. Yeah, thank you Ola. Thank you.
+[00:24:11] Um, for cheers.
+[00:24:12] Um, I have a supplementary with Alice's question
+[00:24:15] and it is more around how robust is the framework,
+[00:24:18] how often do you audit it
+[00:24:20] and um, around safeguards we may have
+[00:24:24] already me, you this Yeah.
+[00:24:25] Um, and the compliance around it.
+[00:24:27] So is our legislation fit for purpose
+[00:24:31] or does it have to be amended over time?
+[00:24:34] Because given the cyber all over the world, you know,
+[00:24:38] from a New Zealand, New Zealand Inc.
+[00:24:40] Perspective. Interesting.
+[00:24:42] And I just, I'm really interested in the robust framework,
+[00:24:44] robustness of the framework and, uh, legislation.
+[00:24:48] Uh, perhaps if we start with the legislation
+[00:24:51] and then move on to the other frameworks.
+[00:24:53] So we have the Data
+[00:24:54] and Stats Act, which was updated in 2022, so
+[00:24:57] that's a pretty recent piece of legislation.
+[00:25:00] I think we think it's working pretty well
+[00:25:01] and offers sort of a good balance of access to data
+[00:25:05] and protection of data.
+[00:25:06] So I think we're pretty happy with that.
+[00:25:08] Uh, we've also had our Privacy Act updated in 2020, so
+[00:25:12] that's a relevant piece of legislation here.
+[00:25:14] All the privacy impact assessments we do are
+[00:25:16] done under that framework.
+[00:25:17] Uh, so again, it's not, you know, not 2025,
+[00:25:20] but it work was done on that fairly recently,
+[00:25:23] Fairly recent.
+[00:25:24] Um, in terms of the five safes frameworks, so
+[00:25:28] some my notes on it, but, um, safe people, safe projects,
+[00:25:34] safe settings, safe data,
+[00:25:36] Safe outputs, Safe outputs.
+[00:25:38] Thank you Rachel. Um, so that framework is something
+[00:25:40] that we've had in place for quite a long period of time,
+[00:25:42] but exactly what we do under that framework, um, you know,
+[00:25:45] we're always kinda looking to tighten up, um,
+[00:25:47] and make sure that we, uh, applying it as best we can, uh,
+[00:25:51] when it comes to projects that are going on in the IDI
+[00:25:55] and then also the data labs themselves
+[00:25:56] where people are accessing the data.
+[00:25:59] So we audit those data labs once a year to make sure
+[00:26:02] that the physical security is right
+[00:26:04] and also that the IT security is right.
+[00:26:07] And then we have scrutiny of the projects both
+[00:26:09] before they're approved to make sure
+[00:26:11] that they're set up in the right way.
+[00:26:13] And also as they go on, uh, researchers come on
+[00:26:15] and off them, but we need to make sure
+[00:26:17] that they are doing the things that they've said, uh,
+[00:26:19] in the applications of those projects, not going off piece
+[00:26:22] and doing other things with the data.
+[00:26:24] So I think all of those things coming together,
+[00:26:26] like we have a good level of scrutiny, uh, on the sort
+[00:26:30] of cyber security side of things.
+[00:26:32] So I think the IDI sits within STAT mz, which needs
+[00:26:35] to have cybersecurity across all
+[00:26:36] of everything our operations.
+[00:26:38] And so we are applying that at the edge of the organization.
+[00:26:42] And then, so the IDI benefits from that.
+[00:26:45] Um, but it's the type of thing where that security,
+[00:26:48] you know, always a focus trying to make sure
+[00:26:50] that it is up to scratch.
+[00:26:51] 'cause you need to do more over time rather than less. Yeah.
+[00:26:54] Thank you. And just a really tiny set around threats
+[00:26:56] and risks in the cyber space,
+[00:26:57] and I'm sort of more looking overseas rather than here.
+[00:27:00] 'cause it sounds like you've got a really robust framework.
+[00:27:03] How sort of, are there, I mean, how does that work?
+[00:27:06] Do you get a like flag or how are you advised or?
+[00:27:11] So neither of us are sort of chief technology officer
+[00:27:15] or kind of our security people.
+[00:27:17] So we have people in the organization who are responsible
+[00:27:19] for monitoring those threats, I guess I would say.
+[00:27:21] And yeah. Yeah, it's at all of organization level. Yeah.
+[00:27:25] And we can certainly provide the committee with, um,
+[00:27:27] more information about how we do, uh, go about those things.
+[00:27:30] Um, so more than happy to do
+[00:27:32] That. It
+[00:27:33] in here that the data labs aren't connected
+[00:27:35] to the internet though.
+[00:27:36] No. So that's gotta be a big help.
+[00:27:38] Yeah, that's an important thing.
+[00:27:40] So, you know, sequestered off, it's
+[00:27:41] where you can access this data specifically
+[00:27:43] and you can't access all that data
+[00:27:44] that's talent needs from the same place.
+[00:27:46] Um, which I've just given myself a sub segue into a sub.
+[00:27:50] Um, so because they're not connected to the data,
+[00:27:54] labs aren't connected to the internet,
+[00:27:56] how do you physically get the information out of there to,
+[00:28:00] to customers or people who are requesting the information?
+[00:28:05] Uh, well I guess there are connections from the data labs
+[00:28:07] to the databases themselves, so people can do the research.
+[00:28:11] Uh, and so we have what we call output checking.
+[00:28:13] So researchers are required to make the data confidentially,
+[00:28:18] um, in order for it to be outputted.
+[00:28:20] And so that's their responsibility as researchers.
+[00:28:22] Uh, we then have a team in stats who does output checking.
+[00:28:25] So they go in and they look at the outputs the researchers
+[00:28:28] have created, and then make sure that all
+[00:28:30] of our rules are being applied and no one could be
+[00:28:33] identified from that data if it was to come out of the lab.
+[00:28:35] And then it's our team who takes the data outta the lab
+[00:28:39] and makes it available to the researchers outside the lab.
+[00:28:41] So that's how that process works.
+[00:28:44] So how do you get it out if it's not connected to the,
+[00:28:48] Uh, so within our infrastructure in stats nz,
+[00:28:53] they're able to take those files
+[00:28:55] and then make those available to researchers.
+[00:28:58] So, um, they are, I believe they're emailed
+[00:29:00] to researchers once our staff take them out of the data
+[00:29:03] Lab. So the co
+[00:29:04] the they create a copy that's removed.
+[00:29:06] Yeah, that's right. Yeah. Yeah.
+[00:29:10] Cool. Um, thanks Mr. Chair. Thank you for coming in today.
+[00:29:13] Um, I'm keen to know a little bit more about, um,
+[00:29:16] tikanga Maori principles being applied to the data
+[00:29:20] and, um, Maori practices across it.
+[00:29:23] Um, are you able to explain to me how
+[00:29:26] it's relevant for governance?
+[00:29:27] I understand the sharing of data with interest groups,
+[00:29:29] it could be really interesting, um, but the data is data.
+[00:29:34] So I'm keen to know your,
+[00:29:37] how this is applied in practice
+[00:29:39] and what your thoughts are about this.
+[00:29:43] So the NAI framework is the primary way
+[00:29:47] that we provide, um, that we,
+[00:29:50] that te Maori principles are applied to
+[00:29:52] how the data is used.
+[00:29:54] And so we, it's an ethical framework from our perspective,
+[00:29:57] and it's been developed, uh, gifted to stats NZ by, um,
+[00:30:02] by a Maori researcher originally.
+[00:30:05] Um, and so that is the mechanism, um, by which,
+[00:30:11] um, Maori principles are applied.
+[00:30:12] So, um, I actually don't have the information in front
+[00:30:15] of me about the content of that
+[00:30:16] framework, but it is published.
+[00:30:17] Um, and so we're more than happy to share the details
+[00:30:20] of how that framework works
+[00:30:21] With you. Yeah, yeah.
+[00:30:22] I think, I think in practice, um, if we know
+[00:30:25] that for example, if we know that a research project, um,
+[00:30:30] is going to focus on a particular community, what
+[00:30:34] that framework helps do is um, uh, ask questions about
+[00:30:40] who's on the research team, do you have the right expertise
+[00:30:43] to be working alongside, um, those communities?
+[00:30:47] Um, and then also I think in terms of the outputs,
+[00:30:50] have you thought about, um,
+[00:30:51] how those out outputs will be presented and um,
+[00:30:56] and analyzed and those sorts of things?
+[00:30:57] So, uh, yeah, it's a set of questions
+[00:31:00] that are really helpful for, um, researchers, um,
+[00:31:03] particularly if they're new to the space as well,
+[00:31:06] and they just needed additional support to work effectively
+[00:31:08] with, um, with different communities.
+[00:31:11] Okay. And yeah, possible we,
+[00:31:13] could we grab a copy of that framework
+[00:31:15] Absolutely. Point we can provide
+[00:31:17] That, absolutely. Share
+[00:31:18] it. Now, just earlier you mentioned
+[00:31:20] that the infrastructure that this runs is quite freaky.
+[00:31:24] Um, what can you go, are you able
+[00:31:26] to give a similar indication of what that means and,
+[00:31:28] and if there is an opportunity to update
+[00:31:32] that given the technologies that are available now with,
+[00:31:34] without compromise the integrity
+[00:31:35] of the data sets that you hold?
+[00:31:36] Yeah, I think it's two things.
+[00:31:38] It's the, um, the infrastructure itself,
+[00:31:40] like the IT infrastructure, um, needs an upgrade,
+[00:31:42] but it's also the way that we do the data processing.
+[00:31:45] So, um, you'll appreciate starting from the beginning,
+[00:31:48] the IDI was quite small, it's grown significantly over time,
+[00:31:51] but the kind of architecture
+[00:31:52] and the design of it hasn't changed.
+[00:31:54] And so what happens is three times a year we refresh it
+[00:31:58] and we, um, receive resupply
+[00:32:00] of the data from everybody each time,
+[00:32:02] and we completely reload that data.
+[00:32:03] And so, um, as it grows and it grows and it grows,
+[00:32:06] and I think it's 1,073 gigabytes
+[00:32:09] and 16 million rows in terms of the total volumes
+[00:32:12] and things that are there now, it becomes increasingly
+[00:32:14] difficult to kind of run that model.
+[00:32:16] And so, yeah, it's not just the technology itself,
+[00:32:19] it's definitely the data processing
+[00:32:21] and the way that that works.
+[00:32:22] And so we would like to change the way
+[00:32:25] that data is processed, um, so
+[00:32:27] that we could just incrementally update.
+[00:32:28] So that just means that we're only updating new records.
+[00:32:31] Everything that hasn't changed, we don't change.
+[00:32:33] And so that would allow us
+[00:32:34] to update the data much more frequently.
+[00:32:36] Um, and so that's a kind
+[00:32:37] of business case that we are working on.
+[00:32:39] Alright. Yeah. Okay.
+[00:32:41] Um, so, um, a note from,
+[00:32:44] um, the list.
+[00:32:47] We've got the data in the, the IIPI, um,
+[00:32:52] only a couple, two or three that reach back to the eighties.
+[00:32:56] Is there any intention of, of any way, any way
+[00:33:00] of capturing data prior to the two thousands?
+[00:33:06] So mostly that reflects, um,
+[00:33:08] when these data sets collected by the government agencies
+[00:33:11] that collect them were sort of
+[00:33:14] collected in digital form in the first place.
+[00:33:16] So prior to that, everything
+[00:33:18] that was in here either didn't exist
+[00:33:20] or it was paper records.
+[00:33:21] And so there isn't really any ability to go back
+[00:33:24] and capture the records that were on paper prior to this.
+[00:33:26] So we are limited by, um, you know, the technology
+[00:33:30] that was in existence for the record keeping Yeah. At
+[00:33:32] That time. So there's no intention of
+[00:33:33] going back
+[00:33:34] and digitizing that historic information. C
+[00:33:37] Certainly not by us,
+[00:33:38] but it may be, uh, it may be something that, um,
+[00:33:42] the individual agencies, um, uh, have in their plans
+[00:33:46] and obviously if they were to do that, then
+[00:33:48] that would potentially make more data available for the IDI.
+[00:33:51] Yeah,
+[00:33:53] I've, I've got a question just sort
+[00:33:54] of from a personal experience
+[00:33:55] and running how that data set may or may not exist.
+[00:33:58] Um, having, having worked in the criminal justice sector
+[00:34:00] for about 10 years Sure.
+[00:34:02] I I know that, uh, there's a very high incidence
+[00:34:04] of neurodiversity, uh,
+[00:34:05] and other complexities in the people
+[00:34:07] who end up in the court system and the prison system.
+[00:34:09] Um, in fact it can,
+[00:34:10] but up to 70% of people have neurodiversity
+[00:34:13] or having dyslexia, for example.
+[00:34:14] Yeah. But dyslexia I think is also some
+[00:34:17] of the most successful business people.
+[00:34:19] Um, so, so the, well, there's, there's an issue in
+[00:34:23] that schools may not capture that data at all.
+[00:34:26] Um, but those that do, I'm wondering how much of that might,
+[00:34:31] might be in your data sets that, that there's some work
+[00:34:34] that can be done to sort of surface that more accurately or,
+[00:34:37] or, or, or not if it doesn't exist.
+[00:34:40] So I don't believe we have neurodiversity data from
+[00:34:44] education at this point.
+[00:34:46] I kind of agree with you. It is possible
+[00:34:47] that school systems will be increasingly capturing it.
+[00:34:50] Um, obviously there are neurodiversity diagnoses made in the
+[00:34:55] health sector as well, so a lot
+[00:34:58] of those will be made privately or in primary care.
+[00:35:02] So definitely a gap in the health data that we have is
+[00:35:04] that we don't have primary care data, um, available to us.
+[00:35:07] And that's actually a gap for the government overall.
+[00:35:09] It's not just a gap for us here at Stats
+[00:35:12] and the IDI, so I would say
+[00:35:15] I believe health has an intention to come fill
+[00:35:17] that gap over time, but that is probably the most likely way
+[00:35:20] that we would systematically get
+[00:35:22] neurodiversity type information.
+[00:35:24] I don't know if they're also capturing it in the justice
+[00:35:26] system, you know, where they are seeing people in,
+[00:35:27] people are evaluated, um, in that context.
+[00:35:30] But I would say it's a kind of a, it's a health gap
+[00:35:33] that we have at the moment, um,
+[00:35:34] that we would need the health sector to have a way
+[00:35:37] of bringing it together for us to then benefit
+[00:35:39] and have it in the start set.
+[00:35:41] And how, how might that happen?
+[00:35:42] Like, who would take the leadership on, on saying, okay, we,
+[00:35:45] we, we think it would be useful to be capturing that data
+[00:35:47] or, or to be that data in the yada.
+[00:35:50] So I know that within the health system,
+[00:35:52] they are interested in bringing significantly more primary
+[00:35:55] care data together for kind of health planning purposes.
+[00:35:58] And so I think if they were successful in that endeavor,
+[00:36:01] then we would be able to tap into it, you know,
+[00:36:03] through our usual processes, um, to bring it into the IDI.
+[00:36:06] So I think it's within that health portfolio,
+[00:36:08] how much progress are they making on that plan?
+[00:36:12] Questions actually quite related.
+[00:36:14] I'm interested in new sets
+[00:36:16] that you might think would be a good idea to capture.
+[00:36:20] And I can see I, uh, like a, a set
+[00:36:23] that wouldn't be obvious is actually, um,
+[00:36:27] employment contracts because it's private information,
+[00:36:31] but actually what we need to see is the patterns in it.
+[00:36:36] We don't care about the individual agreements.
+[00:36:39] And I just wondered what your process was for
+[00:36:43] choosing those data sets.
+[00:36:45] Is it opportunity?
+[00:36:46] Is it, how does that happen
+[00:36:48] and how much potential do you think there is
+[00:36:55] in terms of new sets of information
+[00:36:57] that are you already aware of gaps or opportunities?
+[00:37:02] Yeah, I think we are aware of gaps, so we're aware
+[00:37:04] of gaps in an IDI context
+[00:37:06] and then we're aware of gaps in a kind of more
+[00:37:08] of a government data system context.
+[00:37:11] Yeah. Do you wanna comment at all on government data system?
+[00:37:14] So, uh, so, um, at least a couple of years ago, um,
+[00:37:19] a data investment plan, um, was put together.
+[00:37:22] So that was certainly trying to have a look at, um,
+[00:37:25] more systematically what were the gaps across, um,
+[00:37:27] across government in, um, social economic
+[00:37:30] and environmental domains.
+[00:37:32] Um, so some of that would be relevant to, uh,
+[00:37:36] finding new data, um, that could go into the IDI as much as
+[00:37:40] actually we need these data sets
+[00:37:42] to produce more statistical, you know,
+[00:37:44] aggregated statistical information, um, as well.
+[00:37:46] So that's one of the mechanisms by which, um, you know,
+[00:37:50] we have a, a view of the overall landscape, um,
+[00:37:53] within the context of our new legislation.
+[00:37:56] Um, we are starting to work on a multi-year data
+[00:37:59] and statistics plan.
+[00:38:00] Um, that's, that's a requirement.
+[00:38:02] Um, so that will, um, follow on obviously from
+[00:38:05] that initial data investment plan work.
+[00:38:08] Um, and I think subsequent
+[00:38:10] or in, in that same context, we have a range of different,
+[00:38:15] uh, like we have the information group, so
+[00:38:18] that's a cross government group where, um,
+[00:38:20] different data leaders come together, um,
+[00:38:22] to obviously share practice,
+[00:38:24] but also to discuss where are the gaps,
+[00:38:27] what help do people need, um, and those sorts of things.
+[00:38:30] So that are probably the two key ways that we think about
+[00:38:34] what those gaps are and, um,
+[00:38:36] and what might be needed, um, to be filled in future
+[00:38:40] And directly in the IDI context when it comes to gaps
+[00:38:43] and potential new data.
+[00:38:44] Um, so we've got a lot of researchers working in here
+[00:38:48] and sometimes they'll say, you know, this data set
+[00:38:50] that we would like to be able to use doesn't exist in here.
+[00:38:52] And so we talk to 'em about what that might be.
+[00:38:54] Sometimes they know where that data exists, and so we can go
+[00:38:57] and talk to that organization.
+[00:38:58] Sometimes they might not know that,
+[00:38:59] and we have to see if we can figure that out.
+[00:39:01] Um, some of the fundamental questions then are, you know,
+[00:39:04] does that data exist in the form that they want?
+[00:39:06] And if it does, is it already held by government?
+[00:39:09] It may, it may not be.
+[00:39:11] Um, it may exist
+[00:39:12] and be held by either a organization within a sector
+[00:39:16] or privately.
+[00:39:17] And so it's whether or not we're able to access that data
+[00:39:20] and then sometimes data that people would like to be able
+[00:39:22] to use in research, um, you know,
+[00:39:24] is not systematically collected at all.
+[00:39:26] And so then it's a question of is there enough value in
+[00:39:30] that data for it to be collected in the future,
+[00:39:31] which is the kind of data investment plan lens on it.
+[00:39:35] Um, so I would say
+[00:39:37] researcher requests definitely drive a lot of our activity
+[00:39:40] to try and go out and find new data.
+[00:39:42] And so the more researchers that are clamoring
+[00:39:44] for a particular data set, the more effort we would then put
+[00:39:46] into trying to find that data and negotiate
+[00:39:47] with whoever might hold that data to bring it in.
+[00:39:50] So we do have a kind of a, a process for trying
+[00:39:53] to bring new data in on an ongoing basis
+[00:39:55] and in a way of prioritizing that.
+[00:39:57] Yeah. Okay. I, there's a supplement actually is, um, so a,
+[00:40:01] a very, uh, local example, it's of interest
+[00:40:04] to me is in Queensland Lake District where the, uh,
+[00:40:07] physics New Zealand data set that is then to inform sort
+[00:40:11] of population projections have
+[00:40:12] consistently been undercooked.
+[00:40:14] Um, it's just been
+[00:40:15] a challenge that's been there for decades.
+[00:40:16] Mm-hmm. Uh, local government, um,
+[00:40:18] has arguably better data sets in terms of
+[00:40:20] that but's still arguably not good enough.
+[00:40:22] Um, yeah, because it's, it's very challenging to,
+[00:40:24] to virtually map what the, what the growth profile will be.
+[00:40:27] But that has direct implications for decisions around, um,
+[00:40:30] uh, early childhood, uh, development, primary school,
+[00:40:33] secondary school roading, uh, you know,
+[00:40:36] electricity infrastructure, you know, the list goes on.
+[00:40:40] Um, so, so actually having a good data set is really
+[00:40:42] important, but more than that is, it's also making sure
+[00:40:45] that data set is available to the different organizations
+[00:40:48] who often have their own, um, uh,
+[00:40:51] projections that they're relying on.
+[00:40:52] And I, and I think I understand there should be some
+[00:40:54] reliance on statistics New Zealand,
+[00:40:55] but when you have a, that, that challenge, so,
+[00:40:58] so I guess the question is, are you able to, A,
+[00:41:02] use the local governments data sets?
+[00:41:04] B is, is there scope to actually have, um,
+[00:41:07] a more robust data sets that are in real time
+[00:41:10] that can be used to help inform those planning decisions
+[00:41:13] that need to be made across multiple domains?
+[00:41:17] I think your question is probably more about the
+[00:41:18] production of statistics at that kind of sub-national level.
+[00:41:22] Like how much do we understand local
+[00:41:24] and regional communities more than it is about data
+[00:41:27] that we would seek to bring into the IDI, I mean,
+[00:41:30] I completely agree that that sort of data is needed
+[00:41:32] For decisions that you were absolutely laying out there.
+[00:41:35] Um, I'm sort of wondering whether with the, the information
+[00:41:37] that's an integrated data set, uh, if there is scope
+[00:41:41] to have a, have a more comprehensive, um, data set that's,
+[00:41:45] that's available at that integrated level. So
+[00:41:47] We do have help inform decision making.
+[00:41:49] Yeah. So we do have, um, so based on, um, data in the IDI,
+[00:41:54] um, we've been producing annually, um,
+[00:41:57] an administrative data population, um, set of statistics,
+[00:42:01] um, they've been experimental in the sense
+[00:42:04] that obviously we're still working on the methods, um,
+[00:42:07] but that, uh, that data set is available annually, um,
+[00:42:12] and give some insight, not the full insight
+[00:42:14] that you would get every five years from the census,
+[00:42:18] but, um, but that's been an addition, um, of a sort
+[00:42:22] of more integrated set that's been made available in terms
+[00:42:25] of, um, population change.
+[00:42:28] Um, and I think in terms of the shift in the census model,
+[00:42:34] um, one of the, the benefits from moving, um,
+[00:42:38] away from counting every five years is that, you know,
+[00:42:42] we'll have annual census information available, um,
+[00:42:46] in detail, which means that we have, uh,
+[00:42:49] earlier insight into some of those population changes,
+[00:42:52] but equally it can be integrated more regularly in
+[00:42:55] with the data that we already have to help, I think,
+[00:42:58] provide some of the insights that you may be looking,
+[00:43:00] um, looking for.
+[00:43:01] So, um, that's, that's certainly part of our future work.
+[00:43:06] And just a little bit on that.
+[00:43:07] So just think about sort
+[00:43:08] of the vulnerable populations across New Zealand.
+[00:43:10] Yes. Uh, both, um, vulnerable
+[00:43:12] because of isolation geographically, uh,
+[00:43:14] but also say, you know, um,
+[00:43:16] living in garages, uh, absolutely.
+[00:43:18] Et cetera. Yeah. Uh, how, how, how much
+[00:43:22] confidence, uh, sort of can you have at this point,
+[00:43:26] and in, in terms of the data collection that's happening,
+[00:43:29] that, that comes in this data set relied on decision makers
+[00:43:33] in terms of policies, decision making?
+[00:43:36] Uh, so we probably have some other people
+[00:43:38] who can speak more, um, in depth about, um,
+[00:43:41] about homelessness.
+[00:43:42] What I can say is, so from the 2023 census work that we did,
+[00:43:48] um, we recognize, obviously we in our collection, um, try
+[00:43:52] to engage, um, uh, and capture, um, homeless homelessness.
+[00:43:57] Um, but we also work with a range
+[00:43:59] of different organizations, um, who, uh,
+[00:44:04] are more who work with, um, those populations,
+[00:44:07] those vulnerable people, um, more often every day.
+[00:44:10] And so, um, through our collective efforts, um, we were able
+[00:44:14] to, um, subsequently provide, um, an estimate of the, um,
+[00:44:19] of the amount of homelessness, um, in New Zealand, um,
+[00:44:22] in terms of our, our work, um, since census
+[00:44:25] that's really been with, um, housing
+[00:44:28] and urban development, um,
+[00:44:29] and other agencies working on, um, how best to
+[00:44:34] provide, um, estimates of homelessness, um, outside
+[00:44:38] of the census, um, uh, collection that we've,
+[00:44:41] we've done in 2023.
+[00:44:43] Um, but if you want more information about, um,
+[00:44:45] how we are working in that, um, uh, how are we going
+[00:44:50] to capture, uh, vulnerable populations, um, we've got people
+[00:44:53] who, um, could talk to the committee
+[00:44:55] or provide information thanks.
+[00:44:57] And that, would that be the same for these, uh, sort of
+[00:44:59] isolated rural communities or, and sort of households
+[00:45:02] and sort of, that may not be, you know,
+[00:45:04] particularly digitally connected, um, but,
+[00:45:06] and both, both individually,
+[00:45:07] but also sort of at a, at a governance level,
+[00:45:11] I think, um, it, it really do, um,
+[00:45:15] it's somewhat dependent on, um,
+[00:45:18] how different people interact with, you know, government,
+[00:45:22] uh, administrative data, how they,
+[00:45:24] how they show up in administrative data.
+[00:45:26] So, um, uh, so we do, we do capture a range of, um,
+[00:45:31] um, cross-section of populations within our, um, uh,
+[00:45:36] within the administrative data
+[00:45:37] that obviously feeds into the IDI,
+[00:45:39] but then also underpins our, um,
+[00:45:42] popul our broader population estimates.
+[00:45:45] So, um, it can vary depending on, um, location
+[00:45:49] and, um,
+[00:45:51] and different attributes that people have,
+[00:45:54] um, as individuals too.
+[00:45:56] Thanks la Yeah, just very quickly through the chair.
+[00:45:58] Thank you. Um, just in terms of the switch
+[00:46:02] little from an annual to versus the current model,
+[00:46:08] um, the insights you talked about,
+[00:46:09] how variable are those in different, different regions,
+[00:46:13] different, um, parts of the population?
+[00:46:16] Um, yeah.
+[00:46:17] And do you, and, and just following on from that,
+[00:46:20] is the comparative analysis collecting it
+[00:46:23] as a one year versus the five year?
+[00:46:26] Um, so as I said, we, we probably have some people
+[00:46:29] who can speak far more in depth to, um, yeah,
+[00:46:33] to our population statistics, but,
+[00:46:35] but certainly in the context of the IDI, um, being a,
+[00:46:38] having more regular data available means
+[00:46:41] that it can go into the IDI and be integrated
+[00:46:44] and provide insights that you wouldn't
+[00:46:45] otherwise get if you had to wait every five years.
+[00:46:48] That's probably the key point. Yeah.
+[00:46:50] Thank you, Mr. Chair.
+[00:46:52] Um, just thinking about how you collect
+[00:46:55] that data from other providers, does the
+[00:46:59] software hardware make a difference?
+[00:47:01] Like, is it easily imported into your system
+[00:47:04] or do you have to manually reenter it
+[00:47:08] So we don't manually reenter it?
+[00:47:09] No. So, um, I guess they collect it in their systems.
+[00:47:13] We work with them to figure out a way
+[00:47:14] that they can output it in a file that can be sent to us,
+[00:47:17] and then that file is brought into our systems.
+[00:47:20] Um, we have secure transfer mechanisms, um, to make sure
+[00:47:24] that, you know, when it goes from their organization
+[00:47:26] to ours, it does so safely and can't be intercepted.
+[00:47:29] But there's a lot of work in what we call data brokering,
+[00:47:31] which is working with those organizations,
+[00:47:33] understanding their systems, understanding the data,
+[00:47:35] understanding the quality of the data
+[00:47:37] before it comes into our system.
+[00:47:39] So it's a key part of what we do, trying to figure that out.
+[00:47:41] Right. 'cause I understand too from the health sector,
+[00:47:43] especially primary health, is
+[00:47:46] that GP practices have different software programs
+[00:47:49] that they use and they don't talk to each other.
+[00:47:51] Yes. So it makes it difficult to collate that information.
+[00:47:54] That's right. So I was just wondering if that was a,
+[00:47:56] you know, applied across different other agencies.
+[00:48:00] I think it's a effective, for us, it's definitely
+[00:48:01] effective for what I was talking about earlier about,
+[00:48:02] you know, is health able to bring
+[00:48:04] that primary care data together.
+[00:48:06] So we just work with what organizations have, um,
+[00:48:11] and hopefully they're applying standards,
+[00:48:12] and if they are, that's great and it makes it easier for us,
+[00:48:15] but we, if the data is a high priority, we just work
+[00:48:17] with them to be able to get it into our systems.
+[00:48:19] Great. And can you just, um, tell us a little bit about
+[00:48:22] what the longitudinal business database is?
+[00:48:26] Oh, the longitudinal business database? Yeah.
+[00:48:27] So, um, so it's, uh, it brings together, uh,
+[00:48:33] a lot of our economic and business data, um,
+[00:48:36] and longitudinal as in, um, shows time series over time.
+[00:48:40] Um, it's an integrated database, so, um, yeah,
+[00:48:43] brings those all together
+[00:48:44] and is available for, uh, people to do economic research.
+[00:48:49] So some of the work
+[00:48:50] that gets done in the longitudinal business
+[00:48:53] database studies on, um, productivity, uh,
+[00:48:58] aspects of innovation, um, those sorts of things.
+[00:49:02] So yeah, uh, providing, uh, insights for, uh, policy,
+[00:49:07] economic, um, policy, competition,
+[00:49:10] policy, those sorts of things.
+[00:49:12] And, and what, uh, what does data, that data back
+[00:49:15] to when, when did it begin?
+[00:49:16] And, um, and so what sources
+[00:49:18] of data are you drawing that from?
+[00:49:22] I don't have that information with me. Yeah.
+[00:49:25] Um, I would say often the data dates back 15
+[00:49:28] or 20 years, but not in all cases.
+[00:49:31] Yeah, we have that information. Yeah.
+[00:49:32] So we can, yeah, we can provide you,
+[00:49:34] so we've got a similar picture to the one with the IDI,
+[00:49:37] which outlines all of the data sets
+[00:49:39] and how far they go back.
+[00:49:40] They're a mixture of data, data from Statistic New Zealand,
+[00:49:44] but they're also, um, a range of, uh,
+[00:49:46] other government departments as well. Yeah.
+[00:49:49] So I can make mine start just if you had something like
+[00:49:52] that, that the database
+[00:49:54] and there were bits of that information
+[00:49:56] that weren't present.
+[00:49:57] So for example, I'm thinking about restraints of trade,
+[00:50:00] which are covered in the private agreements,
+[00:50:04] but in fact there's a public interest in what would happen,
+[00:50:08] how would someone say,
+[00:50:10] actually we are missing this information legislature.
+[00:50:13] We really need to change the law so
+[00:50:16] that we can gather this data for our public interest.
+[00:50:21] How would that occur? Would it be you as an agency
+[00:50:25] that said, we've seen this gap,
+[00:50:28] or would it be the people involved in the research,
+[00:50:31] or would it be both?
+[00:50:32] Mm-hmm. Is there a mechanism to tell us that we need
+[00:50:37] to include in our legislation new requests
+[00:50:40] for information when that's appropriate?
+[00:50:44] Um, so I think one of the mechanisms, um, for us
+[00:50:47] as a department, uh, is we, as I said, like we have regular,
+[00:50:52] um, we, we have a forum where we get together, um,
+[00:50:55] with other people from other departments.
+[00:50:58] And so through that we are aware of different legislation
+[00:51:01] that's being developed.
+[00:51:03] And so, um, our role in that is, is to have a look at,
+[00:51:07] so what are the opportunities?
+[00:51:09] Yeah, so we'll, we provide, um, comments on cabinet papers
+[00:51:13] and, and uh, legislation so that, you know, this side of,
+[00:51:18] um, uh, yeah, this side of, uh, what we do.
+[00:51:22] Um, yeah, it does recognize the,
+[00:51:24] the data opportunities, um, within it.
+[00:51:26] Um, yeah. And, and obviously ministers can make choices
+[00:51:29] about whether they include that or not.
+[00:51:31] Thank you very much problem.
+[00:51:33] Thank very much. It's been
+[00:51:34] very interesting. Appreciate you coming in.
+[00:51:36] No worries. Thank you. Thank Terms
+[00:51:40] of next steps might just park back next week.
+[00:51:43] Thank, um, just the one other item of business news use
+[00:51:45] for release you, um, just a.

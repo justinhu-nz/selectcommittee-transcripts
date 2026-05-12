@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:29.630216+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1012225971",
+  "title": "2024/09/12 - Petitions",
+  "url": "https://vimeo.com/1012225971",
+  "published_at": "20240924",
+  "published_display": "2024-09-24",
+  "duration_seconds": 2862,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2862.22,
+    "segment_count": 1109,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_09_12 - Petitions - vimeo_1012225971\\2024_09_12 - Petitions - vimeo_1012225971.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1012225971",
+    "display_id": "1012225971",
+    "title": "2024/09/12 - Petitions",
+    "description": "12 September 2024 | Petitions Committee\n\nPetition of Deb Hayes: Investigate Midwifery Council\u2019s removal of \u2018woman & baby\u2019 from Scope of Practice\n\nSubmitters:\nMidwifery Council, Lesley Clarke, CEO\nKiley Clark, Council Co-chair\nJessica Schreiber, Registrar\n\nPetition of Te Rito Maioha: Implement a 1:4 ratio for children under three years of age attending ECE\n\nSubmitters:\n\nTe Rito Maioha: \nCathy Wilson, Chief Executive, Montessori Aotearoa\nRob McCann, Lead Communications Advisor\nTui Lou Cassidy, Publications Manager, Childspace\nLauren Stafford, Principal, Childspace\n \nMinistry of Education:\nJohn Brooker, General Manager, System, Connections & Early Learning Policy\nGraham Bussell, Senior Policy Manager, ECE System Investment Policy\nPaul Scholey, Senior Policy Manager, ECE System & Regulatory Policy\nIsabel Warden, Assistant Policy Analyst, ECE System Investment Policy\nChris Jamieson, Principal Adviser, ECE Operational Policy Design",
+    "webpage_url": "https://vimeo.com/1012225971",
+    "original_url": "https://vimeo.com/1012225971",
+    "upload_date": "20240924",
+    "timestamp": 1727139918,
+    "release_timestamp": 1727139918,
+    "duration": 2862,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1929962554-fb94b4d4e092796706706e12610c43852ef295f44e8048e1774a7458b9fcdf85-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/185751976.vtt?expires=1778590174&sig=dd8a25adc3bc99b82114a56c867d389d5f3ffc1c&download=auto_generated_captions.vtt"
+  }
+}

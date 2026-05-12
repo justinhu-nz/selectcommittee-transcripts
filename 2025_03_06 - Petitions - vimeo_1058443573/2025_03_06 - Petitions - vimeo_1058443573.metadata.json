@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:07.325663+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1058443573",
+  "title": "2025/03/06 - Petitions",
+  "url": "https://vimeo.com/1058443573",
+  "published_at": "20250306",
+  "published_display": "2025-03-06",
+  "duration_seconds": 3776,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3775.53,
+    "segment_count": 1327,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_03_06 - Petitions - vimeo_1058443573\\2025_03_06 - Petitions - vimeo_1058443573.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1058443573",
+    "display_id": "1058443573",
+    "title": "2025/03/06 - Petitions",
+    "description": "Petition of Ann Chapman: Amend the HART Act to allow more flexible timeframes for embryo/gamete storage\n\nHearing of Evidence:\n\nAnn Chapman\n\nACART:\n\nDebra Wilson, Chair\n\n\nFertility Associates:\n\n Suzanne Sherwin, General Manager\n\n\nMinistry of Health:\n\nSaskia Patton, Manager, Ethics\n\n\nMinistry of Justice:\n\nHelen McDonald, Manager, Policy Group\nJennie Marjoribanks, Principal Advisor, Policy Group\n\n\nRANZCOG:\n\nProf Cindy Farquhar, Dean of Research & Policy",
+    "webpage_url": "https://vimeo.com/1058443573",
+    "original_url": "https://vimeo.com/1058443573",
+    "upload_date": "20250306",
+    "timestamp": 1741231230,
+    "release_timestamp": 1741231240,
+    "duration": 3776,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1991879596-31c3e92862d00a74518350ab758fdc33a8cbf1aaa5471db19e3ea65f66b6a99f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/217500307.vtt?expires=1778590091&sig=da6d7dec0fe6978ef9a7f389220648ffe0d6deda&download=auto_generated_captions.vtt"
+  }
+}

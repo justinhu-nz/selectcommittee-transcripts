@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:43.658584+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109880873",
+  "title": "2025 08 21 Petitions",
+  "url": "https://vimeo.com/1109880873",
+  "published_at": "20250821",
+  "published_display": "2025-08-21",
+  "duration_seconds": 3634,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3633.7,
+    "segment_count": 1340,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 08 21 Petitions - vimeo_1109880873\\2025 08 21 Petitions - vimeo_1109880873.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109880873",
+    "display_id": "1109880873",
+    "title": "2025 08 21 Petitions",
+    "description": "Petition of Problem Gambling Foundation of New Zealand: Prohibit the advertising of gambling\n\nSubmitters\nProblem Gambling Foundation of New Zealand:\nMelissa Thompson, Chief Executive\nAndree Froude, Advocacy & Public Health Director\n\nDepartment of Internal Affairs:\nKelly Miller, Gambling Policy Manager\nJayne Beggs, Policy Director\nVicki Scott, Director Gambling Regulator\n\nGaming Machine Association of New Zealand:\nPeter Dengate Thrush, Independent Chair\n\nLotto NZ:\nJason Delamore, Chief Executive\nLeah Neilson, Chief Marketing Officer\nWill Hine, Head of Corporate Communications\n\nTAB NZ:\nNick Roberts, Chief Executive Officer\nWendie Harvey, Deputy Chair",
+    "webpage_url": "https://vimeo.com/1109880873",
+    "original_url": "https://vimeo.com/1109880873",
+    "upload_date": "20250821",
+    "timestamp": 1755750134,
+    "release_timestamp": 1755750142,
+    "duration": 3634,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2051888588-2f6b203371f4350e8c9e2a106424b81804b6f38cef99ba80e7f1b5e960bc768b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249058754.vtt?expires=1778590008&sig=6bac2d1725317667201eeb80a68b3957098daaf6&download=auto_generated_captions.vtt"
+  }
+}

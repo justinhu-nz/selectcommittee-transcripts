@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:40.145980+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141902156",
+  "title": "2025/12/01 - SSC (Part 3)",
+  "url": "https://vimeo.com/1141902156",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 4846,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4842.74,
+    "segment_count": 1815,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - SSC (Part 3) - vimeo_1141902156\\2025_12_01 - SSC (Part 3) - vimeo_1141902156.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141902156",
+    "display_id": "1141902156",
+    "title": "2025/12/01 - SSC (Part 3)",
+    "description": "Monday 1 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of Integrity Sport Commission\n\nHearing of evidence:\n\nIntegrity Sport Commission\n\nDon Mackinnon, Chair\nRebecca Rolls, Chief Executive\nKim Rex, Manager System Performance, Ministry for Culture and Heritage\n\n\n2024/25 Annual review of Sport New Zealand\n\nHearing of evidence: \n\nSport and Recreation New Zealand\n\nRaelene Castle, Chief Executive, Sport NZ Group\nDuane Kale, Acting Chair, Sport NZ and High-Performance Sport NZ Boards\nJulie Morrison, Group Manager - Strategy, Policy and Investment",
+    "webpage_url": "https://vimeo.com/1141902156",
+    "original_url": "https://vimeo.com/1141902156",
+    "upload_date": "20251201",
+    "timestamp": 1764555269,
+    "release_timestamp": 1764555276,
+    "duration": 4846,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089496406-c862ce513fca2a046be6465dc2afa268927ad1c85889947557d77af1dc45ad9e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268591798.vtt?expires=1778590544&sig=8a93557b131e13e9478ca9ed4b33c8937479c168&download=auto_generated_captions.vtt"
+  }
+}

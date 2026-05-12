@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:06.122992+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141943016",
+  "title": "2025/12/02 - PP (Part 1)",
+  "url": "https://vimeo.com/1141943016",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 6038,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6037.85,
+    "segment_count": 2283,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - PP (Part 1) - vimeo_1141943016\\2025_12_02 - PP (Part 1) - vimeo_1141943016.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141943016",
+    "display_id": "1141943016",
+    "title": "2025/12/02 - PP (Part 1)",
+    "description": "Tuesday 2 December 2025 | Primary Production Committee\n\n2024/25 Annual review of Land Information New Zealand\n\nHearing of evidence:\n\nLand Information New Zealand\n\nGaye Searancke, Chief Executive\nJan Pierce, Deputy Chief Executive Customer Delivery\nSonya Wikitera, Head of Crown Property\nDion Payne, Head of M\u0101ori-Crown Relations\nAaron Jordan, Head of Location Information\nStacey Newlands, Policy Manager",
+    "webpage_url": "https://vimeo.com/1141943016",
+    "original_url": "https://vimeo.com/1141943016",
+    "upload_date": "20251202",
+    "timestamp": 1764645001,
+    "release_timestamp": 1764645011,
+    "duration": 6038,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090348940-2b370b887380a3b8901e8a38f0bd49161d0d711e074854b2d2e82a14b4f230a4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268843056.vtt?expires=1778590750&sig=595f62d83e8851fd8c4993142782f7f82e77137a&download=auto_generated_captions.vtt"
+  }
+}

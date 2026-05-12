@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:11:07.389521+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125656370",
+  "title": "2025/10/16 - JU [Part 1]",
+  "url": "https://vimeo.com/1125656370",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 2061,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1662.96,
+    "segment_count": 664,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_16 - JU [Part 1] - vimeo_1125656370\\2025_10_16 - JU [Part 1] - vimeo_1125656370.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125656370",
+    "display_id": "1125656370",
+    "title": "2025/10/16 - JU [Part 1]",
+    "description": "Thursday 16 October 2025 | Justice Committee\n\nReport of the Ombudsman, OPCAT Report: Report on an examination of the Prisoners of Extreme Risk Unit under the Crimes of Torture Act 1989\n\nDepartment of Corrections\n- Leigh Marsh, Commissioner Custodial Services\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Jeanette Burns, Director Extreme Risk Directorate\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Juanita Ryan, DCE Pae Ora\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Emma Gardner, Chief Mental Health & Addictions Officer",
+    "webpage_url": "https://vimeo.com/1125656370",
+    "original_url": "https://vimeo.com/1125656370",
+    "upload_date": "20251015",
+    "timestamp": 1760558789,
+    "release_timestamp": 1760558795,
+    "duration": 2061,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2070876502-2845e8a6048bc044b3588b76a6bd9d50e3c943ba5fda48cae4f8937b60d45d01-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259354799.vtt?expires=1778591472&sig=220c018d7cbcd19d1ba4bc822f05c0f9e481ec43&download=auto_generated_captions.vtt"
+  }
+}

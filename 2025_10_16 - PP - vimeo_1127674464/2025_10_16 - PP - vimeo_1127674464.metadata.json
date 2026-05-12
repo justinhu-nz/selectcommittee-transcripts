@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:03:52.338736+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127674464",
+  "title": "2025/10/16 - PP",
+  "url": "https://vimeo.com/1127674464",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 1321,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1320.21,
+    "segment_count": 499,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_16 - PP - vimeo_1127674464\\2025_10_16 - PP - vimeo_1127674464.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127674464",
+    "display_id": "1127674464",
+    "title": "2025/10/16 - PP",
+    "description": "Thursday, 16 October 2025 | Primary Production\n\nPetition of Vegan Society of Aotearoa: Ensure accurate labelling of vegetarian and vegan products and Petition of NZ Vegetarian Society: Ensure Accurate Labelling of Vegetarian and Vegan Products\n\nVegan Society\nClaire Insley, Media Spokesperson\nNZ Vegetarian Society\nIna Babic, Editor",
+    "webpage_url": "https://vimeo.com/1127674464",
+    "original_url": "https://vimeo.com/1127674464",
+    "upload_date": "20251015",
+    "timestamp": 1760565421,
+    "release_timestamp": 1760565428,
+    "duration": 1321,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2071838017-05f05516291229bb9ef53184e5aeb72e2cca3ab12b0730341bbd16fd49587ae4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259373873.vtt?expires=1778591037&sig=9f225650083c359f4692d4015ade9f64fd1bea14&download=auto_generated_captions.vtt"
+  }
+}

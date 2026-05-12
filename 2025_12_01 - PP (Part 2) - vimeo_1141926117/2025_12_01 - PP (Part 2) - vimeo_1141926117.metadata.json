@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:20.819622+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141926117",
+  "title": "2025/12/01 - PP (Part 2)",
+  "url": "https://vimeo.com/1141926117",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 2727,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2723.26,
+    "segment_count": 1132,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - PP (Part 2) - vimeo_1141926117\\2025_12_01 - PP (Part 2) - vimeo_1141926117.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141926117",
+    "display_id": "1141926117",
+    "title": "2025/12/01 - PP (Part 2)",
+    "description": "Monday 1 December 2025 | Primary Production Committee\n\n2024/25 Annual review of the Ministry for Primary Industries\n\nHearing of evidence:\n\nTodd McClay, Minister of Agriculture and Minister of Forestry\n\n2024/25 Annual review of Landcorp Farming Limited (P\u0101mu Farms)\n\nHearing of evidence:\n\nLandcorp Farming Limited (P\u0101mu)\n\nJohn Rae, Chair\nMark Leslie, CEO\nWill Burrett, COO",
+    "webpage_url": "https://vimeo.com/1141926117",
+    "original_url": "https://vimeo.com/1141926117",
+    "upload_date": "20251201",
+    "timestamp": 1764560280,
+    "release_timestamp": 1764560287,
+    "duration": 2727,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089840134-620a169e8842af24ca3f1fbbe86e81f8a4db2be3c711780f857042488943de02-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268599708.vtt?expires=1778590765&sig=d8f95aebe93e38cfa3b856eb0809801bd66d7761&download=auto_generated_captions.vtt"
+  }
+}

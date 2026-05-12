@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:58.003010+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166131164",
+  "title": "2026/02/19 - TI (Part 2 of 2)",
+  "url": "https://vimeo.com/1166131164",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 5811,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5804.4,
+    "segment_count": 2154,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_19 - TI (Part 2 of 2) - vimeo_1166131164\\2026_02_19 - TI (Part 2 of 2) - vimeo_1166131164.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166131164",
+    "display_id": "1166131164",
+    "title": "2026/02/19 - TI (Part 2 of 2)",
+    "description": "19 February 2026 | Transport and Infrastructure Committee\n2024/25 Annual Review of the Electricity Authority\nElectricity Authority\n\nErik Westergaard, Deputy Chairperson\nSarah Gillies, Chief Executive\nHayden Glass, General Manager Wholesale and Supply",
+    "webpage_url": "https://vimeo.com/1166131164",
+    "original_url": "https://vimeo.com/1166131164",
+    "upload_date": "20260218",
+    "timestamp": 1771456370,
+    "release_timestamp": 1771456379,
+    "duration": 5811,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2124152098-a7250a2e0ba41fe26e9d8c0c5b23ec9b89e5d7c7faf472d0cca453ac8b2985b2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283499451.vtt?expires=1778590202&sig=c0895fddebaab1da92209c333f55dad15682a20e&download=auto_generated_captions.vtt"
+  }
+}

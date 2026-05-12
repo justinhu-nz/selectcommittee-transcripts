@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:09:20.416679+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166142516",
+  "title": "2026/02/19 - JU [Part 2]",
+  "url": "https://vimeo.com/1166142516",
+  "published_at": "20260218",
+  "published_display": "2026-02-18",
+  "duration_seconds": 1172,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1166.19,
+    "segment_count": 437,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_19 - JU [Part 2] - vimeo_1166142516\\2026_02_19 - JU [Part 2] - vimeo_1166142516.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166142516",
+    "display_id": "1166142516",
+    "title": "2026/02/19 - JU [Part 2]",
+    "description": "Thursday 19 February 2026 | Justice Committee\n\nArms Bill\n\nSubmitter:\n\nHon Nicole McKee, Associate Minister of Police",
+    "webpage_url": "https://vimeo.com/1166142516",
+    "original_url": "https://vimeo.com/1166142516",
+    "upload_date": "20260218",
+    "timestamp": 1771458119,
+    "release_timestamp": 1771458127,
+    "duration": 1172,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2124187131-863807988e5cbda099e6c0df5152a68524aaf2f63e386cbbcdf8468d75b97eb8-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/284266635.vtt?expires=1778591365&sig=50eba7401e1995b1b2def2c800d78f7991881560&download=auto_generated_captions.vtt"
+  }
+}

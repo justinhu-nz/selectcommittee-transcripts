@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:51.892638+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166163366",
+  "title": "2026/03/02 - TI (Part 1 of 2)",
+  "url": "https://vimeo.com/1166163366",
+  "published_at": "20260301",
+  "published_display": "2026-03-01",
+  "duration_seconds": 8165,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8161.12,
+    "segment_count": 2945,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_02 - TI (Part 1 of 2) - vimeo_1166163366\\2026_03_02 - TI (Part 1 of 2) - vimeo_1166163366.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166163366",
+    "display_id": "1166163366",
+    "title": "2026/03/02 - TI (Part 1 of 2)",
+    "description": "2 March 2026 | Transport and Infrastructure Committee\nPublic Works Amendment Bill\nNg\u0101 Taikura Taiao o T\u016bwharetoa\n\nTaina Cooper, Member\nRhieve Grey, Member\n\nCivil Contractors New Zealand\n\nAlan Pollard, Chief Executive\nFraser May, Communications and Advocacy Manager\n\nOrion New Zealand Limited\n\nVivienne Wilson, Policy Lead\nMatthew Ockleston, Partner, Dentons\n\nBoard of Airline Representatives New Zealand Incorporated (BARNZ)\n\nCath O'Brien, Executive Director\n\nRaukawa Charitable Trust\n\nAnaru Begie, Group Manager - Putake Taiao\nAshanti Neems, National Strategy Manager - Putake Taiao\n\nWater New Zealand\n\nGillian Blyth, Chief Executive\n\nTranspower New Zealand Limited\n\nJoanne Mooar, Senior Corporate Counsel\nMatt Fanning, Head of Landowner Relations & Property\n\nSelwyn District Council\n\nLydia Gliddon, Mayor\nRob Allen\n\nDentons Kensington Swan\n\nMatthew Ockleston, Partner\n\nElectricity Engineers Association of New Zealand\n\nDr Stuart Johnston, Lead Advisor \u2013 Engineering & Technical\n\nNew Zealand Telecommunications Forum\n\nKim Connolly-Stone, Policy Director\n\nAuckland Council\n\nLetitia Edwards, Head of Optimisation Acquisitions and Disposals\nBarry Potter\n\nThe Law Association of New Zealand\n\nPhil Shannon\n\nDr John McDonald-Wharry",
+    "webpage_url": "https://vimeo.com/1166163366",
+    "original_url": "https://vimeo.com/1166163366",
+    "upload_date": "20260301",
+    "timestamp": 1772403935,
+    "release_timestamp": 1772403943,
+    "duration": 8165,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129691322-f8f434c231510de410d48fa3ccfd7b2c44e68d7356a493692723de8b2176f2c8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285454080.vtt?expires=1778590196&sig=eac8e9418b34c32ccb0f46383cbf939548103d0e&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:29.746909+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1038426422",
+  "title": "2025/01/30 - Petitions",
+  "url": "https://vimeo.com/1038426422",
+  "published_at": "20250130",
+  "published_display": "2025-01-30",
+  "duration_seconds": 2960,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2954.74,
+    "segment_count": 1018,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_01_30 - Petitions - vimeo_1038426422\\2025_01_30 - Petitions - vimeo_1038426422.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1038426422",
+    "display_id": "1038426422",
+    "title": "2025/01/30 - Petitions",
+    "description": "Petition of Bronda Smith: Make menopause matter in healthcare, employment, and education in New Zealand; Petition of Sharon Shaw: Prevent dust pollution in Pukemiro St, Onehunga\n\nPetition of Bronda Smith\n\nHearing of Evidence:\nBronda Smith\n\nPetition of Sharon Shaw\n\nSharon Shaw\n\nAIL Protective Coatings:\n\nCorey Glew, General Manager\n\n\nKiwi Waste & Recycling Ltd\n\nMatt Goddard, Owner",
+    "webpage_url": "https://vimeo.com/1038426422",
+    "original_url": "https://vimeo.com/1038426422",
+    "upload_date": "20250130",
+    "timestamp": 1738206755,
+    "release_timestamp": 1738206766,
+    "duration": 2960,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1991876309-8b7d93e797ae7e4a7b3fd68976aac0dace433e80d21011113081825c2c6ee0c1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/210250912.vtt?expires=1778590114&sig=71e392e78f7d63e02e8bff676efed6cf8f5f99fe&download=auto_generated_captions.vtt"
+  }
+}

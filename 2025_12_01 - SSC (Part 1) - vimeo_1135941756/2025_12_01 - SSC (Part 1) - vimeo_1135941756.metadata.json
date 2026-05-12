@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:54.950180+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135941756",
+  "title": "2025/12/01 - SSC (Part 1)",
+  "url": "https://vimeo.com/1135941756",
+  "published_at": "20251130",
+  "published_display": "2025-11-30",
+  "duration_seconds": 4017,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3887.57,
+    "segment_count": 1505,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - SSC (Part 1) - vimeo_1135941756\\2025_12_01 - SSC (Part 1) - vimeo_1135941756.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135941756",
+    "display_id": "1135941756",
+    "title": "2025/12/01 - SSC (Part 1)",
+    "description": "Monday 1 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the Social Investment Agency\n\nHearing of evidence:\n\nSocial Investment Agency\n\nAlistair Mason, Acting Secretary for Social Investment and Chief Executive of the Social Investment Agency\nJoe Fowler, Deputy Chief Executive, Investment and Commissioning\nAphra Green, Deputy Chief Executive, System Performance and Investment Advice",
+    "webpage_url": "https://vimeo.com/1135941756",
+    "original_url": "https://vimeo.com/1135941756",
+    "upload_date": "20251130",
+    "timestamp": 1764538870,
+    "release_timestamp": 1764538877,
+    "duration": 4017,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089463168-cc86fc2e3ed25841ee22439afbe9a0942506b15ec5fad77bc3dbdfb80465378d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268565687.vtt?expires=1778590559&sig=f14ce8074cbc03581463a8d44830833b187584ee&download=auto_generated_captions.vtt"
+  }
+}

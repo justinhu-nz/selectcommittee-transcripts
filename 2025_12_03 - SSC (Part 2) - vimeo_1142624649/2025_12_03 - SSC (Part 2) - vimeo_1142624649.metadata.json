@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:54:28.756901+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142624649",
+  "title": "2025/12/03 - SSC (Part 2)",
+  "url": "https://vimeo.com/1142624649",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 8637,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8568.0,
+    "segment_count": 3279,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - SSC (Part 2) - vimeo_1142624649\\2025_12_03 - SSC (Part 2) - vimeo_1142624649.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142624649",
+    "display_id": "1142624649",
+    "title": "2025/12/03 - SSC (Part 2)",
+    "description": "Wednesday 3 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of K\u0101inga Ora \u2014 Homes and Communities and 2024/25 Annual review of the Ministry of Housing and Urban Development\n\nHearing of evidence:\n\nHon Chris Bishop, Minister of Housing\n\nHon Tama Potaka, Associate Minister of Housing\n\n2024/25 Annual review of K\u0101inga Ora \u2014 Homes and Communities\n\nHearing of evidence:\n\nK\u0101inga Ora \u2013 Homes and Communities\n\nSimon Moutter, Chair\nMatt Crockett, Chief Executive\nTracey Taylor, Chief People and Assurance Officer and incoming Chief Executive\nLiz O\u2019Neil, General Manager - Finance\nNick Maling, General Manager - National Services",
+    "webpage_url": "https://vimeo.com/1142624649",
+    "original_url": "https://vimeo.com/1142624649",
+    "upload_date": "20251203",
+    "timestamp": 1764731535,
+    "release_timestamp": 1764731546,
+    "duration": 8637,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091294103-082b0e080e6d369f950b4cf55cb900f750251a3765e8e8afdecaef66a31c18fc-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269212358.vtt?expires=1778590473&sig=026eaa2c940fef17dce8b576e8271873b2215387&download=auto_generated_captions.vtt"
+  }
+}

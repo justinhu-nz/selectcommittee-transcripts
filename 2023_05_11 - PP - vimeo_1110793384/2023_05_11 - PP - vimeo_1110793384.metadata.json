@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:04:37.144255+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1110793384",
+  "title": "2023/05/11 - PP",
+  "url": "https://vimeo.com/1110793384",
+  "published_at": "20250818",
+  "published_display": "2025-08-18",
+  "duration_seconds": 2034,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2031.81,
+    "segment_count": 707,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2023_05_11 - PP - vimeo_1110793384\\2023_05_11 - PP - vimeo_1110793384.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1110793384",
+    "display_id": "1110793384",
+    "title": "2023/05/11 - PP",
+    "description": "Thursday, 11 May 2023 | Primary Production Committee\n\nBriefing on the New Zealand wool\u00a0industry\nHearing with Ministry for Primary Industries\n\nHearing of Evidence \nMinistry for Primary Industries\n\n- Karen Adair, Deputy Director-General Agriculture and Investment Services\n- Steve Penno, Director Investment Programmes\n- Edward Tregidga, Manager Animal Sector Policy",
+    "webpage_url": "https://vimeo.com/1110793384",
+    "original_url": "https://vimeo.com/1110793384",
+    "upload_date": "20250818",
+    "timestamp": 1755476607,
+    "release_timestamp": 1755476607,
+    "duration": 2034,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2048640235-245d39b49865b8db000db656054eacbb89a7c99d61bded813c935416cb2ea02f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/248367883.vtt?expires=1778591082&sig=3413af00bccd308f04df093d2bc24b2660e1f27d&download=auto_generated_captions.vtt"
+  }
+}

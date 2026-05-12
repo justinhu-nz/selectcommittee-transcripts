@@ -1,0 +1,6208 @@
+{
+  "language": "en-x-autogen",
+  "duration": 3156.45,
+  "segments": [
+    {
+      "start": 6.58,
+      "end": 7.08,
+      "text": "We have to,"
+    },
+    {
+      "start": 15.76,
+      "end": 16.75,
+      "text": "Right. Good morning."
+    },
+    {
+      "start": 16.75,
+      "end": 18.07,
+      "text": "Morning to see you."
+    },
+    {
+      "start": 18.09,
+      "end": 19.55,
+      "text": "Nice to see some familiar faces there too."
+    },
+    {
+      "start": 20.32,
+      "end": 24.27,
+      "text": "Um, so we've got the, uh, we've got the board"
+    },
+    {
+      "start": 24.61,
+      "end": 26.11,
+      "text": "and all background material fitness."
+    },
+    {
+      "start": 26.2,
+      "end": 27.86,
+      "text": "So if there's anything you want to particularly highlight,"
+    },
+    {
+      "start": 28.16,
+      "end": 30.66,
+      "text": "uh, but I think it could be some rich conversation going on"
+    },
+    {
+      "start": 30.66,
+      "end": 32.19,
+      "text": "some of the, uh, material."
+    },
+    {
+      "start": 32.28,
+      "end": 35.02,
+      "text": "And I noticed that it was described as being, uh, about, um,"
+    },
+    {
+      "start": 35.73,
+      "end": 38.19,
+      "text": "uh, autonomous vehicles or robocar,"
+    },
+    {
+      "start": 38.19,
+      "end": 40.38,
+      "text": "but actually I thought it was more about the Model Monte"
+    },
+    {
+      "start": 40.47,
+      "end": 44.2,
+      "text": "model, which I thought was the, the key, um, key take out"
+    },
+    {
+      "start": 44.2,
+      "end": 46.12,
+      "text": "of, uh, out of all of that and what you can do with it."
+    },
+    {
+      "start": 46.47,
+      "end": 47.52,
+      "text": "So anyway, uh, in,"
+    },
+    {
+      "start": 47.55,
+      "end": 49.88,
+      "text": "in your hands if you wanna do some intros and then, um, yeah."
+    },
+    {
+      "start": 49.88,
+      "end": 51.52,
+      "text": "Thanks Mr. Chair. Mr. Chair."
+    },
+    {
+      "start": 51.59,
+      "end": 52.65,
+      "text": "I'll just do a couple of intros."
+    },
+    {
+      "start": 52.65,
+      "end": 54.05,
+      "text": "I'm Ruth Erhu, I'm acting secretary."
+    },
+    {
+      "start": 54.1,
+      "end": 56.41,
+      "text": "Um, Paul O'Connell, who you know"
+    },
+    {
+      "start": 56.41,
+      "end": 59.09,
+      "text": "before as, um, DC, um, sector strategy,"
+    },
+    {
+      "start": 59.19,
+      "end": 60.24,
+      "text": "and both the modeling people"
+    },
+    {
+      "start": 60.3,
+      "end": 61.88,
+      "text": "and the, um, sector strategy people"
+    },
+    {
+      "start": 61.88,
+      "end": 63.05,
+      "text": "who wrote the Alta Burn this area."
+    },
+    {
+      "start": 63.3,
+      "end": 66.56,
+      "text": "And then we have Dan Jenkins, um, who's the data director"
+    },
+    {
+      "start": 66.56,
+      "end": 68.25,
+      "text": "of data improvement, also has some"
+    },
+    {
+      "start": 68.25,
+      "end": 69.28,
+      "text": "technical modeling people here."
+    },
+    {
+      "start": 69.28,
+      "end": 71.81,
+      "text": "So if you get technical questions about the model,"
+    },
+    {
+      "start": 71.94,
+      "end": 73.61,
+      "text": "we have some people that can answer those questions now."
+    },
+    {
+      "start": 73.67,
+      "end": 75.69,
+      "text": "Cool. Um, and I'll hand over to Paul."
+    },
+    {
+      "start": 76.41,
+      "end": 79.67,
+      "text": "Thanks, Ruth. Thank you. Um, for, just bear with me."
+    },
+    {
+      "start": 79.73,
+      "end": 82.39,
+      "text": "I'd just like to start with a bit of a, uh, talk about"
+    },
+    {
+      "start": 82.41,
+      "end": 83.91,
+      "text": "how we've chosen to focus on"
+    },
+    {
+      "start": 83.91,
+      "end": 85.19,
+      "text": "technology and population change."
+    },
+    {
+      "start": 85.22,
+      "end": 86.28,
+      "text": "You know, why, why this?"
+    },
+    {
+      "start": 86.97,
+      "end": 89.84,
+      "text": "Um, as was said in the Danish Parliament in the 1930s,"
+    },
+    {
+      "start": 89.84,
+      "end": 92.03,
+      "text": "predictions are hard, particularly about the future."
+    },
+    {
+      "start": 93.38,
+      "end": 97.28,
+      "text": "Um, so of approach this, we took some advice from Confucius"
+    },
+    {
+      "start": 97.3,
+      "end": 99.12,
+      "text": "who said, uh, study the past,"
+    },
+    {
+      "start": 99.17,
+      "end": 100.28,
+      "text": "if you would define the future."
+    },
+    {
+      "start": 101.16,
+      "end": 104.25,
+      "text": "So I'd like to start by going back 30 years, uh, which isn't"
+    },
+    {
+      "start": 104.25,
+      "end": 106.02,
+      "text": "that long in the life of our transport system."
+    },
+    {
+      "start": 106.84,
+      "end": 109.45,
+      "text": "Uh, back then I was at, uh, Burnside High in Christchurch."
+    },
+    {
+      "start": 109.59,
+      "end": 111.85,
+      "text": "Uh, and the transport network then down there is"
+    },
+    {
+      "start": 112.28,
+      "end": 113.34,
+      "text": "very similar to the network."
+    },
+    {
+      "start": 113.44,
+      "end": 116.25,
+      "text": "Now. You went down Memorial Ave, uh, to get"
+    },
+    {
+      "start": 116.25,
+      "end": 117.38,
+      "text": "to the city from the airport."
+    },
+    {
+      "start": 117.38,
+      "end": 120.14,
+      "text": "That road's largely unchanged now from what it was then."
+    },
+    {
+      "start": 120.56,
+      "end": 122.81,
+      "text": "Uh, and at that point it was 35 years old."
+    },
+    {
+      "start": 123.64,
+      "end": 126.69,
+      "text": "Uh, my transport experience then would've been very similar"
+    },
+    {
+      "start": 126.75,
+      "end": 128.09,
+      "text": "to a teenager on Christchurch."
+    },
+    {
+      "start": 128.09,
+      "end": 129.66,
+      "text": "Today. I rode my bike to school."
+    },
+    {
+      "start": 129.85,
+      "end": 133.25,
+      "text": "I rode my bike, uh, to work on the weekends through paths"
+    },
+    {
+      "start": 133.25,
+      "end": 134.66,
+      "text": "and roads that are largely the same."
+    },
+    {
+      "start": 135.41,
+      "end": 137.91,
+      "text": "Um, if I go further back the roads, my grandfather road"
+    },
+    {
+      "start": 138.38,
+      "end": 140.63,
+      "text": "to get to work on the railways pages Road"
+    },
+    {
+      "start": 140.63,
+      "end": 142.19,
+      "text": "and Ferry road, they're still there."
+    },
+    {
+      "start": 142.3,
+      "end": 143.59,
+      "text": "The railway lines are still there."
+    },
+    {
+      "start": 144.56,
+      "end": 146.62,
+      "text": "Um, I expect the infrastructure commission will have"
+    },
+    {
+      "start": 146.62,
+      "end": 148.9,
+      "text": "mentioned this to you when they met with you, that most"
+    },
+    {
+      "start": 148.9,
+      "end": 151.18,
+      "text": "of our future infrastructure is infrastructure"
+    },
+    {
+      "start": 151.19,
+      "end": 152.41,
+      "text": "we already have today."
+    },
+    {
+      "start": 153.7,
+      "end": 156.09,
+      "text": "And when we look at the big transport infrastructure changes"
+    },
+    {
+      "start": 156.09,
+      "end": 159.2,
+      "text": "that have happened in Canterbury over the past 30 years,"
+    },
+    {
+      "start": 159.7,
+      "end": 161.72,
+      "text": "it shows how difficult those predictions are."
+    },
+    {
+      "start": 162.22,
+      "end": 165.6,
+      "text": "Uh, and large number of the big investments down there, such"
+    },
+    {
+      "start": 165.6,
+      "end": 166.93,
+      "text": "as the motorway, up to roller stone,"
+    },
+    {
+      "start": 166.93,
+      "end": 169.6,
+      "text": "the state highway one realignment to running Cota, they came"
+    },
+    {
+      "start": 169.62,
+      "end": 172.16,
+      "text": "as a result of earthquakes that no one could have predicted."
+    },
+    {
+      "start": 173.34,
+      "end": 175.53,
+      "text": "The regulations that govern activity on the network,"
+    },
+    {
+      "start": 175.84,
+      "end": 179.53,
+      "text": "they're also very similar, uh, to what they were back then."
+    },
+    {
+      "start": 179.53,
+      "end": 182.25,
+      "text": "They've been updated. But in broad form, our regulatory"
+    },
+    {
+      "start": 182.26,
+      "end": 184.37,
+      "text": "and infrastructure is similar to what it was."
+    },
+    {
+      "start": 184.37,
+      "end": 186.84,
+      "text": "Then, however the population's changed,"
+    },
+    {
+      "start": 187.38,
+      "end": 189.25,
+      "text": "it was 330,000, then."
+    },
+    {
+      "start": 189.31,
+      "end": 191.28,
+      "text": "It's now more than 400,000."
+    },
+    {
+      "start": 191.78,
+      "end": 193.81,
+      "text": "Uh, Rolleston isn't in that number."
+    },
+    {
+      "start": 193.88,
+      "end": 196.44,
+      "text": "They've had 800%, uh,"
+    },
+    {
+      "start": 196.44,
+      "end": 198.12,
+      "text": "population growth over the same period."
+    },
+    {
+      "start": 198.43,
+      "end": 200.56,
+      "text": "And if we look at transport technology back in"
+    },
+    {
+      "start": 200.76,
+      "end": 202.44,
+      "text": "1995, that's changed a lot."
+    },
+    {
+      "start": 203.44,
+      "end": 206.88,
+      "text": "I learned to drive 30 years ago in a dangerous"
+    },
+    {
+      "start": 206.9,
+      "end": 210.84,
+      "text": "and, uh, very unreliable mini lovely, though it was, um,"
+    },
+    {
+      "start": 210.94,
+      "end": 213.72,
+      "text": "my father had a mobile radio in his car, uh,"
+    },
+    {
+      "start": 213.72,
+      "end": 215.59,
+      "text": "where he would get radio calls from a service"
+    },
+    {
+      "start": 215.66,
+      "end": 217.88,
+      "text": "that picked up your phone when you weren't at home"
+    },
+    {
+      "start": 218.09,
+      "end": 219.59,
+      "text": "and then radioed them to you."
+    },
+    {
+      "start": 220.18,
+      "end": 222.31,
+      "text": "Uh, they've, I think they've gone bankrupt now."
+    },
+    {
+      "start": 222.97,
+      "end": 225.63,
+      "text": "Um, my bicycle was steel and clunky, um,"
+    },
+    {
+      "start": 225.63,
+      "end": 227.47,
+      "text": "and our computer was an old Apple Macintosh"
+    },
+    {
+      "start": 227.47,
+      "end": 229.24,
+      "text": "that you couldn't do anything with on the network."
+    },
+    {
+      "start": 229.75,
+      "end": 232.72,
+      "text": "However, the transport technology we use now was"
+    },
+    {
+      "start": 232.72,
+      "end": 233.95,
+      "text": "significantly different."
+    },
+    {
+      "start": 234.57,
+      "end": 237.16,
+      "text": "Um, cars today are arguably closer"
+    },
+    {
+      "start": 237.22,
+      "end": 240.16,
+      "text": "to computers than they are to cars of the 1990s."
+    },
+    {
+      "start": 240.81,
+      "end": 244.19,
+      "text": "Uh, I've got bikes that have got electronic gearing, uh,"
+    },
+    {
+      "start": 244.53,
+      "end": 245.59,
+      "text": "radars on them."
+    },
+    {
+      "start": 246.06,
+      "end": 247.84,
+      "text": "Uh, some with electric motors."
+    },
+    {
+      "start": 247.84,
+      "end": 249.31,
+      "text": "Yesterday I booked flights to Australia"
+    },
+    {
+      "start": 249.82,
+      "end": 251.91,
+      "text": "with an app on my phone that's thousands"
+    },
+    {
+      "start": 251.91,
+      "end": 254.84,
+      "text": "of times more powerful than my computer from the 19th."
+    },
+    {
+      "start": 255.94,
+      "end": 258.4,
+      "text": "Uh, and when it was in, in Australia last, I paid for all"
+    },
+    {
+      "start": 258.4,
+      "end": 261.69,
+      "text": "of my transport by tapping my phone on a, on a reader."
+    },
+    {
+      "start": 261.9,
+      "end": 263.76,
+      "text": "So that's what we've chosen to focus on in this."
+    },
+    {
+      "start": 264.58,
+      "end": 266.2,
+      "text": "If we project out the population"
+    },
+    {
+      "start": 266.67,
+      "end": 268.05,
+      "text": "and use simulation technology"
+    },
+    {
+      "start": 268.05,
+      "end": 270.44,
+      "text": "that computing power has just made possible,"
+    },
+    {
+      "start": 271.56,
+      "end": 273.56,
+      "text": "which we started to use last year,"
+    },
+    {
+      "start": 273.82,
+      "end": 275.31,
+      "text": "what are the likely future outcomes?"
+    },
+    {
+      "start": 275.38,
+      "end": 277.88,
+      "text": "And how might new transport technology affect that?"
+    },
+    {
+      "start": 278.98,
+      "end": 281.75,
+      "text": "So we've got Monty, which is a digital trend of the, uh,"
+    },
+    {
+      "start": 282.51,
+      "end": 283.75,
+      "text": "national Land Transport Network."
+    },
+    {
+      "start": 284.65,
+      "end": 286.36,
+      "text": "We started to use it in 2024."
+    },
+    {
+      "start": 286.81,
+      "end": 289.8,
+      "text": "Uh, and it simulates how mil millions of digital people move"
+    },
+    {
+      "start": 289.8,
+      "end": 292.15,
+      "text": "around, uh, New Zealand over the course of a day."
+    },
+    {
+      "start": 292.38,
+      "end": 293.88,
+      "text": "There's no me in the model,"
+    },
+    {
+      "start": 294.77,
+      "end": 297.68,
+      "text": "but there is an anonymous digital person, 1 0 5 a"
+    },
+    {
+      "start": 297.69,
+      "end": 299.68,
+      "text": "who lives at my address, um,"
+    },
+    {
+      "start": 299.68,
+      "end": 301.71,
+      "text": "and goes to work somewhere in the city each day."
+    },
+    {
+      "start": 302.45,
+      "end": 305.48,
+      "text": "Uh, moderny assesses the optimal way for that person"
+    },
+    {
+      "start": 305.48,
+      "end": 307.56,
+      "text": "to travel throughout their city on a,"
+    },
+    {
+      "start": 307.94,
+      "end": 310.07,
+      "text": "in a given scenario based on the modes"
+    },
+    {
+      "start": 310.07,
+      "end": 311.07,
+      "text": "and routes available to them."
+    },
+    {
+      "start": 311.69,
+      "end": 314.0,
+      "text": "The base cases calibrated to daily traffic"
+    },
+    {
+      "start": 314.01,
+      "end": 315.48,
+      "text": "and public transport use data"
+    },
+    {
+      "start": 315.98,
+      "end": 317.92,
+      "text": "to represent travel in New Zealand today."
+    },
+    {
+      "start": 318.54,
+      "end": 321.71,
+      "text": "And we use it in this L tip to model two possible scenarios,"
+    },
+    {
+      "start": 322.27,
+      "end": 325.44,
+      "text": "a 2055 future with population change, uh,"
+    },
+    {
+      "start": 325.44,
+      "end": 327.0,
+      "text": "and an automated vehicle scenario."
+    },
+    {
+      "start": 327.77,
+      "end": 329.88,
+      "text": "So it's not just trying to, uh,"
+    },
+    {
+      "start": 329.94,
+      "end": 331.71,
+      "text": "get people's mental models about this, right."
+    },
+    {
+      "start": 331.81,
+      "end": 332.95,
+      "text": "Mon Monty's not a model"
+    },
+    {
+      "start": 332.95,
+      "end": 335.48,
+      "text": "where you can just ask it a question like chat GPT,"
+    },
+    {
+      "start": 335.98,
+      "end": 337.0,
+      "text": "uh, and get an answer."
+    },
+    {
+      "start": 337.13,
+      "end": 340.07,
+      "text": "So the, the simulations here took three days"
+    },
+    {
+      "start": 340.3,
+      "end": 342.27,
+      "text": "for the robo taxii, uh,"
+    },
+    {
+      "start": 342.32,
+      "end": 346.15,
+      "text": "simulation in Napier at a 10% population level."
+    },
+    {
+      "start": 346.62,
+      "end": 349.19,
+      "text": "If, if we'd done it with a hundred percent population in ap,"
+    },
+    {
+      "start": 349.25,
+      "end": 351.31,
+      "text": "it would've taken three weeks of computing power."
+    },
+    {
+      "start": 353.61,
+      "end": 356.31,
+      "text": "So to protect project out to 2055, we had"
+    },
+    {
+      "start": 356.31,
+      "end": 358.97,
+      "text": "to create a bespoke 2055 population."
+    },
+    {
+      "start": 359.01,
+      "end": 361.05,
+      "text": "Stats NZ projections don't go out that far."
+    },
+    {
+      "start": 362.52,
+      "end": 365.23,
+      "text": "Uh, and when we run that model in 2055, we find"
+    },
+    {
+      "start": 365.23,
+      "end": 368.38,
+      "text": "that unsurprisingly, uh, as our population grows,"
+    },
+    {
+      "start": 368.67,
+      "end": 370.94,
+      "text": "pressure on infrastructure increases, uh,"
+    },
+    {
+      "start": 370.94,
+      "end": 372.7,
+      "text": "and traffic times increase, that's consistent"
+    },
+    {
+      "start": 372.7,
+      "end": 374.82,
+      "text": "with experiences in all countries as they grow."
+    },
+    {
+      "start": 376.24,
+      "end": 378.74,
+      "text": "Uh, and so what about technology?"
+    },
+    {
+      "start": 378.81,
+      "end": 381.74,
+      "text": "Will, will autonomous vehicles, uh, save us?"
+    },
+    {
+      "start": 382.64,
+      "end": 386.38,
+      "text": "Well, in modeling our hypothetical example in Napier?"
+    },
+    {
+      "start": 387.29,
+      "end": 389.82,
+      "text": "No, we don't think so. Uh, we think the introduction"
+    },
+    {
+      "start": 389.82,
+      "end": 391.38,
+      "text": "of automated vehicles is highly plausible."
+    },
+    {
+      "start": 391.85,
+      "end": 395.7,
+      "text": "Um, 80% of travel in New Zealand Zealanders by car, uh,"
+    },
+    {
+      "start": 395.7,
+      "end": 398.82,
+      "text": "automated trials of underway in the USA"
+    },
+    {
+      "start": 398.82,
+      "end": 399.87,
+      "text": "China and the Middle East."
+    },
+    {
+      "start": 400.75,
+      "end": 404.22,
+      "text": "Um, but our analysis suggests that replacing private car use"
+    },
+    {
+      "start": 404.22,
+      "end": 408.38,
+      "text": "with, uh, roboto taxis doesn't alleviate congestion."
+    },
+    {
+      "start": 408.48,
+      "end": 409.86,
+      "text": "In fact, it, it makes it worse."
+    },
+    {
+      "start": 410.56,
+      "end": 413.86,
+      "text": "Uh, and this one, we find that vehicle kilometers travel"
+    },
+    {
+      "start": 414.74,
+      "end": 416.81,
+      "text": "actually increased 'cause the robot taxis have to move"
+    },
+    {
+      "start": 416.81,
+      "end": 418.77,
+      "text": "around without people in them between trips."
+    },
+    {
+      "start": 419.64,
+      "end": 421.5,
+      "text": "It seems obvious after having done the analysis,"
+    },
+    {
+      "start": 421.5,
+      "end": 423.55,
+      "text": "but it wasn't something we'd considered beforehand."
+    },
+    {
+      "start": 424.21,
+      "end": 425.43,
+      "text": "It's sort underwhelming. Right."
+    },
+    {
+      "start": 426.0,
+      "end": 428.82,
+      "text": "Uh, this tells us the transport system will face a range"
+    },
+    {
+      "start": 428.82,
+      "end": 430.58,
+      "text": "of pressures over the next 50 years,"
+    },
+    {
+      "start": 430.58,
+      "end": 431.87,
+      "text": "particularly in Auckland."
+    },
+    {
+      "start": 432.52,
+      "end": 433.99,
+      "text": "Uh, we'll need to use a range of tools"
+    },
+    {
+      "start": 433.99,
+      "end": 437.5,
+      "text": "to address those pressures from new infrastructure like road"
+    },
+    {
+      "start": 437.5,
+      "end": 440.55,
+      "text": "and rail, uh, public transport services to demand management"
+    },
+    {
+      "start": 440.81,
+      "end": 443.35,
+      "text": "by the time of use Bill that, uh, you have just considered."
+    },
+    {
+      "start": 443.88,
+      "end": 445.75,
+      "text": "As with the treasury's long-term fiscal statement,"
+    },
+    {
+      "start": 445.76,
+      "end": 447.26,
+      "text": "we don't try and model any particular"
+    },
+    {
+      "start": 447.29,
+      "end": 449.06,
+      "text": "policy response in the response, though."
+    },
+    {
+      "start": 450.62,
+      "end": 452.6,
+      "text": "And with that, I'll welcome any questions."
+    },
+    {
+      "start": 453.69,
+      "end": 455.63,
+      "text": "Fa Fascinating personal background there"
+    },
+    {
+      "start": 455.63,
+      "end": 456.83,
+      "text": "as well. Thank you."
+    },
+    {
+      "start": 457.69,
+      "end": 460.03,
+      "text": "Thank you. Uh, Mr. Gee. Yeah, thanks for that."
+    },
+    {
+      "start": 460.1,
+      "end": 463.24,
+      "text": "And really, uh, innovative approach to detecting, uh,"
+    },
+    {
+      "start": 463.43,
+      "end": 465.63,
+      "text": "what might, what might come in the future."
+    },
+    {
+      "start": 466.33,
+      "end": 467.8,
+      "text": "Um, you, you,"
+    },
+    {
+      "start": 468.6,
+      "end": 470.44,
+      "text": "I wanna ask a question about equity and access."
+    },
+    {
+      "start": 470.98,
+      "end": 474.95,
+      "text": "Um, you talked about the bespoke nature of projections, um,"
+    },
+    {
+      "start": 475.06,
+      "end": 476.63,
+      "text": "with, with Monty."
+    },
+    {
+      "start": 476.65,
+      "end": 480.83,
+      "text": "Mm-hmm. How do issues like transport equity, access"
+    },
+    {
+      "start": 481.33,
+      "end": 483.44,
+      "text": "to the transport network by vulnerable groups"
+    },
+    {
+      "start": 483.74,
+      "end": 486.44,
+      "text": "and the like, how, how does that fit within the,"
+    },
+    {
+      "start": 486.44,
+      "end": 488.33,
+      "text": "the Monty model?"
+    },
+    {
+      "start": 488.39,
+      "end": 489.33,
+      "text": "Can you just talk me through"
+    },
+    {
+      "start": 490.12,
+      "end": 491.25,
+      "text": "that sort of side of things? Sure."
+    },
+    {
+      "start": 491.96,
+      "end": 493.18,
+      "text": "Yeah. So the,"
+    },
+    {
+      "start": 493.4,
+      "end": 496.21,
+      "text": "because we have a synthetic population in the model, um,"
+    },
+    {
+      "start": 496.37,
+      "end": 497.94,
+      "text": "with the demographic attributes"
+    },
+    {
+      "start": 497.96,
+      "end": 499.94,
+      "text": "that are representative of New Zealanders."
+    },
+    {
+      "start": 500.36,
+      "end": 502.33,
+      "text": "So we c we could bring that sort"
+    },
+    {
+      "start": 502.33,
+      "end": 506.3,
+      "text": "of wider distribution analysis to understand, uh, access"
+    },
+    {
+      "start": 506.39,
+      "end": 510.81,
+      "text": "for vulnerable or low income households, um, as well as,"
+    },
+    {
+      "start": 510.95,
+      "end": 515.34,
+      "text": "as a, as a distribution impact, uh, transport equity, um,"
+    },
+    {
+      "start": 515.34,
+      "end": 516.86,
+      "text": "across the whole demographic."
+    },
+    {
+      "start": 517.36,
+      "end": 519.38,
+      "text": "We just haven't got to that stage yet."
+    },
+    {
+      "start": 519.38,
+      "end": 521.93,
+      "text": "We've only been using it for a year in, in Ang."
+    },
+    {
+      "start": 522.0,
+      "end": 524.86,
+      "text": "So it's definitely something that's on our, our horizon."
+    },
+    {
+      "start": 527.5,
+      "end": 530.75,
+      "text": "And, and likewise for us for sort of considerations like,"
+    },
+    {
+      "start": 530.86,
+      "end": 532.88,
+      "text": "um, climate resilience changes"
+    },
+    {
+      "start": 533.5,
+      "end": 535.76,
+      "text": "and the like, which might, you know, in terms"
+    },
+    {
+      "start": 535.76,
+      "end": 539.45,
+      "text": "of bespoke projections might be a bit more difficult to, um,"
+    },
+    {
+      "start": 539.45,
+      "end": 541.52,
+      "text": "ascertain what that purely might look like"
+    },
+    {
+      "start": 541.9,
+      "end": 543.76,
+      "text": "in, in a future period."
+    },
+    {
+      "start": 544.42,
+      "end": 546.73,
+      "text": "But that's part of the thinking as well."
+    },
+    {
+      "start": 546.83,
+      "end": 549.16,
+      "text": "Or, or is that already sort of built into some parts"
+    },
+    {
+      "start": 549.18,
+      "end": 550.33,
+      "text": "of, of Monty?"
+    },
+    {
+      "start": 551.09,
+      "end": 553.8,
+      "text": "Absolutely. No. So we have the ability to sort"
+    },
+    {
+      "start": 553.8,
+      "end": 555.61,
+      "text": "of consider any future scenario."
+    },
+    {
+      "start": 556.11,
+      "end": 559.68,
+      "text": "Um, it's just how, how you craft that scenario, that's the,"
+    },
+    {
+      "start": 559.71,
+      "end": 560.73,
+      "text": "the hard bit, I suppose."
+    },
+    {
+      "start": 561.18,
+      "end": 563.64,
+      "text": "So we could consider a, a future"
+    },
+    {
+      "start": 564.41,
+      "end": 568.28,
+      "text": "under significant climate change where sea level rise as,"
+    },
+    {
+      "start": 568.47,
+      "end": 571.57,
+      "text": "um, inundated most of the North island, for example."
+    },
+    {
+      "start": 572.3,
+      "end": 576.37,
+      "text": "And we could then, um, reduce access to the network based on"
+    },
+    {
+      "start": 576.37,
+      "end": 578.33,
+      "text": "that sea level rise if we, if we wish to."
+    },
+    {
+      "start": 578.89,
+      "end": 581.52,
+      "text": "Again, it's, it's, it's part of the exploration"
+    },
+    {
+      "start": 581.52,
+      "end": 583.33,
+      "text": "of sort of future things we can do."
+    },
+    {
+      "start": 583.55,
+      "end": 586.68,
+      "text": "Okay. And just one more question is on the role of, um,"
+    },
+    {
+      "start": 586.91,
+      "end": 589.64,
+      "text": "regions and, and local government obviously have quite a,"
+    },
+    {
+      "start": 589.88,
+      "end": 592.12,
+      "text": "a key role in terms of the transport network."
+    },
+    {
+      "start": 592.59,
+      "end": 596.4,
+      "text": "Um, a lot of that can change at a, at a local level."
+    },
+    {
+      "start": 597.02,
+      "end": 600.61,
+      "text": "So any comments on the applicability of, of, I take"
+    },
+    {
+      "start": 600.61,
+      "end": 604.88,
+      "text": "that your point around, well, the model can flex to sort"
+    },
+    {
+      "start": 604.88,
+      "end": 606.52,
+      "text": "of run a whole range of different scenarios"
+    },
+    {
+      "start": 606.52,
+      "end": 609.37,
+      "text": "and what have you, but how is it resilient in the sense"
+    },
+    {
+      "start": 609.37,
+      "end": 611.97,
+      "text": "of local direction, local decision making,"
+    },
+    {
+      "start": 612.43,
+      "end": 614.16,
+      "text": "that changing dynamic at a local level?"
+    },
+    {
+      "start": 615.0,
+      "end": 617.18,
+      "text": "So in terms of the network that we use, um,"
+    },
+    {
+      "start": 617.18,
+      "end": 619.66,
+      "text": "which would be the like, largest thing that would change,"
+    },
+    {
+      "start": 619.83,
+      "end": 621.54,
+      "text": "I suppose from a regional perspective?"
+    },
+    {
+      "start": 622.28,
+      "end": 625.47,
+      "text": "We, um, we're currently using o Open Street map,"
+    },
+    {
+      "start": 625.47,
+      "end": 630.17,
+      "text": "which is a sort of, uh, a public, uh, accessible network."
+    },
+    {
+      "start": 630.84,
+      "end": 634.7,
+      "text": "Uh, but a lot of the local government planning is already in"
+    },
+    {
+      "start": 634.7,
+      "end": 635.98,
+      "text": "that for future years."
+    },
+    {
+      "start": 636.43,
+      "end": 638.82,
+      "text": "Um, so we are draw, we're drawing from that,"
+    },
+    {
+      "start": 639.2,
+      "end": 642.29,
+      "text": "but obviously we could, um, parti, uh, as you see,"
+    },
+    {
+      "start": 642.36,
+      "end": 644.5,
+      "text": "as you can see with the the Napier example,"
+    },
+    {
+      "start": 644.63,
+      "end": 646.65,
+      "text": "we can isolate a particular region"
+    },
+    {
+      "start": 646.67,
+      "end": 648.22,
+      "text": "and really concentrate on that network."
+    },
+    {
+      "start": 648.39,
+      "end": 650.82,
+      "text": "So if a regional council chose"
+    },
+    {
+      "start": 650.91,
+      "end": 654.82,
+      "text": "to potentially use non future, we could, uh,"
+    },
+    {
+      "start": 655.21,
+      "end": 656.65,
+      "text": "take their regional casual plan"
+    },
+    {
+      "start": 656.88,
+      "end": 659.1,
+      "text": "and completely implement it right within the model"
+    },
+    {
+      "start": 659.12,
+      "end": 661.26,
+      "text": "of futures sort for"
+    },
+    {
+      "start": 661.26,
+      "end": 662.26,
+      "text": "Next. Okay. Um,"
+    },
+    {
+      "start": 662.26,
+      "end": 664.5,
+      "text": "I'll check a few questions so we can start just"
+    },
+    {
+      "start": 664.5,
+      "end": 665.59,
+      "text": "around, around the model."
+    },
+    {
+      "start": 665.97,
+      "end": 668.07,
+      "text": "Um, the, the assumptions you've, you've got,"
+    },
+    {
+      "start": 668.7,
+      "end": 670.71,
+      "text": "that sounds pretty good in terms of how"
+    },
+    {
+      "start": 671.45,
+      "end": 674.35,
+      "text": "the assumptions about human behavior, et cetera, uh,"
+    },
+    {
+      "start": 674.49,
+      "end": 675.54,
+      "text": "map to, to reality."
+    },
+    {
+      "start": 675.61,
+      "end": 677.07,
+      "text": "Is all this all linked"
+    },
+    {
+      "start": 677.07,
+      "end": 678.62,
+      "text": "to see nodding at the back there as well?"
+    },
+    {
+      "start": 678.62,
+      "end": 681.75,
+      "text": "So is this all linked to the diary, um, travel diaries"
+    },
+    {
+      "start": 681.75,
+      "end": 683.02,
+      "text": "and so on that you, you use as well?"
+    },
+    {
+      "start": 683.13,
+      "end": 684.14,
+      "text": "Okay, that's pretty good."
+    },
+    {
+      "start": 684.34,
+      "end": 688.9,
+      "text": "Your, um, your ability to, um, uh,"
+    },
+    {
+      "start": 689.03,
+      "end": 691.11,
+      "text": "model a range of different things you told us,"
+    },
+    {
+      "start": 691.11,
+      "end": 693.11,
+      "text": "that's basically takes three days of computer power"
+    },
+    {
+      "start": 693.11,
+      "end": 694.75,
+      "text": "to do the, um, the nap P one."
+    },
+    {
+      "start": 694.76,
+      "end": 697.75,
+      "text": "Mm-hmm. There's a, any number of different scenarios,"
+    },
+    {
+      "start": 697.85,
+      "end": 701.07,
+      "text": "but, um, what I'm thinking is the ability to be able to,"
+    },
+    {
+      "start": 701.07,
+      "end": 703.18,
+      "text": "at the moment you're doing it as a receiver effectively"
+    },
+    {
+      "start": 703.18,
+      "end": 706.78,
+      "text": "saying, um, we get this, we, we assume this is gonna happen."
+    },
+    {
+      "start": 707.22,
+      "end": 709.26,
+      "text": "What does that look like? We assume"
+    },
+    {
+      "start": 709.26,
+      "end": 710.66,
+      "text": "that's gonna happen, what's that look like?"
+    },
+    {
+      "start": 711.04,
+      "end": 712.26,
+      "text": "But if you actually say, well, look,"
+    },
+    {
+      "start": 712.5,
+      "end": 715.85,
+      "text": "what are all the possible scenarios to model those scenarios"
+    },
+    {
+      "start": 715.85,
+      "end": 717.12,
+      "text": "and say, well, what's actually the best"
+    },
+    {
+      "start": 717.49,
+      "end": 718.88,
+      "text": "scenario for New Zealand Inc."
+    },
+    {
+      "start": 720.13,
+      "end": 724.11,
+      "text": "Is the ability to be able to do that within the model."
+    },
+    {
+      "start": 724.25,
+      "end": 725.78,
+      "text": "And, and how much does that take?"
+    },
+    {
+      "start": 725.87,
+      "end": 728.26,
+      "text": "I mean, you told us that that's computer power three days."
+    },
+    {
+      "start": 728.64,
+      "end": 730.54,
+      "text": "If you've got a person sitting there"
+    },
+    {
+      "start": 730.54,
+      "end": 732.5,
+      "text": "for three days watching the computer, okay, tick,"
+    },
+    {
+      "start": 732.5,
+      "end": 733.62,
+      "text": "tick, tick, the money's going up."
+    },
+    {
+      "start": 733.74,
+      "end": 736.02,
+      "text": "What? But if you haven't, you just said computer go off"
+    },
+    {
+      "start": 736.02,
+      "end": 737.11,
+      "text": "and do your thing and you come"
+    },
+    {
+      "start": 737.11,
+      "end": 738.07,
+      "text": "back and say, oh, what has it told"
+    },
+    {
+      "start": 738.07,
+      "end": 739.62,
+      "text": "me? It's slightly different."
+    },
+    {
+      "start": 739.98,
+      "end": 743.23,
+      "text": "Yeah. So, um, I'll have a go and I'll encourage Dan"
+    },
+    {
+      "start": 743.4,
+      "end": 746.87,
+      "text": "and Jay to, to to, but in if I, uh, misstep, so"
+    },
+    {
+      "start": 746.87,
+      "end": 748.87,
+      "text": "Anybody else wants to come up to the table who needs"
+    },
+    {
+      "start": 748.87,
+      "end": 750.02,
+      "text": "to help answer question come up,"
+    },
+    {
+      "start": 750.22,
+      "end": 751.47,
+      "text": "Ruth, stay there as well. You know,"
+    },
+    {
+      "start": 751.47,
+      "end": 752.47,
+      "text": "We've got plenty of seats. If"
+    },
+    {
+      "start": 752.47,
+      "end": 753.87,
+      "text": "we, if we think about the, uh,"
+    },
+    {
+      "start": 754.25,
+      "end": 759.0,
+      "text": "use the Napier Robo Taxii example, um, if you were"
+    },
+    {
+      "start": 759.0,
+      "end": 761.36,
+      "text": "to try and optimize that, to eliminate the congestion,"
+    },
+    {
+      "start": 761.62,
+      "end": 764.84,
+      "text": "so one of the assumptions in there was it was all there"
+    },
+    {
+      "start": 764.84,
+      "end": 766.48,
+      "text": "were, there were all robax,"
+    },
+    {
+      "start": 766.52,
+      "end": 769.0,
+      "text": "there was no private car ownership, uh,"
+    },
+    {
+      "start": 769.46,
+      "end": 772.43,
+      "text": "and a hundred percent of trips were made by Rob taxis,"
+    },
+    {
+      "start": 772.62,
+      "end": 773.91,
+      "text": "and that the occupancy"
+    },
+    {
+      "start": 774.05,
+      "end": 776.79,
+      "text": "of those rob taxis was one per person."
+    },
+    {
+      "start": 777.74,
+      "end": 780.67,
+      "text": "Um, you could have rerun the model by tweaking some"
+    },
+    {
+      "start": 780.67,
+      "end": 782.55,
+      "text": "of those things and then seeing what happens."
+    },
+    {
+      "start": 782.55,
+      "end": 785.72,
+      "text": "It's not three days. Depends on how long it takes you"
+    },
+    {
+      "start": 785.72,
+      "end": 786.84,
+      "text": "to redo your, yeah, okay."
+    },
+    {
+      "start": 786.86,
+      "end": 788.6,
+      "text": "You can run 'em in parallel. Okay."
+    },
+    {
+      "start": 788.86,
+      "end": 791.91,
+      "text": "If you start with a, with a, I think this solution is going"
+    },
+    {
+      "start": 791.91,
+      "end": 794.48,
+      "text": "to work and you need to do some sensitivity around it,"
+    },
+    {
+      "start": 794.74,
+      "end": 796.43,
+      "text": "for example, three or four different scenarios,"
+    },
+    {
+      "start": 796.74,
+      "end": 799.32,
+      "text": "you could run those in three days altogether."
+    },
+    {
+      "start": 800.1,
+      "end": 802.2,
+      "text": "It would then just take you three times as long"
+    },
+    {
+      "start": 802.2,
+      "end": 803.67,
+      "text": "to do the analysis of, of that stuff,"
+    },
+    {
+      "start": 803.7,
+      "end": 804.88,
+      "text": "or three times the amount of people."
+    },
+    {
+      "start": 805.71,
+      "end": 809.78,
+      "text": "Yeah. Um, in terms of the optimization, um, on a,"
+    },
+    {
+      "start": 809.8,
+      "end": 813.62,
+      "text": "on a network basis, it's quite hard to sort of, uh,"
+    },
+    {
+      "start": 814.24,
+      "end": 818.11,
+      "text": "understand where to place a road to optimize,"
+    },
+    {
+      "start": 818.4,
+      "end": 819.62,
+      "text": "uh, everybody's travel."
+    },
+    {
+      "start": 820.04,
+      "end": 821.75,
+      "text": "So you're gonna inevitably make trade offs."
+    },
+    {
+      "start": 821.97,
+      "end": 826.23,
+      "text": "Um, and some of those may be in a equity space, some"
+    },
+    {
+      "start": 826.23,
+      "end": 827.59,
+      "text": "of them may be in an access space."
+    },
+    {
+      "start": 828.28,
+      "end": 831.54,
+      "text": "Um, so from that perspective, it's hard to give that problem"
+    },
+    {
+      "start": 831.57,
+      "end": 833.87,
+      "text": "to a computer and say, solve, um,"
+    },
+    {
+      "start": 834.86,
+      "end": 836.84,
+      "text": "How would say, well, I, I was, I was envisaging the kind"
+    },
+    {
+      "start": 836.84,
+      "end": 839.6,
+      "text": "of things of saying, Hey, um, for example, freight, okay,"
+    },
+    {
+      "start": 840.01,
+      "end": 841.67,
+      "text": "we, we've got a lot more trucks."
+    },
+    {
+      "start": 841.89,
+      "end": 844.27,
+      "text": "Did we want more, um, transport on rail?"
+    },
+    {
+      "start": 844.27,
+      "end": 847.03,
+      "text": "What does that look like? What's the lever you've gotta pull"
+    },
+    {
+      "start": 847.5,
+      "end": 849.6,
+      "text": "to get that outcome of your urban planning?"
+    },
+    {
+      "start": 849.6,
+      "end": 850.63,
+      "text": "And you said the interface with"
+    },
+    {
+      "start": 850.63,
+      "end": 852.0,
+      "text": "urban planning needs some work on that."
+    },
+    {
+      "start": 852.1,
+      "end": 854.24,
+      "text": "You know, if you, if you let an Auckland or a Hamilton"
+    },
+    {
+      "start": 854.24,
+      "end": 857.0,
+      "text": "or whatever do this, what does that look like compared"
+    },
+    {
+      "start": 857.0,
+      "end": 858.79,
+      "text": "to saying, oh, actually we'd rather it does a bit more"
+    },
+    {
+      "start": 858.79,
+      "end": 861.55,
+      "text": "of this go, what does that look like?"
+    },
+    {
+      "start": 861.65,
+      "end": 863.84,
+      "text": "So it's the leisures that potentially Yeah."
+    },
+    {
+      "start": 864.36,
+      "end": 866.84,
+      "text": "Agencies can pull. And where I was also partly going to to"
+    },
+    {
+      "start": 866.84,
+      "end": 870.12,
+      "text": "that is at the moment we've got this ministry, ministry"
+    },
+    {
+      "start": 870.12,
+      "end": 872.67,
+      "text": "of transporting days long by was working on a, uh,"
+    },
+    {
+      "start": 873.03,
+      "end": 875.63,
+      "text": "transport strategy, um, which was, you know,"
+    },
+    {
+      "start": 875.63,
+      "end": 877.48,
+      "text": "back in the days of the Clark government."
+    },
+    {
+      "start": 877.89,
+      "end": 880.27,
+      "text": "Um, and then we went to the GPS."
+    },
+    {
+      "start": 880.27,
+      "end": 882.15,
+      "text": "And the GPS is much more ministerial fear,"
+    },
+    {
+      "start": 882.16,
+      "end": 884.79,
+      "text": "which means there's a lot more chopping and changing."
+    },
+    {
+      "start": 884.99,
+      "end": 886.15,
+      "text": "Yeah. But we've been encouraged"
+    },
+    {
+      "start": 886.15,
+      "end": 887.43,
+      "text": "to do things which are strategic,"
+    },
+    {
+      "start": 887.5,
+      "end": 889.08,
+      "text": "longer term, longer lasting."
+    },
+    {
+      "start": 889.08,
+      "end": 890.63,
+      "text": "Mm. So if we can have that kind of picture,"
+    },
+    {
+      "start": 890.63,
+      "end": 893.97,
+      "text": "which is what's the best sort of longer term look, you know,"
+    },
+    {
+      "start": 893.97,
+      "end": 895.68,
+      "text": "that will fit better with infrastructure, commission's,"
+    },
+    {
+      "start": 895.68,
+      "end": 898.04,
+      "text": "aspirations as well, what does that look like?"
+    },
+    {
+      "start": 898.07,
+      "end": 900.73,
+      "text": "So it's that, it's those kind of things I'm looking, looking"
+    },
+    {
+      "start": 900.75,
+      "end": 902.45,
+      "text": "At in the, in the pack we"
+    },
+    {
+      "start": 902.61,
+      "end": 904.33,
+      "text": "provided on Monte as a diagram about"
+    },
+    {
+      "start": 904.54,
+      "end": 906.61,
+      "text": "how we effectively choose options."
+    },
+    {
+      "start": 906.62,
+      "end": 910.45,
+      "text": "Mm-hmm. Um, on the right hand side, I think, uh,"
+    },
+    {
+      "start": 910.83,
+      "end": 913.0,
+      "text": "the best way of describing that would be, you know,"
+    },
+    {
+      "start": 913.0,
+      "end": 915.12,
+      "text": "we can model a huge range of scenarios"
+    },
+    {
+      "start": 915.12,
+      "end": 919.49,
+      "text": "and then down select to, I think a good option, um,"
+    },
+    {
+      "start": 919.66,
+      "end": 922.0,
+      "text": "as opposed to modeling only three"
+    },
+    {
+      "start": 922.0,
+      "end": 923.09,
+      "text": "or four different scenarios."
+    },
+    {
+      "start": 923.33,
+      "end": 926.73,
+      "text": "I think that's where the, the ability that we have, um,"
+    },
+    {
+      "start": 927.68,
+      "end": 930.0,
+      "text": "provides a, a potentially more rounded answer."
+    },
+    {
+      "start": 930.5,
+      "end": 931.85,
+      "text": "Maybe it's still suboptimal."
+    },
+    {
+      "start": 931.88,
+      "end": 933.09,
+      "text": "It's very difficult to get to that."
+    },
+    {
+      "start": 933.23,
+      "end": 934.68,
+      "text": "And you're getting clo you get closer. You're"
+    },
+    {
+      "start": 934.68,
+      "end": 935.68,
+      "text": "Getting closer. Yeah. Um,"
+    },
+    {
+      "start": 935.68,
+      "end": 937.85,
+      "text": "but it's definitely in that, in that stack"
+    },
+    {
+      "start": 937.85,
+      "end": 941.25,
+      "text": "of scenarios, how do you pick good ones out of that?"
+    },
+    {
+      "start": 941.62,
+      "end": 943.73,
+      "text": "And you have to make sure that your scenarios in the first"
+    },
+    {
+      "start": 943.73,
+      "end": 945.33,
+      "text": "place are well designed."
+    },
+    {
+      "start": 945.71,
+      "end": 948.64,
+      "text": "And so before give the, the, the, um, speaking to,"
+    },
+    {
+      "start": 948.95,
+      "end": 951.16,
+      "text": "to tool back to anybody else, is that the sort of thing"
+    },
+    {
+      "start": 951.16,
+      "end": 953.25,
+      "text": "that you are looking to do as a ministry?"
+    },
+    {
+      "start": 953.79,
+      "end": 956.12,
+      "text": "Okay, good. I'm, I'm liking that. That's excellent."
+    },
+    {
+      "start": 956.12,
+      "end": 958.09,
+      "text": "Thank you. Um, anybody else wanna pick one up?"
+    },
+    {
+      "start": 958.2,
+      "end": 960.92,
+      "text": "Yeah, Julian, I'm on the list. Okay. No. Okay."
+    },
+    {
+      "start": 961.0,
+      "end": 962.25,
+      "text": "Okay, Greg. Alright,"
+    },
+    {
+      "start": 962.32,
+      "end": 963.32,
+      "text": "Fine. I, um,"
+    },
+    {
+      "start": 963.32,
+      "end": 966.76,
+      "text": "what New Zealand is a highly urbanized country."
+    },
+    {
+      "start": 967.18,
+      "end": 970.52,
+      "text": "Um, I, I remember sitting, my family farm is north"
+    },
+    {
+      "start": 970.52,
+      "end": 973.49,
+      "text": "of Westport, and my brother who's on the farm was"
+    },
+    {
+      "start": 973.6,
+      "end": 975.4,
+      "text": "bemoaning the state of the road."
+    },
+    {
+      "start": 975.99,
+      "end": 977.88,
+      "text": "And that all the money was going into Auckland."
+    },
+    {
+      "start": 977.9,
+      "end": 981.33,
+      "text": "And we sat there and counted vehicles going past the next"
+    },
+    {
+      "start": 981.36,
+      "end": 983.25,
+      "text": "hour, and there were only about eight,"
+    },
+    {
+      "start": 983.83,
+      "end": 985.57,
+      "text": "but they were all commercial vehicles."
+    },
+    {
+      "start": 985.75,
+      "end": 988.45,
+      "text": "They were milk tankers, coal trucks, various other things."
+    },
+    {
+      "start": 989.26,
+      "end": 992.64,
+      "text": "In this model, how do you, um, h"
+    },
+    {
+      "start": 992.9,
+      "end": 994.45,
+      "text": "how, how do you wait?"
+    },
+    {
+      "start": 995.3,
+      "end": 997.12,
+      "text": "The fact that for that road"
+    },
+    {
+      "start": 997.12,
+      "end": 999.85,
+      "text": "and the cost of it, it was absolutely necessary"
+    },
+    {
+      "start": 1000.47,
+      "end": 1003.64,
+      "text": "for the milk tankers versus the travel in Auckland."
+    },
+    {
+      "start": 1003.75,
+      "end": 1005.12,
+      "text": "Does the model do that?"
+    },
+    {
+      "start": 1005.62,
+      "end": 1007.73,
+      "text": "Put, put value on the journey,"
+    },
+    {
+      "start": 1010.64,
+      "end": 1013.47,
+      "text": "put the value for the economy on the journey? Not as such."
+    },
+    {
+      "start": 1014.16,
+      "end": 1016.18,
+      "text": "Um, we, that's a definitely sort"
+    },
+    {
+      "start": 1016.18,
+      "end": 1018.23,
+      "text": "of a decision maker led process."
+    },
+    {
+      "start": 1018.64,
+      "end": 1020.07,
+      "text": "The moment we can inform that"
+    },
+    {
+      "start": 1020.16,
+      "end": 1022.02,
+      "text": "by saying there's eight milk packs in that"
+    },
+    {
+      "start": 1022.02,
+      "end": 1023.07,
+      "text": "Road, well, okay."
+    },
+    {
+      "start": 1023.07,
+      "end": 1027.59,
+      "text": "Does it feed into, so does does want, does the model somehow"
+    },
+    {
+      "start": 1029.12,
+      "end": 1031.31,
+      "text": "put any, differentiate the value of a journey,"
+    },
+    {
+      "start": 1031.74,
+      "end": 1033.07,
+      "text": "I suppose, I suppose is the question?"
+    },
+    {
+      "start": 1033.54,
+      "end": 1035.51,
+      "text": "Well, we can, the value of the journey to the economy,"
+    },
+    {
+      "start": 1037.23,
+      "end": 1039.86,
+      "text": "It, it, it can be imputed if, if people are doing,"
+    },
+    {
+      "start": 1039.91,
+      "end": 1041.62,
+      "text": "for instance, cost benefit analysis"
+    },
+    {
+      "start": 1041.62,
+      "end": 1044.89,
+      "text": "and they want to know how many cars are traveling or trucks"
+    },
+    {
+      "start": 1044.99,
+      "end": 1047.13,
+      "text": "or whatever they happen to be on a given road"
+    },
+    {
+      "start": 1047.56,
+      "end": 1048.73,
+      "text": "and how long it takes them."
+    },
+    {
+      "start": 1048.88,
+      "end": 1051.65,
+      "text": "And if you change a variable how that journey time changes,"
+    },
+    {
+      "start": 1051.66,
+      "end": 1053.17,
+      "text": "Monte can help you do that. Yeah."
+    },
+    {
+      "start": 1054.03,
+      "end": 1057.04,
+      "text": "Because I mean, if it, if that row is out of commission"
+    },
+    {
+      "start": 1057.45,
+      "end": 1060.47,
+      "text": "for, is, is there a model you have out of commission"
+    },
+    {
+      "start": 1060.98,
+      "end": 1063.32,
+      "text": "what the impact will be, the economic impact"
+    },
+    {
+      "start": 1063.32,
+      "end": 1065.15,
+      "text": "of having a road outta commission"
+    },
+    {
+      "start": 1065.15,
+      "end": 1066.8,
+      "text": "where there's only one way in and out?"
+    },
+    {
+      "start": 1067.02,
+      "end": 1068.67,
+      "text": "Yes. And most of the traffic is"
+    },
+    {
+      "start": 1068.67,
+      "end": 1069.68,
+      "text": "Commercial Yeah."
+    },
+    {
+      "start": 1069.68,
+      "end": 1073.64,
+      "text": "Versus a road out in Auckland where there are alternatives."
+    },
+    {
+      "start": 1074.04,
+      "end": 1076.09,
+      "text": "Yeah. So we can absolutely, yeah,"
+    },
+    {
+      "start": 1076.22,
+      "end": 1080.37,
+      "text": "you can absolutely turn a link of the network off, so a road"
+    },
+    {
+      "start": 1080.79,
+      "end": 1082.96,
+      "text": "and then watch what happens when you rerun it"
+    },
+    {
+      "start": 1083.07,
+      "end": 1084.4,
+      "text": "and where the trucks go."
+    },
+    {
+      "start": 1085.46,
+      "end": 1088.24,
+      "text": "Um, so that's, that is some of the things we use it for."
+    },
+    {
+      "start": 1088.63,
+      "end": 1089.88,
+      "text": "Alright. Okay. Thank you."
+    },
+    {
+      "start": 1090.47,
+      "end": 1092.37,
+      "text": "That is a good question because I think Greg's point in"
+    },
+    {
+      "start": 1092.37,
+      "end": 1093.81,
+      "text": "that case is there would be no trucks"
+    },
+    {
+      "start": 1093.81,
+      "end": 1096.09,
+      "text": "because you wouldn't be able to get there or back."
+    },
+    {
+      "start": 1096.31,
+      "end": 1098.37,
+      "text": "But I think it's a very good point about what's the economic"
+    },
+    {
+      "start": 1098.37,
+      "end": 1101.2,
+      "text": "impact of any given road, particularly really they ask,"
+    },
+    {
+      "start": 1101.71,
+      "end": 1102.88,
+      "text": "many of them are screaming out for that."
+    },
+    {
+      "start": 1103.33,
+      "end": 1104.68,
+      "text": "Julianne and then Carlos,"
+    },
+    {
+      "start": 1104.82,
+      "end": 1105.82,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 1106.11,
+      "end": 1109.01,
+      "text": "Um, thanks for your very clear presentation"
+    },
+    {
+      "start": 1109.07,
+      "end": 1110.72,
+      "text": "and stories to illustrate as well."
+    },
+    {
+      "start": 1110.72,
+      "end": 1114.05,
+      "text": "That's really helpful. Um, I actually just had a couple"
+    },
+    {
+      "start": 1114.11,
+      "end": 1116.01,
+      "text": "of kind of technical questions initially,"
+    },
+    {
+      "start": 1116.35,
+      "end": 1118.64,
+      "text": "and I just, it was, you mentioned that, um,"
+    },
+    {
+      "start": 1118.86,
+      "end": 1121.92,
+      "text": "stats New Zealand doesn't have population productions"
+    },
+    {
+      "start": 1122.14,
+      "end": 1123.37,
+      "text": "and for 2055,"
+    },
+    {
+      "start": 1124.46,
+      "end": 1127.37,
+      "text": "So they do, they don't have a, a, a two those."
+    },
+    {
+      "start": 1127.77,
+      "end": 1129.37,
+      "text": "I see, I see. It's very broad."
+    },
+    {
+      "start": 1129.41,
+      "end": 1130.68,
+      "text": "Sorry, sorry, very, very broad."
+    },
+    {
+      "start": 1130.8,
+      "end": 1132.61,
+      "text": "Just say that again, but bit louder. So,"
+    },
+    {
+      "start": 1132.79,
+      "end": 1135.53,
+      "text": "So the Staff New Zealand do produce a whole"
+    },
+    {
+      "start": 1135.53,
+      "end": 1137.88,
+      "text": "of nation population projection, I think at"
+    },
+    {
+      "start": 1137.88,
+      "end": 1139.12,
+      "text": "to 2070 or something."
+    },
+    {
+      "start": 1139.55,
+      "end": 1141.88,
+      "text": "Um, but they don't produce one acts, uh,"
+    },
+    {
+      "start": 1142.37,
+      "end": 1144.16,
+      "text": "a lower spatial resolution. So,"
+    },
+    {
+      "start": 1144.94,
+      "end": 1146.72,
+      "text": "So that makes it hard to do transport modeling."
+    },
+    {
+      "start": 1147.07,
+      "end": 1148.53,
+      "text": "It makes it very hard to do transport modeling."
+    },
+    {
+      "start": 1148.7,
+      "end": 1151.16,
+      "text": "Yes. Okay. So it's quite difficult"
+    },
+    {
+      "start": 1151.16,
+      "end": 1153.81,
+      "text": "to do transport modeling 30 years in the future."
+    },
+    {
+      "start": 1154.62,
+      "end": 1156.57,
+      "text": "How hard would it be to do transport modeling"
+    },
+    {
+      "start": 1156.73,
+      "end": 1157.81,
+      "text": "60 years in the future?"
+    },
+    {
+      "start": 1160.98,
+      "end": 1161.98,
+      "text": "Very hard,"
+    },
+    {
+      "start": 1162.98,
+      "end": 1164.91,
+      "text": "Extremely hard, Extremely hard"
+    },
+    {
+      "start": 1164.91,
+      "end": 1166.84,
+      "text": "to accurately model travel demand"
+    },
+    {
+      "start": 1167.55,
+      "end": 1168.91,
+      "text": "more than 30 years in the future."
+    },
+    {
+      "start": 1169.88,
+      "end": 1171.85,
+      "text": "Well, even 30 years in the future, given"
+    },
+    {
+      "start": 1171.85,
+      "end": 1173.2,
+      "text": "what we know about the reliability"
+    },
+    {
+      "start": 1173.2,
+      "end": 1175.2,
+      "text": "of stats New Zealand's population projections."
+    },
+    {
+      "start": 1175.35,
+      "end": 1178.24,
+      "text": "Yes. Which have consistently tended to undershoot,"
+    },
+    {
+      "start": 1178.59,
+      "end": 1179.85,
+      "text": "um, on immigration."
+    },
+    {
+      "start": 1180.51,
+      "end": 1182.77,
+      "text": "So the New Zealand's population,"
+    },
+    {
+      "start": 1182.94,
+      "end": 1186.33,
+      "text": "if you look at the actual outturns versus projections over"
+    },
+    {
+      "start": 1186.33,
+      "end": 1189.57,
+      "text": "time, says nzs projections have been consistently"
+    },
+    {
+      "start": 1189.57,
+      "end": 1191.4,
+      "text": "conservative compared to what's actually happened."
+    },
+    {
+      "start": 1191.62,
+      "end": 1194.33,
+      "text": "Mainly because they're, I think, trying it's migration."
+    },
+    {
+      "start": 1194.52,
+      "end": 1196.92,
+      "text": "They find it d very, very difficult to, uh,"
+    },
+    {
+      "start": 1197.16,
+      "end": 1199.12,
+      "text": "forecast migration because that sits"
+    },
+    {
+      "start": 1199.42,
+      "end": 1202.88,
+      "text": "as a policy choice rather than a, a variable"
+    },
+    {
+      "start": 1202.88,
+      "end": 1203.99,
+      "text": "that's up to them to"
+    },
+    {
+      "start": 1204.54,
+      "end": 1207.52,
+      "text": "My favorite topic. You gotta stop Kim."
+    },
+    {
+      "start": 1207.55,
+      "end": 1208.8,
+      "text": "Yeah, we gotta stop on that. Just"
+    },
+    {
+      "start": 1208.82,
+      "end": 1211.36,
+      "text": "how does the multimodel like, 'cause it's, it's,"
+    },
+    {
+      "start": 1212.02,
+      "end": 1214.52,
+      "text": "and it's also trying to work on where the dispersal"
+    },
+    {
+      "start": 1214.52,
+      "end": 1216.36,
+      "text": "of people demographics go."
+    },
+    {
+      "start": 1216.41,
+      "end": 1218.88,
+      "text": "So, you know, to the point about Yeah, that's fine."
+    },
+    {
+      "start": 1219.22,
+      "end": 1221.56,
+      "text": "Inability. Well, the difficulty modeling out,"
+    },
+    {
+      "start": 1221.97,
+      "end": 1224.6,
+      "text": "how do you take into account the feedback of"
+    },
+    {
+      "start": 1224.66,
+      "end": 1226.91,
+      "text": "what the model projects making choices,"
+    },
+    {
+      "start": 1227.31,
+      "end": 1229.08,
+      "text": "like say more investment"
+    },
+    {
+      "start": 1229.08,
+      "end": 1233.8,
+      "text": "because Auckland's projected to, um, grow from immigration."
+    },
+    {
+      "start": 1234.02,
+      "end": 1237.08,
+      "text": "So investment goes there, which is sort of self-fulfilling."
+    },
+    {
+      "start": 1237.21,
+      "end": 1240.76,
+      "text": "And then West coast commercial roads don't get the invest."
+    },
+    {
+      "start": 1240.89,
+      "end": 1243.88,
+      "text": "How do you avoid the self-fulfilling feedback loops"
+    },
+    {
+      "start": 1245.23,
+      "end": 1247.61,
+      "text": "Talking about land use not Being, yeah."
+    },
+    {
+      "start": 1248.22,
+      "end": 1250.2,
+      "text": "Um, so you're right."
+    },
+    {
+      "start": 1250.22,
+      "end": 1252.48,
+      "text": "We don't consider land use at the moment in"
+    },
+    {
+      "start": 1252.48,
+      "end": 1253.57,
+      "text": "our, in our model."
+    },
+    {
+      "start": 1254.31,
+      "end": 1258.45,
+      "text": "Um, we, we do consider the impact"
+    },
+    {
+      "start": 1258.67,
+      "end": 1260.58,
+      "text": "of an intervention."
+    },
+    {
+      "start": 1260.95,
+      "end": 1262.17,
+      "text": "So if we were to say"
+    },
+    {
+      "start": 1262.17,
+      "end": 1265.65,
+      "text": "that the roads on the west coast were degraded to the point"
+    },
+    {
+      "start": 1265.73,
+      "end": 1267.82,
+      "text": "where you can't use them anymore, um,"
+    },
+    {
+      "start": 1268.23,
+      "end": 1270.62,
+      "text": "the model has the ability to understand"
+    },
+    {
+      "start": 1270.64,
+      "end": 1274.34,
+      "text": "what the local population would do in those cases now."
+    },
+    {
+      "start": 1274.34,
+      "end": 1276.49,
+      "text": "And then from an economic perspective, you could back"
+    },
+    {
+      "start": 1276.49,
+      "end": 1278.89,
+      "text": "that into some economic analysis, which said, you know,"
+    },
+    {
+      "start": 1278.89,
+      "end": 1282.13,
+      "text": "and this is the drain on the country from not having"
+    },
+    {
+      "start": 1282.13,
+      "end": 1283.3,
+      "text": "that access to that road."
+    },
+    {
+      "start": 1284.28,
+      "end": 1286.17,
+      "text": "Um, what the differential"
+    },
+    {
+      "start": 1286.17,
+      "end": 1288.54,
+      "text": "between investment in one place versus investment"
+    },
+    {
+      "start": 1288.6,
+      "end": 1290.34,
+      "text": "and another, another place from a pure"
+    },
+    {
+      "start": 1290.73,
+      "end": 1292.26,
+      "text": "transport model perspective."
+    },
+    {
+      "start": 1292.95,
+      "end": 1294.26,
+      "text": "Um, it doesn't take"
+    },
+    {
+      "start": 1294.26,
+      "end": 1297.06,
+      "text": "That into No, I get, I under, I understand that it goes,"
+    },
+    {
+      "start": 1297.12,
+      "end": 1299.69,
+      "text": "that it doesn't make the political decision about where"
+    },
+    {
+      "start": 1299.69,
+      "end": 1302.26,
+      "text": "to invest and what sort of country to, to design."
+    },
+    {
+      "start": 1302.32,
+      "end": 1305.26,
+      "text": "But it that, I mean, um, you know, using the model"
+    },
+    {
+      "start": 1305.32,
+      "end": 1307.86,
+      "text": "to Auckland's incredibly important of course,"
+    },
+    {
+      "start": 1308.14,
+      "end": 1311.26,
+      "text": "using the model to model Auckland every single time,"
+    },
+    {
+      "start": 1311.67,
+      "end": 1314.21,
+      "text": "you know, so what is it a third of the population that sort"
+    },
+    {
+      "start": 1314.21,
+      "end": 1317.93,
+      "text": "of pulls Grant Robax example from Napier"
+    },
+    {
+      "start": 1317.93,
+      "end": 1320.89,
+      "text": "and your great soliloquy at the start was doable, all"
+    },
+    {
+      "start": 1320.89,
+      "end": 1325.1,
+      "text": "of us about, um, Christchurch, um, it's like if, if we,"
+    },
+    {
+      "start": 1325.15,
+      "end": 1328.41,
+      "text": "if the model is modeling places to grow"
+    },
+    {
+      "start": 1328.56,
+      "end": 1331.89,
+      "text": "and then figuring out how to make it grow, does that, how,"
+    },
+    {
+      "start": 1332.04,
+      "end": 1335.54,
+      "text": "how, how are you building into your ability"
+    },
+    {
+      "start": 1335.54,
+      "end": 1339.73,
+      "text": "to use this system a like a"
+    },
+    {
+      "start": 1340.69,
+      "end": 1342.3,
+      "text": "blinding effect on your,"
+    },
+    {
+      "start": 1342.56,
+      "end": 1344.41,
+      "text": "on the ministry of Transport itself?"
+    },
+    {
+      "start": 1344.67,
+      "end": 1348.26,
+      "text": "How, you know, if you're constantly modeling Auckland, so"
+    },
+    {
+      "start": 1348.36,
+      "end": 1349.97,
+      "text": "how are we gonna improve Auckland's transport?"
+    },
+    {
+      "start": 1350.07,
+      "end": 1351.89,
+      "text": "We're gonna invest in Auckland for modeling in Auckland."
+    },
+    {
+      "start": 1351.95,
+      "end": 1353.34,
+      "text": "We design, everyone's talking about that."
+    },
+    {
+      "start": 1353.39,
+      "end": 1357.49,
+      "text": "How do you drag the eye and look at another part? Okay,"
+    },
+    {
+      "start": 1357.6,
+      "end": 1360.06,
+      "text": "So, so one of the good things about the model is"
+    },
+    {
+      "start": 1360.06,
+      "end": 1363.34,
+      "text": "because it is nation nationwide, when you do a run,"
+    },
+    {
+      "start": 1363.43,
+      "end": 1367.65,
+      "text": "if you do a, a change in Auckland, it actually says, well"
+    },
+    {
+      "start": 1367.65,
+      "end": 1369.1,
+      "text": "what, what does that have in terms"
+    },
+    {
+      "start": 1369.1,
+      "end": 1370.78,
+      "text": "of a flow on effect for the whole country?"
+    },
+    {
+      "start": 1371.61,
+      "end": 1373.21,
+      "text": "Because those, those freight journeys"
+    },
+    {
+      "start": 1373.21,
+      "end": 1375.3,
+      "text": "that start in Auckland, they end somewhere often"
+    },
+    {
+      "start": 1375.3,
+      "end": 1376.34,
+      "text": "outside of Auckland."
+    },
+    {
+      "start": 1376.47,
+      "end": 1377.86,
+      "text": "So you make changes in Auckland"
+    },
+    {
+      "start": 1377.86,
+      "end": 1379.89,
+      "text": "and actually does flow through the, the whole country"
+    },
+    {
+      "start": 1380.15,
+      "end": 1382.17,
+      "text": "Finals. Just, yeah,"
+    },
+    {
+      "start": 1382.78,
+      "end": 1384.17,
+      "text": "I think it's actually quite a good, I mean it's a good"
+    },
+    {
+      "start": 1384.22,
+      "end": 1385.65,
+      "text": "reflection for us as, as well"
+    },
+    {
+      "start": 1385.65,
+      "end": 1387.06,
+      "text": "to think about if we look back a year"
+    },
+    {
+      "start": 1387.32,
+      "end": 1389.89,
+      "text": "and I guess we've had it been running for a year in a couple"
+    },
+    {
+      "start": 1389.89,
+      "end": 1391.78,
+      "text": "of years, if we look back and see what we've modeled"
+    },
+    {
+      "start": 1391.78,
+      "end": 1392.65,
+      "text": "and what we haven't, it's"
+    },
+    {
+      "start": 1392.73,
+      "end": 1393.62,
+      "text": "probably a good check for us to think."
+    },
+    {
+      "start": 1393.63,
+      "end": 1395.93,
+      "text": "Are there things, questions not asking Monty"
+    },
+    {
+      "start": 1395.93,
+      "end": 1398.06,
+      "text": "that we should be asking Monty that would pick up?"
+    },
+    {
+      "start": 1398.71,
+      "end": 1400.41,
+      "text": "Are we not looking at areas of the country we should be,"
+    },
+    {
+      "start": 1400.78,
+      "end": 1401.78,
+      "text": "I guess? Yeah, well I guess"
+    },
+    {
+      "start": 1401.78,
+      "end": 1403.93,
+      "text": "there's a quick, like if, if they, um,"
+    },
+    {
+      "start": 1404.52,
+      "end": 1408.26,
+      "text": "you know, Taiwan grows, um, based on people wanting"
+    },
+    {
+      "start": 1408.26,
+      "end": 1410.02,
+      "text": "to get out of Auckland because of bad traffic"
+    },
+    {
+      "start": 1410.04,
+      "end": 1411.78,
+      "text": "and all of a sudden the traffic's improved in Auckland"
+    },
+    {
+      "start": 1411.8,
+      "end": 1415.41,
+      "text": "and um, say even though your projection say it's gonna get"
+    },
+    {
+      "start": 1415.41,
+      "end": 1418.82,
+      "text": "slower and, um, and on both time and speed"
+    },
+    {
+      "start": 1419.39,
+      "end": 1421.17,
+      "text": "and people then go to toga and,"
+    },
+    {
+      "start": 1421.19,
+      "end": 1423.45,
+      "text": "and then it's like, well, did you mo Yeah, I guess"
+    },
+    {
+      "start": 1423.45,
+      "end": 1424.69,
+      "text": "what you've said describes the whole"
+    },
+    {
+      "start": 1424.69,
+      "end": 1425.69,
+      "text": "Country. I'm just"
+    },
+    {
+      "start": 1425.69,
+      "end": 1426.57,
+      "text": "worried about some feedback,"
+    },
+    {
+      "start": 1426.57,
+      "end": 1427.57,
+      "text": "Luke. Yeah,"
+    },
+    {
+      "start": 1428.46,
+      "end": 1429.46,
+      "text": "It is. I guess it is a related"
+    },
+    {
+      "start": 1429.46,
+      "end": 1430.05,
+      "text": "question. Okay."
+    },
+    {
+      "start": 1430.84,
+      "end": 1433.48,
+      "text": "Yeah, I mean, you've said obviously you're trying not"
+    },
+    {
+      "start": 1433.48,
+      "end": 1436.53,
+      "text": "to take into account any policy decisions"
+    },
+    {
+      "start": 1436.53,
+      "end": 1437.57,
+      "text": "and just see what things are,"
+    },
+    {
+      "start": 1437.7,
+      "end": 1442.01,
+      "text": "but like, could the model be used to see what the impacts"
+    },
+    {
+      "start": 1442.07,
+      "end": 1445.81,
+      "text": "of EKTR on of different investment choices?"
+    },
+    {
+      "start": 1446.31,
+      "end": 1450.37,
+      "text": "Yes. And that might be useful if EKT is like a proxy for"
+    },
+    {
+      "start": 1451.04,
+      "end": 1453.64,
+      "text": "cost congestion, emissions, et cetera."
+    },
+    {
+      "start": 1453.9,
+      "end": 1454.9,
+      "text": "Yes,"
+    },
+    {
+      "start": 1456.4,
+      "end": 1458.35,
+      "text": "Carlos, Think to chair, well,"
+    },
+    {
+      "start": 1458.37,
+      "end": 1461.07,
+      "text": "my question is your model should be based on"
+    },
+    {
+      "start": 1461.48,
+      "end": 1464.7,
+      "text": "how the city being, um, the future planning."
+    },
+    {
+      "start": 1465.12,
+      "end": 1468.03,
+      "text": "Am I correct? So are we based on the current way"
+    },
+    {
+      "start": 1468.03,
+      "end": 1469.07,
+      "text": "of planning our city"
+    },
+    {
+      "start": 1469.64,
+      "end": 1471.98,
+      "text": "or we based on, there's some factors there."
+    },
+    {
+      "start": 1471.98,
+      "end": 1475.14,
+      "text": "Like for example, in Auckland, if we got another, uh,"
+    },
+    {
+      "start": 1475.35,
+      "end": 1477.22,
+      "text": "I I can see there's a huge increase in"
+    },
+    {
+      "start": 1477.22,
+      "end": 1478.59,
+      "text": "population in 20 years time."
+    },
+    {
+      "start": 1479.01,
+      "end": 1480.31,
+      "text": "Are we good city planning?"
+    },
+    {
+      "start": 1480.78,
+      "end": 1484.55,
+      "text": "Like, you know, wider the city or they going to build up?"
+    },
+    {
+      "start": 1485.22,
+      "end": 1487.42,
+      "text": "I mean that, that affect the whole different model."
+    },
+    {
+      "start": 1487.57,
+      "end": 1490.74,
+      "text": "So, um, so what, what are you guys based on at the moment?"
+    },
+    {
+      "start": 1492.05,
+      "end": 1494.51,
+      "text": "So at the moment it's based on the land transport"
+    },
+    {
+      "start": 1494.51,
+      "end": 1495.9,
+      "text": "network as it currently exists."
+    },
+    {
+      "start": 1496.05,
+      "end": 1498.59,
+      "text": "We haven't yet built in a module that allow"
+    },
+    {
+      "start": 1498.59,
+      "end": 1503.14,
+      "text": "that changes land use that would lead to changes in the,"
+    },
+    {
+      "start": 1503.24,
+      "end": 1504.38,
+      "text": "in the shape of the city."
+    },
+    {
+      "start": 1504.64,
+      "end": 1506.59,
+      "text": "Uh, that's a development area that we're looking to"
+    },
+    {
+      "start": 1506.59,
+      "end": 1507.59,
+      "text": "Develop. So you didn't"
+    },
+    {
+      "start": 1507.59,
+      "end": 1510.22,
+      "text": "actually refer to the past 10 years how,"
+    },
+    {
+      "start": 1510.33,
+      "end": 1512.66,
+      "text": "for example, Auckland, how much, you know,"
+    },
+    {
+      "start": 1512.68,
+      "end": 1514.03,
+      "text": "new area being developed."
+    },
+    {
+      "start": 1514.03,
+      "end": 1516.38,
+      "text": "You didn't put that into the consideration, am I correct?"
+    },
+    {
+      "start": 1517.71,
+      "end": 1521.29,
+      "text": "Because for example, I saying 10 years ago, fab Bush"
+    },
+    {
+      "start": 1521.38,
+      "end": 1522.48,
+      "text": "as a, as a farmland."
+    },
+    {
+      "start": 1522.48,
+      "end": 1525.57,
+      "text": "Yeah. Now, 10 years later on whole FB Bush is"
+    },
+    {
+      "start": 1525.59,
+      "end": 1526.72,
+      "text": "for residential area."
+    },
+    {
+      "start": 1527.27,
+      "end": 1530.09,
+      "text": "Do that take, did this model, taking this into account"
+    },
+    {
+      "start": 1530.74,
+      "end": 1533.09,
+      "text": "how the city will be developed in 10 years time?"
+    },
+    {
+      "start": 1533.31,
+      "end": 1536.53,
+      "text": "So the, the base simulation, um,"
+    },
+    {
+      "start": 1537.28,
+      "end": 1540.09,
+      "text": "that we compare everything to in 2055"
+    },
+    {
+      "start": 1540.62,
+      "end": 1545.57,
+      "text": "is predicated on 2023 network, uh, 2023,"
+    },
+    {
+      "start": 1545.98,
+      "end": 1547.05,
+      "text": "uh, population."
+    },
+    {
+      "start": 1547.51,
+      "end": 1549.37,
+      "text": "So it would've taken into account"
+    },
+    {
+      "start": 1549.42,
+      "end": 1550.81,
+      "text": "the previous 10 years worth of"
+    },
+    {
+      "start": 1551.27,
+      "end": 1554.37,
+      "text": "So what, so what I'm saying is the more dose is only based"
+    },
+    {
+      "start": 1554.37,
+      "end": 1555.88,
+      "text": "on the current city painting."
+    },
+    {
+      "start": 1556.38,
+      "end": 1558.61,
+      "text": "So assume that there's no new software"
+    },
+    {
+      "start": 1558.62,
+      "end": 1562.32,
+      "text": "or new areas being developed in Auckland. Am I correct?"
+    },
+    {
+      "start": 1562.94,
+      "end": 1564.04,
+      "text": "It's a comparative model."
+    },
+    {
+      "start": 1564.1,
+      "end": 1566.28,
+      "text": "So the, the future scenario, you're correct."
+    },
+    {
+      "start": 1566.45,
+      "end": 1568.15,
+      "text": "In the, the 2055 scenario,"
+    },
+    {
+      "start": 1568.21,
+      "end": 1571.99,
+      "text": "we considered didn't necessarily consider any potential"
+    },
+    {
+      "start": 1571.99,
+      "end": 1575.19,
+      "text": "future plan change to Auckland, um,"
+    },
+    {
+      "start": 1575.28,
+      "end": 1576.63,
+      "text": "other than a population growth."
+    },
+    {
+      "start": 1577.46,
+      "end": 1581.16,
+      "text": "Um, and that's to a certain extent reflected in the, in the,"
+    },
+    {
+      "start": 1581.35,
+      "end": 1583.05,
+      "text": "uh, the answers the model gave around"
+    },
+    {
+      "start": 1583.57,
+      "end": 1585.81,
+      "text": "reductions in travel time, I'm sorry, increases."
+    },
+    {
+      "start": 1586.03,
+      "end": 1588.64,
+      "text": "So that, that model will not be inaccurate."
+    },
+    {
+      "start": 1589.38,
+      "end": 1591.53,
+      "text": "Um, p that was happening in 10 years time"
+    },
+    {
+      "start": 1591.53,
+      "end": 1593.53,
+      "text": "because just look at our past 10 years,"
+    },
+    {
+      "start": 1593.62,
+      "end": 1596.33,
+      "text": "the city size in Auckland is growing dramatically"
+    },
+    {
+      "start": 1597.03,
+      "end": 1599.33,
+      "text": "and there's a lot of LiveOps being created as well."
+    },
+    {
+      "start": 1599.74,
+      "end": 1602.05,
+      "text": "But you're telling me that your model didn't put"
+    },
+    {
+      "start": 1602.05,
+      "end": 1603.85,
+      "text": "that into a consideration with,"
+    },
+    {
+      "start": 1604.32,
+      "end": 1607.01,
+      "text": "with more new softwares being created, you know,"
+    },
+    {
+      "start": 1607.01,
+      "end": 1609.4,
+      "text": "outside the, the city central because"
+    },
+    {
+      "start": 1609.4,
+      "end": 1611.05,
+      "text": "otherwise they will actually increase."
+    },
+    {
+      "start": 1611.05,
+      "end": 1615.29,
+      "text": "There's a lot of, you know, um, uh, traveling time as well."
+    },
+    {
+      "start": 1615.63,
+      "end": 1618.64,
+      "text": "Like for example, 10 years ago, not a lot"
+    },
+    {
+      "start": 1618.64,
+      "end": 1621.16,
+      "text": "of people live in Tarini, so they don't need"
+    },
+    {
+      "start": 1621.29,
+      "end": 1622.85,
+      "text": "to travel pack, need to see the center."
+    },
+    {
+      "start": 1623.55,
+      "end": 1624.85,
+      "text": "But if you don't put"
+    },
+    {
+      "start": 1624.85,
+      "end": 1628.16,
+      "text": "that into consideration into your model, how can you equity"
+    },
+    {
+      "start": 1628.47,
+      "end": 1631.4,
+      "text": "that the, the travel income in 20 years time?"
+    },
+    {
+      "start": 1631.83,
+      "end": 1632.88,
+      "text": "So if we, if we were"
+    },
+    {
+      "start": 1632.88,
+      "end": 1634.96,
+      "text": "to create a credible 20 year scenario,"
+    },
+    {
+      "start": 1635.16,
+      "end": 1638.96,
+      "text": "I think we could take the bulk of the land transport plan"
+    },
+    {
+      "start": 1639.11,
+      "end": 1642.72,
+      "text": "for Auckland and whatever, whatever urban design they have,"
+    },
+    {
+      "start": 1643.66,
+      "end": 1645.2,
+      "text": "uh, that is currently available."
+    },
+    {
+      "start": 1645.35,
+      "end": 1647.85,
+      "text": "And we could implement that as a, as a potential scenario."
+    },
+    {
+      "start": 1648.38,
+      "end": 1651.81,
+      "text": "Um, in this case we were looking at a 2055 national"
+    },
+    {
+      "start": 1652.05,
+      "end": 1655.09,
+      "text": "scenario, and at that point it was very difficult for us"
+    },
+    {
+      "start": 1655.09,
+      "end": 1658.88,
+      "text": "to consider all network changes, um, on the same basis."
+    },
+    {
+      "start": 1659.38,
+      "end": 1661.77,
+      "text": "So we, we chose not to do any thought,"
+    },
+    {
+      "start": 1661.77,
+      "end": 1663.61,
+      "text": "Because for my, my questions more like,"
+    },
+    {
+      "start": 1663.61,
+      "end": 1666.12,
+      "text": "because we know that if the, if the city grow tall"
+    },
+    {
+      "start": 1666.35,
+      "end": 1667.77,
+      "text": "or go by size Yep."
+    },
+    {
+      "start": 1667.88,
+      "end": 1669.53,
+      "text": "They will be very different in"
+    },
+    {
+      "start": 1669.53,
+      "end": 1670.81,
+      "text": "traveling council. Absolutely. That's right."
+    },
+    {
+      "start": 1671.38,
+      "end": 1672.68,
+      "text": "And I, I think that's, that's, that's"
+    },
+    {
+      "start": 1672.68,
+      "end": 1673.88,
+      "text": "where I was going at the beginning with"
+    },
+    {
+      "start": 1673.88,
+      "end": 1675.68,
+      "text": "that question about the urban form."
+    },
+    {
+      "start": 1676.07,
+      "end": 1680.37,
+      "text": "So in terms of the, the Auckland City plan, um, that allows"
+    },
+    {
+      "start": 1680.38,
+      "end": 1682.96,
+      "text": "for both this and that, and the question's gotta be,"
+    },
+    {
+      "start": 1682.96,
+      "end": 1684.77,
+      "text": "and it'll be way over the capacity, which will happen"
+    },
+    {
+      "start": 1684.77,
+      "end": 1687.12,
+      "text": "with whatever the growth, um, amount is."
+    },
+    {
+      "start": 1687.35,
+      "end": 1690.16,
+      "text": "The question's gonna be what's the balance of the, the,"
+    },
+    {
+      "start": 1690.16,
+      "end": 1692.53,
+      "text": "the densification versus the, the green fields."
+    },
+    {
+      "start": 1693.18,
+      "end": 1696.33,
+      "text": "And, and actually in modeling that, if you can do that kind"
+    },
+    {
+      "start": 1696.33,
+      "end": 1698.05,
+      "text": "of thing, you could then say, well, here are the transport"
+    },
+    {
+      "start": 1698.24,
+      "end": 1700.16,
+      "text": "outcomes, which one actually works better."
+    },
+    {
+      "start": 1700.52,
+      "end": 1701.72,
+      "text": "Yeah. So the,"
+    },
+    {
+      "start": 1702.18,
+      "end": 1704.48,
+      "text": "we could certainly model those two different scenarios,"
+    },
+    {
+      "start": 1704.51,
+      "end": 1706.68,
+      "text": "but trying to pick a central one at"
+    },
+    {
+      "start": 1706.98,
+      "end": 1709.77,
+      "text": "how it will actually play out pretty fraught if you think"
+    },
+    {
+      "start": 1709.77,
+      "end": 1712.61,
+      "text": "about the way in which the a can plan processes"
+    },
+    {
+      "start": 1713.12,
+      "end": 1715.61,
+      "text": "role politically where it was doing this"
+    },
+    {
+      "start": 1715.61,
+      "end": 1717.16,
+      "text": "and then it was doing this and then it was doing this."
+    },
+    {
+      "start": 1717.16,
+      "end": 1718.2,
+      "text": "Yeah, no, I understand. It was doing this."
+    },
+    {
+      "start": 1718.55,
+      "end": 1719.57,
+      "text": "So it just becomes quite"
+    },
+    {
+      "start": 1719.57,
+      "end": 1720.57,
+      "text": "Difficult. I think my question really"
+    },
+    {
+      "start": 1720.57,
+      "end": 1722.29,
+      "text": "is, if you said, okay,"
+    },
+    {
+      "start": 1722.29,
+      "end": 1725.57,
+      "text": "we know we've got, we expect XX people on the basis"
+    },
+    {
+      "start": 1725.59,
+      "end": 1726.72,
+      "text": "of a long-term"
+    },
+    {
+      "start": 1726.72,
+      "end": 1728.48,
+      "text": "immigration strategy, which we don't actually have."
+    },
+    {
+      "start": 1728.9,
+      "end": 1730.44,
+      "text": "So that makes life very difficult."
+    },
+    {
+      "start": 1730.66,
+      "end": 1732.4,
+      "text": "One day we, one day we'll grow up and do it."
+    },
+    {
+      "start": 1732.79,
+      "end": 1734.01,
+      "text": "Um, I've got one quick question."
+    },
+    {
+      "start": 1734.07,
+      "end": 1735.2,
+      "text": "Uh, yeah, no, I I but,"
+    },
+    {
+      "start": 1735.27,
+      "end": 1736.44,
+      "text": "but if you were to say, okay,"
+    },
+    {
+      "start": 1736.44,
+      "end": 1738.77,
+      "text": "so we expect 300,000 extra people"
+    },
+    {
+      "start": 1739.27,
+      "end": 1741.68,
+      "text": "and the plan allows for 3 million extra people"
+    },
+    {
+      "start": 1742.18,
+      "end": 1743.96,
+      "text": "or 2 million extra people, I believe it's whatever."
+    },
+    {
+      "start": 1744.14,
+      "end": 1746.57,
+      "text": "Um, and you said that, okay, there's 300,000 people are all,"
+    },
+    {
+      "start": 1747.07,
+      "end": 1750.01,
+      "text": "you know, dense corridors on PT routes and et cetera."
+    },
+    {
+      "start": 1750.15,
+      "end": 1751.2,
+      "text": "What does that look like?"
+    },
+    {
+      "start": 1751.62,
+      "end": 1754.61,
+      "text": "And 300,000 people in Greenfield, what does that look like?"
+    },
+    {
+      "start": 1755.03,
+      "end": 1757.37,
+      "text": "And here, Auckland Council, here in New Zealand government,"
+    },
+    {
+      "start": 1757.71,
+      "end": 1759.01,
+      "text": "that is the implication of that."
+    },
+    {
+      "start": 1759.35,
+      "end": 1761.53,
+      "text": "You might wanna think about what your choices would be."
+    },
+    {
+      "start": 1761.84,
+      "end": 1763.64,
+      "text": "That would be a really powerful and useful tool."
+    },
+    {
+      "start": 1764.35,
+      "end": 1765.61,
+      "text": "Are you talking Auckland? Yeah."
+    },
+    {
+      "start": 1765.79,
+      "end": 1768.53,
+      "text": "So we're, we're we're collaborating with Auckland Council on"
+    },
+    {
+      "start": 1768.53,
+      "end": 1770.29,
+      "text": "that land use model development."
+    },
+    {
+      "start": 1770.31,
+      "end": 1773.64,
+      "text": "Yes. So in effect, we'd, we'd have a, a wrapper"
+    },
+    {
+      "start": 1773.64,
+      "end": 1776.77,
+      "text": "around Monty, which would provide that land use variation."
+    },
+    {
+      "start": 1776.83,
+      "end": 1779.61,
+      "text": "We can then model the transport outcomes based on their"
+    },
+    {
+      "start": 1779.88,
+      "end": 1783.85,
+      "text": "scenarios, feed that back into, um, their modeling."
+    },
+    {
+      "start": 1784.18,
+      "end": 1786.72,
+      "text": "So you, you could then get closer to, uh,"
+    },
+    {
+      "start": 1787.7,
+      "end": 1789.44,
+      "text": "an optimized picture of urban design."
+    },
+    {
+      "start": 1789.76,
+      "end": 1792.44,
+      "text": "That would be very powerful, very useful. Anywhere."
+    },
+    {
+      "start": 1792.67,
+      "end": 1795.68,
+      "text": "It's very early days, but yeah. Yep. Um, you"
+    },
+    {
+      "start": 1795.84,
+      "end": 1797.01,
+      "text": "Okay, Carlos? Yep. Yes."
+    },
+    {
+      "start": 1797.07,
+      "end": 1798.96,
+      "text": "I'm quite interesting. One of your data as well,"
+    },
+    {
+      "start": 1799.42,
+      "end": 1802.29,
+      "text": "you modeling only 10% of people went to work?"
+    },
+    {
+      "start": 1803.84,
+      "end": 1806.69,
+      "text": "No, we're, we're modeling a 10% sample of the population."
+    },
+    {
+      "start": 1806.88,
+      "end": 1811.76,
+      "text": "Yes. Uh, which would represent 10%"
+    },
+    {
+      "start": 1811.76,
+      "end": 1816.15,
+      "text": "of the people doing 10% of the, of all activities."
+    },
+    {
+      "start": 1816.3,
+      "end": 1819.99,
+      "text": "So just like 10% of my time is going"
+    },
+    {
+      "start": 1820.17,
+      "end": 1821.43,
+      "text": "to work. Is that what you mean?"
+    },
+    {
+      "start": 1822.27,
+      "end": 1823.27,
+      "text": "No, It's, it's,"
+    },
+    {
+      "start": 1823.62,
+      "end": 1824.96,
+      "text": "Think Of it like a polling sample."
+    },
+    {
+      "start": 1825.02,
+      "end": 1828.12,
+      "text": "We're using a 10% sample to get a representative picture of"
+    },
+    {
+      "start": 1828.12,
+      "end": 1831.4,
+      "text": "what might happen just simply to save on computing power."
+    },
+    {
+      "start": 1831.74,
+      "end": 1834.64,
+      "text": "But this, what is the effect to the real life? Only 10%."
+    },
+    {
+      "start": 1835.39,
+      "end": 1839.7,
+      "text": "Jade, Uh, Jade McKay, chief Transport modeler,"
+    },
+    {
+      "start": 1840.2,
+      "end": 1843.51,
+      "text": "uh, what we're actually doing is that, uh, we are"
+    },
+    {
+      "start": 1844.21,
+      "end": 1847.07,
+      "text": "ning the resolution of the simulation such"
+    },
+    {
+      "start": 1847.07,
+      "end": 1849.79,
+      "text": "that each agent represents 10 people."
+    },
+    {
+      "start": 1850.05,
+      "end": 1852.83,
+      "text": "And that's what we mean by a 10% sub sampling."
+    },
+    {
+      "start": 1853.82,
+      "end": 1856.35,
+      "text": "Okay, Thank you. So the full population is represented."
+    },
+    {
+      "start": 1856.82,
+      "end": 1860.22,
+      "text": "It's just the resolution of the simulation,"
+    },
+    {
+      "start": 1860.32,
+      "end": 1863.55,
+      "text": "which is very highly resolved in that international context."
+    },
+    {
+      "start": 1864.12,
+      "end": 1867.42,
+      "text": "Um, for this kind of model, for any kind of model, um,"
+    },
+    {
+      "start": 1867.53,
+      "end": 1869.83,
+      "text": "has the, each agent has the weight of 10 people,"
+    },
+    {
+      "start": 1870.59,
+      "end": 1872.44,
+      "text": "But when they say when to work, is"
+    },
+    {
+      "start": 1872.44,
+      "end": 1876.24,
+      "text": "that also including those ethnicities during work as well?"
+    },
+    {
+      "start": 1877.05,
+      "end": 1878.32,
+      "text": "Thank you. Yeah, sure."
+    },
+    {
+      "start": 1879.54,
+      "end": 1881.73,
+      "text": "I make the observation that political polls are done about"
+    },
+    {
+      "start": 1881.73,
+      "end": 1883.17,
+      "text": "two 10000th, I think it is."
+    },
+    {
+      "start": 1883.38,
+      "end": 1886.65,
+      "text": "Hmm. So, um, 10 percent's a pretty big number ca um, cam,"
+    },
+    {
+      "start": 1886.91,
+      "end": 1888.89,
+      "text": "Um, yeah, it flies on a little bit from that actually."
+    },
+    {
+      "start": 1889.02,
+      "end": 1891.54,
+      "text": "'cause trying to try to model universe, you'd have"
+    },
+    {
+      "start": 1891.54,
+      "end": 1892.62,
+      "text": "to rebuild the universe."
+    },
+    {
+      "start": 1892.8,
+      "end": 1896.49,
+      "text": "So you've done one big course in samples down to 10%,"
+    },
+    {
+      "start": 1896.77,
+      "end": 1898.69,
+      "text": "another one, this is super, you know,"
+    },
+    {
+      "start": 1898.71,
+      "end": 1901.78,
+      "text": "and all the factors that play in like, you know, um,"
+    },
+    {
+      "start": 1902.12,
+      "end": 1905.93,
+      "text": "illnesses, uh, I know education, but also weather."
+    },
+    {
+      "start": 1906.47,
+      "end": 1908.34,
+      "text": "And then this one that I'm just reading through,"
+    },
+    {
+      "start": 1908.65,
+      "end": 1909.86,
+      "text": "I think sparked my interest."
+    },
+    {
+      "start": 1910.19,
+      "end": 1911.62,
+      "text": "Um, Monte dollars."
+    },
+    {
+      "start": 1912.19,
+      "end": 1915.21,
+      "text": "Can you explain how a multi dollar"
+    },
+    {
+      "start": 1916.13,
+      "end": 1918.02,
+      "text": "operates on the, on the simulation?"
+    },
+    {
+      "start": 1919.07,
+      "end": 1922.33,
+      "text": "So it's just a, effectively, we have parameters"
+    },
+    {
+      "start": 1922.33,
+      "end": 1924.2,
+      "text": "that represent costs in the real world."
+    },
+    {
+      "start": 1924.41,
+      "end": 1926.64,
+      "text": "Uhhuh, uh, cost for car travel, for example,"
+    },
+    {
+      "start": 1926.65,
+      "end": 1928.12,
+      "text": "would be road user charges"
+    },
+    {
+      "start": 1928.31,
+      "end": 1931.96,
+      "text": "or fuel excise dt, um, cost for public transport fairs."
+    },
+    {
+      "start": 1932.42,
+      "end": 1936.01,
+      "text": "Um, the, the dollar conversion factor, if that's"
+    },
+    {
+      "start": 1936.01,
+      "end": 1939.81,
+      "text": "what you consider to Monte dollars, uh, is, uh,"
+    },
+    {
+      "start": 1940.14,
+      "end": 1941.57,
+      "text": "not quite a one-to-one to"
+    },
+    {
+      "start": 1942.14,
+      "end": 1943.37,
+      "text": "New Zealand dollar, New Zealand dollar."
+    },
+    {
+      "start": 1943.39,
+      "end": 1945.68,
+      "text": "Yeah. So when we're modeling a toll rate, for example,"
+    },
+    {
+      "start": 1946.14,
+      "end": 1948.72,
+      "text": "we need to understand what the toll impact is."
+    },
+    {
+      "start": 1949.51,
+      "end": 1952.57,
+      "text": "Um, uh, a Monte dollar does not equate to the,"
+    },
+    {
+      "start": 1952.59,
+      "end": 1954.2,
+      "text": "the actual dollar value of the toll"
+    },
+    {
+      "start": 1954.2,
+      "end": 1956.37,
+      "text": "That you're, so how does the cost"
+    },
+    {
+      "start": 1956.87,
+      "end": 1960.2,
+      "text": "of not using the toll road get accounted for?"
+    },
+    {
+      "start": 1960.59,
+      "end": 1963.72,
+      "text": "So, or not using the, um, travel time"
+    },
+    {
+      "start": 1963.9,
+      "end": 1965.61,
+      "text": "or waiting for a bus,"
+    },
+    {
+      "start": 1965.74,
+      "end": 1967.16,
+      "text": "or like how do you, things"
+    },
+    {
+      "start": 1967.16,
+      "end": 1969.64,
+      "text": "that don't have a current dollar value, um,"
+    },
+    {
+      "start": 1969.66,
+      "end": 1973.24,
+      "text": "say using a car park that's part of the tar seal network,"
+    },
+    {
+      "start": 1973.32,
+      "end": 1975.09,
+      "text": "like how do those things get accounted for?"
+    },
+    {
+      "start": 1975.14,
+      "end": 1979.05,
+      "text": "Mm-hmm. Uh, so those kinds of things, uh,"
+    },
+    {
+      "start": 1979.92,
+      "end": 1982.06,
+      "text": "basically people's behavior."
+    },
+    {
+      "start": 1982.28,
+      "end": 1986.02,
+      "text": "So that, that's the problem of, um, of kind of transporting"
+    },
+    {
+      "start": 1986.89,
+      "end": 1988.89,
+      "text": "behavior in the real world into the simulation."
+    },
+    {
+      "start": 1989.23,
+      "end": 1990.49,
+      "text": "And this is the, and,"
+    },
+    {
+      "start": 1990.52,
+      "end": 1993.97,
+      "text": "and this is the challenge of calibration."
+    },
+    {
+      "start": 1994.43,
+      "end": 1998.45,
+      "text": "So when we calibrate the parameters that correspond to, uh,"
+    },
+    {
+      "start": 1998.47,
+      "end": 2000.54,
+      "text": "the dissatisfaction with waiting for a bus,"
+    },
+    {
+      "start": 2000.67,
+      "end": 2003.02,
+      "text": "the dissatisfaction with driving the satisfaction"
+    },
+    {
+      "start": 2003.02,
+      "end": 2006.1,
+      "text": "of performing some activity, we calibrate those, uh,"
+    },
+    {
+      "start": 2006.24,
+      "end": 2009.89,
+      "text": "parameter, those model parameters to meet observation,"
+    },
+    {
+      "start": 2011.18,
+      "end": 2012.64,
+      "text": "uh, we can then do further."
+    },
+    {
+      "start": 2013.46,
+      "end": 2016.05,
+      "text": "And included in that, included in that is, um,"
+    },
+    {
+      "start": 2016.38,
+      "end": 2018.33,
+      "text": "is the dissatisfaction"
+    },
+    {
+      "start": 2018.33,
+      "end": 2021.01,
+      "text": "for paying a toll on New Zealand's existing toll road. It's"
+    },
+    {
+      "start": 2021.09,
+      "end": 2022.09,
+      "text": "Interesting. So you're equating the,"
+    },
+    {
+      "start": 2022.09,
+      "end": 2023.2,
+      "text": "the Monte dollars"
+    },
+    {
+      "start": 2023.22,
+      "end": 2024.4,
+      "text": "of satisfaction measure."
+    },
+    {
+      "start": 2024.55,
+      "end": 2027.68,
+      "text": "Are you polling people at a bus stop? Are you going Right."
+    },
+    {
+      "start": 2027.87,
+      "end": 2030.57,
+      "text": "10 people using this car park get this much satisfaction,"
+    },
+    {
+      "start": 2030.57,
+      "end": 2032.64,
+      "text": "but one person using the cycle road?"
+    },
+    {
+      "start": 2032.64,
+      "end": 2034.57,
+      "text": "Because with the cycle lane"
+    },
+    {
+      "start": 2034.7,
+      "end": 2036.44,
+      "text": "In general, not polling people in"
+    },
+    {
+      "start": 2036.44,
+      "end": 2037.48,
+      "text": "general observing people."
+    },
+    {
+      "start": 2038.22,
+      "end": 2040.88,
+      "text": "So it is all based on observations. Oh."
+    },
+    {
+      "start": 2040.95,
+      "end": 2044.72,
+      "text": "It's more based on observations than, uh, people's polling."
+    },
+    {
+      "start": 2044.91,
+      "end": 2047.57,
+      "text": "Okay. So ask this, this question then."
+    },
+    {
+      "start": 2047.57,
+      "end": 2052.45,
+      "text": "So if, if, um, a business has got four car parks in front"
+    },
+    {
+      "start": 2052.53,
+      "end": 2054.72,
+      "text": "of it and then a cycle lane's put in"
+    },
+    {
+      "start": 2054.82,
+      "end": 2056.49,
+      "text": "and those, how, how do you measure,"
+    },
+    {
+      "start": 2056.62,
+      "end": 2058.53,
+      "text": "how do you observe the value for the business owner,"
+    },
+    {
+      "start": 2059.03,
+      "end": 2061.97,
+      "text": "the people who then get to drive the car and park, or the"
+    },
+    {
+      "start": 2061.97,
+      "end": 2065.8,
+      "text": "however many people might use that cycle lane, um, over"
+    },
+    {
+      "start": 2065.8,
+      "end": 2068.32,
+      "text": "that time, whether it's one person an hour or 20."
+    },
+    {
+      "start": 2068.55,
+      "end": 2071.74,
+      "text": "Like how do you, how do you make that,"
+    },
+    {
+      "start": 2072.68,
+      "end": 2075.99,
+      "text": "I mean, at the end of the day, it's a transport model,"
+    },
+    {
+      "start": 2076.22,
+      "end": 2080.51,
+      "text": "so it's not gonna consider business owners, um, wellbeing."
+    },
+    {
+      "start": 2081.36,
+      "end": 2085.26,
+      "text": "Um, it's gonna consider the effectively the utility"
+    },
+    {
+      "start": 2085.28,
+      "end": 2087.49,
+      "text": "of having that cycle lane versus having those car"
+    },
+    {
+      "start": 2087.51,
+      "end": 2089.09,
+      "text": "parks in the grand scheme."
+    },
+    {
+      "start": 2089.91,
+      "end": 2093.89,
+      "text": "Um, so from a pure agent choice perspective,"
+    },
+    {
+      "start": 2094.11,
+      "end": 2096.78,
+      "text": "and that's the behavioral change that we're, we're trying"
+    },
+    {
+      "start": 2096.78,
+      "end": 2097.86,
+      "text": "to model, you know,"
+    },
+    {
+      "start": 2097.97,
+      "end": 2100.57,
+      "text": "there's only three real choices for that agent."
+    },
+    {
+      "start": 2101.09,
+      "end": 2104.38,
+      "text": "It's around the mode that it takes to do a journey time"
+    },
+    {
+      "start": 2104.38,
+      "end": 2106.22,
+      "text": "that it, it leaves and the route that it can take."
+    },
+    {
+      "start": 2106.91,
+      "end": 2110.41,
+      "text": "Um, so within that, we can then construct"
+    },
+    {
+      "start": 2110.97,
+      "end": 2115.7,
+      "text": "a value framework around optimum transport routes, um,"
+    },
+    {
+      "start": 2115.91,
+      "end": 2120.22,
+      "text": "the changes to that network in terms of a cycle lane versus,"
+    },
+    {
+      "start": 2120.64,
+      "end": 2124.22,
+      "text": "um, those four car parks at the grand scheme may be,"
+    },
+    {
+      "start": 2124.59,
+      "end": 2125.97,
+      "text": "uh, a change to mode shift."
+    },
+    {
+      "start": 2126.03,
+      "end": 2128.97,
+      "text": "So more people would take the cycle to work, for example,"
+    },
+    {
+      "start": 2129.47,
+      "end": 2131.89,
+      "text": "um, potentially may then use their"
+    },
+    {
+      "start": 2131.89,
+      "end": 2133.18,
+      "text": "Car final clarify, how does"
+    },
+    {
+      "start": 2133.18,
+      "end": 2134.45,
+      "text": "that feed into the multi dollar?"
+    },
+    {
+      "start": 2134.88,
+      "end": 2135.88,
+      "text": "That's the,"
+    },
+    {
+      "start": 2137.45,
+      "end": 2138.45,
+      "text": "That value? Like"
+    },
+    {
+      "start": 2138.45,
+      "end": 2140.14,
+      "text": "how are you, how does the Monte dollar,"
+    },
+    {
+      "start": 2140.72,
+      "end": 2142.7,
+      "text": "so the Monte dollar is a, is is,"
+    },
+    {
+      "start": 2143.01,
+      "end": 2145.99,
+      "text": "is effectively a consideration of how well"
+    },
+    {
+      "start": 2146.38,
+      "end": 2148.78,
+      "text": "that agent is fulfilling its daily plan."
+    },
+    {
+      "start": 2149.09,
+      "end": 2152.51,
+      "text": "It's a mix of utilitarian and satisfaction. Absolutely."
+    },
+    {
+      "start": 2152.61,
+      "end": 2153.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 2155.32,
+      "end": 2156.76,
+      "text": "I just wanna ask you a question about the,"
+    },
+    {
+      "start": 2157.26,
+      "end": 2159.64,
+      "text": "the LTIB um, exercise."
+    },
+    {
+      "start": 2159.74,
+      "end": 2162.45,
+      "text": "So how valuable is this ex?"
+    },
+    {
+      "start": 2162.47,
+      "end": 2165.64,
+      "text": "Is this exercise, the exercise of putting this together,"
+    },
+    {
+      "start": 2165.64,
+      "end": 2167.76,
+      "text": "being and then coming and presenting this?"
+    },
+    {
+      "start": 2167.88,
+      "end": 2170.72,
+      "text": "Obviously we're in the middle of doing that and you know,"
+    },
+    {
+      "start": 2170.91,
+      "end": 2173.01,
+      "text": "and presenting this to us."
+    },
+    {
+      "start": 2173.39,
+      "end": 2174.49,
+      "text": "Is it a valuable process?"
+    },
+    {
+      "start": 2174.95,
+      "end": 2176.76,
+      "text": "And then I've got a follow up question back as well."
+    },
+    {
+      "start": 2178.16,
+      "end": 2182.45,
+      "text": "Um, we in all of our work, like"
+    },
+    {
+      "start": 2182.45,
+      "end": 2184.84,
+      "text": "to keep an eye on the future and, and,"
+    },
+    {
+      "start": 2184.95,
+      "end": 2186.53,
+      "text": "and possible future outcomes."
+    },
+    {
+      "start": 2186.78,
+      "end": 2189.24,
+      "text": "Um, I don't want step too much into the,"
+    },
+    {
+      "start": 2189.24,
+      "end": 2190.68,
+      "text": "into the policy space here."
+    },
+    {
+      "start": 2190.76,
+      "end": 2193.41,
+      "text": "I know that there are considerations around it. Yeah,"
+    },
+    {
+      "start": 2193.55,
+      "end": 2194.55,
+      "text": "That's what I'm asking."
+    },
+    {
+      "start": 2194.64,
+      "end": 2195.64,
+      "text": "Yeah."
+    },
+    {
+      "start": 2196.91,
+      "end": 2198.36,
+      "text": "Sort of being a little bit careful."
+    },
+    {
+      "start": 2198.86,
+      "end": 2202.97,
+      "text": "Um, I think that, uh, in writing the,"
+    },
+    {
+      "start": 2204.05,
+      "end": 2206.7,
+      "text": "in writing the LT and then reflecting over the last few days"
+    },
+    {
+      "start": 2206.7,
+      "end": 2208.66,
+      "text": "before presenting to you, I think I did find it, um,"
+    },
+    {
+      "start": 2209.38,
+      "end": 2211.14,
+      "text": "very, uh, useful."
+    },
+    {
+      "start": 2211.39,
+      "end": 2213.43,
+      "text": "'cause it, it, it does force us to think, well,"
+    },
+    {
+      "start": 2213.43,
+      "end": 2216.18,
+      "text": "what are the factors over which we do have control"
+    },
+    {
+      "start": 2216.45,
+      "end": 2218.51,
+      "text": "as policy, um, advisors."
+    },
+    {
+      "start": 2219.28,
+      "end": 2221.86,
+      "text": "Uh, and uh,"
+    },
+    {
+      "start": 2223.28,
+      "end": 2225.18,
+      "text": "that's always good just to keep in front of mind."
+    },
+    {
+      "start": 2225.26,
+      "end": 2228.11,
+      "text": "Yeah. And my question then, o obviously follows on,"
+    },
+    {
+      "start": 2228.11,
+      "end": 2230.62,
+      "text": "if there were fewer of these, I'm for free"
+    },
+    {
+      "start": 2230.62,
+      "end": 2233.03,
+      "text": "and frank advice, if there were three fewer of these"
+    },
+    {
+      "start": 2233.03,
+      "end": 2235.78,
+      "text": "or only one of these, how would you incorporate this kind"
+    },
+    {
+      "start": 2235.78,
+      "end": 2237.86,
+      "text": "of, 'cause you know, I'm finding this fascinating,"
+    },
+    {
+      "start": 2237.86,
+      "end": 2239.18,
+      "text": "potentially really powerful tool."
+    },
+    {
+      "start": 2239.57,
+      "end": 2242.26,
+      "text": "How would that turn up in a meaningful way in front"
+    },
+    {
+      "start": 2242.26,
+      "end": 2243.82,
+      "text": "of a select committee"
+    },
+    {
+      "start": 2243.82,
+      "end": 2246.39,
+      "text": "or select committees if it was one LTIB"
+    },
+    {
+      "start": 2248.16,
+      "end": 2249.49,
+      "text": "and it wasn't written by MOT?"
+    },
+    {
+      "start": 2249.49,
+      "end": 2251.26,
+      "text": "So MOT it's just one of a lot"
+    },
+    {
+      "start": 2251.26,
+      "end": 2253.22,
+      "text": "Of Agencies contributing."
+    },
+    {
+      "start": 2253.76,
+      "end": 2255.49,
+      "text": "Well, there's never any, any, uh,"
+    },
+    {
+      "start": 2256.05,
+      "end": 2257.93,
+      "text": "anything stopping the select committee from inviting us"
+    },
+    {
+      "start": 2257.93,
+      "end": 2260.22,
+      "text": "to talk to you, uh, about anything we'll always,"
+    },
+    {
+      "start": 2260.24,
+      "end": 2261.34,
+      "text": "uh, make ourselves available."
+    },
+    {
+      "start": 2261.76,
+      "end": 2265.47,
+      "text": "Um, uh, there'd be, would this not required?"
+    },
+    {
+      "start": 2265.47,
+      "end": 2269.2,
+      "text": "There's no way I would not have Monty doing what Monty does"
+    },
+    {
+      "start": 2269.78,
+      "end": 2272.28,
+      "text": "and, um, considering it in, in all"
+    },
+    {
+      "start": 2272.28,
+      "end": 2274.8,
+      "text": "of our advice using it in, in our policy advice."
+    },
+    {
+      "start": 2274.8,
+      "end": 2276.76,
+      "text": "And we're always, uh, open to come and talk to you"
+    },
+    {
+      "start": 2276.76,
+      "end": 2277.76,
+      "text": "About. Okay. But the aware,"
+    },
+    {
+      "start": 2277.76,
+      "end": 2278.28,
+      "text": "the awareness"
+    },
+    {
+      "start": 2278.57,
+      "end": 2282.32,
+      "text": "of the Parliament in whichever way it was done of Monty"
+    },
+    {
+      "start": 2282.45,
+      "end": 2284.47,
+      "text": "and of the potential power of that tool"
+    },
+    {
+      "start": 2284.47,
+      "end": 2286.32,
+      "text": "and the ways in which you could use that tool Mm."
+    },
+    {
+      "start": 2287.14,
+      "end": 2288.14,
+      "text": "Would that come through?"
+    },
+    {
+      "start": 2289.32,
+      "end": 2291.16,
+      "text": "This has been a unique opportunity to be able"
+    },
+    {
+      "start": 2291.16,
+      "end": 2293.84,
+      "text": "to showcase it in a way that we wouldn't have been able to."
+    },
+    {
+      "start": 2293.95,
+      "end": 2295.84,
+      "text": "Yeah, we, it's, it's been on our website."
+    },
+    {
+      "start": 2295.95,
+      "end": 2297.12,
+      "text": "Um, we've,"
+    },
+    {
+      "start": 2297.12,
+      "end": 2299.41,
+      "text": "we've got a conference next week up in"
+    },
+    {
+      "start": 2299.41,
+      "end": 2300.68,
+      "text": "Auckland Transport Knowledge Conference."
+    },
+    {
+      "start": 2300.72,
+      "end": 2302.2,
+      "text": "I, I, I don't think members will be attending."
+    },
+    {
+      "start": 2302.59,
+      "end": 2304.57,
+      "text": "Um, metallic is quite excited."
+    },
+    {
+      "start": 2304.57,
+      "end": 2306.36,
+      "text": "They've done their concert at the same time."
+    },
+    {
+      "start": 2308.11,
+      "end": 2310.64,
+      "text": "Dojo Cat, uh, dojo Cat Metall will also come"
+    },
+    {
+      "start": 2310.64,
+      "end": 2311.72,
+      "text": "to the Transport Knowledge Conference."
+    },
+    {
+      "start": 2312.18,
+      "end": 2313.18,
+      "text": "Uh, but yeah,"
+    },
+    {
+      "start": 2314.2,
+      "end": 2318.16,
+      "text": "It's Model is and the political, uh,"
+    },
+    {
+      "start": 2318.32,
+      "end": 2319.61,
+      "text": "Your ticket's more expensive."
+    },
+    {
+      "start": 2321.03,
+      "end": 2322.89,
+      "text": "Okay. We, we did get aright when we had"
+    },
+    {
+      "start": 2322.89,
+      "end": 2324.01,
+      "text": "to book our flights actually."
+    },
+    {
+      "start": 2325.03,
+      "end": 2329.36,
+      "text": "Oh my. Why is it so expensive? But a okay. Right. Okay."
+    },
+    {
+      "start": 2329.47,
+      "end": 2331.61,
+      "text": "Um, other questions before I go"
+    },
+    {
+      "start": 2331.61,
+      "end": 2333.36,
+      "text": "and monopolize another one? Great."
+    },
+    {
+      "start": 2333.62,
+      "end": 2336.84,
+      "text": "Um, yes, just in on page 17, you're talking about the, um,"
+    },
+    {
+      "start": 2337.39,
+      "end": 2338.68,
+      "text": "core simulated mode."
+    },
+    {
+      "start": 2338.82,
+      "end": 2340.36,
+      "text": "She's got cable car in there."
+    },
+    {
+      "start": 2341.28,
+      "end": 2344.05,
+      "text": "Um, now obviously welling, as far as I'm aware,"
+    },
+    {
+      "start": 2344.05,
+      "end": 2346.2,
+      "text": "there's only one paying, um,"
+    },
+    {
+      "start": 2346.45,
+      "end": 2348.01,
+      "text": "cable car, which is in Wellington."
+    },
+    {
+      "start": 2349.22,
+      "end": 2350.84,
+      "text": "So it's, I'm interested that it's in there."
+    },
+    {
+      "start": 2350.84,
+      "end": 2354.16,
+      "text": "But secondly too, my impression is that most"
+    },
+    {
+      "start": 2354.16,
+      "end": 2355.76,
+      "text": "of the people catch the cable car tourists."
+    },
+    {
+      "start": 2357.34,
+      "end": 2361.07,
+      "text": "So at least 50% is, is there a way in, in this model,"
+    },
+    {
+      "start": 2361.34,
+      "end": 2362.99,
+      "text": "does it tell you that, that most"
+    },
+    {
+      "start": 2362.99,
+      "end": 2364.43,
+      "text": "of the people on there are tourists, so"
+    },
+    {
+      "start": 2364.43,
+      "end": 2365.95,
+      "text": "therefore if it's not there,"
+    },
+    {
+      "start": 2366.61,
+      "end": 2370.68,
+      "text": "it won't have such an impact on transport"
+    },
+    {
+      "start": 2370.72,
+      "end": 2372.55,
+      "text": "because the tourists will just go somewhere else?"
+    },
+    {
+      "start": 2373.22,
+      "end": 2376.32,
+      "text": "So is that, I'm just trying to understand how the,"
+    },
+    {
+      "start": 2376.97,
+      "end": 2379.59,
+      "text": "how far we break down the activity on these things. Mm-hmm."
+    },
+    {
+      "start": 2380.03,
+      "end": 2383.95,
+      "text": "I think the observation would be present in the simulation"
+    },
+    {
+      "start": 2383.95,
+      "end": 2386.95,
+      "text": "that most of the volume on the cable car would be tourists."
+    },
+    {
+      "start": 2387.3,
+      "end": 2389.11,
+      "text": "That is the people going to work."
+    },
+    {
+      "start": 2389.57,
+      "end": 2392.39,
+      "text": "The count of the agents who use the,"
+    },
+    {
+      "start": 2392.93,
+      "end": 2394.95,
+      "text": "who are doing work journeys would be very, very low."
+    },
+    {
+      "start": 2396.59,
+      "end": 2398.49,
+      "text": "The the numbers doing the portion doing"
+    },
+    {
+      "start": 2398.49,
+      "end": 2400.12,
+      "text": "work journeys is very low. That's"
+    },
+    {
+      "start": 2400.12,
+      "end": 2401.01,
+      "text": "Right. Therefore,"
+    },
+    {
+      "start": 2401.86,
+      "end": 2406.24,
+      "text": "So therefore, how does that impact on modeling?"
+    },
+    {
+      "start": 2408.76,
+      "end": 2410.01,
+      "text": "Because I mean, this is, this is,"
+    },
+    {
+      "start": 2410.01,
+      "end": 2414.99,
+      "text": "So, I I I would say more that just the reality is, uh,"
+    },
+    {
+      "start": 2415.47,
+      "end": 2417.51,
+      "text": "produced in the simulation in this context,"
+    },
+    {
+      "start": 2418.39,
+      "end": 2419.62,
+      "text": "I think is there a consequence,"
+    },
+    {
+      "start": 2419.8,
+      "end": 2422.07,
+      "text": "I'm not sure if there necessarily a consequence of"
+    },
+    {
+      "start": 2422.07,
+      "end": 2423.82,
+      "text": "that except to say that the number"
+    },
+    {
+      "start": 2423.82,
+      "end": 2426.51,
+      "text": "of people using this service is low and"
+    },
+    {
+      "start": 2426.51,
+      "end": 2427.55,
+      "text": "therefore we might not,"
+    },
+    {
+      "start": 2427.84,
+      "end": 2431.51,
+      "text": "one might not think it's efficient in a, in a utility sense."
+    },
+    {
+      "start": 2431.72,
+      "end": 2432.86,
+      "text": "Sorry, it just probably goes back"
+    },
+    {
+      "start": 2432.86,
+      "end": 2436.55,
+      "text": "to my other question about the, the, the knowing the purpose"
+    },
+    {
+      "start": 2436.61,
+      "end": 2437.78,
+      "text": "of the journeys mm-hmm."
+    },
+    {
+      "start": 2438.11,
+      "end": 2440.59,
+      "text": "I suppose is the, is the real question I'm asking,"
+    },
+    {
+      "start": 2440.59,
+      "end": 2443.39,
+      "text": "going back to my original question around the, where"
+    },
+    {
+      "start": 2443.95,
+      "end": 2447.11,
+      "text": "majority of the journeys on this road from Westport to"
+    },
+    {
+      "start": 2447.93,
+      "end": 2450.03,
+      "text": "during the day, our commercial journeys mm-hmm."
+    },
+    {
+      "start": 2450.09,
+      "end": 2451.39,
+      "text": "Yeah. Road logs."
+    },
+    {
+      "start": 2452.36,
+      "end": 2454.84,
+      "text": "Yeah. And, and the model knows that it's"
+    },
+    {
+      "start": 2455.01,
+      "end": 2456.64,
+      "text": "Calibrated, the model does Know that."
+    },
+    {
+      "start": 2456.64,
+      "end": 2459.09,
+      "text": "Yeah. It's calibrated to real world data"
+    },
+    {
+      "start": 2459.14,
+      "end": 2460.53,
+      "text": "that's traveling up and down that road."
+    },
+    {
+      "start": 2461.64,
+      "end": 2464.93,
+      "text": "So there's two, two ways we can understand the current"
+    },
+    {
+      "start": 2465.61,
+      "end": 2467.61,
+      "text": "data in that, from that perspective,"
+    },
+    {
+      "start": 2467.61,
+      "end": 2469.57,
+      "text": "there's the household travel survey, which, uh,"
+    },
+    {
+      "start": 2469.91,
+      "end": 2472.7,
+      "text": "we undertake on, uh, sort of quarterly basis."
+    },
+    {
+      "start": 2473.39,
+      "end": 2477.22,
+      "text": "Um, and that gives us information about work journeys,"
+    },
+    {
+      "start": 2477.41,
+      "end": 2479.78,
+      "text": "leisure journeys, uh, education."
+    },
+    {
+      "start": 2480.32,
+      "end": 2482.66,
+      "text": "Um, and then there's observed, uh,"
+    },
+    {
+      "start": 2482.72,
+      "end": 2486.01,
+      "text": "traffic monitoring system accounts that NZTA collect"
+    },
+    {
+      "start": 2486.3,
+      "end": 2487.78,
+      "text": "where we can understand the split"
+    },
+    {
+      "start": 2487.78,
+      "end": 2490.14,
+      "text": "between heavy commercial light commercial"
+    },
+    {
+      "start": 2490.36,
+      "end": 2491.57,
+      "text": "and passenger vehicles."
+    },
+    {
+      "start": 2491.66,
+      "end": 2492.74,
+      "text": "Would that be physical? Is"
+    },
+    {
+      "start": 2492.74,
+      "end": 2494.49,
+      "text": "That where people were standing literally the No."
+    },
+    {
+      "start": 2494.49,
+      "end": 2496.93,
+      "text": "So it all, it, it used to be like that"
+    },
+    {
+      "start": 2496.93,
+      "end": 2498.72,
+      "text": "and those, those counts still happen."
+    },
+    {
+      "start": 2499.14,
+      "end": 2501.89,
+      "text": "Um, but it's an automated system on state highway network."
+    },
+    {
+      "start": 2503.47,
+      "end": 2504.89,
+      "text": "The reason the cable car is in there"
+    },
+    {
+      "start": 2504.89,
+      "end": 2506.05,
+      "text": "is, is partially my fault."
+    },
+    {
+      "start": 2506.32,
+      "end": 2508.61,
+      "text": "I wanted to include a mode. You"
+    },
+    {
+      "start": 2509.86,
+      "end": 2511.8,
+      "text": "Was could,"
+    },
+    {
+      "start": 2513.76,
+      "end": 2517.49,
+      "text": "I wanted to include a mode that, um, was non-traditional,"
+    },
+    {
+      "start": 2517.51,
+      "end": 2519.89,
+      "text": "so not a car or a bus or, or something like that."
+    },
+    {
+      "start": 2519.99,
+      "end": 2522.45,
+      "text": "And, and just for, uh, to prove"
+    },
+    {
+      "start": 2522.45,
+      "end": 2524.93,
+      "text": "that we could actually develop that within the model."
+    },
+    {
+      "start": 2526.26,
+      "end": 2527.53,
+      "text": "So that's, that's the reason there."
+    },
+    {
+      "start": 2527.84,
+      "end": 2530.12,
+      "text": "Another reason the cable car is the, is"
+    },
+    {
+      "start": 2530.12,
+      "end": 2532.84,
+      "text": "because all of the public transport schedules"
+    },
+    {
+      "start": 2533.14,
+      "end": 2535.01,
+      "text": "and services are in the simulation."
+    },
+    {
+      "start": 2535.38,
+      "end": 2536.61,
+      "text": "Cable, car theories,"
+    },
+    {
+      "start": 2536.61,
+      "end": 2537.61,
+      "text": "Buses, theories there."
+    },
+    {
+      "start": 2537.66,
+      "end": 2539.49,
+      "text": "Yep. Yep. Okay. Right. Oh, sorry."
+    },
+    {
+      "start": 2539.55,
+      "end": 2543.28,
+      "text": "So this is like the sub sson? Yes. Sub. Okay. Right."
+    },
+    {
+      "start": 2543.7,
+      "end": 2544.8,
+      "text": "Sorry, GV. Oh"
+    },
+    {
+      "start": 2544.8,
+      "end": 2545.8,
+      "text": "Yeah. So, um, 'cause I"
+    },
+    {
+      "start": 2545.8,
+      "end": 2547.76,
+      "text": "know that some people are looking at, uh,"
+    },
+    {
+      "start": 2548.05,
+      "end": 2550.8,
+      "text": "gondolas for Queenstown public transport."
+    },
+    {
+      "start": 2550.91,
+      "end": 2553.53,
+      "text": "Uh, would gondola be similar"
+    },
+    {
+      "start": 2553.62,
+      "end": 2555.16,
+      "text": "to cable car or is it different?"
+    },
+    {
+      "start": 2555.22,
+      "end": 2556.53,
+      "text": "Is it, can it be, I"
+    },
+    {
+      "start": 2556.53,
+      "end": 2557.76,
+      "text": "Think it would have be used considered in the"
+    },
+    {
+      "start": 2557.76,
+      "end": 2558.76,
+      "text": "Model. You, you could"
+    },
+    {
+      "start": 2558.76,
+      "end": 2559.97,
+      "text": "cont you could consider"
+    },
+    {
+      "start": 2559.97,
+      "end": 2561.12,
+      "text": "it as a bus to be honest."
+    },
+    {
+      "start": 2561.26,
+      "end": 2562.84,
+      "text": "Oh, okay. Um, yeah, the fact that's"
+    },
+    {
+      "start": 2562.88,
+      "end": 2564.59,
+      "text": "More frequent, like"
+    },
+    {
+      "start": 2564.59,
+      "end": 2565.95,
+      "text": "because it operates in a different way,"
+    },
+    {
+      "start": 2566.7,
+      "end": 2569.11,
+      "text": "The frequency, uh, you can change the frequency."
+    },
+    {
+      "start": 2569.14,
+      "end": 2570.47,
+      "text": "So we have the ability to change"
+    },
+    {
+      "start": 2570.47,
+      "end": 2571.51,
+      "text": "the frequency of all public."
+    },
+    {
+      "start": 2571.74,
+      "end": 2573.84,
+      "text": "Ah, I see, I see. Um, so it's sort of"
+    },
+    {
+      "start": 2574.91,
+      "end": 2576.64,
+      "text": "whatever you want to, to consider. Right."
+    },
+    {
+      "start": 2577.3,
+      "end": 2580.2,
+      "text": "Okay. Is this a sub ones? Yeah, okays."
+    },
+    {
+      "start": 2580.74,
+      "end": 2583.03,
+      "text": "Yeah. So what, so what about like aquatic export?"
+    },
+    {
+      "start": 2583.03,
+      "end": 2584.28,
+      "text": "Like, um, these, uh,"
+    },
+    {
+      "start": 2585.8,
+      "end": 2586.8,
+      "text": "Yes. Yeah."
+    },
+    {
+      "start": 2586.8,
+      "end": 2588.99,
+      "text": "Okay. Yeah. Yeah. Alright."
+    },
+    {
+      "start": 2589.36,
+      "end": 2590.8,
+      "text": "Ferries are in there. Fair enough."
+    },
+    {
+      "start": 2590.8,
+      "end": 2593.07,
+      "text": "Yeah. The only mode that we don't currently consider is,"
+    },
+    {
+      "start": 2593.18,
+      "end": 2595.95,
+      "text": "um, domestic aviation, and that's on our development"
+    },
+    {
+      "start": 2595.95,
+      "end": 2596.95,
+      "text": "List. Yeah. Okay."
+    },
+    {
+      "start": 2596.95,
+      "end": 2598.8,
+      "text": "Carlos? Yes."
+    },
+    {
+      "start": 2598.88,
+      "end": 2601.91,
+      "text": "I just want to focus on page 22 on the robot taxi."
+    },
+    {
+      "start": 2602.82,
+      "end": 2606.11,
+      "text": "Like, can you give us a little bit how, how that, um,"
+    },
+    {
+      "start": 2606.22,
+      "end": 2607.43,
+      "text": "discrimination work?"
+    },
+    {
+      "start": 2607.47,
+      "end": 2610.51,
+      "text": "Like, because you also mentioned on 25 there's a limitation"
+    },
+    {
+      "start": 2610.66,
+      "end": 2614.32,
+      "text": "on the current scenario or, or current model as well."
+    },
+    {
+      "start": 2615.18,
+      "end": 2618.55,
+      "text": "So is those robot taxi including those, uh, Uber"
+    },
+    {
+      "start": 2618.78,
+      "end": 2623.64,
+      "text": "or dd like those, um, part-time taxi being used,"
+    },
+    {
+      "start": 2623.89,
+      "end": 2625.76,
+      "text": "you know, as, as commercial vehicle or,"
+    },
+    {
+      "start": 2626.14,
+      "end": 2627.59,
+      "text": "or just traditional taxi?"
+    },
+    {
+      "start": 2630.59,
+      "end": 2634.28,
+      "text": "Okay. So, um, the, the model considers them just to be,"
+    },
+    {
+      "start": 2634.45,
+      "end": 2638.53,
+      "text": "uh, a driverless car, um, that is available"
+    },
+    {
+      "start": 2638.78,
+      "end": 2641.93,
+      "text": "for an agent to, um, pickup"
+    },
+    {
+      "start": 2642.51,
+      "end": 2643.8,
+      "text": "at any one point in time."
+    },
+    {
+      "start": 2644.43,
+      "end": 2646.57,
+      "text": "Um, we don't consider necessarily the sort"
+    },
+    {
+      "start": 2646.57,
+      "end": 2647.8,
+      "text": "of ordering system."
+    },
+    {
+      "start": 2648.22,
+      "end": 2650.24,
+      "text": "There is a wait time that is considered,"
+    },
+    {
+      "start": 2650.24,
+      "end": 2651.68,
+      "text": "but that's basically based on"
+    },
+    {
+      "start": 2651.68,
+      "end": 2653.53,
+      "text": "where the robot taxii is relative"
+    },
+    {
+      "start": 2653.53,
+      "end": 2654.57,
+      "text": "to the agent on the network."
+    },
+    {
+      "start": 2655.3,
+      "end": 2658.2,
+      "text": "Um, otherwise it's just literally that a car that drives"
+    },
+    {
+      "start": 2659.28,
+      "end": 2661.99,
+      "text": "Is because one of your, one of your model is used"
+    },
+    {
+      "start": 2661.99,
+      "end": 2665.11,
+      "text": "to estimate the numbers of taxis serving the population."
+    },
+    {
+      "start": 2665.61,
+      "end": 2670.47,
+      "text": "But we know that with uh, Uber, with DD that can,"
+    },
+    {
+      "start": 2670.47,
+      "end": 2671.61,
+      "text": "you know, the numbers of vehicle"
+    },
+    {
+      "start": 2672.09,
+      "end": 2674.05,
+      "text": "provided to the CV can be different"
+    },
+    {
+      "start": 2674.11,
+      "end": 2675.2,
+      "text": "at different time as well."
+    },
+    {
+      "start": 2675.26,
+      "end": 2677.41,
+      "text": "So it's not like a fixed amount of numbers"
+    },
+    {
+      "start": 2678.28,
+      "end": 2680.01,
+      "text": "provided service at a given time."
+    },
+    {
+      "start": 2680.39,
+      "end": 2682.8,
+      "text": "So have you put that into the consideration or,"
+    },
+    {
+      "start": 2683.14,
+      "end": 2685.8,
+      "text": "or this is something too complicated to put into the model?"
+    },
+    {
+      "start": 2686.18,
+      "end": 2689.24,
+      "text": "No, and I, I think we did try to outline"
+    },
+    {
+      "start": 2689.24,
+      "end": 2691.64,
+      "text": "that we haven't optimized the number of railroad taxis"
+    },
+    {
+      "start": 2691.64,
+      "end": 2693.41,
+      "text": "and we haven't optimized that time tabling"
+    },
+    {
+      "start": 2693.43,
+      "end": 2697.61,
+      "text": "or scheduling, um, uh, of those taxis within the day."
+    },
+    {
+      "start": 2698.18,
+      "end": 2701.2,
+      "text": "Uh, but for this given scenario, I think if we wanted to,"
+    },
+    {
+      "start": 2701.28,
+      "end": 2702.89,
+      "text": "that is something we could actually consider."
+    },
+    {
+      "start": 2703.51,
+      "end": 2707.24,
+      "text": "So, so what you, what you comment on page 25 is you,"
+    },
+    {
+      "start": 2707.24,
+      "end": 2709.72,
+      "text": "you think this model additional robot"
+    },
+    {
+      "start": 2710.32,
+      "end": 2712.61,
+      "text": "scenario insight can be, can be improved"
+    },
+    {
+      "start": 2712.62,
+      "end": 2716.28,
+      "text": "or obtained, is is there something we can do or, or,"
+    },
+    {
+      "start": 2716.28,
+      "end": 2717.8,
+      "text": "or improve the modeling system?"
+    },
+    {
+      "start": 2720.38,
+      "end": 2721.82,
+      "text": "Ruth, Can I just make a point about the,"
+    },
+    {
+      "start": 2721.82,
+      "end": 2725.39,
+      "text": "the robot Xi I mean part of it is, is was for doing it"
+    },
+    {
+      "start": 2725.39,
+      "end": 2727.34,
+      "text": "for the, is to illustrate what Monty can do."
+    },
+    {
+      "start": 2728.01,
+      "end": 2731.59,
+      "text": "So, um, uh, so we weren't trying to do it as something"
+    },
+    {
+      "start": 2731.59,
+      "end": 2732.74,
+      "text": "that we would like a policy"
+    },
+    {
+      "start": 2732.74,
+      "end": 2733.99,
+      "text": "would be producing or anything like that."
+    },
+    {
+      "start": 2734.09,
+      "end": 2736.59,
+      "text": "So, um, just useful to take that into account."
+    },
+    {
+      "start": 2737.57,
+      "end": 2741.39,
+      "text": "Sure. Um, a couple of questions from me then, um,"
+    },
+    {
+      "start": 2741.41,
+      "end": 2742.7,
+      "text": "I'll take up to up to that."
+    },
+    {
+      "start": 2742.7,
+      "end": 2744.03,
+      "text": "Uh, ten two just"
+    },
+    {
+      "start": 2744.03,
+      "end": 2747.11,
+      "text": "after, um, regional variations is an interesting one"
+    },
+    {
+      "start": 2747.11,
+      "end": 2748.91,
+      "text": "because, and the regions, I just encourage you"
+    },
+    {
+      "start": 2748.91,
+      "end": 2750.34,
+      "text": "to think about the region slightly differently."
+    },
+    {
+      "start": 2750.72,
+      "end": 2752.22,
+      "text": "Um, because the, the, in terms"
+    },
+    {
+      "start": 2752.22,
+      "end": 2754.99,
+      "text": "of population changes in particular central North Island,"
+    },
+    {
+      "start": 2755.24,
+      "end": 2757.99,
+      "text": "which is probably a bit of horizons, man, Twon, a bit"
+    },
+    {
+      "start": 2757.99,
+      "end": 2761.51,
+      "text": "of w Cato and so on is quite clearly de it's depopulating at"
+    },
+    {
+      "start": 2761.51,
+      "end": 2765.3,
+      "text": "the moment and that that region variation won't flow"
+    },
+    {
+      "start": 2765.3,
+      "end": 2768.11,
+      "text": "through this 'cause it's gonna be captured in Waikato"
+    },
+    {
+      "start": 2768.11,
+      "end": 2770.66,
+      "text": "and captured in Manawa two I I suspect in those two areas."
+    },
+    {
+      "start": 2771.28,
+      "end": 2774.43,
+      "text": "The other area is Otago, which you go, there's a lot"
+    },
+    {
+      "start": 2774.43,
+      "end": 2776.82,
+      "text": "of growth, but Otago is two different places as well."
+    },
+    {
+      "start": 2776.82,
+      "end": 2778.34,
+      "text": "You've got Central Otago"
+    },
+    {
+      "start": 2778.34,
+      "end": 2780.26,
+      "text": "and Queenstown, which you clearly growing a little fast"
+    },
+    {
+      "start": 2780.68,
+      "end": 2781.95,
+      "text": "and the Dunedin side, which isn't."
+    },
+    {
+      "start": 2782.57,
+      "end": 2787.05,
+      "text": "So again, it just be worth as you are developing this,"
+    },
+    {
+      "start": 2787.05,
+      "end": 2791.14,
+      "text": "thinking about those things, um, just on freight, um,"
+    },
+    {
+      "start": 2791.14,
+      "end": 2793.09,
+      "text": "you've got, I'll be really interested"
+    },
+    {
+      "start": 2793.09,
+      "end": 2795.66,
+      "text": "because we've got this, the aspiration to double exports,"
+    },
+    {
+      "start": 2795.66,
+      "end": 2798.18,
+      "text": "which will include some volume in the next 10 years,"
+    },
+    {
+      "start": 2798.28,
+      "end": 2800.05,
+      "text": "let alone, you know, 30 years."
+    },
+    {
+      "start": 2800.59,
+      "end": 2804.61,
+      "text": "Um, do you done any thinking about if you plugged in"
+    },
+    {
+      "start": 2804.61,
+      "end": 2806.89,
+      "text": "something around, because the consistent message you get"
+    },
+    {
+      "start": 2806.89,
+      "end": 2808.12,
+      "text": "about Kiwi rail, we're getting better,"
+    },
+    {
+      "start": 2808.74,
+      "end": 2810.72,
+      "text": "but price is a real, is a real barrier."
+    },
+    {
+      "start": 2810.91,
+      "end": 2813.16,
+      "text": "So if you see one of the inva interventions we're gonna do"
+    },
+    {
+      "start": 2813.16,
+      "end": 2814.84,
+      "text": "is we're gonna make rail more attractive"
+    },
+    {
+      "start": 2814.84,
+      "end": 2818.53,
+      "text": "because somehow, you know, what does that look like if it's,"
+    },
+    {
+      "start": 2818.59,
+      "end": 2821.84,
+      "text": "you know, more price effective, um, and"
+    },
+    {
+      "start": 2821.84,
+      "end": 2826.32,
+      "text": "therefore more, uh, bulk product et cetera goes on the,"
+    },
+    {
+      "start": 2826.39,
+      "end": 2829.12,
+      "text": "on the railway as opposed to on the, uh, on the road."
+    },
+    {
+      "start": 2829.62,
+      "end": 2830.76,
+      "text": "Can you model those sort of things."
+    },
+    {
+      "start": 2830.82,
+      "end": 2833.76,
+      "text": "And there's also, there's a really quite spectacular graph"
+    },
+    {
+      "start": 2833.76,
+      "end": 2838.01,
+      "text": "you've got on page, um, 11, which is part of that, uh,"
+    },
+    {
+      "start": 2838.01,
+      "end": 2840.57,
+      "text": "which is the truck, the truck numbers."
+    },
+    {
+      "start": 2841.34,
+      "end": 2844.99,
+      "text": "Uh, that graph is close to a doubling"
+    },
+    {
+      "start": 2844.99,
+      "end": 2847.2,
+      "text": "of truck numbers since the GFC according to that."
+    },
+    {
+      "start": 2847.74,
+      "end": 2851.66,
+      "text": "What, what, what's driven that so much that quickly."
+    },
+    {
+      "start": 2852.97,
+      "end": 2855.43,
+      "text": "So two parts to that question, in a sense all about freight."
+    },
+    {
+      "start": 2856.28,
+      "end": 2859.11,
+      "text": "So yes, that we can definitely consider it scenarios where"
+    },
+    {
+      "start": 2860.28,
+      "end": 2864.38,
+      "text": "more, more, uh, road freight is taken by rail."
+    },
+    {
+      "start": 2864.38,
+      "end": 2867.14,
+      "text": "Mm-hmm. Definitely something we can consider, um,"
+    },
+    {
+      "start": 2868.55,
+      "end": 2869.82,
+      "text": "why truck numbers have increased."
+    },
+    {
+      "start": 2870.2,
+      "end": 2874.09,
+      "text": "Um, I presume it is linked to population"
+    },
+    {
+      "start": 2874.09,
+      "end": 2875.53,
+      "text": "as well. Um, it's a"
+    },
+    {
+      "start": 2875.53,
+      "end": 2877.26,
+      "text": "Lot faster population growth spend in that"
+    },
+    {
+      "start": 2877.26,
+      "end": 2881.01,
+      "text": "Time, but also, um, it might be due to online shopping"
+    },
+    {
+      "start": 2881.39,
+      "end": 2883.61,
+      "text": "and uh, greater numbers of, uh,"
+    },
+    {
+      "start": 2884.14,
+      "end": 2887.49,
+      "text": "manufactured goods just being required to be transported"
+    },
+    {
+      "start": 2889.32,
+      "end": 2891.95,
+      "text": "Might be so, so yeah, so so our understanding of"
+    },
+    {
+      "start": 2891.95,
+      "end": 2893.86,
+      "text": "that would be really, because that's a really significant"
+    },
+    {
+      "start": 2893.91,
+      "end": 2897.18,
+      "text": "shift in terms of volume, heavy of,"
+    },
+    {
+      "start": 2897.74,
+      "end": 2899.39,
+      "text": "I presume all these are heavy vehicles, not,"
+    },
+    {
+      "start": 2899.39,
+      "end": 2900.95,
+      "text": "they're not little courier vans."
+    },
+    {
+      "start": 2903.09,
+      "end": 2904.57,
+      "text": "Yeah. Is it, is it,"
+    },
+    {
+      "start": 2904.59,
+      "end": 2906.01,
+      "text": "Is it, is it heavy or medium duty as"
+    },
+    {
+      "start": 2906.01,
+      "end": 2907.01,
+      "text": "Well? It will include medium"
+    },
+    {
+      "start": 2907.01,
+      "end": 2908.38,
+      "text": "duty, so sorry,"
+    },
+    {
+      "start": 2908.47,
+      "end": 2912.09,
+      "text": "it will include everything above, um, 3.5 tons. 3.5 tons."
+    },
+    {
+      "start": 2912.09,
+      "end": 2913.49,
+      "text": "Yeah. So it's not gonna be your courier van."
+    },
+    {
+      "start": 2913.49,
+      "end": 2917.91,
+      "text": "It's gonna be reasonably heavy vehicles by and large. Yeah,"
+    },
+    {
+      "start": 2917.93,
+      "end": 2918.86,
+      "text": "We can, we can get back to you"
+    },
+    {
+      "start": 2918.86,
+      "end": 2919.7,
+      "text": "on the exact right down. We'll just,"
+    },
+    {
+      "start": 2920.38,
+      "end": 2922.86,
+      "text": "Yeah, We can get back to you on the, in the, on the,"
+    },
+    {
+      "start": 2923.36,
+      "end": 2925.39,
+      "text": "but over that similar sort of period, we,"
+    },
+    {
+      "start": 2925.45,
+      "end": 2928.91,
+      "text": "we have seen a similar concomitant compliant in, um,"
+    },
+    {
+      "start": 2929.09,
+      "end": 2930.59,
+      "text": "in rail freight volume in"
+    },
+    {
+      "start": 2930.59,
+      "end": 2931.59,
+      "text": "Terms of that. Yeah. So, okay. That's,"
+    },
+    {
+      "start": 2931.59,
+      "end": 2932.11,
+      "text": "that's,"
+    },
+    {
+      "start": 2932.11,
+      "end": 2933.34,
+      "text": "that's a really significant thing to"
+    },
+    {
+      "start": 2933.34,
+      "end": 2934.34,
+      "text": "Understand. Yeah, yeah."
+    },
+    {
+      "start": 2934.34,
+      "end": 2937.47,
+      "text": "The rise of trucks does, does mirror the decline"
+    },
+    {
+      "start": 2937.47,
+      "end": 2939.22,
+      "text": "of the decline of rail volumes."
+    },
+    {
+      "start": 2939.47,
+      "end": 2941.26,
+      "text": "We'll follow that with um, other parties too."
+    },
+    {
+      "start": 2941.26,
+      "end": 2942.55,
+      "text": "So I'd be interested a bit more of that. And look,"
+    },
+    {
+      "start": 2942.55,
+      "end": 2944.43,
+      "text": "my last question is around, um, EVs"
+    },
+    {
+      "start": 2944.43,
+      "end": 2946.82,
+      "text": "and energy, which is on page 16."
+    },
+    {
+      "start": 2947.36,
+      "end": 2949.78,
+      "text": "Um, and we talked about EVs,"
+    },
+    {
+      "start": 2949.8,
+      "end": 2951.39,
+      "text": "but I dunno whether that's still true,"
+    },
+    {
+      "start": 2951.39,
+      "end": 2953.47,
+      "text": "the 2030 being roughly comparable,"
+    },
+    {
+      "start": 2953.84,
+      "end": 2956.86,
+      "text": "but it's the interface of EVs with the energy system,"
+    },
+    {
+      "start": 2957.05,
+      "end": 2958.47,
+      "text": "both positive and negative"
+    },
+    {
+      "start": 2958.8,
+      "end": 2960.11,
+      "text": "and whether you've actually looked at that,"
+    },
+    {
+      "start": 2960.18,
+      "end": 2962.34,
+      "text": "'cause obviously energy fits within this, um,"
+    },
+    {
+      "start": 2962.84,
+      "end": 2964.3,
+      "text": "select committee's purview as well."
+    },
+    {
+      "start": 2964.89,
+      "end": 2966.3,
+      "text": "Have you, have you looked at that?"
+    },
+    {
+      "start": 2967.51,
+      "end": 2969.61,
+      "text": "Do agents have to refill their vehicles?"
+    },
+    {
+      "start": 2971.03,
+      "end": 2972.82,
+      "text": "No, we, we can't implement that"
+    },
+    {
+      "start": 2973.49,
+      "end": 2974.49,
+      "text": "So no, not yet."
+    },
+    {
+      "start": 2974.57,
+      "end": 2976.16,
+      "text": "Not yet. Okay. That 'cause that'd be really interesting"
+    },
+    {
+      "start": 2976.36,
+      "end": 2978.11,
+      "text": "'cause it could be a plus and a minus depending on"
+    },
+    {
+      "start": 2978.11,
+      "end": 2979.43,
+      "text": "how it interfaces works the system."
+    },
+    {
+      "start": 2979.51,
+      "end": 2981.28,
+      "text": "Okay. Look, um, we've,"
+    },
+    {
+      "start": 2981.57,
+      "end": 2983.24,
+      "text": "we've come pretty much to the end of our time."
+    },
+    {
+      "start": 2983.66,
+      "end": 2986.36,
+      "text": "Um, so thank you. But can I just say what is the,"
+    },
+    {
+      "start": 2986.47,
+      "end": 2988.43,
+      "text": "I mean if there are things which you said, you know,"
+    },
+    {
+      "start": 2988.43,
+      "end": 2990.51,
+      "text": "invite you in any time on this,"
+    },
+    {
+      "start": 2990.57,
+      "end": 2992.03,
+      "text": "but if there are things which we"
+    },
+    {
+      "start": 2992.03,
+      "end": 2993.24,
+      "text": "as select committee will say, well look"
+    },
+    {
+      "start": 2993.24,
+      "end": 2994.76,
+      "text": "what would the future look like?"
+    },
+    {
+      "start": 2994.99,
+      "end": 2997.28,
+      "text": "'cause we should be thinking about long-term futures."
+    },
+    {
+      "start": 2997.59,
+      "end": 2999.84,
+      "text": "What would the future look like if we pulled this lever,"
+    },
+    {
+      "start": 2999.86,
+      "end": 3002.38,
+      "text": "this lever and this lever, you know,"
+    },
+    {
+      "start": 3002.99,
+      "end": 3004.3,
+      "text": "or push pause on that lever."
+    },
+    {
+      "start": 3005.03,
+      "end": 3007.53,
+      "text": "That's the kind of thing that you are doing thinking about."
+    },
+    {
+      "start": 3007.76,
+      "end": 3009.78,
+      "text": "So it'd be really interesting to know what kind"
+    },
+    {
+      "start": 3009.78,
+      "end": 3011.38,
+      "text": "of scenarios you are thinking about"
+    },
+    {
+      "start": 3011.91,
+      "end": 3014.61,
+      "text": "and then trying to optimize our overall transport system"
+    },
+    {
+      "start": 3014.61,
+      "end": 3015.82,
+      "text": "and the way it interfaces with that."
+    },
+    {
+      "start": 3015.82,
+      "end": 3019.68,
+      "text": "As Greg asked with our economy, we're largely guided"
+    },
+    {
+      "start": 3019.7,
+      "end": 3021.93,
+      "text": "By our ministerial priorities have. Yes."
+    },
+    {
+      "start": 3021.93,
+      "end": 3024.09,
+      "text": "But if we could update you next year on what we are"
+    },
+    {
+      "start": 3024.97,
+      "end": 3026.53,
+      "text": "sometime at some point next year, but we, what we do"
+    },
+    {
+      "start": 3026.53,
+      "end": 3027.72,
+      "text": "With Ponte, well, we'll,"
+    },
+    {
+      "start": 3027.72,
+      "end": 3028.8,
+      "text": "We'll have you in front of us for,"
+    },
+    {
+      "start": 3028.86,
+      "end": 3030.76,
+      "text": "Um, scrutiny week."
+    },
+    {
+      "start": 3030.76,
+      "end": 3032.05,
+      "text": "So yes, that's just in a month"
+    },
+    {
+      "start": 3032.05,
+      "end": 3033.05,
+      "text": "Time. So they're probably not mean."
+    },
+    {
+      "start": 3033.05,
+      "end": 3033.84,
+      "text": "We talk a little bit"
+    },
+    {
+      "start": 3033.84,
+      "end": 3034.84,
+      "text": "More about it then. No. But have"
+    },
+    {
+      "start": 3034.84,
+      "end": 3035.97,
+      "text": "a little bit of a think about it for that,"
+    },
+    {
+      "start": 3035.99,
+      "end": 3037.12,
+      "text": "for that, um, time."
+    },
+    {
+      "start": 3037.12,
+      "end": 3038.61,
+      "text": "We've got you there. Um, because I think"
+    },
+    {
+      "start": 3038.61,
+      "end": 3039.68,
+      "text": "it could be very powerful tool."
+    },
+    {
+      "start": 3040.03,
+      "end": 3041.49,
+      "text": "No. Can I just ask one other thing?"
+    },
+    {
+      "start": 3041.7,
+      "end": 3043.49,
+      "text": "One thing we haven't uh, asked about"
+    },
+    {
+      "start": 3043.74,
+      "end": 3045.05,
+      "text": "or touched on is the summary"
+    },
+    {
+      "start": 3045.22,
+      "end": 3047.05,
+      "text": "of submissions from the public consultation."
+    },
+    {
+      "start": 3047.51,
+      "end": 3049.12,
+      "text": "Um, is it appropriate to ask? Yeah, go for it."
+    },
+    {
+      "start": 3049.24,
+      "end": 3050.28,
+      "text": "A question on that now? Yeah."
+    },
+    {
+      "start": 3050.43,
+      "end": 3053.2,
+      "text": "Um, I, I note that you received 10 submissions."
+    },
+    {
+      "start": 3053.82,
+      "end": 3055.8,
+      "text": "Was what was your sort of view on that?"
+    },
+    {
+      "start": 3055.8,
+      "end": 3057.53,
+      "text": "Were you expecting more? Were you expecting"
+    },
+    {
+      "start": 3058.36,
+      "end": 3059.41,
+      "text": "That seems a low number."
+    },
+    {
+      "start": 3060.07,
+      "end": 3061.68,
+      "text": "It's a low number. Okay."
+    },
+    {
+      "start": 3063.36,
+      "end": 3066.53,
+      "text": "I I, I don't think that's unusual compared"
+    },
+    {
+      "start": 3066.53,
+      "end": 3068.12,
+      "text": "to all other government departments."
+    },
+    {
+      "start": 3068.28,
+      "end": 3071.26,
+      "text": "I think there's a really variable number."
+    },
+    {
+      "start": 3072.59,
+      "end": 3075.3,
+      "text": "It tends not to be high, I think with the exception"
+    },
+    {
+      "start": 3075.3,
+      "end": 3076.53,
+      "text": "of the treasury's long term fiscal,"
+    },
+    {
+      "start": 3076.53,
+      "end": 3078.3,
+      "text": "which gets more feedback a little bit"
+    },
+    {
+      "start": 3078.3,
+      "end": 3080.26,
+      "text": "More I guess when I look at the 10"
+    },
+    {
+      "start": 3080.26,
+      "end": 3081.78,
+      "text": "and you say they're from individual, central,"
+    },
+    {
+      "start": 3081.91,
+      "end": 3083.38,
+      "text": "local government and interest groups."
+    },
+    {
+      "start": 3084.43,
+      "end": 3087.41,
+      "text": "That's a lot of groups for, for 10. So"
+    },
+    {
+      "start": 3087.97,
+      "end": 3090.61,
+      "text": "It's One like could you just, maybe not now,"
+    },
+    {
+      "start": 3090.64,
+      "end": 3092.66,
+      "text": "but just give us a little bit more detail about the 10."
+    },
+    {
+      "start": 3093.57,
+      "end": 3095.34,
+      "text": "Yeah, I Absolutely, I thanks."
+    },
+    {
+      "start": 3095.86,
+      "end": 3097.97,
+      "text": "Absolutely Greg. Yeah. Very quickly, what"
+    },
+    {
+      "start": 3097.97,
+      "end": 3100.93,
+      "text": "Type of, one more in this model"
+    },
+    {
+      "start": 3101.51,
+      "end": 3103.05,
+      "text": "is there room for a shock?"
+    },
+    {
+      "start": 3103.05,
+      "end": 3104.57,
+      "text": "Like, I mean look at my lifetime."
+    },
+    {
+      "start": 3104.64,
+      "end": 3106.53,
+      "text": "The, the great oil shocks of the seventies"
+    },
+    {
+      "start": 3106.53,
+      "end": 3108.7,
+      "text": "and eighties, you know, when all of a sudden changed,"
+    },
+    {
+      "start": 3109.36,
+      "end": 3111.61,
+      "text": "that was when no one even thought about energy"
+    },
+    {
+      "start": 3111.68,
+      "end": 3115.41,
+      "text": "and all of a sudden once energy was everything,"
+    },
+    {
+      "start": 3116.16,
+      "end": 3118.09,
+      "text": "is this model taken into account"
+    },
+    {
+      "start": 3118.2,
+      "end": 3119.97,
+      "text": "that could be something similar."
+    },
+    {
+      "start": 3120.84,
+      "end": 3123.7,
+      "text": "You, you could model a shock of some sort."
+    },
+    {
+      "start": 3123.88,
+      "end": 3128.18,
+      "text": "Be it a, a massive earthquake that takes out a, a road"
+    },
+    {
+      "start": 3128.18,
+      "end": 3129.61,
+      "text": "or a section of roads or a,"
+    },
+    {
+      "start": 3130.8,
+      "end": 3134.53,
+      "text": "or a significant change in you simulate is a significant"
+    },
+    {
+      "start": 3134.53,
+      "end": 3136.14,
+      "text": "change in places for transport."
+    },
+    {
+      "start": 3136.43,
+      "end": 3141.05,
+      "text": "You could artificially make cars look very expensive due"
+    },
+    {
+      "start": 3141.05,
+      "end": 3142.53,
+      "text": "to something like an energy price shock."
+    },
+    {
+      "start": 3142.55,
+      "end": 3145.45,
+      "text": "Yes. Yeah. Yeah. Thank you. Thank you. Look, really"
+    },
+    {
+      "start": 3145.45,
+      "end": 3146.45,
+      "text": "Appreciate it. It's been fascinating"
+    },
+    {
+      "start": 3146.45,
+      "end": 3147.82,
+      "text": "conversation. Yeah, thank you."
+    },
+    {
+      "start": 3147.82,
+      "end": 3148.86,
+      "text": "Thank you. And we'll look forward"
+    },
+    {
+      "start": 3148.86,
+      "end": 3150.61,
+      "text": "to some further conversations, uh,"
+    },
+    {
+      "start": 3150.68,
+      "end": 3153.14,
+      "text": "and, uh, understanding a bit more of what Monty can do and"
+    },
+    {
+      "start": 3153.14,
+      "end": 3154.14,
+      "text": "Deliver. Thank you. Thank"
+    },
+    {
+      "start": 3154.14,
+      "end": 3156.45,
+      "text": "you. Thanks colleagues."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_06 - TI - vimeo_1127702269\\2025_11_06 - TI - vimeo_1127702269.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127702269",
+    "display_id": "1127702269",
+    "title": "2025/11/06 - TI",
+    "description": "Thursday 6 November 2025 - Transport and Infrastructure Committee\n\nMinistry of Transport Te Manat\u016b Waka, Long-term Insights Briefing 2025, Moving people in 2055\n\nHearing of Evidence:\nMinistry of Transport\n\nRuth Fairhall, Chief Executive\nPaul O\u2019Connell, DCE Sector Strategy\nDan Jenkins, Director \u2013 Data Improvement\nJade Mackay, Chief Transport Modeller\nMac Townsend, Senior Data Analyst \u2013 National Transport Modelling\nChris Nees, Chief of Staff\nKatie Collier, Principal Adviser \u2013 Strategic Priorities",
+    "webpage_url": "https://vimeo.com/1127702269",
+    "original_url": "https://vimeo.com/1127702269",
+    "upload_date": "20251105",
+    "timestamp": 1762372748,
+    "release_timestamp": 1762372756,
+    "duration": 3157,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078785607-ebb1559e4c8094c24ce840887293ace9dccb9768f0774f370aaf8280fff7fb8f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263317130.vtt?expires=1778590314&sig=1e6f5ea9d8559a4d9182939e6c997a12925b07ec&download=auto_generated_captions.vtt"
+  }
+}

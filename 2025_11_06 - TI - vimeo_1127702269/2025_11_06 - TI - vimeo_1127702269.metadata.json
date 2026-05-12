@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:49.532048+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127702269",
+  "title": "2025/11/06 - TI",
+  "url": "https://vimeo.com/1127702269",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 3157,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3156.45,
+    "segment_count": 1235,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_06 - TI - vimeo_1127702269\\2025_11_06 - TI - vimeo_1127702269.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127702269",
+    "display_id": "1127702269",
+    "title": "2025/11/06 - TI",
+    "description": "Thursday 6 November 2025 - Transport and Infrastructure Committee\n\nMinistry of Transport Te Manat\u016b Waka, Long-term Insights Briefing 2025, Moving people in 2055\n\nHearing of Evidence:\nMinistry of Transport\n\nRuth Fairhall, Chief Executive\nPaul O\u2019Connell, DCE Sector Strategy\nDan Jenkins, Director \u2013 Data Improvement\nJade Mackay, Chief Transport Modeller\nMac Townsend, Senior Data Analyst \u2013 National Transport Modelling\nChris Nees, Chief of Staff\nKatie Collier, Principal Adviser \u2013 Strategic Priorities",
+    "webpage_url": "https://vimeo.com/1127702269",
+    "original_url": "https://vimeo.com/1127702269",
+    "upload_date": "20251105",
+    "timestamp": 1762372748,
+    "release_timestamp": 1762372756,
+    "duration": 3157,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078785607-ebb1559e4c8094c24ce840887293ace9dccb9768f0774f370aaf8280fff7fb8f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263317130.vtt?expires=1778590314&sig=1e6f5ea9d8559a4d9182939e6c997a12925b07ec&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:07:07.758622+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1073753309",
+  "title": "2025/05/14 - MA",
+  "url": "https://vimeo.com/1073753309",
+  "published_at": "20250514",
+  "published_display": "2025-05-14",
+  "duration_seconds": 3208,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3188.78,
+    "segment_count": 1210,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_05_14 - MA - vimeo_1073753309\\2025_05_14 - MA - vimeo_1073753309.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1073753309",
+    "display_id": "1073753309",
+    "title": "2025/05/14 - MA",
+    "description": "14 May 2025 | M\u0101ori Affairs Committee\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\nController and Auditor-General\n\nJohn Ryan, Auditor-General\nAndrew McConnell, Deputy Auditor-General\nLeeanne McAviney, Assistant Auditor-General, Sector Performance\nEvaan Aramakutu, Manager, Sector Performance\nEthan McKenzie, Senior Performance Auditor\nLyndsey Gibson, Sector Manager",
+    "webpage_url": "https://vimeo.com/1073753309",
+    "original_url": "https://vimeo.com/1073753309",
+    "upload_date": "20250514",
+    "timestamp": 1747182516,
+    "release_timestamp": 1747182524,
+    "duration": 3208,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2017913274-29050ae12991eb1af23d484b10ab0966aff8b78cc5c493492d38db7df78bf021-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/230913052.vtt?expires=1778591232&sig=39e94a7597569e3a98ed154b994aa8998999bd9c&download=auto_generated_captions.vtt"
+  }
+}

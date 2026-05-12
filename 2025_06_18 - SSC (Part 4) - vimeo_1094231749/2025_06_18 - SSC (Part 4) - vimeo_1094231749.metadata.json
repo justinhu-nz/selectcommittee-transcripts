@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:51.194014+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094231749",
+  "title": "2025/06/18 - SSC (Part 4)",
+  "url": "https://vimeo.com/1094231749",
+  "published_at": "20250618",
+  "published_display": "2025-06-18",
+  "duration_seconds": 3660,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3651.47,
+    "segment_count": 1457,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_18 - SSC (Part 4) - vimeo_1094231749\\2025_06_18 - SSC (Part 4) - vimeo_1094231749.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094231749",
+    "display_id": "1094231749",
+    "title": "2025/06/18 - SSC (Part 4)",
+    "description": "Wednesday 18 June 2025 | Social Services and Community Committee\n\n2025/26 Estimates for Vote Arts, Culture and Heritage\n\nHearing of Evidence\n\nMinister for Arts, Culture and Heritage\nMinister for Media and Communications\n- Hon Paul Goldsmith",
+    "webpage_url": "https://vimeo.com/1094231749",
+    "original_url": "https://vimeo.com/1094231749",
+    "upload_date": "20250618",
+    "timestamp": 1750215903,
+    "release_timestamp": 1750215910,
+    "duration": 3660,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2027800058-86903d235dc5bdb68261e94e4fd17be86670114f4254d77909406197e21c2002-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237789010.vtt?expires=1778590676&sig=8294c2cad2256a972021e7ecb79d16fead4dc902&download=auto_generated_captions.vtt"
+  }
+}

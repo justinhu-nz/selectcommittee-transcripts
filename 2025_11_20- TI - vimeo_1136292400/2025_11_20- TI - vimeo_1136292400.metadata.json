@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:32.159806+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1136292400",
+  "title": "2025/11/20- TI",
+  "url": "https://vimeo.com/1136292400",
+  "published_at": "20251120",
+  "published_display": "2025-11-20",
+  "duration_seconds": 970,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 936.25,
+    "segment_count": 402,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_20- TI - vimeo_1136292400\\2025_11_20- TI - vimeo_1136292400.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1136292400",
+    "display_id": "1136292400",
+    "title": "2025/11/20- TI",
+    "description": "Thursday 20 November 2025 - Transport and Infrastructure Committee\n\nLocal Government (Auckland Council) (Transport Governance) Amendment Bill\n\nHearing of Evidence:\n\nDavid Boulton\n\nNational Road Carriers\n\nJustin Tighe-Umbers",
+    "webpage_url": "https://vimeo.com/1136292400",
+    "original_url": "https://vimeo.com/1136292400",
+    "upload_date": "20251120",
+    "timestamp": 1763598318,
+    "release_timestamp": 1763598330,
+    "duration": 970,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087136901-d6e23454e80c3665c9a0ab7c4bc4ad3e86dd6445c3010021e58fe5ee4bed7890-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266416072.vtt?expires=1778590297&sig=9e43a83bcaabd03b4b31d41b599a91c4568116ed&download=auto_generated_captions.vtt"
+  }
+}

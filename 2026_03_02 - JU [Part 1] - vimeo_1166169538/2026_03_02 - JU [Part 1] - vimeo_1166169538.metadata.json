@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:09:14.655181+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166169538",
+  "title": "2026/03/02 - JU [Part 1]",
+  "url": "https://vimeo.com/1166169538",
+  "published_at": "20260301",
+  "published_display": "2026-03-01",
+  "duration_seconds": 12769,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12767.1,
+    "segment_count": 4337,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_02 - JU [Part 1] - vimeo_1166169538\\2026_03_02 - JU [Part 1] - vimeo_1166169538.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166169538",
+    "display_id": "1166169538",
+    "title": "2026/03/02 - JU [Part 1]",
+    "description": "Monday 2 March 2026 | Justice Committee\n\nArms Bill\n\nSubmitter:\n\nNew Zealand Police Association, Te Aka Hapai\n\nSteve Watt, President\n\nTaranaki Branch of the New Zealand Antique and Historical Arms Assc.\n\nZac Dodunski,\u00a0\n\nNew Zealand Deerstalkers Association Inc\n\nGwyn Thurlow, CEO and Legal Counsel\n\nGun Control NZ\n\nPhilippa Yasbek, Co-founder\n\nPhilippa Yasbek\nFish and Game New Zealand\n\nCorina Jordan, CEO\nRichie Cosgrove, Chief Operating Officer\n\nCable Bay Pistol Club Inc\n\nBrian Bishop, Club President\n\nBrian Bishop\nMental Hunts Charitable Trust\n\nGlen Thurston, Founder,Trustee\n\nCouncil of Licensed Firearm Owners\n\nBrad Gallop, Chair\nBrigitte Morten,\nHugh Devereux-Mack\n\nHugh Devereux-Mack\nNZ Airports Association\n\nSteve Riden, Policy Director \nBillie Moore, Chief Executive\n\nGuNZSAFE & NZDA Rakaia Branch\n\nStewart Hydes\n\nEgmont Pistol Club Inc.\n\nDennis Lally, Secretary,Treasurer\n\nFederation of Islamic Associations of NZ\n\nAbdur Razzaq,\u00a0\n\nNew Zealand Airgun Field Target Association\n\nAlex Magon,\u00a0\n\nVal Wadsworth - Representing three organisations\n\nRiverside Target Rifle Club Inc, \nMarlborough Smallbore Rifle Association Inc,  \nSouth Island Target Shooting Association,\u00a0\n\nNational Rifle Association of New Zealand Inc\n\nMalcolm Dodson,\u00a0\n\nAirsoft Sports New Zealand Incorporated\n\nBen Alllen, Committee representative\n\nRoyal Australian and New Zealand College of Psychiatrists\n\n\u00a0Dr. Eric Monasterio",
+    "webpage_url": "https://vimeo.com/1166169538",
+    "original_url": "https://vimeo.com/1166169538",
+    "upload_date": "20260301",
+    "timestamp": 1772408330,
+    "release_timestamp": 1772408347,
+    "duration": 12769,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2128546076-7b1d97f6cf10ea49cce65ff9f2ad7fc29a7b57c8268dd9719c3198dc9559cc62-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/286784900.vtt?expires=1778591359&sig=42c10e8d7d1f307b1e538e313ce2bed76a040ac9&download=auto_generated_captions.vtt"
+  }
+}

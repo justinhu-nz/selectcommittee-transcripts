@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:58:58.130542+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142287227",
+  "title": "2025/12/02 - PP (Part 2)",
+  "url": "https://vimeo.com/1142287227",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 1537,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1536.64,
+    "segment_count": 575,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - PP (Part 2) - vimeo_1142287227\\2025_12_02 - PP (Part 2) - vimeo_1142287227.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142287227",
+    "display_id": "1142287227",
+    "title": "2025/12/02 - PP (Part 2)",
+    "description": "Tuesday 2 December 2025 | Primary Production Committee\n\n2024/25 Annual review of Land Information New Zealand\n\nHearing of evidence:\n\nHon Chris Penk, Minister for Land Information",
+    "webpage_url": "https://vimeo.com/1142287227",
+    "original_url": "https://vimeo.com/1142287227",
+    "upload_date": "20251202",
+    "timestamp": 1764649825,
+    "release_timestamp": 1764649833,
+    "duration": 1537,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090352428-367354d9778336bc9bc9e92007a5754cd7ca1a077977889d0e51d7a0cd952513-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268852704.vtt?expires=1778590743&sig=382906b76538f651f2f9bb61cb130ef1ee2bf8f5&download=auto_generated_captions.vtt"
+  }
+}

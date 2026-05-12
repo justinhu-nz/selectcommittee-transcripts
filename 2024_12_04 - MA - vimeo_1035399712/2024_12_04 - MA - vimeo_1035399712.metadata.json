@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:07:51.593910+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1035399712",
+  "title": "2024/12/04 - MA",
+  "url": "https://vimeo.com/1035399712",
+  "published_at": "20241203",
+  "published_display": "2024-12-03",
+  "duration_seconds": 10781,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10716.82,
+    "segment_count": 3169,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_04 - MA - vimeo_1035399712\\2024_12_04 - MA - vimeo_1035399712.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1035399712",
+    "display_id": "1035399712",
+    "title": "2024/12/04 - MA",
+    "description": "Wednesday 4 December 2024 | M\u0101ori Affairs Committee\n2023/24 Annual review of the Office for M\u0101ori Crown Relations\u2014Te Arawhiti\n\nHearing of Evidence\nList of Submitters:\n\nTe Arawhiti \nAnaru Mill, Tumu Whakarae (acting)\nWarren Fraser, Deputy Chief Executive, Strategy & Policy\nTui Marsh, Deputy Chief Executive, Treaty Reconciliation and Takutai Moana\nFern Hyett, Regional Director, Te Tira P\u0101kurakura\nMikaere Paki, Tumu-\u0101-Tikanga\nHui Kahu, Director, Takutai Moana\nVictor Goldsmith, Director, Te K\u0101hui H\u012bkina\nMarian Smith, Director, Te K\u0101hui Whakamana\nLeah Campbell, Regional Director, Te Tira Amokura\nLouise McCrorie, Director, People\nJoleen MacLean, Finance Business Partner\nHinerangi Apanui-Barr, Strategic communications\nMatthew Andrews, Chief Legal Advisor",
+    "webpage_url": "https://vimeo.com/1035399712",
+    "original_url": "https://vimeo.com/1035399712",
+    "upload_date": "20241203",
+    "timestamp": 1733265271,
+    "release_timestamp": 1733265486,
+    "duration": 10781,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1958288218-6f66c72f9044e70a8a7ecf65f4acbc51a1a7a4ea6cd8bef9f0f3339de44ea44d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200347389.vtt?expires=1778591276&sig=c9ff25a78dd46e2edb0afabc8baefdaf1c79d76f&download=auto_generated_captions.vtt"
+  }
+}

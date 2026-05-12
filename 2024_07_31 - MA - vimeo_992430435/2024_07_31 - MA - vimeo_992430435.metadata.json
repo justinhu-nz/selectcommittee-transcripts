@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:36.464146+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_992430435",
+  "title": "2024/07/31 - MA",
+  "url": "https://vimeo.com/992430435",
+  "published_at": "20240730",
+  "published_display": "2024-07-30",
+  "duration_seconds": 2054,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2054.41,
+    "segment_count": 585,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_07_31 - MA - vimeo_992430435\\2024_07_31 - MA - vimeo_992430435.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "992430435",
+    "display_id": "992430435",
+    "title": "2024/07/31 - MA",
+    "description": "Wednesday, 31 July 2024 | M\u0101ori Affairs Committee\n\nTe Pire m\u014d \u014c-R\u0101kau, Te Pae o Maumahara/\u014c-R\u0101kau Remembrance Bill\n\nHearing of evidence:\n\nLeah Bell\nWhitiaua Ropitini\nLinda Campbell",
+    "webpage_url": "https://vimeo.com/992430435",
+    "original_url": "https://vimeo.com/992430435",
+    "upload_date": "20240730",
+    "timestamp": 1722381667,
+    "release_timestamp": 1722381705,
+    "duration": 2054,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1920348793-8901ce73b92aeb3b03da386af287b619b59305693510ea484eb8da8dcb5d83e2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/175195746.vtt?expires=1778591321&sig=02e65cde92ea26813e717eca37e4c9c9a2803472&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:54:07.216544+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1056644482",
+  "title": "2025/12/15 - Social Services and Community Sub-Committee A (Part 1)",
+  "url": "https://vimeo.com/1056644482",
+  "published_at": "20251215",
+  "published_display": "2025-12-15",
+  "duration_seconds": 2305,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2301.86,
+    "segment_count": 655,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_15 - Social Services and Community Sub-Committee A (Part 1) - vimeo_1056644482\\2025_12_15 - Social Services and Community Sub-Committee A (Part 1) - vimeo_1056644482.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1056644482",
+    "display_id": "1056644482",
+    "title": "2025/12/15 - Social Services and Community Sub-Committee A (Part 1)",
+    "description": "Monday 15 December | Social Services and Community Sub-Committee A\nRedress System for Abuse in Care Bill\nHearing of evidence:\nCitizens Advice Bureau\nSacha Green, National Advisor - Legal & Strategic\nMana Mokopuna \u2013 Children\u2019s Commissioner\n\nDr Claire Achmad, Children\u2019s Commissioner\n\nNetwork for Survivors of Faith-based Schools in Te Waipounamu Charitable Trust\n\nTaria Brown\n\nMax Marshall",
+    "webpage_url": "https://vimeo.com/1056644482",
+    "original_url": "https://vimeo.com/1056644482",
+    "upload_date": "20251215",
+    "timestamp": 1765779059,
+    "release_timestamp": 1765779065,
+    "duration": 2305,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096233393-7009f50a79c7bc5e57733a0b7b7bdb2ebb4461b3dad8c4c82cb86cf908f0d33d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272052431.vtt?expires=1778590452&sig=a430b4c221bb21bca725b993d800eafaed99e697&download=auto_generated_captions.vtt"
+  }
+}

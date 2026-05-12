@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:51.636395+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1105995893",
+  "title": "2025 08 14 Petitions",
+  "url": "https://vimeo.com/1105995893",
+  "published_at": "20250814",
+  "published_display": "2025-08-14",
+  "duration_seconds": 2801,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2800.05,
+    "segment_count": 1020,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 08 14 Petitions - vimeo_1105995893\\2025 08 14 Petitions - vimeo_1105995893.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1105995893",
+    "display_id": "1105995893",
+    "title": "2025 08 14 Petitions",
+    "description": "Petition of Melinda McGregor: Councils need clear guidelines of required actions following a dog attack\n\nSubmitters:\nMelinda McGregor\nDept of Internal Affairs (Dog Control)\n\nAnthea Oliver, Manager, Operational Policy\nKaram Talwar, Policy Analyst\n\nNZ Veterinary Association\n\nBecky Murphy, President, Companion Animal Veterinarians Branch\n\nSPCA\n\nDr Alison Vaughan, Scientific Officer",
+    "webpage_url": "https://vimeo.com/1105995893",
+    "original_url": "https://vimeo.com/1105995893",
+    "upload_date": "20250814",
+    "timestamp": 1755144506,
+    "release_timestamp": 1755144514,
+    "duration": 2801,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2047827172-38c36e6188a5b5715f311f0c0c93460ea273031e82816fbef1e358c3d4a55431-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/247804118.vtt?expires=1778590016&sig=86a97fd6b279f4372ffab516c0e8aadf73207c0b&download=auto_generated_captions.vtt"
+  }
+}

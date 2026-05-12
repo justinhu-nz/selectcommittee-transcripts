@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:22.902953+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141932930",
+  "title": "2025/12/01 - SSC (Part 5)",
+  "url": "https://vimeo.com/1141932930",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 3580,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3568.24,
+    "segment_count": 1229,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - SSC (Part 5) - vimeo_1141932930\\2025_12_01 - SSC (Part 5) - vimeo_1141932930.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141932930",
+    "display_id": "1141932930",
+    "title": "2025/12/01 - SSC (Part 5)",
+    "description": "Monday 1 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the Ministry for Women\n\nHearing of evidence:\n\nMinistry for Women\n\nKellie Coombes, Chief Executive \u2013 Secretary for Women  \nAnna Chalmers, Deputy Chief Executive, Engagement, Policy and Delivery \nKylie Fletcher, Kaiwhakahaere, Mana W\u0101hine Kaupapa Inquiry \nNadine Millin, Chief People Office \nCatherine Williams, Strategic Advisor to the Chief Executive",
+    "webpage_url": "https://vimeo.com/1141932930",
+    "original_url": "https://vimeo.com/1141932930",
+    "upload_date": "20251201",
+    "timestamp": 1764563738,
+    "release_timestamp": 1764563746,
+    "duration": 3580,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089818695-d06cda1f4f6355b28a11bc5c7a05fc68e22ecacf4c6f80b0303a731c798544e5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268605680.vtt?expires=1778590527&sig=bd2b6fe5d10c8c8c1047e99c19a7302c7b5ccd90&download=auto_generated_captions.vtt"
+  }
+}

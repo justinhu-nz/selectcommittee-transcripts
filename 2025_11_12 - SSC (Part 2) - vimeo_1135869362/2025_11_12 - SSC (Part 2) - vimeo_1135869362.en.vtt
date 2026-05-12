@@ -1,0 +1,4700 @@
+WEBVTT
+
+1
+00:00:00.845 --> 00:00:01.565
+I think more of us need.
+
+2
+00:00:06.655 --> 00:00:06.945
+Yeah,
+
+3
+00:00:07.515 --> 00:00:08.515
+Sorry.
+
+4
+00:00:17.635 --> 00:00:18.685
+Well, good afternoon and welcome to
+
+5
+00:00:18.685 --> 00:00:19.805
+the Social Services CUNY Select Committee.
+
+6
+00:00:19.865 --> 00:00:21.405
+Um, thank you very much for coming in.
+
+7
+00:00:21.745 --> 00:00:24.405
+Um, so gonna give us a briefing this afternoon on the
+
+8
+00:00:24.405 --> 00:00:26.645
+integrated data infrastructure, which I'm paying for sort
+
+9
+00:00:26.645 --> 00:00:28.045
+of more, more understanding
+
+10
+00:00:28.045 --> 00:00:29.325
+and awareness of our parliamentarians
+
+11
+00:00:29.325 --> 00:00:31.205
+and probably others as well around this.
+
+12
+00:00:31.225 --> 00:00:34.925
+But look, um, I'll hand it to you to introduce yourselves
+
+13
+00:00:34.945 --> 00:00:38.885
+and to give an overview, um, into x to take,
+
+14
+00:00:38.925 --> 00:00:40.885
+I think taking the production
+
+15
+00:00:40.885 --> 00:00:44.445
+that I think may not be a wide setting, uh, from some
+
+16
+00:00:44.445 --> 00:00:46.205
+of the, you know, people at the table and, and,
+
+17
+00:00:46.225 --> 00:00:47.645
+and across New Zealand, actually.
+
+18
+00:00:48.065 --> 00:00:50.245
+Uh, so you can give us an oversight and then it's,
+
+19
+00:00:50.265 --> 00:00:52.885
+and then providing how much time I have, you know, questions
+
+20
+00:00:52.885 --> 00:00:53.965
+for members would be great.
+
+21
+00:00:54.425 --> 00:00:57.165
+No problem. Oh, well, thank you for the opportunity to,
+
+22
+00:00:57.385 --> 00:00:58.605
+um, come
+
+23
+00:00:58.605 --> 00:01:00.565
+and speak about, uh, the value of, uh,
+
+24
+00:01:00.565 --> 00:01:01.845
+integrated data today.
+
+25
+00:01:02.025 --> 00:01:03.125
+Uh, my name is Rachel.
+
+26
+00:01:04.185 --> 00:01:06.525
+I'm one of the deputies, um, at Steps nz
+
+27
+00:01:06.945 --> 00:01:10.085
+and with me is, uh, Simon Ross, who's our general manager
+
+28
+00:01:10.145 --> 00:01:12.045
+for data operations and Infrastructure.
+
+29
+00:01:13.345 --> 00:01:15.365
+So we're going to do a little bit of a TAG team,
+
+30
+00:01:15.365 --> 00:01:16.525
+if that's okay for you.
+
+31
+00:01:16.545 --> 00:01:20.445
+So, uh, I'll talk just very briefly about, um, the role
+
+32
+00:01:20.445 --> 00:01:23.645
+of stats in this context, and then I'll hand to Simon
+
+33
+00:01:23.705 --> 00:01:25.965
+and he'll talk more about the integrated data
+
+34
+00:01:25.965 --> 00:01:27.725
+infrastructure itself.
+
+35
+00:01:28.135 --> 00:01:32.525
+Thank you. So, uh, STAT is hopefully many of you know, uh,
+
+36
+00:01:32.575 --> 00:01:37.005
+stats NZ collects information, um, uh, about, uh,
+
+37
+00:01:37.005 --> 00:01:38.285
+people in organizations.
+
+38
+00:01:38.585 --> 00:01:43.205
+Um, and we use that data to provide insights, uh, statistics
+
+39
+00:01:43.205 --> 00:01:44.205
+and data about New Zealand.
+
+40
+00:01:44.905 --> 00:01:47.325
+Uh, we source a wide range of data
+
+41
+00:01:47.595 --> 00:01:51.405
+that includes administrative data, like, uh, tax, uh,
+
+42
+00:01:51.405 --> 00:01:54.805
+private sector data from data intermediaries, as well as,
+
+43
+00:01:54.985 --> 00:01:57.365
+um, from surveying, uh,
+
+44
+00:01:57.365 --> 00:02:00.485
+the government statistician at Stats NZ holds, uh,
+
+45
+00:02:00.485 --> 00:02:03.125
+the government, uh, chief data steward role.
+
+46
+00:02:03.745 --> 00:02:05.845
+Uh, this role supports the use of data
+
+47
+00:02:05.945 --> 00:02:07.845
+as a resource across government
+
+48
+00:02:07.945 --> 00:02:11.205
+to help deliver better services, uh, to New Zealanders
+
+49
+00:02:11.745 --> 00:02:13.685
+within the research landscape.
+
+50
+00:02:14.015 --> 00:02:16.125
+Stats N Z's role is to ingest
+
+51
+00:02:16.145 --> 00:02:18.885
+and link the data, provide the infrastructure,
+
+52
+00:02:19.225 --> 00:02:22.365
+and ensure that the data is kept safe through the safeguards
+
+53
+00:02:22.675 --> 00:02:24.165
+that surround the IDI.
+
+54
+00:02:24.825 --> 00:02:27.885
+Within the data system, uh, government agencies,
+
+55
+00:02:28.245 --> 00:02:30.405
+tertiary sector and research institutions
+
+56
+00:02:31.145 --> 00:02:34.565
+set sector priorities, um, conduct the research
+
+57
+00:02:35.025 --> 00:02:38.045
+and implement the findings of the research into, uh,
+
+58
+00:02:38.045 --> 00:02:39.765
+policy direction, uh,
+
+59
+00:02:39.865 --> 00:02:42.845
+or service evaluation, um, or improvements.
+
+60
+00:02:43.855 --> 00:02:46.965
+Stats NZ responds to the needs of the research community
+
+61
+00:02:47.185 --> 00:02:50.805
+by adding or modifying, uh, new data to the IDI
+
+62
+00:02:51.185 --> 00:02:54.485
+and that enables or supports the research stats.
+
+63
+00:02:54.545 --> 00:02:58.125
+NZI also provides supports in terms of access, uh,
+
+64
+00:02:58.145 --> 00:03:00.605
+to use the IDI stats.
+
+65
+00:03:00.605 --> 00:03:03.085
+N Z's key piece of legislation is the Data
+
+66
+00:03:03.145 --> 00:03:05.445
+and Statistics Act, uh, 2022.
+
+67
+00:03:06.065 --> 00:03:10.245
+The key parts of this legislation include requirements
+
+68
+00:03:10.245 --> 00:03:12.085
+that researchers in the public interest
+
+69
+00:03:12.545 --> 00:03:15.605
+and is, uh, carried out by appropriate researchers only
+
+70
+00:03:16.455 --> 00:03:19.125
+there are strong confidentiality requirements,
+
+71
+00:03:19.425 --> 00:03:23.205
+so people can be assured their data is safe and protected.
+
+72
+00:03:23.905 --> 00:03:27.245
+Uh, for example, data cannot be released where it might, uh,
+
+73
+00:03:27.465 --> 00:03:29.245
+be able to identify an individual.
+
+74
+00:03:30.185 --> 00:03:32.805
+The government statistician must also publish information
+
+75
+00:03:32.855 --> 00:03:34.245
+about research access,
+
+76
+00:03:34.785 --> 00:03:37.565
+and researchers must must publish their results.
+
+77
+00:03:38.265 --> 00:03:40.405
+So New Zealanders can see the way their data
+
+78
+00:03:40.505 --> 00:03:41.685
+is managed and used.
+
+79
+00:03:42.545 --> 00:03:43.605
+Uh, the independence
+
+80
+00:03:43.605 --> 00:03:46.165
+of the government statistician in this process is a
+
+81
+00:03:46.165 --> 00:03:47.245
+unique point of difference.
+
+82
+00:03:47.865 --> 00:03:51.165
+Um, and service delivery agencies, um, uh,
+
+83
+00:03:51.165 --> 00:03:53.205
+could be conflicted in their hosting
+
+84
+00:03:53.225 --> 00:03:55.885
+of the data against their service delivery mandate,
+
+85
+00:03:56.315 --> 00:03:59.245
+whereas Stats NZ can play a more neutral role
+
+86
+00:03:59.345 --> 00:04:02.765
+in this, uh, context. So I'll hand to Simon.
+
+87
+00:04:03.745 --> 00:04:05.645
+Uh, thank you Rachel Koto.
+
+88
+00:04:06.065 --> 00:04:07.365
+Um, so I'm Simon Ross,
+
+89
+00:04:07.625 --> 00:04:10.445
+and just looking to take the opportunity to reinforce a few
+
+90
+00:04:10.445 --> 00:04:12.765
+of the key points about the IDI from the
+
+91
+00:04:12.765 --> 00:04:14.125
+information that we shared in advance.
+
+92
+00:04:15.265 --> 00:04:16.685
+So the IDI is the government's most
+
+93
+00:04:16.685 --> 00:04:18.485
+comprehensive research database.
+
+94
+00:04:18.705 --> 00:04:20.605
+It contains de-identified data about people
+
+95
+00:04:20.605 --> 00:04:24.765
+and households, contains a range of data, um, about events
+
+96
+00:04:24.825 --> 00:04:28.285
+and services such as from education, income, benefits,
+
+97
+00:04:28.475 --> 00:04:30.085
+migration, justice and health.
+
+98
+00:04:30.945 --> 00:04:32.805
+Um, and it's built from data supplied
+
+99
+00:04:32.805 --> 00:04:35.325
+by government agencies from stats NZ surveys
+
+100
+00:04:35.385 --> 00:04:37.285
+and from non-government organizations.
+
+101
+00:04:38.345 --> 00:04:40.805
+The RDI I is built around a central linking spine.
+
+102
+00:04:40.955 --> 00:04:42.645
+It's a list that aims to estimate every,
+
+103
+00:04:42.745 --> 00:04:44.565
+the ever resident population of New Zealand.
+
+104
+00:04:44.745 --> 00:04:47.285
+So every person who's ever been here is a resident,
+
+105
+00:04:47.345 --> 00:04:50.805
+and it's made by combining tax, birth and migration records.
+
+106
+00:04:52.145 --> 00:04:55.245
+Making the data accessible while keeping it safe is an
+
+107
+00:04:55.245 --> 00:04:57.965
+overriding priority for stats NZ in its
+
+108
+00:04:57.965 --> 00:04:59.325
+stewardship of the IDI.
+
+109
+00:04:59.745 --> 00:05:01.125
+So we use the five safes
+
+110
+00:05:01.185 --> 00:05:04.765
+and the HARRY frameworks to manage safe access to the data.
+
+111
+00:05:06.025 --> 00:05:08.085
+The IDI is a critical tool for governments
+
+112
+00:05:08.085 --> 00:05:09.325
+and the wider data system
+
+113
+00:05:09.395 --> 00:05:11.605
+with many agencies now relying on the IDI
+
+114
+00:05:11.605 --> 00:05:12.965
+to inform service planning
+
+115
+00:05:13.065 --> 00:05:15.285
+and delivery, as well as program evaluation.
+
+116
+00:05:16.465 --> 00:05:20.085
+The IDI is also used by, used widely beyond governments,
+
+117
+00:05:20.085 --> 00:05:21.925
+including for research within the academic
+
+118
+00:05:21.945 --> 00:05:24.845
+and tertiary sectors, um, for looking at outcomes
+
+119
+00:05:24.845 --> 00:05:26.005
+of key population groups
+
+120
+00:05:26.185 --> 00:05:27.885
+and the factors that affect these outcomes.
+
+121
+00:05:28.905 --> 00:05:30.845
+The IDI is used by research consultancies
+
+122
+00:05:30.845 --> 00:05:32.365
+that carry out research on behalf of others
+
+123
+00:05:32.425 --> 00:05:34.725
+to support them in accessing the insights they need.
+
+124
+00:05:35.185 --> 00:05:38.085
+And I guess just to a little more on that, um,
+
+125
+00:05:38.305 --> 00:05:40.485
+if you're a agency or a community group
+
+126
+00:05:40.485 --> 00:05:41.805
+and you might not have the technical expertise
+
+127
+00:05:41.805 --> 00:05:45.085
+to gain insights from the IDI, um, it's useful
+
+128
+00:05:45.085 --> 00:05:48.085
+that these kind of experienced, uh, consultancies are able
+
+129
+00:05:48.085 --> 00:05:50.525
+to be contracted to provide that expertise
+
+130
+00:05:50.665 --> 00:05:54.725
+and those insights, just in terms of what the IEI can
+
+131
+00:05:54.825 --> 00:05:58.565
+and can't do, it can link data from multiple sources over
+
+132
+00:05:58.565 --> 00:06:00.045
+time, which allows cohorts
+
+133
+00:06:00.045 --> 00:06:01.845
+to be understood across their lifespan,
+
+134
+00:06:02.425 --> 00:06:05.245
+can help identify characteristics of groups with positive
+
+135
+00:06:05.265 --> 00:06:07.685
+and negative outcomes, and can evaluate
+
+136
+00:06:07.705 --> 00:06:10.085
+how effective service and interventions are, such
+
+137
+00:06:10.085 --> 00:06:12.125
+as the effectiveness of alternative education services
+
+138
+00:06:12.305 --> 00:06:13.445
+or teen parent units.
+
+139
+00:06:14.065 --> 00:06:16.165
+And the effectiveness of the Housing First program,
+
+140
+00:06:16.295 --> 00:06:18.325
+which is a study done by the University of Otago,
+
+141
+00:06:19.225 --> 00:06:21.925
+it can also be used to tailor interventions
+
+142
+00:06:21.925 --> 00:06:24.365
+to people based on characteristics they share
+
+143
+00:06:24.365 --> 00:06:25.565
+with groups that have been studied.
+
+144
+00:06:27.265 --> 00:06:29.685
+In terms of things the IDI cannot do, um,
+
+145
+00:06:29.785 --> 00:06:32.045
+it can't follow individuals who are using services.
+
+146
+00:06:32.065 --> 00:06:33.845
+So it's not a case management system.
+
+147
+00:06:34.585 --> 00:06:36.965
+It can't identify specific individuals who are at risk
+
+148
+00:06:37.065 --> 00:06:38.805
+or would benefit from a specific intervention,
+
+149
+00:06:39.545 --> 00:06:41.485
+and it can't identify specific individuals
+
+150
+00:06:41.485 --> 00:06:43.565
+who are abusing systems or take enforcement action.
+
+151
+00:06:43.585 --> 00:06:46.485
+So the focus of the analysis is at that group level,
+
+152
+00:06:46.625 --> 00:06:47.685
+not that individual level.
+
+153
+00:06:49.065 --> 00:06:52.605
+Uh, just in terms of final comments, um, some key pieces
+
+154
+00:06:52.645 --> 00:06:54.565
+of research that might be relevant to this committee.
+
+155
+00:06:55.305 --> 00:06:57.725
+Uh, so we've had a study on healthcare accessibility
+
+156
+00:06:57.825 --> 00:07:00.525
+and aging in white Taha Canterbury.
+
+157
+00:07:01.025 --> 00:07:02.165
+So the research explores
+
+158
+00:07:02.165 --> 00:07:03.925
+how residential mobility affects healthcare
+
+159
+00:07:03.985 --> 00:07:05.925
+for older adults in Canterbury in the West Coast.
+
+160
+00:07:06.385 --> 00:07:08.245
+The study will assess where the current healthcare
+
+161
+00:07:08.245 --> 00:07:09.845
+infrastructure meets the needs of an aging
+
+162
+00:07:09.845 --> 00:07:13.645
+and increasingly diverse population study of child
+
+163
+00:07:13.645 --> 00:07:15.405
+and adolescent development in New Zealand.
+
+164
+00:07:15.435 --> 00:07:18.285
+This report aims to consolidate data on child development
+
+165
+00:07:18.285 --> 00:07:20.125
+and identify areas for early intervention
+
+166
+00:07:21.425 --> 00:07:23.605
+and a study on neurodegenerative diseases
+
+167
+00:07:23.665 --> 00:07:24.885
+in former rugby players.
+
+168
+00:07:24.985 --> 00:07:26.885
+So this study examines health impacts
+
+169
+00:07:26.885 --> 00:07:28.125
+of playing rugby at various levels,
+
+170
+00:07:28.965 --> 00:07:31.005
+focusing on neurodegenerative diseases
+
+171
+00:07:31.065 --> 00:07:32.725
+and former first class male players
+
+172
+00:07:33.515 --> 00:07:35.525
+also high highlights the innovative uses
+
+173
+00:07:35.545 --> 00:07:38.085
+of big data in sports health research.
+
+174
+00:07:39.305 --> 00:07:40.405
+And just one final comment.
+
+175
+00:07:40.625 --> 00:07:43.325
+Um, stats is not expert in the, you know,
+
+176
+00:07:43.325 --> 00:07:44.725
+these individual pieces of research
+
+177
+00:07:44.725 --> 00:07:46.285
+that are done in the IDI.
+
+178
+00:07:46.285 --> 00:07:49.845
+We need to know enough to evaluate potential projects, uh,
+
+179
+00:07:49.865 --> 00:07:51.365
+but we do not have the full details
+
+180
+00:07:51.385 --> 00:07:52.965
+of findings of research projects.
+
+181
+00:07:53.465 --> 00:07:56.365
+Um, we do seek, however, to ensure that these are published
+
+182
+00:07:56.385 --> 00:07:58.165
+and publicized for transparency,
+
+183
+00:07:58.465 --> 00:08:01.165
+and so that their value can be realized. Thank you.
+
+184
+00:08:02.125 --> 00:08:03.755
+Great, thank you very much. Might kick it off
+
+185
+00:08:03.755 --> 00:08:04.915
+with a questions.
+
+186
+00:08:04.935 --> 00:08:08.195
+Um, is there, is there anything equivalent
+
+187
+00:08:08.215 --> 00:08:10.195
+to this in any other jurisdiction globally?
+
+188
+00:08:12.505 --> 00:08:13.725
+Or is this reasonably unique?
+
+189
+00:08:13.945 --> 00:08:17.965
+Uh, I would say New Zealand is recognized as a leader in,
+
+190
+00:08:18.025 --> 00:08:19.325
+you know, what we've been able to do
+
+191
+00:08:19.325 --> 00:08:21.485
+with bringing the amount of data together that we have.
+
+192
+00:08:22.015 --> 00:08:23.845
+There are various other jurisdictions
+
+193
+00:08:23.845 --> 00:08:25.925
+that have examples of this.
+
+194
+00:08:26.265 --> 00:08:29.525
+Um, so there are some examples in Australia,
+
+195
+00:08:29.525 --> 00:08:32.165
+there's a Western Australia data linkage infrastructure.
+
+196
+00:08:32.505 --> 00:08:35.205
+The, um, the Australian Bureau
+
+197
+00:08:35.205 --> 00:08:37.725
+of Statistics also has a data linkage program.
+
+198
+00:08:38.295 --> 00:08:39.925
+There are a couple of examples in Canada,
+
+199
+00:08:40.025 --> 00:08:41.685
+one in British Columbia and one in Ontario.
+
+200
+00:08:42.425 --> 00:08:44.725
+Uh, it's been worked on in the UK as well.
+
+201
+00:08:44.965 --> 00:08:47.525
+I would say we are more advanced than, um,
+
+202
+00:08:47.555 --> 00:08:48.805
+than England in this space.
+
+203
+00:08:48.985 --> 00:08:51.885
+But, um, Scotland has an example in the health
+
+204
+00:08:51.885 --> 00:08:52.925
+space, which is quite advanced.
+
+205
+00:08:52.985 --> 00:08:55.565
+So there are a number of examples around the world,
+
+206
+00:08:55.625 --> 00:08:57.485
+but they're not all as comprehensive as the one
+
+207
+00:08:57.485 --> 00:08:59.045
+that we've been able to build in New Zealand.
+
+208
+00:09:00.065 --> 00:09:03.005
+And, um, the, you, you need to strike a balance clearly
+
+209
+00:09:03.005 --> 00:09:06.725
+between, um, data integration and,
+
+210
+00:09:06.825 --> 00:09:10.045
+and dashboarding that data and also concerns around privacy
+
+211
+00:09:10.625 --> 00:09:12.285
+and data sovereignty.
+
+212
+00:09:12.905 --> 00:09:13.905
+How do you balance that?
+
+213
+00:09:15.645 --> 00:09:19.105
+Uh, so we are really focused on making sure
+
+214
+00:09:19.105 --> 00:09:20.745
+that the data we bring in is safe,
+
+215
+00:09:21.005 --> 00:09:23.625
+and we have a number of processes to make sure that is, so
+
+216
+00:09:24.055 --> 00:09:26.225
+that is begins in talking with the people, um,
+
+217
+00:09:26.285 --> 00:09:27.985
+who hold the data in the first place to make sure
+
+218
+00:09:27.985 --> 00:09:30.105
+that they have the rights, uh, permissions
+
+219
+00:09:30.365 --> 00:09:31.745
+and sort of privacy statements
+
+220
+00:09:31.745 --> 00:09:33.145
+and things that would allow the data
+
+221
+00:09:33.145 --> 00:09:34.305
+to be on supplied to us.
+
+222
+00:09:34.835 --> 00:09:36.545
+We've also got the protections of the Data
+
+223
+00:09:36.545 --> 00:09:38.185
+and Stats Act, which are important there.
+
+224
+00:09:38.205 --> 00:09:41.065
+So that covers whether we can bring it in the first place
+
+225
+00:09:41.165 --> 00:09:43.025
+and all our obligations once we hold it.
+
+226
+00:09:43.645 --> 00:09:45.745
+Uh, once we've decided that we can bring it in
+
+227
+00:09:45.745 --> 00:09:47.185
+and we've done privacy and fact assessments
+
+228
+00:09:47.185 --> 00:09:50.265
+and we've done data sharing agreements that cover that, um,
+
+229
+00:09:51.285 --> 00:09:52.585
+we then have the protections,
+
+230
+00:09:52.765 --> 00:09:54.945
+and this is all under the five safes framework
+
+231
+00:09:54.945 --> 00:09:57.465
+where every piece of research that wants to come in
+
+232
+00:09:57.465 --> 00:09:59.265
+and access that data set is being scrutinized
+
+233
+00:09:59.265 --> 00:10:00.745
+to make sure it's in the public interest.
+
+234
+00:10:01.605 --> 00:10:04.385
+And so the need ticking a pie Harry framework is more
+
+235
+00:10:04.505 --> 00:10:06.185
+bringing a kind of ethics perspective to it
+
+236
+00:10:06.245 --> 00:10:07.665
+and an indigenous data perspective.
+
+237
+00:10:07.685 --> 00:10:11.865
+So I think you'll find there are controls in various areas
+
+238
+00:10:12.205 --> 00:10:13.225
+and they overlap
+
+239
+00:10:13.245 --> 00:10:16.305
+and they work together to make sure that both it's safe
+
+240
+00:10:16.305 --> 00:10:17.985
+to bring the data in and then it's safe
+
+241
+00:10:17.985 --> 00:10:19.505
+for whatever projects are seeking to use it.
+
+242
+00:10:20.575 --> 00:10:22.515
+One of the, one of the things I've seen over the,
+
+243
+00:10:22.515 --> 00:10:24.355
+over the years is, uh, the challenge in,
+
+244
+00:10:25.075 --> 00:10:27.515
+I guess you might say, um, data dashboarding.
+
+245
+00:10:27.775 --> 00:10:30.315
+So decision makers can actually understand what's going on
+
+246
+00:10:30.315 --> 00:10:32.115
+and what, what are the drivers, what are the population
+
+247
+00:10:32.395 --> 00:10:33.875
+movements, et cetera,
+
+248
+00:10:33.875 --> 00:10:36.115
+and what that means for policy decisions they need
+
+249
+00:10:36.115 --> 00:10:37.515
+to make both at a local government level
+
+250
+00:10:37.535 --> 00:10:38.595
+and a central government level.
+
+251
+00:10:39.335 --> 00:10:43.075
+Um, how, what work has been done to dashboard that
+
+252
+00:10:43.635 --> 00:10:44.755
+decision makers across, you know,
+
+253
+00:10:44.775 --> 00:10:46.475
+so both local and central government?
+
+254
+00:10:48.135 --> 00:10:51.065
+Well, I guess we are not the ones doing that work,
+
+255
+00:10:51.365 --> 00:10:53.265
+so we are sort of providing the infrastructure
+
+256
+00:10:53.525 --> 00:10:56.065
+and making sure it's available to approved projects.
+
+257
+00:10:56.065 --> 00:10:58.305
+There are multiple different government departments
+
+258
+00:10:58.405 --> 00:11:01.025
+who are using that data for their various purposes.
+
+259
+00:11:01.125 --> 00:11:04.515
+So, uh, for instance, um, health as a project.
+
+260
+00:11:04.655 --> 00:11:06.235
+And so they'll do health research
+
+261
+00:11:06.235 --> 00:11:07.915
+and they'll link it through to social factors
+
+262
+00:11:08.015 --> 00:11:09.915
+and they will, um, present that information
+
+263
+00:11:09.975 --> 00:11:11.635
+for their constituencies.
+
+264
+00:11:12.295 --> 00:11:15.115
+The social investment agency has quite a significant
+
+265
+00:11:15.115 --> 00:11:17.235
+dashboarding program where they're bringing data out
+
+266
+00:11:17.235 --> 00:11:19.555
+of the IDI and they're making it available publicly.
+
+267
+00:11:19.775 --> 00:11:23.195
+Um, and a lot of that is broken down at a regional level,
+
+268
+00:11:23.215 --> 00:11:24.875
+so it's quite valuable, uh,
+
+269
+00:11:24.875 --> 00:11:26.755
+throughout the country from that perspective.
+
+270
+00:11:28.115 --> 00:11:30.575
+Um, anything else you'd wanna comment on? Yeah,
+
+271
+00:11:30.805 --> 00:11:33.495
+Well, in terms of our own, uh, statistics
+
+272
+00:11:33.495 --> 00:11:36.535
+and making them available, uh, we use outputs from, um,
+
+273
+00:11:36.555 --> 00:11:38.215
+the IDI in that process as well.
+
+274
+00:11:38.805 --> 00:11:40.055
+What, sorry, could you say that again?
+
+275
+00:11:40.555 --> 00:11:43.615
+Um, in terms of our own statistical releases
+
+276
+00:11:43.615 --> 00:11:46.335
+and programs, um, we also use, um,
+
+277
+00:11:46.445 --> 00:11:48.975
+outputs from the IDI in order to underpin,
+
+278
+00:11:49.395 --> 00:11:50.535
+uh, that work as well.
+
+279
+00:11:50.955 --> 00:11:53.965
+So, uh, in terms of dashboarding, um,
+
+280
+00:11:54.075 --> 00:11:55.965
+it's really those data visualizations
+
+281
+00:11:55.965 --> 00:11:58.565
+that we have available, um, on our website as well.
+
+282
+00:11:59.345 --> 00:12:01.965
+So do do local government, um, access this
+
+283
+00:12:02.265 --> 00:12:04.405
+or use it at all to your knowledge?
+
+284
+00:12:05.785 --> 00:12:09.005
+So I don't have any examples with me of projects
+
+285
+00:12:09.005 --> 00:12:11.645
+that are specifically from local government agencies.
+
+286
+00:12:11.825 --> 00:12:13.085
+So I think that's an area
+
+287
+00:12:13.085 --> 00:12:15.725
+that we probably haven't explored a lot yet.
+
+288
+00:12:16.315 --> 00:12:19.605
+Yeah. And what, what are, what are some opportunities, um,
+
+289
+00:12:20.035 --> 00:12:22.925
+that haven't been sort of fleshed out yet that, that you,
+
+290
+00:12:22.945 --> 00:12:25.925
+you may see on the, on the horizon that, uh,
+
+291
+00:12:25.925 --> 00:12:27.485
+could be useful?
+
+292
+00:12:28.875 --> 00:12:31.285
+Well, I think there's a number of, um, areas
+
+293
+00:12:31.295 --> 00:12:33.485
+where the government's got social investment priorities
+
+294
+00:12:33.585 --> 00:12:36.605
+and are increasingly, you know, seeking to develop projects.
+
+295
+00:12:36.625 --> 00:12:39.805
+So in those areas, um, working with NGOs
+
+296
+00:12:39.805 --> 00:12:42.285
+to bring in new data and then looking to connect
+
+297
+00:12:42.285 --> 00:12:44.685
+that NGO data with the data that's already in the IDI
+
+298
+00:12:44.685 --> 00:12:46.845
+and being able to provide sort of dashboards
+
+299
+00:12:46.845 --> 00:12:49.565
+and things back to those NGOs, um, that's a real area
+
+300
+00:12:49.565 --> 00:12:51.605
+of growth and we'd expect, you know,
+
+301
+00:12:51.605 --> 00:12:53.085
+quite a lot of that to happen over time.
+
+302
+00:12:53.385 --> 00:12:56.685
+Um, NGO data is a current, there isn't a lot
+
+303
+00:12:56.685 --> 00:12:58.245
+of NGO data in the IDI at the moment.
+
+304
+00:12:58.345 --> 00:13:00.925
+And so it's an area where, um, working with the government
+
+305
+00:13:01.065 --> 00:13:02.845
+and the social investment agency we are looking to grow.
+
+306
+00:13:02.945 --> 00:13:04.005
+Its over time.
+
+307
+00:13:05.745 --> 00:13:09.965
+Um, I think, you know, there's 370
+
+308
+00:13:10.065 --> 00:13:12.245
+or so active projects in the I to I at the moment.
+
+309
+00:13:12.425 --> 00:13:15.845
+So, you know, lots of people, uh, have over the years,
+
+310
+00:13:16.185 --> 00:13:18.525
+you know, seen value in the data sets that we've got online
+
+311
+00:13:18.625 --> 00:13:20.925
+and sort of put together a project and brought it to us,
+
+312
+00:13:20.945 --> 00:13:22.925
+and we've evaluated that and now they're working away in it.
+
+313
+00:13:22.925 --> 00:13:26.605
+So, um, there are many projects that are going on right now.
+
+314
+00:13:26.825 --> 00:13:28.205
+Um, and so as I say, we
+
+315
+00:13:28.805 --> 00:13:30.245
+scrutinize the projects on their way in
+
+316
+00:13:30.425 --> 00:13:32.525
+and we are monitoring that they're doing the right things,
+
+317
+00:13:32.625 --> 00:13:35.565
+but we are not, um, monitoring the content
+
+318
+00:13:35.665 --> 00:13:37.365
+of those projects and what comes out of them.
+
+319
+00:13:37.465 --> 00:13:39.565
+Um, so it's really our job to make that data available
+
+320
+00:13:39.585 --> 00:13:40.845
+and to make sure people are using it safely
+
+321
+00:13:40.845 --> 00:13:41.845
+and then they take it
+
+322
+00:13:41.905 --> 00:13:45.005
+and they, uh, develop the insights and then publish it.
+
+323
+00:13:45.955 --> 00:13:48.645
+Okay. And I, I mean, there's two, I'll go go
+
+324
+00:13:48.645 --> 00:13:50.125
+to other questions shortly, but, um,
+
+325
+00:13:50.245 --> 00:13:51.845
+I guess there's two two co cohorts
+
+326
+00:13:51.845 --> 00:13:52.925
+that immediately come to mind for me.
+
+327
+00:13:52.985 --> 00:13:55.405
+Um, one, one is, um, young people
+
+328
+00:13:55.585 --> 00:13:58.445
+and especially those with, with various complexities that
+
+329
+00:13:58.445 --> 00:14:00.125
+that may make it difficult.
+
+330
+00:14:00.225 --> 00:14:04.085
+And so really interested in what that data can be used for
+
+331
+00:14:04.225 --> 00:14:07.085
+and that, so to ensure we get best service delivery to them.
+
+332
+00:14:07.465 --> 00:14:09.285
+The other, the other is our aging population,
+
+333
+00:14:09.295 --> 00:14:11.045
+which is quite a significant bulge,
+
+334
+00:14:11.505 --> 00:14:12.605
+uh, coming from New Zealand.
+
+335
+00:14:12.825 --> 00:14:14.805
+And, and again, that, that data set
+
+336
+00:14:14.805 --> 00:14:15.845
+and what we can, you know, how
+
+337
+00:14:15.845 --> 00:14:17.405
+that can be used actually better informed decision
+
+338
+00:14:17.405 --> 00:14:18.605
+making going forward.
+
+339
+00:14:18.825 --> 00:14:20.885
+It is sort of a very broad question,
+
+340
+00:14:20.905 --> 00:14:23.565
+but I, I, I raised some comments on the usefulness
+
+341
+00:14:23.585 --> 00:14:25.365
+of the data set for, for those two
+
+342
+00:14:25.745 --> 00:14:27.085
+Co Yeah, I can.
+
+343
+00:14:27.345 --> 00:14:29.805
+So, um, just in the older people,
+
+344
+00:14:30.855 --> 00:14:33.325
+there is a project on expenditure patterns
+
+345
+00:14:33.325 --> 00:14:34.605
+of retiree households.
+
+346
+00:14:34.605 --> 00:14:36.845
+So this study analyzes household wealth trends across
+
+347
+00:14:36.845 --> 00:14:40.045
+demographics and explores how wealth affects life outcomes
+
+348
+00:14:40.225 --> 00:14:44.365
+and informs debates on retirement policy taxation, uh,
+
+349
+00:14:44.585 --> 00:14:46.045
+and older age poverty.
+
+350
+00:14:47.345 --> 00:14:50.135
+Um, just trying to see if we've got an example,
+
+351
+00:14:50.455 --> 00:14:51.605
+a youth example in here.
+
+352
+00:14:51.625 --> 00:14:56.405
+We do. Uh, so one example, um, this youth example,
+
+353
+00:14:56.585 --> 00:14:59.365
+so it has been identified that, uh,
+
+354
+00:15:00.745 --> 00:15:01.765
+driver licensing
+
+355
+00:15:01.765 --> 00:15:04.285
+or lack of driver licensing in rural communities
+
+356
+00:15:04.345 --> 00:15:06.565
+for young people was affecting justice outcomes.
+
+357
+00:15:06.705 --> 00:15:10.565
+And so identified that rural males, many
+
+358
+00:15:10.565 --> 00:15:11.805
+of them were entering the justice system
+
+359
+00:15:11.805 --> 00:15:13.525
+after being caught driving without a license.
+
+360
+00:15:13.665 --> 00:15:15.965
+And this sort of led to vines and enforcements
+
+361
+00:15:16.145 --> 00:15:18.925
+and things that could have been averted had there been, um,
+
+362
+00:15:19.385 --> 00:15:21.445
+you know, driver's licenses able to be had earlier.
+
+363
+00:15:21.745 --> 00:15:25.165
+And so, uh, program was run to target driver licensing
+
+364
+00:15:25.185 --> 00:15:26.765
+to support to try and break the cycle.
+
+365
+00:15:27.025 --> 00:15:28.845
+And so in terms of short term outcomes,
+
+366
+00:15:29.335 --> 00:15:32.565
+after one to two years, more young men obtaining licenses,
+
+367
+00:15:32.565 --> 00:15:35.165
+fewer driving offenses, reduced police interactions
+
+368
+00:15:35.985 --> 00:15:38.645
+in the medium term around five years, improved employment
+
+369
+00:15:38.645 --> 00:15:40.885
+and education outcomes, lower benefit reliance,
+
+370
+00:15:40.885 --> 00:15:42.085
+especially in rural areas where
+
+371
+00:15:42.085 --> 00:15:43.605
+licenses often essential for work.
+
+372
+00:15:44.385 --> 00:15:47.045
+And in the longer term, over 10 years, fewer crashes,
+
+373
+00:15:47.325 --> 00:15:50.365
+hospitalizations, and a CC claims fewer justice
+
+374
+00:15:50.465 --> 00:15:51.645
+and corrections and directions
+
+375
+00:15:51.745 --> 00:15:53.485
+and reduced pressure on public services.
+
+376
+00:15:53.625 --> 00:15:55.605
+So, I mean, the two examples I gave,
+
+377
+00:15:55.605 --> 00:15:56.845
+there are only two examples.
+
+378
+00:15:56.935 --> 00:15:59.525
+There are many things that people looked at for older people
+
+379
+00:15:59.625 --> 00:16:01.085
+and for young people in the IEI.
+
+380
+00:16:01.085 --> 00:16:03.485
+So it's, um, data that's available for people
+
+381
+00:16:03.485 --> 00:16:04.605
+to bring projects forward, really.
+
+382
+00:16:05.065 --> 00:16:08.925
+And I'm sorry, I'll get this,
+
+383
+00:16:09.115 --> 00:16:10.405
+I'll get this, got a couple.
+
+384
+00:16:10.465 --> 00:16:12.045
+Um, I just thought that we're gonna
+
+385
+00:16:12.045 --> 00:16:15.205
+Bribe you with this batch, Uh, that, uh, the idea has,
+
+386
+00:16:15.205 --> 00:16:16.965
+has grown since 1991,
+
+387
+00:16:17.145 --> 00:16:18.485
+or see, was it seven, um,
+
+388
+00:16:19.145 --> 00:16:20.765
+to comprise over 500 tables containing
+
+389
+00:16:20.765 --> 00:16:22.085
+15 billion plus rows of data.
+
+390
+00:16:22.745 --> 00:16:24.565
+Now we're obviously entering an era
+
+391
+00:16:24.745 --> 00:16:25.965
+of artificial intelligence.
+
+392
+00:16:25.965 --> 00:16:28.125
+We've got an ability to analyze data in a way
+
+393
+00:16:28.125 --> 00:16:29.365
+that's never been able to be done before,
+
+394
+00:16:29.625 --> 00:16:31.245
+but also you need to ensure that you,
+
+395
+00:16:31.245 --> 00:16:33.085
+that it stays within that data set.
+
+396
+00:16:33.085 --> 00:16:37.365
+Mm-hmm. Yes. Um, what opportunities, uh, are available there
+
+397
+00:16:38.075 --> 00:16:39.485
+that you sort of have seen you?
+
+398
+00:16:39.485 --> 00:16:41.445
+Is it, is that still no
+
+399
+00:16:41.445 --> 00:16:42.485
+one's really turned their mind to add?
+
+400
+00:16:42.945 --> 00:16:46.485
+So the, I is currently run on what we would describe
+
+401
+00:16:46.505 --> 00:16:48.645
+as reasonably creaky infrastructure.
+
+402
+00:16:49.025 --> 00:16:52.965
+Um, it is safe and secure, but it is not hugely advanced.
+
+403
+00:16:53.305 --> 00:16:56.325
+And so I think that limits the ability to bring kind
+
+404
+00:16:56.325 --> 00:16:58.725
+of modern and advanced AI tooling to bear.
+
+405
+00:16:58.755 --> 00:17:01.005
+Yeah, I think there are also kind
+
+406
+00:17:01.085 --> 00:17:03.565
+of important ethical questions about whether this, you know,
+
+407
+00:17:03.565 --> 00:17:05.205
+rich resource of data about people,
+
+408
+00:17:05.205 --> 00:17:07.085
+whether it's appropriate to bring those tools in there.
+
+409
+00:17:07.085 --> 00:17:09.565
+And so they are kind of questions that we haven't dealt with
+
+410
+00:17:09.565 --> 00:17:11.405
+yet, but we would expect to work through a kind
+
+411
+00:17:11.405 --> 00:17:12.845
+of ethical framework to do so.
+
+412
+00:17:13.545 --> 00:17:17.125
+Um, we are working on a business case for improvements
+
+413
+00:17:17.125 --> 00:17:18.845
+to the IDI for the future.
+
+414
+00:17:18.945 --> 00:17:21.605
+And so, you know, if we were to advance the infrastructure,
+
+415
+00:17:21.605 --> 00:17:23.325
+then those questions become really important.
+
+416
+00:17:23.355 --> 00:17:26.485
+Like is it the right thing to do to bring in, um, AI tools?
+
+417
+00:17:26.545 --> 00:17:29.245
+But it's something that we haven't explicitly addressed yet.
+
+418
+00:17:29.835 --> 00:17:31.765
+Okay. I've got now several up.
+
+419
+00:17:31.765 --> 00:17:33.205
+For me, it's a different question.
+
+420
+00:17:34.145 --> 00:17:37.685
+Um, but the first one is, um, I'll just pick up
+
+421
+00:17:37.685 --> 00:17:39.645
+that issue about the ai
+
+422
+00:17:39.745 --> 00:17:43.325
+and obviously there's the security issues
+
+423
+00:17:43.755 --> 00:17:47.405
+that are involved in a, a developing technology,
+
+424
+00:17:47.465 --> 00:17:49.405
+but there's already security issues.
+
+425
+00:17:50.465 --> 00:17:54.125
+But one of the benefits of this has gotta be the linkage
+
+426
+00:17:54.125 --> 00:17:55.645
+with other countries, hasn't it?
+
+427
+00:17:55.645 --> 00:17:59.045
+Because you can expand your pattern recognition
+
+428
+00:17:59.185 --> 00:18:00.805
+and you can learn more.
+
+429
+00:18:01.875 --> 00:18:04.285
+What do you do about making sure
+
+430
+00:18:05.675 --> 00:18:09.685
+that your development is able to work,
+
+431
+00:18:10.635 --> 00:18:13.095
+um, in a synergistic Yeah.
+
+432
+00:18:13.235 --> 00:18:17.895
+Way with other countries who are doing similar things so
+
+433
+00:18:17.895 --> 00:18:22.685
+that you can power up the wisdom that you're getting out
+
+434
+00:18:22.985 --> 00:18:24.605
+of this, of the information.
+
+435
+00:18:26.495 --> 00:18:29.075
+Um, so I think there's, uh, probably a couple of points.
+
+436
+00:18:29.255 --> 00:18:33.675
+So, uh, so we are part of, uh, a wide network, um,
+
+437
+00:18:33.695 --> 00:18:36.275
+across the international statistical community.
+
+438
+00:18:36.535 --> 00:18:39.555
+Um, so some of the, uh, uh, studies
+
+439
+00:18:39.895 --> 00:18:44.315
+and, um, organizations, um, Simon referenced earlier.
+
+440
+00:18:44.735 --> 00:18:47.035
+So we are all developing, um,
+
+441
+00:18:47.215 --> 00:18:48.875
+and evolving those things together.
+
+442
+00:18:49.095 --> 00:18:53.155
+So we do share, uh, practice around, um,
+
+443
+00:18:53.655 --> 00:18:55.235
+ethics confidentiality,
+
+444
+00:18:55.975 --> 00:18:58.475
+but also obviously a mindful of, uh,
+
+445
+00:18:58.475 --> 00:19:00.035
+things like the security settings.
+
+446
+00:19:00.575 --> 00:19:04.915
+So within, um, our context, um, we meet, uh, a lot
+
+447
+00:19:04.915 --> 00:19:07.955
+of the government, um, requirements for, um,
+
+448
+00:19:08.405 --> 00:19:09.835
+protection and security.
+
+449
+00:19:10.255 --> 00:19:14.275
+Um, uh, yeah, we, we have to meet those,
+
+450
+00:19:14.375 --> 00:19:16.635
+that's a really important part of, um, keeping,
+
+451
+00:19:16.695 --> 00:19:17.795
+uh, the data safe.
+
+452
+00:19:18.335 --> 00:19:22.795
+Uh, we also, uh, uh, regularly audit,
+
+453
+00:19:23.415 --> 00:19:27.195
+um, uh, our practices as well to make sure that, uh,
+
+454
+00:19:27.195 --> 00:19:28.395
+we are keeping things safe.
+
+455
+00:19:28.615 --> 00:19:31.555
+Um, it's very important in terms of, you know,
+
+456
+00:19:31.555 --> 00:19:32.875
+the social license, the license
+
+457
+00:19:32.975 --> 00:19:35.395
+to operate from New Zealanders that, you know,
+
+458
+00:19:35.465 --> 00:19:38.955
+they have confidence in our ability to, um,
+
+459
+00:19:39.535 --> 00:19:43.835
+source data col, um, collect it, uh, integrate it and,
+
+460
+00:19:43.935 --> 00:19:47.115
+and keep that safe while still providing the benefits
+
+461
+00:19:47.115 --> 00:19:48.595
+that I think we've talked about today.
+
+462
+00:19:49.215 --> 00:19:52.915
+Um, we don't, we haven't got joined up databases
+
+463
+00:19:52.915 --> 00:19:55.675
+and network of databases across, uh, the world.
+
+464
+00:19:56.255 --> 00:19:59.555
+Um, but obviously, um, the research
+
+465
+00:19:59.555 --> 00:20:02.795
+that is made available is available to everybody.
+
+466
+00:20:02.975 --> 00:20:05.435
+And so there are opportunities, um, obviously
+
+467
+00:20:05.455 --> 00:20:07.555
+for researchers to link up internationally
+
+468
+00:20:08.015 --> 00:20:11.675
+and work out, um, what types of studies might, uh,
+
+469
+00:20:11.695 --> 00:20:13.595
+be valuable in that context as well.
+
+470
+00:20:15.045 --> 00:20:19.545
+So, um, so are the, is it, would it be fair to say
+
+471
+00:20:19.545 --> 00:20:23.785
+that you're designing mindful of that kind of, um,
+
+472
+00:20:24.055 --> 00:20:27.065
+ecosystem that's broader than just New Zealand?
+
+473
+00:20:28.025 --> 00:20:31.505
+Absolutely. Okay. And can I ask you, this is a sort
+
+474
+00:20:31.505 --> 00:20:32.665
+of philosophical question
+
+475
+00:20:32.765 --> 00:20:34.825
+and you might just say it's beyond your scope.
+
+476
+00:20:35.255 --> 00:20:38.705
+Sure. But it occurs to me that what you are doing might mean
+
+477
+00:20:38.705 --> 00:20:43.345
+that there's a huge boost in understanding of proactive, um,
+
+478
+00:20:43.445 --> 00:20:44.665
+policy responses.
+
+479
+00:20:44.845 --> 00:20:48.635
+So because you are studying those
+
+480
+00:20:48.695 --> 00:20:49.955
+or you've got that information
+
+481
+00:20:49.955 --> 00:20:52.395
+that we might see people finally understand
+
+482
+00:20:52.665 --> 00:20:54.755
+that there is an ambulance at the bottom of the cliff
+
+483
+00:20:54.755 --> 00:20:57.995
+and then there's proactive money into things
+
+484
+00:20:58.055 --> 00:20:59.075
+so that they never happen.
+
+485
+00:21:00.135 --> 00:21:03.395
+Do you see that in what, in the way
+
+486
+00:21:03.395 --> 00:21:08.315
+that the information's being used that we might see a, um,
+
+487
+00:21:08.395 --> 00:21:10.875
+confirmation of proactive
+
+488
+00:21:11.475 --> 00:21:13.395
+policies working?
+
+489
+00:21:13.655 --> 00:21:17.235
+You just gave the example, I think of the one that was, um,
+
+490
+00:21:17.295 --> 00:21:19.715
+the driver's license one is one of those, isn't it?
+
+491
+00:21:23.255 --> 00:21:25.675
+Um, But you are avoiding trouble. Well,
+
+492
+00:21:27.725 --> 00:21:29.195
+Stats is not really involved Yeah.
+
+493
+00:21:29.215 --> 00:21:31.915
+In evaluating, you know, all of the different pieces
+
+494
+00:21:32.015 --> 00:21:33.115
+of research that are being done.
+
+495
+00:21:33.295 --> 00:21:37.955
+So I think these insights are quite diffusely, um,
+
+496
+00:21:38.625 --> 00:21:41.835
+perhaps found throughout government.
+
+497
+00:21:41.855 --> 00:21:42.555
+So, you know, different
+
+498
+00:21:42.555 --> 00:21:43.715
+projects, find 'em in different places.
+
+499
+00:21:44.015 --> 00:21:46.035
+Um, one thing we do observe though, is
+
+500
+00:21:46.235 --> 00:21:47.355
+that sometimes people will go in
+
+501
+00:21:47.355 --> 00:21:49.315
+and they'll be looking at a specific thing, specific set
+
+502
+00:21:49.315 --> 00:21:50.755
+of research questions, but there'll be kind
+
+503
+00:21:50.755 --> 00:21:52.555
+of incidental findings that come out of that
+
+504
+00:21:52.625 --> 00:21:54.275
+that prove useful in some other areas.
+
+505
+00:21:54.455 --> 00:21:57.915
+So that is definitely a value of bringing the data together,
+
+506
+00:21:58.255 --> 00:22:00.315
+um, and allowing these analysis to go on.
+
+507
+00:22:00.315 --> 00:22:04.835
+So, um, there have been examples of interesting
+
+508
+00:22:05.055 --> 00:22:07.595
+and useful findings that have not necessarily been the kind
+
+509
+00:22:07.595 --> 00:22:08.835
+of core reason that that research
+
+510
+00:22:08.835 --> 00:22:09.875
+was being done in the first place.
+
+511
+00:22:10.585 --> 00:22:12.475
+Yeah. Yeah. Okay. Alright,
+
+512
+00:22:13.325 --> 00:22:14.325
+Thank you.
+
+513
+00:22:15.105 --> 00:22:18.365
+Um, just a quick question about the data.
+
+514
+00:22:18.665 --> 00:22:21.925
+So is the data that you make available sold,
+
+515
+00:22:21.985 --> 00:22:23.365
+or is it provided as a service?
+
+516
+00:22:24.775 --> 00:22:26.765
+Sorry, sold. Was that the first part of your question?
+
+517
+00:22:26.865 --> 00:22:30.245
+Yes. Uh, so the data that we bring in, uh, we bring in
+
+518
+00:22:30.275 --> 00:22:32.325
+with agreements with government agencies and others.
+
+519
+00:22:32.585 --> 00:22:35.565
+And so we don't buy it nor do we sell it.
+
+520
+00:22:35.585 --> 00:22:36.885
+We don't sell access to it.
+
+521
+00:22:37.065 --> 00:22:39.445
+Uh, so we, it's not our data, we don't own it.
+
+522
+00:22:39.445 --> 00:22:42.005
+We host it on behalf of others and we make it available.
+
+523
+00:22:43.025 --> 00:22:44.445
+Um, and people need
+
+524
+00:22:44.445 --> 00:22:46.005
+to meet certain standards to be able to access.
+
+525
+00:22:46.825 --> 00:22:48.605
+So it's provided as a service? Yes.
+
+526
+00:22:48.605 --> 00:22:50.605
+It's provided as a service Yes. Under our appropriation.
+
+527
+00:22:50.615 --> 00:22:52.805
+Right? Sure.
+
+528
+00:22:52.905 --> 00:22:55.445
+Um, yeah, I think you mentioned someone at the beginning
+
+529
+00:22:55.475 --> 00:22:57.325
+that you capture data from people
+
+530
+00:22:57.325 --> 00:23:00.125
+who enter New Zealand, come to New Zealand. Was it?
+
+531
+00:23:00.305 --> 00:23:02.965
+Uh, so migration is one of the key data sets.
+
+532
+00:23:03.145 --> 00:23:05.685
+Uh, so when we're trying to, um, define
+
+533
+00:23:05.685 --> 00:23:08.525
+that ever resident population, um, we've got people
+
+534
+00:23:08.525 --> 00:23:10.565
+who are born here and people who die here.
+
+535
+00:23:10.565 --> 00:23:12.485
+So got those records. We've got people
+
+536
+00:23:12.485 --> 00:23:13.885
+who work here through tax records.
+
+537
+00:23:14.105 --> 00:23:15.845
+And then for people who come into the country, we're trying
+
+538
+00:23:15.845 --> 00:23:18.405
+to capture their residency via the crossing of the border.
+
+539
+00:23:19.195 --> 00:23:21.525
+Okay. So it's not just international travelers
+
+540
+00:23:21.545 --> 00:23:22.565
+or are you measuring that
+
+541
+00:23:22.665 --> 00:23:24.885
+As No, so in fact, we're not really trying
+
+542
+00:23:24.885 --> 00:23:26.485
+to capture people who might have just come here
+
+543
+00:23:26.485 --> 00:23:27.485
+for two weeks as tourists.
+
+544
+00:23:27.555 --> 00:23:28.885
+Like that's not the focus of it.
+
+545
+00:23:29.225 --> 00:23:31.365
+But we do wanna capture people who move to New Zealand.
+
+546
+00:23:31.425 --> 00:23:33.565
+So that's the value of those migration records, being able
+
+547
+00:23:33.565 --> 00:23:34.725
+to figure out who those people are and make sure
+
+548
+00:23:34.725 --> 00:23:35.805
+that they're in that core us.
+
+549
+00:23:36.665 --> 00:23:41.085
+Uh, um, so just thinking about that from a tourism point
+
+550
+00:23:41.085 --> 00:23:43.245
+of view, capturing people who are entering,
+
+551
+00:23:43.635 --> 00:23:47.845
+even if it is temporarily, um, would seem to me
+
+552
+00:23:47.845 --> 00:23:51.375
+to be a a, a valuable measure to have
+
+553
+00:23:51.555 --> 00:23:53.815
+or is that easily captured in other data
+
+554
+00:23:54.475 --> 00:23:56.495
+or through through the entry
+
+555
+00:23:56.925 --> 00:23:57.925
+Customs? Yeah, so
+
+556
+00:23:57.925 --> 00:24:00.415
+we, yeah, we provide, um, statistics about, um,
+
+557
+00:24:00.525 --> 00:24:03.215
+migration flows, people who are obviously coming
+
+558
+00:24:03.315 --> 00:24:04.895
+to New Zealand, um, and leaving.
+
+559
+00:24:04.955 --> 00:24:07.615
+And also tourism flows as well. Travelers. Yeah.
+
+560
+00:24:07.765 --> 00:24:10.775
+Okay. Great. Yeah, thank you Ola. Thank you.
+
+561
+00:24:11.275 --> 00:24:12.335
+Um, for cheers.
+
+562
+00:24:12.475 --> 00:24:15.175
+Um, I have a supplementary with Alice's question
+
+563
+00:24:15.275 --> 00:24:17.735
+and it is more around how robust is the framework,
+
+564
+00:24:18.235 --> 00:24:19.935
+how often do you audit it
+
+565
+00:24:20.715 --> 00:24:24.415
+and um, around safeguards we may have
+
+566
+00:24:24.415 --> 00:24:25.455
+already me, you this Yeah.
+
+567
+00:24:25.835 --> 00:24:27.815
+Um, and the compliance around it.
+
+568
+00:24:27.875 --> 00:24:31.295
+So is our legislation fit for purpose
+
+569
+00:24:31.995 --> 00:24:34.455
+or does it have to be amended over time?
+
+570
+00:24:34.455 --> 00:24:38.175
+Because given the cyber all over the world, you know,
+
+571
+00:24:38.175 --> 00:24:40.455
+from a New Zealand, New Zealand Inc.
+
+572
+00:24:40.455 --> 00:24:41.895
+Perspective. Interesting.
+
+573
+00:24:42.035 --> 00:24:44.375
+And I just, I'm really interested in the robust framework,
+
+574
+00:24:44.385 --> 00:24:46.895
+robustness of the framework and, uh, legislation.
+
+575
+00:24:48.435 --> 00:24:50.775
+Uh, perhaps if we start with the legislation
+
+576
+00:24:51.035 --> 00:24:52.575
+and then move on to the other frameworks.
+
+577
+00:24:53.035 --> 00:24:54.775
+So we have the Data
+
+578
+00:24:54.795 --> 00:24:57.935
+and Stats Act, which was updated in 2022, so
+
+579
+00:24:57.935 --> 00:24:59.935
+that's a pretty recent piece of legislation.
+
+580
+00:25:00.135 --> 00:25:01.775
+I think we think it's working pretty well
+
+581
+00:25:01.795 --> 00:25:04.975
+and offers sort of a good balance of access to data
+
+582
+00:25:05.195 --> 00:25:06.495
+and protection of data.
+
+583
+00:25:06.555 --> 00:25:08.135
+So I think we're pretty happy with that.
+
+584
+00:25:08.915 --> 00:25:12.655
+Uh, we've also had our Privacy Act updated in 2020, so
+
+585
+00:25:12.655 --> 00:25:14.015
+that's a relevant piece of legislation here.
+
+586
+00:25:14.195 --> 00:25:16.095
+All the privacy impact assessments we do are
+
+587
+00:25:16.095 --> 00:25:17.135
+done under that framework.
+
+588
+00:25:17.755 --> 00:25:20.575
+Uh, so again, it's not, you know, not 2025,
+
+589
+00:25:20.595 --> 00:25:23.135
+but it work was done on that fairly recently,
+
+590
+00:25:23.275 --> 00:25:24.275
+Fairly recent.
+
+591
+00:25:24.515 --> 00:25:27.535
+Um, in terms of the five safes frameworks, so
+
+592
+00:25:28.845 --> 00:25:33.795
+some my notes on it, but, um, safe people, safe projects,
+
+593
+00:25:34.145 --> 00:25:36.075
+safe settings, safe data,
+
+594
+00:25:36.705 --> 00:25:38.355
+Safe outputs, Safe outputs.
+
+595
+00:25:38.355 --> 00:25:40.955
+Thank you Rachel. Um, so that framework is something
+
+596
+00:25:40.955 --> 00:25:42.475
+that we've had in place for quite a long period of time,
+
+597
+00:25:42.615 --> 00:25:45.075
+but exactly what we do under that framework, um, you know,
+
+598
+00:25:45.075 --> 00:25:47.155
+we're always kinda looking to tighten up, um,
+
+599
+00:25:47.295 --> 00:25:51.395
+and make sure that we, uh, applying it as best we can, uh,
+
+600
+00:25:51.465 --> 00:25:55.235
+when it comes to projects that are going on in the IDI
+
+601
+00:25:55.235 --> 00:25:56.875
+and then also the data labs themselves
+
+602
+00:25:56.875 --> 00:25:58.955
+where people are accessing the data.
+
+603
+00:25:59.175 --> 00:26:02.595
+So we audit those data labs once a year to make sure
+
+604
+00:26:02.595 --> 00:26:04.675
+that the physical security is right
+
+605
+00:26:04.815 --> 00:26:06.915
+and also that the IT security is right.
+
+606
+00:26:07.535 --> 00:26:09.475
+And then we have scrutiny of the projects both
+
+607
+00:26:09.855 --> 00:26:11.395
+before they're approved to make sure
+
+608
+00:26:11.395 --> 00:26:12.715
+that they're set up in the right way.
+
+609
+00:26:13.135 --> 00:26:15.995
+And also as they go on, uh, researchers come on
+
+610
+00:26:15.995 --> 00:26:17.275
+and off them, but we need to make sure
+
+611
+00:26:17.275 --> 00:26:19.995
+that they are doing the things that they've said, uh,
+
+612
+00:26:19.995 --> 00:26:22.115
+in the applications of those projects, not going off piece
+
+613
+00:26:22.115 --> 00:26:24.195
+and doing other things with the data.
+
+614
+00:26:24.335 --> 00:26:26.795
+So I think all of those things coming together,
+
+615
+00:26:26.825 --> 00:26:30.475
+like we have a good level of scrutiny, uh, on the sort
+
+616
+00:26:30.475 --> 00:26:32.075
+of cyber security side of things.
+
+617
+00:26:32.335 --> 00:26:35.235
+So I think the IDI sits within STAT mz, which needs
+
+618
+00:26:35.235 --> 00:26:36.795
+to have cybersecurity across all
+
+619
+00:26:36.795 --> 00:26:38.075
+of everything our operations.
+
+620
+00:26:38.135 --> 00:26:41.755
+And so we are applying that at the edge of the organization.
+
+621
+00:26:42.135 --> 00:26:44.605
+And then, so the IDI benefits from that.
+
+622
+00:26:45.025 --> 00:26:47.965
+Um, but it's the type of thing where that security,
+
+623
+00:26:48.345 --> 00:26:50.125
+you know, always a focus trying to make sure
+
+624
+00:26:50.125 --> 00:26:51.285
+that it is up to scratch.
+
+625
+00:26:51.525 --> 00:26:53.845
+'cause you need to do more over time rather than less. Yeah.
+
+626
+00:26:54.095 --> 00:26:56.565
+Thank you. And just a really tiny set around threats
+
+627
+00:26:56.565 --> 00:26:57.805
+and risks in the cyber space,
+
+628
+00:26:57.985 --> 00:27:00.725
+and I'm sort of more looking overseas rather than here.
+
+629
+00:27:00.965 --> 00:27:02.765
+'cause it sounds like you've got a really robust framework.
+
+630
+00:27:03.725 --> 00:27:06.345
+How sort of, are there, I mean, how does that work?
+
+631
+00:27:06.605 --> 00:27:10.305
+Do you get a like flag or how are you advised or?
+
+632
+00:27:11.765 --> 00:27:15.185
+So neither of us are sort of chief technology officer
+
+633
+00:27:15.805 --> 00:27:17.345
+or kind of our security people.
+
+634
+00:27:17.345 --> 00:27:19.945
+So we have people in the organization who are responsible
+
+635
+00:27:19.945 --> 00:27:21.585
+for monitoring those threats, I guess I would say.
+
+636
+00:27:21.685 --> 00:27:25.065
+And yeah. Yeah, it's at all of organization level. Yeah.
+
+637
+00:27:25.065 --> 00:27:27.065
+And we can certainly provide the committee with, um,
+
+638
+00:27:27.065 --> 00:27:30.185
+more information about how we do, uh, go about those things.
+
+639
+00:27:30.485 --> 00:27:32.105
+Um, so more than happy to do
+
+640
+00:27:32.105 --> 00:27:33.105
+That. It
+
+641
+00:27:33.105 --> 00:27:35.065
+in here that the data labs aren't connected
+
+642
+00:27:35.065 --> 00:27:36.065
+to the internet though.
+
+643
+00:27:36.205 --> 00:27:38.265
+No. So that's gotta be a big help.
+
+644
+00:27:38.495 --> 00:27:39.945
+Yeah, that's an important thing.
+
+645
+00:27:40.005 --> 00:27:41.505
+So, you know, sequestered off, it's
+
+646
+00:27:41.505 --> 00:27:43.145
+where you can access this data specifically
+
+647
+00:27:43.245 --> 00:27:44.865
+and you can't access all that data
+
+648
+00:27:44.865 --> 00:27:46.105
+that's talent needs from the same place.
+
+649
+00:27:46.805 --> 00:27:50.545
+Um, which I've just given myself a sub segue into a sub.
+
+650
+00:27:50.685 --> 00:27:54.105
+Um, so because they're not connected to the data,
+
+651
+00:27:54.105 --> 00:27:56.025
+labs aren't connected to the internet,
+
+652
+00:27:56.645 --> 00:28:00.785
+how do you physically get the information out of there to,
+
+653
+00:28:00.885 --> 00:28:04.665
+to customers or people who are requesting the information?
+
+654
+00:28:05.005 --> 00:28:07.825
+Uh, well I guess there are connections from the data labs
+
+655
+00:28:07.885 --> 00:28:10.905
+to the databases themselves, so people can do the research.
+
+656
+00:28:11.245 --> 00:28:13.625
+Uh, and so we have what we call output checking.
+
+657
+00:28:13.765 --> 00:28:17.945
+So researchers are required to make the data confidentially,
+
+658
+00:28:18.285 --> 00:28:20.185
+um, in order for it to be outputted.
+
+659
+00:28:20.525 --> 00:28:22.705
+And so that's their responsibility as researchers.
+
+660
+00:28:22.765 --> 00:28:25.785
+Uh, we then have a team in stats who does output checking.
+
+661
+00:28:25.965 --> 00:28:28.145
+So they go in and they look at the outputs the researchers
+
+662
+00:28:28.145 --> 00:28:30.705
+have created, and then make sure that all
+
+663
+00:28:30.705 --> 00:28:32.785
+of our rules are being applied and no one could be
+
+664
+00:28:33.105 --> 00:28:35.585
+identified from that data if it was to come out of the lab.
+
+665
+00:28:35.885 --> 00:28:39.025
+And then it's our team who takes the data outta the lab
+
+666
+00:28:39.025 --> 00:28:41.745
+and makes it available to the researchers outside the lab.
+
+667
+00:28:41.765 --> 00:28:43.065
+So that's how that process works.
+
+668
+00:28:44.815 --> 00:28:47.235
+So how do you get it out if it's not connected to the,
+
+669
+00:28:48.535 --> 00:28:53.035
+Uh, so within our infrastructure in stats nz,
+
+670
+00:28:53.035 --> 00:28:54.795
+they're able to take those files
+
+671
+00:28:55.055 --> 00:28:58.555
+and then make those available to researchers.
+
+672
+00:28:58.775 --> 00:29:00.915
+So, um, they are, I believe they're emailed
+
+673
+00:29:00.935 --> 00:29:03.475
+to researchers once our staff take them out of the data
+
+674
+00:29:03.495 --> 00:29:04.495
+Lab. So the co
+
+675
+00:29:04.495 --> 00:29:06.595
+the they create a copy that's removed.
+
+676
+00:29:06.825 --> 00:29:08.075
+Yeah, that's right. Yeah. Yeah.
+
+677
+00:29:10.385 --> 00:29:12.875
+Cool. Um, thanks Mr. Chair. Thank you for coming in today.
+
+678
+00:29:13.215 --> 00:29:16.155
+Um, I'm keen to know a little bit more about, um,
+
+679
+00:29:16.915 --> 00:29:19.315
+tikanga Maori principles being applied to the data
+
+680
+00:29:20.415 --> 00:29:23.275
+and, um, Maori practices across it.
+
+681
+00:29:23.535 --> 00:29:25.955
+Um, are you able to explain to me how
+
+682
+00:29:26.505 --> 00:29:27.595
+it's relevant for governance?
+
+683
+00:29:27.715 --> 00:29:29.835
+I understand the sharing of data with interest groups,
+
+684
+00:29:29.855 --> 00:29:34.295
+it could be really interesting, um, but the data is data.
+
+685
+00:29:34.555 --> 00:29:37.375
+So I'm keen to know your,
+
+686
+00:29:37.875 --> 00:29:39.575
+how this is applied in practice
+
+687
+00:29:39.995 --> 00:29:42.155
+and what your thoughts are about this.
+
+688
+00:29:43.605 --> 00:29:47.985
+So the NAI framework is the primary way
+
+689
+00:29:47.985 --> 00:29:49.905
+that we provide, um, that we,
+
+690
+00:29:50.335 --> 00:29:52.865
+that te Maori principles are applied to
+
+691
+00:29:52.865 --> 00:29:53.945
+how the data is used.
+
+692
+00:29:54.645 --> 00:29:57.425
+And so we, it's an ethical framework from our perspective,
+
+693
+00:29:57.645 --> 00:30:01.425
+and it's been developed, uh, gifted to stats NZ by, um,
+
+694
+00:30:02.325 --> 00:30:04.625
+by a Maori researcher originally.
+
+695
+00:30:05.365 --> 00:30:10.305
+Um, and so that is the mechanism, um, by which,
+
+696
+00:30:11.045 --> 00:30:12.745
+um, Maori principles are applied.
+
+697
+00:30:12.885 --> 00:30:15.505
+So, um, I actually don't have the information in front
+
+698
+00:30:15.505 --> 00:30:16.545
+of me about the content of that
+
+699
+00:30:16.545 --> 00:30:17.745
+framework, but it is published.
+
+700
+00:30:17.885 --> 00:30:20.465
+Um, and so we're more than happy to share the details
+
+701
+00:30:20.565 --> 00:30:21.625
+of how that framework works
+
+702
+00:30:21.975 --> 00:30:22.975
+With you. Yeah, yeah.
+
+703
+00:30:22.975 --> 00:30:25.825
+I think, I think in practice, um, if we know
+
+704
+00:30:25.895 --> 00:30:29.865
+that for example, if we know that a research project, um,
+
+705
+00:30:30.205 --> 00:30:34.585
+is going to focus on a particular community, what
+
+706
+00:30:34.585 --> 00:30:39.505
+that framework helps do is um, uh, ask questions about
+
+707
+00:30:40.035 --> 00:30:43.225
+who's on the research team, do you have the right expertise
+
+708
+00:30:43.725 --> 00:30:46.625
+to be working alongside, um, those communities?
+
+709
+00:30:47.165 --> 00:30:50.025
+Um, and then also I think in terms of the outputs,
+
+710
+00:30:50.025 --> 00:30:51.345
+have you thought about, um,
+
+711
+00:30:51.685 --> 00:30:55.865
+how those out outputs will be presented and um,
+
+712
+00:30:56.005 --> 00:30:57.665
+and analyzed and those sorts of things?
+
+713
+00:30:57.805 --> 00:31:00.265
+So, uh, yeah, it's a set of questions
+
+714
+00:31:00.265 --> 00:31:03.985
+that are really helpful for, um, researchers, um,
+
+715
+00:31:03.985 --> 00:31:06.065
+particularly if they're new to the space as well,
+
+716
+00:31:06.125 --> 00:31:08.825
+and they just needed additional support to work effectively
+
+717
+00:31:08.855 --> 00:31:10.665
+with, um, with different communities.
+
+718
+00:31:11.175 --> 00:31:13.705
+Okay. And yeah, possible we,
+
+719
+00:31:13.705 --> 00:31:15.545
+could we grab a copy of that framework
+
+720
+00:31:15.985 --> 00:31:16.985
+Absolutely. Point we can provide
+
+721
+00:31:16.985 --> 00:31:17.225
+
+722
+00:31:17.225 --> 00:31:18.225
+That, absolutely. Share
+
+723
+00:31:18.225 --> 00:31:20.625
+it. Now, just earlier you mentioned
+
+724
+00:31:20.625 --> 00:31:23.345
+that the infrastructure that this runs is quite freaky.
+
+725
+00:31:24.045 --> 00:31:26.425
+Um, what can you go, are you able
+
+726
+00:31:26.425 --> 00:31:28.785
+to give a similar indication of what that means and,
+
+727
+00:31:28.885 --> 00:31:32.145
+and if there is an opportunity to update
+
+728
+00:31:32.145 --> 00:31:34.265
+that given the technologies that are available now with,
+
+729
+00:31:34.265 --> 00:31:35.505
+without compromise the integrity
+
+730
+00:31:35.525 --> 00:31:36.665
+of the data sets that you hold?
+
+731
+00:31:36.855 --> 00:31:38.225
+Yeah, I think it's two things.
+
+732
+00:31:38.495 --> 00:31:40.585
+It's the, um, the infrastructure itself,
+
+733
+00:31:40.585 --> 00:31:42.785
+like the IT infrastructure, um, needs an upgrade,
+
+734
+00:31:42.785 --> 00:31:45.265
+but it's also the way that we do the data processing.
+
+735
+00:31:45.485 --> 00:31:48.505
+So, um, you'll appreciate starting from the beginning,
+
+736
+00:31:48.525 --> 00:31:51.545
+the IDI was quite small, it's grown significantly over time,
+
+737
+00:31:51.645 --> 00:31:52.865
+but the kind of architecture
+
+738
+00:31:52.865 --> 00:31:54.545
+and the design of it hasn't changed.
+
+739
+00:31:54.645 --> 00:31:57.945
+And so what happens is three times a year we refresh it
+
+740
+00:31:58.045 --> 00:32:00.225
+and we, um, receive resupply
+
+741
+00:32:00.225 --> 00:32:02.025
+of the data from everybody each time,
+
+742
+00:32:02.085 --> 00:32:03.865
+and we completely reload that data.
+
+743
+00:32:03.965 --> 00:32:06.705
+And so, um, as it grows and it grows and it grows,
+
+744
+00:32:06.705 --> 00:32:09.745
+and I think it's 1,073 gigabytes
+
+745
+00:32:09.825 --> 00:32:12.225
+and 16 million rows in terms of the total volumes
+
+746
+00:32:12.225 --> 00:32:14.585
+and things that are there now, it becomes increasingly
+
+747
+00:32:14.585 --> 00:32:16.265
+difficult to kind of run that model.
+
+748
+00:32:16.525 --> 00:32:19.745
+And so, yeah, it's not just the technology itself,
+
+749
+00:32:19.815 --> 00:32:21.505
+it's definitely the data processing
+
+750
+00:32:21.565 --> 00:32:22.665
+and the way that that works.
+
+751
+00:32:22.965 --> 00:32:25.545
+And so we would like to change the way
+
+752
+00:32:25.545 --> 00:32:27.105
+that data is processed, um, so
+
+753
+00:32:27.105 --> 00:32:28.785
+that we could just incrementally update.
+
+754
+00:32:28.845 --> 00:32:31.505
+So that just means that we're only updating new records.
+
+755
+00:32:31.505 --> 00:32:33.385
+Everything that hasn't changed, we don't change.
+
+756
+00:32:33.525 --> 00:32:34.905
+And so that would allow us
+
+757
+00:32:34.905 --> 00:32:36.745
+to update the data much more frequently.
+
+758
+00:32:36.885 --> 00:32:37.945
+Um, and so that's a kind
+
+759
+00:32:37.945 --> 00:32:38.985
+of business case that we are working on.
+
+760
+00:32:39.235 --> 00:32:40.405
+Alright. Yeah. Okay.
+
+761
+00:32:41.485 --> 00:32:44.695
+Um, so, um, a note from,
+
+762
+00:32:44.955 --> 00:32:46.735
+um, the list.
+
+763
+00:32:47.265 --> 00:32:52.175
+We've got the data in the, the IIPI, um,
+
+764
+00:32:52.925 --> 00:32:56.535
+only a couple, two or three that reach back to the eighties.
+
+765
+00:32:56.715 --> 00:33:00.905
+Is there any intention of, of any way, any way
+
+766
+00:33:00.905 --> 00:33:03.785
+of capturing data prior to the two thousands?
+
+767
+00:33:06.025 --> 00:33:08.365
+So mostly that reflects, um,
+
+768
+00:33:08.595 --> 00:33:11.685
+when these data sets collected by the government agencies
+
+769
+00:33:11.795 --> 00:33:13.365
+that collect them were sort of
+
+770
+00:33:14.475 --> 00:33:16.765
+collected in digital form in the first place.
+
+771
+00:33:16.945 --> 00:33:18.845
+So prior to that, everything
+
+772
+00:33:18.845 --> 00:33:20.205
+that was in here either didn't exist
+
+773
+00:33:20.225 --> 00:33:21.245
+or it was paper records.
+
+774
+00:33:21.425 --> 00:33:24.045
+And so there isn't really any ability to go back
+
+775
+00:33:24.045 --> 00:33:26.925
+and capture the records that were on paper prior to this.
+
+776
+00:33:26.945 --> 00:33:30.245
+So we are limited by, um, you know, the technology
+
+777
+00:33:30.245 --> 00:33:32.485
+that was in existence for the record keeping Yeah. At
+
+778
+00:33:32.485 --> 00:33:33.485
+That time. So there's no intention of
+
+779
+00:33:33.485 --> 00:33:34.125
+going back
+
+780
+00:33:34.145 --> 00:33:37.725
+and digitizing that historic information. C
+
+781
+00:33:37.725 --> 00:33:38.725
+Certainly not by us,
+
+782
+00:33:38.865 --> 00:33:42.085
+but it may be, uh, it may be something that, um,
+
+783
+00:33:42.145 --> 00:33:46.125
+the individual agencies, um, uh, have in their plans
+
+784
+00:33:46.385 --> 00:33:48.285
+and obviously if they were to do that, then
+
+785
+00:33:48.285 --> 00:33:51.445
+that would potentially make more data available for the IDI.
+
+786
+00:33:51.555 --> 00:33:52.555
+Yeah,
+
+787
+00:33:53.585 --> 00:33:54.835
+I've, I've got a question just sort
+
+788
+00:33:54.835 --> 00:33:55.955
+of from a personal experience
+
+789
+00:33:55.955 --> 00:33:58.075
+and running how that data set may or may not exist.
+
+790
+00:33:58.295 --> 00:34:00.755
+Um, having, having worked in the criminal justice sector
+
+791
+00:34:00.775 --> 00:34:02.035
+for about 10 years Sure.
+
+792
+00:34:02.235 --> 00:34:04.235
+I I know that, uh, there's a very high incidence
+
+793
+00:34:04.235 --> 00:34:05.835
+of neurodiversity, uh,
+
+794
+00:34:05.855 --> 00:34:07.315
+and other complexities in the people
+
+795
+00:34:07.315 --> 00:34:09.435
+who end up in the court system and the prison system.
+
+796
+00:34:09.815 --> 00:34:10.955
+Um, in fact it can,
+
+797
+00:34:10.955 --> 00:34:12.595
+but up to 70% of people have neurodiversity
+
+798
+00:34:13.055 --> 00:34:14.435
+or having dyslexia, for example.
+
+799
+00:34:14.505 --> 00:34:17.075
+Yeah. But dyslexia I think is also some
+
+800
+00:34:17.075 --> 00:34:18.395
+of the most successful business people.
+
+801
+00:34:19.015 --> 00:34:23.155
+Um, so, so the, well, there's, there's an issue in
+
+802
+00:34:23.155 --> 00:34:26.435
+that schools may not capture that data at all.
+
+803
+00:34:26.735 --> 00:34:30.435
+Um, but those that do, I'm wondering how much of that might,
+
+804
+00:34:31.435 --> 00:34:34.505
+might be in your data sets that, that there's some work
+
+805
+00:34:34.575 --> 00:34:37.345
+that can be done to sort of surface that more accurately or,
+
+806
+00:34:37.405 --> 00:34:39.105
+or, or, or not if it doesn't exist.
+
+807
+00:34:40.605 --> 00:34:44.385
+So I don't believe we have neurodiversity data from
+
+808
+00:34:44.815 --> 00:34:46.185
+education at this point.
+
+809
+00:34:46.385 --> 00:34:47.625
+I kind of agree with you. It is possible
+
+810
+00:34:47.735 --> 00:34:50.065
+that school systems will be increasingly capturing it.
+
+811
+00:34:50.365 --> 00:34:55.065
+Um, obviously there are neurodiversity diagnoses made in the
+
+812
+00:34:55.065 --> 00:34:58.375
+health sector as well, so a lot
+
+813
+00:34:58.375 --> 00:35:01.535
+of those will be made privately or in primary care.
+
+814
+00:35:02.075 --> 00:35:04.495
+So definitely a gap in the health data that we have is
+
+815
+00:35:04.495 --> 00:35:07.575
+that we don't have primary care data, um, available to us.
+
+816
+00:35:07.915 --> 00:35:09.655
+And that's actually a gap for the government overall.
+
+817
+00:35:09.765 --> 00:35:12.135
+It's not just a gap for us here at Stats
+
+818
+00:35:12.195 --> 00:35:14.655
+and the IDI, so I would say
+
+819
+00:35:15.375 --> 00:35:17.175
+I believe health has an intention to come fill
+
+820
+00:35:17.175 --> 00:35:20.055
+that gap over time, but that is probably the most likely way
+
+821
+00:35:20.055 --> 00:35:22.015
+that we would systematically get
+
+822
+00:35:22.015 --> 00:35:23.655
+neurodiversity type information.
+
+823
+00:35:24.255 --> 00:35:26.255
+I don't know if they're also capturing it in the justice
+
+824
+00:35:26.255 --> 00:35:27.935
+system, you know, where they are seeing people in,
+
+825
+00:35:27.935 --> 00:35:30.215
+people are evaluated, um, in that context.
+
+826
+00:35:30.475 --> 00:35:33.095
+But I would say it's a kind of a, it's a health gap
+
+827
+00:35:33.095 --> 00:35:34.335
+that we have at the moment, um,
+
+828
+00:35:34.335 --> 00:35:37.845
+that we would need the health sector to have a way
+
+829
+00:35:37.845 --> 00:35:39.565
+of bringing it together for us to then benefit
+
+830
+00:35:39.625 --> 00:35:40.845
+and have it in the start set.
+
+831
+00:35:41.305 --> 00:35:42.485
+And how, how might that happen?
+
+832
+00:35:42.485 --> 00:35:45.325
+Like, who would take the leadership on, on saying, okay, we,
+
+833
+00:35:45.345 --> 00:35:47.365
+we, we think it would be useful to be capturing that data
+
+834
+00:35:47.425 --> 00:35:49.525
+or, or to be that data in the yada.
+
+835
+00:35:50.595 --> 00:35:52.495
+So I know that within the health system,
+
+836
+00:35:52.495 --> 00:35:55.855
+they are interested in bringing significantly more primary
+
+837
+00:35:55.925 --> 00:35:58.575
+care data together for kind of health planning purposes.
+
+838
+00:35:58.575 --> 00:36:01.055
+And so I think if they were successful in that endeavor,
+
+839
+00:36:01.125 --> 00:36:03.095
+then we would be able to tap into it, you know,
+
+840
+00:36:03.095 --> 00:36:06.215
+through our usual processes, um, to bring it into the IDI.
+
+841
+00:36:06.235 --> 00:36:08.175
+So I think it's within that health portfolio,
+
+842
+00:36:08.635 --> 00:36:10.735
+how much progress are they making on that plan?
+
+843
+00:36:12.895 --> 00:36:14.335
+Questions actually quite related.
+
+844
+00:36:14.795 --> 00:36:16.295
+I'm interested in new sets
+
+845
+00:36:16.645 --> 00:36:20.055
+that you might think would be a good idea to capture.
+
+846
+00:36:20.755 --> 00:36:23.935
+And I can see I, uh, like a, a set
+
+847
+00:36:23.935 --> 00:36:27.215
+that wouldn't be obvious is actually, um,
+
+848
+00:36:27.305 --> 00:36:31.295
+employment contracts because it's private information,
+
+849
+00:36:31.675 --> 00:36:35.775
+but actually what we need to see is the patterns in it.
+
+850
+00:36:36.035 --> 00:36:39.135
+We don't care about the individual agreements.
+
+851
+00:36:39.635 --> 00:36:43.095
+And I just wondered what your process was for
+
+852
+00:36:43.735 --> 00:36:44.975
+choosing those data sets.
+
+853
+00:36:45.035 --> 00:36:46.175
+Is it opportunity?
+
+854
+00:36:46.315 --> 00:36:47.775
+Is it, how does that happen
+
+855
+00:36:48.715 --> 00:36:53.095
+and how much potential do you think there is
+
+856
+00:36:55.115 --> 00:36:57.215
+in terms of new sets of information
+
+857
+00:36:57.215 --> 00:37:01.415
+that are you already aware of gaps or opportunities?
+
+858
+00:37:02.045 --> 00:37:04.975
+Yeah, I think we are aware of gaps, so we're aware
+
+859
+00:37:04.975 --> 00:37:06.295
+of gaps in an IDI context
+
+860
+00:37:06.435 --> 00:37:08.615
+and then we're aware of gaps in a kind of more
+
+861
+00:37:08.615 --> 00:37:10.655
+of a government data system context.
+
+862
+00:37:11.085 --> 00:37:14.095
+Yeah. Do you wanna comment at all on government data system?
+
+863
+00:37:14.915 --> 00:37:19.095
+So, uh, so, um, at least a couple of years ago, um,
+
+864
+00:37:19.495 --> 00:37:21.975
+a data investment plan, um, was put together.
+
+865
+00:37:22.435 --> 00:37:25.015
+So that was certainly trying to have a look at, um,
+
+866
+00:37:25.015 --> 00:37:27.775
+more systematically what were the gaps across, um,
+
+867
+00:37:27.775 --> 00:37:30.775
+across government in, um, social economic
+
+868
+00:37:30.795 --> 00:37:32.135
+and environmental domains.
+
+869
+00:37:32.755 --> 00:37:36.295
+Um, so some of that would be relevant to, uh,
+
+870
+00:37:36.295 --> 00:37:40.135
+finding new data, um, that could go into the IDI as much as
+
+871
+00:37:40.935 --> 00:37:42.095
+actually we need these data sets
+
+872
+00:37:42.095 --> 00:37:43.855
+to produce more statistical, you know,
+
+873
+00:37:44.135 --> 00:37:46.535
+aggregated statistical information, um, as well.
+
+874
+00:37:46.995 --> 00:37:50.655
+So that's one of the mechanisms by which, um, you know,
+
+875
+00:37:50.655 --> 00:37:53.535
+we have a, a view of the overall landscape, um,
+
+876
+00:37:53.675 --> 00:37:56.055
+within the context of our new legislation.
+
+877
+00:37:56.395 --> 00:37:59.575
+Um, we are starting to work on a multi-year data
+
+878
+00:37:59.595 --> 00:38:00.695
+and statistics plan.
+
+879
+00:38:00.875 --> 00:38:02.415
+Um, that's, that's a requirement.
+
+880
+00:38:02.595 --> 00:38:05.895
+Um, so that will, um, follow on obviously from
+
+881
+00:38:05.895 --> 00:38:08.335
+that initial data investment plan work.
+
+882
+00:38:08.995 --> 00:38:10.615
+Um, and I think subsequent
+
+883
+00:38:10.995 --> 00:38:15.655
+or in, in that same context, we have a range of different,
+
+884
+00:38:15.835 --> 00:38:18.175
+uh, like we have the information group, so
+
+885
+00:38:18.175 --> 00:38:20.495
+that's a cross government group where, um,
+
+886
+00:38:20.495 --> 00:38:22.735
+different data leaders come together, um,
+
+887
+00:38:22.955 --> 00:38:24.655
+to obviously share practice,
+
+888
+00:38:24.655 --> 00:38:26.855
+but also to discuss where are the gaps,
+
+889
+00:38:27.125 --> 00:38:30.535
+what help do people need, um, and those sorts of things.
+
+890
+00:38:30.635 --> 00:38:34.255
+So that are probably the two key ways that we think about
+
+891
+00:38:34.255 --> 00:38:36.205
+what those gaps are and, um,
+
+892
+00:38:36.225 --> 00:38:38.805
+and what might be needed, um, to be filled in future
+
+893
+00:38:40.605 --> 00:38:43.305
+And directly in the IDI context when it comes to gaps
+
+894
+00:38:43.565 --> 00:38:44.625
+and potential new data.
+
+895
+00:38:44.885 --> 00:38:48.225
+Um, so we've got a lot of researchers working in here
+
+896
+00:38:48.245 --> 00:38:50.425
+and sometimes they'll say, you know, this data set
+
+897
+00:38:50.425 --> 00:38:52.385
+that we would like to be able to use doesn't exist in here.
+
+898
+00:38:52.385 --> 00:38:54.185
+And so we talk to 'em about what that might be.
+
+899
+00:38:54.185 --> 00:38:57.025
+Sometimes they know where that data exists, and so we can go
+
+900
+00:38:57.025 --> 00:38:58.025
+and talk to that organization.
+
+901
+00:38:58.025 --> 00:38:59.225
+Sometimes they might not know that,
+
+902
+00:38:59.225 --> 00:39:01.425
+and we have to see if we can figure that out.
+
+903
+00:39:01.685 --> 00:39:04.785
+Um, some of the fundamental questions then are, you know,
+
+904
+00:39:04.785 --> 00:39:06.785
+does that data exist in the form that they want?
+
+905
+00:39:06.885 --> 00:39:09.585
+And if it does, is it already held by government?
+
+906
+00:39:09.725 --> 00:39:10.745
+It may, it may not be.
+
+907
+00:39:11.045 --> 00:39:12.705
+Um, it may exist
+
+908
+00:39:12.725 --> 00:39:15.985
+and be held by either a organization within a sector
+
+909
+00:39:16.325 --> 00:39:17.545
+or privately.
+
+910
+00:39:17.645 --> 00:39:20.345
+And so it's whether or not we're able to access that data
+
+911
+00:39:20.845 --> 00:39:22.945
+and then sometimes data that people would like to be able
+
+912
+00:39:22.945 --> 00:39:24.745
+to use in research, um, you know,
+
+913
+00:39:24.885 --> 00:39:26.625
+is not systematically collected at all.
+
+914
+00:39:26.765 --> 00:39:30.345
+And so then it's a question of is there enough value in
+
+915
+00:39:30.345 --> 00:39:31.945
+that data for it to be collected in the future,
+
+916
+00:39:31.995 --> 00:39:34.945
+which is the kind of data investment plan lens on it.
+
+917
+00:39:35.085 --> 00:39:37.025
+Um, so I would say
+
+918
+00:39:37.545 --> 00:39:40.105
+researcher requests definitely drive a lot of our activity
+
+919
+00:39:40.125 --> 00:39:41.945
+to try and go out and find new data.
+
+920
+00:39:42.045 --> 00:39:44.305
+And so the more researchers that are clamoring
+
+921
+00:39:44.305 --> 00:39:46.225
+for a particular data set, the more effort we would then put
+
+922
+00:39:46.225 --> 00:39:47.985
+into trying to find that data and negotiate
+
+923
+00:39:47.985 --> 00:39:49.945
+with whoever might hold that data to bring it in.
+
+924
+00:39:50.005 --> 00:39:53.145
+So we do have a kind of a, a process for trying
+
+925
+00:39:53.145 --> 00:39:54.945
+to bring new data in on an ongoing basis
+
+926
+00:39:55.045 --> 00:39:56.905
+and in a way of prioritizing that.
+
+927
+00:39:57.215 --> 00:40:01.625
+Yeah. Okay. I, there's a supplement actually is, um, so a,
+
+928
+00:40:01.745 --> 00:40:04.185
+a very, uh, local example, it's of interest
+
+929
+00:40:04.185 --> 00:40:07.505
+to me is in Queensland Lake District where the, uh,
+
+930
+00:40:07.815 --> 00:40:11.745
+physics New Zealand data set that is then to inform sort
+
+931
+00:40:11.745 --> 00:40:12.945
+of population projections have
+
+932
+00:40:12.945 --> 00:40:14.105
+consistently been undercooked.
+
+933
+00:40:14.365 --> 00:40:15.305
+Um, it's just been
+
+934
+00:40:15.305 --> 00:40:16.385
+a challenge that's been there for decades.
+
+935
+00:40:16.565 --> 00:40:18.705
+Mm-hmm. Uh, local government, um,
+
+936
+00:40:18.885 --> 00:40:20.865
+has arguably better data sets in terms of
+
+937
+00:40:20.865 --> 00:40:22.145
+that but's still arguably not good enough.
+
+938
+00:40:22.325 --> 00:40:24.665
+Um, yeah, because it's, it's very challenging to,
+
+939
+00:40:24.845 --> 00:40:27.105
+to virtually map what the, what the growth profile will be.
+
+940
+00:40:27.125 --> 00:40:29.985
+But that has direct implications for decisions around, um,
+
+941
+00:40:30.605 --> 00:40:33.265
+uh, early childhood, uh, development, primary school,
+
+942
+00:40:33.335 --> 00:40:36.585
+secondary school roading, uh, you know,
+
+943
+00:40:36.865 --> 00:40:39.585
+electricity infrastructure, you know, the list goes on.
+
+944
+00:40:40.085 --> 00:40:42.985
+Um, so, so actually having a good data set is really
+
+945
+00:40:42.985 --> 00:40:45.665
+important, but more than that is, it's also making sure
+
+946
+00:40:45.665 --> 00:40:48.065
+that data set is available to the different organizations
+
+947
+00:40:48.065 --> 00:40:51.515
+who often have their own, um, uh,
+
+948
+00:40:51.515 --> 00:40:52.635
+projections that they're relying on.
+
+949
+00:40:52.855 --> 00:40:54.475
+And I, and I think I understand there should be some
+
+950
+00:40:54.475 --> 00:40:55.715
+reliance on statistics New Zealand,
+
+951
+00:40:55.775 --> 00:40:58.755
+but when you have a, that, that challenge, so,
+
+952
+00:40:58.755 --> 00:41:01.835
+so I guess the question is, are you able to, A,
+
+953
+00:41:02.215 --> 00:41:03.795
+use the local governments data sets?
+
+954
+00:41:04.395 --> 00:41:07.275
+B is, is there scope to actually have, um,
+
+955
+00:41:07.595 --> 00:41:10.035
+a more robust data sets that are in real time
+
+956
+00:41:10.665 --> 00:41:13.115
+that can be used to help inform those planning decisions
+
+957
+00:41:13.115 --> 00:41:14.795
+that need to be made across multiple domains?
+
+958
+00:41:17.345 --> 00:41:18.945
+I think your question is probably more about the
+
+959
+00:41:18.945 --> 00:41:22.665
+production of statistics at that kind of sub-national level.
+
+960
+00:41:22.735 --> 00:41:24.625
+Like how much do we understand local
+
+961
+00:41:24.885 --> 00:41:27.945
+and regional communities more than it is about data
+
+962
+00:41:27.945 --> 00:41:30.905
+that we would seek to bring into the IDI, I mean,
+
+963
+00:41:30.905 --> 00:41:32.745
+I completely agree that that sort of data is needed
+
+964
+00:41:32.745 --> 00:41:35.005
+For decisions that you were absolutely laying out there.
+
+965
+00:41:35.225 --> 00:41:37.725
+Um, I'm sort of wondering whether with the, the information
+
+966
+00:41:37.725 --> 00:41:41.325
+that's an integrated data set, uh, if there is scope
+
+967
+00:41:41.865 --> 00:41:45.925
+to have a, have a more comprehensive, um, data set that's,
+
+968
+00:41:45.925 --> 00:41:47.845
+that's available at that integrated level. So
+
+969
+00:41:47.845 --> 00:41:49.165
+We do have help inform decision making.
+
+970
+00:41:49.235 --> 00:41:53.885
+Yeah. So we do have, um, so based on, um, data in the IDI,
+
+971
+00:41:54.105 --> 00:41:56.845
+um, we've been producing annually, um,
+
+972
+00:41:57.105 --> 00:42:01.405
+an administrative data population, um, set of statistics,
+
+973
+00:42:01.905 --> 00:42:04.085
+um, they've been experimental in the sense
+
+974
+00:42:04.085 --> 00:42:06.845
+that obviously we're still working on the methods, um,
+
+975
+00:42:07.145 --> 00:42:11.405
+but that, uh, that data set is available annually, um,
+
+976
+00:42:12.065 --> 00:42:14.885
+and give some insight, not the full insight
+
+977
+00:42:14.915 --> 00:42:18.365
+that you would get every five years from the census,
+
+978
+00:42:18.665 --> 00:42:22.845
+but, um, but that's been an addition, um, of a sort
+
+979
+00:42:22.845 --> 00:42:25.685
+of more integrated set that's been made available in terms
+
+980
+00:42:25.705 --> 00:42:27.925
+of, um, population change.
+
+981
+00:42:28.985 --> 00:42:33.485
+Um, and I think in terms of the shift in the census model,
+
+982
+00:42:34.265 --> 00:42:38.045
+um, one of the, the benefits from moving, um,
+
+983
+00:42:38.795 --> 00:42:42.765
+away from counting every five years is that, you know,
+
+984
+00:42:42.765 --> 00:42:46.125
+we'll have annual census information available, um,
+
+985
+00:42:46.145 --> 00:42:49.165
+in detail, which means that we have, uh,
+
+986
+00:42:49.165 --> 00:42:51.925
+earlier insight into some of those population changes,
+
+987
+00:42:52.465 --> 00:42:55.205
+but equally it can be integrated more regularly in
+
+988
+00:42:55.205 --> 00:42:58.005
+with the data that we already have to help, I think,
+
+989
+00:42:58.005 --> 00:43:00.125
+provide some of the insights that you may be looking,
+
+990
+00:43:00.425 --> 00:43:01.685
+um, looking for.
+
+991
+00:43:01.825 --> 00:43:05.125
+So, um, that's, that's certainly part of our future work.
+
+992
+00:43:06.145 --> 00:43:07.845
+And just a little bit on that.
+
+993
+00:43:07.905 --> 00:43:08.925
+So just think about sort
+
+994
+00:43:08.925 --> 00:43:10.725
+of the vulnerable populations across New Zealand.
+
+995
+00:43:10.745 --> 00:43:12.405
+Yes. Uh, both, um, vulnerable
+
+996
+00:43:12.405 --> 00:43:14.725
+because of isolation geographically, uh,
+
+997
+00:43:14.725 --> 00:43:16.165
+but also say, you know, um,
+
+998
+00:43:16.165 --> 00:43:17.965
+living in garages, uh, absolutely.
+
+999
+00:43:18.065 --> 00:43:21.525
+Et cetera. Yeah. Uh, how, how, how much
+
+1000
+00:43:22.415 --> 00:43:26.325
+confidence, uh, sort of can you have at this point,
+
+1001
+00:43:26.345 --> 00:43:29.205
+and in, in terms of the data collection that's happening,
+
+1002
+00:43:29.205 --> 00:43:33.485
+that, that comes in this data set relied on decision makers
+
+1003
+00:43:33.485 --> 00:43:35.165
+in terms of policies, decision making?
+
+1004
+00:43:36.535 --> 00:43:38.115
+Uh, so we probably have some other people
+
+1005
+00:43:38.215 --> 00:43:41.555
+who can speak more, um, in depth about, um,
+
+1006
+00:43:41.805 --> 00:43:42.835
+about homelessness.
+
+1007
+00:43:42.865 --> 00:43:47.795
+What I can say is, so from the 2023 census work that we did,
+
+1008
+00:43:48.375 --> 00:43:52.915
+um, we recognize, obviously we in our collection, um, try
+
+1009
+00:43:52.915 --> 00:43:57.355
+to engage, um, uh, and capture, um, homeless homelessness.
+
+1010
+00:43:57.935 --> 00:43:59.715
+Um, but we also work with a range
+
+1011
+00:43:59.715 --> 00:44:03.875
+of different organizations, um, who, uh,
+
+1012
+00:44:04.215 --> 00:44:07.075
+are more who work with, um, those populations,
+
+1013
+00:44:07.075 --> 00:44:10.195
+those vulnerable people, um, more often every day.
+
+1014
+00:44:10.375 --> 00:44:14.555
+And so, um, through our collective efforts, um, we were able
+
+1015
+00:44:14.575 --> 00:44:19.035
+to, um, subsequently provide, um, an estimate of the, um,
+
+1016
+00:44:19.035 --> 00:44:22.275
+of the amount of homelessness, um, in New Zealand, um,
+
+1017
+00:44:22.415 --> 00:44:25.155
+in terms of our, our work, um, since census
+
+1018
+00:44:25.775 --> 00:44:28.035
+that's really been with, um, housing
+
+1019
+00:44:28.055 --> 00:44:29.515
+and urban development, um,
+
+1020
+00:44:29.575 --> 00:44:33.405
+and other agencies working on, um, how best to
+
+1021
+00:44:34.115 --> 00:44:38.245
+provide, um, estimates of homelessness, um, outside
+
+1022
+00:44:38.245 --> 00:44:41.165
+of the census, um, uh, collection that we've,
+
+1023
+00:44:41.165 --> 00:44:42.565
+we've done in 2023.
+
+1024
+00:44:43.025 --> 00:44:45.805
+Um, but if you want more information about, um,
+
+1025
+00:44:45.825 --> 00:44:50.365
+how we are working in that, um, uh, how are we going
+
+1026
+00:44:50.365 --> 00:44:53.485
+to capture, uh, vulnerable populations, um, we've got people
+
+1027
+00:44:53.585 --> 00:44:55.285
+who, um, could talk to the committee
+
+1028
+00:44:55.425 --> 00:44:57.165
+or provide information thanks.
+
+1029
+00:44:57.165 --> 00:44:59.165
+And that, would that be the same for these, uh, sort of
+
+1030
+00:44:59.885 --> 00:45:02.405
+isolated rural communities or, and sort of households
+
+1031
+00:45:02.865 --> 00:45:04.765
+and sort of, that may not be, you know,
+
+1032
+00:45:04.765 --> 00:45:06.445
+particularly digitally connected, um, but,
+
+1033
+00:45:06.445 --> 00:45:07.845
+and both, both individually,
+
+1034
+00:45:07.845 --> 00:45:10.805
+but also sort of at a, at a governance level,
+
+1035
+00:45:11.925 --> 00:45:15.545
+I think, um, it, it really do, um,
+
+1036
+00:45:15.895 --> 00:45:17.905
+it's somewhat dependent on, um,
+
+1037
+00:45:18.485 --> 00:45:21.745
+how different people interact with, you know, government,
+
+1038
+00:45:22.365 --> 00:45:23.785
+uh, administrative data, how they,
+
+1039
+00:45:24.085 --> 00:45:26.105
+how they show up in administrative data.
+
+1040
+00:45:26.525 --> 00:45:31.505
+So, um, uh, so we do, we do capture a range of, um,
+
+1041
+00:45:31.885 --> 00:45:36.225
+um, cross-section of populations within our, um, uh,
+
+1042
+00:45:36.225 --> 00:45:37.465
+within the administrative data
+
+1043
+00:45:37.465 --> 00:45:39.545
+that obviously feeds into the IDI,
+
+1044
+00:45:39.545 --> 00:45:41.745
+but then also underpins our, um,
+
+1045
+00:45:42.315 --> 00:45:44.705
+popul our broader population estimates.
+
+1046
+00:45:45.125 --> 00:45:49.305
+So, um, it can vary depending on, um, location
+
+1047
+00:45:49.725 --> 00:45:51.025
+and, um,
+
+1048
+00:45:51.885 --> 00:45:53.905
+and different attributes that people have,
+
+1049
+00:45:54.165 --> 00:45:55.625
+um, as individuals too.
+
+1050
+00:45:56.005 --> 00:45:58.865
+Thanks la Yeah, just very quickly through the chair.
+
+1051
+00:45:58.865 --> 00:46:02.305
+Thank you. Um, just in terms of the switch
+
+1052
+00:46:02.885 --> 00:46:07.425
+little from an annual to versus the current model,
+
+1053
+00:46:08.005 --> 00:46:09.665
+um, the insights you talked about,
+
+1054
+00:46:09.845 --> 00:46:13.145
+how variable are those in different, different regions,
+
+1055
+00:46:13.145 --> 00:46:15.345
+different, um, parts of the population?
+
+1056
+00:46:16.245 --> 00:46:17.705
+Um, yeah.
+
+1057
+00:46:17.845 --> 00:46:20.105
+And do you, and, and just following on from that,
+
+1058
+00:46:20.125 --> 00:46:23.545
+is the comparative analysis collecting it
+
+1059
+00:46:23.565 --> 00:46:25.865
+as a one year versus the five year?
+
+1060
+00:46:26.685 --> 00:46:29.545
+Um, so as I said, we, we probably have some people
+
+1061
+00:46:29.645 --> 00:46:33.065
+who can speak far more in depth to, um, yeah,
+
+1062
+00:46:33.065 --> 00:46:34.945
+to our population statistics, but,
+
+1063
+00:46:35.205 --> 00:46:38.905
+but certainly in the context of the IDI, um, being a,
+
+1064
+00:46:38.905 --> 00:46:41.865
+having more regular data available means
+
+1065
+00:46:41.865 --> 00:46:44.185
+that it can go into the IDI and be integrated
+
+1066
+00:46:44.245 --> 00:46:45.745
+and provide insights that you wouldn't
+
+1067
+00:46:45.745 --> 00:46:47.865
+otherwise get if you had to wait every five years.
+
+1068
+00:46:48.005 --> 00:46:49.505
+That's probably the key point. Yeah.
+
+1069
+00:46:50.195 --> 00:46:52.265
+Thank you, Mr. Chair.
+
+1070
+00:46:52.325 --> 00:46:55.065
+Um, just thinking about how you collect
+
+1071
+00:46:55.065 --> 00:46:58.265
+that data from other providers, does the
+
+1072
+00:46:59.105 --> 00:47:01.625
+software hardware make a difference?
+
+1073
+00:47:01.625 --> 00:47:04.025
+Like, is it easily imported into your system
+
+1074
+00:47:04.125 --> 00:47:07.505
+or do you have to manually reenter it
+
+1075
+00:47:08.045 --> 00:47:09.345
+So we don't manually reenter it?
+
+1076
+00:47:09.345 --> 00:47:13.145
+No. So, um, I guess they collect it in their systems.
+
+1077
+00:47:13.365 --> 00:47:14.625
+We work with them to figure out a way
+
+1078
+00:47:14.625 --> 00:47:17.225
+that they can output it in a file that can be sent to us,
+
+1079
+00:47:17.365 --> 00:47:19.905
+and then that file is brought into our systems.
+
+1080
+00:47:20.205 --> 00:47:24.825
+Um, we have secure transfer mechanisms, um, to make sure
+
+1081
+00:47:24.825 --> 00:47:26.745
+that, you know, when it goes from their organization
+
+1082
+00:47:26.745 --> 00:47:29.025
+to ours, it does so safely and can't be intercepted.
+
+1083
+00:47:29.465 --> 00:47:31.805
+But there's a lot of work in what we call data brokering,
+
+1084
+00:47:31.805 --> 00:47:33.485
+which is working with those organizations,
+
+1085
+00:47:33.485 --> 00:47:35.725
+understanding their systems, understanding the data,
+
+1086
+00:47:35.725 --> 00:47:37.005
+understanding the quality of the data
+
+1087
+00:47:37.465 --> 00:47:38.925
+before it comes into our system.
+
+1088
+00:47:39.025 --> 00:47:41.245
+So it's a key part of what we do, trying to figure that out.
+
+1089
+00:47:41.255 --> 00:47:43.765
+Right. 'cause I understand too from the health sector,
+
+1090
+00:47:43.855 --> 00:47:46.165
+especially primary health, is
+
+1091
+00:47:46.165 --> 00:47:49.405
+that GP practices have different software programs
+
+1092
+00:47:49.405 --> 00:47:51.325
+that they use and they don't talk to each other.
+
+1093
+00:47:51.985 --> 00:47:54.805
+Yes. So it makes it difficult to collate that information.
+
+1094
+00:47:54.945 --> 00:47:56.525
+That's right. So I was just wondering if that was a,
+
+1095
+00:47:56.705 --> 00:47:59.125
+you know, applied across different other agencies.
+
+1096
+00:48:00.085 --> 00:48:01.485
+I think it's a effective, for us, it's definitely
+
+1097
+00:48:01.485 --> 00:48:02.885
+effective for what I was talking about earlier about,
+
+1098
+00:48:02.885 --> 00:48:04.365
+you know, is health able to bring
+
+1099
+00:48:04.365 --> 00:48:06.005
+that primary care data together.
+
+1100
+00:48:06.265 --> 00:48:10.765
+So we just work with what organizations have, um,
+
+1101
+00:48:11.025 --> 00:48:12.965
+and hopefully they're applying standards,
+
+1102
+00:48:12.965 --> 00:48:15.045
+and if they are, that's great and it makes it easier for us,
+
+1103
+00:48:15.105 --> 00:48:17.685
+but we, if the data is a high priority, we just work
+
+1104
+00:48:17.685 --> 00:48:19.365
+with them to be able to get it into our systems.
+
+1105
+00:48:19.535 --> 00:48:22.125
+Great. And can you just, um, tell us a little bit about
+
+1106
+00:48:22.125 --> 00:48:25.085
+what the longitudinal business database is?
+
+1107
+00:48:26.025 --> 00:48:27.725
+Oh, the longitudinal business database? Yeah.
+
+1108
+00:48:27.925 --> 00:48:32.725
+So, um, so it's, uh, it brings together, uh,
+
+1109
+00:48:33.285 --> 00:48:35.645
+a lot of our economic and business data, um,
+
+1110
+00:48:36.145 --> 00:48:39.805
+and longitudinal as in, um, shows time series over time.
+
+1111
+00:48:40.505 --> 00:48:43.805
+Um, it's an integrated database, so, um, yeah,
+
+1112
+00:48:43.805 --> 00:48:44.885
+brings those all together
+
+1113
+00:48:44.985 --> 00:48:48.925
+and is available for, uh, people to do economic research.
+
+1114
+00:48:49.145 --> 00:48:50.685
+So some of the work
+
+1115
+00:48:50.685 --> 00:48:53.125
+that gets done in the longitudinal business
+
+1116
+00:48:53.645 --> 00:48:57.925
+database studies on, um, productivity, uh,
+
+1117
+00:48:58.315 --> 00:49:01.845
+aspects of innovation, um, those sorts of things.
+
+1118
+00:49:02.265 --> 00:49:06.925
+So yeah, uh, providing, uh, insights for, uh, policy,
+
+1119
+00:49:07.525 --> 00:49:10.405
+economic, um, policy, competition,
+
+1120
+00:49:10.545 --> 00:49:12.045
+policy, those sorts of things.
+
+1121
+00:49:12.665 --> 00:49:15.365
+And, and what, uh, what does data, that data back
+
+1122
+00:49:15.365 --> 00:49:16.405
+to when, when did it begin?
+
+1123
+00:49:16.545 --> 00:49:18.365
+And, um, and so what sources
+
+1124
+00:49:18.465 --> 00:49:19.765
+of data are you drawing that from?
+
+1125
+00:49:22.735 --> 00:49:25.015
+I don't have that information with me. Yeah.
+
+1126
+00:49:25.075 --> 00:49:28.415
+Um, I would say often the data dates back 15
+
+1127
+00:49:28.475 --> 00:49:30.175
+or 20 years, but not in all cases.
+
+1128
+00:49:31.085 --> 00:49:32.575
+Yeah, we have that information. Yeah.
+
+1129
+00:49:32.575 --> 00:49:34.455
+So we can, yeah, we can provide you,
+
+1130
+00:49:34.595 --> 00:49:37.295
+so we've got a similar picture to the one with the IDI,
+
+1131
+00:49:37.295 --> 00:49:39.175
+which outlines all of the data sets
+
+1132
+00:49:39.175 --> 00:49:40.255
+and how far they go back.
+
+1133
+00:49:40.565 --> 00:49:44.095
+They're a mixture of data, data from Statistic New Zealand,
+
+1134
+00:49:44.315 --> 00:49:46.815
+but they're also, um, a range of, uh,
+
+1135
+00:49:46.825 --> 00:49:49.015
+other government departments as well. Yeah.
+
+1136
+00:49:49.275 --> 00:49:52.655
+So I can make mine start just if you had something like
+
+1137
+00:49:52.655 --> 00:49:54.215
+that, that the database
+
+1138
+00:49:54.215 --> 00:49:55.975
+and there were bits of that information
+
+1139
+00:49:56.405 --> 00:49:57.455
+that weren't present.
+
+1140
+00:49:57.795 --> 00:50:00.295
+So for example, I'm thinking about restraints of trade,
+
+1141
+00:50:00.705 --> 00:50:04.455
+which are covered in the private agreements,
+
+1142
+00:50:04.515 --> 00:50:08.135
+but in fact there's a public interest in what would happen,
+
+1143
+00:50:08.915 --> 00:50:10.015
+how would someone say,
+
+1144
+00:50:10.455 --> 00:50:12.895
+actually we are missing this information legislature.
+
+1145
+00:50:13.355 --> 00:50:16.755
+We really need to change the law so
+
+1146
+00:50:16.755 --> 00:50:20.835
+that we can gather this data for our public interest.
+
+1147
+00:50:21.655 --> 00:50:25.835
+How would that occur? Would it be you as an agency
+
+1148
+00:50:25.835 --> 00:50:28.165
+that said, we've seen this gap,
+
+1149
+00:50:28.385 --> 00:50:31.365
+or would it be the people involved in the research,
+
+1150
+00:50:31.585 --> 00:50:32.605
+or would it be both?
+
+1151
+00:50:32.785 --> 00:50:37.245
+Mm-hmm. Is there a mechanism to tell us that we need
+
+1152
+00:50:37.245 --> 00:50:40.845
+to include in our legislation new requests
+
+1153
+00:50:40.865 --> 00:50:43.005
+for information when that's appropriate?
+
+1154
+00:50:44.665 --> 00:50:47.525
+Um, so I think one of the mechanisms, um, for us
+
+1155
+00:50:47.545 --> 00:50:51.725
+as a department, uh, is we, as I said, like we have regular,
+
+1156
+00:50:52.145 --> 00:50:55.605
+um, we, we have a forum where we get together, um,
+
+1157
+00:50:55.635 --> 00:50:57.805
+with other people from other departments.
+
+1158
+00:50:58.265 --> 00:51:01.805
+And so through that we are aware of different legislation
+
+1159
+00:51:01.805 --> 00:51:02.805
+that's being developed.
+
+1160
+00:51:03.065 --> 00:51:07.285
+And so, um, our role in that is, is to have a look at,
+
+1161
+00:51:07.385 --> 00:51:08.645
+so what are the opportunities?
+
+1162
+00:51:09.475 --> 00:51:13.405
+Yeah, so we'll, we provide, um, comments on cabinet papers
+
+1163
+00:51:13.705 --> 00:51:18.165
+and, and uh, legislation so that, you know, this side of,
+
+1164
+00:51:18.225 --> 00:51:21.365
+um, uh, yeah, this side of, uh, what we do.
+
+1165
+00:51:22.025 --> 00:51:24.245
+Um, yeah, it does recognize the,
+
+1166
+00:51:24.345 --> 00:51:26.605
+the data opportunities, um, within it.
+
+1167
+00:51:26.865 --> 00:51:29.445
+Um, yeah. And, and obviously ministers can make choices
+
+1168
+00:51:29.535 --> 00:51:31.645
+about whether they include that or not.
+
+1169
+00:51:31.645 --> 00:51:33.125
+Thank you very much problem.
+
+1170
+00:51:33.775 --> 00:51:34.725
+Thank very much. It's been
+
+1171
+00:51:34.725 --> 00:51:36.165
+very interesting. Appreciate you coming in.
+
+1172
+00:51:36.465 --> 00:51:40.605
+No worries. Thank you. Thank Terms
+
+1173
+00:51:40.605 --> 00:51:42.885
+of next steps might just park back next week.
+
+1174
+00:51:43.215 --> 00:51:45.965
+Thank, um, just the one other item of business news use
+
+1175
+00:51:45.965 --> 00:51:48.885
+for release you, um, just a.

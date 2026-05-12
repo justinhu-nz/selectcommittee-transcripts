@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:57.957488+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1103998517",
+  "title": "2025 07 31 Petitions",
+  "url": "https://vimeo.com/1103998517",
+  "published_at": "20250731",
+  "published_display": "2025-07-31",
+  "duration_seconds": 2605,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2587.55,
+    "segment_count": 960,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 31 Petitions - vimeo_1103998517\\2025 07 31 Petitions - vimeo_1103998517.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1103998517",
+    "display_id": "1103998517",
+    "title": "2025 07 31 Petitions",
+    "description": "Thursday 31 July 2025 | Petitions Committee\n\nPetition of Christina Gillmore: Establish nationwide regulations and standards for laser tattoo removal; Petition of Christian van der Pump: Fire and Emergency New Zealand to release incident data statistics\n\nSubmitters:\n\nPetition of Christina Gillmore: Establish nationwide regulations and standards for laser tattoo removal\n\nChristina Gillmore\n\nMinistry of Health\n- Jane Chamber, Group Manager Public Health Policy & Legislation\n- Clare Possenniskie, Manager, Ope Takaiapu Public Health Agency\n- Kevin Lampen-Smith, Chief Regulatory Officer\n\nPetition of Christian van der Pump: Fire and Emergency New Zealand to release incident data statistics\n\nChristian van der Pump\n\nFire & Emergency New Zealand\n- Hamish McEwen, Chief Data & Analytics Office",
+    "webpage_url": "https://vimeo.com/1103998517",
+    "original_url": "https://vimeo.com/1103998517",
+    "upload_date": "20250731",
+    "timestamp": 1753934948,
+    "release_timestamp": 1753934958,
+    "duration": 2605,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2043018398-7cf1325bf6a63c5d3f89d2e7c51524f3f55d11b9e8a0b45862cf25a0cad1ad60-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/245240002.vtt?expires=1778590022&sig=4db560f8939f46c419bf8624a435c446d30f4bd0&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:21.398512+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1003408416",
+  "title": "2024/09/18 - MA",
+  "url": "https://vimeo.com/1003408416",
+  "published_at": "20240917",
+  "published_display": "2024-09-17",
+  "duration_seconds": 6593,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6590.03,
+    "segment_count": 1742,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_09_18 - MA - vimeo_1003408416\\2024_09_18 - MA - vimeo_1003408416.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1003408416",
+    "display_id": "1003408416",
+    "title": "2024/09/18 - MA",
+    "description": "Wednesday 18 September 2024 | M\u0101ori Affairs Committee\n\nReview briefing on the 2022/23 annual review of Te Reo Whakapuaki Irirangi (M\u0101ori Broadcasting Funding Agency) Te Reo Whakapuaki Irirangi\n\nHearings of evidence\n\nList of Submitters:\n\n-Dr Eruera Tarena, Te M\u0101ngai P\u0101ho Chair\n-Paraone Gloyne, Te M\u0101ngai P\u0101ho Deputy Chair\n-Tamalene Painting, Te M\u0101ngai P\u0101ho Board member\n-Brian Morris, Te M\u0101ngai P\u0101ho Board member\n-Larry Parr, Kaihaut\u016b \u2013 Chief Executive\n-Wi-Tako Love, Haut\u016b Te H\u0101pai \u014c \u2013 Manager - Finance, HR and Strategy\n-Jess Tawhiri, Haut\u016b Te Toko K\u014drero \u2013 Manager - Communications\n-Nadia Marsh, Haut\u016b Te Hua Waihanga \u2013 Manager - Content\n-Ruth Katene, Haut\u016b Te Whiringa \u2013 Manager - Funding\n-Ruiha Anderson, Haut\u016b Te Hiringa \u2013 Manager \u2013 Systems, Reporting and Data\n\nReview briefing on the 2022/23 annual review of Te Aratuku Whakaata Irirangi M\u0101ori (M\u0101ori Television Service)\n\nHearings of evidence\n\nList of Submitters:\n\n-Jaime Tuuta, Toihau o Te R\u016bnanga Kaiwhakatere o Whakaata M\u0101ori | Chair, Board of Directors\n-Shane Taurima, Kaihaut\u016b | Chief Executive\n-Sumeet Bhanot, Kaiurungi Ahumoni | Director of Finance\n-Maria Barlow, Kaiurungi P\u0101p\u0101ho | Director of Content & Audience Engagement\n-Hiria Pointon, Kaiurungi Toi Tangata | Director of People, Language & Culture",
+    "webpage_url": "https://vimeo.com/1003408416",
+    "original_url": "https://vimeo.com/1003408416",
+    "upload_date": "20240917",
+    "timestamp": 1726614828,
+    "release_timestamp": 1726614915,
+    "duration": 6593,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1928208561-f3e9218d1aaa1ed8eebbf66550d8e3c6ff9cd7cd74ac106a5d9606a47dbe2386-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/184867404.vtt?expires=1778591306&sig=9702a52524e9eec971cf4dd8b78afb312c355ed3&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:52:01.839822+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127688603",
+  "title": "2025/10/16 - TI (2 of 3)",
+  "url": "https://vimeo.com/1127688603",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 2057,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2046.92,
+    "segment_count": 743,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_16 - TI (2 of 3) - vimeo_1127688603\\2025_10_16 - TI (2 of 3) - vimeo_1127688603.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127688603",
+    "display_id": "1127688603",
+    "title": "2025/10/16 - TI (2 of 3)",
+    "description": "16 October 2025 | Transport and Infrastructure Committee\nRegulatory Systems (Transport) Amendment Bill\nThe New Zealand Automobile Association Incorporated\n\tDylan Thomsen, Communications, Research & Road Safety Manager\n\tTerry Collins, Principal Policy Advisor\nMaritime Union of New Zealand\n\tPaul Baggott, Vice President of Wellington Branch\n\tRob Egan, Advisor\nNavigation Safety Group - Regional Harbourmasters\n\tGrant Nalder, Wellington Regional Harbourmaster\nRunze Liu",
+    "webpage_url": "https://vimeo.com/1127688603",
+    "original_url": "https://vimeo.com/1127688603",
+    "upload_date": "20251015",
+    "timestamp": 1760569579,
+    "release_timestamp": 1760569589,
+    "duration": 2057,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2071663928-268f5860c0b6f4e11ad3e37cad204f38999cab9a2caf97745e4f571cd8b7c6af-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259382557.vtt?expires=1778590326&sig=2138ecf08d07c91e5b9646c7280994a44fecaa03&download=auto_generated_captions.vtt"
+  }
+}

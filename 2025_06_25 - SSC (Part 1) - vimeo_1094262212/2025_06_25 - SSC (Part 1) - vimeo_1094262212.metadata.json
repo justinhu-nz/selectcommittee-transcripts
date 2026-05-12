@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:37.896952+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094262212",
+  "title": "2025/06/25 - SSC (Part 1)",
+  "url": "https://vimeo.com/1094262212",
+  "published_at": "20250625",
+  "published_display": "2025-06-25",
+  "duration_seconds": 1779,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1778.12,
+    "segment_count": 611,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_25 - SSC (Part 1) - vimeo_1094262212\\2025_06_25 - SSC (Part 1) - vimeo_1094262212.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094262212",
+    "display_id": "1094262212",
+    "title": "2025/06/25 - SSC (Part 1)",
+    "description": "Wednesday, 25 June 2025 | Social Services and Community Committee\n\n2025/26 Estimates for Appropriations within Vote Internal Affairs that are the responsibility of the Minister for Community and Voluntary Sector and the Minister for Ethnic Communities\n\nHearing of evidence\n\nMinister for the Community and Voluntary Sector\n\n Hon Louise Upston",
+    "webpage_url": "https://vimeo.com/1094262212",
+    "original_url": "https://vimeo.com/1094262212",
+    "upload_date": "20250625",
+    "timestamp": 1750816267,
+    "release_timestamp": 1750816277,
+    "duration": 1779,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2030092101-be592fb406df7fbe117677c48e56eee396c67deadebcd9d944e612bc72200988-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/238795477.vtt?expires=1778590662&sig=3a87c1f637ef3a2bd07cea8c02550fe8ebd21380&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:35.382834+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111870329",
+  "title": "2025 09 11 Petitions",
+  "url": "https://vimeo.com/1111870329",
+  "published_at": "20250911",
+  "published_display": "2025-09-11",
+  "duration_seconds": 1350,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1343.9,
+    "segment_count": 448,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 11 Petitions - vimeo_1111870329\\2025 09 11 Petitions - vimeo_1111870329.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111870329",
+    "display_id": "1111870329",
+    "title": "2025 09 11 Petitions",
+    "description": "Petition of Joanne Crowle: Reduce tobacco tax for smokers aged 55 and over\n\nJoanne Crowle\n\n\nPetition of Joshua Riley on behalf of Sovereign.nz: Allow scrutineers to watch early ballot processing in local government elections\n\nJoshua Riley",
+    "webpage_url": "https://vimeo.com/1111870329",
+    "original_url": "https://vimeo.com/1111870329",
+    "upload_date": "20250911",
+    "timestamp": 1757562143,
+    "release_timestamp": 1757562151,
+    "duration": 1350,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057987727-d47561e902e3b2ed6c37f78110d4e17f9f0b69f4fa72179abed3639a159c2da9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252774803.vtt?expires=1778590000&sig=25273c524e42e2338e3cd590125fb0d98e428f34&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:47:58.897863+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1063027505",
+  "title": "2025/03/13 Petitions",
+  "url": "https://vimeo.com/1063027505",
+  "published_at": "20250313",
+  "published_display": "2025-03-13",
+  "duration_seconds": 2159,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2151.11,
+    "segment_count": 737,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_03_13 Petitions - vimeo_1063027505\\2025_03_13 Petitions - vimeo_1063027505.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1063027505",
+    "display_id": "1063027505",
+    "title": "2025/03/13 Petitions",
+    "description": "Petition of Carl Smith: Remove Oranga Tamariki information when children become adults\n\nHearing of Evidence:\n\nCarl Smith\n\nOranga Tamariki\n\nMichelle Maylon, General Manager, Public Information & Ministerial Services\nLavina Edwin, Manager, Information Management",
+    "webpage_url": "https://vimeo.com/1063027505",
+    "original_url": "https://vimeo.com/1063027505",
+    "upload_date": "20250313",
+    "timestamp": 1741834423,
+    "release_timestamp": 1741834432,
+    "duration": 2159,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1993194955-b60c086e68b0438313c8a19a884e5813daf841a1c2621157e4c5046eba80fffc-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/218962503.vtt?expires=1778590083&sig=ee2fa5c3b264b9b989d619713106e840082ef03c&download=auto_generated_captions.vtt"
+  }
+}

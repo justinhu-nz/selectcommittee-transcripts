@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:09:45.483165+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143292789",
+  "title": "2025/12/04 - JU (Part 3)",
+  "url": "https://vimeo.com/1143292789",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 8390,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8385.03,
+    "segment_count": 2843,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - JU (Part 3) - vimeo_1143292789\\2025_12_04 - JU (Part 3) - vimeo_1143292789.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143292789",
+    "display_id": "1143292789",
+    "title": "2025/12/04 - JU (Part 3)",
+    "description": "Thursday 4 December 2025 | Justice Committee\n\n2024/25 Annual review of the Executive Board for the Elimination of Family Violence and Sexual Violence\n\nSubmitters:\n\nCentre for Family Violence and Sexual Violence Prevention\n\nEmma Powell, Chief Executive\nAndrew Kibblewhite, Chief Executive\nTusha Penny, Acting Deputy Commissioner, Central and Southern Districts, NZ Police\nDarrin Haimona, Deputy Chief Executive, Enabling Communities, Oranga Tamariki\nMark Henderson, General Manager Safe, Strong Families and Communities, Ministry of Social Development\nAphra Green, Deputy Chief Executive, Policy, Data and Insights, Social Investment Agency\n\n\nPetition of David White MNZM: Action to Prevent Family and Sexual Violence in New Zealand\n\nSubmitters:\n\n\nDavid White\nCentre for Family Violence and Sexual Violence Prevention",
+    "webpage_url": "https://vimeo.com/1143292789",
+    "original_url": "https://vimeo.com/1143292789",
+    "upload_date": "20251204",
+    "timestamp": 1764823148,
+    "release_timestamp": 1764823160,
+    "duration": 8390,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2092840658-507bd795d4609a0cc1ff257d338a8c79e540ec839afee3d47a02920e7a56d20e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269755317.vtt?expires=1778591390&sig=671bd252dfb9258cd48e4587b49b61dd6e0d5707&download=auto_generated_captions.vtt"
+  }
+}

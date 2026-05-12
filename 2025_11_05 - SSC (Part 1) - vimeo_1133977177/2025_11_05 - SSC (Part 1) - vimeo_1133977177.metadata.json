@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:56:16.703835+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133977177",
+  "title": "2025/11/05 - SSC (Part 1)",
+  "url": "https://vimeo.com/1133977177",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 2717,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2713.34,
+    "segment_count": 1035,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_05 - SSC (Part 1) - vimeo_1133977177\\2025_11_05 - SSC (Part 1) - vimeo_1133977177.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133977177",
+    "display_id": "1133977177",
+    "title": "2025/11/05 - SSC (Part 1)",
+    "description": "Wednesday, 5 November 2025 | Social Services and Community Committee\n\n2024/25 Annual Review of the Ministry for Ethnic Communities \nHearing of evidence:\nMinistry for Ethnic Communities\n  Mervin Singham, Chief Executive\n  Pratima Namasivayam, Deputy Chief Executive, Advisory, Analytics and Ministerial\n  Berlinda Chin, Deputy Chief Executive, Strategic Engagement and Stakeholder Insights\n  Fleur Murray, Deputy Chief Executive, Corporate Services",
+    "webpage_url": "https://vimeo.com/1133977177",
+    "original_url": "https://vimeo.com/1133977177",
+    "upload_date": "20251105",
+    "timestamp": 1762374362,
+    "release_timestamp": 1762374362,
+    "duration": 2717,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078768075-6d6b642b740d6850022aad69e3028246f315a502f2ecae8bd3653dfc9e4f548b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263325041.vtt?expires=1778590581&sig=c343d31c4a3d0e0165db0b4f94626ba153fcaeaf&download=auto_generated_captions.vtt"
+  }
+}

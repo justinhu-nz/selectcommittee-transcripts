@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:06:11.285481+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109501533",
+  "title": "2025/08/20 - MA (Part 1)",
+  "url": "https://vimeo.com/1109501533",
+  "published_at": "20250819",
+  "published_display": "2025-08-19",
+  "duration_seconds": 2106,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2090.61,
+    "segment_count": 770,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_20 - MA (Part 1) - vimeo_1109501533\\2025_08_20 - MA (Part 1) - vimeo_1109501533.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109501533",
+    "display_id": "1109501533",
+    "title": "2025/08/20 - MA (Part 1)",
+    "description": "Wednesday 20 August 2025 | M\u0101ori Affairs Committee (Part 1) \n\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\u00a0\u00a0 \n\nHearing of evidence\nSubmitter list:\nNZ Transport Agency Waka Kotahi\u00a0\n\nRichard Forgan, Group General Manager System Leaderships\u00a0\nTui Gilling, Pou Matua M\u0101ori Crown Partnerships\u00a0\nLou Mutu, Pou Arataki, Senior Manager M\u0101ori\u00a0\n\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+    "webpage_url": "https://vimeo.com/1109501533",
+    "original_url": "https://vimeo.com/1109501533",
+    "upload_date": "20250819",
+    "timestamp": 1755636519,
+    "release_timestamp": 1755636525,
+    "duration": 2106,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049449491-61ab7495a8b9f72dcec77082eba58efa8ad4f10ca917a91479fde131b42f5216-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/248780535.vtt?expires=1778591176&sig=9a4d73a0d64ddc969f3da810279708a00f951aab&download=auto_generated_captions.vtt"
+  }
+}

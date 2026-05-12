@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:06.621438+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1022285670",
+  "title": "2024/11/20 - MA",
+  "url": "https://vimeo.com/1022285670",
+  "published_at": "20241119",
+  "published_display": "2024-11-19",
+  "duration_seconds": 3222,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3220.68,
+    "segment_count": 1112,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_11_20 - MA - vimeo_1022285670\\2024_11_20 - MA - vimeo_1022285670.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1022285670",
+    "display_id": "1022285670",
+    "title": "2024/11/20 - MA",
+    "description": "Wednesday 20 November 2024 | M\u0101ori Affairs Committee\n\nBriefing on financial scrutiny\u00a0\n\nHearing of evidence\n\nList of submitters:\n\nTe Puni K\u014dkiri\u00a0\n- Dave Samuels, Secretary for M\u0101ori Development\u00a0\n- Terina Cowan, Deputy Secretary, Strategy\u00a0\n- Joanne Tuapawa, General Manager, Strategy & Performance\u00a0\n- Adie Gray, General Manager, Data, Insights and Monitoring\u00a0\n- Kiriama Stevens, General Manager, Finance, Property and Procurement\u00a0\n- Gemma Greentree, Chief Advisor\u00a0\n- Theresa Lealofi, Chief Advisor\u00a0\n\nThe Treasury\u00a0\n- Stacey Wymer, Deputy Secretary (Acting) Budget and Public Services\u00a0\n- Trevor Moeke, Poutiaki \u2013 Director Te Ao M\u0101ori Strategy and Performance\u00a0\n- Kara Nepe-Apatu, Manager Te Ao M\u0101ori Strategy and Policy\u00a0\n- Tom Hall, Manager, Public Finance Policy\u00a0\n- Megan Taylor, Head of Performance Reporting \u2022 Budget Management\u00a0\n- Ben Dickson, Principal Advisor\u00a0\n- Aroha Leighton, Analyst\n\nPublic Service Commission\u00a0\n- Heather Baggott,\u00a0\n- Hugo Vitalis,\u00a0\n- Mereama Chase,\u00a0\n- Rob Anderson,\u00a0\n- Zsontell Levi-Teu,\u00a0",
+    "webpage_url": "https://vimeo.com/1022285670",
+    "original_url": "https://vimeo.com/1022285670",
+    "upload_date": "20241119",
+    "timestamp": 1732046452,
+    "release_timestamp": 1732046526,
+    "duration": 3222,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1952109323-3c6b468b057d1bdfd6dd0ed80be8fb39ae0903802b26a942997b49d78ccb9b76-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/197551064.vtt?expires=1778591291&sig=a3cb841ec07200f67d7f6c1915239d224b834e0a&download=auto_generated_captions.vtt"
+  }
+}

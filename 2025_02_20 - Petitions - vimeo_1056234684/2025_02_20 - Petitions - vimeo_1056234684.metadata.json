@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:15.381002+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1056234684",
+  "title": "2025/02/20 - Petitions",
+  "url": "https://vimeo.com/1056234684",
+  "published_at": "20250220",
+  "published_display": "2025-02-20",
+  "duration_seconds": 1108,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1098.57,
+    "segment_count": 380,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_02_20 - Petitions - vimeo_1056234684\\2025_02_20 - Petitions - vimeo_1056234684.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1056234684",
+    "display_id": "1056234684",
+    "title": "2025/02/20 - Petitions",
+    "description": "Petition of Bronda Smith: Make menopause matter in healthcare, employment, and education in New Zealand\n\nHearing of Evidence:\nMinistry of Health:\n\nDr Joe Bourne, Chief Medical Officer\nEmma Prestidge, Group Manager, Family and Community Health Policy",
+    "webpage_url": "https://vimeo.com/1056234684",
+    "original_url": "https://vimeo.com/1056234684",
+    "upload_date": "20250220",
+    "timestamp": 1740019041,
+    "release_timestamp": 1740019049,
+    "duration": 1108,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1991878719-16059048d1c9416049f07a78dedf35d0480ea2883bd8966154fe458861c4b2b4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/214573783.vtt?expires=1778590100&sig=4ac0dfc255193824fdee2029e0b2c3ac60ff1d63&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,3678 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1801.05,
+  "segments": [
+    {
+      "start": 12.09,
+      "end": 12.78,
+      "text": "Well, good afternoon."
+    },
+    {
+      "start": 12.78,
+      "end": 14.02,
+      "text": "Welcome to the Social"
+    },
+    {
+      "start": 14.02,
+      "end": 15.05,
+      "text": "Service and Committee, select committee."
+    },
+    {
+      "start": 15.31,
+      "end": 17.5,
+      "text": "We have, uh, you, uh, we'll have you with us"
+    },
+    {
+      "start": 17.52,
+      "end": 19.5,
+      "text": "for half an hour, um, this afternoon."
+    },
+    {
+      "start": 19.68,
+      "end": 22.5,
+      "text": "Um, just to have a look at the generate effective, uh,"
+    },
+    {
+      "start": 22.5,
+      "end": 23.57,
+      "text": "report on the effectiveness of range"
+    },
+    {
+      "start": 23.62,
+      "end": 24.7,
+      "text": "abuse of child property."
+    },
+    {
+      "start": 24.95,
+      "end": 27.21,
+      "text": "Uh, so look, um, welcome to make opening comments."
+    },
+    {
+      "start": 27.43,
+      "end": 30.54,
+      "text": "Um, you take us through figure important points"
+    },
+    {
+      "start": 30.59,
+      "end": 31.77,
+      "text": "and maybe open up"
+    },
+    {
+      "start": 31.77,
+      "end": 33.62,
+      "text": "for questions from uh, members. That be fantastic."
+    },
+    {
+      "start": 34.24,
+      "end": 36.41,
+      "text": "Okay. Thank you, Mr. Chair. Uh, Tina Koto."
+    },
+    {
+      "start": 36.52,
+      "end": 38.17,
+      "text": "Uh, my name's Leanne Vinney."
+    },
+    {
+      "start": 38.17,
+      "end": 39.3,
+      "text": "I'm the assistant Auditor general"
+    },
+    {
+      "start": 39.31,
+      "end": 41.09,
+      "text": "for the Sector Performance Group at the IAG."
+    },
+    {
+      "start": 41.44,
+      "end": 42.53,
+      "text": "Uh, so we are responsible"
+    },
+    {
+      "start": 42.53,
+      "end": 44.41,
+      "text": "for the performance audit work that the office does."
+    },
+    {
+      "start": 44.72,
+      "end": 47.22,
+      "text": "Uh, with me today, I have, uh, Sarah Hayward, so she's one"
+    },
+    {
+      "start": 47.22,
+      "end": 48.26,
+      "text": "of our principal performance"
+    },
+    {
+      "start": 48.26,
+      "end": 49.58,
+      "text": "auditors, and she led this work."
+    },
+    {
+      "start": 50.2,
+      "end": 52.26,
+      "text": "Um, and she'll do most of the talking today, I think."
+    },
+    {
+      "start": 52.35,
+      "end": 54.02,
+      "text": "Um, but of course, uh, you might, you,"
+    },
+    {
+      "start": 54.02,
+      "end": 56.3,
+      "text": "you probably know Greg, um, Golding, who's one"
+    },
+    {
+      "start": 56.3,
+      "end": 58.22,
+      "text": "of our sector managers who supports this committee and,"
+    },
+    {
+      "start": 58.31,
+      "end": 59.7,
+      "text": "and is a great support to us as well."
+    },
+    {
+      "start": 59.88,
+      "end": 62.22,
+      "text": "So, um, and thanks very much to the committee"
+    },
+    {
+      "start": 62.35,
+      "end": 64.53,
+      "text": "for making the time, uh, to talk to us today."
+    },
+    {
+      "start": 64.83,
+      "end": 68.73,
+      "text": "Um, we'll keep our presentation quite brief, I think, um,"
+    },
+    {
+      "start": 68.75,
+      "end": 70.5,
+      "text": "to, to make sure we've got time for questions."
+    },
+    {
+      "start": 71.11,
+      "end": 72.17,
+      "text": "Uh, we'll cover off."
+    },
+    {
+      "start": 72.17,
+      "end": 74.25,
+      "text": "I'll briefly introduce the work and why we did it."
+    },
+    {
+      "start": 74.56,
+      "end": 77.34,
+      "text": "Uh, Sarah will then, um, get into the, the book a bit"
+    },
+    {
+      "start": 77.34,
+      "end": 79.45,
+      "text": "and talk about our findings and recommendations."
+    },
+    {
+      "start": 79.47,
+      "end": 81.81,
+      "text": "And then I think Greg's gonna share some thoughts about, um,"
+    },
+    {
+      "start": 81.89,
+      "end": 83.97,
+      "text": "that the, the committee might want to consider"
+    },
+    {
+      "start": 84.0,
+      "end": 86.41,
+      "text": "and taking this work further, uh, if"
+    },
+    {
+      "start": 86.41,
+      "end": 87.45,
+      "text": "that's okay with you. Mm-hmm."
+    },
+    {
+      "start": 87.53,
+      "end": 89.02,
+      "text": "Sounds great. Thank you. Great."
+    },
+    {
+      "start": 89.16,
+      "end": 90.73,
+      "text": "Uh, so, uh, the office chose"
+    },
+    {
+      "start": 90.73,
+      "end": 92.5,
+      "text": "to look at child poverty for a range of reasons."
+    },
+    {
+      "start": 93.12,
+      "end": 95.13,
+      "text": "Uh, you know, firstly, there's general agreement"
+    },
+    {
+      "start": 95.16,
+      "end": 97.02,
+      "text": "that addressing child poverty is important"
+    },
+    {
+      "start": 97.03,
+      "end": 98.69,
+      "text": "to improving the lives of New Zealand children"
+    },
+    {
+      "start": 98.8,
+      "end": 100.25,
+      "text": "and their families, um,"
+    },
+    {
+      "start": 100.25,
+      "end": 102.45,
+      "text": "but also a range of social outcomes in the longer term."
+    },
+    {
+      "start": 103.23,
+      "end": 105.25,
+      "text": "Uh, experiencing poverty as a child is linked"
+    },
+    {
+      "start": 105.25,
+      "end": 108.5,
+      "text": "to inequities in school achievement, adult employment,"
+    },
+    {
+      "start": 108.59,
+      "end": 111.25,
+      "text": "income levels, and behavioral health and cognitive outcomes."
+    },
+    {
+      "start": 111.8,
+      "end": 114.3,
+      "text": "So, uh, reducing child poverty is in the public interest."
+    },
+    {
+      "start": 115.41,
+      "end": 117.72,
+      "text": "Uh, secondly, uh, child poverty has multiple"
+    },
+    {
+      "start": 117.72,
+      "end": 118.88,
+      "text": "and complex causes."
+    },
+    {
+      "start": 119.25,
+      "end": 122.16,
+      "text": "Uh, there are many public organizations that are responsible"
+    },
+    {
+      "start": 122.16,
+      "end": 125.11,
+      "text": "for responding to it, and there's no simple solutions."
+    },
+    {
+      "start": 125.5,
+      "end": 128.16,
+      "text": "So the need for coordinated government action"
+    },
+    {
+      "start": 128.22,
+      "end": 130.28,
+      "text": "to address the issues, it, it was pretty clear."
+    },
+    {
+      "start": 130.78,
+      "end": 133.12,
+      "text": "And our office has a continuing interest in"
+    },
+    {
+      "start": 133.12,
+      "end": 135.84,
+      "text": "how well government agencies work together to address, uh,"
+    },
+    {
+      "start": 135.9,
+      "end": 137.31,
+      "text": "our most complex challenges."
+    },
+    {
+      "start": 137.78,
+      "end": 139.51,
+      "text": "And we've done work, uh, like this in the past"
+    },
+    {
+      "start": 139.51,
+      "end": 141.95,
+      "text": "before we've done work looking at, um, you know,"
+    },
+    {
+      "start": 141.95,
+      "end": 143.16,
+      "text": "the cross government response"
+    },
+    {
+      "start": 143.16,
+      "end": 144.47,
+      "text": "to family violence and sexual violence."
+    },
+    {
+      "start": 144.85,
+      "end": 147.47,
+      "text": "And we've looked at, um, how well the system meets the, uh,"
+    },
+    {
+      "start": 147.47,
+      "end": 149.63,
+      "text": "mental health needs of Young New Zealanders as well."
+    },
+    {
+      "start": 150.97,
+      "end": 154.28,
+      "text": "And lastly, uh, the Children's Act 2014 requires the"
+    },
+    {
+      "start": 154.28,
+      "end": 156.19,
+      "text": "government to have a strategy to reduce child poverty"
+    },
+    {
+      "start": 156.25,
+      "end": 159.07,
+      "text": "and to mitigate the impacts of socioeconomic disadvantage."
+    },
+    {
+      "start": 159.69,
+      "end": 161.44,
+      "text": "And the Child Poverty Reduction Act, uh,"
+    },
+    {
+      "start": 161.44,
+      "end": 162.84,
+      "text": "2018 sets out measures"
+    },
+    {
+      "start": 162.84,
+      "end": 165.59,
+      "text": "and requires ministers to set targets for reducing poverty."
+    },
+    {
+      "start": 166.13,
+      "end": 167.35,
+      "text": "And we also know that, um,"
+    },
+    {
+      "start": 167.35,
+      "end": 168.84,
+      "text": "government agencies are engaged in a range"
+    },
+    {
+      "start": 168.84,
+      "end": 170.4,
+      "text": "of activities designed to make a difference."
+    },
+    {
+      "start": 170.57,
+      "end": 172.47,
+      "text": "So we wanted to see how those arrangements"
+    },
+    {
+      "start": 172.47,
+      "end": 173.59,
+      "text": "were working in practice."
+    },
+    {
+      "start": 174.09,
+      "end": 175.47,
+      "text": "Uh, so that's what I'm gonna say."
+    },
+    {
+      "start": 175.47,
+      "end": 177.28,
+      "text": "I'll hand over to Sarah now, who will talk a bit more,"
+    },
+    {
+      "start": 177.5,
+      "end": 178.68,
+      "text": "um, about what we did in"
+    },
+    {
+      "start": 178.78,
+      "end": 180.12,
+      "text": "The key findings of our work."
+    },
+    {
+      "start": 186.16,
+      "end": 190.43,
+      "text": "Greetings to the committee. What we looked at was"
+    },
+    {
+      "start": 191.04,
+      "end": 193.82,
+      "text": "the effectiveness of the arrangements in place"
+    },
+    {
+      "start": 193.97,
+      "end": 195.1,
+      "text": "to reduce child poverty."
+    },
+    {
+      "start": 195.49,
+      "end": 198.59,
+      "text": "So specifically, we looked at the governance management"
+    },
+    {
+      "start": 198.93,
+      "end": 200.82,
+      "text": "and monitoring and reporting arrangements,"
+    },
+    {
+      "start": 201.78,
+      "end": 204.44,
+      "text": "and our focus was on the four public organizations"
+    },
+    {
+      "start": 204.56,
+      "end": 206.72,
+      "text": "that at the time have oversight"
+    },
+    {
+      "start": 206.82,
+      "end": 208.37,
+      "text": "of the child Poverty work program."
+    },
+    {
+      "start": 208.99,
+      "end": 210.44,
+      "text": "So that's DPMC,"
+    },
+    {
+      "start": 210.44,
+      "end": 215.05,
+      "text": "or was D-P-M-C-M-S-D, statistics, New Zealand and Treasury."
+    },
+    {
+      "start": 216.62,
+      "end": 218.44,
+      "text": "In terms of what we found,"
+    },
+    {
+      "start": 218.97,
+      "end": 222.24,
+      "text": "there are some important foundations in place."
+    },
+    {
+      "start": 222.93,
+      "end": 225.88,
+      "text": "Successive governments have been clear on what they want"
+    },
+    {
+      "start": 225.88,
+      "end": 227.75,
+      "text": "to achieve, um, and on their roles"
+    },
+    {
+      "start": 227.78,
+      "end": 231.47,
+      "text": "and responsibilities, we found that the monitoring"
+    },
+    {
+      "start": 231.5,
+      "end": 234.35,
+      "text": "and reporting on child poverty is done well."
+    },
+    {
+      "start": 234.53,
+      "end": 238.16,
+      "text": "So that was a strength. There's regular reporting on defined"
+    },
+    {
+      "start": 238.41,
+      "end": 240.84,
+      "text": "child poverty measures, and public"
+    },
+    {
+      "start": 240.97,
+      "end": 243.03,
+      "text": "and non-government organizations value"
+    },
+    {
+      "start": 243.25,
+      "end": 244.68,
+      "text": "and use that information."
+    },
+    {
+      "start": 246.56,
+      "end": 250.28,
+      "text": "What wasn't clear is how child poverty initiatives"
+    },
+    {
+      "start": 250.43,
+      "end": 253.65,
+      "text": "to reduce material hardship should be sequenced"
+    },
+    {
+      "start": 253.87,
+      "end": 255.53,
+      "text": "or coordinated with each other"
+    },
+    {
+      "start": 256.46,
+      "end": 258.52,
+      "text": "or with relevant frontline services."
+    },
+    {
+      "start": 259.14,
+      "end": 261.12,
+      "text": "And we know that that's a particular issue"
+    },
+    {
+      "start": 261.12,
+      "end": 264.12,
+      "text": "because integrated frontline services are especially"
+    },
+    {
+      "start": 264.12,
+      "end": 265.32,
+      "text": "important to meet the needs"
+    },
+    {
+      "start": 265.32,
+      "end": 268.52,
+      "text": "of our most disadvantaged people experiencing multiple"
+    },
+    {
+      "start": 268.52,
+      "end": 270.0,
+      "text": "socioeconomic disadvantages."
+    },
+    {
+      "start": 270.82,
+      "end": 273.69,
+      "text": "But what we heard is that it's difficult"
+    },
+    {
+      "start": 273.75,
+      "end": 276.32,
+      "text": "for many public organizations, uh,"
+    },
+    {
+      "start": 276.35,
+      "end": 279.2,
+      "text": "to work in a joined up way, um, with each other"
+    },
+    {
+      "start": 279.58,
+      "end": 282.05,
+      "text": "and with community services at the front line."
+    },
+    {
+      "start": 283.69,
+      "end": 287.87,
+      "text": "So we've recommended that MSD needs to give more focus"
+    },
+    {
+      "start": 288.0,
+      "end": 290.31,
+      "text": "to addressing that issue of coordination,"
+    },
+    {
+      "start": 291.2,
+      "end": 293.75,
+      "text": "and in our view, a more detailed"
+    },
+    {
+      "start": 294.38,
+      "end": 297.94,
+      "text": "cross-agency implementation plan that spells out"
+    },
+    {
+      "start": 298.0,
+      "end": 299.43,
+      "text": "how agencies could work together"
+    },
+    {
+      "start": 299.64,
+      "end": 301.75,
+      "text": "and with frontline services could help with that."
+    },
+    {
+      "start": 303.26,
+      "end": 306.33,
+      "text": "We've also recommended that engagement could be strengthened"
+    },
+    {
+      "start": 306.44,
+      "end": 307.89,
+      "text": "with the population groups"
+    },
+    {
+      "start": 308.17,
+      "end": 310.42,
+      "text": "that are disproportionately represented in the"
+    },
+    {
+      "start": 310.42,
+      "end": 311.69,
+      "text": "child poverty statistics."
+    },
+    {
+      "start": 311.88,
+      "end": 314.62,
+      "text": "So including Maori Pacifica children"
+    },
+    {
+      "start": 314.71,
+      "end": 317.18,
+      "text": "and families affected by disabilities."
+    },
+    {
+      "start": 319.07,
+      "end": 323.25,
+      "text": "Uh, that type of engagement, um, will help to build enduring"
+    },
+    {
+      "start": 323.76,
+      "end": 325.94,
+      "text": "two-way relationships that are really important"
+    },
+    {
+      "start": 325.95,
+      "end": 328.54,
+      "text": "for best tailoring services to meet the needs"
+    },
+    {
+      "start": 328.54,
+      "end": 330.77,
+      "text": "of those groups to address inequities"
+    },
+    {
+      "start": 331.04,
+      "end": 332.18,
+      "text": "and actually helping services"
+    },
+    {
+      "start": 332.24,
+      "end": 333.81,
+      "text": "to work together effectively as well."
+    },
+    {
+      "start": 335.12,
+      "end": 336.89,
+      "text": "And finally, while the range"
+    },
+    {
+      "start": 336.95,
+      "end": 339.74,
+      "text": "of measures in place is best practice"
+    },
+    {
+      "start": 340.19,
+      "end": 343.81,
+      "text": "and the reports are useful, uh, we know that they're complex"
+    },
+    {
+      "start": 343.95,
+      "end": 345.57,
+      "text": "and they can be difficult to understand,"
+    },
+    {
+      "start": 346.0,
+      "end": 349.98,
+      "text": "and agencies had started to make some simplifications"
+    },
+    {
+      "start": 349.98,
+      "end": 352.3,
+      "text": "to the way they communicated with the public,"
+    },
+    {
+      "start": 352.63,
+      "end": 354.3,
+      "text": "and we are just encouraging agencies"
+    },
+    {
+      "start": 354.36,
+      "end": 355.57,
+      "text": "to keep working on the way"
+    },
+    {
+      "start": 355.57,
+      "end": 358.25,
+      "text": "that they communicate changes in rates of child poverty."
+    },
+    {
+      "start": 358.94,
+      "end": 361.44,
+      "text": "Um, and that's really just so both the public"
+    },
+    {
+      "start": 361.5,
+      "end": 363.17,
+      "text": "and parliament know whether efforts"
+    },
+    {
+      "start": 363.17,
+      "end": 364.64,
+      "text": "to reduce child poverty are working."
+    },
+    {
+      "start": 365.82,
+      "end": 368.29,
+      "text": "So I'll now just pass to Greg, who will talk about, um,"
+    },
+    {
+      "start": 368.29,
+      "end": 369.88,
+      "text": "suggestions regarding the ongoing"
+    },
+    {
+      "start": 369.88,
+      "end": 371.05,
+      "text": "work of, of this committee."
+    },
+    {
+      "start": 371.31,
+      "end": 374.25,
+      "text": "Yeah, thank you, Sarah. Um, yeah, so in the late stages"
+    },
+    {
+      "start": 374.35,
+      "end": 375.64,
+      "text": "of the audit, we heard, um,"
+    },
+    {
+      "start": 375.64,
+      "end": 377.73,
+      "text": "quite a bit about changing governance"
+    },
+    {
+      "start": 378.02,
+      "end": 380.64,
+      "text": "and, um, reviewing of monitoring and reporting."
+    },
+    {
+      "start": 381.11,
+      "end": 383.44,
+      "text": "So we think there would be, um, some real benefit, um,"
+    },
+    {
+      "start": 383.5,
+      "end": 386.37,
+      "text": "if the committee were to invite MSD in, um,"
+    },
+    {
+      "start": 386.58,
+      "end": 389.76,
+      "text": "to discuss those changes and how they're developing,"
+    },
+    {
+      "start": 390.14,
+      "end": 394.08,
+      "text": "and also how MSD is responding to our, um, recommendations,"
+    },
+    {
+      "start": 394.14,
+      "end": 396.64,
+      "text": "you know, in particular, um, what's being done"
+    },
+    {
+      "start": 396.7,
+      "end": 400.0,
+      "text": "to strengthen coordination between public organizations"
+    },
+    {
+      "start": 400.11,
+      "end": 404.44,
+      "text": "and community groups and, and how they are strengthening"
+    },
+    {
+      "start": 404.44,
+      "end": 406.49,
+      "text": "or will strengthen engagement with Maori"
+    },
+    {
+      "start": 406.5,
+      "end": 409.08,
+      "text": "and other population groups who are, um,"
+    },
+    {
+      "start": 409.38,
+      "end": 412.56,
+      "text": "overrepresented in some of the child poverty statistics."
+    },
+    {
+      "start": 413.23,
+      "end": 417.56,
+      "text": "Um, for our part, we intend to follow up with MSD in 18"
+    },
+    {
+      "start": 417.56,
+      "end": 421.44,
+      "text": "to 24 months to, um, assess how they've responded"
+    },
+    {
+      "start": 421.44,
+      "end": 422.88,
+      "text": "to the recommendations as well."
+    },
+    {
+      "start": 423.5,
+      "end": 425.08,
+      "text": "Uh, that concludes our presentation,"
+    },
+    {
+      "start": 425.14,
+      "end": 427.4,
+      "text": "and we'll be very happy to take any questions. Thank"
+    },
+    {
+      "start": 427.4,
+      "end": 428.4,
+      "text": "You. I might, uh, take the"
+    },
+    {
+      "start": 428.4,
+      "end": 428.88,
+      "text": "brief"
+    },
+    {
+      "start": 428.88,
+      "end": 430.17,
+      "text": "asking the first question or two."
+    },
+    {
+      "start": 430.58,
+      "end": 433.44,
+      "text": "Um, I, I note here that you, uh, in the report you said"
+    },
+    {
+      "start": 433.44,
+      "end": 435.88,
+      "text": "that four agencies have played central roles, uh,"
+    },
+    {
+      "start": 435.88,
+      "end": 437.81,
+      "text": "as the Department of Prime Minister and Cabinet MSD,"
+    },
+    {
+      "start": 438.26,
+      "end": 440.61,
+      "text": "so systems general supporting the government, statistician"
+    },
+    {
+      "start": 440.82,
+      "end": 442.56,
+      "text": "and the treasury supporting the Minister of Finance."
+    },
+    {
+      "start": 443.31,
+      "end": 445.85,
+      "text": "Um, and I'm interested in that coordination piece, um,"
+    },
+    {
+      "start": 445.85,
+      "end": 449.88,
+      "text": "between them and between the, uh, community organizations"
+    },
+    {
+      "start": 450.23,
+      "end": 451.49,
+      "text": "and groups that you mentioned."
+    },
+    {
+      "start": 451.87,
+      "end": 455.93,
+      "text": "Um, any reflections of sort of advice for us on, on that?"
+    },
+    {
+      "start": 456.39,
+      "end": 458.52,
+      "text": "What we found is that as a group"
+    },
+    {
+      "start": 458.52,
+      "end": 461.28,
+      "text": "of agencies overseeing the Child Poverty work program,"
+    },
+    {
+      "start": 461.57,
+      "end": 463.88,
+      "text": "those four agencies were working well together and,"
+    },
+    {
+      "start": 463.94,
+      "end": 465.56,
+      "text": "and communicating well with each other."
+    },
+    {
+      "start": 467.06,
+      "end": 471.61,
+      "text": "And at the same time, um, what we heard frequently was"
+    },
+    {
+      "start": 471.61,
+      "end": 473.56,
+      "text": "that it's difficult for public organizations"
+    },
+    {
+      "start": 473.58,
+      "end": 476.32,
+      "text": "to join up at the front line with each other, um,"
+    },
+    {
+      "start": 476.38,
+      "end": 478.0,
+      "text": "and with community organizations."
+    },
+    {
+      "start": 478.82,
+      "end": 481.17,
+      "text": "So, I mean, that's really why we're recommending"
+    },
+    {
+      "start": 481.17,
+      "end": 484.08,
+      "text": "that MSD gives more attention to that coordination"
+    },
+    {
+      "start": 484.31,
+      "end": 486.37,
+      "text": "for making sure services, well,"
+    },
+    {
+      "start": 486.37,
+      "end": 489.05,
+      "text": "the top poverty initiatives themselves should be coordinated"
+    },
+    {
+      "start": 489.5,
+      "end": 492.0,
+      "text": "as well as integrated with frontline services."
+    },
+    {
+      "start": 492.75,
+      "end": 497.37,
+      "text": "Um, I mean, an example would be if you have a, um,"
+    },
+    {
+      "start": 497.67,
+      "end": 500.32,
+      "text": "family living in emergency accommodation, perhaps"
+    },
+    {
+      "start": 500.32,
+      "end": 503.44,
+      "text": "because of family violence issues facing mental health,"
+    },
+    {
+      "start": 503.51,
+      "end": 506.37,
+      "text": "perhaps their child's truanting at the moment,"
+    },
+    {
+      "start": 506.37,
+      "end": 508.61,
+      "text": "they're gonna have to tell their story multiple times."
+    },
+    {
+      "start": 508.82,
+      "end": 510.64,
+      "text": "Mm-hmm. Uh, and fill in multiple forms."
+    },
+    {
+      "start": 511.02,
+      "end": 513.85,
+      "text": "Um, and that's just gonna be too much for, for many people"
+    },
+    {
+      "start": 513.85,
+      "end": 515.85,
+      "text": "who are just living day to day and trying to get by."
+    },
+    {
+      "start": 516.5,
+      "end": 518.33,
+      "text": "And, and so that's why we're recommending that that"
+    },
+    {
+      "start": 518.54,
+      "end": 520.33,
+      "text": "and more attention needs to be given to that,"
+    },
+    {
+      "start": 520.51,
+      "end": 523.61,
+      "text": "that coordination focus, as well as more engagement"
+    },
+    {
+      "start": 523.63,
+      "end": 526.37,
+      "text": "with the groups that are overrepresented, um,"
+    },
+    {
+      "start": 526.38,
+      "end": 528.25,
+      "text": "to best tailor the services to meet,"
+    },
+    {
+      "start": 528.38,
+      "end": 529.52,
+      "text": "to meet the needs of those groups."
+    },
+    {
+      "start": 530.08,
+      "end": 531.92,
+      "text": "Yeah. Thank you. Actually, I, I've got exactly"
+    },
+    {
+      "start": 531.92,
+      "end": 534.37,
+      "text": "that feedback many times, um, the, the number"
+    },
+    {
+      "start": 534.37,
+      "end": 538.28,
+      "text": "of truck rolls up a driveway, so to speak, of a challenges"
+    },
+    {
+      "start": 538.83,
+      "end": 541.61,
+      "text": "is, is puts a massive resource strain on them as well"
+    },
+    {
+      "start": 541.61,
+      "end": 543.68,
+      "text": "as community organizations, as really government agencies."
+    },
+    {
+      "start": 544.11,
+      "end": 547.09,
+      "text": "So you totally support that, um, that call."
+    },
+    {
+      "start": 547.5,
+      "end": 551.21,
+      "text": "Um, just some, I'm wondering more as well about the, um,"
+    },
+    {
+      "start": 551.36,
+      "end": 553.45,
+      "text": "just the data and dashboarding"
+    },
+    {
+      "start": 553.52,
+      "end": 554.92,
+      "text": "that data for decision makers."
+    },
+    {
+      "start": 555.47,
+      "end": 558.57,
+      "text": "Any advice for us on, you know, how the data from all"
+    },
+    {
+      "start": 558.57,
+      "end": 559.97,
+      "text": "of those different organizations, what they're doing,"
+    },
+    {
+      "start": 560.23,
+      "end": 561.33,
+      "text": "how well that's been collated"
+    },
+    {
+      "start": 561.42,
+      "end": 565.8,
+      "text": "and dashboard up, up the sort of, um, the decision making,"
+    },
+    {
+      "start": 566.18,
+      "end": 567.4,
+      "text": "um, chain, I guess Yep."
+    },
+    {
+      "start": 567.42,
+      "end": 570.4,
+      "text": "Uh, so that better decisions are made? Yep. Well,"
+    },
+    {
+      "start": 570.42,
+      "end": 572.92,
+      "text": "The, I mean, the report, the, the measuring"
+    },
+    {
+      "start": 572.92,
+      "end": 574.52,
+      "text": "and the reporting we found was a strength."
+    },
+    {
+      "start": 574.95,
+      "end": 576.45,
+      "text": "And it's a strength because there's"
+    },
+    {
+      "start": 576.45,
+      "end": 577.64,
+      "text": "clearly defined measures."
+    },
+    {
+      "start": 578.18,
+      "end": 579.25,
+      "text": "Uh, and it's a strength"
+    },
+    {
+      "start": 579.25,
+      "end": 580.64,
+      "text": "because they're reported regularly"
+    },
+    {
+      "start": 580.64,
+      "end": 584.97,
+      "text": "by Statistics New Zealand, where things get more gray, is"
+    },
+    {
+      "start": 584.97,
+      "end": 586.92,
+      "text": "that because there's a range of measures,"
+    },
+    {
+      "start": 586.96,
+      "end": 588.45,
+      "text": "they're complex to understand."
+    },
+    {
+      "start": 588.54,
+      "end": 590.49,
+      "text": "And so that makes communication with parliament"
+    },
+    {
+      "start": 590.66,
+      "end": 591.8,
+      "text": "and the public a challenge,"
+    },
+    {
+      "start": 591.95,
+      "end": 592.88,
+      "text": "and that makes it more"
+    },
+    {
+      "start": 592.88,
+      "end": 594.12,
+      "text": "difficult to understand what's happening."
+    },
+    {
+      "start": 594.18,
+      "end": 597.52,
+      "text": "So, so we're encouraging agencies to keep going with trying"
+    },
+    {
+      "start": 597.52,
+      "end": 598.76,
+      "text": "to simplify the communications."
+    },
+    {
+      "start": 599.23,
+      "end": 602.52,
+      "text": "Um, I mean, the focus on material hardship, for example now,"
+    },
+    {
+      "start": 602.52,
+      "end": 604.25,
+      "text": "which is, you know, we were told that"
+    },
+    {
+      "start": 604.25,
+      "end": 605.8,
+      "text": "that best matches the public's"
+    },
+    {
+      "start": 605.8,
+      "end": 607.49,
+      "text": "understanding of child poverty."
+    },
+    {
+      "start": 607.83,
+      "end": 610.12,
+      "text": "So that could help to simplify matters further."
+    },
+    {
+      "start": 610.4,
+      "end": 613.25,
+      "text": "I I think there's two types of, um, uh, reporting"
+    },
+    {
+      "start": 613.27,
+      "end": 614.97,
+      "text": "that we sort of generally expect to see."
+    },
+    {
+      "start": 615.07,
+      "end": 617.0,
+      "text": "The, the type that, um, Sarah's talking about is,"
+    },
+    {
+      "start": 617.04,
+      "end": 618.8,
+      "text": "I guess you mostly they call impact reporting."
+    },
+    {
+      "start": 618.83,
+      "end": 620.52,
+      "text": "So mm-hmm. What are the results and,"
+    },
+    {
+      "start": 620.54,
+      "end": 623.09,
+      "text": "and how, um, how, how's the data telling you about,"
+    },
+    {
+      "start": 623.18,
+      "end": 624.33,
+      "text": "um, how well those are being achieved?"
+    },
+    {
+      "start": 624.33,
+      "end": 625.61,
+      "text": "And that's really good. That's the stuff"
+    },
+    {
+      "start": 625.61,
+      "end": 627.04,
+      "text": "that's sometimes we find is missing."
+    },
+    {
+      "start": 627.11,
+      "end": 629.85,
+      "text": "Mm-hmm. Um, and the reason that agencies are organized"
+    },
+    {
+      "start": 629.85,
+      "end": 630.92,
+      "text": "around that is 'cause there's an act"
+    },
+    {
+      "start": 630.92,
+      "end": 632.12,
+      "text": "that requires them to have it."
+    },
+    {
+      "start": 632.3,
+      "end": 634.73,
+      "text": "So statutory requirements to do that sort of reporting."
+    },
+    {
+      "start": 634.9,
+      "end": 637.21,
+      "text": "The other type of reporting that we would generally expect"
+    },
+    {
+      "start": 637.21,
+      "end": 641.12,
+      "text": "to see is the progress against the plan of initiatives that,"
+    },
+    {
+      "start": 641.18,
+      "end": 643.33,
+      "text": "uh, intended to bring about some of those impacts."
+    },
+    {
+      "start": 643.38,
+      "end": 645.25,
+      "text": "And I think at the time of this audit,"
+    },
+    {
+      "start": 645.57,
+      "end": 646.57,
+      "text": "although as Greg mentioned,"
+    },
+    {
+      "start": 646.89,
+      "end": 649.68,
+      "text": "there was work underway at the time of our audit, so we've"
+    },
+    {
+      "start": 649.68,
+      "end": 651.25,
+      "text": "yet to see whether that, um, has played through."
+    },
+    {
+      "start": 651.25,
+      "end": 653.8,
+      "text": "But at the time of our audit, it wasn't clear"
+    },
+    {
+      "start": 653.8,
+      "end": 656.4,
+      "text": "that there was an integrated view of what the plan was,"
+    },
+    {
+      "start": 656.83,
+      "end": 658.92,
+      "text": "so agencies could see how their work interacted"
+    },
+    {
+      "start": 658.92,
+      "end": 661.8,
+      "text": "with one another and regular reporting on the"
+    },
+    {
+      "start": 662.21,
+      "end": 663.25,
+      "text": "progress of that plan."
+    },
+    {
+      "start": 663.47,
+      "end": 665.8,
+      "text": "So that was the gap, one of the gaps that we'd sort"
+    },
+    {
+      "start": 665.8,
+      "end": 667.92,
+      "text": "of identified, uh, when we did the work."
+    },
+    {
+      "start": 668.37,
+      "end": 669.52,
+      "text": "I might ask two more questions and then I'll have"
+    },
+    {
+      "start": 669.52,
+      "end": 671.88,
+      "text": "to hand over to others, but, um, do, uh, the,"
+    },
+    {
+      "start": 672.12,
+      "end": 674.61,
+      "text": "obviously we're focused on what is in place at the moment,"
+    },
+    {
+      "start": 674.71,
+      "end": 675.88,
+      "text": "but what about the, uh, uh,"
+    },
+    {
+      "start": 675.99,
+      "end": 677.52,
+      "text": "any thoughts on the social investment agency"
+    },
+    {
+      "start": 677.52,
+      "end": 678.92,
+      "text": "and the this coordination role"
+    },
+    {
+      "start": 679.03,
+      "end": 680.52,
+      "text": "that they attend intending to play?"
+    },
+    {
+      "start": 682.98,
+      "end": 684.36,
+      "text": "Uh, well, that wasn't the focus"
+    },
+    {
+      "start": 684.41,
+      "end": 686.15,
+      "text": "of the audit. Um, of course we"
+    },
+    {
+      "start": 686.15,
+      "end": 688.43,
+      "text": "Obvious a new one, so Yeah, I appreciate that."
+    },
+    {
+      "start": 688.66,
+      "end": 690.39,
+      "text": "Yeah. Yeah. I mean, we looked at,"
+    },
+    {
+      "start": 690.7,
+      "end": 692.84,
+      "text": "we looked at the effectiveness of the governance"
+    },
+    {
+      "start": 692.84,
+      "end": 693.88,
+      "text": "and management arrangement."
+    },
+    {
+      "start": 693.89,
+      "end": 697.2,
+      "text": "So I mean, I guess just generally speaking, um, you know,"
+    },
+    {
+      "start": 697.2,
+      "end": 699.75,
+      "text": "any role that that agency can play in supporting, uh,"
+    },
+    {
+      "start": 699.77,
+      "end": 702.75,
+      "text": "you know, good strong coordination across agencies,"
+    },
+    {
+      "start": 703.05,
+      "end": 704.88,
+      "text": "of course would, would, could be helpful. Mm-hmm."
+    },
+    {
+      "start": 705.07,
+      "end": 708.88,
+      "text": "Well, I mean, I think to the extent that good data helps,"
+    },
+    {
+      "start": 709.01,
+      "end": 711.51,
+      "text": "uh, decision makers make good decisions about where"
+    },
+    {
+      "start": 711.51,
+      "end": 713.85,
+      "text": "to prioritize effort, then we think there is"
+    },
+    {
+      "start": 713.85,
+      "end": 714.97,
+      "text": "some good data here."
+    },
+    {
+      "start": 715.03,
+      "end": 718.33,
+      "text": "There's definitely a, a focus on, um, monitoring impact."
+    },
+    {
+      "start": 718.33,
+      "end": 721.21,
+      "text": "Mm-hmm. I think one of the things that, um, uh, you know,"
+    },
+    {
+      "start": 721.37,
+      "end": 722.49,
+      "text": "I guess over time we would like"
+    },
+    {
+      "start": 722.49,
+      "end": 724.64,
+      "text": "to see is a stronger understanding about"
+    },
+    {
+      "start": 724.78,
+      "end": 727.68,
+      "text": "how those initiatives generate the impact."
+    },
+    {
+      "start": 727.78,
+      "end": 728.85,
+      "text": "So, um, I know"
+    },
+    {
+      "start": 728.85,
+      "end": 732.12,
+      "text": "that the DPMC had done some previously good work"
+    },
+    {
+      "start": 732.12,
+      "end": 733.33,
+      "text": "looking at intervention logic."
+    },
+    {
+      "start": 733.33,
+      "end": 734.76,
+      "text": "These are all useful things,"
+    },
+    {
+      "start": 734.87,
+      "end": 736.57,
+      "text": "and if you can bring that picture together,"
+    },
+    {
+      "start": 736.88,
+      "end": 738.21,
+      "text": "that will produce better data"
+    },
+    {
+      "start": 738.21,
+      "end": 739.64,
+      "text": "that will enable decision makers"
+    },
+    {
+      "start": 739.64,
+      "end": 741.12,
+      "text": "to make really well informed decisions about"
+    },
+    {
+      "start": 741.12,
+      "end": 743.21,
+      "text": "where they focus their investment and their efforts."
+    },
+    {
+      "start": 743.38,
+      "end": 745.52,
+      "text": "Thanks. And that leads me neatly to my last question,"
+    },
+    {
+      "start": 745.52,
+      "end": 746.64,
+      "text": "which is, um, around data."
+    },
+    {
+      "start": 747.18,
+      "end": 749.4,
+      "text": "And I'm, I'm sort of interested in integrated data, um,"
+    },
+    {
+      "start": 749.9,
+      "end": 753.68,
+      "text": "infrastructure in IDI and, and is, is there anything we can,"
+    },
+    {
+      "start": 753.84,
+      "end": 755.73,
+      "text": "because I know there's some real challenge around that"
+    },
+    {
+      "start": 755.73,
+      "end": 757.45,
+      "text": "because it's, it's, there's privacy concerns,"
+    },
+    {
+      "start": 757.45,
+      "end": 758.68,
+      "text": "but there's also the value"
+    },
+    {
+      "start": 758.68,
+      "end": 760.92,
+      "text": "that could be gained if we're able to, you know,"
+    },
+    {
+      "start": 760.92,
+      "end": 763.61,
+      "text": "better target, um, people who need that support."
+    },
+    {
+      "start": 763.95,
+      "end": 766.49,
+      "text": "Any thoughts about how that, uh, could be utilized?"
+    },
+    {
+      "start": 768.1,
+      "end": 771.18,
+      "text": "Well, this piece work didn't look at the IDI, um, so,"
+    },
+    {
+      "start": 771.18,
+      "end": 772.71,
+      "text": "or the social investment agencies work."
+    },
+    {
+      "start": 772.8,
+      "end": 774.47,
+      "text": "Um, so we probably can't say anything"
+    },
+    {
+      "start": 774.52,
+      "end": 775.87,
+      "text": "too specific about that."
+    },
+    {
+      "start": 775.87,
+      "end": 779.9,
+      "text": "Sure. Um, but other than to say that we support, uh,"
+    },
+    {
+      "start": 780.52,
+      "end": 782.26,
+      "text": "you know, public organizations investing"
+    },
+    {
+      "start": 782.26,
+      "end": 784.11,
+      "text": "and making sure that they have good information about"
+    },
+    {
+      "start": 784.11,
+      "end": 785.14,
+      "text": "the impact of their services."
+    },
+    {
+      "start": 785.21,
+      "end": 786.83,
+      "text": "And I think that our office, um,"
+    },
+    {
+      "start": 787.2,
+      "end": 788.59,
+      "text": "often talks about this in the context"
+    },
+    {
+      "start": 788.64,
+      "end": 789.87,
+      "text": "of performance reporting,"
+    },
+    {
+      "start": 789.92,
+      "end": 791.9,
+      "text": "but obviously, you know, a good data"
+    },
+    {
+      "start": 791.9,
+      "end": 794.07,
+      "text": "that's obtained either administrative data,"
+    },
+    {
+      "start": 794.07,
+      "end": 795.87,
+      "text": "which I understand is, is, is, is"
+    },
+    {
+      "start": 795.93,
+      "end": 797.66,
+      "text": "what largely what's in the IDI"
+    },
+    {
+      "start": 797.92,
+      "end": 800.23,
+      "text": "or whether it's about evaluation of initiatives."
+    },
+    {
+      "start": 800.57,
+      "end": 803.5,
+      "text": "All of that, I think helps public organizations make sure"
+    },
+    {
+      "start": 803.5,
+      "end": 804.9,
+      "text": "they're focusing on the right things and"
+    },
+    {
+      "start": 804.9,
+      "end": 806.47,
+      "text": "how they can improve the things that they're doing."
+    },
+    {
+      "start": 806.47,
+      "end": 807.75,
+      "text": "And over time, you know, should,"
+    },
+    {
+      "start": 807.75,
+      "end": 808.99,
+      "text": "should lead to better decision making."
+    },
+    {
+      "start": 809.32,
+      "end": 810.42,
+      "text": "Thank you. Um, m"
+    },
+    {
+      "start": 811.04,
+      "end": 814.87,
+      "text": "Um, Joseph, um, covered off my question around the data,"
+    },
+    {
+      "start": 815.0,
+      "end": 818.87,
+      "text": "but I, I remember, um, when this bill was developed that"
+    },
+    {
+      "start": 818.87,
+      "end": 820.75,
+      "text": "where the legislation was going through this committee,"
+    },
+    {
+      "start": 820.79,
+      "end": 824.87,
+      "text": "there was, there was some concern around the sharing of data"
+    },
+    {
+      "start": 824.89,
+      "end": 828.3,
+      "text": "between agencies, especially in the frontline organizations."
+    },
+    {
+      "start": 828.57,
+      "end": 831.47,
+      "text": "Did you get a sense that that's improved at all?"
+    },
+    {
+      "start": 832.38,
+      "end": 834.54,
+      "text": "That wasn't something we specifically looked at."
+    },
+    {
+      "start": 834.73,
+      "end": 837.42,
+      "text": "We didn't hear anything specifically about the sharing"
+    },
+    {
+      "start": 837.45,
+      "end": 841.14,
+      "text": "of information, but clearly, um, those protocols need"
+    },
+    {
+      "start": 841.14,
+      "end": 842.42,
+      "text": "to be clearly agreed and,"
+    },
+    {
+      "start": 842.45,
+      "end": 844.5,
+      "text": "and, uh, you know, in order for agencies"
+    },
+    {
+      "start": 844.5,
+      "end": 846.18,
+      "text": "to work together effectively. Yes. Mm-hmm."
+    },
+    {
+      "start": 846.71,
+      "end": 848.26,
+      "text": "I have another, another question."
+    },
+    {
+      "start": 848.4,
+      "end": 853.3,
+      "text": "Um, one of the, um, one of the, um, measures, uh,"
+    },
+    {
+      "start": 853.34,
+      "end": 855.87,
+      "text": "that was always gonna be challenging was the"
+    },
+    {
+      "start": 855.87,
+      "end": 858.23,
+      "text": "before housing cost and after housing cost."
+    },
+    {
+      "start": 859.0,
+      "end": 862.78,
+      "text": "And, um, it in your view of looking at the, um,"
+    },
+    {
+      "start": 862.92,
+      "end": 864.54,
+      "text": "the information to date,"
+    },
+    {
+      "start": 864.54,
+      "end": 866.42,
+      "text": "because we've now got some, you know,"
+    },
+    {
+      "start": 866.46,
+      "end": 870.23,
+      "text": "data over a a few years, um, how much"
+    },
+    {
+      "start": 870.76,
+      "end": 873.78,
+      "text": "has the data been skewed, if at all,"
+    },
+    {
+      "start": 874.52,
+      "end": 876.11,
+      "text": "by the emergency housing?"
+    },
+    {
+      "start": 876.76,
+      "end": 880.26,
+      "text": "Um, because emergency housing is not 50%"
+    },
+    {
+      "start": 881.3,
+      "end": 886.12,
+      "text": "of the, um, you know, family's income, I think it's 25%, um,"
+    },
+    {
+      "start": 886.51,
+      "end": 887.64,
+      "text": "that would affect benefit."
+    },
+    {
+      "start": 888.3,
+      "end": 890.61,
+      "text": "So how, how do you adapt that"
+    },
+    {
+      "start": 891.07,
+      "end": 894.0,
+      "text": "Target and that measure to account for the volume"
+    },
+    {
+      "start": 894.54,
+      "end": 897.4,
+      "text": "of people and families inside emergency housing?"
+    },
+    {
+      "start": 898.63,
+      "end": 900.61,
+      "text": "That, I mean, that, that would be a good question"
+    },
+    {
+      "start": 900.62,
+      "end": 903.8,
+      "text": "for statistics New Zealand, uh, we were told"
+    },
+    {
+      "start": 903.83,
+      "end": 906.45,
+      "text": "by statistics New Zealand that, that that type"
+    },
+    {
+      "start": 906.45,
+      "end": 909.16,
+      "text": "of data would have very little impact overall on,"
+    },
+    {
+      "start": 909.75,
+      "end": 911.97,
+      "text": "on those median income measures."
+    },
+    {
+      "start": 912.35,
+      "end": 913.4,
+      "text": "But that would be a good one"
+    },
+    {
+      "start": 913.4,
+      "end": 915.21,
+      "text": "to check, check with them though. Yeah."
+    },
+    {
+      "start": 915.66,
+      "end": 917.09,
+      "text": "Mm-hmm. So"
+    },
+    {
+      "start": 917.23,
+      "end": 919.68,
+      "text": "We didn't look, we didn't look at the data in detail."
+    },
+    {
+      "start": 919.87,
+      "end": 921.92,
+      "text": "We were interested in whether the requirements"
+    },
+    {
+      "start": 921.92,
+      "end": 923.57,
+      "text": "that agencies are required to fulfill"
+    },
+    {
+      "start": 923.62,
+      "end": 925.12,
+      "text": "by having the targets in place,"
+    },
+    {
+      "start": 925.14,
+      "end": 926.45,
+      "text": "making sure the measures were there"
+    },
+    {
+      "start": 926.59,
+      "end": 929.68,
+      "text": "and reporting against those were being met and they were"
+    },
+    {
+      "start": 930.01,
+      "end": 931.0,
+      "text": "Right. Mm-hmm."
+    },
+    {
+      "start": 931.43,
+      "end": 935.04,
+      "text": "Okay. Cutting. Thank you. Um, awesome report."
+    },
+    {
+      "start": 935.75,
+      "end": 937.0,
+      "text": "Lots of work put into that."
+    },
+    {
+      "start": 938.0,
+      "end": 941.25,
+      "text": "I just wanted to know if there is any public advice"
+    },
+    {
+      "start": 941.25,
+      "end": 944.16,
+      "text": "available that indicated any government policies"
+    },
+    {
+      "start": 944.6,
+      "end": 946.52,
+      "text": "that could increase child poverty."
+    },
+    {
+      "start": 948.83,
+      "end": 951.64,
+      "text": "That's not something that we looked at in terms of"
+    },
+    {
+      "start": 952.27,
+      "end": 953.73,
+      "text": "what might increase child poverty."
+    },
+    {
+      "start": 955.26,
+      "end": 959.04,
+      "text": "And, um, what about any public advice about government"
+    },
+    {
+      "start": 959.04,
+      "end": 963.25,
+      "text": "policy that could decrease engagement with those, um, people"
+    },
+    {
+      "start": 963.25,
+      "end": 965.37,
+      "text": "that are most disproportionately affected?"
+    },
+    {
+      "start": 965.98,
+      "end": 967.92,
+      "text": "Maori Pacific disabled people?"
+    },
+    {
+      "start": 968.38,
+      "end": 969.8,
+      "text": "Sorry, are you asking about policies"
+    },
+    {
+      "start": 969.8,
+      "end": 971.21,
+      "text": "that would decrease child poverty"
+    },
+    {
+      "start": 971.35,
+      "end": 972.64,
+      "text": "or that would reduce engagement,"
+    },
+    {
+      "start": 972.85,
+      "end": 976.09,
+      "text": "Decrease the engagement around, um, child poverty"
+    },
+    {
+      "start": 976.39,
+      "end": 977.49,
+      "text": "with those certain groups?"
+    },
+    {
+      "start": 978.12,
+      "end": 980.16,
+      "text": "'cause I know that's one of your recommendations is"
+    },
+    {
+      "start": 980.16,
+      "end": 981.28,
+      "text": "to increase the engagement"
+    },
+    {
+      "start": 981.9,
+      "end": 984.64,
+      "text": "and we've seen, you know, um, policy decisions"
+    },
+    {
+      "start": 984.64,
+      "end": 987.49,
+      "text": "that are taking away the need for that"
+    },
+    {
+      "start": 987.9,
+      "end": 989.68,
+      "text": "and some, um, policy."
+    },
+    {
+      "start": 989.79,
+      "end": 991.4,
+      "text": "Just wondering if there's like a list,"
+    },
+    {
+      "start": 991.4,
+      "end": 994.25,
+      "text": "but I'm sort of not across everything. Yeah. So,"
+    },
+    {
+      "start": 994.75,
+      "end": 996.52,
+      "text": "So that wasn't in the scope of the audit,"
+    },
+    {
+      "start": 997.14,
+      "end": 999.0,
+      "text": "but of course, as you say, we did find"
+    },
+    {
+      "start": 999.0,
+      "end": 1002.57,
+      "text": "that engagement could be more consistent and more sustained,"
+    },
+    {
+      "start": 1002.62,
+      "end": 1005.12,
+      "text": "and just the importance of building enduring relationships"
+    },
+    {
+      "start": 1005.35,
+      "end": 1008.4,
+      "text": "to enable services to best be tailored is one of the things"
+    },
+    {
+      "start": 1008.4,
+      "end": 1009.68,
+      "text": "that we're highlighting in the report."
+    },
+    {
+      "start": 1010.05,
+      "end": 1014.86,
+      "text": "Thank you. Can I"
+    },
+    {
+      "start": 1014.86,
+      "end": 1018.62,
+      "text": "ask, um, in terms of child poverty, um,"
+    },
+    {
+      "start": 1019.86,
+      "end": 1021.75,
+      "text": "what, where are we today?"
+    },
+    {
+      "start": 1021.96,
+      "end": 1025.22,
+      "text": "Where are we today in, in, in comparison to, say"
+    },
+    {
+      "start": 1025.82,
+      "end": 1027.22,
+      "text": "five, five months ago?"
+    },
+    {
+      "start": 1027.61,
+      "end": 1031.7,
+      "text": "Or if I go back to 2 17, 2 18 when we had, uh,"
+    },
+    {
+      "start": 1031.86,
+      "end": 1036.24,
+      "text": "Jacinda making it a real, um, strategy in terms"
+    },
+    {
+      "start": 1036.24,
+      "end": 1037.57,
+      "text": "of reducing child poverty?"
+    },
+    {
+      "start": 1037.86,
+      "end": 1041.64,
+      "text": "Where are we today in, in, in comparing back, uh, to where,"
+    },
+    {
+      "start": 1041.64,
+      "end": 1044.53,
+      "text": "where we were two 17 to 18? Sure."
+    },
+    {
+      "start": 1044.9,
+      "end": 1047.29,
+      "text": "If you look at the chop poverty statistics from"
+    },
+    {
+      "start": 1047.31,
+      "end": 1049.16,
+      "text": "2018 onwards, yeah."
+    },
+    {
+      "start": 1049.67,
+      "end": 1054.09,
+      "text": "They show a decline from 2018 to the end of, to,"
+    },
+    {
+      "start": 1054.11,
+      "end": 1055.64,
+      "text": "to June, 2022."
+    },
+    {
+      "start": 1056.14,
+      "end": 1058.77,
+      "text": "And then some of the measures have significantly increased"
+    },
+    {
+      "start": 1058.77,
+      "end": 1059.88,
+      "text": "against since then."
+    },
+    {
+      "start": 1060.87,
+      "end": 1063.33,
+      "text": "But what we know is there's a significant lag, um,"
+    },
+    {
+      "start": 1063.33,
+      "end": 1066.53,
+      "text": "between the time that policy initiatives are implemented"
+    },
+    {
+      "start": 1066.59,
+      "end": 1069.88,
+      "text": "and when that comes through and is shown in the data."
+    },
+    {
+      "start": 1070.22,
+      "end": 1073.48,
+      "text": "So it's very hard to attribute, um, uh, you, you know,"
+    },
+    {
+      "start": 1073.91,
+      "end": 1076.48,
+      "text": "attribute any policy to, to the data per se."
+    },
+    {
+      "start": 1076.48,
+      "end": 1078.64,
+      "text": "And that's not what we looked at in the report anyway."
+    },
+    {
+      "start": 1078.64,
+      "end": 1081.48,
+      "text": "Mm-hmm. Um, so our focus is once again on the on,"
+    },
+    {
+      "start": 1081.51,
+      "end": 1082.72,
+      "text": "on the arrangements in place,"
+    },
+    {
+      "start": 1083.14,
+      "end": 1085.53,
+      "text": "and I guess what we are saying is to have the best chance"
+    },
+    {
+      "start": 1085.55,
+      "end": 1087.48,
+      "text": "of seeing those figures go down again."
+    },
+    {
+      "start": 1087.62,
+      "end": 1090.85,
+      "text": "Mm. Um, you know, we, we think as, as, as,"
+    },
+    {
+      "start": 1090.98,
+      "end": 1092.2,
+      "text": "as agencies move forward,"
+    },
+    {
+      "start": 1092.27,
+      "end": 1094.05,
+      "text": "and we, we know that there's a focus on trying"
+    },
+    {
+      "start": 1094.05,
+      "end": 1096.72,
+      "text": "to address the drivers of long-term disadvantages, that"
+    },
+    {
+      "start": 1096.72,
+      "end": 1098.01,
+      "text": "that's in the child and youth strategy."
+    },
+    {
+      "start": 1098.38,
+      "end": 1100.33,
+      "text": "You know, in order to do that, there needs"
+    },
+    {
+      "start": 1100.33,
+      "end": 1103.01,
+      "text": "to be a strong focus by the governance bodies on"
+    },
+    {
+      "start": 1103.01,
+      "end": 1104.81,
+      "text": "coordination and on engagement with,"
+    },
+    {
+      "start": 1104.81,
+      "end": 1106.2,
+      "text": "with those disadvantaged groups."
+    },
+    {
+      "start": 1106.79,
+      "end": 1110.33,
+      "text": "So has there been a, uh, a withdrawal in terms"
+    },
+    {
+      "start": 1110.38,
+      "end": 1111.53,
+      "text": "of, for the, the strategy?"
+    },
+    {
+      "start": 1111.7,
+      "end": 1115.2,
+      "text": "Has there been a, a pullback from government in terms of,"
+    },
+    {
+      "start": 1115.66,
+      "end": 1118.33,
+      "text": "uh, addressing those child poverty stats?"
+    },
+    {
+      "start": 1118.98,
+      "end": 1120.61,
+      "text": "That's not something we looked at specifically,"
+    },
+    {
+      "start": 1121.07,
+      "end": 1122.72,
+      "text": "but what we found towards the end"
+    },
+    {
+      "start": 1122.72,
+      "end": 1125.72,
+      "text": "of our audit is there was a fair bit of change going on."
+    },
+    {
+      "start": 1126.38,
+      "end": 1128.85,
+      "text": "So we, there were new governance bodies in place."
+    },
+    {
+      "start": 1129.38,
+      "end": 1132.12,
+      "text": "Uh, there was an updated child and new strategy,"
+    },
+    {
+      "start": 1132.35,
+      "end": 1136.81,
+      "text": "and the lead agency had changed from, uh, DPMC to MSD."
+    },
+    {
+      "start": 1136.87,
+      "end": 1139.96,
+      "text": "Mm. So it was too early at the end of our audit"
+    },
+    {
+      "start": 1139.98,
+      "end": 1142.81,
+      "text": "to say whether those changes were, were having any impact."
+    },
+    {
+      "start": 1143.38,
+      "end": 1146.01,
+      "text": "Um, and I guess, I mean, I guess that's one, one thing"
+    },
+    {
+      "start": 1146.01,
+      "end": 1147.96,
+      "text": "that we'd encourage the committee to do is, is to,"
+    },
+    {
+      "start": 1147.98,
+      "end": 1150.12,
+      "text": "to find out whether the changes"
+    },
+    {
+      "start": 1150.15,
+      "end": 1152.92,
+      "text": "that have been made do respond to our recommendations."
+    },
+    {
+      "start": 1153.14,
+      "end": 1155.72,
+      "text": "And of course we'll be following that up ourselves in, uh,"
+    },
+    {
+      "start": 1155.92,
+      "end": 1157.61,
+      "text": "18 months to 24 months time to see"
+    },
+    {
+      "start": 1157.61,
+      "end": 1160.37,
+      "text": "how our recommendations have been addressed. But"
+    },
+    {
+      "start": 1160.37,
+      "end": 1161.77,
+      "text": "At the time that we did the order,"
+    },
+    {
+      "start": 1161.78,
+      "end": 1163.61,
+      "text": "there had just been a refresh to the strategy,"
+    },
+    {
+      "start": 1163.74,
+      "end": 1166.24,
+      "text": "and that updated strategy did include a stronger focus"
+    },
+    {
+      "start": 1166.27,
+      "end": 1167.33,
+      "text": "on material hardship."
+    },
+    {
+      "start": 1167.46,
+      "end": 1169.81,
+      "text": "So at the time that, um, we did this work,"
+    },
+    {
+      "start": 1170.26,
+      "end": 1172.4,
+      "text": "there was still a strong commitment to the work."
+    },
+    {
+      "start": 1172.79,
+      "end": 1175.44,
+      "text": "Can I just ask one more question? Please. Uh, Mr."
+    },
+    {
+      "start": 1175.47,
+      "end": 1176.81,
+      "text": "Chin, uh, thank you."
+    },
+    {
+      "start": 1177.03,
+      "end": 1181.72,
+      "text": "Um, the, um, the strategy of Whanau Water is, is that, is"
+    },
+    {
+      "start": 1181.72,
+      "end": 1185.37,
+      "text": "that something that was, uh, part of, uh, is that, is"
+    },
+    {
+      "start": 1185.37,
+      "end": 1189.09,
+      "text": "that factored in any of, uh, uh, your analysis, uh,"
+    },
+    {
+      "start": 1189.09,
+      "end": 1191.72,
+      "text": "because that's been a, a change in strategy?"
+    },
+    {
+      "start": 1192.6,
+      "end": 1194.24,
+      "text": "It's, it's been a, sorry, it's a strategy"
+    },
+    {
+      "start": 1194.24,
+      "end": 1197.09,
+      "text": "that both governments have, um, supported."
+    },
+    {
+      "start": 1197.35,
+      "end": 1199.53,
+      "text": "Yes. But is that had any effect in terms"
+    },
+    {
+      "start": 1199.53,
+      "end": 1200.57,
+      "text": "of what, what's been happening?"
+    },
+    {
+      "start": 1200.67,
+      "end": 1203.44,
+      "text": "Well, it's, it's another topic that our, that our,"
+    },
+    {
+      "start": 1203.68,
+      "end": 1204.85,
+      "text": "IIG has, has looked at."
+    },
+    {
+      "start": 1204.85,
+      "end": 1208.53,
+      "text": "Another cross-cutting issue is, is, is is whanau aura and,"
+    },
+    {
+      "start": 1208.59,
+      "end": 1210.09,
+      "text": "and, uh, you know, how,"
+    },
+    {
+      "start": 1210.27,
+      "end": 1211.96,
+      "text": "how much agencies have moved towards"
+    },
+    {
+      "start": 1211.96,
+      "end": 1213.48,
+      "text": "providing whanau centered services."
+    },
+    {
+      "start": 1213.87,
+      "end": 1216.48,
+      "text": "So similar to, um, our audit that,"
+    },
+    {
+      "start": 1216.48,
+      "end": 1217.96,
+      "text": "that looked at whanau ora,"
+    },
+    {
+      "start": 1218.14,
+      "end": 1221.57,
+      "text": "we we're finding similar themes emerging around, um,"
+    },
+    {
+      "start": 1222.98,
+      "end": 1226.44,
+      "text": "you know, around services not having, you know, challenges"
+    },
+    {
+      "start": 1226.44,
+      "end": 1229.64,
+      "text": "with, with coordination, challenges with engagement, um,"
+    },
+    {
+      "start": 1229.64,
+      "end": 1230.92,
+      "text": "across cutting issues that we've,"
+    },
+    {
+      "start": 1230.92,
+      "end": 1232.24,
+      "text": "we've found multiple times now."
+    },
+    {
+      "start": 1232.74,
+      "end": 1235.85,
+      "text": "And I guess, you know, those sorts of things take, take time"
+    },
+    {
+      "start": 1236.18,
+      "end": 1239.2,
+      "text": "and resource and prioritization to address."
+    },
+    {
+      "start": 1239.79,
+      "end": 1242.33,
+      "text": "Um, so we're seeing similar themes come, come through here,"
+    },
+    {
+      "start": 1242.33,
+      "end": 1243.4,
+      "text": "and it's why we're recommending"
+    },
+    {
+      "start": 1243.4,
+      "end": 1244.81,
+      "text": "that the governance bodies need to,"
+    },
+    {
+      "start": 1244.81,
+      "end": 1245.88,
+      "text": "to give attention to that."
+    },
+    {
+      "start": 1246.49,
+      "end": 1247.8,
+      "text": "Jamie, thank you. Thank"
+    },
+    {
+      "start": 1247.8,
+      "end": 1248.8,
+      "text": "You. Uh, thank you, Mr. Chair."
+    },
+    {
+      "start": 1248.8,
+      "end": 1250.88,
+      "text": "I was interested in the"
+    },
+    {
+      "start": 1250.88,
+      "end": 1254.08,
+      "text": "recommendations and you, you talk about coming back"
+    },
+    {
+      "start": 1254.45,
+      "end": 1257.28,
+      "text": "to them in 18 months or 24 months time,"
+    },
+    {
+      "start": 1257.86,
+      "end": 1261.88,
+      "text": "but you, you use the language in them, for instance, working"
+    },
+    {
+      "start": 1262.14,
+      "end": 1264.08,
+      "text": "with other, other organizations."
+    },
+    {
+      "start": 1264.21,
+      "end": 1267.91,
+      "text": "Number two, as ensure that cross agency governance"
+    },
+    {
+      "start": 1268.38,
+      "end": 1271.12,
+      "text": "and three, strengthening engagement with Maori."
+    },
+    {
+      "start": 1271.12,
+      "end": 1273.67,
+      "text": "Mm-hmm. It sounds like those things are happening."
+    },
+    {
+      "start": 1274.58,
+      "end": 1276.95,
+      "text": "So you wanting more of this to happen,"
+    },
+    {
+      "start": 1277.21,
+      "end": 1280.08,
+      "text": "so I'm just interesting in, in your process mm-hmm."
+    },
+    {
+      "start": 1280.15,
+      "end": 1282.67,
+      "text": "Of OAG. Mm-hmm. You go back, how do you know,"
+    },
+    {
+      "start": 1283.83,
+      "end": 1286.07,
+      "text": "'cause I, today this is happening, so"
+    },
+    {
+      "start": 1286.07,
+      "end": 1287.7,
+      "text": "how do you know this has been strengthened?"
+    },
+    {
+      "start": 1287.7,
+      "end": 1288.94,
+      "text": "What, what's the measures"
+    },
+    {
+      "start": 1289.24,
+      "end": 1291.59,
+      "text": "so you actually can say this has been picked up"
+    },
+    {
+      "start": 1291.59,
+      "end": 1292.83,
+      "text": "and it has been successful?"
+    },
+    {
+      "start": 1293.09,
+      "end": 1295.35,
+      "text": "You mean in terms of engagement? Yes. Level of engagement."
+    },
+    {
+      "start": 1295.53,
+      "end": 1296.74,
+      "text": "So there's a couple of things there."
+    },
+    {
+      "start": 1296.9,
+      "end": 1300.66,
+      "text": "I mean, first of all, we know that, I mean, one"
+    },
+    {
+      "start": 1300.66,
+      "end": 1301.83,
+      "text": "of the things we frequently heard is"
+    },
+    {
+      "start": 1301.83,
+      "end": 1303.18,
+      "text": "that engagement was inconsistent."
+    },
+    {
+      "start": 1303.77,
+      "end": 1305.51,
+      "text": "Um, and, and,"
+    },
+    {
+      "start": 1305.51,
+      "end": 1307.7,
+      "text": "and that, you know, it could be more sustained."
+    },
+    {
+      "start": 1308.33,
+      "end": 1310.79,
+      "text": "Um, and so, you know,"
+    },
+    {
+      "start": 1310.79,
+      "end": 1312.55,
+      "text": "that's why we're essentially making this recommendation"
+    },
+    {
+      "start": 1312.55,
+      "end": 1314.51,
+      "text": "because we think that that engagement is so important"
+    },
+    {
+      "start": 1314.68,
+      "end": 1316.31,
+      "text": "to be addressing inequities"
+    },
+    {
+      "start": 1316.44,
+      "end": 1317.94,
+      "text": "and helping agencies to work together."
+    },
+    {
+      "start": 1318.57,
+      "end": 1320.94,
+      "text": "Um, we do know that there, there had been some improvement"
+    },
+    {
+      "start": 1320.94,
+      "end": 1323.11,
+      "text": "in engagement, um, particularly"
+    },
+    {
+      "start": 1323.11,
+      "end": 1326.11,
+      "text": "with the Mal Iwi leaders group towards the end of the audit."
+    },
+    {
+      "start": 1326.81,
+      "end": 1329.51,
+      "text": "Um, and, and of course more needs to be done."
+    },
+    {
+      "start": 1329.72,
+      "end": 1331.46,
+      "text": "Um, you, you, you know, so,"
+    },
+    {
+      "start": 1331.61,
+      "end": 1333.98,
+      "text": "so we hadn't seen any changes in terms of engagement with,"
+    },
+    {
+      "start": 1333.98,
+      "end": 1335.79,
+      "text": "with frontline services"
+    },
+    {
+      "start": 1335.92,
+      "end": 1340.19,
+      "text": "or with, you know, NGOs working, working in the community."
+    },
+    {
+      "start": 1340.69,
+      "end": 1344.19,
+      "text": "Um, so when we follow up, um, we generally go back"
+    },
+    {
+      "start": 1344.19,
+      "end": 1346.43,
+      "text": "to the agency and we ask them to report to us"
+    },
+    {
+      "start": 1346.46,
+      "end": 1348.56,
+      "text": "what they have done in response to recommendations."
+    },
+    {
+      "start": 1348.69,
+      "end": 1350.95,
+      "text": "So what activities, what changes they've, um, made."
+    },
+    {
+      "start": 1351.47,
+      "end": 1354.04,
+      "text": "I think, you know, recommendation one, obviously, uh,"
+    },
+    {
+      "start": 1354.34,
+      "end": 1357.95,
+      "text": "we think, uh, a more integrated implementation plan is"
+    },
+    {
+      "start": 1357.95,
+      "end": 1359.52,
+      "text": "what we would expect to see,"
+    },
+    {
+      "start": 1359.82,
+      "end": 1362.08,
+      "text": "or at least to have some engagement with the agency about"
+    },
+    {
+      "start": 1362.13,
+      "end": 1363.52,
+      "text": "how they dealt with that recommendation"
+    },
+    {
+      "start": 1363.52,
+      "end": 1364.95,
+      "text": "or what they think about that recommendation."
+    },
+    {
+      "start": 1364.97,
+      "end": 1367.12,
+      "text": "Mm-hmm. Uh, the sorts of things we would expect"
+    },
+    {
+      "start": 1367.12,
+      "end": 1368.99,
+      "text": "to see when we're looking at the other recommendations are"
+    },
+    {
+      "start": 1369.07,
+      "end": 1372.32,
+      "text": "what changes they might have made to improve those things."
+    },
+    {
+      "start": 1372.45,
+      "end": 1376.6,
+      "text": "But also we might also talk to, um, some, uh, stakeholders"
+    },
+    {
+      "start": 1376.69,
+      "end": 1378.63,
+      "text": "and, and say what they've observed in terms"
+    },
+    {
+      "start": 1378.63,
+      "end": 1380.99,
+      "text": "of whether coordination has improved"
+    },
+    {
+      "start": 1381.17,
+      "end": 1382.95,
+      "text": "or whether that engagement has improved."
+    },
+    {
+      "start": 1383.1,
+      "end": 1386.12,
+      "text": "So, uh, when we first go back to the agency, we ask them"
+    },
+    {
+      "start": 1386.13,
+      "end": 1388.28,
+      "text": "to report to us about what they've done,"
+    },
+    {
+      "start": 1388.34,
+      "end": 1390.47,
+      "text": "and then when we receive that information, we think, well,"
+    },
+    {
+      "start": 1390.74,
+      "end": 1392.12,
+      "text": "what are we, we're learning from that,"
+    },
+    {
+      "start": 1392.21,
+      "end": 1394.52,
+      "text": "and then we decide whether or not we want to do more work"
+    },
+    {
+      "start": 1394.65,
+      "end": 1396.36,
+      "text": "to understand that a bit more. Mm-hmm."
+    },
+    {
+      "start": 1397.15,
+      "end": 1399.77,
+      "text": "Thank you. Um, look, I'm just gonna, uh,"
+    },
+    {
+      "start": 1400.14,
+      "end": 1403.29,
+      "text": "the six child poverty measures, um, that, uh,"
+    },
+    {
+      "start": 1404.2,
+      "end": 1406.09,
+      "text": "assessed against, and that comes over the Child Poverty"
+    },
+    {
+      "start": 1406.33,
+      "end": 1407.95,
+      "text": "Reduction Act fraction,"
+    },
+    {
+      "start": 1408.54,
+      "end": 1410.63,
+      "text": "The, The six child poverty measures."
+    },
+    {
+      "start": 1410.73,
+      "end": 1412.08,
+      "text": "So there's four primary measures"
+    },
+    {
+      "start": 1412.08,
+      "end": 1414.32,
+      "text": "and six supplementary measures, and,"
+    },
+    {
+      "start": 1414.32,
+      "end": 1415.52,
+      "text": "and some of them are defined in the act"
+    },
+    {
+      "start": 1415.52,
+      "end": 1417.28,
+      "text": "and some of them are defined by statistics New Zealand."
+    },
+    {
+      "start": 1417.51,
+      "end": 1419.71,
+      "text": "Yeah. Okay. Great. Um, and,"
+    },
+    {
+      "start": 1419.82,
+      "end": 1423.28,
+      "text": "and in cabinet, I see in the, that you report, uh, cabinet,"
+    },
+    {
+      "start": 1423.93,
+      "end": 1426.65,
+      "text": "you report, you report on cabinet agreeing in October, 2024"
+    },
+    {
+      "start": 1426.65,
+      "end": 1431.63,
+      "text": "to have, um, another, uh, I think seven, no, uh,"
+    },
+    {
+      "start": 1431.7,
+      "end": 1433.43,
+      "text": "five, yeah, yeah, five"
+    },
+    {
+      "start": 1433.43,
+      "end": 1434.91,
+      "text": "Other child poverty related indicators"
+    },
+    {
+      "start": 1435.1,
+      "end": 1436.1,
+      "text": "Is what you're talking about. Child"
+    },
+    {
+      "start": 1436.1,
+      "end": 1438.39,
+      "text": "has cabinet agreed in October, 2024. Mm-hmm."
+    },
+    {
+      "start": 1438.52,
+      "end": 1440.04,
+      "text": "And then the government has also, uh,"
+    },
+    {
+      "start": 1440.04,
+      "end": 1442.04,
+      "text": "under the strategy seven wider indicators."
+    },
+    {
+      "start": 1442.13,
+      "end": 1445.15,
+      "text": "Mm-hmm. Um, how confident are you"
+    },
+    {
+      "start": 1445.15,
+      "end": 1447.04,
+      "text": "that those are capturing the information"
+    },
+    {
+      "start": 1447.04,
+      "end": 1450.15,
+      "text": "that organizations need to report against to be able"
+    },
+    {
+      "start": 1450.15,
+      "end": 1451.32,
+      "text": "to assess this adequately in terms"
+    },
+    {
+      "start": 1451.32,
+      "end": 1452.91,
+      "text": "of whether they're delivering against"
+    },
+    {
+      "start": 1453.02,
+      "end": 1454.08,
+      "text": "the government's objectives?"
+    },
+    {
+      "start": 1454.35,
+      "end": 1455.84,
+      "text": "Well, I think, I think there's two things there."
+    },
+    {
+      "start": 1455.98,
+      "end": 1459.12,
+      "text": "They're, they're working well to, to show the impact"
+    },
+    {
+      "start": 1459.17,
+      "end": 1460.6,
+      "text": "of child poverty initiatives."
+    },
+    {
+      "start": 1460.6,
+      "end": 1464.04,
+      "text": "So statistics, New Zealand annual reporting does a good job"
+    },
+    {
+      "start": 1464.04,
+      "end": 1465.08,
+      "text": "of showing overall impact."
+    },
+    {
+      "start": 1465.08,
+      "end": 1466.32,
+      "text": "And we know that it's best practice"
+    },
+    {
+      "start": 1466.32,
+      "end": 1467.91,
+      "text": "to have multiple measures to show that."
+    },
+    {
+      "start": 1468.21,
+      "end": 1469.88,
+      "text": "And of course, at the same time, we're measuring those"
+    },
+    {
+      "start": 1469.88,
+      "end": 1472.56,
+      "text": "broader factors, the child poverty related indicators"
+    },
+    {
+      "start": 1472.93,
+      "end": 1475.23,
+      "text": "to see whether some of the longer term drivers"
+    },
+    {
+      "start": 1475.62,
+      "end": 1477.56,
+      "text": "of disadvantage are being affected or not."
+    },
+    {
+      "start": 1477.56,
+      "end": 1479.12,
+      "text": "So that's, that's working well."
+    },
+    {
+      "start": 1479.73,
+      "end": 1482.23,
+      "text": "The bit that's not working so well in terms"
+    },
+    {
+      "start": 1482.23,
+      "end": 1485.28,
+      "text": "of the reporting is there's much at, at the end"
+    },
+    {
+      "start": 1485.28,
+      "end": 1487.6,
+      "text": "of our audit, there was much less known about how every,"
+    },
+    {
+      "start": 1487.86,
+      "end": 1489.91,
+      "text": "how the agencies were working together as a whole"
+    },
+    {
+      "start": 1490.45,
+      "end": 1493.15,
+      "text": "and working together to, towards the targets"
+    },
+    {
+      "start": 1493.31,
+      "end": 1495.76,
+      "text": "because there was no implementation reporting in place at"
+    },
+    {
+      "start": 1495.76,
+      "end": 1498.71,
+      "text": "the time that our audit concluded, um,"
+    },
+    {
+      "start": 1498.71,
+      "end": 1499.76,
+      "text": "that was being considered."
+    },
+    {
+      "start": 1499.76,
+      "end": 1500.88,
+      "text": "It was under consideration what"
+    },
+    {
+      "start": 1500.88,
+      "end": 1502.32,
+      "text": "that might look like going going"
+    },
+    {
+      "start": 1502.32,
+      "end": 1503.32,
+      "text": "Forward. So it would"
+    },
+    {
+      "start": 1503.32,
+      "end": 1505.8,
+      "text": "be useful to hear from MSD, I think, um, as to"
+    },
+    {
+      "start": 1505.8,
+      "end": 1507.23,
+      "text": "what they have done, um, since,"
+    },
+    {
+      "start": 1507.4,
+      "end": 1508.84,
+      "text": "since the conclusion of our audit."
+    },
+    {
+      "start": 1509.26,
+      "end": 1511.19,
+      "text": "Um, but we did not, uh,"
+    },
+    {
+      "start": 1511.21,
+      "end": 1512.99,
+      "text": "and do not comment on the appropriateness"
+    },
+    {
+      "start": 1512.99,
+      "end": 1513.99,
+      "text": "of any particular measures."
+    },
+    {
+      "start": 1513.99,
+      "end": 1517.28,
+      "text": "That's, um, not really for us to comment on,"
+    },
+    {
+      "start": 1517.41,
+      "end": 1519.23,
+      "text": "but, um, as Sarah said"
+    },
+    {
+      "start": 1519.23,
+      "end": 1521.08,
+      "text": "that the multi mesure approach is"
+    },
+    {
+      "start": 1521.08,
+      "end": 1522.84,
+      "text": "generally considered to be good practice. Mm-hmm."
+    },
+    {
+      "start": 1523.04,
+      "end": 1525.76,
+      "text": "I guess a supplementary on that is just, um, one, one"
+    },
+    {
+      "start": 1525.76,
+      "end": 1527.76,
+      "text": "of the, one of the concerns that has been expressed, uh,"
+    },
+    {
+      "start": 1527.76,
+      "end": 1530.84,
+      "text": "to the committee, I think in, in the past is that, um, the,"
+    },
+    {
+      "start": 1530.86,
+      "end": 1533.76,
+      "text": "the workload on organizations who, uh, collate"
+    },
+    {
+      "start": 1533.76,
+      "end": 1535.12,
+      "text": "and report on these measures"
+    },
+    {
+      "start": 1535.58,
+      "end": 1538.56,
+      "text": "and just, uh, concerned about the confidence that, that some"
+    },
+    {
+      "start": 1538.56,
+      "end": 1542.28,
+      "text": "of 'em have about that being, uh, adequately surfaced or,"
+    },
+    {
+      "start": 1542.34,
+      "end": 1544.67,
+      "text": "or referenced, uh, the,"
+    },
+    {
+      "start": 1544.97,
+      "end": 1547.08,
+      "text": "and, you know, are they collecting data for data's sake"
+    },
+    {
+      "start": 1547.3,
+      "end": 1549.84,
+      "text": "or is it data that is, that is actionable?"
+    },
+    {
+      "start": 1550.17,
+      "end": 1553.15,
+      "text": "Uh, any thoughts on the sort of work you've done that"
+    },
+    {
+      "start": 1553.15,
+      "end": 1554.99,
+      "text": "that can help 'em sort of inform the, some"
+    },
+    {
+      "start": 1555.04,
+      "end": 1556.15,
+      "text": "of those questions have been raised with us?"
+    },
+    {
+      "start": 1556.27,
+      "end": 1558.91,
+      "text": "Well, I, I, I think we would say that the data"
+    },
+    {
+      "start": 1559.03,
+      "end": 1562.12,
+      "text": "that is available as a consequence of having those, um,"
+    },
+    {
+      "start": 1562.39,
+      "end": 1565.39,
+      "text": "I guess commitment devices in the, in the legal framework"
+    },
+    {
+      "start": 1565.79,
+      "end": 1567.8,
+      "text": "that produces data that is useful."
+    },
+    {
+      "start": 1568.04,
+      "end": 1570.23,
+      "text": "I mean, I jump in here if you want, Sarah."
+    },
+    {
+      "start": 1570.26,
+      "end": 1572.43,
+      "text": "Um, but I think we heard broadly"
+    },
+    {
+      "start": 1572.59,
+      "end": 1575.84,
+      "text": "that those reports were useful and, um, and,"
+    },
+    {
+      "start": 1575.89,
+      "end": 1578.8,
+      "text": "and they were useful for agencies and for decision makers"
+    },
+    {
+      "start": 1578.97,
+      "end": 1580.43,
+      "text": "and also useful for stakeholders."
+    },
+    {
+      "start": 1580.65,
+      "end": 1583.99,
+      "text": "So, uh, we see that part of the framework"
+    },
+    {
+      "start": 1583.99,
+      "end": 1585.63,
+      "text": "as a strength of the approach here."
+    },
+    {
+      "start": 1585.63,
+      "end": 1588.04,
+      "text": "Mm-hmm. Um, uh, as you're probably aware,"
+    },
+    {
+      "start": 1588.04,
+      "end": 1590.08,
+      "text": "the office often comments that there is a lack of data"
+    },
+    {
+      "start": 1590.26,
+      "end": 1592.6,
+      "text": "or a lack of good impact measurement, um,"
+    },
+    {
+      "start": 1592.85,
+      "end": 1594.76,
+      "text": "which makes it harder, I think, for, um,"
+    },
+    {
+      "start": 1594.92,
+      "end": 1596.28,
+      "text": "parliament themselves"
+    },
+    {
+      "start": 1596.49,
+      "end": 1599.28,
+      "text": "and for the public to understand over time whether the"
+    },
+    {
+      "start": 1599.28,
+      "end": 1601.91,
+      "text": "actions taken by any particular government are having the"
+    },
+    {
+      "start": 1601.91,
+      "end": 1603.92,
+      "text": "desired effect and whether that's good value for money."
+    },
+    {
+      "start": 1604.27,
+      "end": 1605.81,
+      "text": "Um, so I think we would say that some"
+    },
+    {
+      "start": 1605.81,
+      "end": 1607.16,
+      "text": "of the things we saw here are things"
+    },
+    {
+      "start": 1607.16,
+      "end": 1608.33,
+      "text": "we would like to see more often."
+    },
+    {
+      "start": 1608.83,
+      "end": 1610.12,
+      "text": "So, um, yeah."
+    },
+    {
+      "start": 1610.63,
+      "end": 1612.96,
+      "text": "Okay. Thank you. It's the progress reporting that,"
+    },
+    {
+      "start": 1613.47,
+      "end": 1615.96,
+      "text": "that was lacking, that the progress on how the initiatives"
+    },
+    {
+      "start": 1615.96,
+      "end": 1618.01,
+      "text": "as a whole were progressing and sequencing"
+    },
+    {
+      "start": 1618.01,
+      "end": 1620.16,
+      "text": "and how agencies were working together,"
+    },
+    {
+      "start": 1620.35,
+      "end": 1621.4,
+      "text": "you know, are they working together?"
+    },
+    {
+      "start": 1621.76,
+      "end": 1623.29,
+      "text": "That was the bit that was, that was missing."
+    },
+    {
+      "start": 1623.66,
+      "end": 1625.61,
+      "text": "That's helpful. Thank you. Thank you."
+    },
+    {
+      "start": 1625.79,
+      "end": 1627.44,
+      "text": "Um, so we know"
+    },
+    {
+      "start": 1627.8,
+      "end": 1630.81,
+      "text": "that about half the kids living in material hardship"
+    },
+    {
+      "start": 1631.16,
+      "end": 1632.77,
+      "text": "actually are in working households."
+    },
+    {
+      "start": 1632.94,
+      "end": 1637.05,
+      "text": "And I wonder if you looked into the, uh,"
+    },
+    {
+      "start": 1638.65,
+      "end": 1640.95,
+      "text": "the resources and support available to them"
+    },
+    {
+      "start": 1641.02,
+      "end": 1645.36,
+      "text": "and the uptake, um, of those resources for, or,"
+    },
+    {
+      "start": 1645.41,
+      "end": 1649.99,
+      "text": "or even just like the knowledge that they're out there, was"
+    },
+    {
+      "start": 1649.99,
+      "end": 1652.15,
+      "text": "that, um, something that you were able to look into?"
+    },
+    {
+      "start": 1653.83,
+      "end": 1655.66,
+      "text": "I mean, it wasn't the specific focus of, of"
+    },
+    {
+      "start": 1655.66,
+      "end": 1656.9,
+      "text": "what we looked at."
+    },
+    {
+      "start": 1657.38,
+      "end": 1659.03,
+      "text": "I mean, I guess, you know, we understand"
+    },
+    {
+      "start": 1659.03,
+      "end": 1660.11,
+      "text": "that there's been advice"
+    },
+    {
+      "start": 1660.59,
+      "end": 1663.27,
+      "text": "provided, um, to ministers about that."
+    },
+    {
+      "start": 1663.41,
+      "end": 1666.46,
+      "text": "Yeah. Um, yeah. But that, that's as far as how"
+    },
+    {
+      "start": 1667.44,
+      "end": 1668.44,
+      "text": "Hmm, sure. Thanks."
+    },
+    {
+      "start": 1668.44,
+      "end": 1671.22,
+      "text": "Um, so just in terms of, I guess"
+    },
+    {
+      "start": 1671.22,
+      "end": 1673.55,
+      "text": "what I'm getting at is the communication around"
+    },
+    {
+      "start": 1673.73,
+      "end": 1677.38,
+      "text": "what an advocacy around what is actually available"
+    },
+    {
+      "start": 1677.53,
+      "end": 1680.14,
+      "text": "for people out there and the uptake of it, because mm-hmm."
+    },
+    {
+      "start": 1680.22,
+      "end": 1684.14,
+      "text": "There seems to be a gap between people actually knowing"
+    },
+    {
+      "start": 1684.26,
+      "end": 1686.22,
+      "text": "that there are services available for them."
+    },
+    {
+      "start": 1686.22,
+      "end": 1687.98,
+      "text": "Mm-hmm. Mm-hmm. Um, and the uptake"
+    },
+    {
+      "start": 1688.24,
+      "end": 1690.62,
+      "text": "and the, is that an operational thing"
+    },
+    {
+      "start": 1690.62,
+      "end": 1692.46,
+      "text": "that's happening at these agencies"
+    },
+    {
+      "start": 1692.46,
+      "end": 1695.18,
+      "text": "that people aren't taking their entitlements"
+    },
+    {
+      "start": 1695.24,
+      "end": 1696.87,
+      "text": "or don't know about them mm-hmm."
+    },
+    {
+      "start": 1696.94,
+      "end": 1699.7,
+      "text": "That it's falling on community groups to like"
+    },
+    {
+      "start": 1700.48,
+      "end": 1703.87,
+      "text": "be experts in these fields and get people"
+    },
+    {
+      "start": 1704.01,
+      "end": 1706.31,
+      "text": "and advocate for them strongly just so"
+    },
+    {
+      "start": 1706.31,
+      "end": 1708.22,
+      "text": "that they can have food for their kids."
+    },
+    {
+      "start": 1708.38,
+      "end": 1709.9,
+      "text": "Yeah. And that could be a really good topic"
+    },
+    {
+      "start": 1710.12,
+      "end": 1713.42,
+      "text": "of conversation if you were to invite MSDN around how"
+    },
+    {
+      "start": 1714.08,
+      "end": 1716.31,
+      "text": "would be being done to ensure people do know mm-hmm."
+    },
+    {
+      "start": 1716.38,
+      "end": 1719.11,
+      "text": "What they're entitled to and how they can engage, you know,"
+    },
+    {
+      "start": 1719.11,
+      "end": 1721.59,
+      "text": "with the system to, um, to alleviate hardship."
+    },
+    {
+      "start": 1722.14,
+      "end": 1724.55,
+      "text": "I would agree with it. Um, Greg, I'd also say that the,"
+    },
+    {
+      "start": 1724.81,
+      "end": 1726.51,
+      "text": "the better the agencies work together"
+    },
+    {
+      "start": 1726.88,
+      "end": 1728.42,
+      "text": "and the better they work with, um,"
+    },
+    {
+      "start": 1728.42,
+      "end": 1730.42,
+      "text": "organizations at the frontline to understand"
+    },
+    {
+      "start": 1730.72,
+      "end": 1733.42,
+      "text": "how collectively they can provide the best services,"
+    },
+    {
+      "start": 1733.61,
+      "end": 1734.66,
+      "text": "um, for people in need."
+    },
+    {
+      "start": 1734.72,
+      "end": 1736.87,
+      "text": "You know, I think that's, that's a positive thing. Mm-hmm."
+    },
+    {
+      "start": 1738.45,
+      "end": 1739.65,
+      "text": "I might take, uh, almost there,"
+    },
+    {
+      "start": 1739.65,
+      "end": 1741.86,
+      "text": "but the, the, the last question I might ask, just in terms"
+    },
+    {
+      "start": 1741.86,
+      "end": 1743.26,
+      "text": "of d did you have a look at, you know,"
+    },
+    {
+      "start": 1743.26,
+      "end": 1745.65,
+      "text": "say you very extensive range of interviews that you've had"
+    },
+    {
+      "start": 1745.65,
+      "end": 1746.65,
+      "text": "with a lot, a lot of different people"
+    },
+    {
+      "start": 1746.65,
+      "end": 1747.69,
+      "text": "across a lot of different agencies."
+    },
+    {
+      "start": 1747.69,
+      "end": 1749.02,
+      "text": "So well done, big piece of work,"
+    },
+    {
+      "start": 1749.02,
+      "end": 1753.02,
+      "text": "but, um, the tech technology"
+    },
+    {
+      "start": 1753.02,
+      "end": 1755.1,
+      "text": "that these agencies are working with, any comments"
+    },
+    {
+      "start": 1755.88,
+      "end": 1757.1,
+      "text": "on anything you observed"
+    },
+    {
+      "start": 1757.1,
+      "end": 1758.89,
+      "text": "or picked up from those interviews in terms of"
+    },
+    {
+      "start": 1759.32,
+      "end": 1761.73,
+      "text": "how effective those are at being tools that can help"
+    },
+    {
+      "start": 1762.62,
+      "end": 1764.41,
+      "text": "agencies with that coordination work that you've technology,"
+    },
+    {
+      "start": 1764.63,
+      "end": 1766.1,
+      "text": "Te technology to, for what purpose?"
+    },
+    {
+      "start": 1766.1,
+      "end": 1768.58,
+      "text": "Technology. So that they can, they can adequately surface"
+    },
+    {
+      "start": 1768.58,
+      "end": 1770.38,
+      "text": "that data and have good mechanism place"
+    },
+    {
+      "start": 1770.43,
+      "end": 1772.13,
+      "text": "to coordinate with other organizations."
+    },
+    {
+      "start": 1772.39,
+      "end": 1773.39,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1774.12,
+      "end": 1776.53,
+      "text": "Well, we didn't specifically look at, at that."
+    },
+    {
+      "start": 1776.74,
+      "end": 1779.81,
+      "text": "Um, I guess I would say that, um,"
+    },
+    {
+      "start": 1781.55,
+      "end": 1784.01,
+      "text": "It wasn't raised with us as a particular challenge"
+    },
+    {
+      "start": 1784.11,
+      "end": 1787.2,
+      "text": "or a particular problem in terms of servicing the reporting"
+    },
+    {
+      "start": 1787.2,
+      "end": 1788.2,
+      "text": "that is in place."
+    },
+    {
+      "start": 1788.2,
+      "end": 1789.29,
+      "text": "Mm-hmm. In, in this area."
+    },
+    {
+      "start": 1789.61,
+      "end": 1792.05,
+      "text": "I, I, I don't want, so Sarah, no, it wasn't raised"
+    },
+    {
+      "start": 1792.18,
+      "end": 1794.01,
+      "text": "as an issue, but then we didn't, we didn't go looking"
+    },
+    {
+      "start": 1794.22,
+      "end": 1795.64,
+      "text": "for kind of data, so."
+    },
+    {
+      "start": 1796.23,
+      "end": 1797.4,
+      "text": "Well, thank you very much. That's the time"
+    },
+    {
+      "start": 1797.4,
+      "end": 1798.48,
+      "text": "we have this, this afternoon."
+    },
+    {
+      "start": 1798.68,
+      "end": 1800.09,
+      "text": "I appreciate your work and thanks for coming."
+    },
+    {
+      "start": 1800.49,
+      "end": 1801.05,
+      "text": "Thank very much."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_30 - SSC - vimeo_1103646382\\2025_07_30 - SSC - vimeo_1103646382.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1103646382",
+    "display_id": "1103646382",
+    "title": "2025/07/30 - SSC",
+    "description": "Wednesday, 30 July 2025 | Social Services and Community Committee\n\nReport of the Controller and Auditor-General, Effectiveness of arrangements for reducing child poverty\n\nOffice of the Auditor-General\n- Leeanne McAviney, Assistant Auditor General\n- Dr Sarah Hayward, Principal Performance Auditor\n- Greg Goulding, Sector Manager, Parliamentary Group",
+    "webpage_url": "https://vimeo.com/1103646382",
+    "original_url": "https://vimeo.com/1103646382",
+    "upload_date": "20250730",
+    "timestamp": 1753839356,
+    "release_timestamp": 1753839365,
+    "duration": 1808,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042229313-548f236dcb14c5f5c4e3e7ce4aec51b09c4ecb98b5f705b5c7c6eb6762ccc3d7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/244998546.vtt?expires=1778590627&sig=e0deb0480b1b73ee3ca9ca981f4e85762c1c3c68&download=auto_generated_captions.vtt"
+  }
+}

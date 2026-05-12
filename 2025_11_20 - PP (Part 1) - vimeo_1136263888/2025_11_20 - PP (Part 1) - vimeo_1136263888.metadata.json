@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:38.899308+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1136263888",
+  "title": "2025/11/20 - PP (Part 1)",
+  "url": "https://vimeo.com/1136263888",
+  "published_at": "20251119",
+  "published_display": "2025-11-19",
+  "duration_seconds": 2046,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2041.53,
+    "segment_count": 747,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_20 - PP (Part 1) - vimeo_1136263888\\2025_11_20 - PP (Part 1) - vimeo_1136263888.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1136263888",
+    "display_id": "1136263888",
+    "title": "2025/11/20 - PP (Part 1)",
+    "description": "Thursday 20 November 2025| Primary Production Committee \nHearing Evidence: \nBriefing on Government support for research and development in the primary industries\nHorticulture New Zealand \n\nAlexander Bisson, Risk Policy Advisor\nDr Anna Rathe\n\nMinistry for Primary Industries\nStuart Anderson, DDG Biosecurity\nLisa Minthrop, Director Import & Export Standards\nFleur Francois, Director, Diagnostics Readiness & Surveillance",
+    "webpage_url": "https://vimeo.com/1136263888",
+    "original_url": "https://vimeo.com/1136263888",
+    "upload_date": "20251119",
+    "timestamp": 1763581249,
+    "release_timestamp": 1763581257,
+    "duration": 2046,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085072641-0e310191f7db8e79b7bc829d017a5ccf33ce4cc63ecfeb97e53a668815db0345-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266353802.vtt?expires=1778590783&sig=24547b69b5b718c80bbf32e3a06a33d295e05f9d&download=auto_generated_captions.vtt"
+  }
+}

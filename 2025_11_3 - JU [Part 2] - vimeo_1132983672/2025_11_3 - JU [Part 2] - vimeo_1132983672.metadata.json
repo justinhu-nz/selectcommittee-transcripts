@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:30.821524+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1132983672",
+  "title": "2025/11/3 - JU [Part 2]",
+  "url": "https://vimeo.com/1132983672",
+  "published_at": "20251103",
+  "published_display": "2025-11-03",
+  "duration_seconds": 9784,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9783.83,
+    "segment_count": 3528,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_3 - JU [Part 2] - vimeo_1132983672\\2025_11_3 - JU [Part 2] - vimeo_1132983672.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1132983672",
+    "display_id": "1132983672",
+    "title": "2025/11/3 - JU [Part 2]",
+    "description": "Monday 3 November 2025 | Justice\n\nSummary Offences (Demonstrations Near Residential Premises) Amendment Bill\n\nSubmitters\n\nKay Jones\n\nKyle Matthews\n\nGreenpeace Aotearoa\n- Niamh O'Flynn\n\nPamela Grealey\n\nCatherine Arrow\n\nGabriella Brayne\n\nJustice for Palestine\n- Kate Stone, Co-convenor Justice for Palestine\n- Marcelo Rodriguez Ferrere, Justice for Palestine, Member\u00a0\n\nOmar Elhennawi\n\nAmnesty International Aotearoa New Zealand\n- Lisa Woods",
+    "webpage_url": "https://vimeo.com/1132983672",
+    "original_url": "https://vimeo.com/1132983672",
+    "upload_date": "20251103",
+    "timestamp": 1762139707,
+    "release_timestamp": 1762139720,
+    "duration": 9784,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2080343737-5976408923c50f94f0f30d2e512b883a62b72a7619aa7c83581392b7cdaa25b6-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263204165.vtt?expires=1778591435&sig=38f7a6b24e0078521730c586ab042c27bc91a9bd&download=auto_generated_captions.vtt"
+  }
+}

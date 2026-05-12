@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:08:51.748689+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_989153179",
+  "title": "2024/07/24 - MA",
+  "url": "https://vimeo.com/989153179",
+  "published_at": "20240724",
+  "published_display": "2024-07-24",
+  "duration_seconds": 2705,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2693.45,
+    "segment_count": 780,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_07_24 - MA - vimeo_989153179\\2024_07_24 - MA - vimeo_989153179.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "989153179",
+    "display_id": "989153179",
+    "title": "2024/07/24 - MA",
+    "description": "Wednesday, 24 July 2024 | M\u0101ori Affairs Committee\n\nTe Korowai o Wainui\u0101rua Claims Settlement Bill\n\nPart 2\n\nHearing of evidence:\nList of Submitters:\nPatrick O'Sullivan \nTe Whanau O Tieke Committee \nRangi Bristol \nNgati Haua Iwi Trust \nAARON RICE-EDWARDS \nTe Korowai o Wainuiarua \nAiden Gilbert",
+    "webpage_url": "https://vimeo.com/989153179",
+    "original_url": "https://vimeo.com/989153179",
+    "upload_date": "20240724",
+    "timestamp": 1721785908,
+    "release_timestamp": 1721785952,
+    "duration": 2705,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1920347308-b15a8ae2b5ba742c95d6c350786bd65da2aebde0f4d2bd959442f605d67f8842-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/173560527.vtt?expires=1778591336&sig=92e76dee4ec818dd8c7797fd66c969207c5c9eb9&download=auto_generated_captions.vtt"
+  }
+}

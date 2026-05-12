@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:54:44.208835+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142233878",
+  "title": "2025/12/02 - SSC (Part 2)",
+  "url": "https://vimeo.com/1142233878",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 1974,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1965.58,
+    "segment_count": 734,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - SSC (Part 2) - vimeo_1142233878\\2025_12_02 - SSC (Part 2) - vimeo_1142233878.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142233878",
+    "display_id": "1142233878",
+    "title": "2025/12/02 - SSC (Part 2)",
+    "description": "Tuesday 2 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the Independent Children's Monitor Aroturuki Tamariki\n\nHearing of evidence:\n\nIndependent Children's Monitor Aroturuki Tamariki\n\nArran Jones, Chief Executive \nHelen Cook, Acting Chief Monitor \nShelley Tyson, General Manager Corporate, Strategy and Insights",
+    "webpage_url": "https://vimeo.com/1142233878",
+    "original_url": "https://vimeo.com/1142233878",
+    "upload_date": "20251202",
+    "timestamp": 1764634767,
+    "release_timestamp": 1764634774,
+    "duration": 1974,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089946821-e3cf9087f7916217f6114ebc24ad635f51de31dc5f42b2c3f7ea47b48e89a83f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268821219.vtt?expires=1778590489&sig=9a6b5aa10f0304120cfaeabba343c17b39a77974&download=auto_generated_captions.vtt"
+  }
+}

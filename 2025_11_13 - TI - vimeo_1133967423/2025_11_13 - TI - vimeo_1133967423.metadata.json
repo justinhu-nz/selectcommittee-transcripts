@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:42.438414+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133967423",
+  "title": "2025/11/13 - TI",
+  "url": "https://vimeo.com/1133967423",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 10485,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10484.38,
+    "segment_count": 3438,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_13 - TI - vimeo_1133967423\\2025_11_13 - TI - vimeo_1133967423.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133967423",
+    "display_id": "1133967423",
+    "title": "2025/11/13 - TI",
+    "description": "Thursday 13 November 2025 - Transport and Infrastructure Committee\n\nLocal Government (Auckland Council) (Transport Governance) Amendment Bill\n\nHearing of Evidence:\n\nAuckland Council\n\nMayor Wayne Brown\nAndy Baker\nPhil Wilson\nMegan Tyler\n\n\nBus and Coach Association\n\nDelaney Myers\n\n\nMax Marshall\n\nConnor Sharp\n\nPSA Te Pukenga Here Tikanga\n\nSonja Lister\nBenedict Ferguson\nTom Buckley\n\n\nMahurangi Community Planning Group\n\nBill Foster\n\n\nNew Zealand Automobile Association\n\nMartin Glynn\n\n\nThe Campaign for Better Transport Incorporated\n\nJodi Johnston\n\n\nAuckland One Rail\n\nLisa D'Oliveira\n\n\nAalap Patel\n\nBrian Ferguson\n\nGraeme Easte",
+    "webpage_url": "https://vimeo.com/1133967423",
+    "original_url": "https://vimeo.com/1133967423",
+    "upload_date": "20251112",
+    "timestamp": 1762990280,
+    "release_timestamp": 1762990296,
+    "duration": 10485,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087132734-17a619f8207619cd8b2f3a7d3a2fe3cdc9b07cc7d4f133c954a43438cb3db460-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264803376.vtt?expires=1778590306&sig=f187f32cd0dde4c2274c850280fe616f05fa602e&download=auto_generated_captions.vtt"
+  }
+}

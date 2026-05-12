@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:04:22.837431+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111806871",
+  "title": "2025/09/11 - PP",
+  "url": "https://vimeo.com/1111806871",
+  "published_at": "20250911",
+  "published_display": "2025-09-11",
+  "duration_seconds": 2298,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2290.95,
+    "segment_count": 920,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_11 - PP - vimeo_1111806871\\2025_09_11 - PP - vimeo_1111806871.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111806871",
+    "display_id": "1111806871",
+    "title": "2025/09/11 - PP",
+    "description": "Thursday, 11 September 2025 | Primary Production Committee\n\nPetition of Ian Sizer: Madagascar Ragwort \u2013 A growing concern for Northland and the rest of New Zealand\n\nHearing of Evidence\nIan Sizer\nGeoff Crawford, Northland Regional Council Chair\nP\u0101mu Landcorp Farming Limited\n- Mark Leslie, Chief Executive\n- Will Burrett, Chief Operating Officer\n- Kara Tait, Head of Comms & Engagement",
+    "webpage_url": "https://vimeo.com/1111806871",
+    "original_url": "https://vimeo.com/1111806871",
+    "upload_date": "20250911",
+    "timestamp": 1757555044,
+    "release_timestamp": 1757555050,
+    "duration": 2298,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057636516-e659fa884e01983b5973bd64de9171410ce206ac5aa75ba831be6e542c6285af-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252763162.vtt?expires=1778591067&sig=3d5817b0a466ce1b025a514639dfb211331e4b08&download=auto_generated_captions.vtt"
+  }
+}

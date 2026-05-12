@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:56:55.208589+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1105644594",
+  "title": "2025/08/13 - SSC",
+  "url": "https://vimeo.com/1105644594",
+  "published_at": "20250812",
+  "published_display": "2025-08-12",
+  "duration_seconds": 2198,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2192.24,
+    "segment_count": 806,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_13 - SSC - vimeo_1105644594\\2025_08_13 - SSC - vimeo_1105644594.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1105644594",
+    "display_id": "1105644594",
+    "title": "2025/08/13 - SSC",
+    "description": "Wednesday, 13 August 2025 | Social Services and Community Committee\n\nReview briefing on the 2023/24 annual review of the Social Workers Registration Board\n\nHearing of Evidence\n\nSocial Workers Registration Board\n- Mike Munnelly, Chair\n- Sarah Clark, Chief Executive",
+    "webpage_url": "https://vimeo.com/1105644594",
+    "original_url": "https://vimeo.com/1105644594",
+    "upload_date": "20250812",
+    "timestamp": 1755034978,
+    "release_timestamp": 1755034987,
+    "duration": 2198,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2047023143-acabb9872aa1fb5aa6153613053579f0c9ad0f596b6f2c93d770e90b7c778075-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/247544030.vtt?expires=1778590620&sig=0b753a337915f976cd26b8d24201b4801c1e0414&download=auto_generated_captions.vtt"
+  }
+}

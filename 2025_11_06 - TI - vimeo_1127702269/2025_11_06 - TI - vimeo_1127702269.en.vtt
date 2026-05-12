@@ -1,0 +1,4944 @@
+WEBVTT
+
+1
+00:00:06.585 --> 00:00:07.085
+We have to,
+
+2
+00:00:15.755 --> 00:00:16.755
+Right. Good morning.
+
+3
+00:00:16.755 --> 00:00:18.065
+Morning to see you.
+
+4
+00:00:18.095 --> 00:00:19.545
+Nice to see some familiar faces there too.
+
+5
+00:00:20.325 --> 00:00:24.265
+Um, so we've got the, uh, we've got the board
+
+6
+00:00:24.605 --> 00:00:26.105
+and all background material fitness.
+
+7
+00:00:26.205 --> 00:00:27.865
+So if there's anything you want to particularly highlight,
+
+8
+00:00:28.165 --> 00:00:30.665
+uh, but I think it could be some rich conversation going on
+
+9
+00:00:30.665 --> 00:00:32.185
+some of the, uh, material.
+
+10
+00:00:32.285 --> 00:00:35.025
+And I noticed that it was described as being, uh, about, um,
+
+11
+00:00:35.725 --> 00:00:38.185
+uh, autonomous vehicles or robocar,
+
+12
+00:00:38.185 --> 00:00:40.385
+but actually I thought it was more about the Model Monte
+
+13
+00:00:40.465 --> 00:00:44.205
+model, which I thought was the, the key, um, key take out
+
+14
+00:00:44.205 --> 00:00:46.125
+of, uh, out of all of that and what you can do with it.
+
+15
+00:00:46.465 --> 00:00:47.525
+So anyway, uh, in,
+
+16
+00:00:47.545 --> 00:00:49.885
+in your hands if you wanna do some intros and then, um, yeah.
+
+17
+00:00:49.885 --> 00:00:51.525
+Thanks Mr. Chair. Mr. Chair.
+
+18
+00:00:51.595 --> 00:00:52.645
+I'll just do a couple of intros.
+
+19
+00:00:52.645 --> 00:00:54.045
+I'm Ruth Erhu, I'm acting secretary.
+
+20
+00:00:54.105 --> 00:00:56.405
+Um, Paul O'Connell, who you know
+
+21
+00:00:56.405 --> 00:00:59.085
+before as, um, DC, um, sector strategy,
+
+22
+00:00:59.185 --> 00:01:00.245
+and both the modeling people
+
+23
+00:01:00.305 --> 00:01:01.885
+and the, um, sector strategy people
+
+24
+00:01:01.885 --> 00:01:03.045
+who wrote the Alta Burn this area.
+
+25
+00:01:03.305 --> 00:01:06.565
+And then we have Dan Jenkins, um, who's the data director
+
+26
+00:01:06.565 --> 00:01:08.245
+of data improvement, also has some
+
+27
+00:01:08.245 --> 00:01:09.285
+technical modeling people here.
+
+28
+00:01:09.285 --> 00:01:11.805
+So if you get technical questions about the model,
+
+29
+00:01:11.945 --> 00:01:13.605
+we have some people that can answer those questions now.
+
+30
+00:01:13.675 --> 00:01:15.685
+Cool. Um, and I'll hand over to Paul.
+
+31
+00:01:16.415 --> 00:01:19.675
+Thanks, Ruth. Thank you. Um, for, just bear with me.
+
+32
+00:01:19.735 --> 00:01:22.395
+I'd just like to start with a bit of a, uh, talk about
+
+33
+00:01:22.415 --> 00:01:23.915
+how we've chosen to focus on
+
+34
+00:01:23.915 --> 00:01:25.195
+technology and population change.
+
+35
+00:01:25.215 --> 00:01:26.275
+You know, why, why this?
+
+36
+00:01:26.975 --> 00:01:29.835
+Um, as was said in the Danish Parliament in the 1930s,
+
+37
+00:01:29.835 --> 00:01:32.035
+predictions are hard, particularly about the future.
+
+38
+00:01:33.375 --> 00:01:37.275
+Um, so of approach this, we took some advice from Confucius
+
+39
+00:01:37.295 --> 00:01:39.115
+who said, uh, study the past,
+
+40
+00:01:39.175 --> 00:01:40.275
+if you would define the future.
+
+41
+00:01:41.155 --> 00:01:44.255
+So I'd like to start by going back 30 years, uh, which isn't
+
+42
+00:01:44.255 --> 00:01:46.015
+that long in the life of our transport system.
+
+43
+00:01:46.835 --> 00:01:49.455
+Uh, back then I was at, uh, Burnside High in Christchurch.
+
+44
+00:01:49.595 --> 00:01:51.855
+Uh, and the transport network then down there is
+
+45
+00:01:52.285 --> 00:01:53.335
+very similar to the network.
+
+46
+00:01:53.435 --> 00:01:56.255
+Now. You went down Memorial Ave, uh, to get
+
+47
+00:01:56.255 --> 00:01:57.375
+to the city from the airport.
+
+48
+00:01:57.375 --> 00:02:00.135
+That road's largely unchanged now from what it was then.
+
+49
+00:02:00.555 --> 00:02:02.815
+Uh, and at that point it was 35 years old.
+
+50
+00:02:03.635 --> 00:02:06.695
+Uh, my transport experience then would've been very similar
+
+51
+00:02:06.755 --> 00:02:08.095
+to a teenager on Christchurch.
+
+52
+00:02:08.095 --> 00:02:09.655
+Today. I rode my bike to school.
+
+53
+00:02:09.855 --> 00:02:13.255
+I rode my bike, uh, to work on the weekends through paths
+
+54
+00:02:13.255 --> 00:02:14.655
+and roads that are largely the same.
+
+55
+00:02:15.415 --> 00:02:17.915
+Um, if I go further back the roads, my grandfather road
+
+56
+00:02:18.375 --> 00:02:20.635
+to get to work on the railways pages Road
+
+57
+00:02:20.635 --> 00:02:22.195
+and Ferry road, they're still there.
+
+58
+00:02:22.295 --> 00:02:23.595
+The railway lines are still there.
+
+59
+00:02:24.555 --> 00:02:26.615
+Um, I expect the infrastructure commission will have
+
+60
+00:02:26.615 --> 00:02:28.895
+mentioned this to you when they met with you, that most
+
+61
+00:02:28.895 --> 00:02:31.175
+of our future infrastructure is infrastructure
+
+62
+00:02:31.195 --> 00:02:32.415
+we already have today.
+
+63
+00:02:33.705 --> 00:02:36.085
+And when we look at the big transport infrastructure changes
+
+64
+00:02:36.085 --> 00:02:39.205
+that have happened in Canterbury over the past 30 years,
+
+65
+00:02:39.705 --> 00:02:41.725
+it shows how difficult those predictions are.
+
+66
+00:02:42.225 --> 00:02:45.605
+Uh, and large number of the big investments down there, such
+
+67
+00:02:45.605 --> 00:02:46.925
+as the motorway, up to roller stone,
+
+68
+00:02:46.925 --> 00:02:49.605
+the state highway one realignment to running Cota, they came
+
+69
+00:02:49.625 --> 00:02:52.165
+as a result of earthquakes that no one could have predicted.
+
+70
+00:02:53.345 --> 00:02:55.525
+The regulations that govern activity on the network,
+
+71
+00:02:55.835 --> 00:02:59.525
+they're also very similar, uh, to what they were back then.
+
+72
+00:02:59.525 --> 00:03:02.245
+They've been updated. But in broad form, our regulatory
+
+73
+00:03:02.265 --> 00:03:04.365
+and infrastructure is similar to what it was.
+
+74
+00:03:04.365 --> 00:03:06.845
+Then, however the population's changed,
+
+75
+00:03:07.385 --> 00:03:09.245
+it was 330,000, then.
+
+76
+00:03:09.315 --> 00:03:11.285
+It's now more than 400,000.
+
+77
+00:03:11.785 --> 00:03:13.805
+Uh, Rolleston isn't in that number.
+
+78
+00:03:13.875 --> 00:03:16.445
+They've had 800%, uh,
+
+79
+00:03:16.445 --> 00:03:18.125
+population growth over the same period.
+
+80
+00:03:18.425 --> 00:03:20.565
+And if we look at transport technology back in
+
+81
+00:03:20.765 --> 00:03:22.445
+1995, that's changed a lot.
+
+82
+00:03:23.445 --> 00:03:26.875
+I learned to drive 30 years ago in a dangerous
+
+83
+00:03:26.895 --> 00:03:30.835
+and, uh, very unreliable mini lovely, though it was, um,
+
+84
+00:03:30.935 --> 00:03:33.715
+my father had a mobile radio in his car, uh,
+
+85
+00:03:33.715 --> 00:03:35.595
+where he would get radio calls from a service
+
+86
+00:03:35.665 --> 00:03:37.875
+that picked up your phone when you weren't at home
+
+87
+00:03:38.095 --> 00:03:39.595
+and then radioed them to you.
+
+88
+00:03:40.175 --> 00:03:42.315
+Uh, they've, I think they've gone bankrupt now.
+
+89
+00:03:42.975 --> 00:03:45.635
+Um, my bicycle was steel and clunky, um,
+
+90
+00:03:45.635 --> 00:03:47.475
+and our computer was an old Apple Macintosh
+
+91
+00:03:47.475 --> 00:03:49.235
+that you couldn't do anything with on the network.
+
+92
+00:03:49.745 --> 00:03:52.715
+However, the transport technology we use now was
+
+93
+00:03:52.715 --> 00:03:53.955
+significantly different.
+
+94
+00:03:54.575 --> 00:03:57.155
+Um, cars today are arguably closer
+
+95
+00:03:57.215 --> 00:04:00.155
+to computers than they are to cars of the 1990s.
+
+96
+00:04:00.815 --> 00:04:04.195
+Uh, I've got bikes that have got electronic gearing, uh,
+
+97
+00:04:04.535 --> 00:04:05.595
+radars on them.
+
+98
+00:04:06.055 --> 00:04:07.835
+Uh, some with electric motors.
+
+99
+00:04:07.835 --> 00:04:09.315
+Yesterday I booked flights to Australia
+
+100
+00:04:09.825 --> 00:04:11.915
+with an app on my phone that's thousands
+
+101
+00:04:11.915 --> 00:04:14.835
+of times more powerful than my computer from the 19th.
+
+102
+00:04:15.945 --> 00:04:18.405
+Uh, and when it was in, in Australia last, I paid for all
+
+103
+00:04:18.405 --> 00:04:21.685
+of my transport by tapping my phone on a, on a reader.
+
+104
+00:04:21.905 --> 00:04:23.765
+So that's what we've chosen to focus on in this.
+
+105
+00:04:24.585 --> 00:04:26.205
+If we project out the population
+
+106
+00:04:26.665 --> 00:04:28.045
+and use simulation technology
+
+107
+00:04:28.045 --> 00:04:30.445
+that computing power has just made possible,
+
+108
+00:04:31.565 --> 00:04:33.555
+which we started to use last year,
+
+109
+00:04:33.825 --> 00:04:35.315
+what are the likely future outcomes?
+
+110
+00:04:35.375 --> 00:04:37.875
+And how might new transport technology affect that?
+
+111
+00:04:38.975 --> 00:04:41.755
+So we've got Monty, which is a digital trend of the, uh,
+
+112
+00:04:42.515 --> 00:04:43.755
+national Land Transport Network.
+
+113
+00:04:44.655 --> 00:04:46.355
+We started to use it in 2024.
+
+114
+00:04:46.815 --> 00:04:49.795
+Uh, and it simulates how mil millions of digital people move
+
+115
+00:04:49.795 --> 00:04:52.155
+around, uh, New Zealand over the course of a day.
+
+116
+00:04:52.385 --> 00:04:53.875
+There's no me in the model,
+
+117
+00:04:54.775 --> 00:04:57.675
+but there is an anonymous digital person, 1 0 5 a
+
+118
+00:04:57.695 --> 00:04:59.675
+who lives at my address, um,
+
+119
+00:04:59.675 --> 00:05:01.715
+and goes to work somewhere in the city each day.
+
+120
+00:05:02.455 --> 00:05:05.475
+Uh, moderny assesses the optimal way for that person
+
+121
+00:05:05.475 --> 00:05:07.555
+to travel throughout their city on a,
+
+122
+00:05:07.935 --> 00:05:10.075
+in a given scenario based on the modes
+
+123
+00:05:10.075 --> 00:05:11.075
+and routes available to them.
+
+124
+00:05:11.695 --> 00:05:13.995
+The base cases calibrated to daily traffic
+
+125
+00:05:14.015 --> 00:05:15.475
+and public transport use data
+
+126
+00:05:15.975 --> 00:05:17.915
+to represent travel in New Zealand today.
+
+127
+00:05:18.535 --> 00:05:21.715
+And we use it in this L tip to model two possible scenarios,
+
+128
+00:05:22.275 --> 00:05:25.435
+a 2055 future with population change, uh,
+
+129
+00:05:25.435 --> 00:05:26.995
+and an automated vehicle scenario.
+
+130
+00:05:27.775 --> 00:05:29.875
+So it's not just trying to, uh,
+
+131
+00:05:29.935 --> 00:05:31.715
+get people's mental models about this, right.
+
+132
+00:05:31.815 --> 00:05:32.955
+Mon Monty's not a model
+
+133
+00:05:32.955 --> 00:05:35.475
+where you can just ask it a question like chat GPT,
+
+134
+00:05:35.975 --> 00:05:36.995
+uh, and get an answer.
+
+135
+00:05:37.135 --> 00:05:40.075
+So the, the simulations here took three days
+
+136
+00:05:40.295 --> 00:05:42.275
+for the robo taxii, uh,
+
+137
+00:05:42.325 --> 00:05:46.155
+simulation in Napier at a 10% population level.
+
+138
+00:05:46.615 --> 00:05:49.195
+If, if we'd done it with a hundred percent population in ap,
+
+139
+00:05:49.255 --> 00:05:51.315
+it would've taken three weeks of computing power.
+
+140
+00:05:53.605 --> 00:05:56.305
+So to protect project out to 2055, we had
+
+141
+00:05:56.305 --> 00:05:58.965
+to create a bespoke 2055 population.
+
+142
+00:05:59.015 --> 00:06:01.045
+Stats NZ projections don't go out that far.
+
+143
+00:06:02.525 --> 00:06:05.225
+Uh, and when we run that model in 2055, we find
+
+144
+00:06:05.225 --> 00:06:08.385
+that unsurprisingly, uh, as our population grows,
+
+145
+00:06:08.665 --> 00:06:10.945
+pressure on infrastructure increases, uh,
+
+146
+00:06:10.945 --> 00:06:12.705
+and traffic times increase, that's consistent
+
+147
+00:06:12.705 --> 00:06:14.825
+with experiences in all countries as they grow.
+
+148
+00:06:16.235 --> 00:06:18.735
+Uh, and so what about technology?
+
+149
+00:06:18.805 --> 00:06:21.735
+Will, will autonomous vehicles, uh, save us?
+
+150
+00:06:22.645 --> 00:06:26.375
+Well, in modeling our hypothetical example in Napier?
+
+151
+00:06:27.285 --> 00:06:29.825
+No, we don't think so. Uh, we think the introduction
+
+152
+00:06:29.825 --> 00:06:31.385
+of automated vehicles is highly plausible.
+
+153
+00:06:31.845 --> 00:06:35.705
+Um, 80% of travel in New Zealand Zealanders by car, uh,
+
+154
+00:06:35.705 --> 00:06:38.825
+automated trials of underway in the USA
+
+155
+00:06:38.825 --> 00:06:39.865
+China and the Middle East.
+
+156
+00:06:40.755 --> 00:06:44.215
+Um, but our analysis suggests that replacing private car use
+
+157
+00:06:44.215 --> 00:06:48.375
+with, uh, roboto taxis doesn't alleviate congestion.
+
+158
+00:06:48.475 --> 00:06:49.855
+In fact, it, it makes it worse.
+
+159
+00:06:50.555 --> 00:06:53.855
+Uh, and this one, we find that vehicle kilometers travel
+
+160
+00:06:54.735 --> 00:06:56.815
+actually increased 'cause the robot taxis have to move
+
+161
+00:06:56.815 --> 00:06:58.775
+around without people in them between trips.
+
+162
+00:06:59.645 --> 00:07:01.505
+It seems obvious after having done the analysis,
+
+163
+00:07:01.505 --> 00:07:03.545
+but it wasn't something we'd considered beforehand.
+
+164
+00:07:04.215 --> 00:07:05.425
+It's sort underwhelming. Right.
+
+165
+00:07:06.005 --> 00:07:08.825
+Uh, this tells us the transport system will face a range
+
+166
+00:07:08.825 --> 00:07:10.585
+of pressures over the next 50 years,
+
+167
+00:07:10.585 --> 00:07:11.865
+particularly in Auckland.
+
+168
+00:07:12.525 --> 00:07:13.985
+Uh, we'll need to use a range of tools
+
+169
+00:07:13.985 --> 00:07:17.505
+to address those pressures from new infrastructure like road
+
+170
+00:07:17.505 --> 00:07:20.545
+and rail, uh, public transport services to demand management
+
+171
+00:07:20.805 --> 00:07:23.345
+by the time of use Bill that, uh, you have just considered.
+
+172
+00:07:23.885 --> 00:07:25.745
+As with the treasury's long-term fiscal statement,
+
+173
+00:07:25.765 --> 00:07:27.265
+we don't try and model any particular
+
+174
+00:07:27.285 --> 00:07:29.065
+policy response in the response, though.
+
+175
+00:07:30.615 --> 00:07:32.595
+And with that, I'll welcome any questions.
+
+176
+00:07:33.695 --> 00:07:35.635
+Fa Fascinating personal background there
+
+177
+00:07:35.635 --> 00:07:36.835
+as well. Thank you.
+
+178
+00:07:37.685 --> 00:07:40.035
+Thank you. Uh, Mr. Gee. Yeah, thanks for that.
+
+179
+00:07:40.095 --> 00:07:43.235
+And really, uh, innovative approach to detecting, uh,
+
+180
+00:07:43.425 --> 00:07:45.635
+what might, what might come in the future.
+
+181
+00:07:46.335 --> 00:07:47.795
+Um, you, you,
+
+182
+00:07:48.595 --> 00:07:50.435
+I wanna ask a question about equity and access.
+
+183
+00:07:50.975 --> 00:07:54.955
+Um, you talked about the bespoke nature of projections, um,
+
+184
+00:07:55.065 --> 00:07:56.635
+with, with Monty.
+
+185
+00:07:56.655 --> 00:08:00.835
+Mm-hmm. How do issues like transport equity, access
+
+186
+00:08:01.335 --> 00:08:03.435
+to the transport network by vulnerable groups
+
+187
+00:08:03.735 --> 00:08:06.435
+and the like, how, how does that fit within the,
+
+188
+00:08:06.435 --> 00:08:08.335
+the Monty model?
+
+189
+00:08:08.395 --> 00:08:09.335
+Can you just talk me through
+
+190
+00:08:10.125 --> 00:08:11.255
+that sort of side of things? Sure.
+
+191
+00:08:11.965 --> 00:08:13.175
+Yeah. So the,
+
+192
+00:08:13.405 --> 00:08:16.215
+because we have a synthetic population in the model, um,
+
+193
+00:08:16.365 --> 00:08:17.935
+with the demographic attributes
+
+194
+00:08:17.965 --> 00:08:19.935
+that are representative of New Zealanders.
+
+195
+00:08:20.355 --> 00:08:22.335
+So we c we could bring that sort
+
+196
+00:08:22.335 --> 00:08:26.295
+of wider distribution analysis to understand, uh, access
+
+197
+00:08:26.395 --> 00:08:30.815
+for vulnerable or low income households, um, as well as,
+
+198
+00:08:30.955 --> 00:08:35.335
+as a, as a distribution impact, uh, transport equity, um,
+
+199
+00:08:35.335 --> 00:08:36.855
+across the whole demographic.
+
+200
+00:08:37.355 --> 00:08:39.375
+We just haven't got to that stage yet.
+
+201
+00:08:39.375 --> 00:08:41.935
+We've only been using it for a year in, in Ang.
+
+202
+00:08:41.995 --> 00:08:44.855
+So it's definitely something that's on our, our horizon.
+
+203
+00:08:47.495 --> 00:08:50.755
+And, and likewise for us for sort of considerations like,
+
+204
+00:08:50.855 --> 00:08:52.875
+um, climate resilience changes
+
+205
+00:08:53.495 --> 00:08:55.765
+and the like, which might, you know, in terms
+
+206
+00:08:55.765 --> 00:08:59.445
+of bespoke projections might be a bit more difficult to, um,
+
+207
+00:08:59.445 --> 00:09:01.525
+ascertain what that purely might look like
+
+208
+00:09:01.905 --> 00:09:03.765
+in, in a future period.
+
+209
+00:09:04.425 --> 00:09:06.725
+But that's part of the thinking as well.
+
+210
+00:09:06.825 --> 00:09:09.165
+Or, or is that already sort of built into some parts
+
+211
+00:09:09.185 --> 00:09:10.325
+of, of Monty?
+
+212
+00:09:11.085 --> 00:09:13.805
+Absolutely. No. So we have the ability to sort
+
+213
+00:09:13.805 --> 00:09:15.605
+of consider any future scenario.
+
+214
+00:09:16.105 --> 00:09:19.685
+Um, it's just how, how you craft that scenario, that's the,
+
+215
+00:09:19.705 --> 00:09:20.725
+the hard bit, I suppose.
+
+216
+00:09:21.185 --> 00:09:23.645
+So we could consider a, a future
+
+217
+00:09:24.415 --> 00:09:28.285
+under significant climate change where sea level rise as,
+
+218
+00:09:28.465 --> 00:09:31.565
+um, inundated most of the North island, for example.
+
+219
+00:09:32.305 --> 00:09:36.365
+And we could then, um, reduce access to the network based on
+
+220
+00:09:36.365 --> 00:09:38.325
+that sea level rise if we, if we wish to.
+
+221
+00:09:38.895 --> 00:09:41.525
+Again, it's, it's, it's part of the exploration
+
+222
+00:09:41.525 --> 00:09:43.325
+of sort of future things we can do.
+
+223
+00:09:43.555 --> 00:09:46.685
+Okay. And just one more question is on the role of, um,
+
+224
+00:09:46.915 --> 00:09:49.645
+regions and, and local government obviously have quite a,
+
+225
+00:09:49.885 --> 00:09:52.125
+a key role in terms of the transport network.
+
+226
+00:09:52.585 --> 00:09:56.405
+Um, a lot of that can change at a, at a local level.
+
+227
+00:09:57.025 --> 00:10:00.605
+So any comments on the applicability of, of, I take
+
+228
+00:10:00.605 --> 00:10:04.885
+that your point around, well, the model can flex to sort
+
+229
+00:10:04.885 --> 00:10:06.525
+of run a whole range of different scenarios
+
+230
+00:10:06.525 --> 00:10:09.365
+and what have you, but how is it resilient in the sense
+
+231
+00:10:09.365 --> 00:10:11.965
+of local direction, local decision making,
+
+232
+00:10:12.435 --> 00:10:14.165
+that changing dynamic at a local level?
+
+233
+00:10:15.005 --> 00:10:17.185
+So in terms of the network that we use, um,
+
+234
+00:10:17.185 --> 00:10:19.665
+which would be the like, largest thing that would change,
+
+235
+00:10:19.825 --> 00:10:21.545
+I suppose from a regional perspective?
+
+236
+00:10:22.285 --> 00:10:25.465
+We, um, we're currently using o Open Street map,
+
+237
+00:10:25.465 --> 00:10:30.175
+which is a sort of, uh, a public, uh, accessible network.
+
+238
+00:10:30.835 --> 00:10:34.695
+Uh, but a lot of the local government planning is already in
+
+239
+00:10:34.695 --> 00:10:35.975
+that for future years.
+
+240
+00:10:36.435 --> 00:10:38.815
+Um, so we are draw, we're drawing from that,
+
+241
+00:10:39.195 --> 00:10:42.295
+but obviously we could, um, parti, uh, as you see,
+
+242
+00:10:42.355 --> 00:10:44.495
+as you can see with the the Napier example,
+
+243
+00:10:44.635 --> 00:10:46.655
+we can isolate a particular region
+
+244
+00:10:46.675 --> 00:10:48.215
+and really concentrate on that network.
+
+245
+00:10:48.395 --> 00:10:50.815
+So if a regional council chose
+
+246
+00:10:50.915 --> 00:10:54.815
+to potentially use non future, we could, uh,
+
+247
+00:10:55.205 --> 00:10:56.655
+take their regional casual plan
+
+248
+00:10:56.875 --> 00:10:59.095
+and completely implement it right within the model
+
+249
+00:10:59.115 --> 00:11:01.265
+of futures sort for
+
+250
+00:11:01.265 --> 00:11:02.265
+Next. Okay. Um,
+
+251
+00:11:02.265 --> 00:11:04.505
+I'll check a few questions so we can start just
+
+252
+00:11:04.505 --> 00:11:05.585
+around, around the model.
+
+253
+00:11:05.965 --> 00:11:08.065
+Um, the, the assumptions you've, you've got,
+
+254
+00:11:08.695 --> 00:11:10.705
+that sounds pretty good in terms of how
+
+255
+00:11:11.445 --> 00:11:14.345
+the assumptions about human behavior, et cetera, uh,
+
+256
+00:11:14.485 --> 00:11:15.545
+map to, to reality.
+
+257
+00:11:15.605 --> 00:11:17.065
+Is all this all linked
+
+258
+00:11:17.065 --> 00:11:18.625
+to see nodding at the back there as well?
+
+259
+00:11:18.625 --> 00:11:21.745
+So is this all linked to the diary, um, travel diaries
+
+260
+00:11:21.745 --> 00:11:23.025
+and so on that you, you use as well?
+
+261
+00:11:23.135 --> 00:11:24.145
+Okay, that's pretty good.
+
+262
+00:11:24.335 --> 00:11:28.905
+Your, um, your ability to, um, uh,
+
+263
+00:11:29.035 --> 00:11:31.105
+model a range of different things you told us,
+
+264
+00:11:31.105 --> 00:11:33.105
+that's basically takes three days of computer power
+
+265
+00:11:33.105 --> 00:11:34.745
+to do the, um, the nap P one.
+
+266
+00:11:34.765 --> 00:11:37.745
+Mm-hmm. There's a, any number of different scenarios,
+
+267
+00:11:37.845 --> 00:11:41.065
+but, um, what I'm thinking is the ability to be able to,
+
+268
+00:11:41.065 --> 00:11:43.185
+at the moment you're doing it as a receiver effectively
+
+269
+00:11:43.185 --> 00:11:46.785
+saying, um, we get this, we, we assume this is gonna happen.
+
+270
+00:11:47.215 --> 00:11:49.265
+What does that look like? We assume
+
+271
+00:11:49.265 --> 00:11:50.665
+that's gonna happen, what's that look like?
+
+272
+00:11:51.045 --> 00:11:52.265
+But if you actually say, well, look,
+
+273
+00:11:52.495 --> 00:11:55.845
+what are all the possible scenarios to model those scenarios
+
+274
+00:11:55.845 --> 00:11:57.125
+and say, well, what's actually the best
+
+275
+00:11:57.485 --> 00:11:58.885
+scenario for New Zealand Inc.
+
+276
+00:12:00.135 --> 00:12:04.105
+Is the ability to be able to do that within the model.
+
+277
+00:12:04.245 --> 00:12:05.785
+And, and how much does that take?
+
+278
+00:12:05.865 --> 00:12:08.265
+I mean, you told us that that's computer power three days.
+
+279
+00:12:08.645 --> 00:12:10.545
+If you've got a person sitting there
+
+280
+00:12:10.545 --> 00:12:12.505
+for three days watching the computer, okay, tick,
+
+281
+00:12:12.505 --> 00:12:13.625
+tick, tick, the money's going up.
+
+282
+00:12:13.735 --> 00:12:16.025
+What? But if you haven't, you just said computer go off
+
+283
+00:12:16.025 --> 00:12:17.105
+and do your thing and you come
+
+284
+00:12:17.105 --> 00:12:18.065
+back and say, oh, what has it told
+
+285
+00:12:18.065 --> 00:12:19.625
+me? It's slightly different.
+
+286
+00:12:19.975 --> 00:12:23.225
+Yeah. So, um, I'll have a go and I'll encourage Dan
+
+287
+00:12:23.405 --> 00:12:26.865
+and Jay to, to to, but in if I, uh, misstep, so
+
+288
+00:12:26.865 --> 00:12:28.865
+Anybody else wants to come up to the table who needs
+
+289
+00:12:28.865 --> 00:12:30.025
+to help answer question come up,
+
+290
+00:12:30.215 --> 00:12:31.465
+Ruth, stay there as well. You know,
+
+291
+00:12:31.465 --> 00:12:32.465
+We've got plenty of seats. If
+
+292
+00:12:32.465 --> 00:12:33.865
+we, if we think about the, uh,
+
+293
+00:12:34.245 --> 00:12:38.995
+use the Napier Robo Taxii example, um, if you were
+
+294
+00:12:38.995 --> 00:12:41.355
+to try and optimize that, to eliminate the congestion,
+
+295
+00:12:41.615 --> 00:12:44.835
+so one of the assumptions in there was it was all there
+
+296
+00:12:44.835 --> 00:12:46.475
+were, there were all robax,
+
+297
+00:12:46.525 --> 00:12:48.995
+there was no private car ownership, uh,
+
+298
+00:12:49.455 --> 00:12:52.435
+and a hundred percent of trips were made by Rob taxis,
+
+299
+00:12:52.615 --> 00:12:53.915
+and that the occupancy
+
+300
+00:12:54.055 --> 00:12:56.795
+of those rob taxis was one per person.
+
+301
+00:12:57.735 --> 00:13:00.675
+Um, you could have rerun the model by tweaking some
+
+302
+00:13:00.675 --> 00:13:02.555
+of those things and then seeing what happens.
+
+303
+00:13:02.555 --> 00:13:05.715
+It's not three days. Depends on how long it takes you
+
+304
+00:13:05.715 --> 00:13:06.835
+to redo your, yeah, okay.
+
+305
+00:13:06.855 --> 00:13:08.595
+You can run 'em in parallel. Okay.
+
+306
+00:13:08.855 --> 00:13:11.915
+If you start with a, with a, I think this solution is going
+
+307
+00:13:11.915 --> 00:13:14.475
+to work and you need to do some sensitivity around it,
+
+308
+00:13:14.735 --> 00:13:16.435
+for example, three or four different scenarios,
+
+309
+00:13:16.735 --> 00:13:19.315
+you could run those in three days altogether.
+
+310
+00:13:20.095 --> 00:13:22.195
+It would then just take you three times as long
+
+311
+00:13:22.195 --> 00:13:23.675
+to do the analysis of, of that stuff,
+
+312
+00:13:23.695 --> 00:13:24.875
+or three times the amount of people.
+
+313
+00:13:25.705 --> 00:13:29.785
+Yeah. Um, in terms of the optimization, um, on a,
+
+314
+00:13:29.805 --> 00:13:33.625
+on a network basis, it's quite hard to sort of, uh,
+
+315
+00:13:34.235 --> 00:13:38.105
+understand where to place a road to optimize,
+
+316
+00:13:38.405 --> 00:13:39.625
+uh, everybody's travel.
+
+317
+00:13:40.045 --> 00:13:41.745
+So you're gonna inevitably make trade offs.
+
+318
+00:13:41.965 --> 00:13:46.225
+Um, and some of those may be in a equity space, some
+
+319
+00:13:46.225 --> 00:13:47.585
+of them may be in an access space.
+
+320
+00:13:48.285 --> 00:13:51.545
+Um, so from that perspective, it's hard to give that problem
+
+321
+00:13:51.565 --> 00:13:53.865
+to a computer and say, solve, um,
+
+322
+00:13:54.855 --> 00:13:56.835
+How would say, well, I, I was, I was envisaging the kind
+
+323
+00:13:56.835 --> 00:13:59.595
+of things of saying, Hey, um, for example, freight, okay,
+
+324
+00:14:00.015 --> 00:14:01.675
+we, we've got a lot more trucks.
+
+325
+00:14:01.895 --> 00:14:04.275
+Did we want more, um, transport on rail?
+
+326
+00:14:04.275 --> 00:14:07.035
+What does that look like? What's the lever you've gotta pull
+
+327
+00:14:07.495 --> 00:14:09.595
+to get that outcome of your urban planning?
+
+328
+00:14:09.595 --> 00:14:10.635
+And you said the interface with
+
+329
+00:14:10.635 --> 00:14:11.995
+urban planning needs some work on that.
+
+330
+00:14:12.095 --> 00:14:14.235
+You know, if you, if you let an Auckland or a Hamilton
+
+331
+00:14:14.235 --> 00:14:16.995
+or whatever do this, what does that look like compared
+
+332
+00:14:16.995 --> 00:14:18.795
+to saying, oh, actually we'd rather it does a bit more
+
+333
+00:14:18.795 --> 00:14:21.555
+of this go, what does that look like?
+
+334
+00:14:21.655 --> 00:14:23.835
+So it's the leisures that potentially Yeah.
+
+335
+00:14:24.355 --> 00:14:26.835
+Agencies can pull. And where I was also partly going to to
+
+336
+00:14:26.835 --> 00:14:30.115
+that is at the moment we've got this ministry, ministry
+
+337
+00:14:30.115 --> 00:14:32.675
+of transporting days long by was working on a, uh,
+
+338
+00:14:33.035 --> 00:14:35.635
+transport strategy, um, which was, you know,
+
+339
+00:14:35.635 --> 00:14:37.475
+back in the days of the Clark government.
+
+340
+00:14:37.895 --> 00:14:40.275
+Um, and then we went to the GPS.
+
+341
+00:14:40.275 --> 00:14:42.155
+And the GPS is much more ministerial fear,
+
+342
+00:14:42.165 --> 00:14:44.795
+which means there's a lot more chopping and changing.
+
+343
+00:14:44.985 --> 00:14:46.155
+Yeah. But we've been encouraged
+
+344
+00:14:46.155 --> 00:14:47.435
+to do things which are strategic,
+
+345
+00:14:47.495 --> 00:14:49.075
+longer term, longer lasting.
+
+346
+00:14:49.075 --> 00:14:50.635
+Mm. So if we can have that kind of picture,
+
+347
+00:14:50.635 --> 00:14:53.965
+which is what's the best sort of longer term look, you know,
+
+348
+00:14:53.965 --> 00:14:55.685
+that will fit better with infrastructure, commission's,
+
+349
+00:14:55.685 --> 00:14:58.045
+aspirations as well, what does that look like?
+
+350
+00:14:58.065 --> 00:15:00.725
+So it's that, it's those kind of things I'm looking, looking
+
+351
+00:15:00.745 --> 00:15:02.445
+At in the, in the pack we
+
+352
+00:15:02.605 --> 00:15:04.325
+provided on Monte as a diagram about
+
+353
+00:15:04.545 --> 00:15:06.605
+how we effectively choose options.
+
+354
+00:15:06.625 --> 00:15:10.445
+Mm-hmm. Um, on the right hand side, I think, uh,
+
+355
+00:15:10.825 --> 00:15:13.005
+the best way of describing that would be, you know,
+
+356
+00:15:13.005 --> 00:15:15.125
+we can model a huge range of scenarios
+
+357
+00:15:15.125 --> 00:15:19.485
+and then down select to, I think a good option, um,
+
+358
+00:15:19.665 --> 00:15:22.005
+as opposed to modeling only three
+
+359
+00:15:22.005 --> 00:15:23.085
+or four different scenarios.
+
+360
+00:15:23.325 --> 00:15:26.725
+I think that's where the, the ability that we have, um,
+
+361
+00:15:27.685 --> 00:15:30.005
+provides a, a potentially more rounded answer.
+
+362
+00:15:30.495 --> 00:15:31.845
+Maybe it's still suboptimal.
+
+363
+00:15:31.875 --> 00:15:33.085
+It's very difficult to get to that.
+
+364
+00:15:33.225 --> 00:15:34.685
+And you're getting clo you get closer. You're
+
+365
+00:15:34.685 --> 00:15:35.685
+Getting closer. Yeah. Um,
+
+366
+00:15:35.685 --> 00:15:37.845
+but it's definitely in that, in that stack
+
+367
+00:15:37.845 --> 00:15:41.245
+of scenarios, how do you pick good ones out of that?
+
+368
+00:15:41.625 --> 00:15:43.725
+And you have to make sure that your scenarios in the first
+
+369
+00:15:43.725 --> 00:15:45.325
+place are well designed.
+
+370
+00:15:45.705 --> 00:15:48.645
+And so before give the, the, the, um, speaking to,
+
+371
+00:15:48.945 --> 00:15:51.165
+to tool back to anybody else, is that the sort of thing
+
+372
+00:15:51.165 --> 00:15:53.245
+that you are looking to do as a ministry?
+
+373
+00:15:53.795 --> 00:15:56.125
+Okay, good. I'm, I'm liking that. That's excellent.
+
+374
+00:15:56.125 --> 00:15:58.085
+Thank you. Um, anybody else wanna pick one up?
+
+375
+00:15:58.195 --> 00:16:00.925
+Yeah, Julian, I'm on the list. Okay. No. Okay.
+
+376
+00:16:00.995 --> 00:16:02.245
+Okay, Greg. Alright,
+
+377
+00:16:02.315 --> 00:16:03.315
+Fine. I, um,
+
+378
+00:16:03.315 --> 00:16:06.765
+what New Zealand is a highly urbanized country.
+
+379
+00:16:07.185 --> 00:16:10.525
+Um, I, I remember sitting, my family farm is north
+
+380
+00:16:10.525 --> 00:16:13.485
+of Westport, and my brother who's on the farm was
+
+381
+00:16:13.595 --> 00:16:15.405
+bemoaning the state of the road.
+
+382
+00:16:15.985 --> 00:16:17.885
+And that all the money was going into Auckland.
+
+383
+00:16:17.905 --> 00:16:21.325
+And we sat there and counted vehicles going past the next
+
+384
+00:16:21.355 --> 00:16:23.245
+hour, and there were only about eight,
+
+385
+00:16:23.825 --> 00:16:25.565
+but they were all commercial vehicles.
+
+386
+00:16:25.755 --> 00:16:28.445
+They were milk tankers, coal trucks, various other things.
+
+387
+00:16:29.265 --> 00:16:32.645
+In this model, how do you, um, h
+
+388
+00:16:32.905 --> 00:16:34.445
+how, how do you wait?
+
+389
+00:16:35.305 --> 00:16:37.125
+The fact that for that road
+
+390
+00:16:37.125 --> 00:16:39.845
+and the cost of it, it was absolutely necessary
+
+391
+00:16:40.465 --> 00:16:43.645
+for the milk tankers versus the travel in Auckland.
+
+392
+00:16:43.755 --> 00:16:45.125
+Does the model do that?
+
+393
+00:16:45.625 --> 00:16:47.725
+Put, put value on the journey,
+
+394
+00:16:50.645 --> 00:16:53.465
+put the value for the economy on the journey? Not as such.
+
+395
+00:16:54.165 --> 00:16:56.185
+Um, we, that's a definitely sort
+
+396
+00:16:56.185 --> 00:16:58.225
+of a decision maker led process.
+
+397
+00:16:58.645 --> 00:17:00.065
+The moment we can inform that
+
+398
+00:17:00.165 --> 00:17:02.025
+by saying there's eight milk packs in that
+
+399
+00:17:02.025 --> 00:17:03.065
+Road, well, okay.
+
+400
+00:17:03.065 --> 00:17:07.585
+Does it feed into, so does does want, does the model somehow
+
+401
+00:17:09.125 --> 00:17:11.305
+put any, differentiate the value of a journey,
+
+402
+00:17:11.745 --> 00:17:13.065
+I suppose, I suppose is the question?
+
+403
+00:17:13.535 --> 00:17:15.505
+Well, we can, the value of the journey to the economy,
+
+404
+00:17:17.235 --> 00:17:19.855
+It, it, it can be imputed if, if people are doing,
+
+405
+00:17:19.915 --> 00:17:21.615
+for instance, cost benefit analysis
+
+406
+00:17:21.615 --> 00:17:24.895
+and they want to know how many cars are traveling or trucks
+
+407
+00:17:24.995 --> 00:17:27.135
+or whatever they happen to be on a given road
+
+408
+00:17:27.555 --> 00:17:28.735
+and how long it takes them.
+
+409
+00:17:28.875 --> 00:17:31.655
+And if you change a variable how that journey time changes,
+
+410
+00:17:31.665 --> 00:17:33.175
+Monte can help you do that. Yeah.
+
+411
+00:17:34.025 --> 00:17:37.035
+Because I mean, if it, if that row is out of commission
+
+412
+00:17:37.455 --> 00:17:40.475
+for, is, is there a model you have out of commission
+
+413
+00:17:40.985 --> 00:17:43.315
+what the impact will be, the economic impact
+
+414
+00:17:43.315 --> 00:17:45.155
+of having a road outta commission
+
+415
+00:17:45.155 --> 00:17:46.795
+where there's only one way in and out?
+
+416
+00:17:47.015 --> 00:17:48.675
+Yes. And most of the traffic is
+
+417
+00:17:48.675 --> 00:17:49.685
+Commercial Yeah.
+
+418
+00:17:49.685 --> 00:17:53.645
+Versus a road out in Auckland where there are alternatives.
+
+419
+00:17:54.035 --> 00:17:56.085
+Yeah. So we can absolutely, yeah,
+
+420
+00:17:56.225 --> 00:18:00.365
+you can absolutely turn a link of the network off, so a road
+
+421
+00:18:00.785 --> 00:18:02.965
+and then watch what happens when you rerun it
+
+422
+00:18:03.065 --> 00:18:04.405
+and where the trucks go.
+
+423
+00:18:05.465 --> 00:18:08.245
+Um, so that's, that is some of the things we use it for.
+
+424
+00:18:08.635 --> 00:18:09.885
+Alright. Okay. Thank you.
+
+425
+00:18:10.475 --> 00:18:12.365
+That is a good question because I think Greg's point in
+
+426
+00:18:12.365 --> 00:18:13.805
+that case is there would be no trucks
+
+427
+00:18:13.805 --> 00:18:16.085
+because you wouldn't be able to get there or back.
+
+428
+00:18:16.305 --> 00:18:18.365
+But I think it's a very good point about what's the economic
+
+429
+00:18:18.365 --> 00:18:21.205
+impact of any given road, particularly really they ask,
+
+430
+00:18:21.715 --> 00:18:22.885
+many of them are screaming out for that.
+
+431
+00:18:23.325 --> 00:18:24.685
+Julianne and then Carlos,
+
+432
+00:18:24.815 --> 00:18:25.815
+Thank you so much.
+
+433
+00:18:26.105 --> 00:18:29.005
+Um, thanks for your very clear presentation
+
+434
+00:18:29.065 --> 00:18:30.725
+and stories to illustrate as well.
+
+435
+00:18:30.725 --> 00:18:34.045
+That's really helpful. Um, I actually just had a couple
+
+436
+00:18:34.105 --> 00:18:36.005
+of kind of technical questions initially,
+
+437
+00:18:36.345 --> 00:18:38.645
+and I just, it was, you mentioned that, um,
+
+438
+00:18:38.855 --> 00:18:41.925
+stats New Zealand doesn't have population productions
+
+439
+00:18:42.145 --> 00:18:43.365
+and for 2055,
+
+440
+00:18:44.465 --> 00:18:47.365
+So they do, they don't have a, a, a two those.
+
+441
+00:18:47.765 --> 00:18:49.365
+I see, I see. It's very broad.
+
+442
+00:18:49.415 --> 00:18:50.685
+Sorry, sorry, very, very broad.
+
+443
+00:18:50.795 --> 00:18:52.605
+Just say that again, but bit louder. So,
+
+444
+00:18:52.785 --> 00:18:55.525
+So the Staff New Zealand do produce a whole
+
+445
+00:18:55.525 --> 00:18:57.885
+of nation population projection, I think at
+
+446
+00:18:57.885 --> 00:18:59.125
+to 2070 or something.
+
+447
+00:18:59.545 --> 00:19:01.885
+Um, but they don't produce one acts, uh,
+
+448
+00:19:02.365 --> 00:19:04.165
+a lower spatial resolution. So,
+
+449
+00:19:04.945 --> 00:19:06.725
+So that makes it hard to do transport modeling.
+
+450
+00:19:07.065 --> 00:19:08.525
+It makes it very hard to do transport modeling.
+
+451
+00:19:08.705 --> 00:19:11.165
+Yes. Okay. So it's quite difficult
+
+452
+00:19:11.165 --> 00:19:13.805
+to do transport modeling 30 years in the future.
+
+453
+00:19:14.625 --> 00:19:16.565
+How hard would it be to do transport modeling
+
+454
+00:19:16.735 --> 00:19:17.805
+60 years in the future?
+
+455
+00:19:20.985 --> 00:19:21.985
+Very hard,
+
+456
+00:19:22.985 --> 00:19:24.915
+Extremely hard, Extremely hard
+
+457
+00:19:24.915 --> 00:19:26.835
+to accurately model travel demand
+
+458
+00:19:27.545 --> 00:19:28.915
+more than 30 years in the future.
+
+459
+00:19:29.875 --> 00:19:31.845
+Well, even 30 years in the future, given
+
+460
+00:19:31.845 --> 00:19:33.205
+what we know about the reliability
+
+461
+00:19:33.205 --> 00:19:35.205
+of stats New Zealand's population projections.
+
+462
+00:19:35.345 --> 00:19:38.245
+Yes. Which have consistently tended to undershoot,
+
+463
+00:19:38.585 --> 00:19:39.845
+um, on immigration.
+
+464
+00:19:40.505 --> 00:19:42.765
+So the New Zealand's population,
+
+465
+00:19:42.945 --> 00:19:46.325
+if you look at the actual outturns versus projections over
+
+466
+00:19:46.325 --> 00:19:49.565
+time, says nzs projections have been consistently
+
+467
+00:19:49.565 --> 00:19:51.405
+conservative compared to what's actually happened.
+
+468
+00:19:51.625 --> 00:19:54.325
+Mainly because they're, I think, trying it's migration.
+
+469
+00:19:54.515 --> 00:19:56.925
+They find it d very, very difficult to, uh,
+
+470
+00:19:57.165 --> 00:19:59.125
+forecast migration because that sits
+
+471
+00:19:59.425 --> 00:20:02.875
+as a policy choice rather than a, a variable
+
+472
+00:20:02.875 --> 00:20:03.995
+that's up to them to
+
+473
+00:20:04.535 --> 00:20:07.515
+My favorite topic. You gotta stop Kim.
+
+474
+00:20:07.545 --> 00:20:08.795
+Yeah, we gotta stop on that. Just
+
+475
+00:20:08.815 --> 00:20:11.355
+how does the multimodel like, 'cause it's, it's,
+
+476
+00:20:12.015 --> 00:20:14.515
+and it's also trying to work on where the dispersal
+
+477
+00:20:14.515 --> 00:20:16.355
+of people demographics go.
+
+478
+00:20:16.415 --> 00:20:18.875
+So, you know, to the point about Yeah, that's fine.
+
+479
+00:20:19.225 --> 00:20:21.555
+Inability. Well, the difficulty modeling out,
+
+480
+00:20:21.975 --> 00:20:24.595
+how do you take into account the feedback of
+
+481
+00:20:24.665 --> 00:20:26.915
+what the model projects making choices,
+
+482
+00:20:27.305 --> 00:20:29.075
+like say more investment
+
+483
+00:20:29.075 --> 00:20:33.795
+because Auckland's projected to, um, grow from immigration.
+
+484
+00:20:34.015 --> 00:20:37.075
+So investment goes there, which is sort of self-fulfilling.
+
+485
+00:20:37.215 --> 00:20:40.755
+And then West coast commercial roads don't get the invest.
+
+486
+00:20:40.895 --> 00:20:43.875
+How do you avoid the self-fulfilling feedback loops
+
+487
+00:20:45.235 --> 00:20:47.605
+Talking about land use not Being, yeah.
+
+488
+00:20:48.225 --> 00:20:50.205
+Um, so you're right.
+
+489
+00:20:50.225 --> 00:20:52.485
+We don't consider land use at the moment in
+
+490
+00:20:52.485 --> 00:20:53.565
+our, in our model.
+
+491
+00:20:54.305 --> 00:20:58.455
+Um, we, we do consider the impact
+
+492
+00:20:58.675 --> 00:21:00.575
+of an intervention.
+
+493
+00:21:00.955 --> 00:21:02.175
+So if we were to say
+
+494
+00:21:02.175 --> 00:21:05.655
+that the roads on the west coast were degraded to the point
+
+495
+00:21:05.735 --> 00:21:07.815
+where you can't use them anymore, um,
+
+496
+00:21:08.235 --> 00:21:10.615
+the model has the ability to understand
+
+497
+00:21:10.645 --> 00:21:14.335
+what the local population would do in those cases now.
+
+498
+00:21:14.335 --> 00:21:16.495
+And then from an economic perspective, you could back
+
+499
+00:21:16.495 --> 00:21:18.895
+that into some economic analysis, which said, you know,
+
+500
+00:21:18.895 --> 00:21:22.135
+and this is the drain on the country from not having
+
+501
+00:21:22.135 --> 00:21:23.295
+that access to that road.
+
+502
+00:21:24.275 --> 00:21:26.175
+Um, what the differential
+
+503
+00:21:26.175 --> 00:21:28.535
+between investment in one place versus investment
+
+504
+00:21:28.595 --> 00:21:30.335
+and another, another place from a pure
+
+505
+00:21:30.735 --> 00:21:32.255
+transport model perspective.
+
+506
+00:21:32.955 --> 00:21:34.255
+Um, it doesn't take
+
+507
+00:21:34.255 --> 00:21:37.055
+That into No, I get, I under, I understand that it goes,
+
+508
+00:21:37.125 --> 00:21:39.695
+that it doesn't make the political decision about where
+
+509
+00:21:39.695 --> 00:21:42.255
+to invest and what sort of country to, to design.
+
+510
+00:21:42.315 --> 00:21:45.255
+But it that, I mean, um, you know, using the model
+
+511
+00:21:45.315 --> 00:21:47.855
+to Auckland's incredibly important of course,
+
+512
+00:21:48.145 --> 00:21:51.255
+using the model to model Auckland every single time,
+
+513
+00:21:51.675 --> 00:21:54.215
+you know, so what is it a third of the population that sort
+
+514
+00:21:54.215 --> 00:21:57.935
+of pulls Grant Robax example from Napier
+
+515
+00:21:57.935 --> 00:22:00.895
+and your great soliloquy at the start was doable, all
+
+516
+00:22:00.895 --> 00:22:05.095
+of us about, um, Christchurch, um, it's like if, if we,
+
+517
+00:22:05.155 --> 00:22:08.415
+if the model is modeling places to grow
+
+518
+00:22:08.555 --> 00:22:11.895
+and then figuring out how to make it grow, does that, how,
+
+519
+00:22:12.035 --> 00:22:15.535
+how, how are you building into your ability
+
+520
+00:22:15.535 --> 00:22:19.735
+to use this system a like a
+
+521
+00:22:20.695 --> 00:22:22.295
+blinding effect on your,
+
+522
+00:22:22.555 --> 00:22:24.415
+on the ministry of Transport itself?
+
+523
+00:22:24.675 --> 00:22:28.255
+How, you know, if you're constantly modeling Auckland, so
+
+524
+00:22:28.355 --> 00:22:29.975
+how are we gonna improve Auckland's transport?
+
+525
+00:22:30.065 --> 00:22:31.895
+We're gonna invest in Auckland for modeling in Auckland.
+
+526
+00:22:31.955 --> 00:22:33.335
+We design, everyone's talking about that.
+
+527
+00:22:33.395 --> 00:22:37.495
+How do you drag the eye and look at another part? Okay,
+
+528
+00:22:37.595 --> 00:22:40.055
+So, so one of the good things about the model is
+
+529
+00:22:40.055 --> 00:22:43.335
+because it is nation nationwide, when you do a run,
+
+530
+00:22:43.435 --> 00:22:47.655
+if you do a, a change in Auckland, it actually says, well
+
+531
+00:22:47.655 --> 00:22:49.095
+what, what does that have in terms
+
+532
+00:22:49.095 --> 00:22:50.775
+of a flow on effect for the whole country?
+
+533
+00:22:51.605 --> 00:22:53.215
+Because those, those freight journeys
+
+534
+00:22:53.215 --> 00:22:55.295
+that start in Auckland, they end somewhere often
+
+535
+00:22:55.295 --> 00:22:56.335
+outside of Auckland.
+
+536
+00:22:56.475 --> 00:22:57.855
+So you make changes in Auckland
+
+537
+00:22:57.855 --> 00:22:59.895
+and actually does flow through the, the whole country
+
+538
+00:23:00.155 --> 00:23:02.175
+Finals. Just, yeah,
+
+539
+00:23:02.775 --> 00:23:04.175
+I think it's actually quite a good, I mean it's a good
+
+540
+00:23:04.225 --> 00:23:05.655
+reflection for us as, as well
+
+541
+00:23:05.655 --> 00:23:07.055
+to think about if we look back a year
+
+542
+00:23:07.315 --> 00:23:09.895
+and I guess we've had it been running for a year in a couple
+
+543
+00:23:09.895 --> 00:23:11.775
+of years, if we look back and see what we've modeled
+
+544
+00:23:11.775 --> 00:23:12.655
+and what we haven't, it's
+
+545
+00:23:12.735 --> 00:23:13.615
+probably a good check for us to think.
+
+546
+00:23:13.635 --> 00:23:15.935
+Are there things, questions not asking Monty
+
+547
+00:23:15.935 --> 00:23:18.055
+that we should be asking Monty that would pick up?
+
+548
+00:23:18.715 --> 00:23:20.415
+Are we not looking at areas of the country we should be,
+
+549
+00:23:20.775 --> 00:23:21.775
+I guess? Yeah, well I guess
+
+550
+00:23:21.775 --> 00:23:23.935
+there's a quick, like if, if they, um,
+
+551
+00:23:24.515 --> 00:23:28.255
+you know, Taiwan grows, um, based on people wanting
+
+552
+00:23:28.255 --> 00:23:30.015
+to get out of Auckland because of bad traffic
+
+553
+00:23:30.035 --> 00:23:31.775
+and all of a sudden the traffic's improved in Auckland
+
+554
+00:23:31.795 --> 00:23:35.415
+and um, say even though your projection say it's gonna get
+
+555
+00:23:35.415 --> 00:23:38.815
+slower and, um, and on both time and speed
+
+556
+00:23:39.395 --> 00:23:41.175
+and people then go to toga and,
+
+557
+00:23:41.195 --> 00:23:43.455
+and then it's like, well, did you mo Yeah, I guess
+
+558
+00:23:43.455 --> 00:23:44.695
+what you've said describes the whole
+
+559
+00:23:44.695 --> 00:23:45.695
+Country. I'm just
+
+560
+00:23:45.695 --> 00:23:46.565
+worried about some feedback,
+
+561
+00:23:46.565 --> 00:23:47.565
+Luke. Yeah,
+
+562
+00:23:47.565 --> 00:23:47.805
+
+563
+00:23:48.465 --> 00:23:49.465
+It is. I guess it is a related
+
+564
+00:23:49.465 --> 00:23:50.045
+question. Okay.
+
+565
+00:23:50.835 --> 00:23:53.485
+Yeah, I mean, you've said obviously you're trying not
+
+566
+00:23:53.485 --> 00:23:56.525
+to take into account any policy decisions
+
+567
+00:23:56.525 --> 00:23:57.565
+and just see what things are,
+
+568
+00:23:57.705 --> 00:24:02.005
+but like, could the model be used to see what the impacts
+
+569
+00:24:02.065 --> 00:24:05.805
+of EKTR on of different investment choices?
+
+570
+00:24:06.305 --> 00:24:10.365
+Yes. And that might be useful if EKT is like a proxy for
+
+571
+00:24:11.035 --> 00:24:13.645
+cost congestion, emissions, et cetera.
+
+572
+00:24:13.905 --> 00:24:14.905
+Yes,
+
+573
+00:24:16.405 --> 00:24:18.345
+Carlos, Think to chair, well,
+
+574
+00:24:18.365 --> 00:24:21.065
+my question is your model should be based on
+
+575
+00:24:21.485 --> 00:24:24.705
+how the city being, um, the future planning.
+
+576
+00:24:25.125 --> 00:24:28.025
+Am I correct? So are we based on the current way
+
+577
+00:24:28.025 --> 00:24:29.065
+of planning our city
+
+578
+00:24:29.645 --> 00:24:31.985
+or we based on, there's some factors there.
+
+579
+00:24:31.985 --> 00:24:35.145
+Like for example, in Auckland, if we got another, uh,
+
+580
+00:24:35.345 --> 00:24:37.225
+I I can see there's a huge increase in
+
+581
+00:24:37.225 --> 00:24:38.585
+population in 20 years time.
+
+582
+00:24:39.005 --> 00:24:40.305
+Are we good city planning?
+
+583
+00:24:40.775 --> 00:24:44.545
+Like, you know, wider the city or they going to build up?
+
+584
+00:24:45.225 --> 00:24:47.425
+I mean that, that affect the whole different model.
+
+585
+00:24:47.565 --> 00:24:50.745
+So, um, so what, what are you guys based on at the moment?
+
+586
+00:24:52.045 --> 00:24:54.505
+So at the moment it's based on the land transport
+
+587
+00:24:54.505 --> 00:24:55.905
+network as it currently exists.
+
+588
+00:24:56.045 --> 00:24:58.585
+We haven't yet built in a module that allow
+
+589
+00:24:58.585 --> 00:25:03.145
+that changes land use that would lead to changes in the,
+
+590
+00:25:03.245 --> 00:25:04.385
+in the shape of the city.
+
+591
+00:25:04.645 --> 00:25:06.585
+Uh, that's a development area that we're looking to
+
+592
+00:25:06.585 --> 00:25:07.585
+Develop. So you didn't
+
+593
+00:25:07.585 --> 00:25:10.225
+actually refer to the past 10 years how,
+
+594
+00:25:10.325 --> 00:25:12.665
+for example, Auckland, how much, you know,
+
+595
+00:25:12.685 --> 00:25:14.025
+new area being developed.
+
+596
+00:25:14.025 --> 00:25:16.385
+You didn't put that into the consideration, am I correct?
+
+597
+00:25:17.715 --> 00:25:21.285
+Because for example, I saying 10 years ago, fab Bush
+
+598
+00:25:21.385 --> 00:25:22.485
+as a, as a farmland.
+
+599
+00:25:22.485 --> 00:25:25.565
+Yeah. Now, 10 years later on whole FB Bush is
+
+600
+00:25:25.585 --> 00:25:26.725
+for residential area.
+
+601
+00:25:27.265 --> 00:25:30.085
+Do that take, did this model, taking this into account
+
+602
+00:25:30.745 --> 00:25:33.085
+how the city will be developed in 10 years time?
+
+603
+00:25:33.305 --> 00:25:36.525
+So the, the base simulation, um,
+
+604
+00:25:37.275 --> 00:25:40.085
+that we compare everything to in 2055
+
+605
+00:25:40.625 --> 00:25:45.565
+is predicated on 2023 network, uh, 2023,
+
+606
+00:25:45.985 --> 00:25:47.045
+uh, population.
+
+607
+00:25:47.505 --> 00:25:49.365
+So it would've taken into account
+
+608
+00:25:49.425 --> 00:25:50.805
+the previous 10 years worth of
+
+609
+00:25:51.265 --> 00:25:54.365
+So what, so what I'm saying is the more dose is only based
+
+610
+00:25:54.365 --> 00:25:55.885
+on the current city painting.
+
+611
+00:25:56.385 --> 00:25:58.605
+So assume that there's no new software
+
+612
+00:25:58.625 --> 00:26:02.315
+or new areas being developed in Auckland. Am I correct?
+
+613
+00:26:02.945 --> 00:26:04.035
+It's a comparative model.
+
+614
+00:26:04.095 --> 00:26:06.275
+So the, the future scenario, you're correct.
+
+615
+00:26:06.455 --> 00:26:08.155
+In the, the 2055 scenario,
+
+616
+00:26:08.215 --> 00:26:11.995
+we considered didn't necessarily consider any potential
+
+617
+00:26:11.995 --> 00:26:15.195
+future plan change to Auckland, um,
+
+618
+00:26:15.275 --> 00:26:16.635
+other than a population growth.
+
+619
+00:26:17.465 --> 00:26:21.165
+Um, and that's to a certain extent reflected in the, in the,
+
+620
+00:26:21.345 --> 00:26:23.045
+uh, the answers the model gave around
+
+621
+00:26:23.565 --> 00:26:25.805
+reductions in travel time, I'm sorry, increases.
+
+622
+00:26:26.025 --> 00:26:28.645
+So that, that model will not be inaccurate.
+
+623
+00:26:29.385 --> 00:26:31.525
+Um, p that was happening in 10 years time
+
+624
+00:26:31.525 --> 00:26:33.525
+because just look at our past 10 years,
+
+625
+00:26:33.625 --> 00:26:36.325
+the city size in Auckland is growing dramatically
+
+626
+00:26:37.025 --> 00:26:39.325
+and there's a lot of LiveOps being created as well.
+
+627
+00:26:39.745 --> 00:26:42.045
+But you're telling me that your model didn't put
+
+628
+00:26:42.045 --> 00:26:43.845
+that into a consideration with,
+
+629
+00:26:44.315 --> 00:26:47.005
+with more new softwares being created, you know,
+
+630
+00:26:47.005 --> 00:26:49.405
+outside the, the city central because
+
+631
+00:26:49.405 --> 00:26:51.045
+otherwise they will actually increase.
+
+632
+00:26:51.045 --> 00:26:55.285
+There's a lot of, you know, um, uh, traveling time as well.
+
+633
+00:26:55.635 --> 00:26:58.645
+Like for example, 10 years ago, not a lot
+
+634
+00:26:58.645 --> 00:27:01.165
+of people live in Tarini, so they don't need
+
+635
+00:27:01.285 --> 00:27:02.845
+to travel pack, need to see the center.
+
+636
+00:27:03.545 --> 00:27:04.845
+But if you don't put
+
+637
+00:27:04.845 --> 00:27:08.165
+that into consideration into your model, how can you equity
+
+638
+00:27:08.475 --> 00:27:11.405
+that the, the travel income in 20 years time?
+
+639
+00:27:11.825 --> 00:27:12.885
+So if we, if we were
+
+640
+00:27:12.885 --> 00:27:14.965
+to create a credible 20 year scenario,
+
+641
+00:27:15.165 --> 00:27:18.965
+I think we could take the bulk of the land transport plan
+
+642
+00:27:19.105 --> 00:27:22.725
+for Auckland and whatever, whatever urban design they have,
+
+643
+00:27:23.665 --> 00:27:25.205
+uh, that is currently available.
+
+644
+00:27:25.345 --> 00:27:27.845
+And we could implement that as a, as a potential scenario.
+
+645
+00:27:28.385 --> 00:27:31.805
+Um, in this case we were looking at a 2055 national
+
+646
+00:27:32.045 --> 00:27:35.085
+scenario, and at that point it was very difficult for us
+
+647
+00:27:35.085 --> 00:27:38.885
+to consider all network changes, um, on the same basis.
+
+648
+00:27:39.385 --> 00:27:41.765
+So we, we chose not to do any thought,
+
+649
+00:27:41.765 --> 00:27:43.605
+Because for my, my questions more like,
+
+650
+00:27:43.605 --> 00:27:46.125
+because we know that if the, if the city grow tall
+
+651
+00:27:46.345 --> 00:27:47.765
+or go by size Yep.
+
+652
+00:27:47.875 --> 00:27:49.525
+They will be very different in
+
+653
+00:27:49.525 --> 00:27:50.805
+traveling council. Absolutely. That's right.
+
+654
+00:27:51.385 --> 00:27:52.685
+And I, I think that's, that's, that's
+
+655
+00:27:52.685 --> 00:27:53.885
+where I was going at the beginning with
+
+656
+00:27:53.885 --> 00:27:55.685
+that question about the urban form.
+
+657
+00:27:56.065 --> 00:28:00.365
+So in terms of the, the Auckland City plan, um, that allows
+
+658
+00:28:00.385 --> 00:28:02.965
+for both this and that, and the question's gotta be,
+
+659
+00:28:02.965 --> 00:28:04.765
+and it'll be way over the capacity, which will happen
+
+660
+00:28:04.765 --> 00:28:07.125
+with whatever the growth, um, amount is.
+
+661
+00:28:07.345 --> 00:28:10.165
+The question's gonna be what's the balance of the, the,
+
+662
+00:28:10.165 --> 00:28:12.525
+the densification versus the, the green fields.
+
+663
+00:28:13.185 --> 00:28:16.325
+And, and actually in modeling that, if you can do that kind
+
+664
+00:28:16.325 --> 00:28:18.045
+of thing, you could then say, well, here are the transport
+
+665
+00:28:18.245 --> 00:28:20.165
+outcomes, which one actually works better.
+
+666
+00:28:20.515 --> 00:28:21.725
+Yeah. So the,
+
+667
+00:28:22.185 --> 00:28:24.485
+we could certainly model those two different scenarios,
+
+668
+00:28:24.505 --> 00:28:26.685
+but trying to pick a central one at
+
+669
+00:28:26.985 --> 00:28:29.765
+how it will actually play out pretty fraught if you think
+
+670
+00:28:29.765 --> 00:28:32.605
+about the way in which the a can plan processes
+
+671
+00:28:33.115 --> 00:28:35.605
+role politically where it was doing this
+
+672
+00:28:35.605 --> 00:28:37.165
+and then it was doing this and then it was doing this.
+
+673
+00:28:37.165 --> 00:28:38.205
+Yeah, no, I understand. It was doing this.
+
+674
+00:28:38.545 --> 00:28:39.565
+So it just becomes quite
+
+675
+00:28:39.565 --> 00:28:40.565
+Difficult. I think my question really
+
+676
+00:28:40.565 --> 00:28:42.285
+is, if you said, okay,
+
+677
+00:28:42.285 --> 00:28:45.565
+we know we've got, we expect XX people on the basis
+
+678
+00:28:45.585 --> 00:28:46.725
+of a long-term
+
+679
+00:28:46.725 --> 00:28:48.485
+immigration strategy, which we don't actually have.
+
+680
+00:28:48.905 --> 00:28:50.445
+So that makes life very difficult.
+
+681
+00:28:50.665 --> 00:28:52.405
+One day we, one day we'll grow up and do it.
+
+682
+00:28:52.785 --> 00:28:54.005
+Um, I've got one quick question.
+
+683
+00:28:54.065 --> 00:28:55.205
+Uh, yeah, no, I I but,
+
+684
+00:28:55.265 --> 00:28:56.445
+but if you were to say, okay,
+
+685
+00:28:56.445 --> 00:28:58.765
+so we expect 300,000 extra people
+
+686
+00:28:59.265 --> 00:29:01.685
+and the plan allows for 3 million extra people
+
+687
+00:29:02.185 --> 00:29:03.965
+or 2 million extra people, I believe it's whatever.
+
+688
+00:29:04.145 --> 00:29:06.565
+Um, and you said that, okay, there's 300,000 people are all,
+
+689
+00:29:07.065 --> 00:29:10.005
+you know, dense corridors on PT routes and et cetera.
+
+690
+00:29:10.155 --> 00:29:11.205
+What does that look like?
+
+691
+00:29:11.625 --> 00:29:14.605
+And 300,000 people in Greenfield, what does that look like?
+
+692
+00:29:15.025 --> 00:29:17.365
+And here, Auckland Council, here in New Zealand government,
+
+693
+00:29:17.715 --> 00:29:19.005
+that is the implication of that.
+
+694
+00:29:19.345 --> 00:29:21.525
+You might wanna think about what your choices would be.
+
+695
+00:29:21.835 --> 00:29:23.645
+That would be a really powerful and useful tool.
+
+696
+00:29:24.345 --> 00:29:25.605
+Are you talking Auckland? Yeah.
+
+697
+00:29:25.785 --> 00:29:28.525
+So we're, we're we're collaborating with Auckland Council on
+
+698
+00:29:28.525 --> 00:29:30.285
+that land use model development.
+
+699
+00:29:30.305 --> 00:29:33.645
+Yes. So in effect, we'd, we'd have a, a wrapper
+
+700
+00:29:33.645 --> 00:29:36.765
+around Monty, which would provide that land use variation.
+
+701
+00:29:36.825 --> 00:29:39.605
+We can then model the transport outcomes based on their
+
+702
+00:29:39.885 --> 00:29:43.845
+scenarios, feed that back into, um, their modeling.
+
+703
+00:29:44.185 --> 00:29:46.725
+So you, you could then get closer to, uh,
+
+704
+00:29:47.705 --> 00:29:49.445
+an optimized picture of urban design.
+
+705
+00:29:49.755 --> 00:29:52.445
+That would be very powerful, very useful. Anywhere.
+
+706
+00:29:52.675 --> 00:29:55.685
+It's very early days, but yeah. Yep. Um, you
+
+707
+00:29:55.835 --> 00:29:57.005
+Okay, Carlos? Yep. Yes.
+
+708
+00:29:57.065 --> 00:29:58.965
+I'm quite interesting. One of your data as well,
+
+709
+00:29:59.425 --> 00:30:02.285
+you modeling only 10% of people went to work?
+
+710
+00:30:03.835 --> 00:30:06.695
+No, we're, we're modeling a 10% sample of the population.
+
+711
+00:30:06.875 --> 00:30:11.755
+Yes. Uh, which would represent 10%
+
+712
+00:30:11.755 --> 00:30:16.155
+of the people doing 10% of the, of all activities.
+
+713
+00:30:16.295 --> 00:30:19.995
+So just like 10% of my time is going
+
+714
+00:30:20.175 --> 00:30:21.435
+to work. Is that what you mean?
+
+715
+00:30:22.265 --> 00:30:23.265
+No, It's, it's,
+
+716
+00:30:23.615 --> 00:30:24.965
+Think Of it like a polling sample.
+
+717
+00:30:25.015 --> 00:30:28.125
+We're using a 10% sample to get a representative picture of
+
+718
+00:30:28.125 --> 00:30:31.405
+what might happen just simply to save on computing power.
+
+719
+00:30:31.745 --> 00:30:34.645
+But this, what is the effect to the real life? Only 10%.
+
+720
+00:30:35.395 --> 00:30:39.705
+Jade, Uh, Jade McKay, chief Transport modeler,
+
+721
+00:30:40.205 --> 00:30:43.505
+uh, what we're actually doing is that, uh, we are
+
+722
+00:30:44.215 --> 00:30:47.065
+ning the resolution of the simulation such
+
+723
+00:30:47.065 --> 00:30:49.785
+that each agent represents 10 people.
+
+724
+00:30:50.045 --> 00:30:52.825
+And that's what we mean by a 10% sub sampling.
+
+725
+00:30:53.815 --> 00:30:56.345
+Okay, Thank you. So the full population is represented.
+
+726
+00:30:56.815 --> 00:31:00.225
+It's just the resolution of the simulation,
+
+727
+00:31:00.315 --> 00:31:03.545
+which is very highly resolved in that international context.
+
+728
+00:31:04.125 --> 00:31:07.425
+Um, for this kind of model, for any kind of model, um,
+
+729
+00:31:07.525 --> 00:31:09.825
+has the, each agent has the weight of 10 people,
+
+730
+00:31:10.585 --> 00:31:12.445
+But when they say when to work, is
+
+731
+00:31:12.445 --> 00:31:16.245
+that also including those ethnicities during work as well?
+
+732
+00:31:17.045 --> 00:31:18.315
+Thank you. Yeah, sure.
+
+733
+00:31:19.535 --> 00:31:21.735
+I make the observation that political polls are done about
+
+734
+00:31:21.735 --> 00:31:23.175
+two 10000th, I think it is.
+
+735
+00:31:23.375 --> 00:31:26.655
+Hmm. So, um, 10 percent's a pretty big number ca um, cam,
+
+736
+00:31:26.915 --> 00:31:28.895
+Um, yeah, it flies on a little bit from that actually.
+
+737
+00:31:29.015 --> 00:31:31.535
+'cause trying to try to model universe, you'd have
+
+738
+00:31:31.535 --> 00:31:32.615
+to rebuild the universe.
+
+739
+00:31:32.795 --> 00:31:36.495
+So you've done one big course in samples down to 10%,
+
+740
+00:31:36.765 --> 00:31:38.695
+another one, this is super, you know,
+
+741
+00:31:38.715 --> 00:31:41.775
+and all the factors that play in like, you know, um,
+
+742
+00:31:42.125 --> 00:31:45.935
+illnesses, uh, I know education, but also weather.
+
+743
+00:31:46.475 --> 00:31:48.335
+And then this one that I'm just reading through,
+
+744
+00:31:48.655 --> 00:31:49.855
+I think sparked my interest.
+
+745
+00:31:50.195 --> 00:31:51.615
+Um, Monte dollars.
+
+746
+00:31:52.195 --> 00:31:55.215
+Can you explain how a multi dollar
+
+747
+00:31:56.135 --> 00:31:58.015
+operates on the, on the simulation?
+
+748
+00:31:59.065 --> 00:32:02.325
+So it's just a, effectively, we have parameters
+
+749
+00:32:02.325 --> 00:32:04.205
+that represent costs in the real world.
+
+750
+00:32:04.415 --> 00:32:06.645
+Uhhuh, uh, cost for car travel, for example,
+
+751
+00:32:06.655 --> 00:32:08.125
+would be road user charges
+
+752
+00:32:08.305 --> 00:32:11.965
+or fuel excise dt, um, cost for public transport fairs.
+
+753
+00:32:12.425 --> 00:32:16.005
+Um, the, the dollar conversion factor, if that's
+
+754
+00:32:16.005 --> 00:32:19.805
+what you consider to Monte dollars, uh, is, uh,
+
+755
+00:32:20.145 --> 00:32:21.565
+not quite a one-to-one to
+
+756
+00:32:22.145 --> 00:32:23.365
+New Zealand dollar, New Zealand dollar.
+
+757
+00:32:23.395 --> 00:32:25.685
+Yeah. So when we're modeling a toll rate, for example,
+
+758
+00:32:26.145 --> 00:32:28.725
+we need to understand what the toll impact is.
+
+759
+00:32:29.505 --> 00:32:32.565
+Um, uh, a Monte dollar does not equate to the,
+
+760
+00:32:32.585 --> 00:32:34.205
+the actual dollar value of the toll
+
+761
+00:32:34.205 --> 00:32:36.365
+That you're, so how does the cost
+
+762
+00:32:36.865 --> 00:32:40.205
+of not using the toll road get accounted for?
+
+763
+00:32:40.585 --> 00:32:43.725
+So, or not using the, um, travel time
+
+764
+00:32:43.905 --> 00:32:45.605
+or waiting for a bus,
+
+765
+00:32:45.745 --> 00:32:47.165
+or like how do you, things
+
+766
+00:32:47.165 --> 00:32:49.645
+that don't have a current dollar value, um,
+
+767
+00:32:49.665 --> 00:32:53.245
+say using a car park that's part of the tar seal network,
+
+768
+00:32:53.315 --> 00:32:55.085
+like how do those things get accounted for?
+
+769
+00:32:55.145 --> 00:32:59.045
+Mm-hmm. Uh, so those kinds of things, uh,
+
+770
+00:32:59.925 --> 00:33:02.055
+basically people's behavior.
+
+771
+00:33:02.275 --> 00:33:06.015
+So that, that's the problem of, um, of kind of transporting
+
+772
+00:33:06.895 --> 00:33:08.895
+behavior in the real world into the simulation.
+
+773
+00:33:09.235 --> 00:33:10.495
+And this is the, and,
+
+774
+00:33:10.515 --> 00:33:13.975
+and this is the challenge of calibration.
+
+775
+00:33:14.435 --> 00:33:18.455
+So when we calibrate the parameters that correspond to, uh,
+
+776
+00:33:18.475 --> 00:33:20.535
+the dissatisfaction with waiting for a bus,
+
+777
+00:33:20.675 --> 00:33:23.015
+the dissatisfaction with driving the satisfaction
+
+778
+00:33:23.015 --> 00:33:26.095
+of performing some activity, we calibrate those, uh,
+
+779
+00:33:26.245 --> 00:33:29.895
+parameter, those model parameters to meet observation,
+
+780
+00:33:31.185 --> 00:33:32.645
+uh, we can then do further.
+
+781
+00:33:33.465 --> 00:33:36.045
+And included in that, included in that is, um,
+
+782
+00:33:36.385 --> 00:33:38.325
+is the dissatisfaction
+
+783
+00:33:38.325 --> 00:33:41.005
+for paying a toll on New Zealand's existing toll road. It's
+
+784
+00:33:41.085 --> 00:33:42.085
+Interesting. So you're equating the,
+
+785
+00:33:42.085 --> 00:33:43.205
+the Monte dollars
+
+786
+00:33:43.225 --> 00:33:44.405
+of satisfaction measure.
+
+787
+00:33:44.545 --> 00:33:47.685
+Are you polling people at a bus stop? Are you going Right.
+
+788
+00:33:47.865 --> 00:33:50.565
+10 people using this car park get this much satisfaction,
+
+789
+00:33:50.565 --> 00:33:52.645
+but one person using the cycle road?
+
+790
+00:33:52.645 --> 00:33:54.565
+Because with the cycle lane
+
+791
+00:33:54.705 --> 00:33:56.445
+In general, not polling people in
+
+792
+00:33:56.445 --> 00:33:57.485
+general observing people.
+
+793
+00:33:58.225 --> 00:34:00.885
+So it is all based on observations. Oh.
+
+794
+00:34:00.955 --> 00:34:04.725
+It's more based on observations than, uh, people's polling.
+
+795
+00:34:04.915 --> 00:34:07.565
+Okay. So ask this, this question then.
+
+796
+00:34:07.565 --> 00:34:12.445
+So if, if, um, a business has got four car parks in front
+
+797
+00:34:12.525 --> 00:34:14.725
+of it and then a cycle lane's put in
+
+798
+00:34:14.825 --> 00:34:16.485
+and those, how, how do you measure,
+
+799
+00:34:16.625 --> 00:34:18.525
+how do you observe the value for the business owner,
+
+800
+00:34:19.025 --> 00:34:21.965
+the people who then get to drive the car and park, or the
+
+801
+00:34:21.965 --> 00:34:25.805
+however many people might use that cycle lane, um, over
+
+802
+00:34:25.805 --> 00:34:28.325
+that time, whether it's one person an hour or 20.
+
+803
+00:34:28.555 --> 00:34:31.735
+Like how do you, how do you make that,
+
+804
+00:34:32.675 --> 00:34:35.995
+I mean, at the end of the day, it's a transport model,
+
+805
+00:34:36.215 --> 00:34:40.515
+so it's not gonna consider business owners, um, wellbeing.
+
+806
+00:34:41.355 --> 00:34:45.255
+Um, it's gonna consider the effectively the utility
+
+807
+00:34:45.275 --> 00:34:47.495
+of having that cycle lane versus having those car
+
+808
+00:34:47.505 --> 00:34:49.095
+parks in the grand scheme.
+
+809
+00:34:49.915 --> 00:34:53.895
+Um, so from a pure agent choice perspective,
+
+810
+00:34:54.115 --> 00:34:56.775
+and that's the behavioral change that we're, we're trying
+
+811
+00:34:56.775 --> 00:34:57.855
+to model, you know,
+
+812
+00:34:57.965 --> 00:35:00.575
+there's only three real choices for that agent.
+
+813
+00:35:01.085 --> 00:35:04.375
+It's around the mode that it takes to do a journey time
+
+814
+00:35:04.375 --> 00:35:06.215
+that it, it leaves and the route that it can take.
+
+815
+00:35:06.915 --> 00:35:10.415
+Um, so within that, we can then construct
+
+816
+00:35:10.975 --> 00:35:15.695
+a value framework around optimum transport routes, um,
+
+817
+00:35:15.915 --> 00:35:20.215
+the changes to that network in terms of a cycle lane versus,
+
+818
+00:35:20.635 --> 00:35:24.215
+um, those four car parks at the grand scheme may be,
+
+819
+00:35:24.595 --> 00:35:25.975
+uh, a change to mode shift.
+
+820
+00:35:26.035 --> 00:35:28.975
+So more people would take the cycle to work, for example,
+
+821
+00:35:29.475 --> 00:35:31.895
+um, potentially may then use their
+
+822
+00:35:31.895 --> 00:35:33.175
+Car final clarify, how does
+
+823
+00:35:33.175 --> 00:35:34.455
+that feed into the multi dollar?
+
+824
+00:35:34.875 --> 00:35:35.875
+That's the,
+
+825
+00:35:37.455 --> 00:35:38.455
+That value? Like
+
+826
+00:35:38.455 --> 00:35:40.145
+how are you, how does the Monte dollar,
+
+827
+00:35:40.725 --> 00:35:42.705
+so the Monte dollar is a, is is,
+
+828
+00:35:43.005 --> 00:35:45.985
+is effectively a consideration of how well
+
+829
+00:35:46.375 --> 00:35:48.785
+that agent is fulfilling its daily plan.
+
+830
+00:35:49.095 --> 00:35:52.505
+It's a mix of utilitarian and satisfaction. Absolutely.
+
+831
+00:35:52.615 --> 00:35:53.615
+Yeah.
+
+832
+00:35:55.325 --> 00:35:56.765
+I just wanna ask you a question about the,
+
+833
+00:35:57.265 --> 00:35:59.645
+the LTIB um, exercise.
+
+834
+00:35:59.745 --> 00:36:02.445
+So how valuable is this ex?
+
+835
+00:36:02.465 --> 00:36:05.645
+Is this exercise, the exercise of putting this together,
+
+836
+00:36:05.645 --> 00:36:07.765
+being and then coming and presenting this?
+
+837
+00:36:07.875 --> 00:36:10.725
+Obviously we're in the middle of doing that and you know,
+
+838
+00:36:10.905 --> 00:36:13.005
+and presenting this to us.
+
+839
+00:36:13.385 --> 00:36:14.485
+Is it a valuable process?
+
+840
+00:36:14.945 --> 00:36:16.765
+And then I've got a follow up question back as well.
+
+841
+00:36:18.155 --> 00:36:22.445
+Um, we in all of our work, like
+
+842
+00:36:22.445 --> 00:36:24.845
+to keep an eye on the future and, and,
+
+843
+00:36:24.945 --> 00:36:26.525
+and possible future outcomes.
+
+844
+00:36:26.785 --> 00:36:29.245
+Um, I don't want step too much into the,
+
+845
+00:36:29.245 --> 00:36:30.685
+into the policy space here.
+
+846
+00:36:30.765 --> 00:36:33.405
+I know that there are considerations around it. Yeah,
+
+847
+00:36:33.545 --> 00:36:34.545
+That's what I'm asking.
+
+848
+00:36:34.635 --> 00:36:35.635
+Yeah.
+
+849
+00:36:36.915 --> 00:36:38.365
+Sort of being a little bit careful.
+
+850
+00:36:38.865 --> 00:36:42.965
+Um, I think that, uh, in writing the,
+
+851
+00:36:44.045 --> 00:36:46.705
+in writing the LT and then reflecting over the last few days
+
+852
+00:36:46.705 --> 00:36:48.665
+before presenting to you, I think I did find it, um,
+
+853
+00:36:49.375 --> 00:36:51.145
+very, uh, useful.
+
+854
+00:36:51.385 --> 00:36:53.425
+'cause it, it, it does force us to think, well,
+
+855
+00:36:53.425 --> 00:36:56.185
+what are the factors over which we do have control
+
+856
+00:36:56.445 --> 00:36:58.505
+as policy, um, advisors.
+
+857
+00:36:59.285 --> 00:37:01.865
+Uh, and uh,
+
+858
+00:37:03.285 --> 00:37:05.185
+that's always good just to keep in front of mind.
+
+859
+00:37:05.255 --> 00:37:08.105
+Yeah. And my question then, o obviously follows on,
+
+860
+00:37:08.105 --> 00:37:10.625
+if there were fewer of these, I'm for free
+
+861
+00:37:10.625 --> 00:37:13.025
+and frank advice, if there were three fewer of these
+
+862
+00:37:13.025 --> 00:37:15.785
+or only one of these, how would you incorporate this kind
+
+863
+00:37:15.785 --> 00:37:17.865
+of, 'cause you know, I'm finding this fascinating,
+
+864
+00:37:17.865 --> 00:37:19.185
+potentially really powerful tool.
+
+865
+00:37:19.565 --> 00:37:22.265
+How would that turn up in a meaningful way in front
+
+866
+00:37:22.265 --> 00:37:23.825
+of a select committee
+
+867
+00:37:23.825 --> 00:37:26.385
+or select committees if it was one LTIB
+
+868
+00:37:28.155 --> 00:37:29.495
+and it wasn't written by MOT?
+
+869
+00:37:29.495 --> 00:37:31.255
+So MOT it's just one of a lot
+
+870
+00:37:31.255 --> 00:37:33.215
+Of Agencies contributing.
+
+871
+00:37:33.765 --> 00:37:35.495
+Well, there's never any, any, uh,
+
+872
+00:37:36.055 --> 00:37:37.935
+anything stopping the select committee from inviting us
+
+873
+00:37:37.935 --> 00:37:40.215
+to talk to you, uh, about anything we'll always,
+
+874
+00:37:40.235 --> 00:37:41.335
+uh, make ourselves available.
+
+875
+00:37:41.755 --> 00:37:45.475
+Um, uh, there'd be, would this not required?
+
+876
+00:37:45.475 --> 00:37:49.195
+There's no way I would not have Monty doing what Monty does
+
+877
+00:37:49.775 --> 00:37:52.275
+and, um, considering it in, in all
+
+878
+00:37:52.275 --> 00:37:54.795
+of our advice using it in, in our policy advice.
+
+879
+00:37:54.795 --> 00:37:56.755
+And we're always, uh, open to come and talk to you
+
+880
+00:37:56.755 --> 00:37:57.755
+About. Okay. But the aware,
+
+881
+00:37:57.755 --> 00:37:58.275
+the awareness
+
+882
+00:37:58.575 --> 00:38:02.315
+of the Parliament in whichever way it was done of Monty
+
+883
+00:38:02.455 --> 00:38:04.475
+and of the potential power of that tool
+
+884
+00:38:04.475 --> 00:38:06.315
+and the ways in which you could use that tool Mm.
+
+885
+00:38:07.145 --> 00:38:08.145
+Would that come through?
+
+886
+00:38:09.315 --> 00:38:11.165
+This has been a unique opportunity to be able
+
+887
+00:38:11.165 --> 00:38:13.845
+to showcase it in a way that we wouldn't have been able to.
+
+888
+00:38:13.955 --> 00:38:15.845
+Yeah, we, it's, it's been on our website.
+
+889
+00:38:15.945 --> 00:38:17.125
+Um, we've,
+
+890
+00:38:17.125 --> 00:38:19.405
+we've got a conference next week up in
+
+891
+00:38:19.405 --> 00:38:20.685
+Auckland Transport Knowledge Conference.
+
+892
+00:38:20.725 --> 00:38:22.205
+I, I, I don't think members will be attending.
+
+893
+00:38:22.585 --> 00:38:24.565
+Um, metallic is quite excited.
+
+894
+00:38:24.565 --> 00:38:26.365
+They've done their concert at the same time.
+
+895
+00:38:28.115 --> 00:38:30.645
+Dojo Cat, uh, dojo Cat Metall will also come
+
+896
+00:38:30.645 --> 00:38:31.725
+to the Transport Knowledge Conference.
+
+897
+00:38:32.185 --> 00:38:33.185
+Uh, but yeah,
+
+898
+00:38:34.195 --> 00:38:38.165
+It's Model is and the political, uh,
+
+899
+00:38:38.315 --> 00:38:39.605
+Your ticket's more expensive.
+
+900
+00:38:41.035 --> 00:38:42.885
+Okay. We, we did get aright when we had
+
+901
+00:38:42.885 --> 00:38:44.005
+to book our flights actually.
+
+902
+00:38:45.025 --> 00:38:49.365
+Oh my. Why is it so expensive? But a okay. Right. Okay.
+
+903
+00:38:49.465 --> 00:38:51.605
+Um, other questions before I go
+
+904
+00:38:51.605 --> 00:38:53.365
+and monopolize another one? Great.
+
+905
+00:38:53.625 --> 00:38:56.845
+Um, yes, just in on page 17, you're talking about the, um,
+
+906
+00:38:57.395 --> 00:38:58.685
+core simulated mode.
+
+907
+00:38:58.815 --> 00:39:00.365
+She's got cable car in there.
+
+908
+00:39:01.285 --> 00:39:04.045
+Um, now obviously welling, as far as I'm aware,
+
+909
+00:39:04.045 --> 00:39:06.205
+there's only one paying, um,
+
+910
+00:39:06.455 --> 00:39:08.005
+cable car, which is in Wellington.
+
+911
+00:39:09.225 --> 00:39:10.845
+So it's, I'm interested that it's in there.
+
+912
+00:39:10.845 --> 00:39:14.165
+But secondly too, my impression is that most
+
+913
+00:39:14.165 --> 00:39:15.765
+of the people catch the cable car tourists.
+
+914
+00:39:17.335 --> 00:39:21.075
+So at least 50% is, is there a way in, in this model,
+
+915
+00:39:21.345 --> 00:39:22.995
+does it tell you that, that most
+
+916
+00:39:22.995 --> 00:39:24.435
+of the people on there are tourists, so
+
+917
+00:39:24.435 --> 00:39:25.955
+therefore if it's not there,
+
+918
+00:39:26.615 --> 00:39:30.675
+it won't have such an impact on transport
+
+919
+00:39:30.715 --> 00:39:32.555
+because the tourists will just go somewhere else?
+
+920
+00:39:33.215 --> 00:39:36.315
+So is that, I'm just trying to understand how the,
+
+921
+00:39:36.975 --> 00:39:39.595
+how far we break down the activity on these things. Mm-hmm.
+
+922
+00:39:40.035 --> 00:39:43.955
+I think the observation would be present in the simulation
+
+923
+00:39:43.955 --> 00:39:46.955
+that most of the volume on the cable car would be tourists.
+
+924
+00:39:47.305 --> 00:39:49.115
+That is the people going to work.
+
+925
+00:39:49.575 --> 00:39:52.395
+The count of the agents who use the,
+
+926
+00:39:52.935 --> 00:39:54.955
+who are doing work journeys would be very, very low.
+
+927
+00:39:56.585 --> 00:39:58.485
+The the numbers doing the portion doing
+
+928
+00:39:58.485 --> 00:40:00.125
+work journeys is very low. That's
+
+929
+00:40:00.125 --> 00:40:01.005
+Right. Therefore,
+
+930
+00:40:01.865 --> 00:40:06.245
+So therefore, how does that impact on modeling?
+
+931
+00:40:08.765 --> 00:40:10.015
+Because I mean, this is, this is,
+
+932
+00:40:10.015 --> 00:40:14.985
+So, I I I would say more that just the reality is, uh,
+
+933
+00:40:15.465 --> 00:40:17.505
+produced in the simulation in this context,
+
+934
+00:40:18.385 --> 00:40:19.625
+I think is there a consequence,
+
+935
+00:40:19.805 --> 00:40:22.065
+I'm not sure if there necessarily a consequence of
+
+936
+00:40:22.065 --> 00:40:23.825
+that except to say that the number
+
+937
+00:40:23.825 --> 00:40:26.505
+of people using this service is low and
+
+938
+00:40:26.505 --> 00:40:27.545
+therefore we might not,
+
+939
+00:40:27.845 --> 00:40:31.505
+one might not think it's efficient in a, in a utility sense.
+
+940
+00:40:31.715 --> 00:40:32.865
+Sorry, it just probably goes back
+
+941
+00:40:32.865 --> 00:40:36.545
+to my other question about the, the, the knowing the purpose
+
+942
+00:40:36.605 --> 00:40:37.785
+of the journeys mm-hmm.
+
+943
+00:40:38.105 --> 00:40:40.585
+I suppose is the, is the real question I'm asking,
+
+944
+00:40:40.585 --> 00:40:43.385
+going back to my original question around the, where
+
+945
+00:40:43.945 --> 00:40:47.105
+majority of the journeys on this road from Westport to
+
+946
+00:40:47.925 --> 00:40:50.025
+during the day, our commercial journeys mm-hmm.
+
+947
+00:40:50.095 --> 00:40:51.385
+Yeah. Road logs.
+
+948
+00:40:52.355 --> 00:40:54.845
+Yeah. And, and the model knows that it's
+
+949
+00:40:55.005 --> 00:40:56.645
+Calibrated, the model does Know that.
+
+950
+00:40:56.645 --> 00:40:59.085
+Yeah. It's calibrated to real world data
+
+951
+00:40:59.145 --> 00:41:00.525
+that's traveling up and down that road.
+
+952
+00:41:01.635 --> 00:41:04.935
+So there's two, two ways we can understand the current
+
+953
+00:41:05.605 --> 00:41:07.615
+data in that, from that perspective,
+
+954
+00:41:07.615 --> 00:41:09.575
+there's the household travel survey, which, uh,
+
+955
+00:41:09.915 --> 00:41:12.695
+we undertake on, uh, sort of quarterly basis.
+
+956
+00:41:13.395 --> 00:41:17.215
+Um, and that gives us information about work journeys,
+
+957
+00:41:17.405 --> 00:41:19.775
+leisure journeys, uh, education.
+
+958
+00:41:20.315 --> 00:41:22.655
+Um, and then there's observed, uh,
+
+959
+00:41:22.725 --> 00:41:26.015
+traffic monitoring system accounts that NZTA collect
+
+960
+00:41:26.305 --> 00:41:27.775
+where we can understand the split
+
+961
+00:41:27.775 --> 00:41:30.135
+between heavy commercial light commercial
+
+962
+00:41:30.355 --> 00:41:31.575
+and passenger vehicles.
+
+963
+00:41:31.665 --> 00:41:32.735
+Would that be physical? Is
+
+964
+00:41:32.735 --> 00:41:34.485
+That where people were standing literally the No.
+
+965
+00:41:34.485 --> 00:41:36.925
+So it all, it, it used to be like that
+
+966
+00:41:36.925 --> 00:41:38.725
+and those, those counts still happen.
+
+967
+00:41:39.145 --> 00:41:41.885
+Um, but it's an automated system on state highway network.
+
+968
+00:41:43.465 --> 00:41:44.885
+The reason the cable car is in there
+
+969
+00:41:44.885 --> 00:41:46.045
+is, is partially my fault.
+
+970
+00:41:46.325 --> 00:41:48.605
+I wanted to include a mode. You
+
+971
+00:41:49.865 --> 00:41:51.805
+Was could,
+
+972
+00:41:53.765 --> 00:41:57.485
+I wanted to include a mode that, um, was non-traditional,
+
+973
+00:41:57.505 --> 00:41:59.885
+so not a car or a bus or, or something like that.
+
+974
+00:41:59.985 --> 00:42:02.445
+And, and just for, uh, to prove
+
+975
+00:42:02.445 --> 00:42:04.925
+that we could actually develop that within the model.
+
+976
+00:42:06.265 --> 00:42:07.525
+So that's, that's the reason there.
+
+977
+00:42:07.835 --> 00:42:10.125
+Another reason the cable car is the, is
+
+978
+00:42:10.125 --> 00:42:12.845
+because all of the public transport schedules
+
+979
+00:42:13.145 --> 00:42:15.005
+and services are in the simulation.
+
+980
+00:42:15.375 --> 00:42:16.605
+Cable, car theories,
+
+981
+00:42:16.605 --> 00:42:17.605
+Buses, theories there.
+
+982
+00:42:17.665 --> 00:42:19.485
+Yep. Yep. Okay. Right. Oh, sorry.
+
+983
+00:42:19.545 --> 00:42:23.285
+So this is like the sub sson? Yes. Sub. Okay. Right.
+
+984
+00:42:23.695 --> 00:42:24.805
+Sorry, GV. Oh
+
+985
+00:42:24.805 --> 00:42:25.805
+Yeah. So, um, 'cause I
+
+986
+00:42:25.805 --> 00:42:27.765
+know that some people are looking at, uh,
+
+987
+00:42:28.045 --> 00:42:30.805
+gondolas for Queenstown public transport.
+
+988
+00:42:30.905 --> 00:42:33.525
+Uh, would gondola be similar
+
+989
+00:42:33.625 --> 00:42:35.165
+to cable car or is it different?
+
+990
+00:42:35.225 --> 00:42:36.525
+Is it, can it be, I
+
+991
+00:42:36.525 --> 00:42:37.765
+Think it would have be used considered in the
+
+992
+00:42:37.765 --> 00:42:38.765
+Model. You, you could
+
+993
+00:42:38.765 --> 00:42:39.965
+cont you could consider
+
+994
+00:42:39.965 --> 00:42:41.125
+it as a bus to be honest.
+
+995
+00:42:41.265 --> 00:42:42.845
+Oh, okay. Um, yeah, the fact that's
+
+996
+00:42:42.875 --> 00:42:44.595
+More frequent, like
+
+997
+00:42:44.595 --> 00:42:45.955
+because it operates in a different way,
+
+998
+00:42:46.695 --> 00:42:49.115
+The frequency, uh, you can change the frequency.
+
+999
+00:42:49.135 --> 00:42:50.475
+So we have the ability to change
+
+1000
+00:42:50.475 --> 00:42:51.515
+the frequency of all public.
+
+1001
+00:42:51.735 --> 00:42:53.835
+Ah, I see, I see. Um, so it's sort of
+
+1002
+00:42:54.915 --> 00:42:56.635
+whatever you want to, to consider. Right.
+
+1003
+00:42:57.305 --> 00:43:00.195
+Okay. Is this a sub ones? Yeah, okays.
+
+1004
+00:43:00.745 --> 00:43:03.035
+Yeah. So what, so what about like aquatic export?
+
+1005
+00:43:03.035 --> 00:43:04.275
+Like, um, these, uh,
+
+1006
+00:43:05.795 --> 00:43:06.795
+Yes. Yeah.
+
+1007
+00:43:06.795 --> 00:43:08.995
+Okay. Yeah. Yeah. Alright.
+
+1008
+00:43:09.355 --> 00:43:10.795
+Ferries are in there. Fair enough.
+
+1009
+00:43:10.795 --> 00:43:13.075
+Yeah. The only mode that we don't currently consider is,
+
+1010
+00:43:13.175 --> 00:43:15.955
+um, domestic aviation, and that's on our development
+
+1011
+00:43:15.955 --> 00:43:16.955
+List. Yeah. Okay.
+
+1012
+00:43:16.955 --> 00:43:18.795
+Carlos? Yes.
+
+1013
+00:43:18.875 --> 00:43:21.915
+I just want to focus on page 22 on the robot taxi.
+
+1014
+00:43:22.825 --> 00:43:26.115
+Like, can you give us a little bit how, how that, um,
+
+1015
+00:43:26.215 --> 00:43:27.435
+discrimination work?
+
+1016
+00:43:27.465 --> 00:43:30.515
+Like, because you also mentioned on 25 there's a limitation
+
+1017
+00:43:30.655 --> 00:43:34.315
+on the current scenario or, or current model as well.
+
+1018
+00:43:35.175 --> 00:43:38.555
+So is those robot taxi including those, uh, Uber
+
+1019
+00:43:38.775 --> 00:43:43.635
+or dd like those, um, part-time taxi being used,
+
+1020
+00:43:43.895 --> 00:43:45.755
+you know, as, as commercial vehicle or,
+
+1021
+00:43:46.135 --> 00:43:47.595
+or just traditional taxi?
+
+1022
+00:43:50.585 --> 00:43:54.275
+Okay. So, um, the, the model considers them just to be,
+
+1023
+00:43:54.455 --> 00:43:58.525
+uh, a driverless car, um, that is available
+
+1024
+00:43:58.785 --> 00:44:01.925
+for an agent to, um, pickup
+
+1025
+00:44:02.505 --> 00:44:03.805
+at any one point in time.
+
+1026
+00:44:04.425 --> 00:44:06.565
+Um, we don't consider necessarily the sort
+
+1027
+00:44:06.565 --> 00:44:07.805
+of ordering system.
+
+1028
+00:44:08.215 --> 00:44:10.245
+There is a wait time that is considered,
+
+1029
+00:44:10.245 --> 00:44:11.685
+but that's basically based on
+
+1030
+00:44:11.685 --> 00:44:13.525
+where the robot taxii is relative
+
+1031
+00:44:13.525 --> 00:44:14.565
+to the agent on the network.
+
+1032
+00:44:15.305 --> 00:44:18.205
+Um, otherwise it's just literally that a car that drives
+
+1033
+00:44:19.285 --> 00:44:21.985
+Is because one of your, one of your model is used
+
+1034
+00:44:21.985 --> 00:44:25.105
+to estimate the numbers of taxis serving the population.
+
+1035
+00:44:25.605 --> 00:44:30.465
+But we know that with uh, Uber, with DD that can,
+
+1036
+00:44:30.465 --> 00:44:31.605
+you know, the numbers of vehicle
+
+1037
+00:44:32.085 --> 00:44:34.045
+provided to the CV can be different
+
+1038
+00:44:34.105 --> 00:44:35.205
+at different time as well.
+
+1039
+00:44:35.265 --> 00:44:37.405
+So it's not like a fixed amount of numbers
+
+1040
+00:44:38.285 --> 00:44:40.005
+provided service at a given time.
+
+1041
+00:44:40.385 --> 00:44:42.805
+So have you put that into the consideration or,
+
+1042
+00:44:43.145 --> 00:44:45.805
+or this is something too complicated to put into the model?
+
+1043
+00:44:46.185 --> 00:44:49.245
+No, and I, I think we did try to outline
+
+1044
+00:44:49.245 --> 00:44:51.645
+that we haven't optimized the number of railroad taxis
+
+1045
+00:44:51.645 --> 00:44:53.405
+and we haven't optimized that time tabling
+
+1046
+00:44:53.425 --> 00:44:57.605
+or scheduling, um, uh, of those taxis within the day.
+
+1047
+00:44:58.185 --> 00:45:01.205
+Uh, but for this given scenario, I think if we wanted to,
+
+1048
+00:45:01.275 --> 00:45:02.885
+that is something we could actually consider.
+
+1049
+00:45:03.505 --> 00:45:07.245
+So, so what you, what you comment on page 25 is you,
+
+1050
+00:45:07.245 --> 00:45:09.725
+you think this model additional robot
+
+1051
+00:45:10.325 --> 00:45:12.605
+scenario insight can be, can be improved
+
+1052
+00:45:12.625 --> 00:45:16.285
+or obtained, is is there something we can do or, or,
+
+1053
+00:45:16.285 --> 00:45:17.805
+or improve the modeling system?
+
+1054
+00:45:20.375 --> 00:45:21.825
+Ruth, Can I just make a point about the,
+
+1055
+00:45:21.825 --> 00:45:25.385
+the robot Xi I mean part of it is, is was for doing it
+
+1056
+00:45:25.385 --> 00:45:27.345
+for the, is to illustrate what Monty can do.
+
+1057
+00:45:28.005 --> 00:45:31.585
+So, um, uh, so we weren't trying to do it as something
+
+1058
+00:45:31.585 --> 00:45:32.745
+that we would like a policy
+
+1059
+00:45:32.745 --> 00:45:33.985
+would be producing or anything like that.
+
+1060
+00:45:34.085 --> 00:45:36.585
+So, um, just useful to take that into account.
+
+1061
+00:45:37.575 --> 00:45:41.385
+Sure. Um, a couple of questions from me then, um,
+
+1062
+00:45:41.415 --> 00:45:42.705
+I'll take up to up to that.
+
+1063
+00:45:42.705 --> 00:45:44.025
+Uh, ten two just
+
+1064
+00:45:44.025 --> 00:45:47.105
+after, um, regional variations is an interesting one
+
+1065
+00:45:47.105 --> 00:45:48.905
+because, and the regions, I just encourage you
+
+1066
+00:45:48.905 --> 00:45:50.345
+to think about the region slightly differently.
+
+1067
+00:45:50.725 --> 00:45:52.225
+Um, because the, the, in terms
+
+1068
+00:45:52.225 --> 00:45:54.985
+of population changes in particular central North Island,
+
+1069
+00:45:55.235 --> 00:45:57.985
+which is probably a bit of horizons, man, Twon, a bit
+
+1070
+00:45:57.985 --> 00:46:01.505
+of w Cato and so on is quite clearly de it's depopulating at
+
+1071
+00:46:01.505 --> 00:46:05.305
+the moment and that that region variation won't flow
+
+1072
+00:46:05.305 --> 00:46:08.105
+through this 'cause it's gonna be captured in Waikato
+
+1073
+00:46:08.105 --> 00:46:10.665
+and captured in Manawa two I I suspect in those two areas.
+
+1074
+00:46:11.285 --> 00:46:14.425
+The other area is Otago, which you go, there's a lot
+
+1075
+00:46:14.425 --> 00:46:16.825
+of growth, but Otago is two different places as well.
+
+1076
+00:46:16.825 --> 00:46:18.345
+You've got Central Otago
+
+1077
+00:46:18.345 --> 00:46:20.265
+and Queenstown, which you clearly growing a little fast
+
+1078
+00:46:20.685 --> 00:46:21.945
+and the Dunedin side, which isn't.
+
+1079
+00:46:22.565 --> 00:46:27.055
+So again, it just be worth as you are developing this,
+
+1080
+00:46:27.055 --> 00:46:31.135
+thinking about those things, um, just on freight, um,
+
+1081
+00:46:31.135 --> 00:46:33.095
+you've got, I'll be really interested
+
+1082
+00:46:33.095 --> 00:46:35.655
+because we've got this, the aspiration to double exports,
+
+1083
+00:46:35.655 --> 00:46:38.175
+which will include some volume in the next 10 years,
+
+1084
+00:46:38.275 --> 00:46:40.055
+let alone, you know, 30 years.
+
+1085
+00:46:40.595 --> 00:46:44.605
+Um, do you done any thinking about if you plugged in
+
+1086
+00:46:44.605 --> 00:46:46.885
+something around, because the consistent message you get
+
+1087
+00:46:46.885 --> 00:46:48.125
+about Kiwi rail, we're getting better,
+
+1088
+00:46:48.745 --> 00:46:50.725
+but price is a real, is a real barrier.
+
+1089
+00:46:50.905 --> 00:46:53.165
+So if you see one of the inva interventions we're gonna do
+
+1090
+00:46:53.165 --> 00:46:54.845
+is we're gonna make rail more attractive
+
+1091
+00:46:54.845 --> 00:46:58.525
+because somehow, you know, what does that look like if it's,
+
+1092
+00:46:58.585 --> 00:47:01.845
+you know, more price effective, um, and
+
+1093
+00:47:01.845 --> 00:47:06.325
+therefore more, uh, bulk product et cetera goes on the,
+
+1094
+00:47:06.385 --> 00:47:09.125
+on the railway as opposed to on the, uh, on the road.
+
+1095
+00:47:09.625 --> 00:47:10.765
+Can you model those sort of things.
+
+1096
+00:47:10.825 --> 00:47:13.765
+And there's also, there's a really quite spectacular graph
+
+1097
+00:47:13.765 --> 00:47:18.005
+you've got on page, um, 11, which is part of that, uh,
+
+1098
+00:47:18.005 --> 00:47:20.565
+which is the truck, the truck numbers.
+
+1099
+00:47:21.345 --> 00:47:24.995
+Uh, that graph is close to a doubling
+
+1100
+00:47:24.995 --> 00:47:27.195
+of truck numbers since the GFC according to that.
+
+1101
+00:47:27.745 --> 00:47:31.665
+What, what, what's driven that so much that quickly.
+
+1102
+00:47:32.965 --> 00:47:35.425
+So two parts to that question, in a sense all about freight.
+
+1103
+00:47:36.285 --> 00:47:39.105
+So yes, that we can definitely consider it scenarios where
+
+1104
+00:47:40.275 --> 00:47:44.375
+more, more, uh, road freight is taken by rail.
+
+1105
+00:47:44.375 --> 00:47:47.135
+Mm-hmm. Definitely something we can consider, um,
+
+1106
+00:47:48.555 --> 00:47:49.815
+why truck numbers have increased.
+
+1107
+00:47:50.195 --> 00:47:54.095
+Um, I presume it is linked to population
+
+1108
+00:47:54.095 --> 00:47:55.535
+as well. Um, it's a
+
+1109
+00:47:55.535 --> 00:47:57.255
+Lot faster population growth spend in that
+
+1110
+00:47:57.255 --> 00:48:01.015
+Time, but also, um, it might be due to online shopping
+
+1111
+00:48:01.395 --> 00:48:03.615
+and uh, greater numbers of, uh,
+
+1112
+00:48:04.135 --> 00:48:07.495
+manufactured goods just being required to be transported
+
+1113
+00:48:09.315 --> 00:48:11.945
+Might be so, so yeah, so so our understanding of
+
+1114
+00:48:11.945 --> 00:48:13.865
+that would be really, because that's a really significant
+
+1115
+00:48:13.915 --> 00:48:17.185
+shift in terms of volume, heavy of,
+
+1116
+00:48:17.745 --> 00:48:19.385
+I presume all these are heavy vehicles, not,
+
+1117
+00:48:19.385 --> 00:48:20.945
+they're not little courier vans.
+
+1118
+00:48:23.085 --> 00:48:24.575
+Yeah. Is it, is it,
+
+1119
+00:48:24.595 --> 00:48:26.015
+Is it, is it heavy or medium duty as
+
+1120
+00:48:26.015 --> 00:48:27.015
+Well? It will include medium
+
+1121
+00:48:27.015 --> 00:48:28.375
+duty, so sorry,
+
+1122
+00:48:28.475 --> 00:48:32.095
+it will include everything above, um, 3.5 tons. 3.5 tons.
+
+1123
+00:48:32.095 --> 00:48:33.495
+Yeah. So it's not gonna be your courier van.
+
+1124
+00:48:33.495 --> 00:48:37.905
+It's gonna be reasonably heavy vehicles by and large. Yeah,
+
+1125
+00:48:37.925 --> 00:48:38.865
+We can, we can get back to you
+
+1126
+00:48:38.865 --> 00:48:39.705
+on the exact right down. We'll just,
+
+1127
+00:48:40.375 --> 00:48:42.865
+Yeah, We can get back to you on the, in the, on the,
+
+1128
+00:48:43.365 --> 00:48:45.385
+but over that similar sort of period, we,
+
+1129
+00:48:45.445 --> 00:48:48.905
+we have seen a similar concomitant compliant in, um,
+
+1130
+00:48:49.085 --> 00:48:50.585
+in rail freight volume in
+
+1131
+00:48:50.585 --> 00:48:51.585
+Terms of that. Yeah. So, okay. That's,
+
+1132
+00:48:51.585 --> 00:48:52.105
+that's,
+
+1133
+00:48:52.105 --> 00:48:53.345
+that's a really significant thing to
+
+1134
+00:48:53.345 --> 00:48:54.345
+Understand. Yeah, yeah.
+
+1135
+00:48:54.345 --> 00:48:57.465
+The rise of trucks does, does mirror the decline
+
+1136
+00:48:57.465 --> 00:48:59.225
+of the decline of rail volumes.
+
+1137
+00:48:59.475 --> 00:49:01.265
+We'll follow that with um, other parties too.
+
+1138
+00:49:01.265 --> 00:49:02.545
+So I'd be interested a bit more of that. And look,
+
+1139
+00:49:02.545 --> 00:49:04.425
+my last question is around, um, EVs
+
+1140
+00:49:04.425 --> 00:49:06.825
+and energy, which is on page 16.
+
+1141
+00:49:07.365 --> 00:49:09.785
+Um, and we talked about EVs,
+
+1142
+00:49:09.805 --> 00:49:11.385
+but I dunno whether that's still true,
+
+1143
+00:49:11.385 --> 00:49:13.465
+the 2030 being roughly comparable,
+
+1144
+00:49:13.845 --> 00:49:16.865
+but it's the interface of EVs with the energy system,
+
+1145
+00:49:17.055 --> 00:49:18.465
+both positive and negative
+
+1146
+00:49:18.805 --> 00:49:20.105
+and whether you've actually looked at that,
+
+1147
+00:49:20.185 --> 00:49:22.345
+'cause obviously energy fits within this, um,
+
+1148
+00:49:22.845 --> 00:49:24.305
+select committee's purview as well.
+
+1149
+00:49:24.895 --> 00:49:26.305
+Have you, have you looked at that?
+
+1150
+00:49:27.505 --> 00:49:29.605
+Do agents have to refill their vehicles?
+
+1151
+00:49:31.035 --> 00:49:32.815
+No, we, we can't implement that
+
+1152
+00:49:33.495 --> 00:49:34.495
+So no, not yet.
+
+1153
+00:49:34.575 --> 00:49:36.155
+Not yet. Okay. That 'cause that'd be really interesting
+
+1154
+00:49:36.355 --> 00:49:38.115
+'cause it could be a plus and a minus depending on
+
+1155
+00:49:38.115 --> 00:49:39.435
+how it interfaces works the system.
+
+1156
+00:49:39.505 --> 00:49:41.275
+Okay. Look, um, we've,
+
+1157
+00:49:41.565 --> 00:49:43.235
+we've come pretty much to the end of our time.
+
+1158
+00:49:43.655 --> 00:49:46.355
+Um, so thank you. But can I just say what is the,
+
+1159
+00:49:46.475 --> 00:49:48.435
+I mean if there are things which you said, you know,
+
+1160
+00:49:48.435 --> 00:49:50.515
+invite you in any time on this,
+
+1161
+00:49:50.575 --> 00:49:52.035
+but if there are things which we
+
+1162
+00:49:52.035 --> 00:49:53.235
+as select committee will say, well look
+
+1163
+00:49:53.235 --> 00:49:54.755
+what would the future look like?
+
+1164
+00:49:54.995 --> 00:49:57.275
+'cause we should be thinking about long-term futures.
+
+1165
+00:49:57.585 --> 00:49:59.835
+What would the future look like if we pulled this lever,
+
+1166
+00:49:59.865 --> 00:50:02.375
+this lever and this lever, you know,
+
+1167
+00:50:02.995 --> 00:50:04.295
+or push pause on that lever.
+
+1168
+00:50:05.035 --> 00:50:07.535
+That's the kind of thing that you are doing thinking about.
+
+1169
+00:50:07.755 --> 00:50:09.775
+So it'd be really interesting to know what kind
+
+1170
+00:50:09.775 --> 00:50:11.375
+of scenarios you are thinking about
+
+1171
+00:50:11.915 --> 00:50:14.615
+and then trying to optimize our overall transport system
+
+1172
+00:50:14.615 --> 00:50:15.815
+and the way it interfaces with that.
+
+1173
+00:50:15.815 --> 00:50:19.685
+As Greg asked with our economy, we're largely guided
+
+1174
+00:50:19.705 --> 00:50:21.925
+By our ministerial priorities have. Yes.
+
+1175
+00:50:21.925 --> 00:50:24.085
+But if we could update you next year on what we are
+
+1176
+00:50:24.965 --> 00:50:26.525
+sometime at some point next year, but we, what we do
+
+1177
+00:50:26.525 --> 00:50:27.725
+With Ponte, well, we'll,
+
+1178
+00:50:27.725 --> 00:50:28.805
+We'll have you in front of us for,
+
+1179
+00:50:28.865 --> 00:50:30.765
+Um, scrutiny week.
+
+1180
+00:50:30.765 --> 00:50:32.045
+So yes, that's just in a month
+
+1181
+00:50:32.045 --> 00:50:33.045
+Time. So they're probably not mean.
+
+1182
+00:50:33.045 --> 00:50:33.845
+We talk a little bit
+
+1183
+00:50:33.845 --> 00:50:34.845
+More about it then. No. But have
+
+1184
+00:50:34.845 --> 00:50:35.965
+a little bit of a think about it for that,
+
+1185
+00:50:35.985 --> 00:50:37.125
+for that, um, time.
+
+1186
+00:50:37.125 --> 00:50:38.605
+We've got you there. Um, because I think
+
+1187
+00:50:38.605 --> 00:50:39.685
+it could be very powerful tool.
+
+1188
+00:50:40.025 --> 00:50:41.485
+No. Can I just ask one other thing?
+
+1189
+00:50:41.705 --> 00:50:43.485
+One thing we haven't uh, asked about
+
+1190
+00:50:43.745 --> 00:50:45.045
+or touched on is the summary
+
+1191
+00:50:45.225 --> 00:50:47.045
+of submissions from the public consultation.
+
+1192
+00:50:47.505 --> 00:50:49.125
+Um, is it appropriate to ask? Yeah, go for it.
+
+1193
+00:50:49.245 --> 00:50:50.285
+A question on that now? Yeah.
+
+1194
+00:50:50.425 --> 00:50:53.205
+Um, I, I note that you received 10 submissions.
+
+1195
+00:50:53.825 --> 00:50:55.805
+Was what was your sort of view on that?
+
+1196
+00:50:55.805 --> 00:50:57.525
+Were you expecting more? Were you expecting
+
+1197
+00:50:58.355 --> 00:50:59.405
+That seems a low number.
+
+1198
+00:51:00.075 --> 00:51:01.685
+It's a low number. Okay.
+
+1199
+00:51:03.365 --> 00:51:06.525
+I I, I don't think that's unusual compared
+
+1200
+00:51:06.525 --> 00:51:08.125
+to all other government departments.
+
+1201
+00:51:08.285 --> 00:51:11.265
+I think there's a really variable number.
+
+1202
+00:51:12.595 --> 00:51:15.295
+It tends not to be high, I think with the exception
+
+1203
+00:51:15.295 --> 00:51:16.535
+of the treasury's long term fiscal,
+
+1204
+00:51:16.535 --> 00:51:18.295
+which gets more feedback a little bit
+
+1205
+00:51:18.295 --> 00:51:20.255
+More I guess when I look at the 10
+
+1206
+00:51:20.255 --> 00:51:21.775
+and you say they're from individual, central,
+
+1207
+00:51:21.905 --> 00:51:23.375
+local government and interest groups.
+
+1208
+00:51:24.435 --> 00:51:27.415
+That's a lot of groups for, for 10. So
+
+1209
+00:51:27.965 --> 00:51:30.615
+It's One like could you just, maybe not now,
+
+1210
+00:51:30.635 --> 00:51:32.655
+but just give us a little bit more detail about the 10.
+
+1211
+00:51:33.565 --> 00:51:35.335
+Yeah, I Absolutely, I thanks.
+
+1212
+00:51:35.855 --> 00:51:37.975
+Absolutely Greg. Yeah. Very quickly, what
+
+1213
+00:51:37.975 --> 00:51:40.935
+Type of, one more in this model
+
+1214
+00:51:41.515 --> 00:51:43.055
+is there room for a shock?
+
+1215
+00:51:43.055 --> 00:51:44.575
+Like, I mean look at my lifetime.
+
+1216
+00:51:44.635 --> 00:51:46.535
+The, the great oil shocks of the seventies
+
+1217
+00:51:46.535 --> 00:51:48.695
+and eighties, you know, when all of a sudden changed,
+
+1218
+00:51:49.365 --> 00:51:51.615
+that was when no one even thought about energy
+
+1219
+00:51:51.675 --> 00:51:55.415
+and all of a sudden once energy was everything,
+
+1220
+00:51:56.155 --> 00:51:58.095
+is this model taken into account
+
+1221
+00:51:58.205 --> 00:51:59.975
+that could be something similar.
+
+1222
+00:52:00.835 --> 00:52:03.695
+You, you could model a shock of some sort.
+
+1223
+00:52:03.875 --> 00:52:08.175
+Be it a, a massive earthquake that takes out a, a road
+
+1224
+00:52:08.175 --> 00:52:09.615
+or a section of roads or a,
+
+1225
+00:52:10.795 --> 00:52:14.535
+or a significant change in you simulate is a significant
+
+1226
+00:52:14.535 --> 00:52:16.135
+change in places for transport.
+
+1227
+00:52:16.435 --> 00:52:21.055
+You could artificially make cars look very expensive due
+
+1228
+00:52:21.055 --> 00:52:22.535
+to something like an energy price shock.
+
+1229
+00:52:22.555 --> 00:52:25.455
+Yes. Yeah. Yeah. Thank you. Thank you. Look, really
+
+1230
+00:52:25.455 --> 00:52:26.455
+Appreciate it. It's been fascinating
+
+1231
+00:52:26.455 --> 00:52:27.815
+conversation. Yeah, thank you.
+
+1232
+00:52:27.815 --> 00:52:28.855
+Thank you. And we'll look forward
+
+1233
+00:52:28.855 --> 00:52:30.615
+to some further conversations, uh,
+
+1234
+00:52:30.675 --> 00:52:33.135
+and, uh, understanding a bit more of what Monty can do and
+
+1235
+00:52:33.135 --> 00:52:34.135
+Deliver. Thank you. Thank
+
+1236
+00:52:34.135 --> 00:52:36.455
+you. Thanks colleagues.

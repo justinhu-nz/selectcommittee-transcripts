@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:58:30.375581+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143307510",
+  "title": "2025/12/04 - PP (Part 4)",
+  "url": "https://vimeo.com/1143307510",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 1887,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1882.21,
+    "segment_count": 639,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - PP (Part 4) - vimeo_1143307510\\2025_12_04 - PP (Part 4) - vimeo_1143307510.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143307510",
+    "display_id": "1143307510",
+    "title": "2025/12/04 - PP (Part 4)",
+    "description": "Thursday 4 December 2025 | Primary Production Committee\n\n2024/25 Annual review of the Ministry for Primary Industries\n\nHering of evidence:\n\nHon Nicola Grigg,\u00a0Associate Minister of Agriculture (Horticulture)",
+    "webpage_url": "https://vimeo.com/1143307510",
+    "original_url": "https://vimeo.com/1143307510",
+    "upload_date": "20251204",
+    "timestamp": 1764821939,
+    "release_timestamp": 1764821946,
+    "duration": 1887,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2092846343-1fb96f3bd8cfd986d19af659de872b917298b2982c1b40fb9c411ff9bfbad322-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269753003.vtt?expires=1778590715&sig=15bf2609e86646dbce28ee255ae6eace0ada4c21&download=auto_generated_captions.vtt"
+  }
+}

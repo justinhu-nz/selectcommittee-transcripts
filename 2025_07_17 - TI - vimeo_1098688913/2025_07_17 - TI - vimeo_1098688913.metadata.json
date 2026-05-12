@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:52:53.361428+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1098688913",
+  "title": "2025/07/17 - TI",
+  "url": "https://vimeo.com/1098688913",
+  "published_at": "20250716",
+  "published_display": "2025-07-16",
+  "duration_seconds": 1936,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1934.08,
+    "segment_count": 788,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_17 - TI - vimeo_1098688913\\2025_07_17 - TI - vimeo_1098688913.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1098688913",
+    "display_id": "1098688913",
+    "title": "2025/07/17 - TI",
+    "description": "Thursday 17 July 2025 Transport and Infrastructure Committee\n\nReport of the Controller and Auditor-General: Regulating vehicle safety inspections\n\nHearing of evidence\nOffice of the Auditor-General\n\nKate Williams, Senior Performance Auditor\nJason Hewett, Manager, Performance Audit\nClint Ramoo, Audit director, Audit New Zealand",
+    "webpage_url": "https://vimeo.com/1098688913",
+    "original_url": "https://vimeo.com/1098688913",
+    "upload_date": "20250716",
+    "timestamp": 1752704085,
+    "release_timestamp": 1752704100,
+    "duration": 1936,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042237981-3d80966ad83d4e47fb64148b972b191a9d46ab55a12d483feeffc10c3f0c1a3a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/244094510.vtt?expires=1778590378&sig=046fda18a713c7048edb9f08188cf24b52ac2225&download=auto_generated_captions.vtt"
+  }
+}

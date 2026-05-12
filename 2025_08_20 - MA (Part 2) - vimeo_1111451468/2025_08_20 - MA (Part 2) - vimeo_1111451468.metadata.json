@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:06:03.766579+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111451468",
+  "title": "2025/08/20 - MA (Part 2)",
+  "url": "https://vimeo.com/1111451468",
+  "published_at": "20250820",
+  "published_display": "2025-08-20",
+  "duration_seconds": 2576,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2568.05,
+    "segment_count": 934,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_20 - MA (Part 2) - vimeo_1111451468\\2025_08_20 - MA (Part 2) - vimeo_1111451468.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111451468",
+    "display_id": "1111451468",
+    "title": "2025/08/20 - MA (Part 2)",
+    "description": "Wednesday 20 August 2025 | M\u0101ori Affairs Committee (Part 2) \n\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\u00a0\u00a0 \n\nHearing of evidence\nSubmitter list:\nLand Information New Zealand - Toit\u016b Te Whenua\u00a0\n\nGaye Searancke, Te Tumu Whakarae/Chief Executive\u00a0\nJan Pierce, Kaihaut\u016b, Customer Delivery\u00a0\nDione Payne, Head of M\u0101ori-Crown Relations\u00a0\nSonya Wikitera, Head of Crown Property\u00a0",
+    "webpage_url": "https://vimeo.com/1111451468",
+    "original_url": "https://vimeo.com/1111451468",
+    "upload_date": "20250820",
+    "timestamp": 1755654594,
+    "release_timestamp": 1755654602,
+    "duration": 2576,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2049895902-90673e606683c07092d60226ce1d69e20bc22ac0e48af6e23e98c175d904b4f9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/248822081.vtt?expires=1778591168&sig=31404b9daea962c9ec9a97755783e42eeef8836a&download=auto_generated_captions.vtt"
+  }
+}

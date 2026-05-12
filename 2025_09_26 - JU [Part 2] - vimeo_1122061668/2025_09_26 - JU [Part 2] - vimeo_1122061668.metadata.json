@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:11:21.542014+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1122061668",
+  "title": "2025/09/26 - JU [Part 2]",
+  "url": "https://vimeo.com/1122061668",
+  "published_at": "20250926",
+  "published_display": "2025-09-26",
+  "duration_seconds": 5850,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5847.77,
+    "segment_count": 1920,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_26 - JU [Part 2] - vimeo_1122061668\\2025_09_26 - JU [Part 2] - vimeo_1122061668.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1122061668",
+    "display_id": "1122061668",
+    "title": "2025/09/26 - JU [Part 2]",
+    "description": "Friday 26 September 2025 | Justice Committee\n\nElectoral Amendment Bill\n\nSubmitters:\n\nVeronica Culpan\n\nMargot Govers\n\nCitizens Advice Bureau NZ\n-Kerry Dalton, Chief Executive\n\nNew Zealand Public Service Association Te Pukenga Here Tikanga Mahi (the PSA)\n-Andrew McCauley, Policy Advisor\n-Fleur Fitzsimons, National Secretary\n\nJonathan Clark\n\nMatthew Hart\n\nChristchurch Youth Council Incorporated\n-Chloe Dilley\n-Dean Banks\n-Thomas Richards\n-Lucas Roper\n\nToitu Te Tiriti Otautahi\n-Teresa Butler, Activator\n\nHazel Armstrong\n\nRebecca Merrington\n\nJean Hera\n\nJohn Lawson\n\nNicki Spring\n\nChristopher Hawkins\n\nPeter Duncan",
+    "webpage_url": "https://vimeo.com/1122061668",
+    "original_url": "https://vimeo.com/1122061668",
+    "upload_date": "20250926",
+    "timestamp": 1758854928,
+    "release_timestamp": 1758854939,
+    "duration": 5850,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2070433802-b9caba25e33731b7fc4c2fcad0b3a736b86f242e7f36f253adb76b836cc81c10-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259351942.vtt?expires=1778591486&sig=16b75999acaa42038b46f25bc882767524e7e825&download=auto_generated_captions.vtt"
+  }
+}

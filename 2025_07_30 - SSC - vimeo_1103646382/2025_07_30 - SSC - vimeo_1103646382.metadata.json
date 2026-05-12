@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:02.545839+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1103646382",
+  "title": "2025/07/30 - SSC",
+  "url": "https://vimeo.com/1103646382",
+  "published_at": "20250730",
+  "published_display": "2025-07-30",
+  "duration_seconds": 1808,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1801.05,
+    "segment_count": 729,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_30 - SSC - vimeo_1103646382\\2025_07_30 - SSC - vimeo_1103646382.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1103646382",
+    "display_id": "1103646382",
+    "title": "2025/07/30 - SSC",
+    "description": "Wednesday, 30 July 2025 | Social Services and Community Committee\n\nReport of the Controller and Auditor-General, Effectiveness of arrangements for reducing child poverty\n\nOffice of the Auditor-General\n- Leeanne McAviney, Assistant Auditor General\n- Dr Sarah Hayward, Principal Performance Auditor\n- Greg Goulding, Sector Manager, Parliamentary Group",
+    "webpage_url": "https://vimeo.com/1103646382",
+    "original_url": "https://vimeo.com/1103646382",
+    "upload_date": "20250730",
+    "timestamp": 1753839356,
+    "release_timestamp": 1753839365,
+    "duration": 1808,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042229313-548f236dcb14c5f5c4e3e7ce4aec51b09c4ecb98b5f705b5c7c6eb6762ccc3d7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/244998546.vtt?expires=1778590627&sig=e0deb0480b1b73ee3ca9ca981f4e85762c1c3c68&download=auto_generated_captions.vtt"
+  }
+}

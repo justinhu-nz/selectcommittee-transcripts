@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:59:54.172852+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1131542974",
+  "title": "2025/11/06 - PP",
+  "url": "https://vimeo.com/1131542974",
+  "published_at": "20251106",
+  "published_display": "2025-11-06",
+  "duration_seconds": 723,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 722.68,
+    "segment_count": 250,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_06 - PP - vimeo_1131542974\\2025_11_06 - PP - vimeo_1131542974.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1131542974",
+    "display_id": "1131542974",
+    "title": "2025/11/06 - PP",
+    "description": "Thursday, 6 November 2025 | Primary Production\nBriefing on glyphosate residue limits\nMinistry for Primary Industries\nVincent Arbuckle, Deputy Director-General, NZ Food Safety\nWarren Hughes, Principal Adviser Acvm\nKaren Booth, Manager Acvm Programmes & Appraisals\nJefferson Fowles, Principal Adviser Toxicology",
+    "webpage_url": "https://vimeo.com/1131542974",
+    "original_url": "https://vimeo.com/1131542974",
+    "upload_date": "20251106",
+    "timestamp": 1762389176,
+    "release_timestamp": 1762389183,
+    "duration": 723,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078905339-f953b25d6be711cbdf090550cb4f9e33044e7b605ded3eb11e188db5df0ccef6-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263378764.vtt?expires=1778590799&sig=a01443809924726c00b1a997ebb8cb3b60c8eca7&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,628 @@
+Title: 2025/12/10 - SSC
+URL: https://vimeo.com/1142822754
+Published: 2025-12-10
+Duration: 00:29:48
+
+[00:00:00] ... who does, who gains or loses and by how much?
+[00:00:03] If Working for Families abatement settings change, what does that mean for families
+[00:00:07] with children? What's the likely fiscal cost to the crown?
+[00:00:11] And what does that mean for income-based child poverty mea-
+[00:00:13] measures? So TAWA applies tax and welfare ru-
+[00:00:17] rules to real-world household data that is pro- projected into the near
+[00:00:21] future
+[00:00:22] to show the direct financial impacts of policy and economic
+[00:00:26] conditions. Uh, very briefly, TAWA's input data
+[00:00:30] is based on Stats New Zealand's Household Economic Survey, but we
+[00:00:33] combine that with additional administrative data inside the Integrated Data
+[00:00:37] Infrastructure, or IDI, which I believe you, you may be aware of.
+[00:00:42] Uh, that data set gives, uh, detailed information then on household
+[00:00:45] income, family structure, housing cost, and employment at a very
+[00:00:49] detailed household level. Uh, we then operate that data
+[00:00:53] based on, um, a range of forecasts that
+[00:00:57] reflect likely future conditions.
+[00:00:59] So we're considering wage growth, benefit indexation, housing cost
+[00:01:03] changes, and population changes.
+[00:01:05] And this then allows us to estimate how household incomes, child poverty
+[00:01:09] measures, and fiscal costs will, may evolve under
+[00:01:13] current policy or under proposed policy or hypothetical
+[00:01:16] policy changes. So with respect to child
+[00:01:20] poverty, uh, eh, TAWA plays a central role in
+[00:01:24] income-based child poverty analysis.
+[00:01:26] It's used to support budget advice, assess whether proposed policy
+[00:01:30] changes are likely to move the legislated income poverty
+[00:01:33] measures, show which groups of children are most affected by different
+[00:01:36] policies, and produce those forward projections of income poverty
+[00:01:40] levels for the child poverty report, which is required under the Child Poverty
+[00:01:44] Reduction Act.
+[00:01:45] Um, it's important to be clear that TAWA focuses on income poverty.
+[00:01:49] It can't directly measure material hardship because that depends on much
+[00:01:53] broader non-income factors like access to essentials and
+[00:01:56] services. Um, I can refer to Budget
+[00:02:00] 25 for some examples of, of how TAWA modeling is used to support
+[00:02:04] advice. So for example, TAWA was used to model options for
+[00:02:08] combined changes to Best Start working for families in accommodation
+[00:02:12] supplement. And that provided analysis that indicated the number of
+[00:02:16] families that would gain or lose from a potential package, the average gain or
+[00:02:20] loss, and the income level of those who would gain or lose.
+[00:02:23] Um, and TAWA also was used to indicate the expected change to income
+[00:02:27] poverty for that package, and then that, or the, uh, hypothetical
+[00:02:31] packages. And then, uh, these results are used by ministers, uh,
+[00:02:35] during the budget process then to compare options, consider trade-offs,
+[00:02:39] and make decisions. Um, and then as, as required by legislation,
+[00:02:43] TAWA also produced the, uh, income poverty projections for the
+[00:02:47] child poverty report in Budget 25.
+[00:02:50] So that's with respect to child poverty.
+[00:02:52] Uh, but as I said, TAWA is used more generally, and this modeling
+[00:02:56] approach actually has a really long history at Treasury.
+[00:02:59] Uh, it's existed in different forms for over 30 years.
+[00:03:02] I can't actually find out how long, but it's a very long time.
+[00:03:05] (laughs) And, and has been steadily improved as data quality, technology,
+[00:03:09] and policy needs have evolved. Um, it's a core piece of Treasury's
+[00:03:13] modeling infrastructure and has been consistently invested in by
+[00:03:17] Treasury, uh, as part of its stewardship goals.
+[00:03:19] So this means that Treasury supports the priorities of the government of the day,
+[00:03:23] but also underpins the longer-term analysis that Treasury and other agencies
+[00:03:27] rely on. Uh, other uses of TAWA include,
+[00:03:31] just for example, Treasury's recent stewardship document, the Long-Term Fiscal
+[00:03:35] Statement. Although that's primaril- primarily informed by
+[00:03:38] Treasury's long-term macro fiscal models, um, it was sup-
+[00:03:42] also supported by TAWA's distributional modeling of retirement income
+[00:03:46] policy. Um, and related to that, we, we also use
+[00:03:50] TAWA to, um, write a policy quarterly
+[00:03:54] article, which be- has been published externally, uh, demonstrating
+[00:03:57] how, oh, sorry, uh, on retirement income, so really detailed
+[00:04:01] information on retirement income policy.
+[00:04:05] Um,
+[00:04:06] but like any model, TAWA's got clear limits.
+[00:04:09] Uh, it covers a large proportion of tax and transfer policies, but it can't cover
+[00:04:13] absolutely everything.
+[00:04:14] Hmm.
+[00:04:15] Um, it doesn't model behavioral change.
+[00:04:18] So by that, I mean if we expect a tax and transfer change
+[00:04:21] to impact on the amount of hours someone works, TAWA can't
+[00:04:25] incorporate that. Um, it relies on survey data, the same
+[00:04:29] as the official statistics. Um, and it needs simplifying
+[00:04:33] assumptions because it is a model.
+[00:04:35] Um, it also measures imput- income impacts rather than wider
+[00:04:39] wellbeing outcomes. There's also practical situations
+[00:04:43] where it's harder to es- use TAWA. For example, when we're considering small
+[00:04:47] population groups, TAWA might not cover those groups.
+[00:04:50] Or when a payment or a population group is not fully covered by the survey
+[00:04:54] itself, we can't model it. Um, when we're considering a completely
+[00:04:58] new policy, it's much harder to, to estimate.
+[00:05:02] Um, or when policies rely heavily on those behavioral changes.
+[00:05:06] Um, these issues don't stop us from doing the analysis, but they do increase the
+[00:05:09] uncertainty and really emphasize the need for expert users of
+[00:05:13] TAWA.
+[00:05:14] Mm-hmm.
+[00:05:14] Uh, some policies as well, although they're targeted on low-income
+[00:05:18] people, they have no impact on incomes and therefore can't be modeled by
+[00:05:22] TAWA. For one example there, you've got a, a change to a subsidy like
+[00:05:26] early childcare education. That doesn't directly change a family's
+[00:05:30] income. It changes their expenditure, so that wouldn't be covered by the TAWA
+[00:05:33] model. In contrast, though, an increase to the in-work tax
+[00:05:37] credit does impact a family's income, so it can be modeled by
+[00:05:41] TAWA. Um, and then
+[00:05:44] f- finally, uh, access. So TAWA operates inside the
+[00:05:48] IDI, um, and therefore it's accessed through Stats New Zealand data
+[00:05:52] labs. The data is de-identified and access is tightly
+[00:05:55] controlled by Stats through approvals, training, and vetting.
+[00:05:59] But to support collaboration, Treasury has set up a shared collab- collaborative
+[00:06:03] project in the IDI so authorized analysts in other agencies can run the
+[00:06:07] model.This has allowed for example, um, Ministry of Housing and
+[00:06:11] Urban Development and the Retirement Commission to use it when developing their own
+[00:06:14] advice. Um, some modelers in MSD also have access, but I want to be
+[00:06:18] really clear that it does take time to become an expert user of the
+[00:06:21] model. Um, alongside this collaborative IDI
+[00:06:25] project, Treasury has also been developing a version of the model that can be used
+[00:06:29] outside of the IDI, called TAWA-Lite.
+[00:06:32] Uh, this uses synthetic data which mirrors real households, but doesn't
+[00:06:36] contain real information. And the idea behind TAWA-Lite is although it's
+[00:06:40] not going to be as complete or as accurate as TAWA, it allows people
+[00:06:44] outside secure environments to explore how the tax int- transfer system
+[00:06:48] affects incomes and therefore income poverty.
+[00:06:51] Um, so quickly summarizing, TAWA is Treasury's main tool
+[00:06:55] for analyzing distributional and fiscal impacts of tax and welfare
+[00:06:59] policy. It plays a central role in income-based child poverty
+[00:07:03] analysis. Uh, it supports budget decisions, targeting and
+[00:07:06] fiscal trade-offs. Um, it's a very useful tool, but also has clear
+[00:07:10] and well-understood limits. So, um, very happy to
+[00:07:14] answer any questions or clarify any of the technical
+[00:07:18] details.
+[00:07:19] Great. Well, thank you very much for that.
+[00:07:20] Um, it's re- been, yeah, really interesting. Our first question, Pao.
+[00:07:23] What are your, uh, I may, if, if you'll allow me to, I'll just fire some quick fire
+[00:07:27] ones because we've got, um, a short amount of time.
+[00:07:29] But hey, you mentioned the use of it for the budget.
+[00:07:31] Have you used TAWA to give advice on pieces of legislation
+[00:07:36] or do you know if it's being used, um, to provide advice on, on
+[00:07:39] specific piece of legislation?
+[00:07:42] Uh, yes, it's generally used if it's,
+[00:07:45] Yeah.
+[00:07:45] ... we're commissioned to provide advice on s- specific things, yeah.
+[00:07:48] I think one of the things that could be useful, um, is perhaps through this hearing
+[00:07:52] is if we could request, um, sort of like in the say
+[00:07:57] x number of last legislations, TAWA's being used to provide a model, like to have
+[00:08:01] that as a sort of case studies just so that we can see sort of
+[00:08:05] that... I'm sure that exists, but it just c-
+[00:08:07] Yeah.
+[00:08:07] Yeah. Having it
+[00:08:07] So you're talking about legislative changes that affect the tax and social policy
+[00:08:11] system-
+[00:08:11] Yeah.
+[00:08:12] ... in the way that it might feed into, for example-
+[00:08:13] Yes.
+[00:08:14] ... a red- green tax statement or something like that-
+[00:08:15] That's right.
+[00:08:16] ... as well. We can have a look over the last week-
+[00:08:17] Thank you so much.
+[00:08:18] ... what software's been used, yeah.
+[00:08:19] Um, and do you know how many experts MSD has that are able to
+[00:08:23] use TAWA?
+[00:08:25] Uh,
+[00:08:27] I believe it's three.
+[00:08:28] Okay.
+[00:08:28] Uh, three of their modelers. Uh, we work very closely with the MSD modelers.
+[00:08:32] Different modeling teams interact a lot. Yeah.
+[00:08:34] And when, um, I know you mentioned it's hard to use, but, um, how
+[00:08:38] time-consuming is it to, for example, get from defining a
+[00:08:41] change to then get the modeling done?
+[00:08:44] Like how long does that normally take you and how, how n- yeah.
+[00:08:48] Uh, it really depends on the policy that you want to model.
+[00:08:51] If it's an expert user from, from my team, and it's a relatively
+[00:08:55] simple change, it might take a week of, of our time.
+[00:08:59] If it's a very complicated thing that changes eligibility-
+[00:09:02] ... it could take months. It could be not possible because we don't have the data.
+[00:09:05] Yeah.
+[00:09:06] If you're not an expert user, to even be able to
+[00:09:09] confidently do basic things, it's probably gonna take six months.
+[00:09:13] And just, um, so you mentioned you have the ability to measure child material
+[00:09:16] hardship, obviously. Um, do you have the ability to measure also material hardship
+[00:09:19] more broadly?
+[00:09:20] No.
+[00:09:20] Is that a meas- okay. And finally, um, when you say small populations that you're
+[00:09:24] not able to meas- measure, how small are we talking?
+[00:09:27] Uh, so for example, there's the, the requirement of Stats New Zealand that we
+[00:09:31] can't report on population groups that are, uh, less than 3,000.
+[00:09:35] Oh, okay. That's a lot smaller.
+[00:09:37] Um, yeah, so, uh, there's that, but also the smaller the population group,
+[00:09:41] the less reliable the data that we have-
+[00:09:43] Okay.
+[00:09:43] ... because it's a sample of the population, not the whole population.
+[00:09:47] Thank you.
+[00:09:47] So there's larger error bands around it. Yeah.
+[00:09:50] Uh, next question, Lauren.
+[00:09:51] Um, thank you. Um, very fascinating, um, part of the system that
+[00:09:55] you look at. Um, we have had a presentation in the past about the IDI
+[00:09:59] from States.
+[00:10:00] And, um, of course those systems are only as good as the data
+[00:10:04] that goes in, the information that goes in.
+[00:10:06] So in your use of it, of TAWA, do you
+[00:10:10] see where any improvements can be made in terms of the data
+[00:10:14] that's collected? Um, and the reason I'm asking that is because when we talk to
+[00:10:18] stats, one of the most difficult areas to gather data on was
+[00:10:22] from the health sector.
+[00:10:23] Mm-hmm.
+[00:10:24] Um, and so, you know, have you noticed anywhere in the
+[00:10:28] system where it could be improved or the data could be
+[00:10:31] better?
+[00:10:32] Yeah, I, I mean, we, we are data and modeling people, so we would always, always
+[00:10:35] like more data is what (laughs) I would say.
+[00:10:38] Um, the, the data that TAWA is based on, uh, a
+[00:10:42] lot of it is coming from Inland Revenue.
+[00:10:43] So that is really accurate detailed data based on individuals.
+[00:10:47] Uh, what is a little bit more difficult is when you go from, uh, individual
+[00:10:51] records to households. So when you move to a household, which is
+[00:10:55] obviously very important when you're thinking about living standards,
+[00:10:58] um, it, it is more difficult to get some concept
+[00:11:02] of who to link together. And that's where we use the survey from-
+[00:11:06] Oh.
+[00:11:06] ... from HESS. Uh,
+[00:11:09] I would say that we, uh, generally have all of the data that,
+[00:11:13] that we need for the policies that we're currently modeling.
+[00:11:16] Sometimes new policies come along and we have to then go and source more data.
+[00:11:20] Um, our... I, I do think you could add more data to the IDI.
+[00:11:23] I think our, uh, requests for sort of improvements
+[00:11:27] to the IDI would be more around access to different modeling tools and
+[00:11:31] technologies within the IDI than data.
+[00:11:33] But that's just from our position as people who have
+[00:11:37] access to the data that we need because it exists, yeah.
+[00:11:40] Can I add something? Um, and also do-
+[00:11:44] where does AI fit in what you're doing or does it fea-
+[00:11:48] feature at all?
+[00:11:49] Well, you, you definitely would not be able to use any AI tools in the
+[00:11:53] IDI. Um,
+[00:11:55] we don't generally, uh, uh, we are experimenting carefully
+[00:11:59] within Treasury with AI to see if we can, um,
+[00:12:03] just automate some of our processes or, or become more
+[00:12:07] productive. But that's all at a very experimental safe end, not...
+[00:12:10] And this, this work does not use AI. Yeah.
+[00:12:13] Okay. Thank
+[00:12:14] Can I catch up on that? Why not?
+[00:12:17] ... uh, this work. Uh, we don't need to use AI at this
+[00:12:20] point for this. I think, uh, in the future, if I can-
+[00:12:24] Yeah. ... talk about-
+[00:12:24] That
+[00:12:24] sounds cool. ... what might happen in the future, uh, I could see AI being used as
+[00:12:28] a, uh, to improve the accessibility to-
+[00:12:30] Yep.
+[00:12:30] ... some of our modeling and data, and that's definitely some of the things that
+[00:12:33] we've experimented with, is how do we, uh, make some of
+[00:12:36] this, this tool open to people who aren't-
+[00:12:39] They don't know how to use it. ... modelers?
+[00:12:40] Yeah.
+[00:12:41] Um, and the more detailed sort of machine learning,
+[00:12:45] AI side of things, if we were able to use that in a, uh,
+[00:12:49] some sort of infrastructure like the IDI in a safe way, I could
+[00:12:52] see, uh, that being very useful to identify patterns and, of-
+[00:12:56] (clears throat)
+[00:12:57] ... life courses and things like that, but that is, uh, but beyond the level
+[00:13:01] of what we're at right now.
+[00:13:02] Like-
+[00:13:02] Yeah.
+[00:13:03] I g- I, I guess, uh, a supplementary on that is, um, I imagine you'll be looking at
+[00:13:07] how you can, um, isolate that
+[00:13:10] data.
+[00:13:11] Yeah.
+[00:13:11] So the a- so the AI could work on it without-
+[00:13:14] So-
+[00:13:14] ... the potential of any, any, um, cross-feedback-
+[00:13:17] (clears throat) Yeah,
+[00:13:17] no- ... or r- or reverse-feedback (laughs) to the-
+[00:13:19] Yep. ... to the data streams. That's probably a key challenge I would imagine.
+[00:13:21] Mm-hmm. Yeah, and I, I think that, that is, um, absolutely up to,
+[00:13:25] uh, stats to, that, that is their wheelhouse, and they will be- be the people who
+[00:13:29] do that carefully-
+[00:13:30] Yeah.
+[00:13:30] ... and responsibly.
+[00:13:32] Yeah.
+[00:13:32] We, we can only request, you know.
+[00:13:34] And one other supplementary on that is just, um, in terms of that accessibility
+[00:13:37] piece, um, if there's sort, uh, three experts at
+[00:13:40] MSD, um, is there, is there some genuine scope
+[00:13:44] there to make it more accessible, the, the, the data, so it
+[00:13:48] can be available to more users?
+[00:13:50] Um, yeah,
+[00:13:51] Uh, across, ac- across a var- a variety of different, um, um, yeah, organizations?
+[00:13:55] Yep. Uh, so, um, I, I think, um, it's been two years now since we started
+[00:13:59] up the, uh, collaborative IDI project, and we worked closely with Stats
+[00:14:03] on that to make sure they were comfortable.
+[00:14:04] The idea is to improve accessibility to TAWA and any data
+[00:14:08] related to it. You still need to be an IDI researcher at this stage,
+[00:14:12] so you need to be, you know, a, a expert in that area.
+[00:14:16] Um, I guess the other thing that we, to talk about that we've been doing
+[00:14:20] is, uh, creating this, uh, much more user-friendly synthetic
+[00:14:24] version of, of TAWA, which will, uh, gives you the direction
+[00:14:27] of-
+[00:14:28] (coughs)
+[00:14:28] ... (clears throat) the direction of an impact and sort of the scale, um, but
+[00:14:32] not as detailed as TAWA. And that, the aim is for that to be, uh,
+[00:14:36] you know, can be shared with anyone, and it has a user interface.
+[00:14:40] Um, it's still in development. We've recently passed a milestone
+[00:14:44] where we're sharing it around Treasury, but it's kind of in the, the testing phase
+[00:14:48] of, of that, so yeah.
+[00:14:49] And I, I, I should ask then if, um, g- um, now that you've raised it, is, is it
+[00:14:53] TAWA Lite-
+[00:14:54] TAWA Lite, yeah. That
+[00:14:54] is- ... that you've improved upon the, uh, min- materials?
+[00:14:56] Yep.
+[00:14:57] Oh, okay. And c- could you just give us a, a, a sort of a high level sort
+[00:15:01] of comparator of what TAWA Lite is v- versus compared to TAWA?
+[00:15:04] So...
+[00:15:05] Uh, I, I mean, like, the, the very important thing to remember is that the
+[00:15:09] data is not real data underneath it. It's synthetic data.
+[00:15:13] So we have, we can't take real data out of the IDI.
+[00:15:16] That's private data. There's a lot of protections of it.
+[00:15:19] Um, so actually, Luke did a lot of work to-
+[00:15:22] (clears throat)
+[00:15:22] ... uh, come up with a method for making synthetic data.
+[00:15:25] So that is still at very detailed household level, but it's not a
+[00:15:29] real household. It just, uh, on aggr- you know, when we aggregate it up, it
+[00:15:33] looks like the New Zealand population.
+[00:15:35] So if we were talking about those small groups again, we're less likely to,
+[00:15:39] uh, w- we would have less confidence that those are covered properly in that, that
+[00:15:43] model. So that, that's the key limitation, is that it's, it's synthetic
+[00:15:47] data. It's not real data. Um,
+[00:15:50] the model itself, the current version is quite, uh,
+[00:15:54] simplified just to see, uh, what, what the user experience (laughs) is, whether
+[00:15:57] people can use it. So it can, uh, it can, you know, change some
+[00:16:01] parameters with a, a user interface. You don't need to write code.
+[00:16:04] And then it gives you an output which is, uh, who's gaining and losing by
+[00:16:08] their income level, the poverty impact, income poverty
+[00:16:12] incap- impact, uh, inequality, and some, uh, fiscal costs
+[00:16:16] obviously, 'cause we're a treasury.
+[00:16:18] Um, uh, but yeah, that's the current format of it.
+[00:16:22] But we, we could make it more complex, but it, it depends on
+[00:16:26] the more complex you make it, the less easier it is for someone who's not a modeler
+[00:16:30] or an expert to use. So there's a bit of a trade-off there.
+[00:16:34] Tha- that synthetic data, is it, is that effectively mirroring real data, but-
+[00:16:37] Yeah.
+[00:16:37] ... so ensuring there's a step away from it so that it, it-
+[00:16:40] Yeah.
+[00:16:40] ... it completely anonymizes and ensures that anonymity in that?
+[00:16:43] Yeah. Yeah, and it's, um, there is, um, quite a few organizations who use
+[00:16:47] the IDI who are starting to think about that, of how can we,
+[00:16:51] um, leave the IDA- I as it is but get more information
+[00:16:54] out into, into the general public in a safe way.
+[00:16:58] Um, but it's, it's quite, um,
+[00:17:01] forward-thinking work rather than currently being used, I would say.
+[00:17:05] Interesting. Uh, geez. Uh, Marie Minow?
+[00:17:07] Thank you.
+[00:17:08] Any question? (laughs)
+[00:17:08] Um, Meagan, uh, (speaks Maori) . Um, (clears throat) I read this, and
+[00:17:12] I put quite a lot of highlights not because I completely comprehend it all, but
+[00:17:16] because I could see how interesting it is.
+[00:17:20] Um, I, and I, but I'm trying to link...
+[00:17:22] So listening to your conversation, and I wrote words like, um, so we talked about
+[00:17:26] child poverty and, um, oh, what all, uh,
+[00:17:30] just describing the tool and its use.
+[00:17:34] In the world I come from, data in itself is
+[00:17:37] a, is a, requires a level of trust to be able to
+[00:17:41] provide-
+[00:17:41] Mm.
+[00:17:41] ... you know? And, um, and that's not present particularly with Maori data or
+[00:17:45] Maori information. And so, there's always a, there's a
+[00:17:49] trust thing that's, that's not present, and that's, um, being asked for
+[00:17:54] and probably not necessarily given in the most open way, um, for obvious
+[00:17:57] reasons. Um, you will know that the National iwi Chairs, they
+[00:18:01] have a data set.
+[00:18:02] Mm-hmm.
+[00:18:03] And so, there's Maori data sitting in various places.
+[00:18:06] I'm not sure how it gets integrated, if at all, into the system that you're
+[00:18:10] talking about. But there's a, a whole bunch of Maori information there,
+[00:18:14] (clears throat) which would be valuable at some point, I guess, and
+[00:18:18] whether there's still enough relationship, trust, and, um-
+[00:18:22] ... crossover to, uh, to have it be of
+[00:18:26] benefit, particularly two children in poverty equals
+[00:18:30] too many Māori children.
+[00:18:31] Mm-hmm.
+[00:18:31] So that's the, that's the stream that, um, I wanted to open up with you
+[00:18:35] and, um,
+[00:18:37] uh, I don't know, I, I guess I just wanted some general
+[00:18:40] h- Māori data, Māori sovereign over their data,
+[00:18:44] around data, um, how does it figure into your
+[00:18:48] system, um, and how can that
+[00:18:51] help?
+[00:18:53] I mean, uh, we love data for sure.
+[00:18:55] Yeah, yeah, yeah, I can tell.
+[00:18:58] (laughs) More data we can get the better. (laughs)
+[00:18:58] And that's good, used for good is the thing.
+[00:19:01] Yeah, I would say that, um... Well, uh,
+[00:19:05] the, the data that we use itself, it's all through the IDI.
+[00:19:08] Mm-hmm.
+[00:19:08] So any, uh, protections and, um, thinking that Stats
+[00:19:12] do, at Stats New Zealand do on data sovereignty will also be
+[00:19:16] incorporated into that. So, so from that side, um,
+[00:19:20] the sovereignty of that data is, is managed in Stats New Zealand 'cause we rely on
+[00:19:24] them. Um, they, uh, but then with the
+[00:19:28] analysis that we do, um, I would say we're early in this
+[00:19:32] journey, but it is something that we have been thinking about and progressing,
+[00:19:35] especially over the last, uh, year.
+[00:19:38] Uh, someone in my... Well, we, my team has been working very closely with
+[00:19:42] a, one of our, uh, principal Māori policy advisors in
+[00:19:46] Treasury, and thinking about the high up Arawaora framework-
+[00:19:50] Mm-hmm.
+[00:19:50] ... and how we can incorporate some of that thinking of Te Ao Māori
+[00:19:54] into the work that we do and the analysis that we do.
+[00:19:57] So it, it is straightforward with Tauasa to do a,
+[00:20:01] um, an ethnicity breakdown of-
+[00:20:03] Mm-hmm.
+[00:20:03] ... this many Māori we'll gain-
+[00:20:05] Right.
+[00:20:05] ... this many Māori we'll lose.
+[00:20:07] But, uh, that's quite a limited , right?
+[00:20:09] That's just a, that's just another table of numbers.
+[00:20:12] We wanna incorporate more, um, thick- get more
+[00:20:15] advice on how to be, uh-
+[00:20:17] Mm-hmm. ... bring in the wider context of, um, Māori
+[00:20:21] children's lived experience. Um,
+[00:20:24] it's in development, I would say.
+[00:20:26] I don't have a, an answer of-
+[00:20:28] No. ... of where we are yet, but it is, it is a direction we're going.
+[00:20:32] Thank you. Thank you.
+[00:20:33] I want to ask a supplementary on that actually 'cause it's a really interesting
+[00:20:35] point that Marie may have raised, um, in, in, you know, the,
+[00:20:38] the, um, data sovereignty piece, trust.
+[00:20:43] And, um, I'm wondering whether the work that y- you're doing,
+[00:20:46] um, uh, e- and particular around that, um, mirrored data
+[00:20:50] effectively. Now, the synthetic data where there's an opportunity there for the
+[00:20:54] every leaders forum, you know, where they have data, but they're not sure about
+[00:20:57] sharing it. But if there's an opportunity to actually create a synthetic version of
+[00:21:00] that, that anonymizes that, but then means that, you know, can actually assist with
+[00:21:04] some modelings and the work that you're doing to, to assist these communities
+[00:21:08] who, who, I think, you know, I think everyone wants to get that assistance.
+[00:21:11] Yeah, I mean, I, I mean that-
+[00:21:12] Yeah, but, but there is that sort of trust base that-
+[00:21:14] Yeah.
+[00:21:14] ... needs to be solved.
+[00:21:15] I mean that, that's a sounds like a, a great area to look down, I, I
+[00:21:19] think. And that, that is the whole idea of this sort of synthetic data, is that we
+[00:21:22] can, um,
+[00:21:24] expand the use of the data without, um, impacting-
+[00:21:28] Right.
+[00:21:28] ... the sovereignty of the data or the, the people who, who own the data.
+[00:21:31] Yeah.
+[00:21:32] Mm-hmm. Thanks.
+[00:21:33] Yeah.
+[00:21:34] Uh, Maureen?
+[00:21:35] Uh-
+[00:21:36] Thank you. I'm just, um, just e- every time you answer a question,
+[00:21:40] it raises more-
+[00:21:41] Yeah. (laughs)
+[00:21:41] ... you know. The potential obvious, is obvious, you know, for it.
+[00:21:45] But one of the things that, you know, we look at with the, um, with
+[00:21:49] Taua and how it feeds into the child poverty stats is
+[00:21:53] all, um, because it's data-driven,
+[00:21:56] um, we, can we not get to a point
+[00:21:59] where, um, we actually can measure the outcomes of that?
+[00:22:03] C- we can measure income levels, but, uh, that actually the
+[00:22:06] outcome from that investment, if you like, is still
+[00:22:10] unknown in the real, in real time. So can, can you
+[00:22:14] see a point or is there a way to get to that as a
+[00:22:17] destination?
+[00:22:19] Um, maybe I should just ask you a few clarifying (laughs) questions.
+[00:22:22] So, uh, do, do you mean, uh, so we
+[00:22:26] can model the, um, increase in a, the income that a child has,
+[00:22:30] can we then track that through to a longer term outcome?
+[00:22:34] Yes. Yes, exactly.
+[00:22:35] Yeah, so I, I guess that's when you, well, that's when you'd start leaning more on
+[00:22:38] the, the IDI. Um, and that's why it's quite useful that Taua is in the
+[00:22:42] IDI, right?
+[00:22:43] Yeah. 'Cause it's using the same data and it's all linked, um.
+[00:22:46] So, so yes, that's possible. I, I think that that's m-
+[00:22:49] more, uh,
+[00:22:51] leaning into some of MSD and SIA's-
+[00:22:54] Yes, of course, yeah.
+[00:22:54] ... uh, work programs, but we, we work, you know, very closely-
+[00:22:58] ... across the systems, yeah. Um,
+[00:23:01] Treasury, uh, our system agency and central,
+[00:23:05] um, central agency. So we kind of have to look at the big picture a lot.
+[00:23:08] Mm-hmm.
+[00:23:09] Um, but we help to support this, the other agencies when they need to go into the
+[00:23:13] details. Um, but it's, it's definitely possible, but I think
+[00:23:17] what you'd need to think about is, uh, what, what is the outcome you wanna track
+[00:23:20] and do we have the-
+[00:23:21] Mm-hmm.
+[00:23:22] ... admin data or the survey data in the IDI to track that?
+[00:23:26] Yeah.
+[00:23:26] Yeah.
+[00:23:27] (laughs)
+[00:23:27] Just 'cause, um, be- because at the moment, I think that you, you, we can
+[00:23:30] make, you know, tax and welfare policy-
+[00:23:33] Mm-hmm.
+[00:23:34] ... changes. But the outcome is an assumption-
+[00:23:36] Yeah.
+[00:23:37] ... because of that.
+[00:23:38] Yeah. It doesn't have real data to back it up.
+[00:23:40] Yeah.
+[00:23:41] And I think to Marie Mino's point too, that information, some of it's probably
+[00:23:45] out there, but we just don't know what it is.
+[00:23:48] Mm-hmm.
+[00:23:48] I think the other thing there is some of those outcomes might take quite a few
+[00:23:51] years to realize.
+[00:23:52] Yes, yes.
+[00:23:52] So you do need to have sort of a sustained investment in understanding how that has
+[00:23:56] tracked over time as well.
+[00:23:57] Good pitch. (laughs)
+[00:23:58] Yeah. (laughs)
+[00:23:59] (laughs)
+[00:23:59] And, and I might, I might, uh, make a question as a supplementary on, on that,
+[00:24:02] on that one.
+[00:24:03] (laughs) Um, 'cause one of, one of the, uh, submissions we heard, I think it might have been
+[00:24:05] MSD, um, they mentioned, what was it, one of the agencies anyway,
+[00:24:09] they, they mentioned that they would like to have more access to Taua
+[00:24:13] modeling, um, but there were some constraints on it.
+[00:24:16] So I'm just, just wondering if you could just give us a bit of an over- overview of
+[00:24:18] what the constraints are?
+[00:24:21] Um-I think it was MSD, so...
+[00:24:24] (laughs)
+[00:24:25] Um, they, um,
+[00:24:27] they... I think the constraints are really resource constraints.
+[00:24:29] It, it's not a constraint, a technical constraint that, you know, people...
+[00:24:33] We will give access to whoever we think needs it.
+[00:24:36] Um, it's just like I said, it does take a while to become an
+[00:24:40] expert in using the model, and using it incorrectly is going to give you
+[00:24:44] misleading results.
+[00:24:45] Yeah.
+[00:24:45] Mm-hmm.
+[00:24:46] Um, I, I think that's, that's the constraint from Treasury's
+[00:24:49] perspective because TAWA does cover this really wide range of government
+[00:24:53] priorities. We can never answer all of the questions that come to
+[00:24:57] one team. Um, we have to... We have to
+[00:25:01] prioritize them, and we work closely with our policy colleagues who then work with
+[00:25:04] other agencies and ministers to work out what- what's the highest priority thing
+[00:25:08] for us to work on. Um, and, and then, um...
+[00:25:11] And that's why we've been trying to make TAWA more accessible so that it's not just
+[00:25:15] on one team, so that's another teams. Uh, we've...
+[00:25:18] It's been successful with, um, HUD and the Retirement
+[00:25:22] Commission.
+[00:25:22] They're starting to do their own modeling. It requires some sup-...
+[00:25:26] It's not just access, it's support from us on how to learn how to use it,
+[00:25:30] but, uh, we're happy to do that, and we have.
+[00:25:32] But, uh, in general, it's a resourcing constraint, and, um,
+[00:25:37] it is a, you know, a particular sort of academic skill set that you're coming
+[00:25:41] with as well. You, you need to be comfortable using data and, and code
+[00:25:45] and, and modeling, but there are plenty of people there
+[00:25:48] (laughs) who'll help.
+[00:25:50] And, and sort of, um, what, what's the likely trajectory for someone
+[00:25:54] who could become skilled in this? Like, what, what skill... What...
+[00:25:57] How many years of training will they
+[00:25:59] need to have as a base, and then how much more training will they need to
+[00:26:03] become a, a proficient user of this?
+[00:26:06] Uh, I, I mean, someone coming i- in as a graduate, they would
+[00:26:09] usually have up to a, a master's level in some
+[00:26:13] quantitative discipline that involves a lot of coding.
+[00:26:16] Uh, so there's a wide range of academic disciplines that will cover
+[00:26:20] that, um, that's if they come in at a graduate level.
+[00:26:23] Someone like that would probably take about six months to come
+[00:26:27] up to be able to confidently use TAWA for some of the
+[00:26:31] more basic things. Um, and then, uh, a real
+[00:26:35] expert user... I mean, I've, I've been...
+[00:26:38] Before managing, I was working this model, and I was, uh...
+[00:26:42] I have worked on this for nine years.
+[00:26:43] I think Luke has worked here for five or seven.
+[00:26:47] Um, so that's the length of time if you want deep expertise, but
+[00:26:51] obviously, you've got
+[00:26:53] bits in between there, yeah.
+[00:26:55] Could, could you give us just a sort of...
+[00:26:57] A, a high level synopsis of some of the real value you see in
+[00:27:01] this tool going forwards?
+[00:27:05] Um...
+[00:27:05] Um, do-
+[00:27:06] (laughs) (laughs) Beyond what you've already... Um, just sort of what are some...
+[00:27:10] What are some surprising things that, say, the, the, the, um,
+[00:27:14] committee or the average person or even a chief executive would not be aware
+[00:27:18] is possible using this tool?
+[00:27:20] Um,
+[00:27:22] uh, so maybe I'll think about some of the more recent work we've been doing, which
+[00:27:26] is on that really long term,
+[00:27:29] um, fiscal challenge of an aging population.
+[00:27:31] So, we've been doing a lot of work with TAWA to say...
+[00:27:35] Um, you know, you look at these big macroeconomic models, and they'll tell you the
+[00:27:38] high level picture of what's happening to average people, but that's not
+[00:27:42] really enough information if you, um, you, you want to get into
+[00:27:46] policy development. So, a tool like TAWA lets you get into the real detailed
+[00:27:50] information of who, who New Zealanders are, how they
+[00:27:54] have different trajectories into,
+[00:27:57] um, into retirement and how the tax
+[00:28:00] and transfer system, retirement incomes policy, even sort
+[00:28:04] of we can start to incorporate savings policy into that, how that all,
+[00:28:08] uh, needs to work together to, to sort of help all
+[00:28:12] New Zealanders and not just an average New Zealander.
+[00:28:15] So, so TAWA is the tool that allows you to think through those questions
+[00:28:19] rather than just at a really high fiscal level.
+[00:28:22] Um...
+[00:28:26] Uh, there's... Yeah, I, I guess I kind of... (laughs) I don't know where to start.
+[00:28:30] There's so much.
+[00:28:30] (laughs) And I think one of the... One of the more...
+[00:28:32] One of the recent things that we've been doing also, I think this is with TAWA, is
+[00:28:35] kind of looking at effective marginal tax rates-
+[00:28:37] Right.
+[00:28:37] ... and those sorts of things around incentives to work and just really interesting
+[00:28:41] things that were in a Policy Quarterly article that looks at the relatively high,
+[00:28:44] um, labor force participation of older workers in New Zealand as well and what
+[00:28:48] might be driving that. Um, so I think there's some really interesting analysis that
+[00:28:52] can happen in that space as well too.
+[00:28:54] I think part of this is that, uh, you...
+[00:28:56] We, we need our modelers working with our policy teams, which they do really
+[00:28:59] actively to understand what are some of the policy questions that TAWA can help you
+[00:29:03] address as well too, and that is why, you know, part of the change process
+[00:29:07] that we've been going through in Treasury is we have brought our analytics,
+[00:29:10] insights and modeling team into a central team in Treasury so that we can have
+[00:29:14] that, that wider integration as, as well too.
+[00:29:17] And I think the other exciting development is just if we can improve the
+[00:29:21] accessibility of this through synthetic data and those sorts of things as
+[00:29:25] well too. That is, that is something we're, we're very keen to be able to
+[00:29:27] do.
+[00:29:29] Awesome. Well, thank you very much.
+[00:29:30] I think I would love to ask you more questions, and it's fascinating.
+[00:29:32] (laughs)
+[00:29:32] I love data, and data, data is, um...
+[00:29:35] It determines so many things, and it, it made good data.
+[00:29:37] So, look, thanks for the work you're doing.
+[00:29:38] Thanks for briefing the committee this afternoon. Appreciate it.
+[00:29:40] Thank you.
+[00:29:41] Thank you very much.
+[00:29:42] Thank you.
+[00:29:43] Thank you.
+[00:29:43] Thanks.

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:04:14.436561+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117644375",
+  "title": "2025/09/18 - PP",
+  "url": "https://vimeo.com/1117644375",
+  "published_at": "20250917",
+  "published_display": "2025-09-17",
+  "duration_seconds": 1722,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1719.88,
+    "segment_count": 659,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_18 - PP - vimeo_1117644375\\2025_09_18 - PP - vimeo_1117644375.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117644375",
+    "display_id": "1117644375",
+    "title": "2025/09/18 - PP",
+    "description": "Thursday, 18 September 2025 | Primary Production\n\nPetition Committee of Ian Sizer: Madagascar Ragwort \u2013 A growing concern for Northland and the rest of New Zealand\n\nHearing of evidence\n\nNorthland Regional Council\n\n- Geoff Crawford, Chair\n- Jack Craw, Councillor - Chair Biosecurity & Biodiversity Working Party\n- Joe Carr, Councillor\n- John Blackwell, Councillor\n- Don McKenzie, Biosecurity Group Manager\n- Jonathan Gibbard, Chief Executive Officer\n- Joanna Barr, Biosecurity Manager",
+    "webpage_url": "https://vimeo.com/1117644375",
+    "original_url": "https://vimeo.com/1117644375",
+    "upload_date": "20250917",
+    "timestamp": 1758142217,
+    "release_timestamp": 1758142224,
+    "duration": 1722,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2060103958-1cbc3111366d7291ada3864c95cd76d3dafb263ce8e18b7a46205246aea50165-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/253978665.vtt?expires=1778591059&sig=f1231dd52e63a47d27f173785b3d3b0878d4b5b2&download=auto_generated_captions.vtt"
+  }
+}

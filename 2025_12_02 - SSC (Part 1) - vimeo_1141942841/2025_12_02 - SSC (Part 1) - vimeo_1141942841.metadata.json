@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:14.517983+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141942841",
+  "title": "2025/12/02 - SSC (Part 1)",
+  "url": "https://vimeo.com/1141942841",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 9708,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9688.31,
+    "segment_count": 3425,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - SSC (Part 1) - vimeo_1141942841\\2025_12_02 - SSC (Part 1) - vimeo_1141942841.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141942841",
+    "display_id": "1141942841",
+    "title": "2025/12/02 - SSC (Part 1)",
+    "description": "Tuesday 2 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of Oranga Tamariki \u2014 Ministry for Children\n\nHearing of evidence:\n\nHon Karen Chhour, Minister for Children\n\nOranga Tamariki \u2013 Ministry for Children\n\nAndrew Bridgman, Acting Chief Executive\nNicolette Dickson, Chief Social Worker and Deputy Chief Executive Professional Practice\nGeoff Short, Deputy Chief Executive System Leadership",
+    "webpage_url": "https://vimeo.com/1141942841",
+    "original_url": "https://vimeo.com/1141942841",
+    "upload_date": "20251201",
+    "timestamp": 1764629019,
+    "release_timestamp": 1764629033,
+    "duration": 9708,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089920976-d798bee638d3873478bb98bc3224f3ee58795a32580cc793d61c975d9158691a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268806749.vtt?expires=1778590519&sig=41c0a9bf50a1af9ee0214818d703a3dceb75c802&download=auto_generated_captions.vtt"
+  }
+}

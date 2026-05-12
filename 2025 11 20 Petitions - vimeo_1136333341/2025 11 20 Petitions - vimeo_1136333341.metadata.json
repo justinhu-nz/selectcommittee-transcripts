@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:45:54.799503+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1136333341",
+  "title": "2025 11 20 Petitions",
+  "url": "https://vimeo.com/1136333341",
+  "published_at": "20251120",
+  "published_display": "2025-11-20",
+  "duration_seconds": 783,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 779.49,
+    "segment_count": 219,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 20 Petitions - vimeo_1136333341\\2025 11 20 Petitions - vimeo_1136333341.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1136333341",
+    "display_id": "1136333341",
+    "title": "2025 11 20 Petitions",
+    "description": "Petition of Southland Recreational Whitebaiters Association: Lengthen the whitebait season\n\nSouthland Recreational Whitebaiters Association\n\nTrevor Hannah, President",
+    "webpage_url": "https://vimeo.com/1136333341",
+    "original_url": "https://vimeo.com/1136333341",
+    "upload_date": "20251120",
+    "timestamp": 1763606309,
+    "release_timestamp": 1763606314,
+    "duration": 783,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085585870-5898619034bbc7d6b949b624ad7c31eff4f1592818df9fb8835f1def094aceab-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266439842.vtt?expires=1778589959&sig=97bf070bcdcba85a37328446c579e7e7171bbbc7&download=auto_generated_captions.vtt"
+  }
+}

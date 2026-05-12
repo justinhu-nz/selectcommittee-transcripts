@@ -1,0 +1,662 @@
+Title: 2025/12/04 - JU (Part 1)
+URL: https://vimeo.com/1142296804
+Published: 2025-12-03
+Duration: 00:34:53
+
+[00:00:00] All
+[00:00:24] right. Good morning, Miss Chiang.
+[00:00:26] Um, we've got half an hour with you, uh, so looking forward to the
+[00:00:29] session. Um, it is a public session.
+[00:00:32] So I'll leave you to introduce your team and, uh, we obviously have some
+[00:00:36] questions for you.
+[00:00:37] Good morning, and thank you-
+[00:00:39] (clears throat) ... for the opportunity to speak with you today about, uh, the Serious Fraud
+[00:00:43] Office's first stand-alone, long-term insights
+[00:00:46] briefing. Uh, I appear today with our Deputy Chief
+[00:00:50] Executive of Strategy and Prevention, Dan Eaton.
+[00:00:54] And we welcome the committee's interest in this work and look forward to your
+[00:00:58] questions.
+[00:01:02] Oh-
+[00:01:02] D- do you want a statement or anything?
+[00:01:04] That's it. (laughs)
+[00:01:06] (laughs)
+[00:01:06] Uh, well-
+[00:01:06] That's perfect.
+[00:01:07] You're welcome.
+[00:01:09] I'm conscious that your time is precious.
+[00:01:10] Oh.
+[00:01:11] I do have a brief opening statement, but also very happy
+[00:01:13] Why don't you do your brief opening statement?
+[00:01:15] Oh, of course.
+[00:01:16] And that'll give it... Because it gives us good context.
+[00:01:18] Sure. So our topic this year is on staying ahead
+[00:01:22] of the curve, responding to emerging trends, and detecting fraud and
+[00:01:26] corruption in New Zealand. This briefing represents an important
+[00:01:30] piece of forward-looking work for the SFO
+[00:01:34] and explores the evolving landscape of fraud and corruption
+[00:01:38] detection with insights and best practices from
+[00:01:41] international jurisdictions as well as our own
+[00:01:44] experiences. Fraud and corruption risks are
+[00:01:48] evolving, and this creates pressure for New Zealand's
+[00:01:51] integrity systems but there are also
+[00:01:55] opportunities to better prepare us for the challenges
+[00:01:57] ahead. And while our day-to-day focus is
+[00:02:01] on investigations and enforcement, uh, the LTIP allows
+[00:02:05] us to take a longer view, uh, to think strategically about
+[00:02:09] emerging trends, capability needs, and how we strengthen
+[00:02:13] resilience across the public and private
+[00:02:16] sectors. So thank you very much for this opportunity.
+[00:02:20] Can I ask a preliminary question?
+[00:02:21] Right. Well, we've got one from the-
+[00:02:23] No, no, it'll be long but this is just a really process question.
+[00:02:27] Yes.
+[00:02:27] I'm really curious, um, to know
+[00:02:30] h- who, who had input because you've got a little note at the very end of
+[00:02:34] your document about your consultation, and it seems like
+[00:02:38] it was a relatively narrow band of people, you know,
+[00:02:41] accountants and, uh, government agencies and so on.
+[00:02:44] And I'm just interested to know whether there were any- anyone essentially, either
+[00:02:48] from the general public or kind of the private p- private sector, the
+[00:02:52] investigative sector and, you know, that kind of, um,
+[00:02:56] group of people who take an interest in things fraud and
+[00:03:00] electronic, and whether that informed your thinking.
+[00:03:03] Yes, that's a good question, and I, I will hand over to, to Dan to talk about the
+[00:03:07] phases of our feedback session. We had two phases, uh,
+[00:03:11] and we, we actually received a lot of interest, um, from the
+[00:03:15] wider Civil Service, um, on our, uh, on our
+[00:03:19] LTIP which was very encouraging that it was a topic of interest.
+[00:03:22] Good.
+[00:03:23] But I'll hand over to Dan on how we went through that.
+[00:03:25] So we had two rounds of public consultation which are, are required, um,
+[00:03:29] under the Public, uh, Sector Act. Uh, the first one on the
+[00:03:32] topic, uh, and the second, uh, one on the
+[00:03:36] substance of the report. And then, uh,
+[00:03:40] the submissions that we had are listed, uh, in the report
+[00:03:44] itself.
+[00:03:44] Are the submissions available
+[00:03:46] on your website?
+[00:03:48] That's a good question. Actually I don't think they are but I don't see why they
+[00:03:52] necessarily couldn't be.
+[00:03:53] Okay.
+[00:03:53] (laughs) Yeah.
+[00:03:53] Okay. And we can certainly provide them for you.
+[00:03:55] I'm going to go to Mr. Stevenson and I'll come back to Miss Wild.
+[00:03:58] Good. Well thank you. Thank you for being here. I mean, thank you for...
+[00:04:01] I think this is a really, uh, worthwhile resource and document.
+[00:04:05] I encourage people to read it. Few... couple of questions. One is...
+[00:04:08] I'm just on page, um, eight I think.
+[00:04:11] You've got a box, it's very... some obviously some fill out boxes.
+[00:04:14] One just around estimated losses. Quite a broad range.
+[00:04:18] Is that because we just can't... we don't have the information
+[00:04:22] to accurately actually assess the, the losses to the New Zealand public
+[00:04:26] or just... Yeah, just keen to understand that is my first
+[00:04:29] question. And is there something we need to be doing?
+[00:04:32] Yes. So you're referring to the 601 million-
+[00:04:35] Yes. ... to 12.97 billion?
+[00:04:37] Mm, quite a... That's quite a-
+[00:04:39] That's exactly right. So that is based on a study that
+[00:04:42] one of the issues we have in New Zealand is we do not have a,
+[00:04:46] reliable baseline measure of what is potentially lost through fraud,
+[00:04:50] error and corruption in the public sector.
+[00:04:53] So this is based on a, a research study that we
+[00:04:57] commissioned the UK Public Sector Fraud Authority to carry
+[00:05:01] out based on international experience and apply to the New Zealand,
+[00:05:05] um, scenario where they estimate... And I...
+[00:05:08] And Dan will correct me if I get the percentages wrong, that roughly
+[00:05:12] between, um, point-
+[00:05:13] 0.5% to 5%.
+[00:05:15] 0.5 to about 5% of the overall public sector
+[00:05:19] budget is lost. Um, and
+[00:05:22] when you apply that to... This is a, this is a little bit out of date because
+[00:05:26] if you're looking forward it's even higher for the 2025
+[00:05:30] budget. That is the potential range.
+[00:05:33] Um, again one of the issues that we want to tackle is, and,
+[00:05:37] and you'll see that addressed here, is to have better analytics of
+[00:05:40] exactly what our baseline is so that we can measure what the
+[00:05:44] scale of the issue is and also whether or not, uh, any
+[00:05:48] responses are effective.
+[00:05:51] And so just to kind of follow up if that's okay, Mr. Chair?
+[00:05:54] So yeah, obviously in
+[00:05:56] the SFO kind of doing this report and, and working with the other government
+[00:05:59] agencies that... Yeah, are they now, um, more
+[00:06:03] systematically gathering data in this area or what... Yeah, where are we going?
+[00:06:08] And can one of you inform us?
+[00:06:09] It's a good question. So you might be aware of our anti-corruption
+[00:06:13] task force.
+[00:06:14] Mm-hmm.
+[00:06:14] We're in the, um, business end of that.
+[00:06:17] We're putting the finishing touches of that, and propose to release, um, our
+[00:06:20] report before the end of the year. One of the key, um,
+[00:06:25] issues we're trying to tackle here, um, (clears throat) perhaps it's useful
+[00:06:29] for me to give a (clears throat) recap of what that involved.
+[00:06:32] Yeah, that'd
+[00:06:33] be good. That was selecting a sample of six public sector
+[00:06:37] agencies and applying a assessment
+[00:06:40] framework against all of them to
+[00:06:44] essentially answer three questions.
+[00:06:46] First of all, what is the current state
+[00:06:49] of your systems and controls when it comes to, uh, fraud and
+[00:06:53] corruption detection? Uh, secondly, what is
+[00:06:57] your systems and controls when it comes to prevention?
+[00:07:00] So that's-
+[00:07:01] Mm-hmm.
+[00:07:01] ... before it happens in the first place.
+[00:07:03] And finally, what is the extent of the fraud and corruption that you have
+[00:07:07] identified over the last 15 months?
+[00:07:10] So we, we gathered that under a, a framework which we've modeled
+[00:07:14] from the UK and Australia, this has not been done before in New
+[00:07:18] Zealand like this, so as to try to start to answer
+[00:07:22] that question because there hasn't been a, um, consistent
+[00:07:26] framework in which all public sector agencies must
+[00:07:30] collect and report that level of data.
+[00:07:33] Yeah. Yeah, and I've... And I'm, I'm now on 20...
+[00:07:35] page 28-
+[00:07:36] (clears throat)
+[00:07:36] ... of your report-
+[00:07:37] Oh.
+[00:07:38] ... um, which this is all connected- But I...
+[00:07:40] Yeah, you basically note that despite being the most common
+[00:07:43] offense, um, fraud, including scams, is the least reported.
+[00:07:47] So kind of that's great that we're tackling that.
+[00:07:49] But just again, I just wanted
+[00:07:50] Obviously, on page 29, we've got this multi-agency
+[00:07:53] model.
+[00:07:55] Mm-hmm. Um, just keen to get your reflections, um, 'cause obviously there is actually a lot
+[00:07:59] of agencies involved. Is that, is that working?
+[00:08:02] You've set it out... I mean, I think it's great you've set out this, um, diagram.
+[00:08:06] Um, but what is obviously important and it's good to see you've got the, the victim
+[00:08:09] or the informant at the center-
+[00:08:10] Mm-hmm.
+[00:08:10] ... which is great. But yeah, just in even looking at this, did you uncover kind of
+[00:08:14] any weaknesses in the way we're set up as government agencies at the
+[00:08:18] moment? Is there anything that kind of springs to mind about that needs to be done
+[00:08:22] as a result of, yeah, th- the way we are set up at the moment?
+[00:08:27] So there's nothing wrong with a multi-agency approach.
+[00:08:30] That's what we see internationally.
+[00:08:32] Uh, and indeed there are reasons why it's very important for independence
+[00:08:35] reasons, different powers, uh, different expertise.
+[00:08:39] So there's nothing wrong with that.
+[00:08:41] The issue that we were, uh, trying to illustrate here is that that
+[00:08:45] might make sense from a integrity, um, regulatory
+[00:08:49] framework perspective, but for the complainant-
+[00:08:52] Yes.
+[00:08:53] ... who just wants to get their, um, issue progressed in the most efficient
+[00:08:57] way, it could cause, um, either confusion
+[00:09:00] or potential gaps between those multi-agencies.
+[00:09:04] So it's, it's around
+[00:09:07] given that we've got these frameworks, which are important to have, how
+[00:09:11] does one, uh, better, uh, ensure that
+[00:09:14] frictionless experience for a complainant?
+[00:09:17] How does one, uh, consider how to,
+[00:09:21] um, assist with the information sharing and collaboration
+[00:09:25] between those agencies? Mindful that, of course, government
+[00:09:28] agencies, we have, uh, several, um, laws
+[00:09:32] and-
+[00:09:32] Mm-hmm.
+[00:09:33] ... um, we have our own obligations that we must comply with in terms of privacy,
+[00:09:37] confidentiality, and how, how we handle information, which are all very
+[00:09:41] important as well. So within that, how do we,
+[00:09:45] um, better improve those potential gaps and
+[00:09:48] issues?
+[00:09:49] That's very, that's very insightful and I just wanna congratulate you on taking
+[00:09:52] that-
+[00:09:53] Yeah. We might just-
+[00:09:53] ... victim-centric approach. Thank you.
+[00:09:55] We might just stop because I've got people lining up for questions.
+[00:09:56] Yeah, I'm done.
+[00:09:57] All right, cool. We're going to Ms. Walters.
+[00:09:59] Thank you, Mr. Chair, and thank you, Karen and Dan-
+[00:10:01] Karen, you're next.
+[00:10:02] ... uh, for being with us today, but for the work of your team, which I consider is
+[00:10:05] very important because we've recently had the ministerial report that
+[00:10:09] has said that there's an increasing risk and previous reports that say we're losing
+[00:10:13] the fight. Um, and so my view is that it kind of beggars belief that
+[00:10:17] in that context, the government have essentially reduced your
+[00:10:20] funding, um, from what I can see, four FTE in the
+[00:10:24] last financial year. But I'm wondering if you can speak to that
+[00:10:27] reduction in capacity for our key
+[00:10:31] watchdog in the context of a report to the minister that says the
+[00:10:35] risk is increasing.
+[00:10:37] Well, tha- thank you for that question.
+[00:10:39] Uh, in terms of losing the fight, uh, it's important to, um, stand back
+[00:10:43] and remind ourselves that New Zealand's in a highly enviable position
+[00:10:47] globally, even many of these jurisdictions that we point to as
+[00:10:51] having, um, taken good action, most of
+[00:10:55] them actually have always sat behind New Zealand on the Corruption
+[00:10:58] Perceptions Index. Uh, having said that,
+[00:11:03] it's important to be vigilant because complacency,
+[00:11:06] uh, ironically being historically highly rated,
+[00:11:10] can actually breed complacency, which is one of the issues that,
+[00:11:14] um,
+[00:11:15] all of the coun- countries who have always been at the top of the
+[00:11:19] rankings needs to address and,
+[00:11:23] um, maintain their effort. Uh, in, in terms of,
+[00:11:26] um, in terms of your question around resourcing,
+[00:11:30] that's absolutely the case. Like other government agencies,
+[00:11:34] uh, we have had to grapple with the challenges of the fiscal
+[00:11:38] constraints. And, um, you might recall that we've made
+[00:11:42] some, uh, significant strides in our efficiency
+[00:11:46] and effectiveness review to both take a look at how we
+[00:11:50] can be smarter, use technology, and focus our
+[00:11:54] energies on, uh, impact, uh, as well as
+[00:11:58] having to, um, consider
+[00:12:02] how we target our cases. We can only take so many at any given
+[00:12:06] time, and we need to tailor our ability
+[00:12:10] to take forward cases to the level that is expected of the New Zealand
+[00:12:14] public, uh, with the resources that we have.
+[00:12:17] So, so absolutely, it's a, it's a challenge.
+[00:12:20] Mm-hmm.
+[00:12:20] Uh, however, w- we are
+[00:12:24] proactive. (clears throat) and finding ways to address it, um,
+[00:12:28] and, and creative ways as well. Mm.
+[00:12:31] Supplementary. (clears throat) Thank you very much for that.
+[00:12:33] I think, for me, one of the key roles of the SFO is watching our
+[00:12:37] leaders as well, and in the context of allegations in
+[00:12:41] terms of the tobacco lobby, foreign interference.
+[00:12:44] Is it the case that this reduced funding will impact
+[00:12:48] the office's capacity to look at those matters?
+[00:12:53] So we are not the only player in those issues that
+[00:12:57] you're, um, speaking of. There is, um, a, a framework that sits
+[00:13:01] behind, um... So for instance, if I could refer to,
+[00:13:05] um, the most recent report of Transparency International
+[00:13:09] New Zealand, which pointed out, um, s- some of the
+[00:13:13] findings around, um, those issues, around transparency,
+[00:13:17] around lobbying, uh, th- the, our electoral
+[00:13:21] law framework. Uh, those aspects,
+[00:13:24] tho-, those aspects are, um, it's a
+[00:13:28] number of different, um, organizations and agencies
+[00:13:32] are responsible for a- addressing some of those
+[00:13:36] issues, legislative gaps that were pointed out, uh, in the TINZ
+[00:13:40] report as well. From the SFO's
+[00:13:43] perspective, our remit is we're primarily a law
+[00:13:46] enforcement agency, so we will
+[00:13:50] be a- addressing those most high-level, serious, and complex
+[00:13:54] fraud issues. Uh, at the same time, we must
+[00:13:58] comply with the legislation and the framework that we have.
+[00:14:01] And in addition to that, we have taken steps to,
+[00:14:05] uh, to, um,
+[00:14:08] stand up our prevention side of the business, recognizing that that's one of the
+[00:14:12] most efficient ways to actually bring the
+[00:14:15] curve down. So
+[00:14:18] absolutely I, I wouldn't, I wouldn't say that
+[00:14:22] resourcing is not an issue. That would be unrealistic.
+[00:14:25] We have to work with the resources that we have, and it has been
+[00:14:29] challenging. Having said that, uh, we are
+[00:14:32] confident that we are, um, positioned to
+[00:14:36] take the important cases.
+[00:14:38] Mm.
+[00:14:38] We have the ability to select the cases.
+[00:14:41] We have a triaging framework which was recently refreshed
+[00:14:45] that takes into account all of these balancing factors, and we feel
+[00:14:49] confident that that helps us surface what's going to be
+[00:14:53] most important, uh, for New Zealand.
+[00:14:57] One of those things that we've done is regularly publishing strategic
+[00:15:01] areas of focus, so that helps us lift those
+[00:15:04] that, um, we've scanned the (clears throat) environment and
+[00:15:08] we have a sense of what we think is going to be most impactful to New
+[00:15:11] Zealand's, um, economic and financial
+[00:15:15] position. And we have, uh, focused our
+[00:15:18] resources on those, uh, particular areas of focus.
+[00:15:22] So those that are most important to New Zealand, we feel confident
+[00:15:26] that, um, we are well-positioned to take those forward.
+[00:15:30] Okay, I'm gonna allow one more question, but I just want to advise the
+[00:15:34] member to be careful that she's not implying
+[00:15:37] certain groups are corrupt
+[00:15:39] or, and there could have been made that adv-, um,
+[00:15:43] accusation. So just-
+[00:15:45] Mr. Chair.
+[00:15:45] ... she can have one more-
+[00:15:46] Please-
+[00:15:47] She can have one more question.
+[00:15:48] Thank you, Mr. Chair. Uh, given the government have failed to
+[00:15:52] adequately fund the F- SFO, given the increased risk, you
+[00:15:56] mentioned a lobbying register.
+[00:15:58] Mm.
+[00:15:58] Is it the office's view that we should be looking at setting up a lobbying
+[00:16:02] register?
+[00:16:03] O- obviously as a public servant, servant in my position, I, I can't
+[00:16:07] comment on those c- correct policy settings, um,
+[00:16:11] that, that are available for policymakers and decision-makers to
+[00:16:15] consider. Uh, what I can say is that, um,
+[00:16:19] transparency around, um, these sorts of issues
+[00:16:23] is always going to be important (clears throat) for a free
+[00:16:26] (clears throat) democratic, uh, s- society.
+[00:16:28] So we would certainly support, um, whatever
+[00:16:32] the right policy settings and policy levers ought to be for New
+[00:16:36] Zealand.
+[00:16:37] She takes a long time to answer.
+[00:16:38] Yeah. All right,
+[00:16:39] Those that, that would, uh, that would support
+[00:16:42] transparency. Thank
+[00:16:43] you. We've just got, she's got about 12 minutes. We've got Mr. Bates.
+[00:16:46] (clears throat) Thank you, Chair. Um, a couple of sups.
+[00:16:47] Uh, first one, just can you clarify for us what was the change
+[00:16:51] in your resourcing from a financial perspective, uh, in the last
+[00:16:55] financial year?
+[00:16:57] Uh, yes. So this is just off the top-
+[00:16:59] As
+[00:16:59] a percentage. ... of my head.
+[00:16:59] Yep.
+[00:17:00] So we can provide you with more detail around that.
+[00:17:03] Uh, so in the last
+[00:17:05] financial year, was it the previous financial year, Dan,
+[00:17:09] that our appropriation was reduced
+[00:17:13] by 3.5%?
+[00:17:15] 3.5%.
+[00:17:16] That's correct.
+[00:17:18] Um, and there were no further reductions in the last financial
+[00:17:21] year.
+[00:17:22] Okay. And, uh, my, my follow-up to that is often these questions are
+[00:17:26] asked with a complete lack (thumping sound) of understanding that it's not just
+[00:17:29] about how much money, but how effectively you spend it.
+[00:17:32] Can you confirm for the committee whether you feel you're in a
+[00:17:36] better position to, uh, resolve the sort of issues that you're
+[00:17:40] tasked with for New Zealand today than you were 12 months ago
+[00:17:44] or in a worse position? Hmm.
+[00:17:48] I'm confident we are in a better position because of the steps that we have
+[00:17:52] taken. Um, we knew that this was coming, and so
+[00:17:56] when we undertook our efficiency and effectiveness review, um,
+[00:18:00] you referred to, the member referred to the four FTE.
+[00:18:03] We didn't just rely on vacant posts and, uh, just
+[00:18:08] what was coming through, um, the ranks.
+[00:18:10] We proactively considered where should we actually
+[00:18:14] target our resources. So-Some of
+[00:18:18] the creative, um, changes that we made, it wasn't just around
+[00:18:22] savings and re- reduction of, um, FTE or
+[00:18:26] otherwise. It was around what are certain changes that we
+[00:18:30] can make that'll make us more effective?
+[00:18:32] So for instance, we put our detection and our prevention functions
+[00:18:35] together, that single front door.
+[00:18:37] Right. And you'll see that that is, uh, now considered to be international best,
+[00:18:41] best practice to do that. We have also stepped up our
+[00:18:45] detection and intelligence function.
+[00:18:48] So in the past, we may have been more reliant on
+[00:18:52] the complaints that were coming through and would make selections from
+[00:18:56] there. Uh, however, uh, in, in
+[00:19:00] appointing a new detection function, this is
+[00:19:03] proactively engaging with other government
+[00:19:07] agencies, for instance, the Financial Intelligence Unit, uh,
+[00:19:11] other, uh, sources of information so as
+[00:19:15] to, uh, proactively look for leads that are going to be
+[00:19:18] impactful and fit within those, uh, strategic areas
+[00:19:22] of focus. Uh, uh, and so th- those are real,
+[00:19:26] um, advantages through the process
+[00:19:30] of the efficiency and effectiveness review, which was, of course, in part
+[00:19:34] to address the, the fiscal constraints.
+[00:19:36] But we also took advantage of the opportunity to
+[00:19:40] better, um, to better align and set up our
+[00:19:44] organization to be more effective.
+[00:19:47] Okay. Um, thanks-
+[00:19:49] None on, none on here.
+[00:19:50] Thanks, Chair. Just going back to the re- the briefing report that you, um,
+[00:19:54] are here today about, on pages 22, 23, and 24, you've
+[00:19:58] sort of outlined three different scenarios, a utopia, middle ground,
+[00:20:02] and, you know, worst case, I suppose.
+[00:20:05] Where do you see New Zealand is on the trajectory to
+[00:20:08] achieve, um, in 2050?
+[00:20:11] So I should preface this by saying these are deliberately simple
+[00:20:15] extreme examples, best case, worst
+[00:20:19] case, a- and the shadow economy in the middle.
+[00:20:22] Uh,
+[00:20:23] no country... Um, it's not sufficiently nuanced for any country
+[00:20:27] to fit neatly into any of these. Uh, all the countries will fit
+[00:20:31] somewhere on the spectrum.
+[00:20:32] Mm-hmm.
+[00:20:33] Uh, at the moment... And this is us projecting into the future, so you'll see
+[00:20:37] that we've used a little bit of our imagination in terms of the digital
+[00:20:41] for- fortress best-case scenario.
+[00:20:44] At the moment, no country fits in there.
+[00:20:46] N- none of these, um, particular, uh,
+[00:20:50] technological measures and platforms are currently
+[00:20:53] available. Uh, but using... So, so that's,
+[00:20:57] it's important to preface that because we're just trying to illustrate potential
+[00:21:01] scenarios. Using these particular
+[00:21:04] markers, uh, I think is useful
+[00:21:08] for where New Zealand is going. We're still at the top
+[00:21:12] of the world rankings when it comes to, um, corruption
+[00:21:16] perceptions. Uh, having said
+[00:21:19] that, um,
+[00:21:22] the shadow economy is, um, an illustration of where things still
+[00:21:26] look pretty good, but actually things are
+[00:21:29] happening hidden under the radar.
+[00:21:32] So that's something that the nations at the top of the rankings
+[00:21:36] will want to guard against because it may not
+[00:21:39] be visible, uh, if your position is
+[00:21:43] beginning to decline. So for New Zealand, we are
+[00:21:47] still a strong integrity, uh,
+[00:21:51] country. We are still a low corruption
+[00:21:54] country. However, the trajectory is something that
+[00:21:58] we will want to address to either stop
+[00:22:02] or reverse. And
+[00:22:05] so if we project into the future, there is
+[00:22:10] a chance that New Zealand will inch closer and closer
+[00:22:14] from the digital fortress where we want to be and can be
+[00:22:18] to the shadow economy.
+[00:22:20] Right. I'm going to Honorable Doc- Doc- Dr. Duncan Webb.
+[00:22:23] Thank you. I've got only got... I think I've only got two, three questions, which
+[00:22:27] might not be entirely related, but there's only two.
+[00:22:29] The first one is really about long term.
+[00:22:31] So because this is what this is about, we've got a
+[00:22:35] economy where we've just launched open banking, um, where
+[00:22:39] cryptocurrencies are a, are a thing, um, and where
+[00:22:43] encrypted communication is pretty much, um, standard for a
+[00:22:47] lot of New Zealanders. And I see those as both
+[00:22:52] useful innovations, um, but open banking,
+[00:22:56] in particular, um, is about the sharing of
+[00:23:00] information. I know the legislation, I know there's protections in there,
+[00:23:03] but
+[00:23:05] how do you see in terms of that 3, 5, 10,
+[00:23:08] even 20-year framework, how do you see
+[00:23:12] those kinds of innovations and how the financial
+[00:23:16] affairs of people are managed as creating risks and
+[00:23:20] opportunities for you?
+[00:23:25] So that's a, that's a very good question because those advances are
+[00:23:29] a double-edged sword. So we know
+[00:23:33] that the vast majority of complaints,
+[00:23:36] from potential victims of fraud and scams
+[00:23:40] actually come through the banking system.
+[00:23:42] They are a ripe source of complaints.
+[00:23:47] And banks have obviously, um, taken steps to
+[00:23:51] address that, both for commercial reasons, because they don't want to be left on
+[00:23:55] the, on the hook for, um, for these losses,
+[00:23:59] but also in recognition that there needs to be that
+[00:24:03] public-private sector partnership.
+[00:24:06] Uh, so they have taken those steps and, um, and, and
+[00:24:10] that, that can be helpful, uh, from a law
+[00:24:14] enforcement detection and prevention perspective.I think
+[00:24:18] you'll—the member's question is around the risks that the flip side
+[00:24:23] of, uh, e-exposing New Zealand to,
+[00:24:26] um, these other forms of, um,
+[00:24:30] uh,
+[00:24:31] transactions and, and financial flow of funds, which may not be
+[00:24:35] necessarily easy to trace and identify, um,
+[00:24:39] which comes with, um, the benefits of, of open
+[00:24:43] banking. Uh, so we're very conscious that it's both
+[00:24:47] a ripe source of complaints and also a key
+[00:24:51] partner, but at the same time, uh, it's, uh,
+[00:24:55] potentially opens up New Zealand to greater vulnerabilities and
+[00:24:59] risks. So, from our perspective, um, w-
+[00:25:03] we are working closely with, uh,
+[00:25:07] the financial intelligence unit, which is also
+[00:25:10] a good source of information that flows from the
+[00:25:14] financial sector, uh, and we have
+[00:25:17] also proactively engaged with commercial
+[00:25:21] banks, uh, the National Banking Association.
+[00:25:24] We often have, um, seminars around what
+[00:25:28] they are observing and what, what we are, because we're very conscious that
+[00:25:32] we're in this, uh, we need to have closer,
+[00:25:36] uh, a- alliance and, and information sharing.
+[00:25:39] Yeah. Um, you know, interest- I mean, interesting to think about that in terms of
+[00:25:42] much longer term. The second one is also about kind of a change in New
+[00:25:46] Zealand. I was interested to look at some of the cases you've done.
+[00:25:49] You've got one which is, is the, um, West
+[00:25:53] Coast wastewater case, um, and the other one which I
+[00:25:57] had, well, not some personal intervention in, but the, one of the
+[00:26:00] defendants came and approached me for assistance, was the,
+[00:26:04] um, I think Oranga Tamariki Christchurch case.
+[00:26:08] And I've gotta be cautious what I say, but one of the features of that was kind of
+[00:26:11] a cultural overlay, um, in a particular cultural
+[00:26:15] community. And we are a changing New Zealand where
+[00:26:19] people are bringing a different set of values.
+[00:26:21] And certainly, in my interactions, um, there was
+[00:26:24] an quite astounding failure to see
+[00:26:28] wrongdoing in one of those cases, that this is just how you do
+[00:26:32] business. And I guess in terms of a change in New Zealand
+[00:26:36] in the long term,
+[00:26:38] what are we doing? And hey, what, you know, what, what are your views about the
+[00:26:42] risks of people bringing a value set to New Zealand, which
+[00:26:46] is not the way we do business and government
+[00:26:49] here?
+[00:26:50] That's a very valid observation. I think where you have...
+[00:26:54] There's lots of strengths and benefits that come with
+[00:26:58] immigration, multiculturalism, which we all enjoy.
+[00:27:01] Absolutely. The flip side, of course, is, uh,
+[00:27:05] different values, different norms, different worldviews, and
+[00:27:09] that not only applies in the, um, area of
+[00:27:13] potential wrongdoing, like fraud and corruption, but in other
+[00:27:17] facets of life as well. So, it's important to be
+[00:27:20] aware that those norms can be different and not to necessarily take
+[00:27:24] for granted that what we see is, um,
+[00:27:28] obvious as what's acceptable may not
+[00:27:31] be, may not align with somebody from quite a different culture
+[00:27:36] and background.
+[00:27:37] You, you're describing the world, but my question is, what's the str- you, 'cause
+[00:27:40] the long-term insights briefing is supposed to give us policy options and
+[00:27:44] strategies. And I haven't heard a lot of policy options and strategies even
+[00:27:49] on either of those questions.
+[00:27:51] So, we're talking about themes for the LTIB.
+[00:27:54] This is not a policy document.
+[00:27:56] Mm-hmm.
+[00:27:56] We're talking about themes that we're seeing across the world
+[00:28:00] and areas that decision-makers need to think about, whatever
+[00:28:04] the policy, and there are a myriad of policy levers to-
+[00:28:07] But the Public Service Act does say that you should be looking at policy directions
+[00:28:11] in your long-term insights briefings, right? That's what it says.
+[00:28:14] Could you have policies,
+[00:28:17] directions that might address some of these issues?
+[00:28:20] 'Cause a lot of it's descriptive. It's a wee bit critical, I know, but
+[00:28:24] th- it's supposed to say, "Here are emerging pro- problems that
+[00:28:28] might happen. Here's what we might do to address them."
+[00:28:31] So, on the cultural side, and if, I, I wanna, again, stick to the broader
+[00:28:35] themes, if, if I might. Um, on the cultural
+[00:28:38] side, the work that we're doing in the prevention space and with
+[00:28:42] our anti-corruption task force,
+[00:28:46] when you look into the cu- types of questions that, uh, we're asking public
+[00:28:50] sector agencies, it is around, um,
+[00:28:53] strengthening those policies, strengthening the education and the
+[00:28:57] training, because as you say, you cannot necessarily take for granted
+[00:29:01] that the public servants, uh, that, uh, are
+[00:29:04] hired will necessarily, um,
+[00:29:08] have the same sorts of norms and standards that we
+[00:29:12] expect of them. And we cannot take that for granted.
+[00:29:15] I acknowledge that. Yeah, no, that's fine.
+[00:29:16] S- so, so, so to your point, it does come from not
+[00:29:20] only, um, ensuring that we are proactively
+[00:29:23] educating our officials to understand what their
+[00:29:27] obligations are, but also following up.
+[00:29:30] So, it's just, it's not just a matter of having a conflicts of interest policy
+[00:29:34] sitting there dormant and no one is checking whether or
+[00:29:37] not, um, they're being complied with and whether or not the training is
+[00:29:41] ongoing, and that you have a system that can
+[00:29:45] actually pick up when those sorts of anomalies
+[00:29:48] occur. So, just taking those examples that we
+[00:29:52] have, when you have... Um, and some of those examples are,
+[00:29:56] are reasonably unsophisticated.
+[00:29:58] Mm-hmm.
+[00:29:58] So,
+[00:30:00] t- to the ext- if you had a system that was, uh, had a bit more
+[00:30:03] rigor, it could've been quite obvious to pick up these
+[00:30:07] anomalies or these associations between the public servant
+[00:30:11] and the, the associate that has benefitted
+[00:30:14] Husband,
+[00:30:14] yeah. ... benefiting, the husband-
+[00:30:16] (laughs)
+[00:30:16] ... (laughs) ... uh, that has been, it didn't take a...
+[00:30:18] Perhaps a company's office search may well have revealed that.
+[00:30:22] Or these very unusual... Um, from the top of my head, it was around
+[00:30:26] about-... $2 million worth of these
+[00:30:30] contracts that were diverted to this, um-
+[00:30:33] Yeah.
+[00:30:33] ... cu- husband's company. So those sorts of things, uh, could
+[00:30:37] be, uh, systemwide,
+[00:30:41] um, solutions to making it a little bit easier.
+[00:30:45] But at the same time that, that cultural piece and the education piece is going to
+[00:30:48] be increasingly important. We can't take for granted that
+[00:30:52] everybody sees what is acceptable and what is a red
+[00:30:56] flag, uh, in the same way.
+[00:30:58] Okay, last question from Ms. Nutley.
+[00:31:01] Thank you, Mr. Chair. Thank you for being here.
+[00:31:03] Um-
+[00:31:03] Informants and whistleblowers, um, the report said they're crucial
+[00:31:07] pieces in a detection toolkit. And, um,
+[00:31:10] and the thing about New Zealand is that, um, I think we've all realized
+[00:31:14] it's actually one degree of separation.
+[00:31:16] Mm-hmm.
+[00:31:16] We're a very small population, as you mentioned in the report.
+[00:31:19] So, do we, um, here in our beautiful country of New Zealand need to do a
+[00:31:23] lot more than our other friendly nations that have those larger
+[00:31:27] populations to protect the anonymity of
+[00:31:30] whistleblowers and informants so that we can continue to,
+[00:31:34] to, to, um, get the, the, the information we need with
+[00:31:38] detection? And how do we do
+[00:31:40] that?
+[00:31:42] Yeah, so whistleblowers is critical. The, the...
+[00:31:44] And those internal, um, complaints are, are critical.
+[00:31:48] And it's absolutely right that in a smaller
+[00:31:51] community, um, the fear of reprisal, the fear of
+[00:31:55] consequences-
+[00:31:56] Mm-hmm.
+[00:31:56] ... can feel, um, i- i- more intense.
+[00:31:59] So an example of what we are doing at the ECFO is our
+[00:32:03] foreign bribery, uh, pilot. So this is a campaign where
+[00:32:07] we are raising, uh, awareness around what foreign bribery
+[00:32:11] is. Um, and this is a particularly difficult to
+[00:32:15] detect type of corruption. Corruption's al- already difficult, but foreign
+[00:32:19] bribery is particularly difficult. And there's very little awareness about that.
+[00:32:23] However, it's usually the insiders of these companies that
+[00:32:26] have the information and the tips.
+[00:32:29] Um, we've had the legislation in New Zealand for 10 years and there hasn't been a
+[00:32:33] prosecution, so we launched our foreign bribery, um,
+[00:32:36] awareness campaign earlier in th- this year.
+[00:32:40] So it's twofold. First of all is the advertising.
+[00:32:43] Um, and we've advertised in different, um,
+[00:32:47] ethnic, um, community publications, export
+[00:32:51] publications, as well as our standard, um, mainstream
+[00:32:55] media, just to raise that awareness.
+[00:32:58] But the second part goes to your point, uh, around
+[00:33:02] helping to encourage potential whistleblowers
+[00:33:06] to make these reports, because sometimes there's a lot at stake.
+[00:33:10] Uh, of course, we can always receive anonymous complaints now.
+[00:33:14] The problem is that if there's not enough for us to
+[00:33:17] go on, the lead ends there. We cannot go back and follow
+[00:33:21] up. So, and, and of course, we've got our whistleblowing
+[00:33:24] legislation which pres- provides certain protections, but for
+[00:33:28] some complainants that may not be enough because that's not a complete
+[00:33:32] blanket immunity.
+[00:33:33] Mm-hmm.
+[00:33:33] So we have rolled out a new encrypted reporting
+[00:33:37] platform as part of our foreign bribery awareness
+[00:33:40] campaign. It's accessible in multiple
+[00:33:43] languages, around about five- 15 or 16, including
+[00:33:46] Pacific languages, where anonymous complaints can
+[00:33:50] be made, uh, with some detail. But the great thing is that
+[00:33:55] we... our experts can converse back and forth
+[00:33:58] with these anonymous complainants without ever revealing their
+[00:34:02] identity. Uh, they can even upload documents
+[00:34:06] where the metadata is automatically stripped so that we do not
+[00:34:10] even inadvertently find out who they are.
+[00:34:13] So even the law enforcement agency does not know.
+[00:34:16] And the idea being that we will independently pick up the
+[00:34:20] lead and investigate that.
+[00:34:22] Mm-hmm.
+[00:34:22] So that's something that just the ECFO is, is working on, um,
+[00:34:27] acknowledging the issues that, that you've just raised.
+[00:34:29] Yeah, thank you. That's nice.
+[00:34:31] That's a fascinating point to end on.
+[00:34:34] Um, pity we didn't have a bit more time on that.
+[00:34:36] But, uh, thank you for your contribution this morning, both of you, and the
+[00:34:39] team, uh, and very nice that you've turned up.
+[00:34:42] Thank you.
+[00:34:42] Thank you.
+[00:34:43] Thanks very
+[00:34:43] much.

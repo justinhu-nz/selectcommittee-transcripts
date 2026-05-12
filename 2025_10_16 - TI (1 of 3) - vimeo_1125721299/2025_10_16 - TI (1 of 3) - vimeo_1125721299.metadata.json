@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:52:10.550413+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125721299",
+  "title": "2025/10/16 - TI (1 of 3)",
+  "url": "https://vimeo.com/1125721299",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 7709,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7705.93,
+    "segment_count": 2920,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_16 - TI (1 of 3) - vimeo_1125721299\\2025_10_16 - TI (1 of 3) - vimeo_1125721299.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125721299",
+    "display_id": "1125721299",
+    "title": "2025/10/16 - TI (1 of 3)",
+    "description": "16 October 2025 | Transport and Infrastructure Committee\nRegulatory Systems (Transport) Amendment Bill\nBay of Plenty Regional Council\n\tStephen Lamb, Natural Resources Policy Manager\n\tHayley Sheridan, Legal Counsel\n\tJon Jon Peters, Harbourmaster\nFinancial Services Federation\n\tLyn McMorran, Executive Director\nIa Ara Aotearoa Transporting New Zealand (9.27am \u2013 9.42am)\n\tBilly Clemens, Head of Policy and Advocacy\n\tMark Stockdale, Policy Specialist\nInquiry into Ports and the Maritime Sector\nInternational Container Lines Committee\n\tMark Scott, General Manager, COSCO SHIPPING Lines (New Zealand) Ltd\n\tGary Carter, General Manager, CMA-CGM New Zealand\nKotahi, Fonterra and Silver Fern Farms\n\tEmma Parsons, Chief Executive Officer, Kotahi Logistics\n\tDrew Uasike, General Manager Vendor and Partnerships, Kotahi Logistics\n\tSantiago Aon, Director Global Supply Chain, Fonterra\n\tScott Hurdley, General Manager Logistics, Silver Fern Farms\n\tBen Cunliffe, Manager New Zealand Government Affairs, Fonterra",
+    "webpage_url": "https://vimeo.com/1125721299",
+    "original_url": "https://vimeo.com/1125721299",
+    "upload_date": "20251015",
+    "timestamp": 1760567063,
+    "release_timestamp": 1760567071,
+    "duration": 7709,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2071665286-8a29915c41a50c66f3e0bbd60b59980e675662aac4fbb9333536066f42cd9ce1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259377868.vtt?expires=1778590335&sig=6aefea58204b54035d8c34826b1700fdb2498c90&download=auto_generated_captions.vtt"
+  }
+}

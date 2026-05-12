@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:55:31.262150+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141924080",
+  "title": "2025/12/01 - SSC (Part 4)",
+  "url": "https://vimeo.com/1141924080",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 1613,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1610.15,
+    "segment_count": 651,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - SSC (Part 4) - vimeo_1141924080\\2025_12_01 - SSC (Part 4) - vimeo_1141924080.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141924080",
+    "display_id": "1141924080",
+    "title": "2025/12/01 - SSC (Part 4)",
+    "description": "Monday 1 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the New Zealand Lotteries Commission\n\nHearing of evidence:\n\nNew Zealand Lotteries Commission\n\nMark Todd, Board Chair\nJason Delamore, Chief Executive\nJeff Hayward, Chief Financial Officer\nWill Hine, Head of Corporate Communications",
+    "webpage_url": "https://vimeo.com/1141924080",
+    "original_url": "https://vimeo.com/1141924080",
+    "upload_date": "20251201",
+    "timestamp": 1764559166,
+    "release_timestamp": 1764559173,
+    "duration": 1613,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089817465-6ed82f49a0554fe874061b677061c5e3fc96acb79c07e7bd9843df8c19b52e3d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268597829.vtt?expires=1778590536&sig=ff052d96bdcf4170fdbeeecc5b24883830334916&download=auto_generated_captions.vtt"
+  }
+}

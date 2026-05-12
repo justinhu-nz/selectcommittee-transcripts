@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:06.305570+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141939143",
+  "title": "2025/12/02 - JU",
+  "url": "https://vimeo.com/1141939143",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 10708,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10702.89,
+    "segment_count": 3722,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - JU - vimeo_1141939143\\2025_12_02 - JU - vimeo_1141939143.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141939143",
+    "display_id": "1141939143",
+    "title": "2025/12/02 - JU",
+    "description": "Tuesday 2 December 2025 | Justice Committee\n\n2024/25 Annual review of the New Zealand Police\n\nSubmitters:\n\nNew Zealand Police\n\nRichard Chambers, Commissioner of Police\nJill Rogers, Deputy Commissioner: Northern\nTusha Penny, Deputy Commissioner (acting)\nAndrea Conlan, Chief Operating Officer\nMike Pannett, Assistant Commissioner\nMike Johnson, Assistant Commissioner\nCorrie Parnell, Assistant Commissioner\nUraia Vakaruru, Assistant Commissioner\nJeremy Wood, Chief Policy and Planning Officer\nLeigh MacDonald, Chief People Officer\nMatt Winter, Chief Information Officer\nPaul LaPlanche, Chief Financial Officer\nBen Butterfield, Director Frontline Enablement\nRichard Wilson, Director Firearms Transformation\nSteve Ferguson, NGCC Lead Entity Director\n\n\nHon Mark Mitchell, Minister of Police",
+    "webpage_url": "https://vimeo.com/1141939143",
+    "original_url": "https://vimeo.com/1141939143",
+    "upload_date": "20251202",
+    "timestamp": 1764648538,
+    "release_timestamp": 1764648553,
+    "duration": 10708,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090330335-4ae10c13e3258f4f398532b034133380eb046453bf78db204e546a1ebfc42a6a-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/271652119.vtt?expires=1778591410&sig=a7a167834ea2dedcf152e3ed756cf97aa3742bb4&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:08.134365+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1020456225",
+  "title": "2024/10/24 - Petitions",
+  "url": "https://vimeo.com/1020456225",
+  "published_at": "20241024",
+  "published_display": "2024-10-24",
+  "duration_seconds": 2361,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2359.89,
+    "segment_count": 753,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_10_24 - Petitions - vimeo_1020456225\\2024_10_24 - Petitions - vimeo_1020456225.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1020456225",
+    "display_id": "1020456225",
+    "title": "2024/10/24 - Petitions",
+    "description": "24 October 2024 | Petitions Committee",
+    "webpage_url": "https://vimeo.com/1020456225",
+    "original_url": "https://vimeo.com/1020456225",
+    "upload_date": "20241024",
+    "timestamp": 1729738804,
+    "release_timestamp": 1729738853,
+    "duration": 2361,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1947492642-07f28b17102b2d0ddaa0d2aff82ccbd844310eb308b3149cb475882a41966f01-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/192121125.vtt?expires=1778590153&sig=8d96bf2745891fda7ce045d8c2608866a2bf54fb&download=auto_generated_captions.vtt"
+  }
+}

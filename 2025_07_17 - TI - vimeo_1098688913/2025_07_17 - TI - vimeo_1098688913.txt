@@ -1,0 +1,793 @@
+Title: 2025/07/17 - TI
+URL: https://vimeo.com/1098688913
+Published: 2025-07-16
+Duration: 00:32:16
+
+[00:00:40] Then I'll pass over to Kate.
+[00:00:41] So, um, Miranda Koto.
+[00:00:42] My name's Jason Hewitt, manager of Performance Audits.
+[00:00:44] Um, joined here today, um, by Kate Williams,
+[00:00:47] the audit lead for this piece of work.
+[00:00:49] Um, and, uh, clin, uh,
+[00:00:51] audit director from Audit New Zealand.
+[00:00:52] So I'll, that's, that's my part
+[00:00:54] so far. So I'll pass you on to Kate.
+[00:00:56] Thanks, Jason. Yeah, so I'm just gonna talk a bit about,
+[00:01:00] um, why we did this audit, what we found,
+[00:01:02] and then we can move on to any questions that you've got.
+[00:01:05] Sure. Um, we did this audit
+[00:01:07] because vehicle safety is important.
+[00:01:10] Um, if you've got a car, you'll know about getting a warrant
+[00:01:13] of fitness, but even if you don't have a car, you know,
+[00:01:15] you use our roads, you might go on the bus, you might bike.
+[00:01:18] So you wanna know that the vehicles on our roads are safe.
+[00:01:23] We looked at this audit, or for this audit, we looked at
+[00:01:25] how well, um, NZTA regulates the vehicle inspectors
+[00:01:29] and inspecting organizations that carry out warrants
+[00:01:32] and certificates of fitness.
+[00:01:35] We looked at how they, how they appoint inspectors.
+[00:01:38] We looked at how they detect and respond to non-compliance.
+[00:01:42] So when they're not doing the job properly,
+[00:01:44] and we looked at how they, um, monitor
+[00:01:46] and report on the work that they do.
+[00:01:50] Back in 2018,
+[00:01:52] a car passenger died when their seatbelt
+[00:01:54] failed in an accident.
+[00:01:57] The, um, the car had been recently checked
+[00:01:59] and given a warrant of fitness,
+[00:02:00] but it turned out that, um,
+[00:02:02] the car had not been inspected properly.
+[00:02:04] As a result of this. NZTA carried out some, um,
+[00:02:07] investigations and found that they had
+[00:02:09] what they called a regulatory failure in terms
+[00:02:11] of the warrant and certificates of fitness.
+[00:02:13] They found there were, I think about 850 cases
+[00:02:16] of non-compliance that they hadn't followed up,
+[00:02:19] and about 150 of those, they deemed to be,
+[00:02:21] um, high priority.
+[00:02:23] So after that, there were some reviews, a lot
+[00:02:25] of changes were made, and,
+[00:02:26] and we came in, um, some years after that to do the audit.
+[00:02:30] What we found was that NCTA now has much better processes in
+[00:02:34] place to detect non-compliance and to respond quickly
+[00:02:37] and consistently when they find non-compliance.
+[00:02:41] And that was a, you know, a very good finding.
+[00:02:43] But we did find some areas that they also need to improve.
+[00:02:46] So one of those is around it.
+[00:02:48] Um, the regulation and warrants
+[00:02:50] and certificates of fitness still uses a lot of quite, um,
+[00:02:53] outdated IT systems.
+[00:02:55] So the main database that they use, um, for the,
+[00:02:58] for the inspections, there's an old access database.
+[00:03:01] A lot of their work is based on the spreadsheets
+[00:03:04] for tracking their work and things like that.
+[00:03:07] We also found that the vehicle standards themselves could be
+[00:03:10] easier to find and understand,
+[00:03:13] and we thought that there could be clearer links
+[00:03:15] between the work or,
+[00:03:16] or the impact of warrant certificates of fitness
+[00:03:18] and the impact that has on overall road safety,
+[00:03:21] because without those links, it makes it hard to see
+[00:03:23] what the impact of that work is.
+[00:03:26] We also talked a bit about the future.
+[00:03:28] So with a warrant or certificate of fitness at the moment,
+[00:03:30] they take a vehicle and they do pretty
+[00:03:32] much a physical check of it.
+[00:03:33] You know, they sound the horn, they test the brakes,
+[00:03:36] they have a look to see if there's any
+[00:03:37] rust on the undercarriage.
+[00:03:39] But more and more cars now have got very modern, um,
+[00:03:42] safety features, which are based on advanced technology.
+[00:03:45] And those things aren't looked at in a
+[00:03:47] warrant or certificate of fitness.
+[00:03:49] And at the moment, you know,
+[00:03:51] nobody's really looking at that.
+[00:03:52] So that's something that needs
+[00:03:53] to be dealt with in the future.
+[00:03:55] NZTA and the Ministry of Transport are aware of that,
+[00:03:58] and there is work starting, they're starting to think about,
+[00:04:00] um, what that might look like
+[00:04:02] and how we might have assurance about
+[00:04:04] vehicle safety in the future.
+[00:04:07] Just for the committee, um,
+[00:04:08] there's a few things the committee might think about.
+[00:04:10] As a result of this audit, we made five recommendations
+[00:04:13] and our report, the committee might like to ask NZTA, um,
+[00:04:17] to come in and talk about their progress, um,
+[00:04:19] against those recommendations
+[00:04:21] for the work being done about the future
+[00:04:23] of vehicle safety testing.
+[00:04:25] The Ministry of Transport might be better
+[00:04:27] placed to talk about that work.
+[00:04:30] Um, also some of our findings might apply
+[00:04:31] to other regulators like maritime, um, maritime New Zealand.
+[00:04:36] Um, there might be questions for those regulators such as
+[00:04:38] how are they using data
+[00:04:39] and analytics to support their work, um,
+[00:04:43] whether they have got clear outcomes
+[00:04:44] and can see what the outcomes are from their regulatory work
+[00:04:48] and you know, what they're doing about looking to the future
+[00:04:51] to see how things might need to change
+[00:04:52] as technology changes.
+[00:04:56] So thank you. We're happy
+[00:04:57] to answer any questions that you've got. Thanks, Kate.
+[00:05:00] Um, Dan, you had fir you were first up.
+[00:05:03] Oh yeah. Thank you, Mr. Chair. Um, really good.
+[00:05:07] Interesting report. Uh, thank you.
+[00:05:09] Um, was this, I'm just quite kinda understand in terms
+[00:05:13] of why you chose this area.
+[00:05:15] Was it, um, did you have inquiries in your office to,
+[00:05:19] to look at this or,
+[00:05:21] Um, there wasn't any particular trigger?
+[00:05:23] Um, yeah, it was just an area that we thought was,
+[00:05:26] was important, something that we hadn't looked at before.
+[00:05:28] Yeah. Fantastic. The other thing is, um,
+[00:05:31] I heard you talk about technology
+[00:05:32] and definitely like modern cars these days.
+[00:05:34] Mm-hmm. Just more like, um, modern lap laptops on wheels.
+[00:05:38] So, um, you know, I know my two vehicles have a lot of tech
+[00:05:42] that just regulates even the,
+[00:05:44] the handbrake now is electronic rather than physical.
+[00:05:47] Mm-hmm. So how do, how do inspectors build that into
+[00:05:52] their regime?
+[00:05:53] Um, you know that we are moving
+[00:05:56] to basically electronics controlling most
+[00:05:58] of Yeah. The car system.
+[00:06:00] So there's, there's a couple of things there.
+[00:06:02] So if it's a, um, an electronic thing
+[00:06:06] that's replacing an existing feature,
+[00:06:08] then I think they would test it
+[00:06:10] to some extent if it functions in the same way.
+[00:06:12] So one of the examples that they talked to us about was
+[00:06:14] how some cars, um,
+[00:06:16] now rather than having mirrors, they have cameras.
+[00:06:19] And this was a bit of a problem to start with
+[00:06:21] because the regulations were very rigid
+[00:06:23] and said they needed to have a mirror.
+[00:06:25] And they've now had to change that to say they need
+[00:06:27] to have a mirror or something that does the same job
+[00:06:29] as a mirror that can see behind the car.
+[00:06:31] So they can change the regulations to some extent,
+[00:06:34] but they don't go as far
+[00:06:36] as testing the actual hardware or software of it.
+[00:06:39] They just would check that you can see behind the vehicle.
+[00:06:42] But where there are, are new features like, you know,
+[00:06:44] lane keep assist or something like that, that is not checked
+[00:06:47] as part of a, a warrant of fitness. Mm.
+[00:06:49] Which would be concerned given sooner
+[00:06:52] or later those might start having faults and
+[00:06:56] Yeah. And there's more and
+[00:06:57] more vehicles have them,
+[00:06:58] it's gonna be more and more of a, of an issue.
+[00:07:00] Yes. And so that's why, you know, the Ministry
+[00:07:02] of Transport is already looking into that.
+[00:07:04] And in terms of legislative change, I mean,
+[00:07:06] I guess we've got clunky old, older legislation of,
+[00:07:10] did your organization come up
+[00:07:12] with any recommendations on the legislative front or,
+[00:07:16] I think the main recommendation was
+[00:07:17] around just really making, um, it easier
+[00:07:19] to change the leg legislation.
+[00:07:21] Mm-hmm. So, you know, um, even a quite a minor change,
+[00:07:24] because the regulations are secondary legislation,
+[00:07:26] there is a process to go through
+[00:07:28] and so NZTA can't necessarily just make a change
+[00:07:31] that makes sense easily without going
+[00:07:33] through a full legislative process for
+[00:07:35] that secondary legislation.
+[00:07:37] Yeah, correct. Thank you. So can I just supplement you?
+[00:07:40] I'm sorry. So is that, um,
+[00:07:42] so you reckon the current checklist, you know,
+[00:07:45] when you do well, it's not fit for purpose anymore.
+[00:07:48] Like there's certain things need
+[00:07:50] to be add on to be checked as well.
+[00:07:52] I don't know whether say it's fit for purpose
+[00:07:54] or not, it's not really our role to say, say
+[00:07:57] what our inspection should cover.
+[00:07:59] I think we are just saying that it doesn't cover those
+[00:08:00] things, and that's a challenge that needs to be considered,
+[00:08:03] um, by the policy makers to think about, well, what,
+[00:08:06] what is the purpose of these inspections?
+[00:08:08] What do they need to cover? And then
+[00:08:09] how, how do you address that?
+[00:08:11] Um, I think, you know, the way that, um,
+[00:08:14] inspections are done at the moment
+[00:08:15] and the workforce that does inspections at the moment
+[00:08:19] is not necessarily the right, right.
+[00:08:20] Workforce with the right skillset to go
+[00:08:23] and start testing advanced technologies,
+[00:08:25] a whole different approach might be needed.
+[00:08:27] So it's quite a major piece of work that's going to need
+[00:08:30] to be done to look at those advanced technologies
+[00:08:32] and how we get that assurance,
+[00:08:33] and then also who's responsible for, for that.
+[00:08:38] Sure. Thank you. Can I, Camilla,
+[00:08:41] You go first, Um, just a recommendation five.
+[00:08:43] Um, and I understand about technologies changing,
+[00:08:48] but you've kind of recommended there that, um,
+[00:08:51] that the inspection requirements are easier to change.
+[00:08:54] Do you think that that's too permissive in terms of, uh,
+[00:09:00] relying on technology changes being sufficient
+[00:09:04] to meet safety requirements when perhaps they might not be,
+[00:09:09] uh, as, as people have said, they might have faults
+[00:09:12] or errors or there might be things
+[00:09:13] that that come up in the future.
+[00:09:15] Um, and do you think change is the right word,
+[00:09:17] or do you think modify
+[00:09:19] Is it might maybe modify?
+[00:09:20] Yeah, so we are not really talking about the major changes.
+[00:09:23] Um, so at the moment there are, you know, there's a rule
+[00:09:26] for each part of the vehicle, um,
+[00:09:28] and it just specifies it's quite functional, um, about
+[00:09:32] what it needs, what it needs to do,
+[00:09:33] what they need to be able to do.
+[00:09:35] Um, but sometimes maybe that doesn't work
+[00:09:38] or there's a bit of a change
+[00:09:39] that means it just doesn't quite make sense.
+[00:09:41] And at the moment, that's quite hard to change,
+[00:09:42] but I think for a more, um, for a more substantive change,
+[00:09:47] then a whole different approach might be needed anyway.
+[00:09:50] Yeah. Thanks. Can I have
+[00:09:54] Yeah, go on. Yeah,
+[00:09:55] sure. Uh,
+[00:09:57] I didn't actually receive the report,
+[00:09:58] so if something already written,
+[00:10:00] don't just apologize for that.
+[00:10:02] Do you guys actually look into, um, people
+[00:10:06] who don't actually do the inspection as well,
+[00:10:09] but you know, some cars may,
+[00:10:10] after they passed the wharf, like for almost one
+[00:10:12] or two years, they, they still not registered or, or,
+[00:10:16] or be doing the inspection.
+[00:10:17] Do you actually look into that, the area as well?
+[00:10:20] So for this audit, no, we didn't look at that.
+[00:10:21] So we just looked at how well the people
+[00:10:23] that carry out the WFS and calfs are doing the Agile,
+[00:10:25] but we didn't look at, um, how well the regulation
+[00:10:29] of vehicle owners, if you like,
+[00:10:30] we didn't look at that side of it.
+[00:10:32] Yeah.
+[00:10:35] Did did you have in the, in the process of doing this,
+[00:10:37] and we just had a few questions about vehicle technology
+[00:10:39] and the way that that changes, did you need
+[00:10:43] to understand in any way that the way in which
+[00:10:45] that vehicle technology is changing the testing processes
+[00:10:48] they go through as manufacturers?
+[00:10:50] The lot, the, the longevity of the, the technology
+[00:10:53] that's the, particularly the safety
+[00:10:54] technology that's in the cars.
+[00:10:56] Um, we didn't look at that in a lot of detail. No.
+[00:10:59] I mean, it was mentioned to us, um, in passing in some
+[00:11:02] of our conversations, but it wasn't really within the scope
+[00:11:04] of the order to look at that.
+[00:11:05] So do you think that
+[00:11:06] as NZT slash MOT are looking at the way in which they might,
+[00:11:11] uh, respond to this, um, they ought to be considering that
+[00:11:14] what, what technology actually is capable of
+[00:11:16] and what its limitations might be?
+[00:11:18] Um, I think we'd expect them to look at, you know,
+[00:11:20] all aspects of the technology, um,
+[00:11:22] or any, anything that's relevant.
+[00:11:24] Yeah. Okay. Yeah. Cool.
+[00:11:26] Um, and see the other area you,
+[00:11:28] 'cause this, this really is about the inspecting,
+[00:11:32] I would say inspecting the inspectors in a way, isn't it?
+[00:11:34] Yeah. Yeah. So the capability of the inspectors mm-hmm.
+[00:11:38] Your view is, I mean, clearly there were some
+[00:11:40] who were deficient, end of story.
+[00:11:42] Um, that's, so when we, when we were talking about 850, um,
+[00:11:46] cases, non-compliance, that's 850 individual cases,
+[00:11:50] which might be one, one entity doing it eight wrong,
+[00:11:53] 850 times could be.
+[00:11:55] Yeah. Or eight 50 to what doing it mm-hmm.
+[00:11:57] One time, whatever it might be. So it's a, it's a,
+[00:11:58] it's a number of, um, what, um,
+[00:12:05] what, what was I gonna ask?
+[00:12:06] What, what you you're basically saying is, are NZTA now
+[00:12:09] as the regulator there in your view now on top of that, so
+[00:12:13] that the, the industry is actually delivering more the
+[00:12:16] fitnesses in a way that it should be doing.
+[00:12:18] It's doing the inspections properly,
+[00:12:20] it's not letting things through the gate.
+[00:12:22] Yeah. Are you reasonably comfortable with that now?
+[00:12:24] Yeah, so we're reasonably reasonably comfortable
+[00:12:26] that now they've got processes in place to do that.
+[00:12:29] So, you know, it's a human system.
+[00:12:31] People inspecting vehicles,
+[00:12:32] there's always gonna be some problems you can't guarantee
+[00:12:35] there'll never be any, any problems,
+[00:12:37] but they've got a lot of processes in place.
+[00:12:39] Um, so one of the examples
+[00:12:40] that they do is use data analysis.
+[00:12:43] So they look at, um, you know,
+[00:12:45] they'll look at any individuals
+[00:12:47] or inspecting organizations
+[00:12:48] that have got higher than average pass rates
+[00:12:50] or fail rates, so they can sort
+[00:12:52] of see if there's any anomalies with those
+[00:12:54] and look into those in more detail.
+[00:12:56] Um, from when they do find problems,
+[00:12:58] they've now just got much stricter processes in place.
+[00:13:01] So all the inspectors have the same, um, all
+[00:13:03] of the NZTA inspectors have the same process to follow a lot
+[00:13:07] of guidance, but, you know, if you find these sorts
+[00:13:09] of errors, this is how we're gonna respond,
+[00:13:11] this is the sort of letter you need to send.
+[00:13:12] So it's a lot more consistent.
+[00:13:15] And they've got processes internally
+[00:13:16] where the more serious cases of non-compliance get dealt,
+[00:13:19] dealt with by a panel,
+[00:13:21] The non-compliance of the Inspectors of the inspector.
+[00:13:23] So if someone's not inspecting a vehicle
+[00:13:25] properly. Yeah. Yeah.
+[00:13:27] And just the other thing is we, we can, we can veer from,
+[00:13:31] in New Zealand or many other jurisdictions,
+[00:13:34] we can veer from being a bit laissez fair to being
+[00:13:37] so hard on the regulations that we fail.
+[00:13:40] An enormous number of people doesn't matter whether it's,
+[00:13:41] whether it's a building or whether it's a car
+[00:13:43] or whether it's whatever it might be.
+[00:13:45] Um, but we gotta make sure we got the balance.
+[00:13:47] In other words, we can say we're gonna make it so, so tight,
+[00:13:50] the cars which are perfectly good,
+[00:13:51] or vehicles which are perfectly good, actually, we,
+[00:13:53] we've essentially we're failing them
+[00:13:54] and we make, we're adding cost, et cetera, to the system.
+[00:13:58] Are you confident that we've got that from what you've seen?
+[00:14:00] That we've we are not, we're not varying from,
+[00:14:02] we had a problem to going right the other way
+[00:14:05] and saying, actually we're gonna create a problem in the
+[00:14:07] opposite direction, be regularly safe,
+[00:14:09] but we're also economically very, very expensive.
+[00:14:11] And a lot of people go, oh, you know,
+[00:14:13] it's, it's very expensive.
+[00:14:14] Cost of living and all that sort
+[00:14:15] of thing. Very difficult for people.
+[00:14:16] So in terms of the requirements
+[00:14:18] for the vehicles themselves, that's not something
+[00:14:20] that we looked at.
+[00:14:22] Um, but it is something, you know, the sorts of things
+[00:14:24] that we would expect, um, ministry of Transport
+[00:14:26] to be considering when it's looking to the future, you know,
+[00:14:29] how the burden, the costs, um, and,
+[00:14:31] and getting that, getting the regulatory
+[00:14:33] settings on the vehicles.
+[00:14:34] Correct. Now what we were looking at was the, um,
+[00:14:37] inspectors, as you said, I inspecting the inspectors
+[00:14:40] and the way NZTA does that now they've got a, um, sort
+[00:14:44] of graded system.
+[00:14:45] So depending on, you know, if they see non-compliance
+[00:14:48] and it's quite minor, they might just
+[00:14:51] write them a letter saying, this is what you need to fix,
+[00:14:53] or that we might come back in a couple of weeks
+[00:14:54] and check you fixed it right up to, um, you know,
+[00:14:58] removing someone's authority to carry out inspections.
+[00:15:00] If it's something more serious
+[00:15:02] Yeah. That, but that the inspect
+[00:15:03] as opposed to
+[00:15:04] what the inspectors are doing, then downstream to the people
+[00:15:06] who are actually bringing their vehicles in.
+[00:15:08] Yes. Yeah. Okay.
+[00:15:09] Um, so anybody else wanna pick up a question mate
+[00:15:11] before I go and do another one? Carlos?
+[00:15:15] Yes. I just saw on your report, you, um,
+[00:15:18] you mentioned NCTA got a safer vehicle team mm-hmm.
+[00:15:23] Managing the regulation of the vehicle inspector
+[00:15:25] and I inspecting organization.
+[00:15:27] Mm-hmm. Like how, how, how many people's there to, to,
+[00:15:31] to do the regular check for all this, um,
+[00:15:33] organizational inspector,
+[00:15:36] Um, just trying to remember the number.
+[00:15:38] So they've got, um, they've got I think four regional teams
+[00:15:43] and there's maybe up to 10 people in each of those.
+[00:15:47] But we, so we just looked at the
+[00:15:48] warrants and certificates of fitness.
+[00:15:50] The Safer Vehicles team also does other types
+[00:15:52] of vehicle inspections, so entry inspection of new vehicles
+[00:15:56] or imported vehicles.
+[00:15:58] Um, also sort of modifications.
+[00:15:59] So those teams are not just doing the
+[00:16:02] warrants and certificates of fitness.
+[00:16:04] Um, but what they do now is for, for the vehicle inspectors
+[00:16:08] and inspector organizations, they're on a three yearly cycle
+[00:16:11] of, um, NZTA coming and checking them.
+[00:16:14] So it's, rather than a numbers thing, it's,
+[00:16:16] it's a time thing of
+[00:16:18] how frequently they'll come and look at them.
+[00:16:19] And they're pretty much on top of
+[00:16:21] that three yearly cycle now.
+[00:16:23] Mm-hmm. Um, if there has been a case
+[00:16:25] of non-compliance in the past, that might be,
+[00:16:27] they might come back and look at
+[00:16:28] them more quickly than that.
+[00:16:30] So that, that can be one
+[00:16:31] of the concern if you only got 10 people,
+[00:16:33] but you got what, 3,600 organization of,
+[00:16:37] of 12,000 inspector there.
+[00:16:39] So it's very hard to keep the standard consistent or, or,
+[00:16:44] or keep a, a standard for everyone.
+[00:16:47] Um, I mean the, the, when they go
+[00:16:48] and do a site inspection, we actually went along on a couple
+[00:16:51] of them to see, to see what they do.
+[00:16:53] So they have got quite a fixed process that they follow.
+[00:16:56] Um, everyone has, all the NZTA inspectors have
+[00:17:00] to follow the same process.
+[00:17:02] So for example, with, uh, when they go
+[00:17:04] and check, um, a vehicle inspector,
+[00:17:06] they give them a theory test,
+[00:17:09] and then they'll watch them do a complete vehicle inspection
+[00:17:12] to see how well they're doing it
+[00:17:14] with the inspecting organization.
+[00:17:16] It's more about looking at the records that they're keeping.
+[00:17:18] And so they look at those in, in quite a lot of detail.
+[00:17:22] So that inspection might take, you know,
+[00:17:23] if you do one inspector
+[00:17:25] and inspecting organization at the same time,
+[00:17:27] probably takes about half a day.
+[00:17:28] Mm-hmm. Um, I don't think we had any concerns
+[00:17:32] that they weren't doing those to the required standard.
+[00:17:34] There were some, um, challenges, particularly in Auckland
+[00:17:38] for NZTA to keep up with the demand there.
+[00:17:41] Um, they had a sort of bit more of a backlog in Auckland,
+[00:17:44] but they were taking some,
+[00:17:45] some steps to try and address that.
+[00:17:47] So one of the things was they were taking people from some
+[00:17:49] of the other regions and just supplementing the Auckland
+[00:17:51] staff, um, to try and, um, build that up.
+[00:17:54] And one of the other things they were starting to do,
+[00:17:57] so at the moment, everyone who works on the NZTA side has
+[00:18:00] to be an experienced vehicle inspector,
+[00:18:02] but some of the work, especially
+[00:18:03] for inspector organizations, is looking at paperwork, um,
+[00:18:06] whether it complies, you don't need
+[00:18:08] to be a mechanic to do that.
+[00:18:09] So they're looking at getting other people to do some of
+[00:18:12] that part of the work so that the people
+[00:18:14] with the mechanical expertise can just focus
+[00:18:16] on, on that side of it.
+[00:18:18] Can I ask more? The, the reason I'm asking that,
+[00:18:20] because I think there's a major concern from,
+[00:18:22] from the general topics that, you know, different garage
+[00:18:25] or different repair, they have different standard,
+[00:18:29] if I bring the same car mm-hmm.
+[00:18:30] I may pass on, on, on, on shop A, but I fail on B
+[00:18:33] and C, like, so that,
+[00:18:36] that actually bring another concern is whether those report
+[00:18:39] are truly reflect the, the, the car status
+[00:18:42] or the safety, um, the safety of the car as well.
+[00:18:45] So how, how, how can we adjust that
+[00:18:47] and how can also we, um, PFA, like a lot of people tell me
+[00:18:50] that they, they don't want to go to do the wharf
+[00:18:52] because every single time they go there,
+[00:18:54] the mechanic will find something they they want to fix.
+[00:18:57] How can we PFA those, uh, is there anything you,
+[00:19:00] you find out is unnecessary repair, uh, uh, being mm-hmm.
+[00:19:04] You know, implement during those, um,
+[00:19:05] inspection process as well?
+[00:19:07] So apart from the regular, the regular visits
+[00:19:09] that NZTA does,
+[00:19:10] the main thing was the data analysis, um, that we talked about.
+[00:19:13] So, you know, they see a, a, a particular individual
+[00:19:17] or inspecting organization that's got a higher, um,
+[00:19:20] fail rate or even a higher pass rate than the average,
+[00:19:23] they would look into that to see if there's a pattern.
+[00:19:26] Mm-hmm. Um, that suggests, you know, suggests that perhaps,
+[00:19:29] um, they are failing at planning someone too often, um,
+[00:19:33] or on things un unnecessarily.
+[00:19:35] I think, you know, as, as a vehicle owner, as a consumer,
+[00:19:37] you've got the right to shop around if you're not happy, um,
+[00:19:40] with the service that you're getting when you go
+[00:19:42] and get a warrant of fitness, you can,
+[00:19:43] you can go somewhere else.
+[00:19:45] You can also, um, make a complaint, um,
+[00:19:48] to the garage directly.
+[00:19:50] A lot of vehicle inspectors, um, are part
+[00:19:52] of a wider organization.
+[00:19:54] So some are members of MTA, the Motor Trades Association,
+[00:19:57] others are you vehicle testing organizations.
+[00:20:00] So there's a bigger, um, organization that you can complain
+[00:20:03] to, and ultimately you can also make a complaint to NZTA
+[00:20:07] and if they think there's grounds
+[00:20:08] for complaint, they'll look into that.
+[00:20:10] Cool. Just following
+[00:20:13] Up on that. So,
+[00:20:14] so what you're saying is
+[00:20:15] that the NZTA inspectors are members of,
+[00:20:18] so a a they're all sort of, they're qualified in,
+[00:20:20] in the field, obviously
+[00:20:21] they, so they know what they're doing.
+[00:20:23] Um, they're, they're members of various different, um,
+[00:20:25] Organizations. No.
+[00:20:26] So the NNTA people just work for NZTA,
+[00:20:29] so they're independent,
+[00:20:30] but if as you, if you go to the garage,
+[00:20:31] the garage is probably the, and a member of some,
+[00:20:35] So my question there was, um, are you happy that NZ TA's,
+[00:20:38] people are keeping their skills up to scratch?
+[00:20:41] In other words, they know what they're doing,
+[00:20:42] particularly as vehicles evolve.
+[00:20:44] Mm-hmm. So the NZT inspectors are knowing
+[00:20:46] what they're supposed to be looking for
+[00:20:47] and that they're doing a, a fair and reasonable job.
+[00:20:51] Yeah. We didn't look at that in a lot of detail,
+[00:20:53] but, um, yeah, we didn't see any concerns about, um,
+[00:20:57] about the skills of the NZTA people.
+[00:20:59] So you, we didn't see any concerns Yeah. With that. Yeah.
+[00:21:03] So if we were talking to NZTA, that'd be something.
+[00:21:05] So how not have you got a problem,
+[00:21:07] but how do you make sure that your, um,
+[00:21:09] your team are kept up to up speed, especially
+[00:21:12] as cars keep changing or vehicles keep
+[00:21:14] Track? I, I think the bigger problem
+[00:21:15] that we heard about was
+[00:21:16] that there's actually a shortage of people
+[00:21:19] with the inspection skills.
+[00:21:21] So both working in the industry
+[00:21:22] and then that ma there's a challenge for NZTA
+[00:21:24] to recruit enough people.
+[00:21:27] Um, so there's a lot of, um, a lot
+[00:21:29] of inspectors now coming from overseas
+[00:21:30] because they've had to, um, you know,
+[00:21:33] there's just not enough people in New Zealand
+[00:21:34] with the skills and wanting to do that role.
+[00:21:37] That's interesting. Mm-hmm.
+[00:21:39] Um, the other question is just we,
+[00:21:42] we touched a little bit on,
+[00:21:43] on emerging technologies and how those are dealt with.
+[00:21:45] Mm-hmm. Um, so can you sort of walk us
+[00:21:47] through a little bit more what needs to be done in terms
+[00:21:50] of regulation slash legislation?
+[00:21:54] Obviously there are two diff quite different things, um, uh,
+[00:21:57] to respond to those changes.
+[00:21:59] Mm-hmm.
+[00:22:00] So, I mean, it's not the role of of our office
+[00:22:03] to really say what, what should be done,
+[00:22:04] but I think the challenge that's ahead is that, you know,
+[00:22:07] as I said, at the moment, it's a physical inspection.
+[00:22:10] Someone does it, it's, it's fairly straightforward.
+[00:22:13] The challenge going forward is something quite different.
+[00:22:16] You've got all these vehicle manufacturers
+[00:22:18] with probably great big, um, teams of software developers
+[00:22:22] who are constantly changing, um, so, and updating software,
+[00:22:26] and it's really not feasible for our government department
+[00:22:29] to be keeping up with all those changes.
+[00:22:31] So the whole model of how we do
+[00:22:33] and how we, um, regulate
+[00:22:35] for vehicle safety may need to change.
+[00:22:38] Um, so it's not something that's straightforward,
+[00:22:39] but that's, um, the challenge really
+[00:22:41] for the Ministry of Transport to deal with.
+[00:22:43] Yeah. That, and that's why I asked the question about
+[00:22:44] whether you'd have any engagement
+[00:22:46] with the vehicle manufacturers factor
+[00:22:48] because No, some of that stuff I, I, I just,
+[00:22:51] I just had the pleasure of being down the,
+[00:22:52] the winter testing mm-hmm.
+[00:22:54] Um, environment down south
+[00:22:55] and um, you know, that is a large part.
+[00:22:58] It's about software. Mm-hmm.
+[00:22:59] It's not about hardware, it's about software keeping
+[00:23:01] vehicles on, on the road
+[00:23:02] and keeping them straight and so on.
+[00:23:04] So, but you wouldn't be able to,
+[00:23:05] most inspectors would've no show
+[00:23:06] No. Of being able to work,
+[00:23:07] so that
+[00:23:08] that's the challenge that they've got. Yeah.
+[00:23:09] Yeah. Good. Thanks Mr. Chair.
+[00:23:11] Um, trends overseas in terms of
+[00:23:14] how this industry may look in 20 years time?
+[00:23:17] Like do, going back to your point, I mean,
+[00:23:20] we've got an electric vehicle
+[00:23:22] and the manufacturer provides updates remotely.
+[00:23:26] Mm-hmm. Mm-hmm. Um, so I guess the question is do we get
+[00:23:30] to a point where actually, um, you know, they're
+[00:23:34] so autonomous, um, tech enabled that, that, um,
+[00:23:40] inspections could almost happen remotely, you know,
+[00:23:43] to identify okay, what are the weak areas of the vehicle?
+[00:23:46] Mm-hmm. Like, do is think that
+[00:23:48] that is something other jurisdiction looking at?
+[00:23:51] Or, or is this kind of pie the sky science fiction?
+[00:23:55] Um, again, I think it's probably we, not for us to say
+[00:23:58] what that might look like, but I, I guess
+[00:24:00] that is a possibility that that might be one of the ways
+[00:24:03] that, you know, you get
+[00:24:04] that assurance about vehicle safety in the future.
+[00:24:07] Yeah. You know, making sure that you are, you know,
+[00:24:10] at the moment no one checks
+[00:24:11] that your vehicle has had the software
+[00:24:12] updates that it needs. Mm-hmm.
+[00:24:14] Um, but I mean there's, what I guess I'm getting at is
+[00:24:19] we've got physical,
+[00:24:20] our industry at the moment is based on physical
+[00:24:22] people that check everything.
+[00:24:23] Yeah. I guess the question is, uh, is there ever a moment
+[00:24:26] where potentially, um, you know, vehicle testers are able
+[00:24:31] to remotely test, uh, vehicles, um, but plugging in
+[00:24:35] and, you know,
+[00:24:37] I mean, I would say potentially,
+[00:24:38] but we couldn't say whether that would actually
+[00:24:41] include whether that's gonna work or not.
+[00:24:43] Okay. Thank You. It's definitely,
+[00:24:45] it's definitely a question for the Ministry of Transport.
+[00:24:47] In, in 2022, they had the long-term insights briefing
+[00:24:51] that highlighted these issues.
+[00:24:52] So I believe the undertaking work,
+[00:24:54] the undertaking work at beginning of this year.
+[00:24:56] So, um, around the,
+[00:24:59] and so if I, if I was, um, suggesting something
+[00:25:02] to the committee, it would be our recommendations three
+[00:25:04] and five really, um, which three is around, goes
+[00:25:08] to the point around the regulation
+[00:25:10] and how it's making sure that the, that they understand the,
+[00:25:14] the Warren fitness is targeted towards the greatest risks,
+[00:25:17] um, and they understand the impact of these things.
+[00:25:19] And then the five, making sure
+[00:25:21] that the rules can change at the same speed of, um,
+[00:25:25] as the technology changes, all of which the ministry
+[00:25:27] and NZTA are, um, on top of
+[00:25:30] Mm-hmm. Thank you
+[00:25:33] Guys. Is
+[00:25:34] just how you mentioned, in order
+[00:25:36] to regulate the industry, you actually look at the data
+[00:25:39] or how many wolf being passed and fail.
+[00:25:43] So how can we know
+[00:25:44] that those data will receive from NAT are the truly reflect
+[00:25:49] what's happening on, on the ground?
+[00:25:51] For example, I think a lot of people will go
+[00:25:53] to bring their cars there.
+[00:25:55] Mm-hmm. And, and the, the mechanic will give me a course
+[00:25:58] of a Carlos, you can't pass the W if you don't change this.
+[00:26:02] So, and, and,
+[00:26:03] and I just don't believe
+[00:26:04] that they actually launch into the dataset I failed my car.
+[00:26:08] So they, they, things can be already fixed
+[00:26:10] before it's actually input into the data.
+[00:26:13] So that will, so is that not the, not the very,
+[00:26:18] uh, the, the data we collect mm-hmm.
+[00:26:20] Will not truly be fed what's going on in in real life.
+[00:26:24] Yes. There is certainly a requirement that, um,
+[00:26:27] Vic on spec should be recording.
+[00:26:29] Um, any failures, um, that should be something
+[00:26:32] that they're putting into the system
+[00:26:33] and that's something I think they would check.
+[00:26:35] Um, you know, when they look at the records,
+[00:26:39] they would see ones that have failed.
+[00:26:41] They would know, they'd be looking to
+[00:26:42] see that they have, have failed.
+[00:26:43] So if you had a a, I guess it's the flip side,
+[00:26:46] that if the data was showing that a garage had
+[00:26:48] too high a pass rate, they'd be suggesting that, well,
+[00:26:51] what's happening to the ones that that failed?
+[00:26:53] 'cause if some garages look like they're passing more cars
+[00:26:56] than others, that would be suspicious
+[00:26:58] because you'd expect a certain level, level
+[00:27:01] of failures to be recorded.
+[00:27:02] So I think that would be picked up in the
+[00:27:04] data data that way. Yeah. So,
+[00:27:07] So this this's what I'm saying,
+[00:27:08] like the way we collecting the data right now mm-hmm.
+[00:27:11] The model, we, we collect the data right now,
+[00:27:13] it can be manipulated by, by the mechanic.
+[00:27:16] Mm-hmm. So it's,
+[00:27:18] so data we collect will not be really accurate,
+[00:27:22] But the data would show if, um,
+[00:27:25] if they're not recording a failure,
+[00:27:27] then their pass rate would be too high.
+[00:27:30] So although the, the failure will be in the system,
+[00:27:33] the overall, um, pass rates for that inspector
+[00:27:36] or that garage might look suspiciously high.
+[00:27:39] They haven't recorded the ones that they've failed.
+[00:27:41] And so that would potentially pick that up.
+[00:27:43] So will individual mechanic know
+[00:27:45] what is too high or too low?
+[00:27:48] Will they know what's the numbers,
+[00:27:49] like the percentage too high to low?
+[00:27:51] Do they know? Because otherwise I can monitor, query my data
+[00:27:54] to, to fit into that range as well.
+[00:27:57] I think, you know, that, as I said, it's not a,
+[00:27:59] not a perfect system, but I think, um, you know, the,
+[00:28:02] the sorts of analysis that NZTA does will pick up some
+[00:28:06] of those things because it will pick up missing data.
+[00:28:09] You know, in terms of if they're manipulating the data, then
+[00:28:11] that's where it's really down to the,
+[00:28:13] the owner if they think
+[00:28:15] that something's not being done properly. Um, yeah.
+[00:28:18] So, so just now you've mentioned this
+[00:28:19] is not a perfect system.
+[00:28:21] So from your point of view, how can we improve that system
+[00:28:25] so we can truly effect, you know,
+[00:28:27] the data is truly effect what's going on?
+[00:28:29] Is it, is there any idea or, or,
+[00:28:31] I, I think the data is probably, probably the key.
+[00:28:34] So that, as I said, they do some data analysis at the
+[00:28:36] moment, what we think they could do is expand on
+[00:28:39] that data analysis
+[00:28:41] and that would help if they had, um, improved
+[00:28:43] and updated IT systems.
+[00:28:45] But, you know, they use some various measures
+[00:28:48] that we've talked about, so pass some fail rates
+[00:28:50] as a few other ones that they use,
+[00:28:51] but they could cut that data in different ways
+[00:28:54] and perhaps dig into it in different ways to see
+[00:28:57] where there are more risks.
+[00:28:59] Um, you know, what sorts of inspectors
+[00:29:01] or inspecting organizations perhaps have a higher risk
+[00:29:04] of non-compliance and look at those in in more detail.
+[00:29:07] But really, um, you know, when you've got, as you said,
+[00:29:10] quite a small number of in inspect of people at NZTA
+[00:29:13] and a big population of vehicle inspectors
+[00:29:16] and the data's one way that it's quite efficient if you use
+[00:29:19] that data well of, um, you know,
+[00:29:21] of picking up where there are problems.
+[00:29:24] Sure. Just
+[00:29:26] In terms of the recommendations, um, this,
+[00:29:29] this report was February, um, so obviously been some, um,
+[00:29:33] potential for NCTA and MOT to respond.
+[00:29:36] So what's their, you know, when they've got the report,
+[00:29:39] what's the feedback they've been that they've given you and,
+[00:29:41] and what have they done as a response to it?
+[00:29:44] So, I mean, the response at the time was they were
+[00:29:46] supportive of the findings.
+[00:29:47] Um, we haven't talked to them about it since, since then.
+[00:29:50] Um, but we do have a standard follow up procedure,
+[00:29:53] so probably within another 12 to 18 months we would go back
+[00:29:55] to them formally 18 months as a follow up
+[00:29:58] and ask them about the progress that they've made.
+[00:30:00] And, um, we'll publish that information. Yeah.
+[00:30:04] What would you suggest that we, that we should do
+[00:30:07] with this in terms of following it up?
+[00:30:09] Because the, 'cause we will obviously go 'cause mm-hmm.
+[00:30:12] A lot of these things you said, well,
+[00:30:13] that's actually their business rather than you're Yeah.
+[00:30:15] You know, you're around their system, um, about
+[00:30:17] how the system's actually working, um,
+[00:30:20] and particularly some
+[00:30:22] of those things about the new technologies, et cetera,
+[00:30:24] as well as the, as well as the mm-hmm.
+[00:30:26] Mm-hmm. The inspecting the inspector system, um,
+[00:30:29] and responding to your recommendations.
+[00:30:31] So what, what would, what would your recommendation
+[00:30:33] to us be in terms of what we should do?
+[00:30:36] Yes. I think, as Jason said,
+[00:30:38] probably the recommendations three and
+[00:30:40] and five are probably the key ones.
+[00:30:42] And, you know, there's obviously been a lot of interest
+[00:30:44] with the committee, um, about the, you know, the challenges
+[00:30:46] of the technology and,
+[00:30:47] and changing technology and what that means.
+[00:30:50] So that might be something you could follow up with
+[00:30:52] probably the Ministry of Transport on that one of
+[00:30:54] what progress they're making with that policy work.
+[00:30:57] So they were due to start, um, well,
+[00:30:59] they'd already done some, some thinking about it,
+[00:31:01] but they were due to start working on that this year.
+[00:31:04] Um, so you could follow up
+[00:31:06] and see, you know, have they started that and,
+[00:31:08] and where are they getting to, and they might be able
+[00:31:09] to answer some of the, um, sort more
+[00:31:11] specific questions that you've got.
+[00:31:13] Um, also the interest in data
+[00:31:15] that might be something you could follow up with NZTA, um,
+[00:31:18] talk to 'em about, you know, what they are doing.
+[00:31:20] Um, they might be able to explain in a bit more detail about
+[00:31:24] how they can pick up some of those issues
+[00:31:25] that you've, that you've talked about.
+[00:31:30] And that would also give us any advice around, um,
+[00:31:33] around the, any, any changes that are,
+[00:31:35] should be looked at in terms of regulational mm-hmm.
+[00:31:37] Legislation. Yeah. Okay. Cool.
+[00:31:40] Um, I'm not sure I had anything else at this stage.
+[00:31:44] Anybody else got any other,
+[00:31:46] other questions they wanted to ask?
+[00:31:49] No. No. Okay. But
+[00:31:51] otherwise, just say thank you very much for,
+[00:31:54] for all the work that's obviously gone into this
+[00:31:56] and it's good to see you.
+[00:31:57] Yeah. And, um, thank you.
+[00:32:00] And we will, we will consider how we follow up.
+[00:32:01] I mean, we may well be that we,
+[00:32:03] we just put it into the annual review process with, uh, MOT
+[00:32:07] and NTA specific, anything separate,
+[00:32:09] but that's not that far away, so.
+[00:32:11] Yeah. No, we really appreciate it. Thank you. Thanks.

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:58.825475+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1146473277",
+  "title": "2025/12/15 - Social Services and Community Sub-Committee A (Part 2)",
+  "url": "https://vimeo.com/1146473277",
+  "published_at": "20251215",
+  "published_display": "2025-12-15",
+  "duration_seconds": 5016,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5014.6,
+    "segment_count": 1623,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_15 - Social Services and Community Sub-Committee A (Part 2) - vimeo_1146473277\\2025_12_15 - Social Services and Community Sub-Committee A (Part 2) - vimeo_1146473277.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1146473277",
+    "display_id": "1146473277",
+    "title": "2025/12/15 - Social Services and Community Sub-Committee A (Part 2)",
+    "description": "Monday 15 December | Social Services and Community Sub-Committee A\nRedress System for Abuse in Care Bill \nHearing of evidence:\nTe Iwi Preston\nKay Jones\nBen Keith\nDr Debbie Hager\nRoyal Commission Forum\nKarl Tauri\nDr Rawiri Waretini-Karena\nKenneth Clearwater ONZM\nThe Law Association of New Zealand\n\nHannah Kim, Committee Co-Convenor, Parole and Prisoner Rights Law Committee\nKate MacKay, Committee Member, Mental Health and Disability Law Committee\n\nAaron Douglas\nAndrew Goddard",
+    "webpage_url": "https://vimeo.com/1146473277",
+    "original_url": "https://vimeo.com/1146473277",
+    "upload_date": "20251215",
+    "timestamp": 1765784980,
+    "release_timestamp": 1765784992,
+    "duration": 5016,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096236798-3b8f14f51d92d9d795ee2e2c47ea306e2fbf19f1a9430ff79b4015d147afaa07-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272061631.vtt?expires=1778590443&sig=c43e1a53924b29f3c5f5aa516fd745c91658d437&download=auto_generated_captions.vtt"
+  }
+}

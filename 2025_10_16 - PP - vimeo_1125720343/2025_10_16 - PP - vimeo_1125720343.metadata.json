@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:04:00.697106+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125720343",
+  "title": "2025/10/16 - PP",
+  "url": "https://vimeo.com/1125720343",
+  "published_at": "20251015",
+  "published_display": "2025-10-15",
+  "duration_seconds": 3174,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3172.07,
+    "segment_count": 1093,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_16 - PP - vimeo_1125720343\\2025_10_16 - PP - vimeo_1125720343.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125720343",
+    "display_id": "1125720343",
+    "title": "2025/10/16 - PP",
+    "description": "Thursday, 16 October 2025 | Primary Production\n\nReview briefing on the 2023/24 annual review of Crown Irrigation Investments Limited\nCrown Irrigation Investments Ltd\nMurray Gribben, Chief Executive",
+    "webpage_url": "https://vimeo.com/1125720343",
+    "original_url": "https://vimeo.com/1125720343",
+    "upload_date": "20251015",
+    "timestamp": 1760563248,
+    "release_timestamp": 1760563254,
+    "duration": 3174,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2071838449-d554b46ffec8592f0eeb8abc1c7c3b596e757ac319ba77930eeca7128c12ce1c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259368510.vtt?expires=1778591045&sig=8146c263e97deefdac13531d7bb9f57a061fc8e6&download=auto_generated_captions.vtt"
+  }
+}

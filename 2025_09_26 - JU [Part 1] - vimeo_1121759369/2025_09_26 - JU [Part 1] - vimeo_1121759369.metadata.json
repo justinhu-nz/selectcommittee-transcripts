@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:11:27.582432+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1121759369",
+  "title": "2025/09/26 - JU [Part 1]",
+  "url": "https://vimeo.com/1121759369",
+  "published_at": "20250926",
+  "published_display": "2025-09-26",
+  "duration_seconds": 7669,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7669.16,
+    "segment_count": 2473,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_26 - JU [Part 1] - vimeo_1121759369\\2025_09_26 - JU [Part 1] - vimeo_1121759369.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1121759369",
+    "display_id": "1121759369",
+    "title": "2025/09/26 - JU [Part 1]",
+    "description": "Friday 26 September 2025 | Justice Committee\n\nElectoral Amendment Bill\n\nSubmitters:\n\nThe New Zealand Initiative\n-Nick Clark, Senior Fellow\n\nMana Mokopuna - Children and Young People's Commission\n-Dr Claire Achmad, Children's Commissioner\n-Mihir Jithoo\n-Jamin Fountain\n\nRichard Northey\n\nMason Lithgow\n\nPeter Joseph\n\nQuentin Abraham\n\nLouise Lin\n\nGeorge Burrell\n\nWellington Community Justice Project\n-Gemma Bennion\n\nNew Zealand Council for Civil Liberties\n-Andrew Ecclestone, Deputy Chair\n\nSiana Fitzjohn\n\nSheryn Elborn\n\nAuto Enrol NZ\nBhenjamin Goodsir,\n\nQuakers - Yearly Meeting of the Religious Society of Friends in Aotearoa NZ\n-Garry Buckman, Quaker - Former Convenor of our Penal Reform Committee\n-Shayna Hingston, Quaker \u2013 Clerk of Young Friends\n\nJim Bennett\n\nMarie Laufiso\n\nAnthony Britton\n\nAlex Stone\n\nAndrew Geddis\n\nBarbara Gilchrist\n\nIt's in the Ballot Productions [Zoom]\n-Sam Somers, Producer and Host\n\nWellington Howard League\n\nRachel Vincent, Committee Member\n\nNew Zealand Women's Law Journal, Te Aho Kawe Kaupapa Ture a nga Wahine\n-Rebekah Dougherty, Deputy Editor (Advocacy)\n-Christina Pikiuha-Billing, Advocacy Team Volunteer\n\nAotearoa Greens Global\n-Simon Wood, Aotearoa Greens Global Co-convenor\n\nDaniel Webster\n\nPhil Stevens\n\nPeople Against Prisons Aotearoa\n-Ruth Fischer-Smith, P\u014dneke Member\n\nWendy Wong",
+    "webpage_url": "https://vimeo.com/1121759369",
+    "original_url": "https://vimeo.com/1121759369",
+    "upload_date": "20250926",
+    "timestamp": 1758846025,
+    "release_timestamp": 1758846042,
+    "duration": 7669,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2063293792-2349a828d700805f9539908366bc941c454831cbb68a6ea86a6908dff5a0216c-d_1920x1080?&r=pad&region=us",
+    "width": 872,
+    "height": 486,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259626147.vtt?expires=1778591492&sig=af3e10c0d37c079824e8743d85ac3bf189822562&download=auto_generated_captions.vtt"
+  }
+}

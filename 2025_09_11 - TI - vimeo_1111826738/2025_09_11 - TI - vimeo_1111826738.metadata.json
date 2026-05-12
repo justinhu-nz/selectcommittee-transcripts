@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:52:31.991540+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111826738",
+  "title": "2025/09/11 - TI",
+  "url": "https://vimeo.com/1111826738",
+  "published_at": "20250911",
+  "published_display": "2025-09-11",
+  "duration_seconds": 3169,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3169.16,
+    "segment_count": 1130,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_11 - TI - vimeo_1111826738\\2025_09_11 - TI - vimeo_1111826738.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111826738",
+    "display_id": "1111826738",
+    "title": "2025/09/11 - TI",
+    "description": "11 September\u00a02025 | Transport and Infrastructure Committee\nInquiry into ports and the maritime sector\nNew Zealand Port CEO Group\n\tCharles Finn,y Interim Chair",
+    "webpage_url": "https://vimeo.com/1111826738",
+    "original_url": "https://vimeo.com/1111826738",
+    "upload_date": "20250911",
+    "timestamp": 1757556049,
+    "release_timestamp": 1757556057,
+    "duration": 3169,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2071669928-ba46687b99129462b95260cdf4c2a34fd32810ee6b93a48782cc34dc0c57835e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252765024.vtt?expires=1778590356&sig=43e262ec5b32ecd476bbcae86f8cee337d744cde&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:04.386060+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141934992",
+  "title": "2025/12/02 - TI",
+  "url": "https://vimeo.com/1141934992",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 11358,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11321.58,
+    "segment_count": 3874,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - TI - vimeo_1141934992\\2025_12_02 - TI - vimeo_1141934992.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141934992",
+    "display_id": "1141934992",
+    "title": "2025/12/02 - TI",
+    "description": "Tuesday 2 December | Transport and Infrastructure Committee\n\n2024/25 Annual Review of National Infrastructure Funding and Financing Limited\n\nHearing of evidence:\n\nNational Infrastructure Funding and Financing Limited\n\nMark Binns, Chair\nGraham Mitchell, CEO\n\n\n2024/25 Annual review of the New Zealand Railways Corporation\n\nHearing of evidence:\n\nKiwiRail Holdings Limited\n\nSuzanne Tindal, Chair\nPeter Reidy, Chief Executive\n\n\n2024/25 Annual review of KiwiRail Holdings Limited\n\nHearing of evidence:\n\nKiwiRail Holdings Limited\n\nSuzanne Tindal, Chair\nPeter Reidy, Chief Executive\nJason Dale, Chief Financial Officer\nDavid Gordon, Chief Metro & Capital Programme Officer\nSiva Sivapakkiam, Chief Infrastructure Officer\nAdele Wilson, Chief Customer & Growth Officer\nDuncan Roy, Executive General Manager Interislander\n\n\nBriefing on the performance of Ferry Holdings\n\nHearing of evidence:\n\nFerry Holdings Limited\n\nChris Mackenzie, Chair\nSandip Ranchhod, Chief Executive\nJames Shannon, General Manager Enabling Services\nStephen O\u2019Keefe, General Manager Commercial and Finance\nRichard Hickman, Interim General Manager Infrastructure",
+    "webpage_url": "https://vimeo.com/1141934992",
+    "original_url": "https://vimeo.com/1141934992",
+    "upload_date": "20251202",
+    "timestamp": 1764648867,
+    "release_timestamp": 1764648884,
+    "duration": 11358,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090358584-b7e0634ca30a3fa8ab9bdee626de148b6c279b457d75e04a0bfa6c1f8ac911c9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268851012.vtt?expires=1778590269&sig=2af5d25e0430c560bb15fd5c2e75ee5c24251883&download=auto_generated_captions.vtt"
+  }
+}

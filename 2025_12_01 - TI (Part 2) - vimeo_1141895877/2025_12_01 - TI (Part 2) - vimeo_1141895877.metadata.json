@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:17.906521+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141895877",
+  "title": "2025/12/01 - TI (Part 2)",
+  "url": "https://vimeo.com/1141895877",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 2261,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2259.05,
+    "segment_count": 935,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - TI (Part 2) - vimeo_1141895877\\2025_12_01 - TI (Part 2) - vimeo_1141895877.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141895877",
+    "display_id": "1141895877",
+    "title": "2025/12/01 - TI (Part 2)",
+    "description": "Monday 1 December 2025 | Transport and Infrastructure Committee\n\n2024/25 Annual Review of Crown Infrastructure Delivery\n\nHearing of evidence:\n\nCrown Infrastructure Delivery\n\nJohn O'Hagan, Chief Executive\nRichard O'Reilly, GM Policy, Communications & Government Engagement",
+    "webpage_url": "https://vimeo.com/1141895877",
+    "original_url": "https://vimeo.com/1141895877",
+    "upload_date": "20251201",
+    "timestamp": 1764552863,
+    "release_timestamp": 1764552869,
+    "duration": 2261,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089488684-533886514d42d34461961bf724f92f2cd688f3b4adbf16221925e985ba1a3fdb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268588116.vtt?expires=1778590282&sig=8c7ed07357b52abf9b373eb370b3b369ca09d6ea&download=auto_generated_captions.vtt"
+  }
+}

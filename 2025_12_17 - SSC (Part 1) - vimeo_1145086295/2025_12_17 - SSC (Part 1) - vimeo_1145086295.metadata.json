@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:50.749549+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1145086295",
+  "title": "2025/12/17 - SSC (Part 1)",
+  "url": "https://vimeo.com/1145086295",
+  "published_at": "20251216",
+  "published_display": "2025-12-16",
+  "duration_seconds": 3344,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3343.61,
+    "segment_count": 1095,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_17 - SSC (Part 1) - vimeo_1145086295\\2025_12_17 - SSC (Part 1) - vimeo_1145086295.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1145086295",
+    "display_id": "1145086295",
+    "title": "2025/12/17 - SSC (Part 1)",
+    "description": "Wednesday 17 December | Social Services and Community \nBriefing on New Zealand's ageing population\nHearing of evidence: \nRetirement Commissioner \n\nJane Wrightson, Retirement Commissioner\nMichelle Reyers, Policy Lead\n\nDr Paul Spoonley",
+    "webpage_url": "https://vimeo.com/1145086295",
+    "original_url": "https://vimeo.com/1145086295",
+    "upload_date": "20251216",
+    "timestamp": 1765914927,
+    "release_timestamp": 1765914934,
+    "duration": 3344,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096774229-cd92758abc5c10a2cd7eb1b5e6667ce418c6faf3b041ab41fa82d4b4f56e3a43-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272499633.vtt?expires=1778590435&sig=5f572023fceca0894603ed64a13634e1ddd407bc&download=auto_generated_captions.vtt"
+  }
+}

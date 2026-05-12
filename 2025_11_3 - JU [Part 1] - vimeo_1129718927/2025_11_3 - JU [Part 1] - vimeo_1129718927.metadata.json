@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:39.173550+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129718927",
+  "title": "2025/11/3 - JU [Part 1]",
+  "url": "https://vimeo.com/1129718927",
+  "published_at": "20251102",
+  "published_display": "2025-11-02",
+  "duration_seconds": 9799,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9797.48,
+    "segment_count": 3325,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_3 - JU [Part 1] - vimeo_1129718927\\2025_11_3 - JU [Part 1] - vimeo_1129718927.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129718927",
+    "display_id": "1129718927",
+    "title": "2025/11/3 - JU [Part 1]",
+    "description": "Monday 3 November 2025 | Justice\n\nSummary Offences (Demonstrations Near Residential Premises) Amendment Bill\n\nSubmitters\n\nNew Zealand Council for Civil Liberties\n- Thomas Beagle, Chairperson\n\nKelly Campbell\n\nNeville Williams\n\nNeill Gordon\n\nUrs Singer\n\nNew Zealand Council of Trade Unions\n- Mellissa Ansell-Bridges, Secretary\n- Gayaal Iddamalgoda, Legal Officer\n\nRichard Noble\n\nCharlotte Evans\n\nSheryn Elborn\n\nNew Zealand Law Society Te Kahui Ture o Aotearoa\n- Thomas Harre, Human Rights and Privacy Committee member\n\nArchie Hunter\n\nToitu Te Tiriti Otautahi Hikoi\n- Teresa Werahiko Jensen-Butler\n\nRaquel Visentainer\n\nMarnie Prickett\n\nWellington Community Justice Project\n- Emily Groen, Law Reform Team Co-Lead and Volunteer\n- Isabelle Douglas, Law Reform Team Co-Lead and Volunteer\u00a0\n\nLucien Rose\n\nAnna Briscoe\n\nDanae Lee\n\nKaiawhina Aotearoa\n- Bianca Ranson\n- Trav Mischewski\n\nBruce King\n\nKalyn Lessiter\n\nRights Aotearoa\n- Paul Thistoll, CEO",
+    "webpage_url": "https://vimeo.com/1129718927",
+    "original_url": "https://vimeo.com/1129718927",
+    "upload_date": "20251102",
+    "timestamp": 1762124995,
+    "release_timestamp": 1762125016,
+    "duration": 9799,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2080343462-06fa2b0c8b3b47d26652bf71dd8f845cde0c54103ad2c3cd8a57519901481bc8-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263340815.vtt?expires=1778591443&sig=f46eb8715dbadd9a2aa648d2d2877134782bacb7&download=auto_generated_captions.vtt"
+  }
+}

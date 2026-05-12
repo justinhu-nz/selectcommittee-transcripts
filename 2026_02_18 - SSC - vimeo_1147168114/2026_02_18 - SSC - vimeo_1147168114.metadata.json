@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:38.076743+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1147168114",
+  "title": "2026/02/18 - SSC",
+  "url": "https://vimeo.com/1147168114",
+  "published_at": "20260217",
+  "published_display": "2026-02-17",
+  "duration_seconds": 3967,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3965.24,
+    "segment_count": 1193,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_18 - SSC - vimeo_1147168114\\2026_02_18 - SSC - vimeo_1147168114.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1147168114",
+    "display_id": "1147168114",
+    "title": "2026/02/18 - SSC",
+    "description": "Wednesday, 18 February 2026 | Social Services and Community Committee\nMinistry for Culture and Heritage, Long-Term Insights Briefing 2025\nHearing of Evidence\nMinistry for Culture and Heritage\n\nLeauanae Laulu Mac Leauanae, Secretary & Chief Executive\nBrendan Gage, Deputy Secretary, Policy, Performance & Insights\nDr. Lauren Sweetman, Principal Advisor, Insights\nAndrei Zubkov, Senior Policy Adviser, Media & Screen Policy",
+    "webpage_url": "https://vimeo.com/1147168114",
+    "original_url": "https://vimeo.com/1147168114",
+    "upload_date": "20260217",
+    "timestamp": 1771358714,
+    "release_timestamp": 1771358719,
+    "duration": 3967,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2123284641-fbf7c5be68b61fcd82e746c7b2d75ed2705bc0272d799d9b41227bf526293dd3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/283264260.vtt?expires=1778590422&sig=1a02f73cf5a99809842971b4be55fc2954feb15c&download=auto_generated_captions.vtt"
+  }
+}

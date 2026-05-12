@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:24.474976+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1096113518",
+  "title": "2025/07/16 - SSC (Part 1)",
+  "url": "https://vimeo.com/1096113518",
+  "published_at": "20250715",
+  "published_display": "2025-07-15",
+  "duration_seconds": 2482,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2471.93,
+    "segment_count": 856,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_16 - SSC (Part 1) - vimeo_1096113518\\2025_07_16 - SSC (Part 1) - vimeo_1096113518.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1096113518",
+    "display_id": "1096113518",
+    "title": "2025/07/16 - SSC (Part 1)",
+    "description": "Wednesday, 16 July 2025 | Social Services and Community Committee\n\nReport of the Ombudsman, Children in care: complaints to the Ombudsman 2019\u20132023, February 2024\n\nReport of the Ombudsman, OIA timeliness obligations: Compliance and practice in Kainga Ora Housing New Zealand\n\nHearing of Evidence\n- John Allen, Chief Ombudsman\n- Zoey Henley, Assistant Ombudsman\n- Emma Leach, Senior Assistant Ombudsman\n- Ainslie Fenwick, Official Information Practice Investigations Manager",
+    "webpage_url": "https://vimeo.com/1096113518",
+    "original_url": "https://vimeo.com/1096113518",
+    "upload_date": "20250715",
+    "timestamp": 1752616138,
+    "release_timestamp": 1752616145,
+    "duration": 2482,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2037241757-6511ea777850d84dd7cc33d1c25de809f90774e933a248b3b74c5d98b0c082d1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242373503.vtt?expires=1778590649&sig=69eb9585ddd572b172cf6e4ce7947a0d4655e0ef&download=auto_generated_captions.vtt"
+  }
+}

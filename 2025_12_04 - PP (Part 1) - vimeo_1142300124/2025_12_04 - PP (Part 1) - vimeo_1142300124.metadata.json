@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:58:52.224653+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142300124",
+  "title": "2025/12/04 - PP (Part 1)",
+  "url": "https://vimeo.com/1142300124",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 16021,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 16020.76,
+    "segment_count": 5052,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - PP (Part 1) - vimeo_1142300124\\2025_12_04 - PP (Part 1) - vimeo_1142300124.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142300124",
+    "display_id": "1142300124",
+    "title": "2025/12/04 - PP (Part 1)",
+    "description": "Thursday 4 December 2025 | Primary Production Committee\n\n2024/25 Annual review of the Ministry for Primary Industries\n\nHearing of evidence:\n\nMinistry for Primary Industries\n\nRay Smith, Director-General MPI\nGillon Carruthers, DDG Public Affairs\nDan Bolger, DDG Fisheries New Zealand\nSam Keenan, DDG Te Uru Rakau \u2013 New Zealand Forest Service\nStuart Anderson, DDG Biosecurity New Zealand\nKaren Adair, DDG Agriculture and Investment Services\nVince Arbuckle, DDG New Zealand Food Safety\nJulie Collins, DDG Policy & Trade\nNeil Cherry, DDG Corporate Services\nGlenn Webber, DDG M\u0101ori Partnerships and Investments\nJohn Roche, Chief Science Adviser\n\n\nAgriculture /Animal Welfare\n\nDiana Reaich, Associate DDG Trade & Intl Relations\nPhil Houlding, Chief Trade Policy Officer\nJane Chirnside, Director Resources and Rural Communities\nSteve Ainsworth, Div Mgr Bilateral Relations & Trade\nRobyn Meehan, Director M\u0101ori Partnership and Capability\nGlen Burrell, Director Compliance & Response\nFiona Duncan, Director Regulatory Systems Policy\nAlastair Cameron, Director Primary Sector Policy\nSteve Penno, Director Investment Programmes & Ops\n\n\nBiosecurity\n\nMary van Andel, Chief Veterinary Officer\nJohn Walsh, Director Pest Management\nMichael Inglis, Commissioner North\nDiane McDermott, Commissioner Central/South\nAndrew Spelman, Commissioner Biosecurity Intelligence\n\n\nFisheries\n\nEmma Taylor, Director Fisheries Management\nSimon Lawrence, Director Science & Information\nSteve Ham, Director Fisheries Compliance\nAlastair Cameron, Director Primary Sector Policy\nCharlotte Denny, Div Mgr Sustainable Trade & Environment\n\n\nForestry\n\nOlivia Sullivan, Director Forestry System\nAlastair Cameron, Director Primary Sector Policy\n\n\nCorporate Services\n\nRanjit Singh, Financial Controller\nBruce Arnold, Director Cost Recovery\nBrent Healy, Chief Financial Officer\nKaye Ryan, Director People & Capability",
+    "webpage_url": "https://vimeo.com/1142300124",
+    "original_url": "https://vimeo.com/1142300124",
+    "upload_date": "20251204",
+    "timestamp": 1764806569,
+    "release_timestamp": 1764806581,
+    "duration": 16021,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091395604-e329d3dc303098539059988a29971569c9b7a20fefa6e06c04b6f9efae48faeb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269719720.vtt?expires=1778590736&sig=c1b0f812cd08c47ade76d1c0aeec975103008d4e&download=auto_generated_captions.vtt"
+  }
+}

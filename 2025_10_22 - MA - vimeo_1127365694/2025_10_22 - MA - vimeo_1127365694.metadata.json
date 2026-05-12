@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:05:28.739098+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127365694",
+  "title": "2025/10/22 - MA",
+  "url": "https://vimeo.com/1127365694",
+  "published_at": "20251021",
+  "published_display": "2025-10-21",
+  "duration_seconds": 5319,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5306.73,
+    "segment_count": 1981,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_22 - MA - vimeo_1127365694\\2025_10_22 - MA - vimeo_1127365694.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127365694",
+    "display_id": "1127365694",
+    "title": "2025/10/22 - MA",
+    "description": "Wednesday 22 October 2025 | M\u0101ori Affairs Committee \n\nBriefing on Treaty settlement legislation and Report of the Controller and Auditor-General, How public organisations are fulfilling Treaty settlements\n\nHearing of evidence \nSubmitter List:\nTe Runanga o Toa Rangatira - Ng\u0101ti Toa\n\nDr Te Taku Parai, Pou Tikanga\nCallum Katene, Chairperson of Te R\u016bnanga o Toa Rangatira\nAimee Bishop, Kaiwhakahaere\nRobert McClean, Principal Advisor, Te R\u016bnanga o Toa Rangatira\n\nGreater Wellington Regional Council\n\nNigel Corry, Chief Executive\nMonica Fraser, Pou Whakarae, Te Hunga Whiriwhiri\nCarl Chenery, Principal Advisor, Te Hunga Whiriwhiri\nKara Kearney, Partnerships Manager, Te Hunga Whiriwhiri",
+    "webpage_url": "https://vimeo.com/1127365694",
+    "original_url": "https://vimeo.com/1127365694",
+    "upload_date": "20251021",
+    "timestamp": 1761082639,
+    "release_timestamp": 1761082646,
+    "duration": 5319,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2072722682-7b4cef2e0116413b3e4fc1d2ca74443bf0eeb5f936fa3f07aad72d8519fd635a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260427653.vtt?expires=1778591133&sig=e8fa95e33331fd9942c1638c06b59599da057406&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:42.758880+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143267178",
+  "title": "2025/12/04 - TI (Part 3)",
+  "url": "https://vimeo.com/1143267178",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 10590,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10579.96,
+    "segment_count": 3843,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - TI (Part 3) - vimeo_1143267178\\2025_12_04 - TI (Part 3) - vimeo_1143267178.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143267178",
+    "display_id": "1143267178",
+    "title": "2025/12/04 - TI (Part 3)",
+    "description": "Thursday 4 December 2025 | Transport and Infrastructure Committee\n\n2024/25 Annual review of the NZ Transport Agency Waka Kotahi\n\nHearing of evidence:\n\nNZ Transport Agency Waka Kotahi\n\nHon Simon Bridges, Board Chair\nBrett Gliddon, Chief Executive\nSara Lindsay, Group General Manager Commercial and Corporate\nBrent Alderton, Director of Land Transport\nKevin Doherty, Group General Manager Transport Services\nRichard Forgan, Group General Manager System Leadership\nSarina Pratley, Chief Operating and Customer\nKaren Jone, Group General Manager Engagement and Partnerships\nVanessa Browne, Acting Chief of Staff",
+    "webpage_url": "https://vimeo.com/1143267178",
+    "original_url": "https://vimeo.com/1143267178",
+    "upload_date": "20251204",
+    "timestamp": 1764823559,
+    "release_timestamp": 1764823575,
+    "duration": 10590,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2092851036-fad7a11c1a383898c2dd919e04dff0e6a89e77bf34cfecdac5d43c099133e44e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269756238.vtt?expires=1778590247&sig=79a0054604fbbd855b651eb8de2f24a72d40538e&download=auto_generated_captions.vtt"
+  }
+}

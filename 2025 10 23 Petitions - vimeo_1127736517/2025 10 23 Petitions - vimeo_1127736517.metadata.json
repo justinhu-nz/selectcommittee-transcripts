@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:46:16.133285+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127736517",
+  "title": "2025 10 23 Petitions",
+  "url": "https://vimeo.com/1127736517",
+  "published_at": "20251023",
+  "published_display": "2025-10-23",
+  "duration_seconds": 3255,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3247.95,
+    "segment_count": 1059,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 10 23 Petitions - vimeo_1127736517\\2025 10 23 Petitions - vimeo_1127736517.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127736517",
+    "display_id": "1127736517",
+    "title": "2025 10 23 Petitions",
+    "description": "Petition of Catherine Cooke: Fund Keytruda for early stage triple negative breast cancer\n\nCatherine Cooke\nAh-Leen Rayner, CEO, Breast Cancer Foundation\nMehdi Shahbazpour, Head of Research & Strategic Programmes, Breast Cancer\n\n\nPetition of Tony Gore: Explain MSD\u2019s traffic light, sanctions, and generative AI use and proposals\n\nTony Gore\nCheryl Boyes\n\n\nPetition of Stiffany Adanza: Exclude Chronic Myeloid Leukaemia (CML) from Immigration Instructions A4.10.1\n\nStiffany Adanza\nNicola Scotland, Principal Business Analyst, Immigration Health, Immigration NZ\nPolly Vowles, Policy Manager, Skills and Residence Immigration Policy, Ministry of Business, Innovation and Employment\nDr Rob Kofoed, Chief Medical Officer, Immigration Health, Immigration NZ",
+    "webpage_url": "https://vimeo.com/1127736517",
+    "original_url": "https://vimeo.com/1127736517",
+    "upload_date": "20251023",
+    "timestamp": 1761192271,
+    "release_timestamp": 1761192279,
+    "duration": 3255,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073586056-a79c54e0159a707255668729c09535853129311e3d81ea410ad66e16e019e335-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260715807.vtt?expires=1778589981&sig=d6b1ed0acf5018643dd9641c7b6b716bad1771a0&download=auto_generated_captions.vtt"
+  }
+}

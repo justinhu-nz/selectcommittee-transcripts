@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:49:45.152002+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1169382783",
+  "title": "2026/03/02 - TI",
+  "url": "https://vimeo.com/1169382783",
+  "published_at": "20260302",
+  "published_display": "2026-03-02",
+  "duration_seconds": 11411,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11409.58,
+    "segment_count": 3986,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_02 - TI - vimeo_1169382783\\2026_03_02 - TI - vimeo_1169382783.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1169382783",
+    "display_id": "1169382783",
+    "title": "2026/03/02 - TI",
+    "description": "2 March 2026 | Transport and Infrastructure Committee (Part 2 of 2)\nBuilding (Earthquake-prone Buildings) Amendment Bill\nRetail NZ\nDavid Marshall\nBECA Limited\n\nRobert Jury, Chief Structural Engineer\n\nCr Elizabeth Mundt\nNelson Cathedral\n\nMichael Levy (in person), Co-chair Interim Governance Group Earthquake Strengthening and Enhancement\nDr Graham O'Brien, Co-chair Interim Governance Group Earthquake Strengthening and Enhancement\n\nHistoric Places Wellington Inc\n\nFelicity Wong, Chairperson\nBarbara Rouse\n\nWCCT (Wellington\u2019s Character Charitable Trust)\n\nFelicity Wong, Trustee\n\nMount Victoria Residents Association\n\nEllen Blake, President\n\nSelwyn District Council\n\nLydia Gliddon, Mayor\nVanessa Mitchell\n\nDr Brent Nahkies\nDr David Hopkins\nCr John Verry\nDr Richard Sharpe\nInner City Wellington\n\nGeraldine Murphy, Spokesperson on Seismic Matters\n\nMatthew Plummer\nDebbie Port\nCentral Otago District Council\n\nAlix Crosbie, Policy & Strategy Lead, CODC\n\nStructural Engineering Society New Zealand\n\nStuart Oliver, President\n\nProperty Council New Zealand\nWellington City Council\n\nAndrew Little, Mayor",
+    "webpage_url": "https://vimeo.com/1169382783",
+    "original_url": "https://vimeo.com/1169382783",
+    "upload_date": "20260302",
+    "timestamp": 1772424381,
+    "release_timestamp": 1772424396,
+    "duration": 11411,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129691761-b63edc6b56d8aa065027570ef42fbb436273869546dd097f70d2974c69dcffd6-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285479007.vtt?expires=1778590190&sig=726ee5dc1e7b2bfbb4e7f17b04b3f2b200cac41a&download=auto_generated_captions.vtt"
+  }
+}

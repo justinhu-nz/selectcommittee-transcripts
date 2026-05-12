@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:44.397803+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1147095187",
+  "title": "2025/12/17 - SSC (Part 2)",
+  "url": "https://vimeo.com/1147095187",
+  "published_at": "20251217",
+  "published_display": "2025-12-17",
+  "duration_seconds": 2148,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2147.76,
+    "segment_count": 642,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_17 - SSC (Part 2) - vimeo_1147095187\\2025_12_17 - SSC (Part 2) - vimeo_1147095187.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1147095187",
+    "display_id": "1147095187",
+    "title": "2025/12/17 - SSC (Part 2)",
+    "description": "Wednesday 17 December | Social Services and Community\n2024/25 Annual Review of the Children's Commissioner \nHearing of evidence \nDr Claire Achmad, Children's Commissioner\nSonya Marshall, Executive Director",
+    "webpage_url": "https://vimeo.com/1147095187",
+    "original_url": "https://vimeo.com/1147095187",
+    "upload_date": "20251217",
+    "timestamp": 1765932493,
+    "release_timestamp": 1765932499,
+    "duration": 2148,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113865600-4596d9482adf1debc34eabd3cf0aff5aeefdf63fd6cdf973bc8e18111ba39180-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272534558.vtt?expires=1778590429&sig=901877063e5a63c402d681d327b6b76e764e0228&download=auto_generated_captions.vtt"
+  }
+}

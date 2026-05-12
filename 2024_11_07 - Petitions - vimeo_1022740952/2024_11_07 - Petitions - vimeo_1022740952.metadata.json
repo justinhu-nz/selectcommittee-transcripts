@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:59.861889+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1022740952",
+  "title": "2024/11/07 - Petitions",
+  "url": "https://vimeo.com/1022740952",
+  "published_at": "20241107",
+  "published_display": "2024-11-07",
+  "duration_seconds": 2827,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2827.18,
+    "segment_count": 1010,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_11_07 - Petitions - vimeo_1022740952\\2024_11_07 - Petitions - vimeo_1022740952.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1022740952",
+    "display_id": "1022740952",
+    "title": "2024/11/07 - Petitions",
+    "description": "7 November 2024 | Petitions Committee\n\nPetition of Carjam Online Ltd: Reverse plans for the NZTA to charge for free stolen status data in October; Petition of Angela Clifford: Government facilitates development of a national food strategy for Aotearoa\n\nSubmitters\n\nPetition of Carjam Online Ltd: Reverse plans for the NZTA to charge for free stolen status data in October\n\nCarjam Online Limited\n- Paul Osborne, CEO\n\nWaka Kotahi\n- Chris Rodley, National Manager, Regulatory System Design\n- Meredith Ussher, Group General Counsel\n\nPetition of Angela Clifford: Government facilitates development of a national food strategy for Aotearoa\n\nAngela Clifford\u00a0\n\nMinistry for Primary Industries:\n- Sarah Reader, Manager Food Policy Trans-Tasman\n\nMinistry of Health:\n- Michelle Mako, Director, M\u0101ori Public Health | Hauora Maori Tumatanu",
+    "webpage_url": "https://vimeo.com/1022740952",
+    "original_url": "https://vimeo.com/1022740952",
+    "upload_date": "20241107",
+    "timestamp": 1730948763,
+    "release_timestamp": 1730948832,
+    "duration": 2827,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1947489523-f5e9ea77b89811fbb752301c99d4ae7d545b983515d25e69f26f5353c0966884-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/194951382.vtt?expires=1778590144&sig=4097843e4ac3c14569370621dc2b251ba901c364&download=auto_generated_captions.vtt"
+  }
+}

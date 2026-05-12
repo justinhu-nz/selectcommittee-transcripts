@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:15.253338+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1160891512",
+  "title": "2026/02/02 - TI (Part 3 of 3)",
+  "url": "https://vimeo.com/1160891512",
+  "published_at": "20260202",
+  "published_display": "2026-02-02",
+  "duration_seconds": 8799,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8798.42,
+    "segment_count": 3210,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_02_02 - TI (Part 3 of 3) - vimeo_1160891512\\2026_02_02 - TI (Part 3 of 3) - vimeo_1160891512.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1160891512",
+    "display_id": "1160891512",
+    "title": "2026/02/02 - TI (Part 3 of 3)",
+    "description": "2 February 2026 | Transport and Infrastructure Committee\nLife Jackets for Children and Young Persons Bill\nMana Mokopuna Children's Commissioner\n\nDr Clair Achmad, Children's Commissioner\n\nRecreation Aotearoa\n\nSam Newton, Advocacy Manager\n\nSocial Justice Aotearoa\n\nJackie Foster, CEO\n\nJames Allen\nDrowning Prevention Auckland\n\nNicola Keen-Biggelaar, Chief Executive\nDr Teresa Stanley, Research & Impact Manager\n\nFish and Game New Zealand\n\nRichie Cosgrove, Chief Operating Officer\n\nKatherine McNabb\nSteven Strong\nNZ Marine Industry Association\n\nPeter Busfield, Executive Director\n\nTe Uru Kahika\n\nFiona McTavish, Te Uru Kahika RCEO Group Convenor and CEO of BOP Regional Council\nJonjon Peters, Harbourmaster\n\nWater Safety New Zealand\n\nGlen Scanlon, Chief Executive\nAnna Tootill, Chair\n\nCoastguard Tautiaki Moana\n\nCarl McOnie, CEO\nBennett Medary, Board President\n\nNavigation Safety Group\n\nGrant Nalder, Convenor of the Navigation Safety Group and Wellington Harbourmaster\nJim Lyle, Northland Regional Council Harbourmaster\n\nCanterbury Regional Council\n\nDion Swiggs, Chair\nCr John Sunckell\nTina Jackson, Harbourmaster",
+    "webpage_url": "https://vimeo.com/1160891512",
+    "original_url": "https://vimeo.com/1160891512",
+    "upload_date": "20260202",
+    "timestamp": 1770005505,
+    "release_timestamp": 1770005521,
+    "duration": 8799,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2116636903-1286881b31178eaefdd22c856b0f1ab1373e384789d259cf0417bca77ff2b652-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/280417037.vtt?expires=1778590218&sig=28ddefdee10f1a920e5a6d1ad39af820729dcc1f&download=auto_generated_captions.vtt"
+  }
+}

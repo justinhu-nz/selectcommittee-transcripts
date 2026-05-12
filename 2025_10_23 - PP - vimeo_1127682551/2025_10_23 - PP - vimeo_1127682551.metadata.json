@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:03:45.637845+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127682551",
+  "title": "2025/10/23 - PP",
+  "url": "https://vimeo.com/1127682551",
+  "published_at": "20251022",
+  "published_display": "2025-10-22",
+  "duration_seconds": 2053,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2052.05,
+    "segment_count": 758,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_23 - PP - vimeo_1127682551\\2025_10_23 - PP - vimeo_1127682551.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127682551",
+    "display_id": "1127682551",
+    "title": "2025/10/23 - PP",
+    "description": "Thursday, 23 October 2025 | Primary Production\n\nBriefing on the New Zealand Farm Environment Trust\nNew Zealand Farm Environment Trust\nBrendan Attrill, National Sustainability Ambassador\nSarah Harris, General Manager\nPaula Attrill,",
+    "webpage_url": "https://vimeo.com/1127682551",
+    "original_url": "https://vimeo.com/1127682551",
+    "upload_date": "20251022",
+    "timestamp": 1761163154,
+    "release_timestamp": 1761163161,
+    "duration": 2053,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073643568-e1a59aa1d03d2f0a4542ed5244aff419a0589648eeed21349df9c55f572801b8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260650721.vtt?expires=1778591030&sig=949db3df83db02339a2320e32934109ed8c00a16&download=auto_generated_captions.vtt"
+  }
+}

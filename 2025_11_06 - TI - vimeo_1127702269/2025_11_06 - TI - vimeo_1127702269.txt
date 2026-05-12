@@ -1,0 +1,1240 @@
+Title: 2025/11/06 - TI
+URL: https://vimeo.com/1127702269
+Published: 2025-11-05
+Duration: 00:52:37
+
+[00:00:06] We have to,
+[00:00:15] Right. Good morning.
+[00:00:16] Morning to see you.
+[00:00:18] Nice to see some familiar faces there too.
+[00:00:20] Um, so we've got the, uh, we've got the board
+[00:00:24] and all background material fitness.
+[00:00:26] So if there's anything you want to particularly highlight,
+[00:00:28] uh, but I think it could be some rich conversation going on
+[00:00:30] some of the, uh, material.
+[00:00:32] And I noticed that it was described as being, uh, about, um,
+[00:00:35] uh, autonomous vehicles or robocar,
+[00:00:38] but actually I thought it was more about the Model Monte
+[00:00:40] model, which I thought was the, the key, um, key take out
+[00:00:44] of, uh, out of all of that and what you can do with it.
+[00:00:46] So anyway, uh, in,
+[00:00:47] in your hands if you wanna do some intros and then, um, yeah.
+[00:00:49] Thanks Mr. Chair. Mr. Chair.
+[00:00:51] I'll just do a couple of intros.
+[00:00:52] I'm Ruth Erhu, I'm acting secretary.
+[00:00:54] Um, Paul O'Connell, who you know
+[00:00:56] before as, um, DC, um, sector strategy,
+[00:00:59] and both the modeling people
+[00:01:00] and the, um, sector strategy people
+[00:01:01] who wrote the Alta Burn this area.
+[00:01:03] And then we have Dan Jenkins, um, who's the data director
+[00:01:06] of data improvement, also has some
+[00:01:08] technical modeling people here.
+[00:01:09] So if you get technical questions about the model,
+[00:01:11] we have some people that can answer those questions now.
+[00:01:13] Cool. Um, and I'll hand over to Paul.
+[00:01:16] Thanks, Ruth. Thank you. Um, for, just bear with me.
+[00:01:19] I'd just like to start with a bit of a, uh, talk about
+[00:01:22] how we've chosen to focus on
+[00:01:23] technology and population change.
+[00:01:25] You know, why, why this?
+[00:01:26] Um, as was said in the Danish Parliament in the 1930s,
+[00:01:29] predictions are hard, particularly about the future.
+[00:01:33] Um, so of approach this, we took some advice from Confucius
+[00:01:37] who said, uh, study the past,
+[00:01:39] if you would define the future.
+[00:01:41] So I'd like to start by going back 30 years, uh, which isn't
+[00:01:44] that long in the life of our transport system.
+[00:01:46] Uh, back then I was at, uh, Burnside High in Christchurch.
+[00:01:49] Uh, and the transport network then down there is
+[00:01:52] very similar to the network.
+[00:01:53] Now. You went down Memorial Ave, uh, to get
+[00:01:56] to the city from the airport.
+[00:01:57] That road's largely unchanged now from what it was then.
+[00:02:00] Uh, and at that point it was 35 years old.
+[00:02:03] Uh, my transport experience then would've been very similar
+[00:02:06] to a teenager on Christchurch.
+[00:02:08] Today. I rode my bike to school.
+[00:02:09] I rode my bike, uh, to work on the weekends through paths
+[00:02:13] and roads that are largely the same.
+[00:02:15] Um, if I go further back the roads, my grandfather road
+[00:02:18] to get to work on the railways pages Road
+[00:02:20] and Ferry road, they're still there.
+[00:02:22] The railway lines are still there.
+[00:02:24] Um, I expect the infrastructure commission will have
+[00:02:26] mentioned this to you when they met with you, that most
+[00:02:28] of our future infrastructure is infrastructure
+[00:02:31] we already have today.
+[00:02:33] And when we look at the big transport infrastructure changes
+[00:02:36] that have happened in Canterbury over the past 30 years,
+[00:02:39] it shows how difficult those predictions are.
+[00:02:42] Uh, and large number of the big investments down there, such
+[00:02:45] as the motorway, up to roller stone,
+[00:02:46] the state highway one realignment to running Cota, they came
+[00:02:49] as a result of earthquakes that no one could have predicted.
+[00:02:53] The regulations that govern activity on the network,
+[00:02:55] they're also very similar, uh, to what they were back then.
+[00:02:59] They've been updated. But in broad form, our regulatory
+[00:03:02] and infrastructure is similar to what it was.
+[00:03:04] Then, however the population's changed,
+[00:03:07] it was 330,000, then.
+[00:03:09] It's now more than 400,000.
+[00:03:11] Uh, Rolleston isn't in that number.
+[00:03:13] They've had 800%, uh,
+[00:03:16] population growth over the same period.
+[00:03:18] And if we look at transport technology back in
+[00:03:20] 1995, that's changed a lot.
+[00:03:23] I learned to drive 30 years ago in a dangerous
+[00:03:26] and, uh, very unreliable mini lovely, though it was, um,
+[00:03:30] my father had a mobile radio in his car, uh,
+[00:03:33] where he would get radio calls from a service
+[00:03:35] that picked up your phone when you weren't at home
+[00:03:38] and then radioed them to you.
+[00:03:40] Uh, they've, I think they've gone bankrupt now.
+[00:03:42] Um, my bicycle was steel and clunky, um,
+[00:03:45] and our computer was an old Apple Macintosh
+[00:03:47] that you couldn't do anything with on the network.
+[00:03:49] However, the transport technology we use now was
+[00:03:52] significantly different.
+[00:03:54] Um, cars today are arguably closer
+[00:03:57] to computers than they are to cars of the 1990s.
+[00:04:00] Uh, I've got bikes that have got electronic gearing, uh,
+[00:04:04] radars on them.
+[00:04:06] Uh, some with electric motors.
+[00:04:07] Yesterday I booked flights to Australia
+[00:04:09] with an app on my phone that's thousands
+[00:04:11] of times more powerful than my computer from the 19th.
+[00:04:15] Uh, and when it was in, in Australia last, I paid for all
+[00:04:18] of my transport by tapping my phone on a, on a reader.
+[00:04:21] So that's what we've chosen to focus on in this.
+[00:04:24] If we project out the population
+[00:04:26] and use simulation technology
+[00:04:28] that computing power has just made possible,
+[00:04:31] which we started to use last year,
+[00:04:33] what are the likely future outcomes?
+[00:04:35] And how might new transport technology affect that?
+[00:04:38] So we've got Monty, which is a digital trend of the, uh,
+[00:04:42] national Land Transport Network.
+[00:04:44] We started to use it in 2024.
+[00:04:46] Uh, and it simulates how mil millions of digital people move
+[00:04:49] around, uh, New Zealand over the course of a day.
+[00:04:52] There's no me in the model,
+[00:04:54] but there is an anonymous digital person, 1 0 5 a
+[00:04:57] who lives at my address, um,
+[00:04:59] and goes to work somewhere in the city each day.
+[00:05:02] Uh, moderny assesses the optimal way for that person
+[00:05:05] to travel throughout their city on a,
+[00:05:07] in a given scenario based on the modes
+[00:05:10] and routes available to them.
+[00:05:11] The base cases calibrated to daily traffic
+[00:05:14] and public transport use data
+[00:05:15] to represent travel in New Zealand today.
+[00:05:18] And we use it in this L tip to model two possible scenarios,
+[00:05:22] a 2055 future with population change, uh,
+[00:05:25] and an automated vehicle scenario.
+[00:05:27] So it's not just trying to, uh,
+[00:05:29] get people's mental models about this, right.
+[00:05:31] Mon Monty's not a model
+[00:05:32] where you can just ask it a question like chat GPT,
+[00:05:35] uh, and get an answer.
+[00:05:37] So the, the simulations here took three days
+[00:05:40] for the robo taxii, uh,
+[00:05:42] simulation in Napier at a 10% population level.
+[00:05:46] If, if we'd done it with a hundred percent population in ap,
+[00:05:49] it would've taken three weeks of computing power.
+[00:05:53] So to protect project out to 2055, we had
+[00:05:56] to create a bespoke 2055 population.
+[00:05:59] Stats NZ projections don't go out that far.
+[00:06:02] Uh, and when we run that model in 2055, we find
+[00:06:05] that unsurprisingly, uh, as our population grows,
+[00:06:08] pressure on infrastructure increases, uh,
+[00:06:10] and traffic times increase, that's consistent
+[00:06:12] with experiences in all countries as they grow.
+[00:06:16] Uh, and so what about technology?
+[00:06:18] Will, will autonomous vehicles, uh, save us?
+[00:06:22] Well, in modeling our hypothetical example in Napier?
+[00:06:27] No, we don't think so. Uh, we think the introduction
+[00:06:29] of automated vehicles is highly plausible.
+[00:06:31] Um, 80% of travel in New Zealand Zealanders by car, uh,
+[00:06:35] automated trials of underway in the USA
+[00:06:38] China and the Middle East.
+[00:06:40] Um, but our analysis suggests that replacing private car use
+[00:06:44] with, uh, roboto taxis doesn't alleviate congestion.
+[00:06:48] In fact, it, it makes it worse.
+[00:06:50] Uh, and this one, we find that vehicle kilometers travel
+[00:06:54] actually increased 'cause the robot taxis have to move
+[00:06:56] around without people in them between trips.
+[00:06:59] It seems obvious after having done the analysis,
+[00:07:01] but it wasn't something we'd considered beforehand.
+[00:07:04] It's sort underwhelming. Right.
+[00:07:06] Uh, this tells us the transport system will face a range
+[00:07:08] of pressures over the next 50 years,
+[00:07:10] particularly in Auckland.
+[00:07:12] Uh, we'll need to use a range of tools
+[00:07:13] to address those pressures from new infrastructure like road
+[00:07:17] and rail, uh, public transport services to demand management
+[00:07:20] by the time of use Bill that, uh, you have just considered.
+[00:07:23] As with the treasury's long-term fiscal statement,
+[00:07:25] we don't try and model any particular
+[00:07:27] policy response in the response, though.
+[00:07:30] And with that, I'll welcome any questions.
+[00:07:33] Fa Fascinating personal background there
+[00:07:35] as well. Thank you.
+[00:07:37] Thank you. Uh, Mr. Gee. Yeah, thanks for that.
+[00:07:40] And really, uh, innovative approach to detecting, uh,
+[00:07:43] what might, what might come in the future.
+[00:07:46] Um, you, you,
+[00:07:48] I wanna ask a question about equity and access.
+[00:07:50] Um, you talked about the bespoke nature of projections, um,
+[00:07:55] with, with Monty.
+[00:07:56] Mm-hmm. How do issues like transport equity, access
+[00:08:01] to the transport network by vulnerable groups
+[00:08:03] and the like, how, how does that fit within the,
+[00:08:06] the Monty model?
+[00:08:08] Can you just talk me through
+[00:08:10] that sort of side of things? Sure.
+[00:08:11] Yeah. So the,
+[00:08:13] because we have a synthetic population in the model, um,
+[00:08:16] with the demographic attributes
+[00:08:17] that are representative of New Zealanders.
+[00:08:20] So we c we could bring that sort
+[00:08:22] of wider distribution analysis to understand, uh, access
+[00:08:26] for vulnerable or low income households, um, as well as,
+[00:08:30] as a, as a distribution impact, uh, transport equity, um,
+[00:08:35] across the whole demographic.
+[00:08:37] We just haven't got to that stage yet.
+[00:08:39] We've only been using it for a year in, in Ang.
+[00:08:42] So it's definitely something that's on our, our horizon.
+[00:08:47] And, and likewise for us for sort of considerations like,
+[00:08:50] um, climate resilience changes
+[00:08:53] and the like, which might, you know, in terms
+[00:08:55] of bespoke projections might be a bit more difficult to, um,
+[00:08:59] ascertain what that purely might look like
+[00:09:01] in, in a future period.
+[00:09:04] But that's part of the thinking as well.
+[00:09:06] Or, or is that already sort of built into some parts
+[00:09:09] of, of Monty?
+[00:09:11] Absolutely. No. So we have the ability to sort
+[00:09:13] of consider any future scenario.
+[00:09:16] Um, it's just how, how you craft that scenario, that's the,
+[00:09:19] the hard bit, I suppose.
+[00:09:21] So we could consider a, a future
+[00:09:24] under significant climate change where sea level rise as,
+[00:09:28] um, inundated most of the North island, for example.
+[00:09:32] And we could then, um, reduce access to the network based on
+[00:09:36] that sea level rise if we, if we wish to.
+[00:09:38] Again, it's, it's, it's part of the exploration
+[00:09:41] of sort of future things we can do.
+[00:09:43] Okay. And just one more question is on the role of, um,
+[00:09:46] regions and, and local government obviously have quite a,
+[00:09:49] a key role in terms of the transport network.
+[00:09:52] Um, a lot of that can change at a, at a local level.
+[00:09:57] So any comments on the applicability of, of, I take
+[00:10:00] that your point around, well, the model can flex to sort
+[00:10:04] of run a whole range of different scenarios
+[00:10:06] and what have you, but how is it resilient in the sense
+[00:10:09] of local direction, local decision making,
+[00:10:12] that changing dynamic at a local level?
+[00:10:15] So in terms of the network that we use, um,
+[00:10:17] which would be the like, largest thing that would change,
+[00:10:19] I suppose from a regional perspective?
+[00:10:22] We, um, we're currently using o Open Street map,
+[00:10:25] which is a sort of, uh, a public, uh, accessible network.
+[00:10:30] Uh, but a lot of the local government planning is already in
+[00:10:34] that for future years.
+[00:10:36] Um, so we are draw, we're drawing from that,
+[00:10:39] but obviously we could, um, parti, uh, as you see,
+[00:10:42] as you can see with the the Napier example,
+[00:10:44] we can isolate a particular region
+[00:10:46] and really concentrate on that network.
+[00:10:48] So if a regional council chose
+[00:10:50] to potentially use non future, we could, uh,
+[00:10:55] take their regional casual plan
+[00:10:56] and completely implement it right within the model
+[00:10:59] of futures sort for
+[00:11:01] Next. Okay. Um,
+[00:11:02] I'll check a few questions so we can start just
+[00:11:04] around, around the model.
+[00:11:05] Um, the, the assumptions you've, you've got,
+[00:11:08] that sounds pretty good in terms of how
+[00:11:11] the assumptions about human behavior, et cetera, uh,
+[00:11:14] map to, to reality.
+[00:11:15] Is all this all linked
+[00:11:17] to see nodding at the back there as well?
+[00:11:18] So is this all linked to the diary, um, travel diaries
+[00:11:21] and so on that you, you use as well?
+[00:11:23] Okay, that's pretty good.
+[00:11:24] Your, um, your ability to, um, uh,
+[00:11:29] model a range of different things you told us,
+[00:11:31] that's basically takes three days of computer power
+[00:11:33] to do the, um, the nap P one.
+[00:11:34] Mm-hmm. There's a, any number of different scenarios,
+[00:11:37] but, um, what I'm thinking is the ability to be able to,
+[00:11:41] at the moment you're doing it as a receiver effectively
+[00:11:43] saying, um, we get this, we, we assume this is gonna happen.
+[00:11:47] What does that look like? We assume
+[00:11:49] that's gonna happen, what's that look like?
+[00:11:51] But if you actually say, well, look,
+[00:11:52] what are all the possible scenarios to model those scenarios
+[00:11:55] and say, well, what's actually the best
+[00:11:57] scenario for New Zealand Inc.
+[00:12:00] Is the ability to be able to do that within the model.
+[00:12:04] And, and how much does that take?
+[00:12:05] I mean, you told us that that's computer power three days.
+[00:12:08] If you've got a person sitting there
+[00:12:10] for three days watching the computer, okay, tick,
+[00:12:12] tick, tick, the money's going up.
+[00:12:13] What? But if you haven't, you just said computer go off
+[00:12:16] and do your thing and you come
+[00:12:17] back and say, oh, what has it told
+[00:12:18] me? It's slightly different.
+[00:12:19] Yeah. So, um, I'll have a go and I'll encourage Dan
+[00:12:23] and Jay to, to to, but in if I, uh, misstep, so
+[00:12:26] Anybody else wants to come up to the table who needs
+[00:12:28] to help answer question come up,
+[00:12:30] Ruth, stay there as well. You know,
+[00:12:31] We've got plenty of seats. If
+[00:12:32] we, if we think about the, uh,
+[00:12:34] use the Napier Robo Taxii example, um, if you were
+[00:12:39] to try and optimize that, to eliminate the congestion,
+[00:12:41] so one of the assumptions in there was it was all there
+[00:12:44] were, there were all robax,
+[00:12:46] there was no private car ownership, uh,
+[00:12:49] and a hundred percent of trips were made by Rob taxis,
+[00:12:52] and that the occupancy
+[00:12:54] of those rob taxis was one per person.
+[00:12:57] Um, you could have rerun the model by tweaking some
+[00:13:00] of those things and then seeing what happens.
+[00:13:02] It's not three days. Depends on how long it takes you
+[00:13:05] to redo your, yeah, okay.
+[00:13:06] You can run 'em in parallel. Okay.
+[00:13:08] If you start with a, with a, I think this solution is going
+[00:13:11] to work and you need to do some sensitivity around it,
+[00:13:14] for example, three or four different scenarios,
+[00:13:16] you could run those in three days altogether.
+[00:13:20] It would then just take you three times as long
+[00:13:22] to do the analysis of, of that stuff,
+[00:13:23] or three times the amount of people.
+[00:13:25] Yeah. Um, in terms of the optimization, um, on a,
+[00:13:29] on a network basis, it's quite hard to sort of, uh,
+[00:13:34] understand where to place a road to optimize,
+[00:13:38] uh, everybody's travel.
+[00:13:40] So you're gonna inevitably make trade offs.
+[00:13:41] Um, and some of those may be in a equity space, some
+[00:13:46] of them may be in an access space.
+[00:13:48] Um, so from that perspective, it's hard to give that problem
+[00:13:51] to a computer and say, solve, um,
+[00:13:54] How would say, well, I, I was, I was envisaging the kind
+[00:13:56] of things of saying, Hey, um, for example, freight, okay,
+[00:14:00] we, we've got a lot more trucks.
+[00:14:01] Did we want more, um, transport on rail?
+[00:14:04] What does that look like? What's the lever you've gotta pull
+[00:14:07] to get that outcome of your urban planning?
+[00:14:09] And you said the interface with
+[00:14:10] urban planning needs some work on that.
+[00:14:12] You know, if you, if you let an Auckland or a Hamilton
+[00:14:14] or whatever do this, what does that look like compared
+[00:14:17] to saying, oh, actually we'd rather it does a bit more
+[00:14:18] of this go, what does that look like?
+[00:14:21] So it's the leisures that potentially Yeah.
+[00:14:24] Agencies can pull. And where I was also partly going to to
+[00:14:26] that is at the moment we've got this ministry, ministry
+[00:14:30] of transporting days long by was working on a, uh,
+[00:14:33] transport strategy, um, which was, you know,
+[00:14:35] back in the days of the Clark government.
+[00:14:37] Um, and then we went to the GPS.
+[00:14:40] And the GPS is much more ministerial fear,
+[00:14:42] which means there's a lot more chopping and changing.
+[00:14:44] Yeah. But we've been encouraged
+[00:14:46] to do things which are strategic,
+[00:14:47] longer term, longer lasting.
+[00:14:49] Mm. So if we can have that kind of picture,
+[00:14:50] which is what's the best sort of longer term look, you know,
+[00:14:53] that will fit better with infrastructure, commission's,
+[00:14:55] aspirations as well, what does that look like?
+[00:14:58] So it's that, it's those kind of things I'm looking, looking
+[00:15:00] At in the, in the pack we
+[00:15:02] provided on Monte as a diagram about
+[00:15:04] how we effectively choose options.
+[00:15:06] Mm-hmm. Um, on the right hand side, I think, uh,
+[00:15:10] the best way of describing that would be, you know,
+[00:15:13] we can model a huge range of scenarios
+[00:15:15] and then down select to, I think a good option, um,
+[00:15:19] as opposed to modeling only three
+[00:15:22] or four different scenarios.
+[00:15:23] I think that's where the, the ability that we have, um,
+[00:15:27] provides a, a potentially more rounded answer.
+[00:15:30] Maybe it's still suboptimal.
+[00:15:31] It's very difficult to get to that.
+[00:15:33] And you're getting clo you get closer. You're
+[00:15:34] Getting closer. Yeah. Um,
+[00:15:35] but it's definitely in that, in that stack
+[00:15:37] of scenarios, how do you pick good ones out of that?
+[00:15:41] And you have to make sure that your scenarios in the first
+[00:15:43] place are well designed.
+[00:15:45] And so before give the, the, the, um, speaking to,
+[00:15:48] to tool back to anybody else, is that the sort of thing
+[00:15:51] that you are looking to do as a ministry?
+[00:15:53] Okay, good. I'm, I'm liking that. That's excellent.
+[00:15:56] Thank you. Um, anybody else wanna pick one up?
+[00:15:58] Yeah, Julian, I'm on the list. Okay. No. Okay.
+[00:16:01] Okay, Greg. Alright,
+[00:16:02] Fine. I, um,
+[00:16:03] what New Zealand is a highly urbanized country.
+[00:16:07] Um, I, I remember sitting, my family farm is north
+[00:16:10] of Westport, and my brother who's on the farm was
+[00:16:13] bemoaning the state of the road.
+[00:16:15] And that all the money was going into Auckland.
+[00:16:17] And we sat there and counted vehicles going past the next
+[00:16:21] hour, and there were only about eight,
+[00:16:23] but they were all commercial vehicles.
+[00:16:25] They were milk tankers, coal trucks, various other things.
+[00:16:29] In this model, how do you, um, h
+[00:16:32] how, how do you wait?
+[00:16:35] The fact that for that road
+[00:16:37] and the cost of it, it was absolutely necessary
+[00:16:40] for the milk tankers versus the travel in Auckland.
+[00:16:43] Does the model do that?
+[00:16:45] Put, put value on the journey,
+[00:16:50] put the value for the economy on the journey? Not as such.
+[00:16:54] Um, we, that's a definitely sort
+[00:16:56] of a decision maker led process.
+[00:16:58] The moment we can inform that
+[00:17:00] by saying there's eight milk packs in that
+[00:17:02] Road, well, okay.
+[00:17:03] Does it feed into, so does does want, does the model somehow
+[00:17:09] put any, differentiate the value of a journey,
+[00:17:11] I suppose, I suppose is the question?
+[00:17:13] Well, we can, the value of the journey to the economy,
+[00:17:17] It, it, it can be imputed if, if people are doing,
+[00:17:19] for instance, cost benefit analysis
+[00:17:21] and they want to know how many cars are traveling or trucks
+[00:17:24] or whatever they happen to be on a given road
+[00:17:27] and how long it takes them.
+[00:17:28] And if you change a variable how that journey time changes,
+[00:17:31] Monte can help you do that. Yeah.
+[00:17:34] Because I mean, if it, if that row is out of commission
+[00:17:37] for, is, is there a model you have out of commission
+[00:17:40] what the impact will be, the economic impact
+[00:17:43] of having a road outta commission
+[00:17:45] where there's only one way in and out?
+[00:17:47] Yes. And most of the traffic is
+[00:17:48] Commercial Yeah.
+[00:17:49] Versus a road out in Auckland where there are alternatives.
+[00:17:54] Yeah. So we can absolutely, yeah,
+[00:17:56] you can absolutely turn a link of the network off, so a road
+[00:18:00] and then watch what happens when you rerun it
+[00:18:03] and where the trucks go.
+[00:18:05] Um, so that's, that is some of the things we use it for.
+[00:18:08] Alright. Okay. Thank you.
+[00:18:10] That is a good question because I think Greg's point in
+[00:18:12] that case is there would be no trucks
+[00:18:13] because you wouldn't be able to get there or back.
+[00:18:16] But I think it's a very good point about what's the economic
+[00:18:18] impact of any given road, particularly really they ask,
+[00:18:21] many of them are screaming out for that.
+[00:18:23] Julianne and then Carlos,
+[00:18:24] Thank you so much.
+[00:18:26] Um, thanks for your very clear presentation
+[00:18:29] and stories to illustrate as well.
+[00:18:30] That's really helpful. Um, I actually just had a couple
+[00:18:34] of kind of technical questions initially,
+[00:18:36] and I just, it was, you mentioned that, um,
+[00:18:38] stats New Zealand doesn't have population productions
+[00:18:42] and for 2055,
+[00:18:44] So they do, they don't have a, a, a two those.
+[00:18:47] I see, I see. It's very broad.
+[00:18:49] Sorry, sorry, very, very broad.
+[00:18:50] Just say that again, but bit louder. So,
+[00:18:52] So the Staff New Zealand do produce a whole
+[00:18:55] of nation population projection, I think at
+[00:18:57] to 2070 or something.
+[00:18:59] Um, but they don't produce one acts, uh,
+[00:19:02] a lower spatial resolution. So,
+[00:19:04] So that makes it hard to do transport modeling.
+[00:19:07] It makes it very hard to do transport modeling.
+[00:19:08] Yes. Okay. So it's quite difficult
+[00:19:11] to do transport modeling 30 years in the future.
+[00:19:14] How hard would it be to do transport modeling
+[00:19:16] 60 years in the future?
+[00:19:20] Very hard,
+[00:19:22] Extremely hard, Extremely hard
+[00:19:24] to accurately model travel demand
+[00:19:27] more than 30 years in the future.
+[00:19:29] Well, even 30 years in the future, given
+[00:19:31] what we know about the reliability
+[00:19:33] of stats New Zealand's population projections.
+[00:19:35] Yes. Which have consistently tended to undershoot,
+[00:19:38] um, on immigration.
+[00:19:40] So the New Zealand's population,
+[00:19:42] if you look at the actual outturns versus projections over
+[00:19:46] time, says nzs projections have been consistently
+[00:19:49] conservative compared to what's actually happened.
+[00:19:51] Mainly because they're, I think, trying it's migration.
+[00:19:54] They find it d very, very difficult to, uh,
+[00:19:57] forecast migration because that sits
+[00:19:59] as a policy choice rather than a, a variable
+[00:20:02] that's up to them to
+[00:20:04] My favorite topic. You gotta stop Kim.
+[00:20:07] Yeah, we gotta stop on that. Just
+[00:20:08] how does the multimodel like, 'cause it's, it's,
+[00:20:12] and it's also trying to work on where the dispersal
+[00:20:14] of people demographics go.
+[00:20:16] So, you know, to the point about Yeah, that's fine.
+[00:20:19] Inability. Well, the difficulty modeling out,
+[00:20:21] how do you take into account the feedback of
+[00:20:24] what the model projects making choices,
+[00:20:27] like say more investment
+[00:20:29] because Auckland's projected to, um, grow from immigration.
+[00:20:34] So investment goes there, which is sort of self-fulfilling.
+[00:20:37] And then West coast commercial roads don't get the invest.
+[00:20:40] How do you avoid the self-fulfilling feedback loops
+[00:20:45] Talking about land use not Being, yeah.
+[00:20:48] Um, so you're right.
+[00:20:50] We don't consider land use at the moment in
+[00:20:52] our, in our model.
+[00:20:54] Um, we, we do consider the impact
+[00:20:58] of an intervention.
+[00:21:00] So if we were to say
+[00:21:02] that the roads on the west coast were degraded to the point
+[00:21:05] where you can't use them anymore, um,
+[00:21:08] the model has the ability to understand
+[00:21:10] what the local population would do in those cases now.
+[00:21:14] And then from an economic perspective, you could back
+[00:21:16] that into some economic analysis, which said, you know,
+[00:21:18] and this is the drain on the country from not having
+[00:21:22] that access to that road.
+[00:21:24] Um, what the differential
+[00:21:26] between investment in one place versus investment
+[00:21:28] and another, another place from a pure
+[00:21:30] transport model perspective.
+[00:21:32] Um, it doesn't take
+[00:21:34] That into No, I get, I under, I understand that it goes,
+[00:21:37] that it doesn't make the political decision about where
+[00:21:39] to invest and what sort of country to, to design.
+[00:21:42] But it that, I mean, um, you know, using the model
+[00:21:45] to Auckland's incredibly important of course,
+[00:21:48] using the model to model Auckland every single time,
+[00:21:51] you know, so what is it a third of the population that sort
+[00:21:54] of pulls Grant Robax example from Napier
+[00:21:57] and your great soliloquy at the start was doable, all
+[00:22:00] of us about, um, Christchurch, um, it's like if, if we,
+[00:22:05] if the model is modeling places to grow
+[00:22:08] and then figuring out how to make it grow, does that, how,
+[00:22:12] how, how are you building into your ability
+[00:22:15] to use this system a like a
+[00:22:20] blinding effect on your,
+[00:22:22] on the ministry of Transport itself?
+[00:22:24] How, you know, if you're constantly modeling Auckland, so
+[00:22:28] how are we gonna improve Auckland's transport?
+[00:22:30] We're gonna invest in Auckland for modeling in Auckland.
+[00:22:31] We design, everyone's talking about that.
+[00:22:33] How do you drag the eye and look at another part? Okay,
+[00:22:37] So, so one of the good things about the model is
+[00:22:40] because it is nation nationwide, when you do a run,
+[00:22:43] if you do a, a change in Auckland, it actually says, well
+[00:22:47] what, what does that have in terms
+[00:22:49] of a flow on effect for the whole country?
+[00:22:51] Because those, those freight journeys
+[00:22:53] that start in Auckland, they end somewhere often
+[00:22:55] outside of Auckland.
+[00:22:56] So you make changes in Auckland
+[00:22:57] and actually does flow through the, the whole country
+[00:23:00] Finals. Just, yeah,
+[00:23:02] I think it's actually quite a good, I mean it's a good
+[00:23:04] reflection for us as, as well
+[00:23:05] to think about if we look back a year
+[00:23:07] and I guess we've had it been running for a year in a couple
+[00:23:09] of years, if we look back and see what we've modeled
+[00:23:11] and what we haven't, it's
+[00:23:12] probably a good check for us to think.
+[00:23:13] Are there things, questions not asking Monty
+[00:23:15] that we should be asking Monty that would pick up?
+[00:23:18] Are we not looking at areas of the country we should be,
+[00:23:20] I guess? Yeah, well I guess
+[00:23:21] there's a quick, like if, if they, um,
+[00:23:24] you know, Taiwan grows, um, based on people wanting
+[00:23:28] to get out of Auckland because of bad traffic
+[00:23:30] and all of a sudden the traffic's improved in Auckland
+[00:23:31] and um, say even though your projection say it's gonna get
+[00:23:35] slower and, um, and on both time and speed
+[00:23:39] and people then go to toga and,
+[00:23:41] and then it's like, well, did you mo Yeah, I guess
+[00:23:43] what you've said describes the whole
+[00:23:44] Country. I'm just
+[00:23:45] worried about some feedback,
+[00:23:46] Luke. Yeah,
+[00:23:48] It is. I guess it is a related
+[00:23:49] question. Okay.
+[00:23:50] Yeah, I mean, you've said obviously you're trying not
+[00:23:53] to take into account any policy decisions
+[00:23:56] and just see what things are,
+[00:23:57] but like, could the model be used to see what the impacts
+[00:24:02] of EKTR on of different investment choices?
+[00:24:06] Yes. And that might be useful if EKT is like a proxy for
+[00:24:11] cost congestion, emissions, et cetera.
+[00:24:13] Yes,
+[00:24:16] Carlos, Think to chair, well,
+[00:24:18] my question is your model should be based on
+[00:24:21] how the city being, um, the future planning.
+[00:24:25] Am I correct? So are we based on the current way
+[00:24:28] of planning our city
+[00:24:29] or we based on, there's some factors there.
+[00:24:31] Like for example, in Auckland, if we got another, uh,
+[00:24:35] I I can see there's a huge increase in
+[00:24:37] population in 20 years time.
+[00:24:39] Are we good city planning?
+[00:24:40] Like, you know, wider the city or they going to build up?
+[00:24:45] I mean that, that affect the whole different model.
+[00:24:47] So, um, so what, what are you guys based on at the moment?
+[00:24:52] So at the moment it's based on the land transport
+[00:24:54] network as it currently exists.
+[00:24:56] We haven't yet built in a module that allow
+[00:24:58] that changes land use that would lead to changes in the,
+[00:25:03] in the shape of the city.
+[00:25:04] Uh, that's a development area that we're looking to
+[00:25:06] Develop. So you didn't
+[00:25:07] actually refer to the past 10 years how,
+[00:25:10] for example, Auckland, how much, you know,
+[00:25:12] new area being developed.
+[00:25:14] You didn't put that into the consideration, am I correct?
+[00:25:17] Because for example, I saying 10 years ago, fab Bush
+[00:25:21] as a, as a farmland.
+[00:25:22] Yeah. Now, 10 years later on whole FB Bush is
+[00:25:25] for residential area.
+[00:25:27] Do that take, did this model, taking this into account
+[00:25:30] how the city will be developed in 10 years time?
+[00:25:33] So the, the base simulation, um,
+[00:25:37] that we compare everything to in 2055
+[00:25:40] is predicated on 2023 network, uh, 2023,
+[00:25:45] uh, population.
+[00:25:47] So it would've taken into account
+[00:25:49] the previous 10 years worth of
+[00:25:51] So what, so what I'm saying is the more dose is only based
+[00:25:54] on the current city painting.
+[00:25:56] So assume that there's no new software
+[00:25:58] or new areas being developed in Auckland. Am I correct?
+[00:26:02] It's a comparative model.
+[00:26:04] So the, the future scenario, you're correct.
+[00:26:06] In the, the 2055 scenario,
+[00:26:08] we considered didn't necessarily consider any potential
+[00:26:11] future plan change to Auckland, um,
+[00:26:15] other than a population growth.
+[00:26:17] Um, and that's to a certain extent reflected in the, in the,
+[00:26:21] uh, the answers the model gave around
+[00:26:23] reductions in travel time, I'm sorry, increases.
+[00:26:26] So that, that model will not be inaccurate.
+[00:26:29] Um, p that was happening in 10 years time
+[00:26:31] because just look at our past 10 years,
+[00:26:33] the city size in Auckland is growing dramatically
+[00:26:37] and there's a lot of LiveOps being created as well.
+[00:26:39] But you're telling me that your model didn't put
+[00:26:42] that into a consideration with,
+[00:26:44] with more new softwares being created, you know,
+[00:26:47] outside the, the city central because
+[00:26:49] otherwise they will actually increase.
+[00:26:51] There's a lot of, you know, um, uh, traveling time as well.
+[00:26:55] Like for example, 10 years ago, not a lot
+[00:26:58] of people live in Tarini, so they don't need
+[00:27:01] to travel pack, need to see the center.
+[00:27:03] But if you don't put
+[00:27:04] that into consideration into your model, how can you equity
+[00:27:08] that the, the travel income in 20 years time?
+[00:27:11] So if we, if we were
+[00:27:12] to create a credible 20 year scenario,
+[00:27:15] I think we could take the bulk of the land transport plan
+[00:27:19] for Auckland and whatever, whatever urban design they have,
+[00:27:23] uh, that is currently available.
+[00:27:25] And we could implement that as a, as a potential scenario.
+[00:27:28] Um, in this case we were looking at a 2055 national
+[00:27:32] scenario, and at that point it was very difficult for us
+[00:27:35] to consider all network changes, um, on the same basis.
+[00:27:39] So we, we chose not to do any thought,
+[00:27:41] Because for my, my questions more like,
+[00:27:43] because we know that if the, if the city grow tall
+[00:27:46] or go by size Yep.
+[00:27:47] They will be very different in
+[00:27:49] traveling council. Absolutely. That's right.
+[00:27:51] And I, I think that's, that's, that's
+[00:27:52] where I was going at the beginning with
+[00:27:53] that question about the urban form.
+[00:27:56] So in terms of the, the Auckland City plan, um, that allows
+[00:28:00] for both this and that, and the question's gotta be,
+[00:28:02] and it'll be way over the capacity, which will happen
+[00:28:04] with whatever the growth, um, amount is.
+[00:28:07] The question's gonna be what's the balance of the, the,
+[00:28:10] the densification versus the, the green fields.
+[00:28:13] And, and actually in modeling that, if you can do that kind
+[00:28:16] of thing, you could then say, well, here are the transport
+[00:28:18] outcomes, which one actually works better.
+[00:28:20] Yeah. So the,
+[00:28:22] we could certainly model those two different scenarios,
+[00:28:24] but trying to pick a central one at
+[00:28:26] how it will actually play out pretty fraught if you think
+[00:28:29] about the way in which the a can plan processes
+[00:28:33] role politically where it was doing this
+[00:28:35] and then it was doing this and then it was doing this.
+[00:28:37] Yeah, no, I understand. It was doing this.
+[00:28:38] So it just becomes quite
+[00:28:39] Difficult. I think my question really
+[00:28:40] is, if you said, okay,
+[00:28:42] we know we've got, we expect XX people on the basis
+[00:28:45] of a long-term
+[00:28:46] immigration strategy, which we don't actually have.
+[00:28:48] So that makes life very difficult.
+[00:28:50] One day we, one day we'll grow up and do it.
+[00:28:52] Um, I've got one quick question.
+[00:28:54] Uh, yeah, no, I I but,
+[00:28:55] but if you were to say, okay,
+[00:28:56] so we expect 300,000 extra people
+[00:28:59] and the plan allows for 3 million extra people
+[00:29:02] or 2 million extra people, I believe it's whatever.
+[00:29:04] Um, and you said that, okay, there's 300,000 people are all,
+[00:29:07] you know, dense corridors on PT routes and et cetera.
+[00:29:10] What does that look like?
+[00:29:11] And 300,000 people in Greenfield, what does that look like?
+[00:29:15] And here, Auckland Council, here in New Zealand government,
+[00:29:17] that is the implication of that.
+[00:29:19] You might wanna think about what your choices would be.
+[00:29:21] That would be a really powerful and useful tool.
+[00:29:24] Are you talking Auckland? Yeah.
+[00:29:25] So we're, we're we're collaborating with Auckland Council on
+[00:29:28] that land use model development.
+[00:29:30] Yes. So in effect, we'd, we'd have a, a wrapper
+[00:29:33] around Monty, which would provide that land use variation.
+[00:29:36] We can then model the transport outcomes based on their
+[00:29:39] scenarios, feed that back into, um, their modeling.
+[00:29:44] So you, you could then get closer to, uh,
+[00:29:47] an optimized picture of urban design.
+[00:29:49] That would be very powerful, very useful. Anywhere.
+[00:29:52] It's very early days, but yeah. Yep. Um, you
+[00:29:55] Okay, Carlos? Yep. Yes.
+[00:29:57] I'm quite interesting. One of your data as well,
+[00:29:59] you modeling only 10% of people went to work?
+[00:30:03] No, we're, we're modeling a 10% sample of the population.
+[00:30:06] Yes. Uh, which would represent 10%
+[00:30:11] of the people doing 10% of the, of all activities.
+[00:30:16] So just like 10% of my time is going
+[00:30:20] to work. Is that what you mean?
+[00:30:22] No, It's, it's,
+[00:30:23] Think Of it like a polling sample.
+[00:30:25] We're using a 10% sample to get a representative picture of
+[00:30:28] what might happen just simply to save on computing power.
+[00:30:31] But this, what is the effect to the real life? Only 10%.
+[00:30:35] Jade, Uh, Jade McKay, chief Transport modeler,
+[00:30:40] uh, what we're actually doing is that, uh, we are
+[00:30:44] ning the resolution of the simulation such
+[00:30:47] that each agent represents 10 people.
+[00:30:50] And that's what we mean by a 10% sub sampling.
+[00:30:53] Okay, Thank you. So the full population is represented.
+[00:30:56] It's just the resolution of the simulation,
+[00:31:00] which is very highly resolved in that international context.
+[00:31:04] Um, for this kind of model, for any kind of model, um,
+[00:31:07] has the, each agent has the weight of 10 people,
+[00:31:10] But when they say when to work, is
+[00:31:12] that also including those ethnicities during work as well?
+[00:31:17] Thank you. Yeah, sure.
+[00:31:19] I make the observation that political polls are done about
+[00:31:21] two 10000th, I think it is.
+[00:31:23] Hmm. So, um, 10 percent's a pretty big number ca um, cam,
+[00:31:26] Um, yeah, it flies on a little bit from that actually.
+[00:31:29] 'cause trying to try to model universe, you'd have
+[00:31:31] to rebuild the universe.
+[00:31:32] So you've done one big course in samples down to 10%,
+[00:31:36] another one, this is super, you know,
+[00:31:38] and all the factors that play in like, you know, um,
+[00:31:42] illnesses, uh, I know education, but also weather.
+[00:31:46] And then this one that I'm just reading through,
+[00:31:48] I think sparked my interest.
+[00:31:50] Um, Monte dollars.
+[00:31:52] Can you explain how a multi dollar
+[00:31:56] operates on the, on the simulation?
+[00:31:59] So it's just a, effectively, we have parameters
+[00:32:02] that represent costs in the real world.
+[00:32:04] Uhhuh, uh, cost for car travel, for example,
+[00:32:06] would be road user charges
+[00:32:08] or fuel excise dt, um, cost for public transport fairs.
+[00:32:12] Um, the, the dollar conversion factor, if that's
+[00:32:16] what you consider to Monte dollars, uh, is, uh,
+[00:32:20] not quite a one-to-one to
+[00:32:22] New Zealand dollar, New Zealand dollar.
+[00:32:23] Yeah. So when we're modeling a toll rate, for example,
+[00:32:26] we need to understand what the toll impact is.
+[00:32:29] Um, uh, a Monte dollar does not equate to the,
+[00:32:32] the actual dollar value of the toll
+[00:32:34] That you're, so how does the cost
+[00:32:36] of not using the toll road get accounted for?
+[00:32:40] So, or not using the, um, travel time
+[00:32:43] or waiting for a bus,
+[00:32:45] or like how do you, things
+[00:32:47] that don't have a current dollar value, um,
+[00:32:49] say using a car park that's part of the tar seal network,
+[00:32:53] like how do those things get accounted for?
+[00:32:55] Mm-hmm. Uh, so those kinds of things, uh,
+[00:32:59] basically people's behavior.
+[00:33:02] So that, that's the problem of, um, of kind of transporting
+[00:33:06] behavior in the real world into the simulation.
+[00:33:09] And this is the, and,
+[00:33:10] and this is the challenge of calibration.
+[00:33:14] So when we calibrate the parameters that correspond to, uh,
+[00:33:18] the dissatisfaction with waiting for a bus,
+[00:33:20] the dissatisfaction with driving the satisfaction
+[00:33:23] of performing some activity, we calibrate those, uh,
+[00:33:26] parameter, those model parameters to meet observation,
+[00:33:31] uh, we can then do further.
+[00:33:33] And included in that, included in that is, um,
+[00:33:36] is the dissatisfaction
+[00:33:38] for paying a toll on New Zealand's existing toll road. It's
+[00:33:41] Interesting. So you're equating the,
+[00:33:42] the Monte dollars
+[00:33:43] of satisfaction measure.
+[00:33:44] Are you polling people at a bus stop? Are you going Right.
+[00:33:47] 10 people using this car park get this much satisfaction,
+[00:33:50] but one person using the cycle road?
+[00:33:52] Because with the cycle lane
+[00:33:54] In general, not polling people in
+[00:33:56] general observing people.
+[00:33:58] So it is all based on observations. Oh.
+[00:34:00] It's more based on observations than, uh, people's polling.
+[00:34:04] Okay. So ask this, this question then.
+[00:34:07] So if, if, um, a business has got four car parks in front
+[00:34:12] of it and then a cycle lane's put in
+[00:34:14] and those, how, how do you measure,
+[00:34:16] how do you observe the value for the business owner,
+[00:34:19] the people who then get to drive the car and park, or the
+[00:34:21] however many people might use that cycle lane, um, over
+[00:34:25] that time, whether it's one person an hour or 20.
+[00:34:28] Like how do you, how do you make that,
+[00:34:32] I mean, at the end of the day, it's a transport model,
+[00:34:36] so it's not gonna consider business owners, um, wellbeing.
+[00:34:41] Um, it's gonna consider the effectively the utility
+[00:34:45] of having that cycle lane versus having those car
+[00:34:47] parks in the grand scheme.
+[00:34:49] Um, so from a pure agent choice perspective,
+[00:34:54] and that's the behavioral change that we're, we're trying
+[00:34:56] to model, you know,
+[00:34:57] there's only three real choices for that agent.
+[00:35:01] It's around the mode that it takes to do a journey time
+[00:35:04] that it, it leaves and the route that it can take.
+[00:35:06] Um, so within that, we can then construct
+[00:35:10] a value framework around optimum transport routes, um,
+[00:35:15] the changes to that network in terms of a cycle lane versus,
+[00:35:20] um, those four car parks at the grand scheme may be,
+[00:35:24] uh, a change to mode shift.
+[00:35:26] So more people would take the cycle to work, for example,
+[00:35:29] um, potentially may then use their
+[00:35:31] Car final clarify, how does
+[00:35:33] that feed into the multi dollar?
+[00:35:34] That's the,
+[00:35:37] That value? Like
+[00:35:38] how are you, how does the Monte dollar,
+[00:35:40] so the Monte dollar is a, is is,
+[00:35:43] is effectively a consideration of how well
+[00:35:46] that agent is fulfilling its daily plan.
+[00:35:49] It's a mix of utilitarian and satisfaction. Absolutely.
+[00:35:52] Yeah.
+[00:35:55] I just wanna ask you a question about the,
+[00:35:57] the LTIB um, exercise.
+[00:35:59] So how valuable is this ex?
+[00:36:02] Is this exercise, the exercise of putting this together,
+[00:36:05] being and then coming and presenting this?
+[00:36:07] Obviously we're in the middle of doing that and you know,
+[00:36:10] and presenting this to us.
+[00:36:13] Is it a valuable process?
+[00:36:14] And then I've got a follow up question back as well.
+[00:36:18] Um, we in all of our work, like
+[00:36:22] to keep an eye on the future and, and,
+[00:36:24] and possible future outcomes.
+[00:36:26] Um, I don't want step too much into the,
+[00:36:29] into the policy space here.
+[00:36:30] I know that there are considerations around it. Yeah,
+[00:36:33] That's what I'm asking.
+[00:36:34] Yeah.
+[00:36:36] Sort of being a little bit careful.
+[00:36:38] Um, I think that, uh, in writing the,
+[00:36:44] in writing the LT and then reflecting over the last few days
+[00:36:46] before presenting to you, I think I did find it, um,
+[00:36:49] very, uh, useful.
+[00:36:51] 'cause it, it, it does force us to think, well,
+[00:36:53] what are the factors over which we do have control
+[00:36:56] as policy, um, advisors.
+[00:36:59] Uh, and uh,
+[00:37:03] that's always good just to keep in front of mind.
+[00:37:05] Yeah. And my question then, o obviously follows on,
+[00:37:08] if there were fewer of these, I'm for free
+[00:37:10] and frank advice, if there were three fewer of these
+[00:37:13] or only one of these, how would you incorporate this kind
+[00:37:15] of, 'cause you know, I'm finding this fascinating,
+[00:37:17] potentially really powerful tool.
+[00:37:19] How would that turn up in a meaningful way in front
+[00:37:22] of a select committee
+[00:37:23] or select committees if it was one LTIB
+[00:37:28] and it wasn't written by MOT?
+[00:37:29] So MOT it's just one of a lot
+[00:37:31] Of Agencies contributing.
+[00:37:33] Well, there's never any, any, uh,
+[00:37:36] anything stopping the select committee from inviting us
+[00:37:37] to talk to you, uh, about anything we'll always,
+[00:37:40] uh, make ourselves available.
+[00:37:41] Um, uh, there'd be, would this not required?
+[00:37:45] There's no way I would not have Monty doing what Monty does
+[00:37:49] and, um, considering it in, in all
+[00:37:52] of our advice using it in, in our policy advice.
+[00:37:54] And we're always, uh, open to come and talk to you
+[00:37:56] About. Okay. But the aware,
+[00:37:57] the awareness
+[00:37:58] of the Parliament in whichever way it was done of Monty
+[00:38:02] and of the potential power of that tool
+[00:38:04] and the ways in which you could use that tool Mm.
+[00:38:07] Would that come through?
+[00:38:09] This has been a unique opportunity to be able
+[00:38:11] to showcase it in a way that we wouldn't have been able to.
+[00:38:13] Yeah, we, it's, it's been on our website.
+[00:38:15] Um, we've,
+[00:38:17] we've got a conference next week up in
+[00:38:19] Auckland Transport Knowledge Conference.
+[00:38:20] I, I, I don't think members will be attending.
+[00:38:22] Um, metallic is quite excited.
+[00:38:24] They've done their concert at the same time.
+[00:38:28] Dojo Cat, uh, dojo Cat Metall will also come
+[00:38:30] to the Transport Knowledge Conference.
+[00:38:32] Uh, but yeah,
+[00:38:34] It's Model is and the political, uh,
+[00:38:38] Your ticket's more expensive.
+[00:38:41] Okay. We, we did get aright when we had
+[00:38:42] to book our flights actually.
+[00:38:45] Oh my. Why is it so expensive? But a okay. Right. Okay.
+[00:38:49] Um, other questions before I go
+[00:38:51] and monopolize another one? Great.
+[00:38:53] Um, yes, just in on page 17, you're talking about the, um,
+[00:38:57] core simulated mode.
+[00:38:58] She's got cable car in there.
+[00:39:01] Um, now obviously welling, as far as I'm aware,
+[00:39:04] there's only one paying, um,
+[00:39:06] cable car, which is in Wellington.
+[00:39:09] So it's, I'm interested that it's in there.
+[00:39:10] But secondly too, my impression is that most
+[00:39:14] of the people catch the cable car tourists.
+[00:39:17] So at least 50% is, is there a way in, in this model,
+[00:39:21] does it tell you that, that most
+[00:39:22] of the people on there are tourists, so
+[00:39:24] therefore if it's not there,
+[00:39:26] it won't have such an impact on transport
+[00:39:30] because the tourists will just go somewhere else?
+[00:39:33] So is that, I'm just trying to understand how the,
+[00:39:36] how far we break down the activity on these things. Mm-hmm.
+[00:39:40] I think the observation would be present in the simulation
+[00:39:43] that most of the volume on the cable car would be tourists.
+[00:39:47] That is the people going to work.
+[00:39:49] The count of the agents who use the,
+[00:39:52] who are doing work journeys would be very, very low.
+[00:39:56] The the numbers doing the portion doing
+[00:39:58] work journeys is very low. That's
+[00:40:00] Right. Therefore,
+[00:40:01] So therefore, how does that impact on modeling?
+[00:40:08] Because I mean, this is, this is,
+[00:40:10] So, I I I would say more that just the reality is, uh,
+[00:40:15] produced in the simulation in this context,
+[00:40:18] I think is there a consequence,
+[00:40:19] I'm not sure if there necessarily a consequence of
+[00:40:22] that except to say that the number
+[00:40:23] of people using this service is low and
+[00:40:26] therefore we might not,
+[00:40:27] one might not think it's efficient in a, in a utility sense.
+[00:40:31] Sorry, it just probably goes back
+[00:40:32] to my other question about the, the, the knowing the purpose
+[00:40:36] of the journeys mm-hmm.
+[00:40:38] I suppose is the, is the real question I'm asking,
+[00:40:40] going back to my original question around the, where
+[00:40:43] majority of the journeys on this road from Westport to
+[00:40:47] during the day, our commercial journeys mm-hmm.
+[00:40:50] Yeah. Road logs.
+[00:40:52] Yeah. And, and the model knows that it's
+[00:40:55] Calibrated, the model does Know that.
+[00:40:56] Yeah. It's calibrated to real world data
+[00:40:59] that's traveling up and down that road.
+[00:41:01] So there's two, two ways we can understand the current
+[00:41:05] data in that, from that perspective,
+[00:41:07] there's the household travel survey, which, uh,
+[00:41:09] we undertake on, uh, sort of quarterly basis.
+[00:41:13] Um, and that gives us information about work journeys,
+[00:41:17] leisure journeys, uh, education.
+[00:41:20] Um, and then there's observed, uh,
+[00:41:22] traffic monitoring system accounts that NZTA collect
+[00:41:26] where we can understand the split
+[00:41:27] between heavy commercial light commercial
+[00:41:30] and passenger vehicles.
+[00:41:31] Would that be physical? Is
+[00:41:32] That where people were standing literally the No.
+[00:41:34] So it all, it, it used to be like that
+[00:41:36] and those, those counts still happen.
+[00:41:39] Um, but it's an automated system on state highway network.
+[00:41:43] The reason the cable car is in there
+[00:41:44] is, is partially my fault.
+[00:41:46] I wanted to include a mode. You
+[00:41:49] Was could,
+[00:41:53] I wanted to include a mode that, um, was non-traditional,
+[00:41:57] so not a car or a bus or, or something like that.
+[00:41:59] And, and just for, uh, to prove
+[00:42:02] that we could actually develop that within the model.
+[00:42:06] So that's, that's the reason there.
+[00:42:07] Another reason the cable car is the, is
+[00:42:10] because all of the public transport schedules
+[00:42:13] and services are in the simulation.
+[00:42:15] Cable, car theories,
+[00:42:16] Buses, theories there.
+[00:42:17] Yep. Yep. Okay. Right. Oh, sorry.
+[00:42:19] So this is like the sub sson? Yes. Sub. Okay. Right.
+[00:42:23] Sorry, GV. Oh
+[00:42:24] Yeah. So, um, 'cause I
+[00:42:25] know that some people are looking at, uh,
+[00:42:28] gondolas for Queenstown public transport.
+[00:42:30] Uh, would gondola be similar
+[00:42:33] to cable car or is it different?
+[00:42:35] Is it, can it be, I
+[00:42:36] Think it would have be used considered in the
+[00:42:37] Model. You, you could
+[00:42:38] cont you could consider
+[00:42:39] it as a bus to be honest.
+[00:42:41] Oh, okay. Um, yeah, the fact that's
+[00:42:42] More frequent, like
+[00:42:44] because it operates in a different way,
+[00:42:46] The frequency, uh, you can change the frequency.
+[00:42:49] So we have the ability to change
+[00:42:50] the frequency of all public.
+[00:42:51] Ah, I see, I see. Um, so it's sort of
+[00:42:54] whatever you want to, to consider. Right.
+[00:42:57] Okay. Is this a sub ones? Yeah, okays.
+[00:43:00] Yeah. So what, so what about like aquatic export?
+[00:43:03] Like, um, these, uh,
+[00:43:05] Yes. Yeah.
+[00:43:06] Okay. Yeah. Yeah. Alright.
+[00:43:09] Ferries are in there. Fair enough.
+[00:43:10] Yeah. The only mode that we don't currently consider is,
+[00:43:13] um, domestic aviation, and that's on our development
+[00:43:15] List. Yeah. Okay.
+[00:43:16] Carlos? Yes.
+[00:43:18] I just want to focus on page 22 on the robot taxi.
+[00:43:22] Like, can you give us a little bit how, how that, um,
+[00:43:26] discrimination work?
+[00:43:27] Like, because you also mentioned on 25 there's a limitation
+[00:43:30] on the current scenario or, or current model as well.
+[00:43:35] So is those robot taxi including those, uh, Uber
+[00:43:38] or dd like those, um, part-time taxi being used,
+[00:43:43] you know, as, as commercial vehicle or,
+[00:43:46] or just traditional taxi?
+[00:43:50] Okay. So, um, the, the model considers them just to be,
+[00:43:54] uh, a driverless car, um, that is available
+[00:43:58] for an agent to, um, pickup
+[00:44:02] at any one point in time.
+[00:44:04] Um, we don't consider necessarily the sort
+[00:44:06] of ordering system.
+[00:44:08] There is a wait time that is considered,
+[00:44:10] but that's basically based on
+[00:44:11] where the robot taxii is relative
+[00:44:13] to the agent on the network.
+[00:44:15] Um, otherwise it's just literally that a car that drives
+[00:44:19] Is because one of your, one of your model is used
+[00:44:21] to estimate the numbers of taxis serving the population.
+[00:44:25] But we know that with uh, Uber, with DD that can,
+[00:44:30] you know, the numbers of vehicle
+[00:44:32] provided to the CV can be different
+[00:44:34] at different time as well.
+[00:44:35] So it's not like a fixed amount of numbers
+[00:44:38] provided service at a given time.
+[00:44:40] So have you put that into the consideration or,
+[00:44:43] or this is something too complicated to put into the model?
+[00:44:46] No, and I, I think we did try to outline
+[00:44:49] that we haven't optimized the number of railroad taxis
+[00:44:51] and we haven't optimized that time tabling
+[00:44:53] or scheduling, um, uh, of those taxis within the day.
+[00:44:58] Uh, but for this given scenario, I think if we wanted to,
+[00:45:01] that is something we could actually consider.
+[00:45:03] So, so what you, what you comment on page 25 is you,
+[00:45:07] you think this model additional robot
+[00:45:10] scenario insight can be, can be improved
+[00:45:12] or obtained, is is there something we can do or, or,
+[00:45:16] or improve the modeling system?
+[00:45:20] Ruth, Can I just make a point about the,
+[00:45:21] the robot Xi I mean part of it is, is was for doing it
+[00:45:25] for the, is to illustrate what Monty can do.
+[00:45:28] So, um, uh, so we weren't trying to do it as something
+[00:45:31] that we would like a policy
+[00:45:32] would be producing or anything like that.
+[00:45:34] So, um, just useful to take that into account.
+[00:45:37] Sure. Um, a couple of questions from me then, um,
+[00:45:41] I'll take up to up to that.
+[00:45:42] Uh, ten two just
+[00:45:44] after, um, regional variations is an interesting one
+[00:45:47] because, and the regions, I just encourage you
+[00:45:48] to think about the region slightly differently.
+[00:45:50] Um, because the, the, in terms
+[00:45:52] of population changes in particular central North Island,
+[00:45:55] which is probably a bit of horizons, man, Twon, a bit
+[00:45:57] of w Cato and so on is quite clearly de it's depopulating at
+[00:46:01] the moment and that that region variation won't flow
+[00:46:05] through this 'cause it's gonna be captured in Waikato
+[00:46:08] and captured in Manawa two I I suspect in those two areas.
+[00:46:11] The other area is Otago, which you go, there's a lot
+[00:46:14] of growth, but Otago is two different places as well.
+[00:46:16] You've got Central Otago
+[00:46:18] and Queenstown, which you clearly growing a little fast
+[00:46:20] and the Dunedin side, which isn't.
+[00:46:22] So again, it just be worth as you are developing this,
+[00:46:27] thinking about those things, um, just on freight, um,
+[00:46:31] you've got, I'll be really interested
+[00:46:33] because we've got this, the aspiration to double exports,
+[00:46:35] which will include some volume in the next 10 years,
+[00:46:38] let alone, you know, 30 years.
+[00:46:40] Um, do you done any thinking about if you plugged in
+[00:46:44] something around, because the consistent message you get
+[00:46:46] about Kiwi rail, we're getting better,
+[00:46:48] but price is a real, is a real barrier.
+[00:46:50] So if you see one of the inva interventions we're gonna do
+[00:46:53] is we're gonna make rail more attractive
+[00:46:54] because somehow, you know, what does that look like if it's,
+[00:46:58] you know, more price effective, um, and
+[00:47:01] therefore more, uh, bulk product et cetera goes on the,
+[00:47:06] on the railway as opposed to on the, uh, on the road.
+[00:47:09] Can you model those sort of things.
+[00:47:10] And there's also, there's a really quite spectacular graph
+[00:47:13] you've got on page, um, 11, which is part of that, uh,
+[00:47:18] which is the truck, the truck numbers.
+[00:47:21] Uh, that graph is close to a doubling
+[00:47:24] of truck numbers since the GFC according to that.
+[00:47:27] What, what, what's driven that so much that quickly.
+[00:47:32] So two parts to that question, in a sense all about freight.
+[00:47:36] So yes, that we can definitely consider it scenarios where
+[00:47:40] more, more, uh, road freight is taken by rail.
+[00:47:44] Mm-hmm. Definitely something we can consider, um,
+[00:47:48] why truck numbers have increased.
+[00:47:50] Um, I presume it is linked to population
+[00:47:54] as well. Um, it's a
+[00:47:55] Lot faster population growth spend in that
+[00:47:57] Time, but also, um, it might be due to online shopping
+[00:48:01] and uh, greater numbers of, uh,
+[00:48:04] manufactured goods just being required to be transported
+[00:48:09] Might be so, so yeah, so so our understanding of
+[00:48:11] that would be really, because that's a really significant
+[00:48:13] shift in terms of volume, heavy of,
+[00:48:17] I presume all these are heavy vehicles, not,
+[00:48:19] they're not little courier vans.
+[00:48:23] Yeah. Is it, is it,
+[00:48:24] Is it, is it heavy or medium duty as
+[00:48:26] Well? It will include medium
+[00:48:27] duty, so sorry,
+[00:48:28] it will include everything above, um, 3.5 tons. 3.5 tons.
+[00:48:32] Yeah. So it's not gonna be your courier van.
+[00:48:33] It's gonna be reasonably heavy vehicles by and large. Yeah,
+[00:48:37] We can, we can get back to you
+[00:48:38] on the exact right down. We'll just,
+[00:48:40] Yeah, We can get back to you on the, in the, on the,
+[00:48:43] but over that similar sort of period, we,
+[00:48:45] we have seen a similar concomitant compliant in, um,
+[00:48:49] in rail freight volume in
+[00:48:50] Terms of that. Yeah. So, okay. That's,
+[00:48:51] that's,
+[00:48:52] that's a really significant thing to
+[00:48:53] Understand. Yeah, yeah.
+[00:48:54] The rise of trucks does, does mirror the decline
+[00:48:57] of the decline of rail volumes.
+[00:48:59] We'll follow that with um, other parties too.
+[00:49:01] So I'd be interested a bit more of that. And look,
+[00:49:02] my last question is around, um, EVs
+[00:49:04] and energy, which is on page 16.
+[00:49:07] Um, and we talked about EVs,
+[00:49:09] but I dunno whether that's still true,
+[00:49:11] the 2030 being roughly comparable,
+[00:49:13] but it's the interface of EVs with the energy system,
+[00:49:17] both positive and negative
+[00:49:18] and whether you've actually looked at that,
+[00:49:20] 'cause obviously energy fits within this, um,
+[00:49:22] select committee's purview as well.
+[00:49:24] Have you, have you looked at that?
+[00:49:27] Do agents have to refill their vehicles?
+[00:49:31] No, we, we can't implement that
+[00:49:33] So no, not yet.
+[00:49:34] Not yet. Okay. That 'cause that'd be really interesting
+[00:49:36] 'cause it could be a plus and a minus depending on
+[00:49:38] how it interfaces works the system.
+[00:49:39] Okay. Look, um, we've,
+[00:49:41] we've come pretty much to the end of our time.
+[00:49:43] Um, so thank you. But can I just say what is the,
+[00:49:46] I mean if there are things which you said, you know,
+[00:49:48] invite you in any time on this,
+[00:49:50] but if there are things which we
+[00:49:52] as select committee will say, well look
+[00:49:53] what would the future look like?
+[00:49:54] 'cause we should be thinking about long-term futures.
+[00:49:57] What would the future look like if we pulled this lever,
+[00:49:59] this lever and this lever, you know,
+[00:50:02] or push pause on that lever.
+[00:50:05] That's the kind of thing that you are doing thinking about.
+[00:50:07] So it'd be really interesting to know what kind
+[00:50:09] of scenarios you are thinking about
+[00:50:11] and then trying to optimize our overall transport system
+[00:50:14] and the way it interfaces with that.
+[00:50:15] As Greg asked with our economy, we're largely guided
+[00:50:19] By our ministerial priorities have. Yes.
+[00:50:21] But if we could update you next year on what we are
+[00:50:24] sometime at some point next year, but we, what we do
+[00:50:26] With Ponte, well, we'll,
+[00:50:27] We'll have you in front of us for,
+[00:50:28] Um, scrutiny week.
+[00:50:30] So yes, that's just in a month
+[00:50:32] Time. So they're probably not mean.
+[00:50:33] We talk a little bit
+[00:50:33] More about it then. No. But have
+[00:50:34] a little bit of a think about it for that,
+[00:50:35] for that, um, time.
+[00:50:37] We've got you there. Um, because I think
+[00:50:38] it could be very powerful tool.
+[00:50:40] No. Can I just ask one other thing?
+[00:50:41] One thing we haven't uh, asked about
+[00:50:43] or touched on is the summary
+[00:50:45] of submissions from the public consultation.
+[00:50:47] Um, is it appropriate to ask? Yeah, go for it.
+[00:50:49] A question on that now? Yeah.
+[00:50:50] Um, I, I note that you received 10 submissions.
+[00:50:53] Was what was your sort of view on that?
+[00:50:55] Were you expecting more? Were you expecting
+[00:50:58] That seems a low number.
+[00:51:00] It's a low number. Okay.
+[00:51:03] I I, I don't think that's unusual compared
+[00:51:06] to all other government departments.
+[00:51:08] I think there's a really variable number.
+[00:51:12] It tends not to be high, I think with the exception
+[00:51:15] of the treasury's long term fiscal,
+[00:51:16] which gets more feedback a little bit
+[00:51:18] More I guess when I look at the 10
+[00:51:20] and you say they're from individual, central,
+[00:51:21] local government and interest groups.
+[00:51:24] That's a lot of groups for, for 10. So
+[00:51:27] It's One like could you just, maybe not now,
+[00:51:30] but just give us a little bit more detail about the 10.
+[00:51:33] Yeah, I Absolutely, I thanks.
+[00:51:35] Absolutely Greg. Yeah. Very quickly, what
+[00:51:37] Type of, one more in this model
+[00:51:41] is there room for a shock?
+[00:51:43] Like, I mean look at my lifetime.
+[00:51:44] The, the great oil shocks of the seventies
+[00:51:46] and eighties, you know, when all of a sudden changed,
+[00:51:49] that was when no one even thought about energy
+[00:51:51] and all of a sudden once energy was everything,
+[00:51:56] is this model taken into account
+[00:51:58] that could be something similar.
+[00:52:00] You, you could model a shock of some sort.
+[00:52:03] Be it a, a massive earthquake that takes out a, a road
+[00:52:08] or a section of roads or a,
+[00:52:10] or a significant change in you simulate is a significant
+[00:52:14] change in places for transport.
+[00:52:16] You could artificially make cars look very expensive due
+[00:52:21] to something like an energy price shock.
+[00:52:22] Yes. Yeah. Yeah. Thank you. Thank you. Look, really
+[00:52:25] Appreciate it. It's been fascinating
+[00:52:26] conversation. Yeah, thank you.
+[00:52:27] Thank you. And we'll look forward
+[00:52:28] to some further conversations, uh,
+[00:52:30] and, uh, understanding a bit more of what Monty can do and
+[00:52:33] Deliver. Thank you. Thank
+[00:52:34] you. Thanks colleagues.

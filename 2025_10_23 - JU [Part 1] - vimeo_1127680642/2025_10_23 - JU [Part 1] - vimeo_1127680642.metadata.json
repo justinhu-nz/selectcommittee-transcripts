@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:10:54.112406+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1127680642",
+  "title": "2025/10/23 - JU [Part 1]",
+  "url": "https://vimeo.com/1127680642",
+  "published_at": "20251022",
+  "published_display": "2025-10-22",
+  "duration_seconds": 2996,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2993.68,
+    "segment_count": 815,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_23 - JU [Part 1] - vimeo_1127680642\\2025_10_23 - JU [Part 1] - vimeo_1127680642.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1127680642",
+    "display_id": "1127680642",
+    "title": "2025/10/23 - JU [Part 1]",
+    "description": "Thursday 23 October 2025 | Justice Committee\n\nSummary Offences (Demonstrations Near Residential Premises) Amendment Bill\n\nSubmitters\n\nPeace Action Wellington\n- Valerie Morse, Member, Peace Action Wellington\n\nE tu\n- Karena Brown, Lead Strategic Researcher\n\nAnne Hare\n\nMax Marshall\n\nJen Olsen",
+    "webpage_url": "https://vimeo.com/1127680642",
+    "original_url": "https://vimeo.com/1127680642",
+    "upload_date": "20251022",
+    "timestamp": 1761163046,
+    "release_timestamp": 1761163055,
+    "duration": 2996,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2073113964-8fa61f0831401a1087583d8fc03be4ec5508a671e589a73c3d4836cf0c0d1588-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/260650344.vtt?expires=1778591459&sig=f8d152beebcb73590687031a19f608f02d98ee8b&download=auto_generated_captions.vtt"
+  }
+}

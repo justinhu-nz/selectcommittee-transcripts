@@ -1,0 +1,5903 @@
+{
+  "language": "en-x-autogen",
+  "duration": 3108.89,
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 1.56,
+      "text": "I think more of us need."
+    },
+    {
+      "start": 6.66,
+      "end": 6.95,
+      "text": "Yeah,"
+    },
+    {
+      "start": 7.51,
+      "end": 8.52,
+      "text": "Sorry."
+    },
+    {
+      "start": 17.64,
+      "end": 18.68,
+      "text": "Well, good afternoon and welcome to"
+    },
+    {
+      "start": 18.68,
+      "end": 19.8,
+      "text": "the Social Services CUNY Select Committee."
+    },
+    {
+      "start": 19.86,
+      "end": 21.41,
+      "text": "Um, thank you very much for coming in."
+    },
+    {
+      "start": 21.75,
+      "end": 24.41,
+      "text": "Um, so gonna give us a briefing this afternoon on the"
+    },
+    {
+      "start": 24.41,
+      "end": 26.64,
+      "text": "integrated data infrastructure, which I'm paying for sort"
+    },
+    {
+      "start": 26.64,
+      "end": 28.05,
+      "text": "of more, more understanding"
+    },
+    {
+      "start": 28.05,
+      "end": 29.32,
+      "text": "and awareness of our parliamentarians"
+    },
+    {
+      "start": 29.32,
+      "end": 31.2,
+      "text": "and probably others as well around this."
+    },
+    {
+      "start": 31.23,
+      "end": 34.92,
+      "text": "But look, um, I'll hand it to you to introduce yourselves"
+    },
+    {
+      "start": 34.95,
+      "end": 38.88,
+      "text": "and to give an overview, um, into x to take,"
+    },
+    {
+      "start": 38.92,
+      "end": 40.88,
+      "text": "I think taking the production"
+    },
+    {
+      "start": 40.88,
+      "end": 44.45,
+      "text": "that I think may not be a wide setting, uh, from some"
+    },
+    {
+      "start": 44.45,
+      "end": 46.2,
+      "text": "of the, you know, people at the table and, and,"
+    },
+    {
+      "start": 46.23,
+      "end": 47.65,
+      "text": "and across New Zealand, actually."
+    },
+    {
+      "start": 48.06,
+      "end": 50.24,
+      "text": "Uh, so you can give us an oversight and then it's,"
+    },
+    {
+      "start": 50.27,
+      "end": 52.88,
+      "text": "and then providing how much time I have, you know, questions"
+    },
+    {
+      "start": 52.88,
+      "end": 53.97,
+      "text": "for members would be great."
+    },
+    {
+      "start": 54.42,
+      "end": 57.16,
+      "text": "No problem. Oh, well, thank you for the opportunity to,"
+    },
+    {
+      "start": 57.38,
+      "end": 58.6,
+      "text": "um, come"
+    },
+    {
+      "start": 58.6,
+      "end": 60.56,
+      "text": "and speak about, uh, the value of, uh,"
+    },
+    {
+      "start": 60.56,
+      "end": 61.84,
+      "text": "integrated data today."
+    },
+    {
+      "start": 62.02,
+      "end": 63.12,
+      "text": "Uh, my name is Rachel."
+    },
+    {
+      "start": 64.19,
+      "end": 66.53,
+      "text": "I'm one of the deputies, um, at Steps nz"
+    },
+    {
+      "start": 66.94,
+      "end": 70.09,
+      "text": "and with me is, uh, Simon Ross, who's our general manager"
+    },
+    {
+      "start": 70.14,
+      "end": 72.05,
+      "text": "for data operations and Infrastructure."
+    },
+    {
+      "start": 73.34,
+      "end": 75.36,
+      "text": "So we're going to do a little bit of a TAG team,"
+    },
+    {
+      "start": 75.36,
+      "end": 76.53,
+      "text": "if that's okay for you."
+    },
+    {
+      "start": 76.55,
+      "end": 80.44,
+      "text": "So, uh, I'll talk just very briefly about, um, the role"
+    },
+    {
+      "start": 80.44,
+      "end": 83.64,
+      "text": "of stats in this context, and then I'll hand to Simon"
+    },
+    {
+      "start": 83.7,
+      "end": 85.97,
+      "text": "and he'll talk more about the integrated data"
+    },
+    {
+      "start": 85.97,
+      "end": 87.72,
+      "text": "infrastructure itself."
+    },
+    {
+      "start": 88.14,
+      "end": 92.53,
+      "text": "Thank you. So, uh, STAT is hopefully many of you know, uh,"
+    },
+    {
+      "start": 92.58,
+      "end": 97.0,
+      "text": "stats NZ collects information, um, uh, about, uh,"
+    },
+    {
+      "start": 97.0,
+      "end": 98.28,
+      "text": "people in organizations."
+    },
+    {
+      "start": 98.59,
+      "end": 103.2,
+      "text": "Um, and we use that data to provide insights, uh, statistics"
+    },
+    {
+      "start": 103.2,
+      "end": 104.2,
+      "text": "and data about New Zealand."
+    },
+    {
+      "start": 104.91,
+      "end": 107.33,
+      "text": "Uh, we source a wide range of data"
+    },
+    {
+      "start": 107.59,
+      "end": 111.41,
+      "text": "that includes administrative data, like, uh, tax, uh,"
+    },
+    {
+      "start": 111.41,
+      "end": 114.81,
+      "text": "private sector data from data intermediaries, as well as,"
+    },
+    {
+      "start": 114.98,
+      "end": 117.37,
+      "text": "um, from surveying, uh,"
+    },
+    {
+      "start": 117.37,
+      "end": 120.48,
+      "text": "the government statistician at Stats NZ holds, uh,"
+    },
+    {
+      "start": 120.48,
+      "end": 123.12,
+      "text": "the government, uh, chief data steward role."
+    },
+    {
+      "start": 123.75,
+      "end": 125.84,
+      "text": "Uh, this role supports the use of data"
+    },
+    {
+      "start": 125.94,
+      "end": 127.84,
+      "text": "as a resource across government"
+    },
+    {
+      "start": 127.94,
+      "end": 131.21,
+      "text": "to help deliver better services, uh, to New Zealanders"
+    },
+    {
+      "start": 131.75,
+      "end": 133.69,
+      "text": "within the research landscape."
+    },
+    {
+      "start": 134.01,
+      "end": 136.12,
+      "text": "Stats N Z's role is to ingest"
+    },
+    {
+      "start": 136.15,
+      "end": 138.88,
+      "text": "and link the data, provide the infrastructure,"
+    },
+    {
+      "start": 139.22,
+      "end": 142.37,
+      "text": "and ensure that the data is kept safe through the safeguards"
+    },
+    {
+      "start": 142.68,
+      "end": 144.16,
+      "text": "that surround the IDI."
+    },
+    {
+      "start": 144.82,
+      "end": 147.88,
+      "text": "Within the data system, uh, government agencies,"
+    },
+    {
+      "start": 148.25,
+      "end": 150.41,
+      "text": "tertiary sector and research institutions"
+    },
+    {
+      "start": 151.15,
+      "end": 154.56,
+      "text": "set sector priorities, um, conduct the research"
+    },
+    {
+      "start": 155.03,
+      "end": 158.05,
+      "text": "and implement the findings of the research into, uh,"
+    },
+    {
+      "start": 158.05,
+      "end": 159.76,
+      "text": "policy direction, uh,"
+    },
+    {
+      "start": 159.87,
+      "end": 162.84,
+      "text": "or service evaluation, um, or improvements."
+    },
+    {
+      "start": 163.85,
+      "end": 166.97,
+      "text": "Stats NZ responds to the needs of the research community"
+    },
+    {
+      "start": 167.19,
+      "end": 170.81,
+      "text": "by adding or modifying, uh, new data to the IDI"
+    },
+    {
+      "start": 171.19,
+      "end": 174.49,
+      "text": "and that enables or supports the research stats."
+    },
+    {
+      "start": 174.55,
+      "end": 178.12,
+      "text": "NZI also provides supports in terms of access, uh,"
+    },
+    {
+      "start": 178.15,
+      "end": 180.6,
+      "text": "to use the IDI stats."
+    },
+    {
+      "start": 180.6,
+      "end": 183.09,
+      "text": "N Z's key piece of legislation is the Data"
+    },
+    {
+      "start": 183.15,
+      "end": 185.44,
+      "text": "and Statistics Act, uh, 2022."
+    },
+    {
+      "start": 186.06,
+      "end": 190.25,
+      "text": "The key parts of this legislation include requirements"
+    },
+    {
+      "start": 190.25,
+      "end": 192.09,
+      "text": "that researchers in the public interest"
+    },
+    {
+      "start": 192.54,
+      "end": 195.6,
+      "text": "and is, uh, carried out by appropriate researchers only"
+    },
+    {
+      "start": 196.45,
+      "end": 199.12,
+      "text": "there are strong confidentiality requirements,"
+    },
+    {
+      "start": 199.43,
+      "end": 203.2,
+      "text": "so people can be assured their data is safe and protected."
+    },
+    {
+      "start": 203.91,
+      "end": 207.25,
+      "text": "Uh, for example, data cannot be released where it might, uh,"
+    },
+    {
+      "start": 207.47,
+      "end": 209.25,
+      "text": "be able to identify an individual."
+    },
+    {
+      "start": 210.19,
+      "end": 212.81,
+      "text": "The government statistician must also publish information"
+    },
+    {
+      "start": 212.85,
+      "end": 214.25,
+      "text": "about research access,"
+    },
+    {
+      "start": 214.78,
+      "end": 217.56,
+      "text": "and researchers must must publish their results."
+    },
+    {
+      "start": 218.26,
+      "end": 220.41,
+      "text": "So New Zealanders can see the way their data"
+    },
+    {
+      "start": 220.5,
+      "end": 221.69,
+      "text": "is managed and used."
+    },
+    {
+      "start": 222.55,
+      "end": 223.6,
+      "text": "Uh, the independence"
+    },
+    {
+      "start": 223.6,
+      "end": 226.16,
+      "text": "of the government statistician in this process is a"
+    },
+    {
+      "start": 226.16,
+      "end": 227.25,
+      "text": "unique point of difference."
+    },
+    {
+      "start": 227.87,
+      "end": 231.16,
+      "text": "Um, and service delivery agencies, um, uh,"
+    },
+    {
+      "start": 231.16,
+      "end": 233.2,
+      "text": "could be conflicted in their hosting"
+    },
+    {
+      "start": 233.22,
+      "end": 235.88,
+      "text": "of the data against their service delivery mandate,"
+    },
+    {
+      "start": 236.31,
+      "end": 239.25,
+      "text": "whereas Stats NZ can play a more neutral role"
+    },
+    {
+      "start": 239.34,
+      "end": 242.76,
+      "text": "in this, uh, context. So I'll hand to Simon."
+    },
+    {
+      "start": 243.75,
+      "end": 245.65,
+      "text": "Uh, thank you Rachel Koto."
+    },
+    {
+      "start": 246.06,
+      "end": 247.37,
+      "text": "Um, so I'm Simon Ross,"
+    },
+    {
+      "start": 247.62,
+      "end": 250.44,
+      "text": "and just looking to take the opportunity to reinforce a few"
+    },
+    {
+      "start": 250.44,
+      "end": 252.76,
+      "text": "of the key points about the IDI from the"
+    },
+    {
+      "start": 252.76,
+      "end": 254.12,
+      "text": "information that we shared in advance."
+    },
+    {
+      "start": 255.26,
+      "end": 256.69,
+      "text": "So the IDI is the government's most"
+    },
+    {
+      "start": 256.69,
+      "end": 258.49,
+      "text": "comprehensive research database."
+    },
+    {
+      "start": 258.7,
+      "end": 260.61,
+      "text": "It contains de-identified data about people"
+    },
+    {
+      "start": 260.61,
+      "end": 264.76,
+      "text": "and households, contains a range of data, um, about events"
+    },
+    {
+      "start": 264.82,
+      "end": 268.29,
+      "text": "and services such as from education, income, benefits,"
+    },
+    {
+      "start": 268.48,
+      "end": 270.08,
+      "text": "migration, justice and health."
+    },
+    {
+      "start": 270.94,
+      "end": 272.81,
+      "text": "Um, and it's built from data supplied"
+    },
+    {
+      "start": 272.81,
+      "end": 275.32,
+      "text": "by government agencies from stats NZ surveys"
+    },
+    {
+      "start": 275.38,
+      "end": 277.28,
+      "text": "and from non-government organizations."
+    },
+    {
+      "start": 278.35,
+      "end": 280.81,
+      "text": "The RDI I is built around a central linking spine."
+    },
+    {
+      "start": 280.95,
+      "end": 282.64,
+      "text": "It's a list that aims to estimate every,"
+    },
+    {
+      "start": 282.75,
+      "end": 284.56,
+      "text": "the ever resident population of New Zealand."
+    },
+    {
+      "start": 284.75,
+      "end": 287.28,
+      "text": "So every person who's ever been here is a resident,"
+    },
+    {
+      "start": 287.35,
+      "end": 290.81,
+      "text": "and it's made by combining tax, birth and migration records."
+    },
+    {
+      "start": 292.14,
+      "end": 295.25,
+      "text": "Making the data accessible while keeping it safe is an"
+    },
+    {
+      "start": 295.25,
+      "end": 297.97,
+      "text": "overriding priority for stats NZ in its"
+    },
+    {
+      "start": 297.97,
+      "end": 299.32,
+      "text": "stewardship of the IDI."
+    },
+    {
+      "start": 299.75,
+      "end": 301.12,
+      "text": "So we use the five safes"
+    },
+    {
+      "start": 301.19,
+      "end": 304.76,
+      "text": "and the HARRY frameworks to manage safe access to the data."
+    },
+    {
+      "start": 306.02,
+      "end": 308.08,
+      "text": "The IDI is a critical tool for governments"
+    },
+    {
+      "start": 308.08,
+      "end": 309.32,
+      "text": "and the wider data system"
+    },
+    {
+      "start": 309.39,
+      "end": 311.61,
+      "text": "with many agencies now relying on the IDI"
+    },
+    {
+      "start": 311.61,
+      "end": 312.96,
+      "text": "to inform service planning"
+    },
+    {
+      "start": 313.06,
+      "end": 315.29,
+      "text": "and delivery, as well as program evaluation."
+    },
+    {
+      "start": 316.46,
+      "end": 320.08,
+      "text": "The IDI is also used by, used widely beyond governments,"
+    },
+    {
+      "start": 320.08,
+      "end": 321.93,
+      "text": "including for research within the academic"
+    },
+    {
+      "start": 321.94,
+      "end": 324.85,
+      "text": "and tertiary sectors, um, for looking at outcomes"
+    },
+    {
+      "start": 324.85,
+      "end": 326.0,
+      "text": "of key population groups"
+    },
+    {
+      "start": 326.19,
+      "end": 327.88,
+      "text": "and the factors that affect these outcomes."
+    },
+    {
+      "start": 328.9,
+      "end": 330.85,
+      "text": "The IDI is used by research consultancies"
+    },
+    {
+      "start": 330.85,
+      "end": 332.37,
+      "text": "that carry out research on behalf of others"
+    },
+    {
+      "start": 332.43,
+      "end": 334.73,
+      "text": "to support them in accessing the insights they need."
+    },
+    {
+      "start": 335.19,
+      "end": 338.08,
+      "text": "And I guess just to a little more on that, um,"
+    },
+    {
+      "start": 338.31,
+      "end": 340.49,
+      "text": "if you're a agency or a community group"
+    },
+    {
+      "start": 340.49,
+      "end": 341.81,
+      "text": "and you might not have the technical expertise"
+    },
+    {
+      "start": 341.81,
+      "end": 345.08,
+      "text": "to gain insights from the IDI, um, it's useful"
+    },
+    {
+      "start": 345.08,
+      "end": 348.08,
+      "text": "that these kind of experienced, uh, consultancies are able"
+    },
+    {
+      "start": 348.08,
+      "end": 350.52,
+      "text": "to be contracted to provide that expertise"
+    },
+    {
+      "start": 350.67,
+      "end": 354.73,
+      "text": "and those insights, just in terms of what the IEI can"
+    },
+    {
+      "start": 354.82,
+      "end": 358.56,
+      "text": "and can't do, it can link data from multiple sources over"
+    },
+    {
+      "start": 358.56,
+      "end": 360.05,
+      "text": "time, which allows cohorts"
+    },
+    {
+      "start": 360.05,
+      "end": 361.85,
+      "text": "to be understood across their lifespan,"
+    },
+    {
+      "start": 362.43,
+      "end": 365.25,
+      "text": "can help identify characteristics of groups with positive"
+    },
+    {
+      "start": 365.26,
+      "end": 367.69,
+      "text": "and negative outcomes, and can evaluate"
+    },
+    {
+      "start": 367.7,
+      "end": 370.08,
+      "text": "how effective service and interventions are, such"
+    },
+    {
+      "start": 370.08,
+      "end": 372.12,
+      "text": "as the effectiveness of alternative education services"
+    },
+    {
+      "start": 372.31,
+      "end": 373.44,
+      "text": "or teen parent units."
+    },
+    {
+      "start": 374.06,
+      "end": 376.17,
+      "text": "And the effectiveness of the Housing First program,"
+    },
+    {
+      "start": 376.3,
+      "end": 378.32,
+      "text": "which is a study done by the University of Otago,"
+    },
+    {
+      "start": 379.23,
+      "end": 381.93,
+      "text": "it can also be used to tailor interventions"
+    },
+    {
+      "start": 381.93,
+      "end": 384.37,
+      "text": "to people based on characteristics they share"
+    },
+    {
+      "start": 384.37,
+      "end": 385.56,
+      "text": "with groups that have been studied."
+    },
+    {
+      "start": 387.26,
+      "end": 389.69,
+      "text": "In terms of things the IDI cannot do, um,"
+    },
+    {
+      "start": 389.79,
+      "end": 392.05,
+      "text": "it can't follow individuals who are using services."
+    },
+    {
+      "start": 392.06,
+      "end": 393.85,
+      "text": "So it's not a case management system."
+    },
+    {
+      "start": 394.58,
+      "end": 396.97,
+      "text": "It can't identify specific individuals who are at risk"
+    },
+    {
+      "start": 397.06,
+      "end": 398.81,
+      "text": "or would benefit from a specific intervention,"
+    },
+    {
+      "start": 399.55,
+      "end": 401.49,
+      "text": "and it can't identify specific individuals"
+    },
+    {
+      "start": 401.49,
+      "end": 403.56,
+      "text": "who are abusing systems or take enforcement action."
+    },
+    {
+      "start": 403.58,
+      "end": 406.49,
+      "text": "So the focus of the analysis is at that group level,"
+    },
+    {
+      "start": 406.62,
+      "end": 407.69,
+      "text": "not that individual level."
+    },
+    {
+      "start": 409.06,
+      "end": 412.61,
+      "text": "Uh, just in terms of final comments, um, some key pieces"
+    },
+    {
+      "start": 412.64,
+      "end": 414.56,
+      "text": "of research that might be relevant to this committee."
+    },
+    {
+      "start": 415.31,
+      "end": 417.73,
+      "text": "Uh, so we've had a study on healthcare accessibility"
+    },
+    {
+      "start": 417.82,
+      "end": 420.52,
+      "text": "and aging in white Taha Canterbury."
+    },
+    {
+      "start": 421.02,
+      "end": 422.17,
+      "text": "So the research explores"
+    },
+    {
+      "start": 422.17,
+      "end": 423.93,
+      "text": "how residential mobility affects healthcare"
+    },
+    {
+      "start": 423.99,
+      "end": 425.93,
+      "text": "for older adults in Canterbury in the West Coast."
+    },
+    {
+      "start": 426.38,
+      "end": 428.25,
+      "text": "The study will assess where the current healthcare"
+    },
+    {
+      "start": 428.25,
+      "end": 429.85,
+      "text": "infrastructure meets the needs of an aging"
+    },
+    {
+      "start": 429.85,
+      "end": 433.64,
+      "text": "and increasingly diverse population study of child"
+    },
+    {
+      "start": 433.64,
+      "end": 435.4,
+      "text": "and adolescent development in New Zealand."
+    },
+    {
+      "start": 435.44,
+      "end": 438.29,
+      "text": "This report aims to consolidate data on child development"
+    },
+    {
+      "start": 438.29,
+      "end": 440.12,
+      "text": "and identify areas for early intervention"
+    },
+    {
+      "start": 441.43,
+      "end": 443.61,
+      "text": "and a study on neurodegenerative diseases"
+    },
+    {
+      "start": 443.67,
+      "end": 444.88,
+      "text": "in former rugby players."
+    },
+    {
+      "start": 444.99,
+      "end": 446.88,
+      "text": "So this study examines health impacts"
+    },
+    {
+      "start": 446.88,
+      "end": 448.12,
+      "text": "of playing rugby at various levels,"
+    },
+    {
+      "start": 448.96,
+      "end": 451.0,
+      "text": "focusing on neurodegenerative diseases"
+    },
+    {
+      "start": 451.06,
+      "end": 452.73,
+      "text": "and former first class male players"
+    },
+    {
+      "start": 453.51,
+      "end": 455.52,
+      "text": "also high highlights the innovative uses"
+    },
+    {
+      "start": 455.55,
+      "end": 458.08,
+      "text": "of big data in sports health research."
+    },
+    {
+      "start": 459.31,
+      "end": 460.4,
+      "text": "And just one final comment."
+    },
+    {
+      "start": 460.62,
+      "end": 463.32,
+      "text": "Um, stats is not expert in the, you know,"
+    },
+    {
+      "start": 463.32,
+      "end": 464.73,
+      "text": "these individual pieces of research"
+    },
+    {
+      "start": 464.73,
+      "end": 466.28,
+      "text": "that are done in the IDI."
+    },
+    {
+      "start": 466.28,
+      "end": 469.85,
+      "text": "We need to know enough to evaluate potential projects, uh,"
+    },
+    {
+      "start": 469.87,
+      "end": 471.37,
+      "text": "but we do not have the full details"
+    },
+    {
+      "start": 471.38,
+      "end": 472.97,
+      "text": "of findings of research projects."
+    },
+    {
+      "start": 473.47,
+      "end": 476.37,
+      "text": "Um, we do seek, however, to ensure that these are published"
+    },
+    {
+      "start": 476.38,
+      "end": 478.17,
+      "text": "and publicized for transparency,"
+    },
+    {
+      "start": 478.47,
+      "end": 481.17,
+      "text": "and so that their value can be realized. Thank you."
+    },
+    {
+      "start": 482.12,
+      "end": 483.75,
+      "text": "Great, thank you very much. Might kick it off"
+    },
+    {
+      "start": 483.75,
+      "end": 484.92,
+      "text": "with a questions."
+    },
+    {
+      "start": 484.94,
+      "end": 488.19,
+      "text": "Um, is there, is there anything equivalent"
+    },
+    {
+      "start": 488.21,
+      "end": 490.19,
+      "text": "to this in any other jurisdiction globally?"
+    },
+    {
+      "start": 492.5,
+      "end": 493.73,
+      "text": "Or is this reasonably unique?"
+    },
+    {
+      "start": 493.94,
+      "end": 497.96,
+      "text": "Uh, I would say New Zealand is recognized as a leader in,"
+    },
+    {
+      "start": 498.02,
+      "end": 499.32,
+      "text": "you know, what we've been able to do"
+    },
+    {
+      "start": 499.32,
+      "end": 501.49,
+      "text": "with bringing the amount of data together that we have."
+    },
+    {
+      "start": 502.01,
+      "end": 503.85,
+      "text": "There are various other jurisdictions"
+    },
+    {
+      "start": 503.85,
+      "end": 505.93,
+      "text": "that have examples of this."
+    },
+    {
+      "start": 506.26,
+      "end": 509.52,
+      "text": "Um, so there are some examples in Australia,"
+    },
+    {
+      "start": 509.52,
+      "end": 512.16,
+      "text": "there's a Western Australia data linkage infrastructure."
+    },
+    {
+      "start": 512.5,
+      "end": 515.21,
+      "text": "The, um, the Australian Bureau"
+    },
+    {
+      "start": 515.21,
+      "end": 517.73,
+      "text": "of Statistics also has a data linkage program."
+    },
+    {
+      "start": 518.29,
+      "end": 519.92,
+      "text": "There are a couple of examples in Canada,"
+    },
+    {
+      "start": 520.02,
+      "end": 521.68,
+      "text": "one in British Columbia and one in Ontario."
+    },
+    {
+      "start": 522.42,
+      "end": 524.73,
+      "text": "Uh, it's been worked on in the UK as well."
+    },
+    {
+      "start": 524.97,
+      "end": 527.52,
+      "text": "I would say we are more advanced than, um,"
+    },
+    {
+      "start": 527.55,
+      "end": 528.8,
+      "text": "than England in this space."
+    },
+    {
+      "start": 528.99,
+      "end": 531.88,
+      "text": "But, um, Scotland has an example in the health"
+    },
+    {
+      "start": 531.88,
+      "end": 532.92,
+      "text": "space, which is quite advanced."
+    },
+    {
+      "start": 532.99,
+      "end": 535.57,
+      "text": "So there are a number of examples around the world,"
+    },
+    {
+      "start": 535.62,
+      "end": 537.49,
+      "text": "but they're not all as comprehensive as the one"
+    },
+    {
+      "start": 537.49,
+      "end": 539.04,
+      "text": "that we've been able to build in New Zealand."
+    },
+    {
+      "start": 540.07,
+      "end": 543.0,
+      "text": "And, um, the, you, you need to strike a balance clearly"
+    },
+    {
+      "start": 543.0,
+      "end": 546.73,
+      "text": "between, um, data integration and,"
+    },
+    {
+      "start": 546.83,
+      "end": 550.04,
+      "text": "and dashboarding that data and also concerns around privacy"
+    },
+    {
+      "start": 550.62,
+      "end": 552.28,
+      "text": "and data sovereignty."
+    },
+    {
+      "start": 552.9,
+      "end": 553.9,
+      "text": "How do you balance that?"
+    },
+    {
+      "start": 555.64,
+      "end": 559.11,
+      "text": "Uh, so we are really focused on making sure"
+    },
+    {
+      "start": 559.11,
+      "end": 560.75,
+      "text": "that the data we bring in is safe,"
+    },
+    {
+      "start": 561.0,
+      "end": 563.62,
+      "text": "and we have a number of processes to make sure that is, so"
+    },
+    {
+      "start": 564.05,
+      "end": 566.23,
+      "text": "that is begins in talking with the people, um,"
+    },
+    {
+      "start": 566.28,
+      "end": 567.99,
+      "text": "who hold the data in the first place to make sure"
+    },
+    {
+      "start": 567.99,
+      "end": 570.11,
+      "text": "that they have the rights, uh, permissions"
+    },
+    {
+      "start": 570.37,
+      "end": 571.75,
+      "text": "and sort of privacy statements"
+    },
+    {
+      "start": 571.75,
+      "end": 573.14,
+      "text": "and things that would allow the data"
+    },
+    {
+      "start": 573.14,
+      "end": 574.3,
+      "text": "to be on supplied to us."
+    },
+    {
+      "start": 574.84,
+      "end": 576.54,
+      "text": "We've also got the protections of the Data"
+    },
+    {
+      "start": 576.54,
+      "end": 578.18,
+      "text": "and Stats Act, which are important there."
+    },
+    {
+      "start": 578.21,
+      "end": 581.07,
+      "text": "So that covers whether we can bring it in the first place"
+    },
+    {
+      "start": 581.16,
+      "end": 583.02,
+      "text": "and all our obligations once we hold it."
+    },
+    {
+      "start": 583.64,
+      "end": 585.75,
+      "text": "Uh, once we've decided that we can bring it in"
+    },
+    {
+      "start": 585.75,
+      "end": 587.18,
+      "text": "and we've done privacy and fact assessments"
+    },
+    {
+      "start": 587.18,
+      "end": 590.26,
+      "text": "and we've done data sharing agreements that cover that, um,"
+    },
+    {
+      "start": 591.28,
+      "end": 592.59,
+      "text": "we then have the protections,"
+    },
+    {
+      "start": 592.76,
+      "end": 594.95,
+      "text": "and this is all under the five safes framework"
+    },
+    {
+      "start": 594.95,
+      "end": 597.47,
+      "text": "where every piece of research that wants to come in"
+    },
+    {
+      "start": 597.47,
+      "end": 599.26,
+      "text": "and access that data set is being scrutinized"
+    },
+    {
+      "start": 599.26,
+      "end": 600.75,
+      "text": "to make sure it's in the public interest."
+    },
+    {
+      "start": 601.61,
+      "end": 604.38,
+      "text": "And so the need ticking a pie Harry framework is more"
+    },
+    {
+      "start": 604.5,
+      "end": 606.18,
+      "text": "bringing a kind of ethics perspective to it"
+    },
+    {
+      "start": 606.25,
+      "end": 607.66,
+      "text": "and an indigenous data perspective."
+    },
+    {
+      "start": 607.68,
+      "end": 611.87,
+      "text": "So I think you'll find there are controls in various areas"
+    },
+    {
+      "start": 612.21,
+      "end": 613.23,
+      "text": "and they overlap"
+    },
+    {
+      "start": 613.25,
+      "end": 616.3,
+      "text": "and they work together to make sure that both it's safe"
+    },
+    {
+      "start": 616.3,
+      "end": 617.99,
+      "text": "to bring the data in and then it's safe"
+    },
+    {
+      "start": 617.99,
+      "end": 619.5,
+      "text": "for whatever projects are seeking to use it."
+    },
+    {
+      "start": 620.58,
+      "end": 622.51,
+      "text": "One of the, one of the things I've seen over the,"
+    },
+    {
+      "start": 622.51,
+      "end": 624.36,
+      "text": "over the years is, uh, the challenge in,"
+    },
+    {
+      "start": 625.08,
+      "end": 627.51,
+      "text": "I guess you might say, um, data dashboarding."
+    },
+    {
+      "start": 627.77,
+      "end": 630.32,
+      "text": "So decision makers can actually understand what's going on"
+    },
+    {
+      "start": 630.32,
+      "end": 632.12,
+      "text": "and what, what are the drivers, what are the population"
+    },
+    {
+      "start": 632.39,
+      "end": 633.88,
+      "text": "movements, et cetera,"
+    },
+    {
+      "start": 633.88,
+      "end": 636.12,
+      "text": "and what that means for policy decisions they need"
+    },
+    {
+      "start": 636.12,
+      "end": 637.51,
+      "text": "to make both at a local government level"
+    },
+    {
+      "start": 637.53,
+      "end": 638.6,
+      "text": "and a central government level."
+    },
+    {
+      "start": 639.34,
+      "end": 643.08,
+      "text": "Um, how, what work has been done to dashboard that"
+    },
+    {
+      "start": 643.63,
+      "end": 644.75,
+      "text": "decision makers across, you know,"
+    },
+    {
+      "start": 644.77,
+      "end": 646.48,
+      "text": "so both local and central government?"
+    },
+    {
+      "start": 648.13,
+      "end": 651.07,
+      "text": "Well, I guess we are not the ones doing that work,"
+    },
+    {
+      "start": 651.37,
+      "end": 653.26,
+      "text": "so we are sort of providing the infrastructure"
+    },
+    {
+      "start": 653.52,
+      "end": 656.07,
+      "text": "and making sure it's available to approved projects."
+    },
+    {
+      "start": 656.07,
+      "end": 658.3,
+      "text": "There are multiple different government departments"
+    },
+    {
+      "start": 658.4,
+      "end": 661.02,
+      "text": "who are using that data for their various purposes."
+    },
+    {
+      "start": 661.12,
+      "end": 664.51,
+      "text": "So, uh, for instance, um, health as a project."
+    },
+    {
+      "start": 664.65,
+      "end": 666.24,
+      "text": "And so they'll do health research"
+    },
+    {
+      "start": 666.24,
+      "end": 667.91,
+      "text": "and they'll link it through to social factors"
+    },
+    {
+      "start": 668.01,
+      "end": 669.91,
+      "text": "and they will, um, present that information"
+    },
+    {
+      "start": 669.98,
+      "end": 671.63,
+      "text": "for their constituencies."
+    },
+    {
+      "start": 672.29,
+      "end": 675.12,
+      "text": "The social investment agency has quite a significant"
+    },
+    {
+      "start": 675.12,
+      "end": 677.24,
+      "text": "dashboarding program where they're bringing data out"
+    },
+    {
+      "start": 677.24,
+      "end": 679.55,
+      "text": "of the IDI and they're making it available publicly."
+    },
+    {
+      "start": 679.77,
+      "end": 683.2,
+      "text": "Um, and a lot of that is broken down at a regional level,"
+    },
+    {
+      "start": 683.22,
+      "end": 684.88,
+      "text": "so it's quite valuable, uh,"
+    },
+    {
+      "start": 684.88,
+      "end": 686.75,
+      "text": "throughout the country from that perspective."
+    },
+    {
+      "start": 688.12,
+      "end": 690.58,
+      "text": "Um, anything else you'd wanna comment on? Yeah,"
+    },
+    {
+      "start": 690.8,
+      "end": 693.5,
+      "text": "Well, in terms of our own, uh, statistics"
+    },
+    {
+      "start": 693.5,
+      "end": 696.53,
+      "text": "and making them available, uh, we use outputs from, um,"
+    },
+    {
+      "start": 696.55,
+      "end": 698.22,
+      "text": "the IDI in that process as well."
+    },
+    {
+      "start": 698.8,
+      "end": 700.05,
+      "text": "What, sorry, could you say that again?"
+    },
+    {
+      "start": 700.55,
+      "end": 703.62,
+      "text": "Um, in terms of our own statistical releases"
+    },
+    {
+      "start": 703.62,
+      "end": 706.34,
+      "text": "and programs, um, we also use, um,"
+    },
+    {
+      "start": 706.45,
+      "end": 708.98,
+      "text": "outputs from the IDI in order to underpin,"
+    },
+    {
+      "start": 709.39,
+      "end": 710.53,
+      "text": "uh, that work as well."
+    },
+    {
+      "start": 710.96,
+      "end": 713.97,
+      "text": "So, uh, in terms of dashboarding, um,"
+    },
+    {
+      "start": 714.08,
+      "end": 715.97,
+      "text": "it's really those data visualizations"
+    },
+    {
+      "start": 715.97,
+      "end": 718.57,
+      "text": "that we have available, um, on our website as well."
+    },
+    {
+      "start": 719.35,
+      "end": 721.97,
+      "text": "So do do local government, um, access this"
+    },
+    {
+      "start": 722.26,
+      "end": 724.4,
+      "text": "or use it at all to your knowledge?"
+    },
+    {
+      "start": 725.78,
+      "end": 729.0,
+      "text": "So I don't have any examples with me of projects"
+    },
+    {
+      "start": 729.0,
+      "end": 731.64,
+      "text": "that are specifically from local government agencies."
+    },
+    {
+      "start": 731.83,
+      "end": 733.09,
+      "text": "So I think that's an area"
+    },
+    {
+      "start": 733.09,
+      "end": 735.73,
+      "text": "that we probably haven't explored a lot yet."
+    },
+    {
+      "start": 736.32,
+      "end": 739.61,
+      "text": "Yeah. And what, what are, what are some opportunities, um,"
+    },
+    {
+      "start": 740.03,
+      "end": 742.92,
+      "text": "that haven't been sort of fleshed out yet that, that you,"
+    },
+    {
+      "start": 742.95,
+      "end": 745.92,
+      "text": "you may see on the, on the horizon that, uh,"
+    },
+    {
+      "start": 745.92,
+      "end": 747.49,
+      "text": "could be useful?"
+    },
+    {
+      "start": 748.88,
+      "end": 751.28,
+      "text": "Well, I think there's a number of, um, areas"
+    },
+    {
+      "start": 751.29,
+      "end": 753.49,
+      "text": "where the government's got social investment priorities"
+    },
+    {
+      "start": 753.59,
+      "end": 756.61,
+      "text": "and are increasingly, you know, seeking to develop projects."
+    },
+    {
+      "start": 756.62,
+      "end": 759.8,
+      "text": "So in those areas, um, working with NGOs"
+    },
+    {
+      "start": 759.8,
+      "end": 762.28,
+      "text": "to bring in new data and then looking to connect"
+    },
+    {
+      "start": 762.28,
+      "end": 764.68,
+      "text": "that NGO data with the data that's already in the IDI"
+    },
+    {
+      "start": 764.68,
+      "end": 766.85,
+      "text": "and being able to provide sort of dashboards"
+    },
+    {
+      "start": 766.85,
+      "end": 769.57,
+      "text": "and things back to those NGOs, um, that's a real area"
+    },
+    {
+      "start": 769.57,
+      "end": 771.61,
+      "text": "of growth and we'd expect, you know,"
+    },
+    {
+      "start": 771.61,
+      "end": 773.09,
+      "text": "quite a lot of that to happen over time."
+    },
+    {
+      "start": 773.38,
+      "end": 776.68,
+      "text": "Um, NGO data is a current, there isn't a lot"
+    },
+    {
+      "start": 776.68,
+      "end": 778.25,
+      "text": "of NGO data in the IDI at the moment."
+    },
+    {
+      "start": 778.35,
+      "end": 780.92,
+      "text": "And so it's an area where, um, working with the government"
+    },
+    {
+      "start": 781.07,
+      "end": 782.85,
+      "text": "and the social investment agency we are looking to grow."
+    },
+    {
+      "start": 782.95,
+      "end": 784.0,
+      "text": "Its over time."
+    },
+    {
+      "start": 785.75,
+      "end": 789.97,
+      "text": "Um, I think, you know, there's 370"
+    },
+    {
+      "start": 790.07,
+      "end": 792.25,
+      "text": "or so active projects in the I to I at the moment."
+    },
+    {
+      "start": 792.42,
+      "end": 795.85,
+      "text": "So, you know, lots of people, uh, have over the years,"
+    },
+    {
+      "start": 796.18,
+      "end": 798.52,
+      "text": "you know, seen value in the data sets that we've got online"
+    },
+    {
+      "start": 798.62,
+      "end": 800.92,
+      "text": "and sort of put together a project and brought it to us,"
+    },
+    {
+      "start": 800.95,
+      "end": 802.92,
+      "text": "and we've evaluated that and now they're working away in it."
+    },
+    {
+      "start": 802.92,
+      "end": 806.61,
+      "text": "So, um, there are many projects that are going on right now."
+    },
+    {
+      "start": 806.83,
+      "end": 808.21,
+      "text": "Um, and so as I say, we"
+    },
+    {
+      "start": 808.8,
+      "end": 810.25,
+      "text": "scrutinize the projects on their way in"
+    },
+    {
+      "start": 810.42,
+      "end": 812.52,
+      "text": "and we are monitoring that they're doing the right things,"
+    },
+    {
+      "start": 812.62,
+      "end": 815.57,
+      "text": "but we are not, um, monitoring the content"
+    },
+    {
+      "start": 815.66,
+      "end": 817.37,
+      "text": "of those projects and what comes out of them."
+    },
+    {
+      "start": 817.47,
+      "end": 819.57,
+      "text": "Um, so it's really our job to make that data available"
+    },
+    {
+      "start": 819.59,
+      "end": 820.85,
+      "text": "and to make sure people are using it safely"
+    },
+    {
+      "start": 820.85,
+      "end": 821.85,
+      "text": "and then they take it"
+    },
+    {
+      "start": 821.9,
+      "end": 825.0,
+      "text": "and they, uh, develop the insights and then publish it."
+    },
+    {
+      "start": 825.96,
+      "end": 828.64,
+      "text": "Okay. And I, I mean, there's two, I'll go go"
+    },
+    {
+      "start": 828.64,
+      "end": 830.12,
+      "text": "to other questions shortly, but, um,"
+    },
+    {
+      "start": 830.25,
+      "end": 831.85,
+      "text": "I guess there's two two co cohorts"
+    },
+    {
+      "start": 831.85,
+      "end": 832.92,
+      "text": "that immediately come to mind for me."
+    },
+    {
+      "start": 832.99,
+      "end": 835.4,
+      "text": "Um, one, one is, um, young people"
+    },
+    {
+      "start": 835.59,
+      "end": 838.45,
+      "text": "and especially those with, with various complexities that"
+    },
+    {
+      "start": 838.45,
+      "end": 840.12,
+      "text": "that may make it difficult."
+    },
+    {
+      "start": 840.23,
+      "end": 844.09,
+      "text": "And so really interested in what that data can be used for"
+    },
+    {
+      "start": 844.23,
+      "end": 847.09,
+      "text": "and that, so to ensure we get best service delivery to them."
+    },
+    {
+      "start": 847.47,
+      "end": 849.28,
+      "text": "The other, the other is our aging population,"
+    },
+    {
+      "start": 849.29,
+      "end": 851.04,
+      "text": "which is quite a significant bulge,"
+    },
+    {
+      "start": 851.5,
+      "end": 852.61,
+      "text": "uh, coming from New Zealand."
+    },
+    {
+      "start": 852.83,
+      "end": 854.8,
+      "text": "And, and again, that, that data set"
+    },
+    {
+      "start": 854.8,
+      "end": 855.85,
+      "text": "and what we can, you know, how"
+    },
+    {
+      "start": 855.85,
+      "end": 857.4,
+      "text": "that can be used actually better informed decision"
+    },
+    {
+      "start": 857.4,
+      "end": 858.61,
+      "text": "making going forward."
+    },
+    {
+      "start": 858.83,
+      "end": 860.88,
+      "text": "It is sort of a very broad question,"
+    },
+    {
+      "start": 860.9,
+      "end": 863.57,
+      "text": "but I, I, I raised some comments on the usefulness"
+    },
+    {
+      "start": 863.59,
+      "end": 865.37,
+      "text": "of the data set for, for those two"
+    },
+    {
+      "start": 865.75,
+      "end": 867.09,
+      "text": "Co Yeah, I can."
+    },
+    {
+      "start": 867.35,
+      "end": 869.8,
+      "text": "So, um, just in the older people,"
+    },
+    {
+      "start": 870.86,
+      "end": 873.33,
+      "text": "there is a project on expenditure patterns"
+    },
+    {
+      "start": 873.33,
+      "end": 874.61,
+      "text": "of retiree households."
+    },
+    {
+      "start": 874.61,
+      "end": 876.85,
+      "text": "So this study analyzes household wealth trends across"
+    },
+    {
+      "start": 876.85,
+      "end": 880.04,
+      "text": "demographics and explores how wealth affects life outcomes"
+    },
+    {
+      "start": 880.23,
+      "end": 884.37,
+      "text": "and informs debates on retirement policy taxation, uh,"
+    },
+    {
+      "start": 884.59,
+      "end": 886.04,
+      "text": "and older age poverty."
+    },
+    {
+      "start": 887.35,
+      "end": 890.13,
+      "text": "Um, just trying to see if we've got an example,"
+    },
+    {
+      "start": 890.46,
+      "end": 891.61,
+      "text": "a youth example in here."
+    },
+    {
+      "start": 891.62,
+      "end": 896.4,
+      "text": "We do. Uh, so one example, um, this youth example,"
+    },
+    {
+      "start": 896.59,
+      "end": 899.37,
+      "text": "so it has been identified that, uh,"
+    },
+    {
+      "start": 900.75,
+      "end": 901.76,
+      "text": "driver licensing"
+    },
+    {
+      "start": 901.76,
+      "end": 904.28,
+      "text": "or lack of driver licensing in rural communities"
+    },
+    {
+      "start": 904.35,
+      "end": 906.57,
+      "text": "for young people was affecting justice outcomes."
+    },
+    {
+      "start": 906.71,
+      "end": 910.57,
+      "text": "And so identified that rural males, many"
+    },
+    {
+      "start": 910.57,
+      "end": 911.8,
+      "text": "of them were entering the justice system"
+    },
+    {
+      "start": 911.8,
+      "end": 913.52,
+      "text": "after being caught driving without a license."
+    },
+    {
+      "start": 913.66,
+      "end": 915.97,
+      "text": "And this sort of led to vines and enforcements"
+    },
+    {
+      "start": 916.14,
+      "end": 918.92,
+      "text": "and things that could have been averted had there been, um,"
+    },
+    {
+      "start": 919.38,
+      "end": 921.45,
+      "text": "you know, driver's licenses able to be had earlier."
+    },
+    {
+      "start": 921.75,
+      "end": 925.16,
+      "text": "And so, uh, program was run to target driver licensing"
+    },
+    {
+      "start": 925.18,
+      "end": 926.76,
+      "text": "to support to try and break the cycle."
+    },
+    {
+      "start": 927.02,
+      "end": 928.85,
+      "text": "And so in terms of short term outcomes,"
+    },
+    {
+      "start": 929.34,
+      "end": 932.57,
+      "text": "after one to two years, more young men obtaining licenses,"
+    },
+    {
+      "start": 932.57,
+      "end": 935.16,
+      "text": "fewer driving offenses, reduced police interactions"
+    },
+    {
+      "start": 935.99,
+      "end": 938.64,
+      "text": "in the medium term around five years, improved employment"
+    },
+    {
+      "start": 938.64,
+      "end": 940.88,
+      "text": "and education outcomes, lower benefit reliance,"
+    },
+    {
+      "start": 940.88,
+      "end": 942.09,
+      "text": "especially in rural areas where"
+    },
+    {
+      "start": 942.09,
+      "end": 943.61,
+      "text": "licenses often essential for work."
+    },
+    {
+      "start": 944.38,
+      "end": 947.04,
+      "text": "And in the longer term, over 10 years, fewer crashes,"
+    },
+    {
+      "start": 947.33,
+      "end": 950.37,
+      "text": "hospitalizations, and a CC claims fewer justice"
+    },
+    {
+      "start": 950.47,
+      "end": 951.64,
+      "text": "and corrections and directions"
+    },
+    {
+      "start": 951.75,
+      "end": 953.49,
+      "text": "and reduced pressure on public services."
+    },
+    {
+      "start": 953.62,
+      "end": 955.61,
+      "text": "So, I mean, the two examples I gave,"
+    },
+    {
+      "start": 955.61,
+      "end": 956.85,
+      "text": "there are only two examples."
+    },
+    {
+      "start": 956.93,
+      "end": 959.52,
+      "text": "There are many things that people looked at for older people"
+    },
+    {
+      "start": 959.62,
+      "end": 961.09,
+      "text": "and for young people in the IEI."
+    },
+    {
+      "start": 961.09,
+      "end": 963.49,
+      "text": "So it's, um, data that's available for people"
+    },
+    {
+      "start": 963.49,
+      "end": 964.61,
+      "text": "to bring projects forward, really."
+    },
+    {
+      "start": 965.07,
+      "end": 968.92,
+      "text": "And I'm sorry, I'll get this,"
+    },
+    {
+      "start": 969.12,
+      "end": 970.4,
+      "text": "I'll get this, got a couple."
+    },
+    {
+      "start": 970.47,
+      "end": 972.04,
+      "text": "Um, I just thought that we're gonna"
+    },
+    {
+      "start": 972.04,
+      "end": 975.21,
+      "text": "Bribe you with this batch, Uh, that, uh, the idea has,"
+    },
+    {
+      "start": 975.21,
+      "end": 976.97,
+      "text": "has grown since 1991,"
+    },
+    {
+      "start": 977.14,
+      "end": 978.49,
+      "text": "or see, was it seven, um,"
+    },
+    {
+      "start": 979.14,
+      "end": 980.76,
+      "text": "to comprise over 500 tables containing"
+    },
+    {
+      "start": 980.76,
+      "end": 982.09,
+      "text": "15 billion plus rows of data."
+    },
+    {
+      "start": 982.75,
+      "end": 984.57,
+      "text": "Now we're obviously entering an era"
+    },
+    {
+      "start": 984.75,
+      "end": 985.97,
+      "text": "of artificial intelligence."
+    },
+    {
+      "start": 985.97,
+      "end": 988.12,
+      "text": "We've got an ability to analyze data in a way"
+    },
+    {
+      "start": 988.12,
+      "end": 989.37,
+      "text": "that's never been able to be done before,"
+    },
+    {
+      "start": 989.62,
+      "end": 991.25,
+      "text": "but also you need to ensure that you,"
+    },
+    {
+      "start": 991.25,
+      "end": 993.09,
+      "text": "that it stays within that data set."
+    },
+    {
+      "start": 993.09,
+      "end": 997.37,
+      "text": "Mm-hmm. Yes. Um, what opportunities, uh, are available there"
+    },
+    {
+      "start": 998.08,
+      "end": 999.49,
+      "text": "that you sort of have seen you?"
+    },
+    {
+      "start": 999.49,
+      "end": 1001.45,
+      "text": "Is it, is that still no"
+    },
+    {
+      "start": 1001.45,
+      "end": 1002.49,
+      "text": "one's really turned their mind to add?"
+    },
+    {
+      "start": 1002.95,
+      "end": 1006.49,
+      "text": "So the, I is currently run on what we would describe"
+    },
+    {
+      "start": 1006.5,
+      "end": 1008.64,
+      "text": "as reasonably creaky infrastructure."
+    },
+    {
+      "start": 1009.02,
+      "end": 1012.97,
+      "text": "Um, it is safe and secure, but it is not hugely advanced."
+    },
+    {
+      "start": 1013.3,
+      "end": 1016.33,
+      "text": "And so I think that limits the ability to bring kind"
+    },
+    {
+      "start": 1016.33,
+      "end": 1018.73,
+      "text": "of modern and advanced AI tooling to bear."
+    },
+    {
+      "start": 1018.75,
+      "end": 1021.0,
+      "text": "Yeah, I think there are also kind"
+    },
+    {
+      "start": 1021.09,
+      "end": 1023.57,
+      "text": "of important ethical questions about whether this, you know,"
+    },
+    {
+      "start": 1023.57,
+      "end": 1025.2,
+      "text": "rich resource of data about people,"
+    },
+    {
+      "start": 1025.2,
+      "end": 1027.09,
+      "text": "whether it's appropriate to bring those tools in there."
+    },
+    {
+      "start": 1027.09,
+      "end": 1029.57,
+      "text": "And so they are kind of questions that we haven't dealt with"
+    },
+    {
+      "start": 1029.57,
+      "end": 1031.4,
+      "text": "yet, but we would expect to work through a kind"
+    },
+    {
+      "start": 1031.4,
+      "end": 1032.85,
+      "text": "of ethical framework to do so."
+    },
+    {
+      "start": 1033.55,
+      "end": 1037.12,
+      "text": "Um, we are working on a business case for improvements"
+    },
+    {
+      "start": 1037.12,
+      "end": 1038.85,
+      "text": "to the IDI for the future."
+    },
+    {
+      "start": 1038.94,
+      "end": 1041.61,
+      "text": "And so, you know, if we were to advance the infrastructure,"
+    },
+    {
+      "start": 1041.61,
+      "end": 1043.33,
+      "text": "then those questions become really important."
+    },
+    {
+      "start": 1043.36,
+      "end": 1046.48,
+      "text": "Like is it the right thing to do to bring in, um, AI tools?"
+    },
+    {
+      "start": 1046.55,
+      "end": 1049.24,
+      "text": "But it's something that we haven't explicitly addressed yet."
+    },
+    {
+      "start": 1049.84,
+      "end": 1051.77,
+      "text": "Okay. I've got now several up."
+    },
+    {
+      "start": 1051.77,
+      "end": 1053.2,
+      "text": "For me, it's a different question."
+    },
+    {
+      "start": 1054.14,
+      "end": 1057.68,
+      "text": "Um, but the first one is, um, I'll just pick up"
+    },
+    {
+      "start": 1057.68,
+      "end": 1059.64,
+      "text": "that issue about the ai"
+    },
+    {
+      "start": 1059.74,
+      "end": 1063.33,
+      "text": "and obviously there's the security issues"
+    },
+    {
+      "start": 1063.76,
+      "end": 1067.4,
+      "text": "that are involved in a, a developing technology,"
+    },
+    {
+      "start": 1067.46,
+      "end": 1069.4,
+      "text": "but there's already security issues."
+    },
+    {
+      "start": 1070.46,
+      "end": 1074.12,
+      "text": "But one of the benefits of this has gotta be the linkage"
+    },
+    {
+      "start": 1074.12,
+      "end": 1075.64,
+      "text": "with other countries, hasn't it?"
+    },
+    {
+      "start": 1075.64,
+      "end": 1079.05,
+      "text": "Because you can expand your pattern recognition"
+    },
+    {
+      "start": 1079.18,
+      "end": 1080.81,
+      "text": "and you can learn more."
+    },
+    {
+      "start": 1081.88,
+      "end": 1084.29,
+      "text": "What do you do about making sure"
+    },
+    {
+      "start": 1085.67,
+      "end": 1089.68,
+      "text": "that your development is able to work,"
+    },
+    {
+      "start": 1090.63,
+      "end": 1093.1,
+      "text": "um, in a synergistic Yeah."
+    },
+    {
+      "start": 1093.23,
+      "end": 1097.89,
+      "text": "Way with other countries who are doing similar things so"
+    },
+    {
+      "start": 1097.89,
+      "end": 1102.68,
+      "text": "that you can power up the wisdom that you're getting out"
+    },
+    {
+      "start": 1102.98,
+      "end": 1104.61,
+      "text": "of this, of the information."
+    },
+    {
+      "start": 1106.49,
+      "end": 1109.08,
+      "text": "Um, so I think there's, uh, probably a couple of points."
+    },
+    {
+      "start": 1109.26,
+      "end": 1113.67,
+      "text": "So, uh, so we are part of, uh, a wide network, um,"
+    },
+    {
+      "start": 1113.69,
+      "end": 1116.28,
+      "text": "across the international statistical community."
+    },
+    {
+      "start": 1116.54,
+      "end": 1119.56,
+      "text": "Um, so some of the, uh, uh, studies"
+    },
+    {
+      "start": 1119.89,
+      "end": 1124.32,
+      "text": "and, um, organizations, um, Simon referenced earlier."
+    },
+    {
+      "start": 1124.73,
+      "end": 1127.04,
+      "text": "So we are all developing, um,"
+    },
+    {
+      "start": 1127.21,
+      "end": 1128.88,
+      "text": "and evolving those things together."
+    },
+    {
+      "start": 1129.1,
+      "end": 1133.15,
+      "text": "So we do share, uh, practice around, um,"
+    },
+    {
+      "start": 1133.65,
+      "end": 1135.23,
+      "text": "ethics confidentiality,"
+    },
+    {
+      "start": 1135.97,
+      "end": 1138.47,
+      "text": "but also obviously a mindful of, uh,"
+    },
+    {
+      "start": 1138.47,
+      "end": 1140.04,
+      "text": "things like the security settings."
+    },
+    {
+      "start": 1140.58,
+      "end": 1144.91,
+      "text": "So within, um, our context, um, we meet, uh, a lot"
+    },
+    {
+      "start": 1144.91,
+      "end": 1147.95,
+      "text": "of the government, um, requirements for, um,"
+    },
+    {
+      "start": 1148.4,
+      "end": 1149.84,
+      "text": "protection and security."
+    },
+    {
+      "start": 1150.26,
+      "end": 1154.28,
+      "text": "Um, uh, yeah, we, we have to meet those,"
+    },
+    {
+      "start": 1154.38,
+      "end": 1156.63,
+      "text": "that's a really important part of, um, keeping,"
+    },
+    {
+      "start": 1156.69,
+      "end": 1157.8,
+      "text": "uh, the data safe."
+    },
+    {
+      "start": 1158.34,
+      "end": 1162.8,
+      "text": "Uh, we also, uh, uh, regularly audit,"
+    },
+    {
+      "start": 1163.41,
+      "end": 1167.19,
+      "text": "um, uh, our practices as well to make sure that, uh,"
+    },
+    {
+      "start": 1167.19,
+      "end": 1168.39,
+      "text": "we are keeping things safe."
+    },
+    {
+      "start": 1168.62,
+      "end": 1171.56,
+      "text": "Um, it's very important in terms of, you know,"
+    },
+    {
+      "start": 1171.56,
+      "end": 1172.88,
+      "text": "the social license, the license"
+    },
+    {
+      "start": 1172.97,
+      "end": 1175.39,
+      "text": "to operate from New Zealanders that, you know,"
+    },
+    {
+      "start": 1175.46,
+      "end": 1178.95,
+      "text": "they have confidence in our ability to, um,"
+    },
+    {
+      "start": 1179.54,
+      "end": 1183.84,
+      "text": "source data col, um, collect it, uh, integrate it and,"
+    },
+    {
+      "start": 1183.93,
+      "end": 1187.12,
+      "text": "and keep that safe while still providing the benefits"
+    },
+    {
+      "start": 1187.12,
+      "end": 1188.6,
+      "text": "that I think we've talked about today."
+    },
+    {
+      "start": 1189.21,
+      "end": 1192.91,
+      "text": "Um, we don't, we haven't got joined up databases"
+    },
+    {
+      "start": 1192.91,
+      "end": 1195.67,
+      "text": "and network of databases across, uh, the world."
+    },
+    {
+      "start": 1196.26,
+      "end": 1199.56,
+      "text": "Um, but obviously, um, the research"
+    },
+    {
+      "start": 1199.56,
+      "end": 1202.8,
+      "text": "that is made available is available to everybody."
+    },
+    {
+      "start": 1202.97,
+      "end": 1205.43,
+      "text": "And so there are opportunities, um, obviously"
+    },
+    {
+      "start": 1205.45,
+      "end": 1207.56,
+      "text": "for researchers to link up internationally"
+    },
+    {
+      "start": 1208.02,
+      "end": 1211.67,
+      "text": "and work out, um, what types of studies might, uh,"
+    },
+    {
+      "start": 1211.69,
+      "end": 1213.6,
+      "text": "be valuable in that context as well."
+    },
+    {
+      "start": 1215.05,
+      "end": 1219.55,
+      "text": "So, um, so are the, is it, would it be fair to say"
+    },
+    {
+      "start": 1219.55,
+      "end": 1223.79,
+      "text": "that you're designing mindful of that kind of, um,"
+    },
+    {
+      "start": 1224.06,
+      "end": 1227.07,
+      "text": "ecosystem that's broader than just New Zealand?"
+    },
+    {
+      "start": 1228.03,
+      "end": 1231.51,
+      "text": "Absolutely. Okay. And can I ask you, this is a sort"
+    },
+    {
+      "start": 1231.51,
+      "end": 1232.66,
+      "text": "of philosophical question"
+    },
+    {
+      "start": 1232.77,
+      "end": 1234.83,
+      "text": "and you might just say it's beyond your scope."
+    },
+    {
+      "start": 1235.26,
+      "end": 1238.7,
+      "text": "Sure. But it occurs to me that what you are doing might mean"
+    },
+    {
+      "start": 1238.7,
+      "end": 1243.35,
+      "text": "that there's a huge boost in understanding of proactive, um,"
+    },
+    {
+      "start": 1243.44,
+      "end": 1244.66,
+      "text": "policy responses."
+    },
+    {
+      "start": 1244.85,
+      "end": 1248.63,
+      "text": "So because you are studying those"
+    },
+    {
+      "start": 1248.69,
+      "end": 1249.95,
+      "text": "or you've got that information"
+    },
+    {
+      "start": 1249.95,
+      "end": 1252.39,
+      "text": "that we might see people finally understand"
+    },
+    {
+      "start": 1252.66,
+      "end": 1254.76,
+      "text": "that there is an ambulance at the bottom of the cliff"
+    },
+    {
+      "start": 1254.76,
+      "end": 1257.99,
+      "text": "and then there's proactive money into things"
+    },
+    {
+      "start": 1258.06,
+      "end": 1259.08,
+      "text": "so that they never happen."
+    },
+    {
+      "start": 1260.13,
+      "end": 1263.39,
+      "text": "Do you see that in what, in the way"
+    },
+    {
+      "start": 1263.39,
+      "end": 1268.32,
+      "text": "that the information's being used that we might see a, um,"
+    },
+    {
+      "start": 1268.39,
+      "end": 1270.88,
+      "text": "confirmation of proactive"
+    },
+    {
+      "start": 1271.47,
+      "end": 1273.39,
+      "text": "policies working?"
+    },
+    {
+      "start": 1273.65,
+      "end": 1277.23,
+      "text": "You just gave the example, I think of the one that was, um,"
+    },
+    {
+      "start": 1277.3,
+      "end": 1279.71,
+      "text": "the driver's license one is one of those, isn't it?"
+    },
+    {
+      "start": 1283.26,
+      "end": 1285.67,
+      "text": "Um, But you are avoiding trouble. Well,"
+    },
+    {
+      "start": 1287.72,
+      "end": 1289.19,
+      "text": "Stats is not really involved Yeah."
+    },
+    {
+      "start": 1289.21,
+      "end": 1291.91,
+      "text": "In evaluating, you know, all of the different pieces"
+    },
+    {
+      "start": 1292.02,
+      "end": 1293.12,
+      "text": "of research that are being done."
+    },
+    {
+      "start": 1293.3,
+      "end": 1297.95,
+      "text": "So I think these insights are quite diffusely, um,"
+    },
+    {
+      "start": 1298.62,
+      "end": 1301.84,
+      "text": "perhaps found throughout government."
+    },
+    {
+      "start": 1301.86,
+      "end": 1302.56,
+      "text": "So, you know, different"
+    },
+    {
+      "start": 1302.56,
+      "end": 1303.71,
+      "text": "projects, find 'em in different places."
+    },
+    {
+      "start": 1304.02,
+      "end": 1306.04,
+      "text": "Um, one thing we do observe though, is"
+    },
+    {
+      "start": 1306.23,
+      "end": 1307.36,
+      "text": "that sometimes people will go in"
+    },
+    {
+      "start": 1307.36,
+      "end": 1309.32,
+      "text": "and they'll be looking at a specific thing, specific set"
+    },
+    {
+      "start": 1309.32,
+      "end": 1310.76,
+      "text": "of research questions, but there'll be kind"
+    },
+    {
+      "start": 1310.76,
+      "end": 1312.56,
+      "text": "of incidental findings that come out of that"
+    },
+    {
+      "start": 1312.62,
+      "end": 1314.28,
+      "text": "that prove useful in some other areas."
+    },
+    {
+      "start": 1314.45,
+      "end": 1317.91,
+      "text": "So that is definitely a value of bringing the data together,"
+    },
+    {
+      "start": 1318.26,
+      "end": 1320.32,
+      "text": "um, and allowing these analysis to go on."
+    },
+    {
+      "start": 1320.32,
+      "end": 1324.84,
+      "text": "So, um, there have been examples of interesting"
+    },
+    {
+      "start": 1325.06,
+      "end": 1327.6,
+      "text": "and useful findings that have not necessarily been the kind"
+    },
+    {
+      "start": 1327.6,
+      "end": 1328.84,
+      "text": "of core reason that that research"
+    },
+    {
+      "start": 1328.84,
+      "end": 1329.88,
+      "text": "was being done in the first place."
+    },
+    {
+      "start": 1330.59,
+      "end": 1332.47,
+      "text": "Yeah. Yeah. Okay. Alright,"
+    },
+    {
+      "start": 1333.33,
+      "end": 1334.33,
+      "text": "Thank you."
+    },
+    {
+      "start": 1335.11,
+      "end": 1338.37,
+      "text": "Um, just a quick question about the data."
+    },
+    {
+      "start": 1338.66,
+      "end": 1341.92,
+      "text": "So is the data that you make available sold,"
+    },
+    {
+      "start": 1341.98,
+      "end": 1343.37,
+      "text": "or is it provided as a service?"
+    },
+    {
+      "start": 1344.78,
+      "end": 1346.77,
+      "text": "Sorry, sold. Was that the first part of your question?"
+    },
+    {
+      "start": 1346.87,
+      "end": 1350.24,
+      "text": "Yes. Uh, so the data that we bring in, uh, we bring in"
+    },
+    {
+      "start": 1350.28,
+      "end": 1352.33,
+      "text": "with agreements with government agencies and others."
+    },
+    {
+      "start": 1352.59,
+      "end": 1355.57,
+      "text": "And so we don't buy it nor do we sell it."
+    },
+    {
+      "start": 1355.59,
+      "end": 1356.88,
+      "text": "We don't sell access to it."
+    },
+    {
+      "start": 1357.07,
+      "end": 1359.44,
+      "text": "Uh, so we, it's not our data, we don't own it."
+    },
+    {
+      "start": 1359.44,
+      "end": 1362.01,
+      "text": "We host it on behalf of others and we make it available."
+    },
+    {
+      "start": 1363.03,
+      "end": 1364.44,
+      "text": "Um, and people need"
+    },
+    {
+      "start": 1364.44,
+      "end": 1366.01,
+      "text": "to meet certain standards to be able to access."
+    },
+    {
+      "start": 1366.83,
+      "end": 1368.61,
+      "text": "So it's provided as a service? Yes."
+    },
+    {
+      "start": 1368.61,
+      "end": 1370.61,
+      "text": "It's provided as a service Yes. Under our appropriation."
+    },
+    {
+      "start": 1370.62,
+      "end": 1372.81,
+      "text": "Right? Sure."
+    },
+    {
+      "start": 1372.9,
+      "end": 1375.44,
+      "text": "Um, yeah, I think you mentioned someone at the beginning"
+    },
+    {
+      "start": 1375.47,
+      "end": 1377.33,
+      "text": "that you capture data from people"
+    },
+    {
+      "start": 1377.33,
+      "end": 1380.12,
+      "text": "who enter New Zealand, come to New Zealand. Was it?"
+    },
+    {
+      "start": 1380.31,
+      "end": 1382.96,
+      "text": "Uh, so migration is one of the key data sets."
+    },
+    {
+      "start": 1383.14,
+      "end": 1385.68,
+      "text": "Uh, so when we're trying to, um, define"
+    },
+    {
+      "start": 1385.68,
+      "end": 1388.53,
+      "text": "that ever resident population, um, we've got people"
+    },
+    {
+      "start": 1388.53,
+      "end": 1390.57,
+      "text": "who are born here and people who die here."
+    },
+    {
+      "start": 1390.57,
+      "end": 1392.48,
+      "text": "So got those records. We've got people"
+    },
+    {
+      "start": 1392.48,
+      "end": 1393.88,
+      "text": "who work here through tax records."
+    },
+    {
+      "start": 1394.11,
+      "end": 1395.85,
+      "text": "And then for people who come into the country, we're trying"
+    },
+    {
+      "start": 1395.85,
+      "end": 1398.4,
+      "text": "to capture their residency via the crossing of the border."
+    },
+    {
+      "start": 1399.19,
+      "end": 1401.53,
+      "text": "Okay. So it's not just international travelers"
+    },
+    {
+      "start": 1401.55,
+      "end": 1402.57,
+      "text": "or are you measuring that"
+    },
+    {
+      "start": 1402.66,
+      "end": 1404.88,
+      "text": "As No, so in fact, we're not really trying"
+    },
+    {
+      "start": 1404.88,
+      "end": 1406.48,
+      "text": "to capture people who might have just come here"
+    },
+    {
+      "start": 1406.48,
+      "end": 1407.48,
+      "text": "for two weeks as tourists."
+    },
+    {
+      "start": 1407.56,
+      "end": 1408.88,
+      "text": "Like that's not the focus of it."
+    },
+    {
+      "start": 1409.22,
+      "end": 1411.37,
+      "text": "But we do wanna capture people who move to New Zealand."
+    },
+    {
+      "start": 1411.42,
+      "end": 1413.57,
+      "text": "So that's the value of those migration records, being able"
+    },
+    {
+      "start": 1413.57,
+      "end": 1414.72,
+      "text": "to figure out who those people are and make sure"
+    },
+    {
+      "start": 1414.72,
+      "end": 1415.81,
+      "text": "that they're in that core us."
+    },
+    {
+      "start": 1416.66,
+      "end": 1421.09,
+      "text": "Uh, um, so just thinking about that from a tourism point"
+    },
+    {
+      "start": 1421.09,
+      "end": 1423.24,
+      "text": "of view, capturing people who are entering,"
+    },
+    {
+      "start": 1423.63,
+      "end": 1427.85,
+      "text": "even if it is temporarily, um, would seem to me"
+    },
+    {
+      "start": 1427.85,
+      "end": 1431.38,
+      "text": "to be a a, a valuable measure to have"
+    },
+    {
+      "start": 1431.56,
+      "end": 1433.82,
+      "text": "or is that easily captured in other data"
+    },
+    {
+      "start": 1434.47,
+      "end": 1436.49,
+      "text": "or through through the entry"
+    },
+    {
+      "start": 1436.92,
+      "end": 1437.92,
+      "text": "Customs? Yeah, so"
+    },
+    {
+      "start": 1437.92,
+      "end": 1440.41,
+      "text": "we, yeah, we provide, um, statistics about, um,"
+    },
+    {
+      "start": 1440.53,
+      "end": 1443.21,
+      "text": "migration flows, people who are obviously coming"
+    },
+    {
+      "start": 1443.32,
+      "end": 1444.89,
+      "text": "to New Zealand, um, and leaving."
+    },
+    {
+      "start": 1444.95,
+      "end": 1447.62,
+      "text": "And also tourism flows as well. Travelers. Yeah."
+    },
+    {
+      "start": 1447.77,
+      "end": 1450.78,
+      "text": "Okay. Great. Yeah, thank you Ola. Thank you."
+    },
+    {
+      "start": 1451.28,
+      "end": 1452.34,
+      "text": "Um, for cheers."
+    },
+    {
+      "start": 1452.47,
+      "end": 1455.17,
+      "text": "Um, I have a supplementary with Alice's question"
+    },
+    {
+      "start": 1455.28,
+      "end": 1457.73,
+      "text": "and it is more around how robust is the framework,"
+    },
+    {
+      "start": 1458.23,
+      "end": 1459.93,
+      "text": "how often do you audit it"
+    },
+    {
+      "start": 1460.71,
+      "end": 1464.41,
+      "text": "and um, around safeguards we may have"
+    },
+    {
+      "start": 1464.41,
+      "end": 1465.45,
+      "text": "already me, you this Yeah."
+    },
+    {
+      "start": 1465.84,
+      "end": 1467.82,
+      "text": "Um, and the compliance around it."
+    },
+    {
+      "start": 1467.88,
+      "end": 1471.3,
+      "text": "So is our legislation fit for purpose"
+    },
+    {
+      "start": 1471.99,
+      "end": 1474.45,
+      "text": "or does it have to be amended over time?"
+    },
+    {
+      "start": 1474.45,
+      "end": 1478.17,
+      "text": "Because given the cyber all over the world, you know,"
+    },
+    {
+      "start": 1478.17,
+      "end": 1480.45,
+      "text": "from a New Zealand, New Zealand Inc."
+    },
+    {
+      "start": 1480.45,
+      "end": 1481.89,
+      "text": "Perspective. Interesting."
+    },
+    {
+      "start": 1482.04,
+      "end": 1484.38,
+      "text": "And I just, I'm really interested in the robust framework,"
+    },
+    {
+      "start": 1484.38,
+      "end": 1486.89,
+      "text": "robustness of the framework and, uh, legislation."
+    },
+    {
+      "start": 1488.43,
+      "end": 1490.78,
+      "text": "Uh, perhaps if we start with the legislation"
+    },
+    {
+      "start": 1491.04,
+      "end": 1492.58,
+      "text": "and then move on to the other frameworks."
+    },
+    {
+      "start": 1493.04,
+      "end": 1494.78,
+      "text": "So we have the Data"
+    },
+    {
+      "start": 1494.8,
+      "end": 1497.93,
+      "text": "and Stats Act, which was updated in 2022, so"
+    },
+    {
+      "start": 1497.93,
+      "end": 1499.93,
+      "text": "that's a pretty recent piece of legislation."
+    },
+    {
+      "start": 1500.13,
+      "end": 1501.78,
+      "text": "I think we think it's working pretty well"
+    },
+    {
+      "start": 1501.8,
+      "end": 1504.97,
+      "text": "and offers sort of a good balance of access to data"
+    },
+    {
+      "start": 1505.19,
+      "end": 1506.49,
+      "text": "and protection of data."
+    },
+    {
+      "start": 1506.56,
+      "end": 1508.13,
+      "text": "So I think we're pretty happy with that."
+    },
+    {
+      "start": 1508.91,
+      "end": 1512.65,
+      "text": "Uh, we've also had our Privacy Act updated in 2020, so"
+    },
+    {
+      "start": 1512.65,
+      "end": 1514.02,
+      "text": "that's a relevant piece of legislation here."
+    },
+    {
+      "start": 1514.19,
+      "end": 1516.1,
+      "text": "All the privacy impact assessments we do are"
+    },
+    {
+      "start": 1516.1,
+      "end": 1517.13,
+      "text": "done under that framework."
+    },
+    {
+      "start": 1517.76,
+      "end": 1520.58,
+      "text": "Uh, so again, it's not, you know, not 2025,"
+    },
+    {
+      "start": 1520.6,
+      "end": 1523.13,
+      "text": "but it work was done on that fairly recently,"
+    },
+    {
+      "start": 1523.28,
+      "end": 1524.28,
+      "text": "Fairly recent."
+    },
+    {
+      "start": 1524.52,
+      "end": 1527.54,
+      "text": "Um, in terms of the five safes frameworks, so"
+    },
+    {
+      "start": 1528.85,
+      "end": 1533.8,
+      "text": "some my notes on it, but, um, safe people, safe projects,"
+    },
+    {
+      "start": 1534.14,
+      "end": 1536.08,
+      "text": "safe settings, safe data,"
+    },
+    {
+      "start": 1536.7,
+      "end": 1538.36,
+      "text": "Safe outputs, Safe outputs."
+    },
+    {
+      "start": 1538.36,
+      "end": 1540.95,
+      "text": "Thank you Rachel. Um, so that framework is something"
+    },
+    {
+      "start": 1540.95,
+      "end": 1542.47,
+      "text": "that we've had in place for quite a long period of time,"
+    },
+    {
+      "start": 1542.62,
+      "end": 1545.08,
+      "text": "but exactly what we do under that framework, um, you know,"
+    },
+    {
+      "start": 1545.08,
+      "end": 1547.15,
+      "text": "we're always kinda looking to tighten up, um,"
+    },
+    {
+      "start": 1547.3,
+      "end": 1551.39,
+      "text": "and make sure that we, uh, applying it as best we can, uh,"
+    },
+    {
+      "start": 1551.46,
+      "end": 1555.23,
+      "text": "when it comes to projects that are going on in the IDI"
+    },
+    {
+      "start": 1555.23,
+      "end": 1556.88,
+      "text": "and then also the data labs themselves"
+    },
+    {
+      "start": 1556.88,
+      "end": 1558.95,
+      "text": "where people are accessing the data."
+    },
+    {
+      "start": 1559.17,
+      "end": 1562.6,
+      "text": "So we audit those data labs once a year to make sure"
+    },
+    {
+      "start": 1562.6,
+      "end": 1564.67,
+      "text": "that the physical security is right"
+    },
+    {
+      "start": 1564.82,
+      "end": 1566.91,
+      "text": "and also that the IT security is right."
+    },
+    {
+      "start": 1567.54,
+      "end": 1569.47,
+      "text": "And then we have scrutiny of the projects both"
+    },
+    {
+      "start": 1569.86,
+      "end": 1571.39,
+      "text": "before they're approved to make sure"
+    },
+    {
+      "start": 1571.39,
+      "end": 1572.71,
+      "text": "that they're set up in the right way."
+    },
+    {
+      "start": 1573.13,
+      "end": 1575.99,
+      "text": "And also as they go on, uh, researchers come on"
+    },
+    {
+      "start": 1575.99,
+      "end": 1577.28,
+      "text": "and off them, but we need to make sure"
+    },
+    {
+      "start": 1577.28,
+      "end": 1579.99,
+      "text": "that they are doing the things that they've said, uh,"
+    },
+    {
+      "start": 1579.99,
+      "end": 1582.12,
+      "text": "in the applications of those projects, not going off piece"
+    },
+    {
+      "start": 1582.12,
+      "end": 1584.19,
+      "text": "and doing other things with the data."
+    },
+    {
+      "start": 1584.34,
+      "end": 1586.8,
+      "text": "So I think all of those things coming together,"
+    },
+    {
+      "start": 1586.83,
+      "end": 1590.47,
+      "text": "like we have a good level of scrutiny, uh, on the sort"
+    },
+    {
+      "start": 1590.47,
+      "end": 1592.08,
+      "text": "of cyber security side of things."
+    },
+    {
+      "start": 1592.34,
+      "end": 1595.23,
+      "text": "So I think the IDI sits within STAT mz, which needs"
+    },
+    {
+      "start": 1595.23,
+      "end": 1596.8,
+      "text": "to have cybersecurity across all"
+    },
+    {
+      "start": 1596.8,
+      "end": 1598.08,
+      "text": "of everything our operations."
+    },
+    {
+      "start": 1598.13,
+      "end": 1601.76,
+      "text": "And so we are applying that at the edge of the organization."
+    },
+    {
+      "start": 1602.13,
+      "end": 1604.61,
+      "text": "And then, so the IDI benefits from that."
+    },
+    {
+      "start": 1605.03,
+      "end": 1607.96,
+      "text": "Um, but it's the type of thing where that security,"
+    },
+    {
+      "start": 1608.35,
+      "end": 1610.12,
+      "text": "you know, always a focus trying to make sure"
+    },
+    {
+      "start": 1610.12,
+      "end": 1611.29,
+      "text": "that it is up to scratch."
+    },
+    {
+      "start": 1611.53,
+      "end": 1613.85,
+      "text": "'cause you need to do more over time rather than less. Yeah."
+    },
+    {
+      "start": 1614.1,
+      "end": 1616.57,
+      "text": "Thank you. And just a really tiny set around threats"
+    },
+    {
+      "start": 1616.57,
+      "end": 1617.81,
+      "text": "and risks in the cyber space,"
+    },
+    {
+      "start": 1617.98,
+      "end": 1620.72,
+      "text": "and I'm sort of more looking overseas rather than here."
+    },
+    {
+      "start": 1620.96,
+      "end": 1622.77,
+      "text": "'cause it sounds like you've got a really robust framework."
+    },
+    {
+      "start": 1623.72,
+      "end": 1626.35,
+      "text": "How sort of, are there, I mean, how does that work?"
+    },
+    {
+      "start": 1626.61,
+      "end": 1630.31,
+      "text": "Do you get a like flag or how are you advised or?"
+    },
+    {
+      "start": 1631.77,
+      "end": 1635.18,
+      "text": "So neither of us are sort of chief technology officer"
+    },
+    {
+      "start": 1635.81,
+      "end": 1637.35,
+      "text": "or kind of our security people."
+    },
+    {
+      "start": 1637.35,
+      "end": 1639.94,
+      "text": "So we have people in the organization who are responsible"
+    },
+    {
+      "start": 1639.94,
+      "end": 1641.59,
+      "text": "for monitoring those threats, I guess I would say."
+    },
+    {
+      "start": 1641.68,
+      "end": 1645.07,
+      "text": "And yeah. Yeah, it's at all of organization level. Yeah."
+    },
+    {
+      "start": 1645.07,
+      "end": 1647.07,
+      "text": "And we can certainly provide the committee with, um,"
+    },
+    {
+      "start": 1647.07,
+      "end": 1650.18,
+      "text": "more information about how we do, uh, go about those things."
+    },
+    {
+      "start": 1650.48,
+      "end": 1652.11,
+      "text": "Um, so more than happy to do"
+    },
+    {
+      "start": 1652.11,
+      "end": 1653.11,
+      "text": "That. It"
+    },
+    {
+      "start": 1653.11,
+      "end": 1655.07,
+      "text": "in here that the data labs aren't connected"
+    },
+    {
+      "start": 1655.07,
+      "end": 1656.07,
+      "text": "to the internet though."
+    },
+    {
+      "start": 1656.2,
+      "end": 1658.27,
+      "text": "No. So that's gotta be a big help."
+    },
+    {
+      "start": 1658.49,
+      "end": 1659.94,
+      "text": "Yeah, that's an important thing."
+    },
+    {
+      "start": 1660.01,
+      "end": 1661.51,
+      "text": "So, you know, sequestered off, it's"
+    },
+    {
+      "start": 1661.51,
+      "end": 1663.14,
+      "text": "where you can access this data specifically"
+    },
+    {
+      "start": 1663.24,
+      "end": 1664.87,
+      "text": "and you can't access all that data"
+    },
+    {
+      "start": 1664.87,
+      "end": 1666.11,
+      "text": "that's talent needs from the same place."
+    },
+    {
+      "start": 1666.81,
+      "end": 1670.55,
+      "text": "Um, which I've just given myself a sub segue into a sub."
+    },
+    {
+      "start": 1670.68,
+      "end": 1674.11,
+      "text": "Um, so because they're not connected to the data,"
+    },
+    {
+      "start": 1674.11,
+      "end": 1676.03,
+      "text": "labs aren't connected to the internet,"
+    },
+    {
+      "start": 1676.64,
+      "end": 1680.79,
+      "text": "how do you physically get the information out of there to,"
+    },
+    {
+      "start": 1680.88,
+      "end": 1684.66,
+      "text": "to customers or people who are requesting the information?"
+    },
+    {
+      "start": 1685.01,
+      "end": 1687.83,
+      "text": "Uh, well I guess there are connections from the data labs"
+    },
+    {
+      "start": 1687.88,
+      "end": 1690.9,
+      "text": "to the databases themselves, so people can do the research."
+    },
+    {
+      "start": 1691.24,
+      "end": 1693.62,
+      "text": "Uh, and so we have what we call output checking."
+    },
+    {
+      "start": 1693.77,
+      "end": 1697.94,
+      "text": "So researchers are required to make the data confidentially,"
+    },
+    {
+      "start": 1698.29,
+      "end": 1700.18,
+      "text": "um, in order for it to be outputted."
+    },
+    {
+      "start": 1700.53,
+      "end": 1702.7,
+      "text": "And so that's their responsibility as researchers."
+    },
+    {
+      "start": 1702.77,
+      "end": 1705.79,
+      "text": "Uh, we then have a team in stats who does output checking."
+    },
+    {
+      "start": 1705.96,
+      "end": 1708.14,
+      "text": "So they go in and they look at the outputs the researchers"
+    },
+    {
+      "start": 1708.14,
+      "end": 1710.7,
+      "text": "have created, and then make sure that all"
+    },
+    {
+      "start": 1710.7,
+      "end": 1712.79,
+      "text": "of our rules are being applied and no one could be"
+    },
+    {
+      "start": 1713.11,
+      "end": 1715.59,
+      "text": "identified from that data if it was to come out of the lab."
+    },
+    {
+      "start": 1715.88,
+      "end": 1719.03,
+      "text": "And then it's our team who takes the data outta the lab"
+    },
+    {
+      "start": 1719.03,
+      "end": 1721.74,
+      "text": "and makes it available to the researchers outside the lab."
+    },
+    {
+      "start": 1721.77,
+      "end": 1723.07,
+      "text": "So that's how that process works."
+    },
+    {
+      "start": 1724.82,
+      "end": 1727.23,
+      "text": "So how do you get it out if it's not connected to the,"
+    },
+    {
+      "start": 1728.54,
+      "end": 1733.04,
+      "text": "Uh, so within our infrastructure in stats nz,"
+    },
+    {
+      "start": 1733.04,
+      "end": 1734.8,
+      "text": "they're able to take those files"
+    },
+    {
+      "start": 1735.06,
+      "end": 1738.56,
+      "text": "and then make those available to researchers."
+    },
+    {
+      "start": 1738.78,
+      "end": 1740.91,
+      "text": "So, um, they are, I believe they're emailed"
+    },
+    {
+      "start": 1740.93,
+      "end": 1743.47,
+      "text": "to researchers once our staff take them out of the data"
+    },
+    {
+      "start": 1743.49,
+      "end": 1744.49,
+      "text": "Lab. So the co"
+    },
+    {
+      "start": 1744.49,
+      "end": 1746.6,
+      "text": "the they create a copy that's removed."
+    },
+    {
+      "start": 1746.83,
+      "end": 1748.08,
+      "text": "Yeah, that's right. Yeah. Yeah."
+    },
+    {
+      "start": 1750.38,
+      "end": 1752.88,
+      "text": "Cool. Um, thanks Mr. Chair. Thank you for coming in today."
+    },
+    {
+      "start": 1753.21,
+      "end": 1756.15,
+      "text": "Um, I'm keen to know a little bit more about, um,"
+    },
+    {
+      "start": 1756.91,
+      "end": 1759.32,
+      "text": "tikanga Maori principles being applied to the data"
+    },
+    {
+      "start": 1760.41,
+      "end": 1763.28,
+      "text": "and, um, Maori practices across it."
+    },
+    {
+      "start": 1763.54,
+      "end": 1765.95,
+      "text": "Um, are you able to explain to me how"
+    },
+    {
+      "start": 1766.51,
+      "end": 1767.6,
+      "text": "it's relevant for governance?"
+    },
+    {
+      "start": 1767.71,
+      "end": 1769.84,
+      "text": "I understand the sharing of data with interest groups,"
+    },
+    {
+      "start": 1769.86,
+      "end": 1774.3,
+      "text": "it could be really interesting, um, but the data is data."
+    },
+    {
+      "start": 1774.56,
+      "end": 1777.38,
+      "text": "So I'm keen to know your,"
+    },
+    {
+      "start": 1777.88,
+      "end": 1779.58,
+      "text": "how this is applied in practice"
+    },
+    {
+      "start": 1779.99,
+      "end": 1782.15,
+      "text": "and what your thoughts are about this."
+    },
+    {
+      "start": 1783.61,
+      "end": 1787.98,
+      "text": "So the NAI framework is the primary way"
+    },
+    {
+      "start": 1787.98,
+      "end": 1789.9,
+      "text": "that we provide, um, that we,"
+    },
+    {
+      "start": 1790.34,
+      "end": 1792.87,
+      "text": "that te Maori principles are applied to"
+    },
+    {
+      "start": 1792.87,
+      "end": 1793.94,
+      "text": "how the data is used."
+    },
+    {
+      "start": 1794.64,
+      "end": 1797.42,
+      "text": "And so we, it's an ethical framework from our perspective,"
+    },
+    {
+      "start": 1797.64,
+      "end": 1801.42,
+      "text": "and it's been developed, uh, gifted to stats NZ by, um,"
+    },
+    {
+      "start": 1802.33,
+      "end": 1804.62,
+      "text": "by a Maori researcher originally."
+    },
+    {
+      "start": 1805.37,
+      "end": 1810.31,
+      "text": "Um, and so that is the mechanism, um, by which,"
+    },
+    {
+      "start": 1811.05,
+      "end": 1812.74,
+      "text": "um, Maori principles are applied."
+    },
+    {
+      "start": 1812.88,
+      "end": 1815.51,
+      "text": "So, um, I actually don't have the information in front"
+    },
+    {
+      "start": 1815.51,
+      "end": 1816.55,
+      "text": "of me about the content of that"
+    },
+    {
+      "start": 1816.55,
+      "end": 1817.74,
+      "text": "framework, but it is published."
+    },
+    {
+      "start": 1817.88,
+      "end": 1820.46,
+      "text": "Um, and so we're more than happy to share the details"
+    },
+    {
+      "start": 1820.57,
+      "end": 1821.62,
+      "text": "of how that framework works"
+    },
+    {
+      "start": 1821.97,
+      "end": 1822.97,
+      "text": "With you. Yeah, yeah."
+    },
+    {
+      "start": 1822.97,
+      "end": 1825.83,
+      "text": "I think, I think in practice, um, if we know"
+    },
+    {
+      "start": 1825.89,
+      "end": 1829.87,
+      "text": "that for example, if we know that a research project, um,"
+    },
+    {
+      "start": 1830.2,
+      "end": 1834.59,
+      "text": "is going to focus on a particular community, what"
+    },
+    {
+      "start": 1834.59,
+      "end": 1839.51,
+      "text": "that framework helps do is um, uh, ask questions about"
+    },
+    {
+      "start": 1840.04,
+      "end": 1843.22,
+      "text": "who's on the research team, do you have the right expertise"
+    },
+    {
+      "start": 1843.72,
+      "end": 1846.62,
+      "text": "to be working alongside, um, those communities?"
+    },
+    {
+      "start": 1847.16,
+      "end": 1850.03,
+      "text": "Um, and then also I think in terms of the outputs,"
+    },
+    {
+      "start": 1850.03,
+      "end": 1851.35,
+      "text": "have you thought about, um,"
+    },
+    {
+      "start": 1851.68,
+      "end": 1855.87,
+      "text": "how those out outputs will be presented and um,"
+    },
+    {
+      "start": 1856.01,
+      "end": 1857.66,
+      "text": "and analyzed and those sorts of things?"
+    },
+    {
+      "start": 1857.81,
+      "end": 1860.27,
+      "text": "So, uh, yeah, it's a set of questions"
+    },
+    {
+      "start": 1860.27,
+      "end": 1863.98,
+      "text": "that are really helpful for, um, researchers, um,"
+    },
+    {
+      "start": 1863.98,
+      "end": 1866.07,
+      "text": "particularly if they're new to the space as well,"
+    },
+    {
+      "start": 1866.12,
+      "end": 1868.83,
+      "text": "and they just needed additional support to work effectively"
+    },
+    {
+      "start": 1868.86,
+      "end": 1870.66,
+      "text": "with, um, with different communities."
+    },
+    {
+      "start": 1871.17,
+      "end": 1873.7,
+      "text": "Okay. And yeah, possible we,"
+    },
+    {
+      "start": 1873.7,
+      "end": 1875.55,
+      "text": "could we grab a copy of that framework"
+    },
+    {
+      "start": 1875.98,
+      "end": 1876.98,
+      "text": "Absolutely. Point we can provide"
+    },
+    {
+      "start": 1877.22,
+      "end": 1878.22,
+      "text": "That, absolutely. Share"
+    },
+    {
+      "start": 1878.22,
+      "end": 1880.62,
+      "text": "it. Now, just earlier you mentioned"
+    },
+    {
+      "start": 1880.62,
+      "end": 1883.35,
+      "text": "that the infrastructure that this runs is quite freaky."
+    },
+    {
+      "start": 1884.05,
+      "end": 1886.42,
+      "text": "Um, what can you go, are you able"
+    },
+    {
+      "start": 1886.42,
+      "end": 1888.79,
+      "text": "to give a similar indication of what that means and,"
+    },
+    {
+      "start": 1888.88,
+      "end": 1892.14,
+      "text": "and if there is an opportunity to update"
+    },
+    {
+      "start": 1892.14,
+      "end": 1894.27,
+      "text": "that given the technologies that are available now with,"
+    },
+    {
+      "start": 1894.27,
+      "end": 1895.51,
+      "text": "without compromise the integrity"
+    },
+    {
+      "start": 1895.53,
+      "end": 1896.66,
+      "text": "of the data sets that you hold?"
+    },
+    {
+      "start": 1896.86,
+      "end": 1898.22,
+      "text": "Yeah, I think it's two things."
+    },
+    {
+      "start": 1898.49,
+      "end": 1900.59,
+      "text": "It's the, um, the infrastructure itself,"
+    },
+    {
+      "start": 1900.59,
+      "end": 1902.79,
+      "text": "like the IT infrastructure, um, needs an upgrade,"
+    },
+    {
+      "start": 1902.79,
+      "end": 1905.27,
+      "text": "but it's also the way that we do the data processing."
+    },
+    {
+      "start": 1905.48,
+      "end": 1908.51,
+      "text": "So, um, you'll appreciate starting from the beginning,"
+    },
+    {
+      "start": 1908.53,
+      "end": 1911.55,
+      "text": "the IDI was quite small, it's grown significantly over time,"
+    },
+    {
+      "start": 1911.64,
+      "end": 1912.87,
+      "text": "but the kind of architecture"
+    },
+    {
+      "start": 1912.87,
+      "end": 1914.55,
+      "text": "and the design of it hasn't changed."
+    },
+    {
+      "start": 1914.64,
+      "end": 1917.94,
+      "text": "And so what happens is three times a year we refresh it"
+    },
+    {
+      "start": 1918.05,
+      "end": 1920.22,
+      "text": "and we, um, receive resupply"
+    },
+    {
+      "start": 1920.22,
+      "end": 1922.03,
+      "text": "of the data from everybody each time,"
+    },
+    {
+      "start": 1922.09,
+      "end": 1923.87,
+      "text": "and we completely reload that data."
+    },
+    {
+      "start": 1923.96,
+      "end": 1926.7,
+      "text": "And so, um, as it grows and it grows and it grows,"
+    },
+    {
+      "start": 1926.7,
+      "end": 1929.74,
+      "text": "and I think it's 1,073 gigabytes"
+    },
+    {
+      "start": 1929.83,
+      "end": 1932.22,
+      "text": "and 16 million rows in terms of the total volumes"
+    },
+    {
+      "start": 1932.22,
+      "end": 1934.59,
+      "text": "and things that are there now, it becomes increasingly"
+    },
+    {
+      "start": 1934.59,
+      "end": 1936.27,
+      "text": "difficult to kind of run that model."
+    },
+    {
+      "start": 1936.53,
+      "end": 1939.74,
+      "text": "And so, yeah, it's not just the technology itself,"
+    },
+    {
+      "start": 1939.82,
+      "end": 1941.51,
+      "text": "it's definitely the data processing"
+    },
+    {
+      "start": 1941.57,
+      "end": 1942.66,
+      "text": "and the way that that works."
+    },
+    {
+      "start": 1942.96,
+      "end": 1945.55,
+      "text": "And so we would like to change the way"
+    },
+    {
+      "start": 1945.55,
+      "end": 1947.11,
+      "text": "that data is processed, um, so"
+    },
+    {
+      "start": 1947.11,
+      "end": 1948.79,
+      "text": "that we could just incrementally update."
+    },
+    {
+      "start": 1948.85,
+      "end": 1951.51,
+      "text": "So that just means that we're only updating new records."
+    },
+    {
+      "start": 1951.51,
+      "end": 1953.38,
+      "text": "Everything that hasn't changed, we don't change."
+    },
+    {
+      "start": 1953.53,
+      "end": 1954.9,
+      "text": "And so that would allow us"
+    },
+    {
+      "start": 1954.9,
+      "end": 1956.74,
+      "text": "to update the data much more frequently."
+    },
+    {
+      "start": 1956.88,
+      "end": 1957.94,
+      "text": "Um, and so that's a kind"
+    },
+    {
+      "start": 1957.94,
+      "end": 1958.98,
+      "text": "of business case that we are working on."
+    },
+    {
+      "start": 1959.23,
+      "end": 1960.4,
+      "text": "Alright. Yeah. Okay."
+    },
+    {
+      "start": 1961.48,
+      "end": 1964.69,
+      "text": "Um, so, um, a note from,"
+    },
+    {
+      "start": 1964.95,
+      "end": 1966.73,
+      "text": "um, the list."
+    },
+    {
+      "start": 1967.27,
+      "end": 1972.17,
+      "text": "We've got the data in the, the IIPI, um,"
+    },
+    {
+      "start": 1972.92,
+      "end": 1976.54,
+      "text": "only a couple, two or three that reach back to the eighties."
+    },
+    {
+      "start": 1976.71,
+      "end": 1980.9,
+      "text": "Is there any intention of, of any way, any way"
+    },
+    {
+      "start": 1980.9,
+      "end": 1983.79,
+      "text": "of capturing data prior to the two thousands?"
+    },
+    {
+      "start": 1986.03,
+      "end": 1988.37,
+      "text": "So mostly that reflects, um,"
+    },
+    {
+      "start": 1988.6,
+      "end": 1991.68,
+      "text": "when these data sets collected by the government agencies"
+    },
+    {
+      "start": 1991.8,
+      "end": 1993.37,
+      "text": "that collect them were sort of"
+    },
+    {
+      "start": 1994.47,
+      "end": 1996.77,
+      "text": "collected in digital form in the first place."
+    },
+    {
+      "start": 1996.94,
+      "end": 1998.85,
+      "text": "So prior to that, everything"
+    },
+    {
+      "start": 1998.85,
+      "end": 2000.2,
+      "text": "that was in here either didn't exist"
+    },
+    {
+      "start": 2000.22,
+      "end": 2001.24,
+      "text": "or it was paper records."
+    },
+    {
+      "start": 2001.42,
+      "end": 2004.05,
+      "text": "And so there isn't really any ability to go back"
+    },
+    {
+      "start": 2004.05,
+      "end": 2006.92,
+      "text": "and capture the records that were on paper prior to this."
+    },
+    {
+      "start": 2006.94,
+      "end": 2010.24,
+      "text": "So we are limited by, um, you know, the technology"
+    },
+    {
+      "start": 2010.24,
+      "end": 2012.48,
+      "text": "that was in existence for the record keeping Yeah. At"
+    },
+    {
+      "start": 2012.48,
+      "end": 2013.48,
+      "text": "That time. So there's no intention of"
+    },
+    {
+      "start": 2013.48,
+      "end": 2014.12,
+      "text": "going back"
+    },
+    {
+      "start": 2014.14,
+      "end": 2017.72,
+      "text": "and digitizing that historic information. C"
+    },
+    {
+      "start": 2017.72,
+      "end": 2018.72,
+      "text": "Certainly not by us,"
+    },
+    {
+      "start": 2018.87,
+      "end": 2022.09,
+      "text": "but it may be, uh, it may be something that, um,"
+    },
+    {
+      "start": 2022.14,
+      "end": 2026.12,
+      "text": "the individual agencies, um, uh, have in their plans"
+    },
+    {
+      "start": 2026.38,
+      "end": 2028.29,
+      "text": "and obviously if they were to do that, then"
+    },
+    {
+      "start": 2028.29,
+      "end": 2031.44,
+      "text": "that would potentially make more data available for the IDI."
+    },
+    {
+      "start": 2031.56,
+      "end": 2032.56,
+      "text": "Yeah,"
+    },
+    {
+      "start": 2033.59,
+      "end": 2034.84,
+      "text": "I've, I've got a question just sort"
+    },
+    {
+      "start": 2034.84,
+      "end": 2035.95,
+      "text": "of from a personal experience"
+    },
+    {
+      "start": 2035.95,
+      "end": 2038.08,
+      "text": "and running how that data set may or may not exist."
+    },
+    {
+      "start": 2038.3,
+      "end": 2040.76,
+      "text": "Um, having, having worked in the criminal justice sector"
+    },
+    {
+      "start": 2040.78,
+      "end": 2042.04,
+      "text": "for about 10 years Sure."
+    },
+    {
+      "start": 2042.23,
+      "end": 2044.23,
+      "text": "I I know that, uh, there's a very high incidence"
+    },
+    {
+      "start": 2044.23,
+      "end": 2045.84,
+      "text": "of neurodiversity, uh,"
+    },
+    {
+      "start": 2045.86,
+      "end": 2047.32,
+      "text": "and other complexities in the people"
+    },
+    {
+      "start": 2047.32,
+      "end": 2049.43,
+      "text": "who end up in the court system and the prison system."
+    },
+    {
+      "start": 2049.82,
+      "end": 2050.95,
+      "text": "Um, in fact it can,"
+    },
+    {
+      "start": 2050.95,
+      "end": 2052.59,
+      "text": "but up to 70% of people have neurodiversity"
+    },
+    {
+      "start": 2053.05,
+      "end": 2054.43,
+      "text": "or having dyslexia, for example."
+    },
+    {
+      "start": 2054.51,
+      "end": 2057.07,
+      "text": "Yeah. But dyslexia I think is also some"
+    },
+    {
+      "start": 2057.07,
+      "end": 2058.39,
+      "text": "of the most successful business people."
+    },
+    {
+      "start": 2059.01,
+      "end": 2063.16,
+      "text": "Um, so, so the, well, there's, there's an issue in"
+    },
+    {
+      "start": 2063.16,
+      "end": 2066.43,
+      "text": "that schools may not capture that data at all."
+    },
+    {
+      "start": 2066.74,
+      "end": 2070.43,
+      "text": "Um, but those that do, I'm wondering how much of that might,"
+    },
+    {
+      "start": 2071.43,
+      "end": 2074.51,
+      "text": "might be in your data sets that, that there's some work"
+    },
+    {
+      "start": 2074.57,
+      "end": 2077.34,
+      "text": "that can be done to sort of surface that more accurately or,"
+    },
+    {
+      "start": 2077.41,
+      "end": 2079.11,
+      "text": "or, or, or not if it doesn't exist."
+    },
+    {
+      "start": 2080.61,
+      "end": 2084.39,
+      "text": "So I don't believe we have neurodiversity data from"
+    },
+    {
+      "start": 2084.82,
+      "end": 2086.18,
+      "text": "education at this point."
+    },
+    {
+      "start": 2086.39,
+      "end": 2087.62,
+      "text": "I kind of agree with you. It is possible"
+    },
+    {
+      "start": 2087.74,
+      "end": 2090.07,
+      "text": "that school systems will be increasingly capturing it."
+    },
+    {
+      "start": 2090.36,
+      "end": 2095.07,
+      "text": "Um, obviously there are neurodiversity diagnoses made in the"
+    },
+    {
+      "start": 2095.07,
+      "end": 2098.38,
+      "text": "health sector as well, so a lot"
+    },
+    {
+      "start": 2098.38,
+      "end": 2101.53,
+      "text": "of those will be made privately or in primary care."
+    },
+    {
+      "start": 2102.07,
+      "end": 2104.49,
+      "text": "So definitely a gap in the health data that we have is"
+    },
+    {
+      "start": 2104.49,
+      "end": 2107.57,
+      "text": "that we don't have primary care data, um, available to us."
+    },
+    {
+      "start": 2107.91,
+      "end": 2109.66,
+      "text": "And that's actually a gap for the government overall."
+    },
+    {
+      "start": 2109.76,
+      "end": 2112.14,
+      "text": "It's not just a gap for us here at Stats"
+    },
+    {
+      "start": 2112.2,
+      "end": 2114.66,
+      "text": "and the IDI, so I would say"
+    },
+    {
+      "start": 2115.38,
+      "end": 2117.18,
+      "text": "I believe health has an intention to come fill"
+    },
+    {
+      "start": 2117.18,
+      "end": 2120.05,
+      "text": "that gap over time, but that is probably the most likely way"
+    },
+    {
+      "start": 2120.05,
+      "end": 2122.01,
+      "text": "that we would systematically get"
+    },
+    {
+      "start": 2122.01,
+      "end": 2123.66,
+      "text": "neurodiversity type information."
+    },
+    {
+      "start": 2124.26,
+      "end": 2126.26,
+      "text": "I don't know if they're also capturing it in the justice"
+    },
+    {
+      "start": 2126.26,
+      "end": 2127.93,
+      "text": "system, you know, where they are seeing people in,"
+    },
+    {
+      "start": 2127.93,
+      "end": 2130.22,
+      "text": "people are evaluated, um, in that context."
+    },
+    {
+      "start": 2130.47,
+      "end": 2133.09,
+      "text": "But I would say it's a kind of a, it's a health gap"
+    },
+    {
+      "start": 2133.09,
+      "end": 2134.34,
+      "text": "that we have at the moment, um,"
+    },
+    {
+      "start": 2134.34,
+      "end": 2137.84,
+      "text": "that we would need the health sector to have a way"
+    },
+    {
+      "start": 2137.84,
+      "end": 2139.57,
+      "text": "of bringing it together for us to then benefit"
+    },
+    {
+      "start": 2139.62,
+      "end": 2140.84,
+      "text": "and have it in the start set."
+    },
+    {
+      "start": 2141.3,
+      "end": 2142.49,
+      "text": "And how, how might that happen?"
+    },
+    {
+      "start": 2142.49,
+      "end": 2145.32,
+      "text": "Like, who would take the leadership on, on saying, okay, we,"
+    },
+    {
+      "start": 2145.34,
+      "end": 2147.36,
+      "text": "we, we think it would be useful to be capturing that data"
+    },
+    {
+      "start": 2147.43,
+      "end": 2149.53,
+      "text": "or, or to be that data in the yada."
+    },
+    {
+      "start": 2150.59,
+      "end": 2152.49,
+      "text": "So I know that within the health system,"
+    },
+    {
+      "start": 2152.49,
+      "end": 2155.86,
+      "text": "they are interested in bringing significantly more primary"
+    },
+    {
+      "start": 2155.93,
+      "end": 2158.57,
+      "text": "care data together for kind of health planning purposes."
+    },
+    {
+      "start": 2158.57,
+      "end": 2161.05,
+      "text": "And so I think if they were successful in that endeavor,"
+    },
+    {
+      "start": 2161.12,
+      "end": 2163.09,
+      "text": "then we would be able to tap into it, you know,"
+    },
+    {
+      "start": 2163.09,
+      "end": 2166.22,
+      "text": "through our usual processes, um, to bring it into the IDI."
+    },
+    {
+      "start": 2166.24,
+      "end": 2168.18,
+      "text": "So I think it's within that health portfolio,"
+    },
+    {
+      "start": 2168.64,
+      "end": 2170.74,
+      "text": "how much progress are they making on that plan?"
+    },
+    {
+      "start": 2172.89,
+      "end": 2174.34,
+      "text": "Questions actually quite related."
+    },
+    {
+      "start": 2174.8,
+      "end": 2176.3,
+      "text": "I'm interested in new sets"
+    },
+    {
+      "start": 2176.64,
+      "end": 2180.05,
+      "text": "that you might think would be a good idea to capture."
+    },
+    {
+      "start": 2180.76,
+      "end": 2183.93,
+      "text": "And I can see I, uh, like a, a set"
+    },
+    {
+      "start": 2183.93,
+      "end": 2187.22,
+      "text": "that wouldn't be obvious is actually, um,"
+    },
+    {
+      "start": 2187.3,
+      "end": 2191.3,
+      "text": "employment contracts because it's private information,"
+    },
+    {
+      "start": 2191.68,
+      "end": 2195.78,
+      "text": "but actually what we need to see is the patterns in it."
+    },
+    {
+      "start": 2196.03,
+      "end": 2199.14,
+      "text": "We don't care about the individual agreements."
+    },
+    {
+      "start": 2199.64,
+      "end": 2203.09,
+      "text": "And I just wondered what your process was for"
+    },
+    {
+      "start": 2203.74,
+      "end": 2204.97,
+      "text": "choosing those data sets."
+    },
+    {
+      "start": 2205.03,
+      "end": 2206.18,
+      "text": "Is it opportunity?"
+    },
+    {
+      "start": 2206.32,
+      "end": 2207.78,
+      "text": "Is it, how does that happen"
+    },
+    {
+      "start": 2208.72,
+      "end": 2213.09,
+      "text": "and how much potential do you think there is"
+    },
+    {
+      "start": 2215.11,
+      "end": 2217.22,
+      "text": "in terms of new sets of information"
+    },
+    {
+      "start": 2217.22,
+      "end": 2221.41,
+      "text": "that are you already aware of gaps or opportunities?"
+    },
+    {
+      "start": 2222.05,
+      "end": 2224.97,
+      "text": "Yeah, I think we are aware of gaps, so we're aware"
+    },
+    {
+      "start": 2224.97,
+      "end": 2226.3,
+      "text": "of gaps in an IDI context"
+    },
+    {
+      "start": 2226.43,
+      "end": 2228.61,
+      "text": "and then we're aware of gaps in a kind of more"
+    },
+    {
+      "start": 2228.61,
+      "end": 2230.66,
+      "text": "of a government data system context."
+    },
+    {
+      "start": 2231.09,
+      "end": 2234.09,
+      "text": "Yeah. Do you wanna comment at all on government data system?"
+    },
+    {
+      "start": 2234.91,
+      "end": 2239.09,
+      "text": "So, uh, so, um, at least a couple of years ago, um,"
+    },
+    {
+      "start": 2239.49,
+      "end": 2241.97,
+      "text": "a data investment plan, um, was put together."
+    },
+    {
+      "start": 2242.43,
+      "end": 2245.01,
+      "text": "So that was certainly trying to have a look at, um,"
+    },
+    {
+      "start": 2245.01,
+      "end": 2247.78,
+      "text": "more systematically what were the gaps across, um,"
+    },
+    {
+      "start": 2247.78,
+      "end": 2250.78,
+      "text": "across government in, um, social economic"
+    },
+    {
+      "start": 2250.8,
+      "end": 2252.14,
+      "text": "and environmental domains."
+    },
+    {
+      "start": 2252.76,
+      "end": 2256.3,
+      "text": "Um, so some of that would be relevant to, uh,"
+    },
+    {
+      "start": 2256.3,
+      "end": 2260.14,
+      "text": "finding new data, um, that could go into the IDI as much as"
+    },
+    {
+      "start": 2260.93,
+      "end": 2262.09,
+      "text": "actually we need these data sets"
+    },
+    {
+      "start": 2262.09,
+      "end": 2263.86,
+      "text": "to produce more statistical, you know,"
+    },
+    {
+      "start": 2264.14,
+      "end": 2266.53,
+      "text": "aggregated statistical information, um, as well."
+    },
+    {
+      "start": 2266.99,
+      "end": 2270.66,
+      "text": "So that's one of the mechanisms by which, um, you know,"
+    },
+    {
+      "start": 2270.66,
+      "end": 2273.53,
+      "text": "we have a, a view of the overall landscape, um,"
+    },
+    {
+      "start": 2273.68,
+      "end": 2276.05,
+      "text": "within the context of our new legislation."
+    },
+    {
+      "start": 2276.39,
+      "end": 2279.57,
+      "text": "Um, we are starting to work on a multi-year data"
+    },
+    {
+      "start": 2279.59,
+      "end": 2280.7,
+      "text": "and statistics plan."
+    },
+    {
+      "start": 2280.88,
+      "end": 2282.41,
+      "text": "Um, that's, that's a requirement."
+    },
+    {
+      "start": 2282.59,
+      "end": 2285.89,
+      "text": "Um, so that will, um, follow on obviously from"
+    },
+    {
+      "start": 2285.89,
+      "end": 2288.34,
+      "text": "that initial data investment plan work."
+    },
+    {
+      "start": 2288.99,
+      "end": 2290.61,
+      "text": "Um, and I think subsequent"
+    },
+    {
+      "start": 2290.99,
+      "end": 2295.66,
+      "text": "or in, in that same context, we have a range of different,"
+    },
+    {
+      "start": 2295.84,
+      "end": 2298.18,
+      "text": "uh, like we have the information group, so"
+    },
+    {
+      "start": 2298.18,
+      "end": 2300.49,
+      "text": "that's a cross government group where, um,"
+    },
+    {
+      "start": 2300.49,
+      "end": 2302.74,
+      "text": "different data leaders come together, um,"
+    },
+    {
+      "start": 2302.95,
+      "end": 2304.66,
+      "text": "to obviously share practice,"
+    },
+    {
+      "start": 2304.66,
+      "end": 2306.86,
+      "text": "but also to discuss where are the gaps,"
+    },
+    {
+      "start": 2307.12,
+      "end": 2310.53,
+      "text": "what help do people need, um, and those sorts of things."
+    },
+    {
+      "start": 2310.64,
+      "end": 2314.26,
+      "text": "So that are probably the two key ways that we think about"
+    },
+    {
+      "start": 2314.26,
+      "end": 2316.2,
+      "text": "what those gaps are and, um,"
+    },
+    {
+      "start": 2316.22,
+      "end": 2318.8,
+      "text": "and what might be needed, um, to be filled in future"
+    },
+    {
+      "start": 2320.61,
+      "end": 2323.3,
+      "text": "And directly in the IDI context when it comes to gaps"
+    },
+    {
+      "start": 2323.57,
+      "end": 2324.62,
+      "text": "and potential new data."
+    },
+    {
+      "start": 2324.89,
+      "end": 2328.22,
+      "text": "Um, so we've got a lot of researchers working in here"
+    },
+    {
+      "start": 2328.24,
+      "end": 2330.43,
+      "text": "and sometimes they'll say, you know, this data set"
+    },
+    {
+      "start": 2330.43,
+      "end": 2332.39,
+      "text": "that we would like to be able to use doesn't exist in here."
+    },
+    {
+      "start": 2332.39,
+      "end": 2334.18,
+      "text": "And so we talk to 'em about what that might be."
+    },
+    {
+      "start": 2334.18,
+      "end": 2337.03,
+      "text": "Sometimes they know where that data exists, and so we can go"
+    },
+    {
+      "start": 2337.03,
+      "end": 2338.03,
+      "text": "and talk to that organization."
+    },
+    {
+      "start": 2338.03,
+      "end": 2339.22,
+      "text": "Sometimes they might not know that,"
+    },
+    {
+      "start": 2339.22,
+      "end": 2341.43,
+      "text": "and we have to see if we can figure that out."
+    },
+    {
+      "start": 2341.68,
+      "end": 2344.78,
+      "text": "Um, some of the fundamental questions then are, you know,"
+    },
+    {
+      "start": 2344.78,
+      "end": 2346.78,
+      "text": "does that data exist in the form that they want?"
+    },
+    {
+      "start": 2346.89,
+      "end": 2349.59,
+      "text": "And if it does, is it already held by government?"
+    },
+    {
+      "start": 2349.72,
+      "end": 2350.74,
+      "text": "It may, it may not be."
+    },
+    {
+      "start": 2351.05,
+      "end": 2352.7,
+      "text": "Um, it may exist"
+    },
+    {
+      "start": 2352.72,
+      "end": 2355.99,
+      "text": "and be held by either a organization within a sector"
+    },
+    {
+      "start": 2356.32,
+      "end": 2357.55,
+      "text": "or privately."
+    },
+    {
+      "start": 2357.64,
+      "end": 2360.34,
+      "text": "And so it's whether or not we're able to access that data"
+    },
+    {
+      "start": 2360.84,
+      "end": 2362.95,
+      "text": "and then sometimes data that people would like to be able"
+    },
+    {
+      "start": 2362.95,
+      "end": 2364.74,
+      "text": "to use in research, um, you know,"
+    },
+    {
+      "start": 2364.89,
+      "end": 2366.62,
+      "text": "is not systematically collected at all."
+    },
+    {
+      "start": 2366.76,
+      "end": 2370.34,
+      "text": "And so then it's a question of is there enough value in"
+    },
+    {
+      "start": 2370.34,
+      "end": 2371.95,
+      "text": "that data for it to be collected in the future,"
+    },
+    {
+      "start": 2371.99,
+      "end": 2374.95,
+      "text": "which is the kind of data investment plan lens on it."
+    },
+    {
+      "start": 2375.09,
+      "end": 2377.03,
+      "text": "Um, so I would say"
+    },
+    {
+      "start": 2377.55,
+      "end": 2380.11,
+      "text": "researcher requests definitely drive a lot of our activity"
+    },
+    {
+      "start": 2380.12,
+      "end": 2381.95,
+      "text": "to try and go out and find new data."
+    },
+    {
+      "start": 2382.05,
+      "end": 2384.3,
+      "text": "And so the more researchers that are clamoring"
+    },
+    {
+      "start": 2384.3,
+      "end": 2386.22,
+      "text": "for a particular data set, the more effort we would then put"
+    },
+    {
+      "start": 2386.22,
+      "end": 2387.99,
+      "text": "into trying to find that data and negotiate"
+    },
+    {
+      "start": 2387.99,
+      "end": 2389.95,
+      "text": "with whoever might hold that data to bring it in."
+    },
+    {
+      "start": 2390.01,
+      "end": 2393.14,
+      "text": "So we do have a kind of a, a process for trying"
+    },
+    {
+      "start": 2393.14,
+      "end": 2394.95,
+      "text": "to bring new data in on an ongoing basis"
+    },
+    {
+      "start": 2395.05,
+      "end": 2396.91,
+      "text": "and in a way of prioritizing that."
+    },
+    {
+      "start": 2397.22,
+      "end": 2401.62,
+      "text": "Yeah. Okay. I, there's a supplement actually is, um, so a,"
+    },
+    {
+      "start": 2401.74,
+      "end": 2404.18,
+      "text": "a very, uh, local example, it's of interest"
+    },
+    {
+      "start": 2404.18,
+      "end": 2407.51,
+      "text": "to me is in Queensland Lake District where the, uh,"
+    },
+    {
+      "start": 2407.82,
+      "end": 2411.74,
+      "text": "physics New Zealand data set that is then to inform sort"
+    },
+    {
+      "start": 2411.74,
+      "end": 2412.95,
+      "text": "of population projections have"
+    },
+    {
+      "start": 2412.95,
+      "end": 2414.11,
+      "text": "consistently been undercooked."
+    },
+    {
+      "start": 2414.36,
+      "end": 2415.3,
+      "text": "Um, it's just been"
+    },
+    {
+      "start": 2415.3,
+      "end": 2416.39,
+      "text": "a challenge that's been there for decades."
+    },
+    {
+      "start": 2416.57,
+      "end": 2418.7,
+      "text": "Mm-hmm. Uh, local government, um,"
+    },
+    {
+      "start": 2418.89,
+      "end": 2420.86,
+      "text": "has arguably better data sets in terms of"
+    },
+    {
+      "start": 2420.86,
+      "end": 2422.14,
+      "text": "that but's still arguably not good enough."
+    },
+    {
+      "start": 2422.32,
+      "end": 2424.66,
+      "text": "Um, yeah, because it's, it's very challenging to,"
+    },
+    {
+      "start": 2424.84,
+      "end": 2427.11,
+      "text": "to virtually map what the, what the growth profile will be."
+    },
+    {
+      "start": 2427.12,
+      "end": 2429.99,
+      "text": "But that has direct implications for decisions around, um,"
+    },
+    {
+      "start": 2430.61,
+      "end": 2433.26,
+      "text": "uh, early childhood, uh, development, primary school,"
+    },
+    {
+      "start": 2433.34,
+      "end": 2436.59,
+      "text": "secondary school roading, uh, you know,"
+    },
+    {
+      "start": 2436.86,
+      "end": 2439.59,
+      "text": "electricity infrastructure, you know, the list goes on."
+    },
+    {
+      "start": 2440.09,
+      "end": 2442.99,
+      "text": "Um, so, so actually having a good data set is really"
+    },
+    {
+      "start": 2442.99,
+      "end": 2445.66,
+      "text": "important, but more than that is, it's also making sure"
+    },
+    {
+      "start": 2445.66,
+      "end": 2448.07,
+      "text": "that data set is available to the different organizations"
+    },
+    {
+      "start": 2448.07,
+      "end": 2451.51,
+      "text": "who often have their own, um, uh,"
+    },
+    {
+      "start": 2451.51,
+      "end": 2452.64,
+      "text": "projections that they're relying on."
+    },
+    {
+      "start": 2452.86,
+      "end": 2454.47,
+      "text": "And I, and I think I understand there should be some"
+    },
+    {
+      "start": 2454.47,
+      "end": 2455.72,
+      "text": "reliance on statistics New Zealand,"
+    },
+    {
+      "start": 2455.78,
+      "end": 2458.76,
+      "text": "but when you have a, that, that challenge, so,"
+    },
+    {
+      "start": 2458.76,
+      "end": 2461.84,
+      "text": "so I guess the question is, are you able to, A,"
+    },
+    {
+      "start": 2462.22,
+      "end": 2463.8,
+      "text": "use the local governments data sets?"
+    },
+    {
+      "start": 2464.39,
+      "end": 2467.28,
+      "text": "B is, is there scope to actually have, um,"
+    },
+    {
+      "start": 2467.59,
+      "end": 2470.03,
+      "text": "a more robust data sets that are in real time"
+    },
+    {
+      "start": 2470.66,
+      "end": 2473.11,
+      "text": "that can be used to help inform those planning decisions"
+    },
+    {
+      "start": 2473.11,
+      "end": 2474.8,
+      "text": "that need to be made across multiple domains?"
+    },
+    {
+      "start": 2477.34,
+      "end": 2478.95,
+      "text": "I think your question is probably more about the"
+    },
+    {
+      "start": 2478.95,
+      "end": 2482.66,
+      "text": "production of statistics at that kind of sub-national level."
+    },
+    {
+      "start": 2482.74,
+      "end": 2484.62,
+      "text": "Like how much do we understand local"
+    },
+    {
+      "start": 2484.89,
+      "end": 2487.95,
+      "text": "and regional communities more than it is about data"
+    },
+    {
+      "start": 2487.95,
+      "end": 2490.91,
+      "text": "that we would seek to bring into the IDI, I mean,"
+    },
+    {
+      "start": 2490.91,
+      "end": 2492.74,
+      "text": "I completely agree that that sort of data is needed"
+    },
+    {
+      "start": 2492.74,
+      "end": 2495.01,
+      "text": "For decisions that you were absolutely laying out there."
+    },
+    {
+      "start": 2495.22,
+      "end": 2497.72,
+      "text": "Um, I'm sort of wondering whether with the, the information"
+    },
+    {
+      "start": 2497.72,
+      "end": 2501.32,
+      "text": "that's an integrated data set, uh, if there is scope"
+    },
+    {
+      "start": 2501.86,
+      "end": 2505.93,
+      "text": "to have a, have a more comprehensive, um, data set that's,"
+    },
+    {
+      "start": 2505.93,
+      "end": 2507.84,
+      "text": "that's available at that integrated level. So"
+    },
+    {
+      "start": 2507.84,
+      "end": 2509.16,
+      "text": "We do have help inform decision making."
+    },
+    {
+      "start": 2509.24,
+      "end": 2513.89,
+      "text": "Yeah. So we do have, um, so based on, um, data in the IDI,"
+    },
+    {
+      "start": 2514.11,
+      "end": 2516.84,
+      "text": "um, we've been producing annually, um,"
+    },
+    {
+      "start": 2517.11,
+      "end": 2521.41,
+      "text": "an administrative data population, um, set of statistics,"
+    },
+    {
+      "start": 2521.91,
+      "end": 2524.09,
+      "text": "um, they've been experimental in the sense"
+    },
+    {
+      "start": 2524.09,
+      "end": 2526.84,
+      "text": "that obviously we're still working on the methods, um,"
+    },
+    {
+      "start": 2527.14,
+      "end": 2531.41,
+      "text": "but that, uh, that data set is available annually, um,"
+    },
+    {
+      "start": 2532.07,
+      "end": 2534.89,
+      "text": "and give some insight, not the full insight"
+    },
+    {
+      "start": 2534.91,
+      "end": 2538.36,
+      "text": "that you would get every five years from the census,"
+    },
+    {
+      "start": 2538.66,
+      "end": 2542.84,
+      "text": "but, um, but that's been an addition, um, of a sort"
+    },
+    {
+      "start": 2542.84,
+      "end": 2545.68,
+      "text": "of more integrated set that's been made available in terms"
+    },
+    {
+      "start": 2545.7,
+      "end": 2547.93,
+      "text": "of, um, population change."
+    },
+    {
+      "start": 2548.99,
+      "end": 2553.49,
+      "text": "Um, and I think in terms of the shift in the census model,"
+    },
+    {
+      "start": 2554.26,
+      "end": 2558.05,
+      "text": "um, one of the, the benefits from moving, um,"
+    },
+    {
+      "start": 2558.8,
+      "end": 2562.76,
+      "text": "away from counting every five years is that, you know,"
+    },
+    {
+      "start": 2562.76,
+      "end": 2566.12,
+      "text": "we'll have annual census information available, um,"
+    },
+    {
+      "start": 2566.14,
+      "end": 2569.16,
+      "text": "in detail, which means that we have, uh,"
+    },
+    {
+      "start": 2569.16,
+      "end": 2571.93,
+      "text": "earlier insight into some of those population changes,"
+    },
+    {
+      "start": 2572.47,
+      "end": 2575.2,
+      "text": "but equally it can be integrated more regularly in"
+    },
+    {
+      "start": 2575.2,
+      "end": 2578.01,
+      "text": "with the data that we already have to help, I think,"
+    },
+    {
+      "start": 2578.01,
+      "end": 2580.12,
+      "text": "provide some of the insights that you may be looking,"
+    },
+    {
+      "start": 2580.43,
+      "end": 2581.68,
+      "text": "um, looking for."
+    },
+    {
+      "start": 2581.82,
+      "end": 2585.12,
+      "text": "So, um, that's, that's certainly part of our future work."
+    },
+    {
+      "start": 2586.14,
+      "end": 2587.84,
+      "text": "And just a little bit on that."
+    },
+    {
+      "start": 2587.91,
+      "end": 2588.93,
+      "text": "So just think about sort"
+    },
+    {
+      "start": 2588.93,
+      "end": 2590.72,
+      "text": "of the vulnerable populations across New Zealand."
+    },
+    {
+      "start": 2590.74,
+      "end": 2592.41,
+      "text": "Yes. Uh, both, um, vulnerable"
+    },
+    {
+      "start": 2592.41,
+      "end": 2594.72,
+      "text": "because of isolation geographically, uh,"
+    },
+    {
+      "start": 2594.72,
+      "end": 2596.16,
+      "text": "but also say, you know, um,"
+    },
+    {
+      "start": 2596.16,
+      "end": 2597.97,
+      "text": "living in garages, uh, absolutely."
+    },
+    {
+      "start": 2598.07,
+      "end": 2601.53,
+      "text": "Et cetera. Yeah. Uh, how, how, how much"
+    },
+    {
+      "start": 2602.41,
+      "end": 2606.32,
+      "text": "confidence, uh, sort of can you have at this point,"
+    },
+    {
+      "start": 2606.34,
+      "end": 2609.2,
+      "text": "and in, in terms of the data collection that's happening,"
+    },
+    {
+      "start": 2609.2,
+      "end": 2613.49,
+      "text": "that, that comes in this data set relied on decision makers"
+    },
+    {
+      "start": 2613.49,
+      "end": 2615.16,
+      "text": "in terms of policies, decision making?"
+    },
+    {
+      "start": 2616.53,
+      "end": 2618.11,
+      "text": "Uh, so we probably have some other people"
+    },
+    {
+      "start": 2618.22,
+      "end": 2621.55,
+      "text": "who can speak more, um, in depth about, um,"
+    },
+    {
+      "start": 2621.8,
+      "end": 2622.84,
+      "text": "about homelessness."
+    },
+    {
+      "start": 2622.86,
+      "end": 2627.8,
+      "text": "What I can say is, so from the 2023 census work that we did,"
+    },
+    {
+      "start": 2628.38,
+      "end": 2632.91,
+      "text": "um, we recognize, obviously we in our collection, um, try"
+    },
+    {
+      "start": 2632.91,
+      "end": 2637.36,
+      "text": "to engage, um, uh, and capture, um, homeless homelessness."
+    },
+    {
+      "start": 2637.93,
+      "end": 2639.72,
+      "text": "Um, but we also work with a range"
+    },
+    {
+      "start": 2639.72,
+      "end": 2643.88,
+      "text": "of different organizations, um, who, uh,"
+    },
+    {
+      "start": 2644.22,
+      "end": 2647.07,
+      "text": "are more who work with, um, those populations,"
+    },
+    {
+      "start": 2647.07,
+      "end": 2650.2,
+      "text": "those vulnerable people, um, more often every day."
+    },
+    {
+      "start": 2650.38,
+      "end": 2654.55,
+      "text": "And so, um, through our collective efforts, um, we were able"
+    },
+    {
+      "start": 2654.57,
+      "end": 2659.03,
+      "text": "to, um, subsequently provide, um, an estimate of the, um,"
+    },
+    {
+      "start": 2659.03,
+      "end": 2662.28,
+      "text": "of the amount of homelessness, um, in New Zealand, um,"
+    },
+    {
+      "start": 2662.41,
+      "end": 2665.16,
+      "text": "in terms of our, our work, um, since census"
+    },
+    {
+      "start": 2665.78,
+      "end": 2668.03,
+      "text": "that's really been with, um, housing"
+    },
+    {
+      "start": 2668.05,
+      "end": 2669.51,
+      "text": "and urban development, um,"
+    },
+    {
+      "start": 2669.57,
+      "end": 2673.41,
+      "text": "and other agencies working on, um, how best to"
+    },
+    {
+      "start": 2674.11,
+      "end": 2678.24,
+      "text": "provide, um, estimates of homelessness, um, outside"
+    },
+    {
+      "start": 2678.24,
+      "end": 2681.16,
+      "text": "of the census, um, uh, collection that we've,"
+    },
+    {
+      "start": 2681.16,
+      "end": 2682.57,
+      "text": "we've done in 2023."
+    },
+    {
+      "start": 2683.03,
+      "end": 2685.8,
+      "text": "Um, but if you want more information about, um,"
+    },
+    {
+      "start": 2685.82,
+      "end": 2690.36,
+      "text": "how we are working in that, um, uh, how are we going"
+    },
+    {
+      "start": 2690.36,
+      "end": 2693.49,
+      "text": "to capture, uh, vulnerable populations, um, we've got people"
+    },
+    {
+      "start": 2693.59,
+      "end": 2695.28,
+      "text": "who, um, could talk to the committee"
+    },
+    {
+      "start": 2695.43,
+      "end": 2697.16,
+      "text": "or provide information thanks."
+    },
+    {
+      "start": 2697.16,
+      "end": 2699.16,
+      "text": "And that, would that be the same for these, uh, sort of"
+    },
+    {
+      "start": 2699.89,
+      "end": 2702.41,
+      "text": "isolated rural communities or, and sort of households"
+    },
+    {
+      "start": 2702.86,
+      "end": 2704.76,
+      "text": "and sort of, that may not be, you know,"
+    },
+    {
+      "start": 2704.76,
+      "end": 2706.45,
+      "text": "particularly digitally connected, um, but,"
+    },
+    {
+      "start": 2706.45,
+      "end": 2707.84,
+      "text": "and both, both individually,"
+    },
+    {
+      "start": 2707.84,
+      "end": 2710.8,
+      "text": "but also sort of at a, at a governance level,"
+    },
+    {
+      "start": 2711.93,
+      "end": 2715.55,
+      "text": "I think, um, it, it really do, um,"
+    },
+    {
+      "start": 2715.89,
+      "end": 2717.91,
+      "text": "it's somewhat dependent on, um,"
+    },
+    {
+      "start": 2718.49,
+      "end": 2721.74,
+      "text": "how different people interact with, you know, government,"
+    },
+    {
+      "start": 2722.36,
+      "end": 2723.78,
+      "text": "uh, administrative data, how they,"
+    },
+    {
+      "start": 2724.09,
+      "end": 2726.11,
+      "text": "how they show up in administrative data."
+    },
+    {
+      "start": 2726.53,
+      "end": 2731.51,
+      "text": "So, um, uh, so we do, we do capture a range of, um,"
+    },
+    {
+      "start": 2731.89,
+      "end": 2736.22,
+      "text": "um, cross-section of populations within our, um, uh,"
+    },
+    {
+      "start": 2736.22,
+      "end": 2737.47,
+      "text": "within the administrative data"
+    },
+    {
+      "start": 2737.47,
+      "end": 2739.55,
+      "text": "that obviously feeds into the IDI,"
+    },
+    {
+      "start": 2739.55,
+      "end": 2741.74,
+      "text": "but then also underpins our, um,"
+    },
+    {
+      "start": 2742.32,
+      "end": 2744.7,
+      "text": "popul our broader population estimates."
+    },
+    {
+      "start": 2745.12,
+      "end": 2749.3,
+      "text": "So, um, it can vary depending on, um, location"
+    },
+    {
+      "start": 2749.72,
+      "end": 2751.03,
+      "text": "and, um,"
+    },
+    {
+      "start": 2751.89,
+      "end": 2753.91,
+      "text": "and different attributes that people have,"
+    },
+    {
+      "start": 2754.16,
+      "end": 2755.62,
+      "text": "um, as individuals too."
+    },
+    {
+      "start": 2756.01,
+      "end": 2758.86,
+      "text": "Thanks la Yeah, just very quickly through the chair."
+    },
+    {
+      "start": 2758.86,
+      "end": 2762.3,
+      "text": "Thank you. Um, just in terms of the switch"
+    },
+    {
+      "start": 2762.89,
+      "end": 2767.43,
+      "text": "little from an annual to versus the current model,"
+    },
+    {
+      "start": 2768.01,
+      "end": 2769.66,
+      "text": "um, the insights you talked about,"
+    },
+    {
+      "start": 2769.84,
+      "end": 2773.14,
+      "text": "how variable are those in different, different regions,"
+    },
+    {
+      "start": 2773.14,
+      "end": 2775.34,
+      "text": "different, um, parts of the population?"
+    },
+    {
+      "start": 2776.24,
+      "end": 2777.7,
+      "text": "Um, yeah."
+    },
+    {
+      "start": 2777.84,
+      "end": 2780.11,
+      "text": "And do you, and, and just following on from that,"
+    },
+    {
+      "start": 2780.12,
+      "end": 2783.55,
+      "text": "is the comparative analysis collecting it"
+    },
+    {
+      "start": 2783.57,
+      "end": 2785.86,
+      "text": "as a one year versus the five year?"
+    },
+    {
+      "start": 2786.68,
+      "end": 2789.55,
+      "text": "Um, so as I said, we, we probably have some people"
+    },
+    {
+      "start": 2789.64,
+      "end": 2793.07,
+      "text": "who can speak far more in depth to, um, yeah,"
+    },
+    {
+      "start": 2793.07,
+      "end": 2794.95,
+      "text": "to our population statistics, but,"
+    },
+    {
+      "start": 2795.2,
+      "end": 2798.91,
+      "text": "but certainly in the context of the IDI, um, being a,"
+    },
+    {
+      "start": 2798.91,
+      "end": 2801.86,
+      "text": "having more regular data available means"
+    },
+    {
+      "start": 2801.86,
+      "end": 2804.18,
+      "text": "that it can go into the IDI and be integrated"
+    },
+    {
+      "start": 2804.24,
+      "end": 2805.74,
+      "text": "and provide insights that you wouldn't"
+    },
+    {
+      "start": 2805.74,
+      "end": 2807.86,
+      "text": "otherwise get if you had to wait every five years."
+    },
+    {
+      "start": 2808.01,
+      "end": 2809.51,
+      "text": "That's probably the key point. Yeah."
+    },
+    {
+      "start": 2810.2,
+      "end": 2812.26,
+      "text": "Thank you, Mr. Chair."
+    },
+    {
+      "start": 2812.32,
+      "end": 2815.07,
+      "text": "Um, just thinking about how you collect"
+    },
+    {
+      "start": 2815.07,
+      "end": 2818.26,
+      "text": "that data from other providers, does the"
+    },
+    {
+      "start": 2819.11,
+      "end": 2821.62,
+      "text": "software hardware make a difference?"
+    },
+    {
+      "start": 2821.62,
+      "end": 2824.03,
+      "text": "Like, is it easily imported into your system"
+    },
+    {
+      "start": 2824.12,
+      "end": 2827.51,
+      "text": "or do you have to manually reenter it"
+    },
+    {
+      "start": 2828.05,
+      "end": 2829.34,
+      "text": "So we don't manually reenter it?"
+    },
+    {
+      "start": 2829.34,
+      "end": 2833.14,
+      "text": "No. So, um, I guess they collect it in their systems."
+    },
+    {
+      "start": 2833.36,
+      "end": 2834.62,
+      "text": "We work with them to figure out a way"
+    },
+    {
+      "start": 2834.62,
+      "end": 2837.22,
+      "text": "that they can output it in a file that can be sent to us,"
+    },
+    {
+      "start": 2837.36,
+      "end": 2839.91,
+      "text": "and then that file is brought into our systems."
+    },
+    {
+      "start": 2840.2,
+      "end": 2844.82,
+      "text": "Um, we have secure transfer mechanisms, um, to make sure"
+    },
+    {
+      "start": 2844.82,
+      "end": 2846.74,
+      "text": "that, you know, when it goes from their organization"
+    },
+    {
+      "start": 2846.74,
+      "end": 2849.03,
+      "text": "to ours, it does so safely and can't be intercepted."
+    },
+    {
+      "start": 2849.47,
+      "end": 2851.8,
+      "text": "But there's a lot of work in what we call data brokering,"
+    },
+    {
+      "start": 2851.8,
+      "end": 2853.49,
+      "text": "which is working with those organizations,"
+    },
+    {
+      "start": 2853.49,
+      "end": 2855.72,
+      "text": "understanding their systems, understanding the data,"
+    },
+    {
+      "start": 2855.72,
+      "end": 2857.01,
+      "text": "understanding the quality of the data"
+    },
+    {
+      "start": 2857.47,
+      "end": 2858.93,
+      "text": "before it comes into our system."
+    },
+    {
+      "start": 2859.03,
+      "end": 2861.24,
+      "text": "So it's a key part of what we do, trying to figure that out."
+    },
+    {
+      "start": 2861.26,
+      "end": 2863.76,
+      "text": "Right. 'cause I understand too from the health sector,"
+    },
+    {
+      "start": 2863.86,
+      "end": 2866.16,
+      "text": "especially primary health, is"
+    },
+    {
+      "start": 2866.16,
+      "end": 2869.41,
+      "text": "that GP practices have different software programs"
+    },
+    {
+      "start": 2869.41,
+      "end": 2871.32,
+      "text": "that they use and they don't talk to each other."
+    },
+    {
+      "start": 2871.99,
+      "end": 2874.8,
+      "text": "Yes. So it makes it difficult to collate that information."
+    },
+    {
+      "start": 2874.95,
+      "end": 2876.53,
+      "text": "That's right. So I was just wondering if that was a,"
+    },
+    {
+      "start": 2876.7,
+      "end": 2879.12,
+      "text": "you know, applied across different other agencies."
+    },
+    {
+      "start": 2880.09,
+      "end": 2881.49,
+      "text": "I think it's a effective, for us, it's definitely"
+    },
+    {
+      "start": 2881.49,
+      "end": 2882.89,
+      "text": "effective for what I was talking about earlier about,"
+    },
+    {
+      "start": 2882.89,
+      "end": 2884.36,
+      "text": "you know, is health able to bring"
+    },
+    {
+      "start": 2884.36,
+      "end": 2886.01,
+      "text": "that primary care data together."
+    },
+    {
+      "start": 2886.26,
+      "end": 2890.76,
+      "text": "So we just work with what organizations have, um,"
+    },
+    {
+      "start": 2891.03,
+      "end": 2892.97,
+      "text": "and hopefully they're applying standards,"
+    },
+    {
+      "start": 2892.97,
+      "end": 2895.05,
+      "text": "and if they are, that's great and it makes it easier for us,"
+    },
+    {
+      "start": 2895.11,
+      "end": 2897.68,
+      "text": "but we, if the data is a high priority, we just work"
+    },
+    {
+      "start": 2897.68,
+      "end": 2899.36,
+      "text": "with them to be able to get it into our systems."
+    },
+    {
+      "start": 2899.53,
+      "end": 2902.12,
+      "text": "Great. And can you just, um, tell us a little bit about"
+    },
+    {
+      "start": 2902.12,
+      "end": 2905.09,
+      "text": "what the longitudinal business database is?"
+    },
+    {
+      "start": 2906.03,
+      "end": 2907.72,
+      "text": "Oh, the longitudinal business database? Yeah."
+    },
+    {
+      "start": 2907.93,
+      "end": 2912.72,
+      "text": "So, um, so it's, uh, it brings together, uh,"
+    },
+    {
+      "start": 2913.28,
+      "end": 2915.64,
+      "text": "a lot of our economic and business data, um,"
+    },
+    {
+      "start": 2916.14,
+      "end": 2919.8,
+      "text": "and longitudinal as in, um, shows time series over time."
+    },
+    {
+      "start": 2920.51,
+      "end": 2923.8,
+      "text": "Um, it's an integrated database, so, um, yeah,"
+    },
+    {
+      "start": 2923.8,
+      "end": 2924.89,
+      "text": "brings those all together"
+    },
+    {
+      "start": 2924.99,
+      "end": 2928.93,
+      "text": "and is available for, uh, people to do economic research."
+    },
+    {
+      "start": 2929.14,
+      "end": 2930.68,
+      "text": "So some of the work"
+    },
+    {
+      "start": 2930.68,
+      "end": 2933.12,
+      "text": "that gets done in the longitudinal business"
+    },
+    {
+      "start": 2933.64,
+      "end": 2937.93,
+      "text": "database studies on, um, productivity, uh,"
+    },
+    {
+      "start": 2938.32,
+      "end": 2941.84,
+      "text": "aspects of innovation, um, those sorts of things."
+    },
+    {
+      "start": 2942.26,
+      "end": 2946.93,
+      "text": "So yeah, uh, providing, uh, insights for, uh, policy,"
+    },
+    {
+      "start": 2947.53,
+      "end": 2950.41,
+      "text": "economic, um, policy, competition,"
+    },
+    {
+      "start": 2950.55,
+      "end": 2952.05,
+      "text": "policy, those sorts of things."
+    },
+    {
+      "start": 2952.66,
+      "end": 2955.36,
+      "text": "And, and what, uh, what does data, that data back"
+    },
+    {
+      "start": 2955.36,
+      "end": 2956.41,
+      "text": "to when, when did it begin?"
+    },
+    {
+      "start": 2956.55,
+      "end": 2958.36,
+      "text": "And, um, and so what sources"
+    },
+    {
+      "start": 2958.47,
+      "end": 2959.76,
+      "text": "of data are you drawing that from?"
+    },
+    {
+      "start": 2962.74,
+      "end": 2965.01,
+      "text": "I don't have that information with me. Yeah."
+    },
+    {
+      "start": 2965.07,
+      "end": 2968.41,
+      "text": "Um, I would say often the data dates back 15"
+    },
+    {
+      "start": 2968.47,
+      "end": 2970.18,
+      "text": "or 20 years, but not in all cases."
+    },
+    {
+      "start": 2971.09,
+      "end": 2972.57,
+      "text": "Yeah, we have that information. Yeah."
+    },
+    {
+      "start": 2972.57,
+      "end": 2974.45,
+      "text": "So we can, yeah, we can provide you,"
+    },
+    {
+      "start": 2974.59,
+      "end": 2977.3,
+      "text": "so we've got a similar picture to the one with the IDI,"
+    },
+    {
+      "start": 2977.3,
+      "end": 2979.18,
+      "text": "which outlines all of the data sets"
+    },
+    {
+      "start": 2979.18,
+      "end": 2980.26,
+      "text": "and how far they go back."
+    },
+    {
+      "start": 2980.57,
+      "end": 2984.09,
+      "text": "They're a mixture of data, data from Statistic New Zealand,"
+    },
+    {
+      "start": 2984.32,
+      "end": 2986.82,
+      "text": "but they're also, um, a range of, uh,"
+    },
+    {
+      "start": 2986.82,
+      "end": 2989.01,
+      "text": "other government departments as well. Yeah."
+    },
+    {
+      "start": 2989.28,
+      "end": 2992.66,
+      "text": "So I can make mine start just if you had something like"
+    },
+    {
+      "start": 2992.66,
+      "end": 2994.22,
+      "text": "that, that the database"
+    },
+    {
+      "start": 2994.22,
+      "end": 2995.97,
+      "text": "and there were bits of that information"
+    },
+    {
+      "start": 2996.41,
+      "end": 2997.45,
+      "text": "that weren't present."
+    },
+    {
+      "start": 2997.8,
+      "end": 3000.3,
+      "text": "So for example, I'm thinking about restraints of trade,"
+    },
+    {
+      "start": 3000.7,
+      "end": 3004.45,
+      "text": "which are covered in the private agreements,"
+    },
+    {
+      "start": 3004.51,
+      "end": 3008.14,
+      "text": "but in fact there's a public interest in what would happen,"
+    },
+    {
+      "start": 3008.91,
+      "end": 3010.01,
+      "text": "how would someone say,"
+    },
+    {
+      "start": 3010.45,
+      "end": 3012.89,
+      "text": "actually we are missing this information legislature."
+    },
+    {
+      "start": 3013.36,
+      "end": 3016.76,
+      "text": "We really need to change the law so"
+    },
+    {
+      "start": 3016.76,
+      "end": 3020.84,
+      "text": "that we can gather this data for our public interest."
+    },
+    {
+      "start": 3021.66,
+      "end": 3025.84,
+      "text": "How would that occur? Would it be you as an agency"
+    },
+    {
+      "start": 3025.84,
+      "end": 3028.16,
+      "text": "that said, we've seen this gap,"
+    },
+    {
+      "start": 3028.39,
+      "end": 3031.36,
+      "text": "or would it be the people involved in the research,"
+    },
+    {
+      "start": 3031.59,
+      "end": 3032.61,
+      "text": "or would it be both?"
+    },
+    {
+      "start": 3032.78,
+      "end": 3037.24,
+      "text": "Mm-hmm. Is there a mechanism to tell us that we need"
+    },
+    {
+      "start": 3037.24,
+      "end": 3040.84,
+      "text": "to include in our legislation new requests"
+    },
+    {
+      "start": 3040.86,
+      "end": 3043.01,
+      "text": "for information when that's appropriate?"
+    },
+    {
+      "start": 3044.66,
+      "end": 3047.53,
+      "text": "Um, so I think one of the mechanisms, um, for us"
+    },
+    {
+      "start": 3047.55,
+      "end": 3051.72,
+      "text": "as a department, uh, is we, as I said, like we have regular,"
+    },
+    {
+      "start": 3052.14,
+      "end": 3055.61,
+      "text": "um, we, we have a forum where we get together, um,"
+    },
+    {
+      "start": 3055.64,
+      "end": 3057.8,
+      "text": "with other people from other departments."
+    },
+    {
+      "start": 3058.26,
+      "end": 3061.8,
+      "text": "And so through that we are aware of different legislation"
+    },
+    {
+      "start": 3061.8,
+      "end": 3062.8,
+      "text": "that's being developed."
+    },
+    {
+      "start": 3063.07,
+      "end": 3067.28,
+      "text": "And so, um, our role in that is, is to have a look at,"
+    },
+    {
+      "start": 3067.39,
+      "end": 3068.64,
+      "text": "so what are the opportunities?"
+    },
+    {
+      "start": 3069.47,
+      "end": 3073.41,
+      "text": "Yeah, so we'll, we provide, um, comments on cabinet papers"
+    },
+    {
+      "start": 3073.7,
+      "end": 3078.16,
+      "text": "and, and uh, legislation so that, you know, this side of,"
+    },
+    {
+      "start": 3078.22,
+      "end": 3081.36,
+      "text": "um, uh, yeah, this side of, uh, what we do."
+    },
+    {
+      "start": 3082.03,
+      "end": 3084.24,
+      "text": "Um, yeah, it does recognize the,"
+    },
+    {
+      "start": 3084.34,
+      "end": 3086.61,
+      "text": "the data opportunities, um, within it."
+    },
+    {
+      "start": 3086.86,
+      "end": 3089.45,
+      "text": "Um, yeah. And, and obviously ministers can make choices"
+    },
+    {
+      "start": 3089.53,
+      "end": 3091.64,
+      "text": "about whether they include that or not."
+    },
+    {
+      "start": 3091.64,
+      "end": 3093.12,
+      "text": "Thank you very much problem."
+    },
+    {
+      "start": 3093.78,
+      "end": 3094.72,
+      "text": "Thank very much. It's been"
+    },
+    {
+      "start": 3094.72,
+      "end": 3096.16,
+      "text": "very interesting. Appreciate you coming in."
+    },
+    {
+      "start": 3096.47,
+      "end": 3100.61,
+      "text": "No worries. Thank you. Thank Terms"
+    },
+    {
+      "start": 3100.61,
+      "end": 3102.89,
+      "text": "of next steps might just park back next week."
+    },
+    {
+      "start": 3103.22,
+      "end": 3105.97,
+      "text": "Thank, um, just the one other item of business news use"
+    },
+    {
+      "start": 3105.97,
+      "end": 3108.89,
+      "text": "for release you, um, just a."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_12 - SSC (Part 2) - vimeo_1135869362\\2025_11_12 - SSC (Part 2) - vimeo_1135869362.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135869362",
+    "display_id": "1135869362",
+    "title": "2025/11/12 - SSC (Part 2)",
+    "description": "Wednesday, 12 November 2025 | Social Services and Community Committee\nBriefing on the Integrated Data Infrastructure\u00a0\u00a0\n  Statistics New Zealand \n\nRachael Milicich, Deputy Government Statistician and Deputy Chief Executive for Insights & Statistics\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nSimon Ross, General Manager, Data Operations and Infrastructure\u00a0\u00a0\u00a0\u00a0",
+    "webpage_url": "https://vimeo.com/1135869362",
+    "original_url": "https://vimeo.com/1135869362",
+    "upload_date": "20251112",
+    "timestamp": 1762909238,
+    "release_timestamp": 1762909247,
+    "duration": 3135,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081451059-170d1faa303c604cfe2d8ccd95b4b0c3615dc19be6dcd5af505fce36e12ae6b3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264577428.vtt?expires=1778590567&sig=07b1dc6f7695d8deb08c0607c4ee1ff3b69e1fdb&download=auto_generated_captions.vtt"
+  }
+}

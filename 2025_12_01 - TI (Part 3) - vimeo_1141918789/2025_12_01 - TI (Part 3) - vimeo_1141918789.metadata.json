@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:51:11.198341+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141918789",
+  "title": "2025/12/01 - TI (Part 3)",
+  "url": "https://vimeo.com/1141918789",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 5791,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5783.32,
+    "segment_count": 2161,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - TI (Part 3) - vimeo_1141918789\\2025_12_01 - TI (Part 3) - vimeo_1141918789.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141918789",
+    "display_id": "1141918789",
+    "title": "2025/12/01 - TI (Part 3)",
+    "description": "Monday 1 December 2025 | Transport and Infrastructure Committee\n\n2024/25 Annual Review of the New Zealand Infrastructure Commission\n\nHearing of evidence:\n\nNew Zealand Infrastructure Commission, Te Waihanga\n\nRaveen Jaduram, Chair\nGeoff Cooper, Chief Executive\nAndy Hagan, General Manager \u2013 Investment\nPaul Alexander, Director Policy \u2013 Strategy\nJon Bulter, Lead Adviser, Strategy and Policy\nCaine Garrity, Chief Financial Officer\nShahlaa Al-Tiay, Manager, Ministerial Services\nJames Mugambi, Private Secretary\n\n\n2024/25 Annual review of KiwiRail Holdings Limited; Briefing on the performance of Ferry Holdings Limited; 2024/25 Annual review of the New Zealand Railways Corporation\n\nHearing of evidence:\n\nRt Hon Winston Peters, Minister for Rail\n\nKiwiRail Holdings Limited\n\nSue Tindal, Chair\nPeter Reidy, CEO\n\n\nFerry Holdings\n\nChris Mackenzie, Chair\nSandip Ranchod, CEO\nNicola Martin, Communications and Government Relations Lead",
+    "webpage_url": "https://vimeo.com/1141918789",
+    "original_url": "https://vimeo.com/1141918789",
+    "upload_date": "20251201",
+    "timestamp": 1764560068,
+    "release_timestamp": 1764560075,
+    "duration": 5791,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089811333-5ab438f7f78c3f16c92c60cb381ab99423ae8704a375298ecb1a797db4d90fd4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268599322.vtt?expires=1778590275&sig=920a60e236cd3bf4d21c9dcaf45a9dd78d3256ae&download=auto_generated_captions.vtt"
+  }
+}

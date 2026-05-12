@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:11:36.104919+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1121748841",
+  "title": "2025/09/25 - JU [Part 3]",
+  "url": "https://vimeo.com/1121748841",
+  "published_at": "20250925",
+  "published_display": "2025-09-25",
+  "duration_seconds": 3916,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3916.07,
+    "segment_count": 1423,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_25 - JU [Part 3] - vimeo_1121748841\\2025_09_25 - JU [Part 3] - vimeo_1121748841.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1121748841",
+    "display_id": "1121748841",
+    "title": "2025/09/25 - JU [Part 3]",
+    "description": "Thursday 25 September 2025 | Justice Committee\n\nElectoral Amendment Bill\n\nSubmitters:\n\nDebbie Port\n\nTe Runanga o Ngati Ruanui Trust\n- Graham Young, Policy Manager\n\nE tu\n- Karena Brown, Lead Strategic Researcher\n\nCharlotte Evans\n\nDanya Yang\n\nEthan Kehoe\n\nAndrew Riddell\n\nSimon O'Neill\n\nThe Law Association of New Zealand\n- Geoffrey Beresford, Partner, Beresford Law\n\nTaurikura NZ\n- Ana Casey-Cox,\n- Maxine van Oosten,",
+    "webpage_url": "https://vimeo.com/1121748841",
+    "original_url": "https://vimeo.com/1121748841",
+    "upload_date": "20250925",
+    "timestamp": 1758776725,
+    "release_timestamp": 1758776735,
+    "duration": 3916,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2062909970-fe6407c5fdfc9e57fab1a20e8ab88d9ee861137d408843beeb49a74b38c35345-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/255437497.vtt?expires=1778591500&sig=490e92383da11493924a2106997314cfb4f92e3d&download=auto_generated_captions.vtt"
+  }
+}

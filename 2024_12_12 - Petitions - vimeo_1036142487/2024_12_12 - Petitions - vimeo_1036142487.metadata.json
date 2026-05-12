@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:48:37.695671+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1036142487",
+  "title": "2024/12/12 - Petitions",
+  "url": "https://vimeo.com/1036142487",
+  "published_at": "20241212",
+  "published_display": "2024-12-12",
+  "duration_seconds": 3499,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3498.26,
+    "segment_count": 1214,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_12 - Petitions - vimeo_1036142487\\2024_12_12 - Petitions - vimeo_1036142487.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1036142487",
+    "display_id": "1036142487",
+    "title": "2024/12/12 - Petitions",
+    "description": "12 December 2024 | Petitions Committee\n\nPetition of Paul Barton: Make Motor Neurone Disease a Notifiable Disease; Petition of Mark Baldwin: Remove certain prescribing restrictions for Nurse Practitioners\n\nPetition of Paul Barton: Make Motor Neurone Disease a Notifiable Disease\n\nPaul Barton\n\nMinistry of Health:\n- Dr Nicholas Jones, Director of Public Health, Public Health Agency\n\nPetition of Mark Baldwin: Remove certain prescribing restrictions for Nurse Practitioners\n\nMark Baldwin\n\nNurse Practitioners New Zealand:\n- Chelsea Willmott, Chair NPNZ\n\nMedsafe:\n- Chris James, Group Manager\n- Matthew Spencer, Manager, Product Regulation\n- Susan Kenyon, Manager, Clinical Risk Management\n- Michael Haynes, Manager & Licensing Authority, Medicines Control",
+    "webpage_url": "https://vimeo.com/1036142487",
+    "original_url": "https://vimeo.com/1036142487",
+    "upload_date": "20241212",
+    "timestamp": 1733973942,
+    "release_timestamp": 1733974015,
+    "duration": 3499,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1960939494-c40f6fea57455730755649a1244f4848ee5933304ecc383dedecfda1ef0fa457-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/201979057.vtt?expires=1778590122&sig=b96f2ca9d9c1481d55add12a26a105c7e9b2b041&download=auto_generated_captions.vtt"
+  }
+}

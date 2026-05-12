@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:58:11.593048+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143604630",
+  "title": "2026/01/29 - PP",
+  "url": "https://vimeo.com/1143604630",
+  "published_at": "20260129",
+  "published_display": "2026-01-29",
+  "duration_seconds": 16995,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 16994.38,
+    "segment_count": 5347,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_01_29 - PP - vimeo_1143604630\\2026_01_29 - PP - vimeo_1143604630.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143604630",
+    "display_id": "1143604630",
+    "title": "2026/01/29 - PP",
+    "description": "Primary Production Committee | Thursday 29 January 2026\nRacing Industry (Closure of Greyhound Racing Industry) Amendment Bill\n Nastassia Archer\u00a0\n Michael Dore\u00a0\n Katie Wyllie\u00a0\n Jean Fahey\u00a0\n Brendon Burke\u00a0\n Janine McCook\u00a0\n Chloe Watson\u00a0\n Janice Sadler\u00a0\n Marie Cutler\u00a0\n David Emerson\u00a0\n Darrin Williams\u00a0\n Joanna Hardie\u00a0/ Kiwikiwi Hounds \n Andrew Grieve\u00a0\n Michael Schneider\u00a0\n Marcie Flipp\u00a0\n Stuart Duggan\u00a0\u00a0\n Alison Lee\u00a0\u00a0\n Kelly McDermott\u00a0\u00a0\n Karen Wicks\u00a0\u00a0\n Peter\u00a0Heterick\u00a0\n Mark\u00a0Rosanowski\u00a0\u00a0\u00a0\n John Roberts\u00a0\n Peter\u00a0Fenemor\u00a0\n Karen Fee\u00a0\n Daniel Roberts\u00a0\n Coalition for the protection of Greyhounds",
+    "webpage_url": "https://vimeo.com/1143604630",
+    "original_url": "https://vimeo.com/1143604630",
+    "upload_date": "20260129",
+    "timestamp": 1769646501,
+    "release_timestamp": 1769646515,
+    "duration": 16995,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113849656-cd6848d5c1b80b9d95d10aff0056cff4295645b64466774ba8ca9ddf0f87227d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279440085.vtt?expires=1778590695&sig=99f052a3fcd1850cd60ee921ee8950ae18bb3f2e&download=auto_generated_captions.vtt"
+  }
+}

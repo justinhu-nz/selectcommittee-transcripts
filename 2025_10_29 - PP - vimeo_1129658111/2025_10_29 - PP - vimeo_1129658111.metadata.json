@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T11:00:34.306740+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129658111",
+  "title": "2025/10/29 - PP",
+  "url": "https://vimeo.com/1129658111",
+  "published_at": "20251029",
+  "published_display": "2025-10-29",
+  "duration_seconds": 8878,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8869.55,
+    "segment_count": 3276,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_29 - PP - vimeo_1129658111\\2025_10_29 - PP - vimeo_1129658111.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129658111",
+    "display_id": "1129658111",
+    "title": "2025/10/29 - PP",
+    "description": "Wednesday, 29 October 2025 | Primary Production\nAnimal Welfare (Regulations for Management of Pigs) Amendment Bill",
+    "webpage_url": "https://vimeo.com/1129658111",
+    "original_url": "https://vimeo.com/1129658111",
+    "upload_date": "20251029",
+    "timestamp": 1761705504,
+    "release_timestamp": 1761705516,
+    "duration": 8878,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2076563037-45dc82a75e0413155416b3fb46efac5ca08d16553226c549e25e4df46443f3f4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/261823727.vtt?expires=1778590838&sig=b724161cd7ff215f92e8ee509fce3edf3d241346&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:54:38.063500+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142254980",
+  "title": "2025/12/03 - SSC (Part 1)",
+  "url": "https://vimeo.com/1142254980",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 9587,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9586.25,
+    "segment_count": 3505,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - SSC (Part 1) - vimeo_1142254980\\2025_12_03 - SSC (Part 1) - vimeo_1142254980.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142254980",
+    "display_id": "1142254980",
+    "title": "2025/12/03 - SSC (Part 1)",
+    "description": "Wednesday 3 December 2025 | Social Services and Community Committee\n\n2024/25 Annual review of the Ministry of Social Development\n\nThis video includes live interpreting. The goal is to provide clear and accurate information, but some details may be missed or contain errors. It is shared to give you access to the information, but please double-check any details before relying on them.\n\nHearing of evidence: \n\nHon Louise Upston, Minister for Social Development and Employment\n\nMinistry of Social Development\n\nDebbie Power, Chief Executive\nSimon MacPherson, Deputy Chief Executive, Policy\nGeorge Van Ooyen, Acting Deputy Chief Executive, Service Delivery\nKaren Hocking, Group General Manager Enablement\nMelissa Gill, Deputy Chief Executive, Organisational Assurance and Communications\nNadine Kilmister, Deputy Chief Executive, People and Capability\nMarama Edwards, Deputy Chief Executive, M\u0101ori, Communities and Partnerships\nSacha O\u2019Dea, Deputy Chief Executive, Strategy and Insights\nAnne Shaw, Deputy Chief Executive, Disability Support Services\nAlastair Hill, General Manager DSS Transformation\nJustine Cornwall, General Manager DSS Policy\nTracy Voice, Deputy Chief Executive, Transformation\nHannah Kerr, Director Child Wellbeing and Poverty Reduction",
+    "webpage_url": "https://vimeo.com/1142254980",
+    "original_url": "https://vimeo.com/1142254980",
+    "upload_date": "20251202",
+    "timestamp": 1764716959,
+    "release_timestamp": 1764716971,
+    "duration": 9587,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090464399-f0b291917021abded2c03046e6e020cfc68aab4885bfb065039fb9b71fd4ff82-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269077898.vtt?expires=1778590482&sig=e8a837c8c9c2f7631b1496a99643e0c09a0edadc&download=auto_generated_captions.vtt"
+  }
+}

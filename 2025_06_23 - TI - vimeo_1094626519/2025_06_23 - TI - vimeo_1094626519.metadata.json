@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:22.375784+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094626519",
+  "title": "2025/06/23 - TI",
+  "url": "https://vimeo.com/1094626519",
+  "published_at": "20250623",
+  "published_display": "2025-06-23",
+  "duration_seconds": 2556,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2547.38,
+    "segment_count": 828,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_23 - TI - vimeo_1094626519\\2025_06_23 - TI - vimeo_1094626519.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094626519",
+    "display_id": "1094626519",
+    "title": "2025/06/23 - TI",
+    "description": "Monday 23 June 2025 | Transport and Infrastructure Committee\n\nPublic Works (Critical Infrastructure) Amendment Bill\n\nHearing of evidence:\n\nM\u0101ori Women's Welfare League (Dr Hope Tupara, National President)\nSharon Campbell\nEnvironment and Conservation Organisations of NZ Aotearoa (Cath Wallace, Vice Chairperson)\nTranspower New Zealand Limited (Matt Fanning, Head of Land Owner Relations and Property; Raewyn Moss, Executive General Manager, Customers & External Affairs)\n\n\nFor other hearings on this bill see parts 3 and 5 of 2025/06/19",
+    "webpage_url": "https://vimeo.com/1094626519",
+    "original_url": "https://vimeo.com/1094626519",
+    "upload_date": "20250623",
+    "timestamp": 1750639679,
+    "release_timestamp": 1750639687,
+    "duration": 2556,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2029638212-7e599b63552c21ffda2ab1a386f8f063de8e13b31cc469820123778f2bc6c305-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/238356883.vtt?expires=1778590406&sig=8f5a06a335a10c6aca26b6194faea025247498b5&download=auto_generated_captions.vtt"
+  }
+}

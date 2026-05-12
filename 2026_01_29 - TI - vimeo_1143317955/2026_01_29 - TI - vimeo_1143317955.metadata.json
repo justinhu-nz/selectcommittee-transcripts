@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:50:36.892127+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143317955",
+  "title": "2026/01/29 - TI",
+  "url": "https://vimeo.com/1143317955",
+  "published_at": "20260128",
+  "published_display": "2026-01-28",
+  "duration_seconds": 5825,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5825.14,
+    "segment_count": 2068,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_01_29 - TI - vimeo_1143317955\\2026_01_29 - TI - vimeo_1143317955.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143317955",
+    "display_id": "1143317955",
+    "title": "2026/01/29 - TI",
+    "description": "29 January 2026 | Transport and Infrastructure Committee\nLife Jackets for Children and Young Persons Bill\nCameron Brewer, Member in Charge\nBuilding and Construction Sector (Self-certification by Plumbers and Drainlayers) Amendment Bill\nNew Zealand Home Hearing Association\n\nJason Hague Smith, Executive Member\n\nPlumbers, Gasfitters and Drainlayers Board\n\nAleyna Hall, Executive and Registrar\nMartin de Gouw, Chair\n\nMaster Plumbers, Gasfitters and Drainlayers NZ Inc\n\nGreg Wallace\nJoshua Harris\nLisa Onland\n\nRoss Wakefield\nBuilding and Construction Sector (Strengthening Occupational Licensing Regimes) Amendment Bill\nMaster Plumbers, Gasfitters and Drainlayers NZ Inc\n\nGreg Wallace\nJoshua Harris\nLisa Onland\n\nJohn McDonald-Wharry\nMax Marshall",
+    "webpage_url": "https://vimeo.com/1143317955",
+    "original_url": "https://vimeo.com/1143317955",
+    "upload_date": "20260128",
+    "timestamp": 1769638168,
+    "release_timestamp": 1769638182,
+    "duration": 5825,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2116628958-db6433640616ca1b1f589a7a9337ab7e454f2fd172f21a5efcc9e87ad536f5fa-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/280786196.vtt?expires=1778590241&sig=0e9ab70df1baba912ba67a0addc96f007c3f1c5e&download=auto_generated_captions.vtt"
+  }
+}

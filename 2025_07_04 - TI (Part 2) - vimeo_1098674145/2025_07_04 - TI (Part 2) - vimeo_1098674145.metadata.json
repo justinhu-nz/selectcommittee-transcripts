@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:53:01.675037+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1098674145",
+  "title": "2025/07/04 - TI (Part 2)",
+  "url": "https://vimeo.com/1098674145",
+  "published_at": "20250704",
+  "published_display": "2025-07-04",
+  "duration_seconds": 4533,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4532.89,
+    "segment_count": 1688,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_04 - TI (Part 2) - vimeo_1098674145\\2025_07_04 - TI (Part 2) - vimeo_1098674145.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1098674145",
+    "display_id": "1098674145",
+    "title": "2025/07/04 - TI (Part 2)",
+    "description": "Friday, 4 July 2025 | Transport and Infrastructure Committee\n\nBuilding and Construction (Small Stand-alone Dwellings) Amendment Bill\n\nHearing of Evidence\n\n- John Verry\n- Simon Litten\n- Sky Sigal\n- Bruce Russell\n\nWaimakariri District Council\u00a0 \n- Mayor Dan Gordon\n\n- Craig Atkinson\n- Chrissy and Steve Watson\n- Matt Rutledge\n- Ross Wakefield\u00a0\n\nCo-Lab\n- David Samson",
+    "webpage_url": "https://vimeo.com/1098674145",
+    "original_url": "https://vimeo.com/1098674145",
+    "upload_date": "20250704",
+    "timestamp": 1751597729,
+    "release_timestamp": 1751597738,
+    "duration": 4533,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2034128858-c14fccc63b540f862afe793ab1cd97b12350b7efc204a21c50f25401a28410ce-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/240465191.vtt?expires=1778590386&sig=4f3ed24f7c186c75d9d70a49963cbec460e7b147&download=auto_generated_captions.vtt"
+  }
+}

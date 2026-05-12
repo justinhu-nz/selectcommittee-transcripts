@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T10:57:10.330586+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1101703612",
+  "title": "2025/07/23 - SSC",
+  "url": "https://vimeo.com/1101703612",
+  "published_at": "20250723",
+  "published_display": "2025-07-23",
+  "duration_seconds": 2062,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2060.89,
+    "segment_count": 738,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_07_23 - SSC - vimeo_1101703612\\2025_07_23 - SSC - vimeo_1101703612.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1101703612",
+    "display_id": "1101703612",
+    "title": "2025/07/23 - SSC",
+    "description": "Wednesday, 23 July 2025 | Social Services and Community Committee\n\nReview briefing on the 2023/24 annual review of the Museum of New Zealand Te Papa Tongarewa Board\n\nHearing of Evidence\n\nMuseum of New Zealand Te Papa Tongarewa\n- Christopher Swasbrook, Board Chair\n- Courtney Johnston, Tumu Whakarae\n- Arapata Hakiwai, Kaihaut\u016b",
+    "webpage_url": "https://vimeo.com/1101703612",
+    "original_url": "https://vimeo.com/1101703612",
+    "upload_date": "20250723",
+    "timestamp": 1753234800,
+    "release_timestamp": 1753234807,
+    "duration": 2062,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2039723347-81e17969f488329036b2dae8ce6cc62944be4d572f2e82a261a262beed453409-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/245017125.vtt?expires=1778590635&sig=4c135a4417cb7f5a31fca1f43a21d3b6d92cc588&download=auto_generated_captions.vtt"
+  }
+}
