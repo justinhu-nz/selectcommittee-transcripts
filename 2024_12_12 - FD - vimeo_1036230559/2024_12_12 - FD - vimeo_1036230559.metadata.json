@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:21.097164+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1036230559",
+  "title": "2024/12/12 - FD",
+  "url": "https://vimeo.com/1036230559",
+  "published_at": "20241211",
+  "published_display": "2024-12-11",
+  "duration_seconds": 2989,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2982.84,
+    "segment_count": 1138,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_12 - FD - vimeo_1036230559\\2024_12_12 - FD - vimeo_1036230559.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1036230559",
+    "display_id": "1036230559",
+    "title": "2024/12/12 - FD",
+    "description": "Thursday 5 December 2024 | Foreign Affairs, Defence and Trade Committee\n\nInternational treaty examination of the Agreement on Climate Change, Trade and Sustainability; Briefing on non-tariff barriers\n\nInternational treaty examination of the Agreement on Climate Change\n\nMinistry of Foreign Affairs and Trade:\n- Vangelis Vitalis, Deputy Secretary\n- Rebecca Steffens-Smith, Chief Negotiator\n\nBriefing on non-tariff barriers\n\nTe Taumata\n- Hone McGregor, Chair",
+    "webpage_url": "https://vimeo.com/1036230559",
+    "original_url": "https://vimeo.com/1036230559",
+    "upload_date": "20241211",
+    "timestamp": 1733947152,
+    "release_timestamp": 1733947217,
+    "duration": 2989,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1960517132-8f44205b87e3e2cae669a48ce5858b5f9077d178b788b6d447aea2e40488ec68-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/201906440.vtt?expires=1778566285&sig=0778d23dc3313337a59a32544d00dbc66c601c35&download=auto_generated_captions.vtt"
+  }
+}

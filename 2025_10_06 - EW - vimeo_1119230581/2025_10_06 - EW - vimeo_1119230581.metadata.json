@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:02.541964+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1119230581",
+  "title": "2025/10/06 - EW",
+  "url": "https://vimeo.com/1119230581",
+  "published_at": "20251006",
+  "published_display": "2025-10-06",
+  "duration_seconds": 26448,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 26435.56,
+    "segment_count": 8060,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_06 - EW - vimeo_1119230581\\2025_10_06 - EW - vimeo_1119230581.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1119230581",
+    "display_id": "1119230581",
+    "title": "2025/10/06 - EW",
+    "description": "Education and Workforce Committee | Monday 6 September 2025\n\nInquiry into the harm young New Zealanders encounter online, and the roles that Government, business, and society should play in addressing those harms\n\nSubmitters\n\nInstitute of Economic Affairs (IEA)\n- Matthew Lesh, Public Policy Fellow\n\nFree Speech Union UK\n- Dr Bryn Harris, Chief Legal Counsel\n\nAustralian Age Assurance Technology Trial\n- Tony Allen, Project Director\n\nMedia Matters in NZ (Inc)\n- John Terris\n\nEric Goldman\n\nWorking Group on Gaming and Regulation (Canada)\n- Dr Sara M. Grimes, Full Professor, McGill University\n- Riley McNair, PhD student, University of Toronto\n\nRape and Abuse Support Southland\n- Tina McColgan, Kaiwhakahaere Southland\n- Suzanne McGuire, ACC Lead - Systems Analyst\n\nInternational Centre for Missing and Exploited Children, Australia\n- Colm Gannon, CEO\n\nSafeguarding Children\n- Willow Duffy, CEO\n\nEcpat NZ\n- Vivian Chandra, Engagement Facilitator\n\nShine Education and Training\n- Dr Emma Barker-Clarke, Senior Trainer\n\nChildren's Rights Alliance Aotearoa New Zealand\n- Amanda D'Souza, Chair\n\nEating Disorders Carer Support New Zealand\n- Sarah Rowland, Co-Founder & Acting Chair\n\nKoi Tu Centre for Informed Futures\n- Hema Sridhar, Deputy Director\n\nNational Taskforce for Social Media, Body Image, and Eating Disorders\n- Dr Marilyn Bromberg\n\nDigital Equity Coalition Aotearoa\n- Kris Dempster-Rivett, Co-Chair\n\nPillar NZ\n- Nathan Seiuli, Executive Director\n\nFree Speech Union of New Zealand\n- Steph Martin, Stakeholder Relationships Manager\n\nClaire Black\n\nProfessor Antonia Lyons\n\nKay Jones\n\nThe Wellington Community Justice Project\n- Gemma Bennion, Law Reform Team Volunteer\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Emily Groen, Law Reform Team Co-leader\n\nInspire and Grow Charitable Trust (NextGen Leader)\n- Danny Kettoola, Founder, Programme Director and Youth Mentor\n- Honour Seers\n\nThe Light Project\n- Nikki Denholm, Director\n\nMyMahi Ltd\n- Jeff King, Founder and CE\n\nWee-Yeong Eyou\n\nCharlene\u00a0Whyte\n\nMonopoly Watch\n- Tex Edwards, Researcher\n\nAnna Ashton\n\nTracey Smith\n\nOffice of the Privacy Commissioner\n- Michael Webster, Privacy Commissioner\n\nOnline Safety Exchange Limited\n- Martin Cocker, Founder and Director\n\nSave the Children\n- Heather Campbell, Chief Executive\n- Jacqui Southey, Child Rights Advocacy & Research Director\n\nNew Zealand Telecommunications Forum\n- Kim Connolly-Stone, Policy Director [In person]\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Dave Simpson, Industry & Regulatory Affairs Partner, Spark\n\nMeta\n- Mia Garlick, Regional Director of Policy\n\nTikTok\u00a0\n- Ella Woods-Joyce, Public Policy Lead, Content and Safety",
+    "webpage_url": "https://vimeo.com/1119230581",
+    "original_url": "https://vimeo.com/1119230581",
+    "upload_date": "20251006",
+    "timestamp": 1759724262,
+    "release_timestamp": 1759724278,
+    "duration": 26448,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2066955252-205be0302b48594c463c2bf91c169338806a04b806a029d9c7f912bc6c025cf3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257437872.vtt?expires=1778565846&sig=af068a0819e5c1e04c26b2f9d2571d751333b6c9&download=auto_generated_captions.vtt"
+  }
+}

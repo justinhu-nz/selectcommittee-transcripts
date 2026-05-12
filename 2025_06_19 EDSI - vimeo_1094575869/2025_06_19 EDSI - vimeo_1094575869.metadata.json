@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:34.461527+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094575869",
+  "title": "2025/06/19 EDSI",
+  "url": "https://vimeo.com/1094575869",
+  "published_at": "20250619",
+  "published_display": "2025-06-19",
+  "duration_seconds": 7908,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7897.22,
+    "segment_count": 3089,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_19 EDSI - vimeo_1094575869\\2025_06_19 EDSI - vimeo_1094575869.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094575869",
+    "display_id": "1094575869",
+    "title": "2025/06/19 EDSI",
+    "description": "Thursday, 19 June 2025 | Economic Development, Science and Innovation Committee\n\n2025/26 Estimates for Vote Business, Science and Innovation (excluding appropriations related to the Health Research Fund and New Zealand Trade and Enterprise)\n\nHearing of evidence:\n\nMinister for Small Business and Manufacturing\n\tHon Chris Penk\n\nMinistry of Business, Innovation and Employment\n\tCarolyn Tremain, Chief Executive\n\tPaul Stocks, Deputy Secretary\n\tRoss Van Der Schyff, General Manager\n\tAndrew Hume, General Manager\n\nMinister of Science, Innovation and Technology\n\tHon Dr Shane Reti\n\nMinistry of Business, Innovation and Employment\n\tCarolyn Tremain, Chief Executive\n\tIain Cossar, Programme Director, Science and Science System Reforms\n\tRobyn Henderson, General Manager, Science and Space\n\tDean Ford, General Manager, Technology and Innovation\n\tMichael Bird, General Manager, Entity Performance and Investment\n\tDanette Olsen, General Manager, Science System Investment and Performance",
+    "webpage_url": "https://vimeo.com/1094575869",
+    "original_url": "https://vimeo.com/1094575869",
+    "upload_date": "20250619",
+    "timestamp": 1750302267,
+    "release_timestamp": 1750302282,
+    "duration": 7908,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2029669892-b43050daa0b6e77746e0017a6ce817ad0b4524656ee5c0dfa42241d6fa94ecb0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237795685.vtt?expires=1778565998&sig=374a8f66caca6f7273a65173d4e4dccbe3194b3e&download=auto_generated_captions.vtt"
+  }
+}

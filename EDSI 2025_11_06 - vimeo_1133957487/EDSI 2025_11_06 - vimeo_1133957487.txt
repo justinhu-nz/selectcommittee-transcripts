@@ -1,0 +1,919 @@
+Title: EDSI 2025/11/06
+URL: https://vimeo.com/1133957487
+Published: 2025-11-06
+Duration: 00:38:34
+
+[00:00:28] Thank you so much.
+[00:00:29] Thank you for the wait. No problem. Yeah. Um, thank you.
+[00:00:33] So, um, it's a joint hearing with, uh, DIA
+[00:00:38] and Public Service Commission.
+[00:00:39] So if you would like to start with some opening remarks,
+[00:00:41] you want to do it, um,
+[00:00:43] in your individual organization capacity
+[00:00:45] or together, that's totally fine.
+[00:00:47] Thank you. And then we'll go onto questions. Thank you.
+[00:00:49] Uh, thank you, um, Madam Chair
+[00:00:51] and committee, and, uh, I'll be brief.
+[00:00:53] My name's Paul James. I'm the Government Chief Digital
+[00:00:54] Officer and the Chief
+[00:00:55] Executive of Department of Internal Affairs.
+[00:00:58] Um, and it's a pleasure to be here.
+[00:00:59] I'm joined by Murray Davy, um,
+[00:01:01] who is the Chief Digital Officer for Department
+[00:01:04] of Internal Affairs, and my colleague
+[00:01:06] from the Public Services Commission.
+[00:01:08] But you introduce yourself, Hugo.
+[00:01:10] Um, thank you, Madam Chair. My name's Hugo Batal.
+[00:01:13] I'm the Deputy Chief Executive Strategy, policy
+[00:01:16] and Integrity at the commission.
+[00:01:18] Thank you. And so in terms
+[00:01:20] of just some brief introductory remarks, um, so
+[00:01:23] as Government Chief Digital Officer are mandated
+[00:01:25] by the Public Services Commission under Public Services
+[00:01:28] Legislation, uh, as a system lead,
+[00:01:30] and that means that I have responsibility
+[00:01:32] to work across the public service, not just down
+[00:01:35] inside my own agency, um, across digital.
+[00:01:37] So practically what that looks like is we have a focus on
+[00:01:40] helping ensure there's a consistent vision
+[00:01:42] and direction for digital across the public sector.
+[00:01:45] Uh, we work around standards, policies
+[00:01:48] and guidance to help consistency
+[00:01:50] and coherence across the public sector.
+[00:01:52] And we also put in place tools
+[00:01:54] and support services to support the public sector.
+[00:01:57] We don't take away from individual agency
+[00:01:58] or see accountability, uh, to deliver the services
+[00:02:02] and take responsibility for their own digital, uh, service
+[00:02:05] and systems and applications.
+[00:02:06] But we look to provide value in a collective.
+[00:02:09] And so, uh, for example, uh, we have a, uh, collection
+[00:02:13] of services, things like, uh, a cloud framework agreement
+[00:02:17] with a major company.
+[00:02:18] So public service agencies come in, uh,
+[00:02:21] through our commercial constructs to access those services.
+[00:02:23] It means that we scale up the purchasing power of the crown
+[00:02:26] through those contracts
+[00:02:27] and get, um, benefits around pricing,
+[00:02:29] but we can also put in, um, standards around security
+[00:02:32] and other things that are important like that.
+[00:02:34] So that's a system lead role.
+[00:02:36] And in terms of ai, I've also been asked to lead, um, uh,
+[00:02:41] the adoption of AI for the public service.
+[00:02:43] And so take a similar approach to what we do around digital,
+[00:02:45] but with ai, which there's clearly close connections.
+[00:02:48] And so, um, my focus is on the adoption
+[00:02:51] of AI by the public service.
+[00:02:52] So, uh, the customer base for us is the public service.
+[00:02:55] So that's who we focus on as agencies.
+[00:02:57] Of course, we think deeply about New Zealanders
+[00:03:00] because that's the public services customers.
+[00:03:02] Um, but our starting point is the agencies that we work
+[00:03:05] with, and it focuses around the adoption of ai.
+[00:03:08] I didn't wanna say a lot more than that.
+[00:03:10] I thought that, uh, it would be best to be guided
+[00:03:12] by the committee in
+[00:03:13] terms of the questions that you might have.
+[00:03:14] Great. Thank you. Anything that you would like
+[00:03:17] to add? Um, hug,
+[00:03:18] Uh, no, uh, the only two other elements other than, uh,
+[00:03:23] the designation of, um,
+[00:03:24] the government Chief Digital Officer under the Public
+[00:03:27] Service Act, uh, the commission, uh, is also, uh,
+[00:03:31] obviously the, um, employer on behalf of the Crown
+[00:03:34] of Chief Executives also has a responsibility
+[00:03:37] for developing capability of its, of its leaders.
+[00:03:40] And we do that through the Leadership development Center,
+[00:03:43] which is club funded by, uh, all agencies.
+[00:03:47] Uh, and then, um, you know, we, uh,
+[00:03:50] also have responsibilities around performance
+[00:03:52] and accountability and, um,
+[00:03:55] and for, uh, integrity and ethics.
+[00:03:57] So promoting, uh, account, uh, promoting integrity, uh,
+[00:04:02] transparency and accountability, that's,
+[00:04:05] that's our main areas for,
+[00:04:06] that are relevant for the committee today.
+[00:04:08] That's great. Thank you, Dr. Hamish.
+[00:04:10] Yeah. Excellent. Um, thank you.
+[00:04:12] I appreciate talking about the adoption of AI
+[00:04:14] and public service.
+[00:04:15] How much of it is actually being driven down,
+[00:04:18] uh, from, from top?
+[00:04:20] And how much is actually people
+[00:04:23] actually developing these tools
+[00:04:24] and using the tools, whether it be, um, bundled
+[00:04:27] with other, other software?
+[00:04:28] That's a great question. I think it's
+[00:04:30] really important that we have both.
+[00:04:31] Uh, why it's really important we have both is that, uh,
+[00:04:34] like any tool, um, AI needs to be applied
+[00:04:37] to what's the objective here?
+[00:04:38] What's the business purpose, what's the benefit?
+[00:04:40] What are we trying to achieve?
+[00:04:42] And that will, uh, most often come from up, if you like,
+[00:04:46] from down from people who are working,
+[00:04:48] have accountabilities, responsibilities.
+[00:04:50] Uh, but what we also know when there's new technology coming
+[00:04:53] in and the public service needs to respond
+[00:04:54] and adapt, rather than everyone learning a hundred percent
+[00:04:58] by themselves, totally a new
+[00:04:59] and a fresh, how can we actually accelerate
+[00:05:01] or support by bringing in consistent standards, templates,
+[00:05:05] policies, guidance, uh, to create both a platform
+[00:05:07] and a head start for people.
+[00:05:09] Um, over time, I'd expect us to mature a little bit too.
+[00:05:12] And by that I mean we'll start putting in place common
+[00:05:14] tools, some common technology solutions for people to use,
+[00:05:18] but at the moment, we're not at that point.
+[00:05:19] Mm-hmm. So, yeah.
+[00:05:21] Do, do you have any other technologies which this
+[00:05:24] approach has been used to, um, for its adoption and the
+[00:05:29] Public service?
+[00:05:30] Yeah, I mean, this is how we work generally
+[00:05:32] across, across digital.
+[00:05:33] So we try and we put in place frameworks, expectations,
+[00:05:37] common approaches,
+[00:05:38] but agencies know
+[00:05:39] their responsibilities better than anyone else.
+[00:05:41] They've got their own accountabilities.
+[00:05:43] Um, you know, I'm not gonna be
+[00:05:44] responsible for social services.
+[00:05:45] That's gonna be the responsibility
+[00:05:46] of the Ministry of Social Development.
+[00:05:48] Um, and technology needs to be deployed in context
+[00:05:51] and around a particular, uh, need and purpose
+[00:05:54] and to improve a New Zealanders experience or outcomes.
+[00:05:57] And so it's getting the balance between
+[00:05:59] how do you have something that is coherent across the public
+[00:06:02] service, but is actually responsive to the immediate needs
+[00:06:05] and responsibilities of that agency
+[00:06:06] and the new Zealanders that they support
+[00:06:09] Who've been doing. Thank you. Um,
+[00:06:10] I'm curious
+[00:06:12] to know whether you've got a sense of which agencies
+[00:06:14] of organizations are the highest users
+[00:06:17] and which are much lower users.
+[00:06:19] We have a sense, um, and we have a sense
+[00:06:22] because, uh, I hope the committee will be familiar
+[00:06:24] with an annual survey that we've started
+[00:06:25] around AI adoption across the, uh,
+[00:06:28] broadly the 46 core agencies that are our mandate.
+[00:06:31] Um, and so we get some, uh, data from that.
+[00:06:35] We also have a community of practice operating.
+[00:06:37] Uh, we've just got several hundred people, uh, come online
+[00:06:39] around that once a month or so.
+[00:06:40] And so in that conversation, we get a sense as well.
+[00:06:42] So it is, as we see across other technologies mixed in terms
+[00:06:47] of where agencies are up to.
+[00:06:48] Um, A, CC
+[00:06:50] and IR are quite, um, um, proactive
+[00:06:54] and they're quite engaged in ai, uh, themselves.
+[00:06:56] And there are other organizations.
+[00:06:58] It tends to reflect their digital maturity as well.
+[00:07:00] Either their data isn't structural set up
+[00:07:03] or they're not cloud hosting,
+[00:07:04] and it's harder to start to deploy the technologies.
+[00:07:06] So they are earlier in terms of what they might be doing.
+[00:07:09] So we see variety at the moment, but I'd identify a, C, C
+[00:07:13] and IR as two organizations that are more advanced in their,
+[00:07:16] um, exploration of the value or utility of
+[00:07:19] Ai. Yeah, sure. And
+[00:07:20] at the opposite end of the spectrum,
+[00:07:22] the lower uptake or the, the least use,
+[00:07:24] Um, always a bit wary about pointing out agencies
+[00:07:27] that might not be, uh, there.
+[00:07:29] But, um, for some organizations, um, perhaps, uh,
+[00:07:32] technology is a bigger part of their, uh, business.
+[00:07:34] Maybe some of the population agencies, agencies
+[00:07:37] that might represent, um, views into the public sector.
+[00:07:41] They might not be, uh, technology
+[00:07:44] to deliver services isn't as much of what they do.
+[00:07:46] So they're not necessarily, uh, into AI as much.
+[00:07:49] But having said that, they are talking
+[00:07:51] to us often about the policy or standards or design.
+[00:07:54] So we've had quite an engagement with, for example,
+[00:07:56] around ai.
+[00:07:58] Uh, 'cause they see both concerns of bias, um,
+[00:08:01] but more they see opportunities
+[00:08:03] for actually improve their outcomes.
+[00:08:05] If this technology is adopted in effective ways
+[00:08:07] that make it easier for the communities that they represent,
+[00:08:11] Is there any resistance?
+[00:08:13] So using, using, using resistance in any areas.
+[00:08:16] Um, what we see is, um, a broad kind of, um,
+[00:08:22] if you like coder around that is we see, uh, sufficiency.
+[00:08:25] So people are, no, we are, okay.
+[00:08:27] We, we don't think we need ai. We're all right.
+[00:08:30] They might not say that, but we see
+[00:08:31] that in, in the patterns.
+[00:08:32] Uh, we see, uh, concern, we're not sure about this, we,
+[00:08:37] but worried about this.
+[00:08:38] We see confusion, which,
+[00:08:40] which tool we use, where, where do we go?
+[00:08:42] So I think those are all natural responses when you have a
+[00:08:45] new technology, which is still moving quite fast
+[00:08:47] and probably a bit immature.
+[00:08:49] Um, and so our real focus is, um, a big part
+[00:08:53] of our focus is actually this foundational, um, policies,
+[00:08:57] guidance, and education for leaders so that they can start
+[00:09:00] to build their own knowledge and comfort so they can see.
+[00:09:04] So I think we've got a duty to the public to make sure
+[00:09:07] that we are aware of what this technology is
+[00:09:09] and thinking about how it could
+[00:09:10] improve delivery of services.
+[00:09:11] So we are really encouraging people.
+[00:09:13] I, I've stood in front of CES and Deputy Cs
+[00:09:16] and said, in five years time, it's hard
+[00:09:18] to imagine you wouldn't look back
+[00:09:19] and see that you've used AI more
+[00:09:23] now than you did five years ago.
+[00:09:24] Mm-hmm. So if that's the case,
+[00:09:26] what do you need to start doing today?
+[00:09:28] Prepare for that. And often it's just about your own
+[00:09:30] education and your own ability to, um, operate
+[00:09:34] and then start to see what might be possible
+[00:09:35] for the services that you're accountable for.
+[00:09:38] Mm-hmm. Thank you. Right. Um, I'll ask a quick question.
+[00:09:42] We were discussing about hallucinations, um, in AI
+[00:09:45] and in your role of building capability in
+[00:09:48] our public system.
+[00:09:50] So this morning, MBI told us that, see there needs
+[00:09:53] to be a human in the loop.
+[00:09:54] So just making sure that the information is correct.
+[00:09:57] How is that being put in place, that kind of, uh,
+[00:10:01] system kind of control, um, in, in public services?
+[00:10:05] Uh, just curious to know that.
+[00:10:08] Yes, absolutely.
+[00:10:09] Look, I think, um, what we see is that, that
+[00:10:13] that's definitely the case that you can see bias
+[00:10:15] and hallucinations in these systems.
+[00:10:17] And we will all read a media of examples
+[00:10:19] and instances of that, the actual
+[00:10:21] deployment of AI into the public sector.
+[00:10:22] The one is very limited. So, um, it,
+[00:10:26] it's into administrative tasks
+[00:10:28] around summarizing information
+[00:10:30] or it's, uh, some, um, administrative efficiencies.
+[00:10:34] And so, uh, we don't see, um,
+[00:10:38] the modern AI tools being deployed into core
+[00:10:41] delivery operations or responsibilities
+[00:10:43] where those hallucinations
+[00:10:44] or biases would present real risks and challenges.
+[00:10:47] So we don't see that yet.
+[00:10:48] However, um, the framework that we've, um, adopted
+[00:10:52] and have put out across the public service
+[00:10:54] around adoption is based on six OECD principles.
+[00:10:58] And it's all very much aimed at trying to make sure that,
+[00:11:01] uh, there's careful, responsible, ethical
+[00:11:05] and assured adoption of ai.
+[00:11:07] So I think a lot of the risks can be seen if, um, you go
+[00:11:12] through very deliberate processes around it
+[00:11:15] and are very, uh, prudent about how you do it.
+[00:11:17] So, um, Murray, here's objective also for DIA,
+[00:11:21] he'll be horrified if we just deployed AI straight into our
+[00:11:24] system without thinking about it.
+[00:11:27] So it is creating the right technical environment,
+[00:11:29] so sandboxes, places that are safe to start to experiment
+[00:11:33] and see what happens, uh,
+[00:11:35] and then making sure we've got all the right
+[00:11:36] governance and controls across it.
+[00:11:37] So I, I think we should, uh, be mindful of the risks,
+[00:11:41] but at the moment, we are very early in the deployment,
+[00:11:44] and so we're not seeing those emerge. Mm-hmm.
+[00:11:47] Mm-hmm. I might add, uh, there's also controls
+[00:11:49] that you can apply.
+[00:11:50] So, uh, approaches like retrieval, augmenta,
+[00:11:53] augmented generation, uh, approaches such as retrieval,
+[00:11:56] augmented generation, or rag as it's called that enable you
+[00:11:59] to point a, a particular AI at a particular knowledge base
+[00:12:02] and say you can only provide answers
+[00:12:04] based on that knowledge base.
+[00:12:05] So that helps you to make sure
+[00:12:07] that you're using factual information
+[00:12:09] and you can be more confident about the output
+[00:12:11] that you're gonna get from that.
+[00:12:13] So, um, so
+[00:12:14] That's More like a customized kind
+[00:12:16] Of Yes, absolutely.
+[00:12:17] And so, you know, if we are using an AI internally within
+[00:12:20] the organization, uh, then we'll do that.
+[00:12:22] We'll, if we're using it for HR processes, for example, uh,
+[00:12:25] we'll point it at a set of HR policies
+[00:12:27] and processes, say that's the only knowledge base from
+[00:12:29] which you can provide the answers.
+[00:12:31] And that way we can be confident that the answers
+[00:12:33] that it's providing are accurate, um,
+[00:12:35] and similar approaches can be used for in other use cases.
+[00:12:37] That's good. Uh, any question from Dr. David Wilson?
+[00:12:40] Yeah, thank you. Um, it's really
+[00:12:43] in instructive for us this morning.
+[00:12:44] We, we can, well, at least I came to the conclusion
+[00:12:47] that perhaps this was disaggregated
+[00:12:49] and sporadic across the whole public service.
+[00:12:52] And, um, so now you've told me
+[00:12:54] that it's a system wide approach.
+[00:12:56] I'm very pleased to hear that. Um, it's very good.
+[00:12:59] You said that you were looking at adoption capability,
+[00:13:01] performance, accountability, and ethics.
+[00:13:04] Also very pleased to hear you, um, done that.
+[00:13:07] 'cause when we've bashed into this area,
+[00:13:10] that's what keeps coming up.
+[00:13:12] Um, and so for us as policy makers,
+[00:13:17] we'll be looking at areas
+[00:13:20] that will bump into ethics all the time.
+[00:13:22] And so my question really is how can we learn from
+[00:13:27] what you are learning is, I know it's constrained by
+[00:13:29] what you can do within the public service,
+[00:13:31] but, you know, how can we pick up on what's happening here?
+[00:13:35] I think, um, what we recognize is everyone's
+[00:13:38] learning in this area at the moment.
+[00:13:40] Um, and it's not just public
+[00:13:42] sector, it's private sector too.
+[00:13:43] Mm-hmm. So, oh, yes. Uh, I think it, it's really encouraging
+[00:13:46] Very fast and pushing against
+[00:13:48] boundaries way faster than we
+[00:13:50] Areye. Yes, they are.
+[00:13:51] And um, so I was in, uh,
+[00:13:54] Singapore in September this year.
+[00:13:56] I go there every year for a digital government exchange
+[00:13:57] with about 12 countries and talking
+[00:13:59] with the countries there about ai,
+[00:14:00] but also had a round table with some large Singapore
+[00:14:02] and businesses around what they're doing around ai.
+[00:14:06] Uh, and they were clear that, um,
+[00:14:07] they're not getting a return on investment at the moment
+[00:14:09] with ai that most of their, uh, proof
+[00:14:12] of concept aren't working.
+[00:14:14] Um, but they're still highly committed to ai. Yeah.
+[00:14:17] So they, they see the promise,
+[00:14:18] but what that told me is
+[00:14:20] that the private sector is not cracked at yet either.
+[00:14:22] That they're still on, on that journey.
+[00:14:25] I think in terms of your point about how we share learnings,
+[00:14:27] so that's why we are really focused on, uh,
+[00:14:30] executive education, but also I
+[00:14:31] mentioned that community of practice.
+[00:14:32] So bringing people together who are doing this
+[00:14:34] to swap notes, to share insights, uh, I think
+[00:14:37] that's the power of the public services actually, to be able
+[00:14:39] to bring, uh, people from quite
+[00:14:41] different organizations together.
+[00:14:43] Uh, and to learn from each other.
+[00:14:45] Um, we have to learn from outside the public service too.
+[00:14:48] Yeah. So, um, we've got a, um, an advisory body
+[00:14:51] that we've set up just to, for us to able to talk through,
+[00:14:54] um, uh, which is New Zealand people,
+[00:14:56] but from, um, private sector
+[00:14:58] and some public sector expertise.
+[00:14:59] So we need to find ways
+[00:15:00] that we can bring those different views and perspectives in,
+[00:15:03] and that will pick up ethics, uh, um, as well.
+[00:15:07] So as, um, policy policymakers, legislation, can we come
+[00:15:12] to a place and ask what are the ethical dimensions
+[00:15:16] around this policy, this evangelous new idea?
+[00:15:20] Well, um, we are always happy in, uh,
+[00:15:22] in the right channels to be able to provide our views.
+[00:15:24] And I think in, in digital government, it's a, it's an area
+[00:15:28] of responsibility where there is a high level of openness
+[00:15:31] and bipartisanship is my experience.
+[00:15:33] And so, um, minister Collins, who we worked
+[00:15:36] to is always very supportive of us engaging with people.
+[00:15:39] So, do you think, um, so any, any closeups, any members?
+[00:15:43] So just, um, uh, thinking about IP with the use of ai,
+[00:15:48] the issues of plagiarism
+[00:15:49] and all, so we like kind of covering ourselves
+[00:15:53] for, for these kind of issues.
+[00:15:56] It's a really good question.
+[00:15:58] And again, I, um, think it's an area
+[00:15:59] where the answer isn't clear yet.
+[00:16:02] And so that most often comes through, um, LMS
+[00:16:05] and the training data sets that they're being built on.
+[00:16:08] And so, uh, how are they getting access to that data?
+[00:16:11] And you can see, again, stories
+[00:16:13] of people feeling like the content they've produced has been
+[00:16:16] consumed by these, uh, tools
+[00:16:18] and that they're training and learning off them.
+[00:16:20] We, we are not building our own LLM, uh,
+[00:16:23] from New Zealand Public Service.
+[00:16:24] We don't have the capital or the expertise to do that.
+[00:16:28] I think as we see things develop over the next couples
+[00:16:30] of the technology, we will start to see potential for us
+[00:16:33] to either tailor, um, something
+[00:16:35] or potentially, uh, even look at
+[00:16:38] how we might invest in a small language model.
+[00:16:39] There'll be opportunities, I think, for us to do something
+[00:16:42] that has got the New Zealand context
+[00:16:45] and, um, that will help with those points.
+[00:16:48] But for that wider question around plagiarism,
+[00:16:50] we see the risks, uh,
+[00:16:51] and the training data sets that things are built on
+[00:16:53] at the moment, we are really subject to that market.
+[00:16:56] Um, so it's not something we're looking closely at.
+[00:17:00] If there's anything to that,
+[00:17:02] Um, I asked, oh, you go first. Yes.
+[00:17:05] Thank you. Um, just looking specifically at the strategy,
+[00:17:09] and I know there's been a lot of, um, commentary
+[00:17:13] post the release of the strategy.
+[00:17:15] There's an acknowledgement up top that it was, um,
+[00:17:18] that AI was used to help generate it.
+[00:17:20] And there are a couple of, um, uh,
+[00:17:25] team observations made, one around, um,
+[00:17:28] potential hallucinations within it, um,
+[00:17:31] and another around, um, basic spelling error with it.
+[00:17:35] Did, uh, any, any comment on that?
+[00:17:38] Um, that's a, a strategy
+[00:17:39] that we were involved in creating.
+[00:17:41] So we worked alongside mb it's obviously oriented at the
+[00:17:44] whole of country whole of economy.
+[00:17:47] Um, we haven't really put a strategy
+[00:17:48] in place for the public sector.
+[00:17:50] We, we made the decision that
+[00:17:52] actually what's really needed is guidance is, um,
+[00:17:55] principles, um, for the public sector
+[00:17:59] because it's moving so quickly.
+[00:18:00] So, um, so it's hard for me to comment on the, um, uh,
+[00:18:05] questions around hallucinations or, or spelling mistakes
+[00:18:07] and something that while we were involved in it ultimately
+[00:18:09] was an MB lead across that.
+[00:18:11] So my apologies. But
+[00:18:13] You, do you think there's scope or a need
+[00:18:18] or a similar strategy for you to have a similar strategy
+[00:18:22] but without hallucinations or scope?
+[00:18:25] Um, we, we have talked about that.
+[00:18:27] So we have a strategy for digital public service, uh,
+[00:18:30] which is our anchor strategy.
+[00:18:31] It's been in place since 2019.
+[00:18:33] It's largely vision and principles based.
+[00:18:35] So we still think it works.
+[00:18:36] We had a lock at and went, it's still not, not too bad.
+[00:18:40] But what we really heard from the public sector was
+[00:18:42] crying out for guidance.
+[00:18:44] Um, so that people wanted guidance about how
+[00:18:47] to think about ai, how to approach it,
+[00:18:49] what are the principles or parameters.
+[00:18:52] And potentially we could wrap all this up in a
+[00:18:54] strategy at some point in the future.
+[00:18:55] But at the moment, that's really what, um, we're being asked
+[00:18:58] for by the public service.
+[00:19:00] Interesting. Talking with other jurisdictions and,
+[00:19:02] and, uh, countries about their strategies
+[00:19:05] and in some cases their legislation.
+[00:19:07] The feedback I've been getting, uh,
+[00:19:09] from other countries is they're actually moving away a
+[00:19:11] little bit from strategies or legislation.
+[00:19:13] 'cause the technology's moving so fast,
+[00:19:14] it's very hard to keep up with.
+[00:19:16] And they're thinking that actually a principal's based
+[00:19:19] approach that can then respond to
+[00:19:23] whatever changes in the future is potentially
+[00:19:26] where they need to head from now.
+[00:19:27] So, um, as I said, really guidance frameworks policy is
+[00:19:32] where our focus is for the next 12 to 18 months.
+[00:19:35] Mm-hmm. So I'll ask this next question.
+[00:19:37] So, because AI can, uh, I mean access any, uh,
+[00:19:42] any websites, so with our information going on websites,
+[00:19:48] uh, how are we looking at ensuring
+[00:19:51] that it's not accessible by any of the AI tools
+[00:19:54] that we don't want it to be?
+[00:19:56] So is it like, work on some kind of firewall?
+[00:19:58] So because it could be information that is just relevant
+[00:20:01] to New Zealand and maybe there is some information
+[00:20:03] that might be sensitive.
+[00:20:05] Obviously sensitive information won't go our website,
+[00:20:07] but just, you know, if it is stored in a way
+[00:20:09] where AI can access, so how, I mean the it, there,
+[00:20:14] there is this assurance that it'll not go out
+[00:20:18] through any AI tool.
+[00:20:21] That's a great question.
+[00:20:22] So, um, in our starting point guidance
+[00:20:25] for people is if you publish something on a website,
+[00:20:27] you need to expect that it is public
+[00:20:30] and anyone will be able to see it and access it.
+[00:20:32] And that includes AI tools.
+[00:20:34] So, but there is a risk, those tools might take
+[00:20:37] that material and might either hallucinate it
+[00:20:39] or introduce other bias or connect it up
+[00:20:41] with other information so we can see that risk.
+[00:20:44] We think in an AI future, it's gonna be really important
+[00:20:46] for you to be trusted, known,
+[00:20:49] and authoritative sources of information.
+[00:20:52] And so one of our, um, current, uh, areas
+[00:20:54] of focus is a chat bot for the.gov got NZ web domain.
+[00:20:58] So that would run across all websites that we're dot gov nz.
+[00:21:02] So, uh, we've completed proof of concept of that,
+[00:21:06] uh, went pretty well.
+[00:21:07] So we've just gone out to market.
+[00:21:09] We've had three vendors come in
+[00:21:10] and we're just at the final stages of making a choice.
+[00:21:13] So we intend to put in place a chat bot
+[00:21:15] that runs across the.gov nz domain,
+[00:21:18] and then if we can say that's a New Zealand government
+[00:21:20] product and, um, avoid hallucinations
+[00:21:24] and some of the other challenges we can see, uh,
+[00:21:26] we'll respond quickly if we have any issues,
+[00:21:28] but give people a place they can go that's branded,
+[00:21:31] certified, and trusted as opposed to, I mean,
+[00:21:35] Google was a real key entry point into New Zealand services
+[00:21:37] digitally for, for a long time and still is.
+[00:21:39] So people jump into their search engine
+[00:21:41] and Google search engine into
+[00:21:42] how do I do this with the New Zealand government?
+[00:21:44] And that takes to a particular place on the digital
+[00:21:47] footprint of government.
+[00:21:48] So you can see that AI tools will
+[00:21:50] start to do the same thing.
+[00:21:52] I I don't think we can avoid that,
+[00:21:54] but it's how do we create visibility for the public
+[00:21:56] of the trusted channels into this?
+[00:21:59] Yeah, yeah. Which is government owned and constructed.
+[00:22:02] So it can be reproduced, but it's just that
+[00:22:05] besides the source, yes,
+[00:22:08] obviously website anybody can access,
+[00:22:09] but I'm just thinking about when it is reproduced
+[00:22:12] And, and I think this is where we see the risks around,
+[00:22:15] uh, DeepFakes and what AI technology offers
+[00:22:18] and that how do you, uh, water market
+[00:22:21] or give people confidence about the providence
+[00:22:23] and the source of that information.
+[00:22:24] And so trust, which is central to digital
+[00:22:26] and government, how do we, uh, ensure
+[00:22:29] that's maintained with ai?
+[00:22:30] And there, there must be something about the brand
+[00:22:33] and so people knowing where it comes from that it is, uh,
+[00:22:36] authoritatively from the New Zealand government
+[00:22:38] and that they can have trust for these reasons,
+[00:22:39] because it's been built, uh, with respect
+[00:22:42] to the framework we've got, which has got ethics
+[00:22:44] and responsibility and transparency of its heart, et cetera.
+[00:22:47] Mm-hmm. And do we use a lot
+[00:22:49] of intranet, intranet?
+[00:22:53] Um, have you had an answer to that?
+[00:22:56] Um, uh, at the moment, those are some
+[00:22:58] of the areas we're starting to experiment
+[00:23:00] with internally is, is looking at, uh,
+[00:23:02] with agencies though most agencies will have their own
+[00:23:04] intranet internally with their own internal information.
+[00:23:06] So how do you make it easier for your own staff to get
+[00:23:09] that information and access that information?
+[00:23:11] So a couple of areas that we are looking at, um,
+[00:23:14] we're looking at can we, uh, use AI
+[00:23:17] to surface information very quickly out of a knowledge base
+[00:23:19] for our staff to help to respond to customer queries, uh,
+[00:23:22] and also for our own staff.
+[00:23:24] So that HR example that I used
+[00:23:25] before, rather than having to go to one of our HR people
+[00:23:29] and ask them a question, can you actually ask a a chat bot,
+[00:23:31] which can lock up our processes
+[00:23:32] and guide our staff, which saves everybody internally time.
+[00:23:35] So those are some of the areas we're starting to pilot now
+[00:23:38] That I'm asking
+[00:23:40] because that, uh, in my view will help, uh,
+[00:23:42] confine the information to the organization
+[00:23:44] And absolutely in, in both those cases,
+[00:23:47] we're confining information to known
+[00:23:48] and good sources, um, so that we know that, you know,
+[00:23:51] the answers our staff will be getting back are, are solid.
+[00:23:53] Yeah. New question Lu Davidson.
+[00:23:55] It's really a SAP off some of the answers to your,
+[00:23:58] your questions Yeah.
+[00:23:59] Around the trust issue. Yes.
+[00:24:01] And you've talked about some of the
+[00:24:04] potential steps that could be taken.
+[00:24:06] Why do you think we rank so low in trust currently?
+[00:24:10] Like New Zealand's near bottom
+[00:24:14] and Global trust and ai?
+[00:24:17] Um, look, I'll make an observation about, uh,
+[00:24:19] digital services, but Hugo,
+[00:24:20] you might like to contribute on that too.
+[00:24:22] So, um, Kiwi's count the survey
+[00:24:25] that Public Service Commission has,
+[00:24:26] which runs I think quarterly, um, across a range of services
+[00:24:30] really we, we've got some questions in the last 18 months
+[00:24:33] around digital, uh, the latest survey that came out, 86%
+[00:24:36] of people who access services digitally
+[00:24:37] of the New Zealand public Service have trust in them
+[00:24:40] that's higher than accessing services
+[00:24:43] in physical channels or omnichannels.
+[00:24:45] So people who access services digitally have greater trust
+[00:24:48] in them than people who access services in other ways.
+[00:24:51] Now, that's potentially
+[00:24:52] because they've made a choice if they
+[00:24:53] wanna access it digitally.
+[00:24:55] So I understand that,
+[00:24:56] but I do, that gives us confidence
+[00:24:57] that when they access the digital services have got a high
+[00:25:00] level of trust in that digital service,
+[00:25:01] which I think is of real value.
+[00:25:04] I know that there's been, um, static
+[00:25:06] or declining levels of trust in, in government
+[00:25:08] and public services across time.
+[00:25:10] I think we actually held pretty well through COVID.
+[00:25:13] Uh, yes. So, um, actually trust in the public service, uh,
+[00:25:17] through COVID actually increased to the highest level ever.
+[00:25:20] So it's 69%, it's come back a little bit.
+[00:25:23] It's at, uh, I think around 60 61%,
+[00:25:27] which is higher than when the series started.
+[00:25:29] And about, uh, five
+[00:25:31] to 10 percentage points higher than the private sector.
+[00:25:33] I think your question is about sort of concerns about ai.
+[00:25:38] Um, prior to answering that though, um,
+[00:25:41] the New Zealand public service actually consistently ranks,
+[00:25:44] uh, in the top five, uh, in the world, uh, on, on most
+[00:25:49] of the main measures for integrity and lack of corruption.
+[00:25:52] And that's a position we want to maintain.
+[00:25:55] But I think your, what you were, um,
+[00:25:57] talking about the surveys showing, uh, concerns
+[00:26:01] amongst the New Zealand public
+[00:26:03] and even within the public service about the use of AI
+[00:26:07] and the sort of unknown and the ethics of that.
+[00:26:09] And I think there's a genuine as issue, uh,
+[00:26:12] as the public service adopts ai.
+[00:26:15] Um, and that's why it's being done in a very careful,
+[00:26:18] responsible way, starting
+[00:26:20] with adopting the best practice frameworks, uh,
+[00:26:23] that have been issued, uh,
+[00:26:25] and why we're taking quite a sort
+[00:26:27] of balanced approach towards seeing the
+[00:26:29] opportunities as well as the risks.
+[00:26:31] One area also internationally to your earlier question, uh,
+[00:26:36] what we're seeing internationally is an investment in
+[00:26:39] leadership and capability and training.
+[00:26:41] And that's been a consistent message.
+[00:26:44] And we've been working with the GCDO, uh, the LDC,
+[00:26:47] the Leadership Development Center has, uh,
+[00:26:49] developed two courses.
+[00:26:51] So there's a masterclass for chief executives
+[00:26:53] and there's also a foundational learning program, uh,
+[00:26:57] which is about four to five modules on AI
+[00:27:00] that goes through ethics.
+[00:27:01] Actually it's available, uh, if you Google, uh, Google,
+[00:27:05] sorry, Uh, LDC foundational courses.
+[00:27:10] Um, I'm doing that course myself. Um, it's really helpful.
+[00:27:15] It's really easy to understand.
+[00:27:17] It goes through sort of ethics, the productivity, sort
+[00:27:20] of the possibilities, the risks.
+[00:27:23] Uh, it also talks about things
+[00:27:25] that are quite specific to our context.
+[00:27:26] So treaty wa, all those things are kind of covered
+[00:27:30] and, um, that's been tested with a, a first cohort
+[00:27:34] of senior leaders and we're working with GCDO
+[00:27:37] to think about the forward program for that.
+[00:27:39] But we think investment
+[00:27:41] and leadership is going to be really important
+[00:27:44] to make sure we sort of, we are, uh, dig, uh,
+[00:27:47] savvy in this area, so we understand it.
+[00:27:50] I probably, um, didn't do
+[00:27:51] your question justice either then.
+[00:27:52] So, um, one of the conundrums
+[00:27:54] that exist in digital government across Westminster style
+[00:27:57] democracy, so we work pretty readily
+[00:27:59] with other jurisdictions, is, um,
+[00:28:02] around privacy and information.
+[00:28:04] For example, people very nervous about government holding
+[00:28:07] all the information about them
+[00:28:08] or sharing information about them.
+[00:28:10] Very frustrated that we keep asking them
+[00:28:11] for the same information all the time.
+[00:28:13] And, uh, both are true
+[00:28:16] and it's a potentially a little bit like that with AI is
+[00:28:18] that there's real concerns in trust about government
+[00:28:20] and AI generally, but then real frustrations about the
+[00:28:23] services and adopting or adapting to AI
+[00:28:25] to provide a better quality of service.
+[00:28:27] And what we have learned is if we do a really good job
+[00:28:29] with the service, we build trust from that.
+[00:28:32] And so again, that just
+[00:28:34] emphasizes Hu's point about the choice we've made,
+[00:28:36] about starting with, um, adopting.
+[00:28:38] We have to move, we have to adopt it,
+[00:28:39] but we want to be careful and deliberate
+[00:28:42] and do it in ways that, um, works for people.
+[00:28:45] Then we think that we'll build trust. Yeah.
+[00:28:46] Great. So some subs off.
+[00:28:49] Okay, there's a number there now, um, on the trust piece,
+[00:28:53] and you talked about 86% trust in the digital
+[00:28:56] interactions or transactions.
+[00:28:59] I'm curious to know whether, as you also pointed out that
+[00:29:02] that's from people carrying those out.
+[00:29:04] Have you seen a shift with the uptake
+[00:29:06] of AI across the public service?
+[00:29:08] Have, have you seen a shift in people wanting
+[00:29:10] to move away from transacting digitally as a result?
+[00:29:15] No. No. So we, these questions only went in last year.
+[00:29:19] Um, so we, I, we wouldn't have a long series of data,
+[00:29:22] but there's continuing increase in
+[00:29:24] digital uptake of services.
+[00:29:25] But I would also make the point, we haven't really got AI
+[00:29:28] as the service entry point yet for services.
+[00:29:30] So people aren't, um, using an assistant, an AI assistant
+[00:29:35] to help them access or navigate services.
+[00:29:37] I think we're probably sort of few years away from that,
+[00:29:39] um, being widespread.
+[00:29:40] So, so we haven't seen that yet,
+[00:29:42] but there's probably not really an
+[00:29:44] opportunity for people either. Yeah.
+[00:29:45] Right. Okay. And to come to the masterclass and the,
+[00:29:49] and the training side of things, um, are you able
+[00:29:51] to give us an idea of the numbers of people who've played
+[00:29:55] that to date, but also what that, what that looks like?
+[00:29:59] Um, they, what you'd expect to have through
+[00:30:03] that in the next six months, 12 months?
+[00:30:05] Um, it was the initial pilot I believe.
+[00:30:08] Um, I'll, I'll have to, um, confirm the numbers.
+[00:30:11] I think, uh, there were, um,
+[00:30:14] I think 14 chief executives in the first masterclass.
+[00:30:17] So it was just a testing, uh, testing the concept
+[00:30:20] and they were around, uh, sorry, uh,
+[00:30:23] I will make sure I get you correct numbers.
+[00:30:25] I think it was around 45 senior leaders who attended the,
+[00:30:29] uh, first pilot sort of, uh, uh, who've been going
+[00:30:33] through the first sort of foundational learning.
+[00:30:35] Um, and, uh, we're still working on sort of what, you know,
+[00:30:39] the, the forward work program to 2027.
+[00:30:42] So we started with CEEs, not bad, uh,
+[00:30:44] and we went to deputy chief
+[00:30:45] executives ran two master classes.
+[00:30:46] Deputy chief executives got about 30 in each of those,
+[00:30:49] sorry, we had 50 people went through the, uh, the um,
+[00:30:52] LDC program that was really to test and develop.
+[00:30:55] And now we've put it online so
+[00:30:57] that you don't have to go in as part of a cohort.
+[00:30:59] It's just there for people to use now that we've proved it.
+[00:31:01] So, but we, we also held a, an event in parliament,
+[00:31:04] which was really by the public sector for the public sector.
+[00:31:07] We had about 300 leaders from across the public service
+[00:31:09] there for a day, uh, talking about ai.
+[00:31:11] But we are looking
+[00:31:13] to make sure everybody engages in some shape
+[00:31:15] or form with this training over time.
+[00:31:18] I dunno. Thank you.
+[00:31:20] Um, this has been really helpful and interesting.
+[00:31:22] Um, I'm interested in the impact, um,
+[00:31:25] in the public service on, uh, like for service users
+[00:31:29] and people who work within the public service floor,
+[00:31:31] particularly for young people.
+[00:31:33] Um, it's something that's not in the GCDs, um,
+[00:31:36] briefs, cabinet papers.
+[00:31:38] It's not, um, something that this part of the, uh,
+[00:31:41] MDs document that NDDR strategy,
+[00:31:44] but presumably we are working on this
+[00:31:45] through a point at which there are thousands
+[00:31:47] of parts jobs gone.
+[00:31:48] Um, the job marketers, the young people, 15,000
+[00:31:52] with the election out worked, um,
+[00:31:55] and then moving into a job market, which is very,
+[00:31:57] very changed that they, you know, you don't have, um,
+[00:32:01] the lower level analytical jobs, the running jobs.
+[00:32:04] Um, what, who is the system steward to ensure
+[00:32:09] that young New Zealanders have access to the skills
+[00:32:13] that they'll need to drive the AI developments?
+[00:32:16] Um, that is an OECD principle around data use that, um,
+[00:32:19] people come along for the journey
+[00:32:21] and that, um, we are not robots, we're decoded of the robots
+[00:32:24] who is in charge to make sure that, um,
+[00:32:27] young New Zealanders have access to what they need to do
+[00:32:30] to get the skills they need to, to be able
+[00:32:32] to use these tools in a professional setting.
+[00:32:36] Yeah, that's, um, again, a very good question
+[00:32:38] and it's a conversation topic
+[00:32:40] with other jurisdictions when we talk with them too.
+[00:32:42] So at the moment we are not seeing any employment
+[00:32:45] displacement from, from ai.
+[00:32:47] Um, it's, uh, at the moment an assist tool.
+[00:32:50] Um, it might be taking steps out for people, meaning
+[00:32:53] that they can do things in a shorter amount of time.
+[00:32:56] Um, but it's been, I guess, well traversed in, um,
+[00:33:00] worldwide really about what the impacts of this might be.
+[00:33:03] And there's just lots of questions about that.
+[00:33:06] Um, we don't have, uh, really good sites at the moment about
+[00:33:11] what that might mean or be.
+[00:33:13] Um, we do think that, uh,
+[00:33:16] employee engagement is really important around AI
+[00:33:19] and AI adoption and then the worker voice,
+[00:33:22] if you like, uh, through that as well.
+[00:33:23] So we've been engaged with the PSA, uh,
+[00:33:26] we consulted them on the draft of our, our framework, um,
+[00:33:29] and, uh, we'll continue to engage with them around that.
+[00:33:32] Um, what we're finding inside DIA, for example,
+[00:33:35] we've got our own community practice, which is just DIA
+[00:33:37] and we've got people turning up
+[00:33:38] who in their part-time are doing a PhD in ai.
+[00:33:41] And then people who turn up who are very Zealand
+[00:33:45] know more about it than we do.
+[00:33:46] And then people are very frustrated of their inability
+[00:33:49] to access AI tools inside the department
+[00:33:51] as we are cautiously moving.
+[00:33:54] And then people are just, what, what is this?
+[00:33:55] And, and, and
+[00:33:56] so we are seeing real diversity in people's views
+[00:33:59] and appetite and desire.
+[00:34:00] So again, I just come back to, I think, um, the direction
+[00:34:04] of travel is clear, but the speed and pace
+[00:34:06] and implications of it are not,
+[00:34:07] and it is quite immature the market.
+[00:34:10] So we are very confident that we need
+[00:34:12] to do something we need, but our focus really is building
+[00:34:15] capability and building the foundations so
+[00:34:17] that we can respond to
+[00:34:18] what might eventuate when we're not clear yet, just
+[00:34:22] Yep. So, um,
+[00:34:23] it's, I just wanna tease out, um,
+[00:34:26] what you said about no job this place.
+[00:34:28] May I, it's not, I, I guess what,
+[00:34:30] what most people would assume.
+[00:34:31] So how do we test that? How do we know that?
+[00:34:34] How do we as a committee, when we see review, sort of
+[00:34:39] make sure then that, um, what's happening
+[00:34:41] inside the departments is that there are efficiencies
+[00:34:44] to be gained, but they're not at the expense of those docs,
+[00:34:46] which, um, we, we think
+[00:34:49] That, I think it's a, um, I, I recognize it as a,
+[00:34:54] it's actually a complex topic
+[00:34:55] and a potentially difficult topic.
+[00:34:56] So we haven't seen any employment displacement yet,
+[00:34:58] but it could well be the case.
+[00:35:00] And for the, uh, as a public service ce,
+[00:35:03] we are always balancing, um, the need
+[00:35:06] to deliver the best possible service to New Zealanders for
+[00:35:09] that to be, uh, as affordable as possible for New Zealanders
+[00:35:13] alongside maintaining a workforce who is capable
+[00:35:16] and confident in delivering.
+[00:35:18] And it's a reinforcing cycle.
+[00:35:20] I can see that technology, it does have an impact, uh,
+[00:35:23] in terms of employment.
+[00:35:24] And so, um, for example, uh, we deliver service
+[00:35:28] around passports is now primarily online.
+[00:35:30] That's how people access it.
+[00:35:32] So we don't have the same front counter, uh, staff.
+[00:35:35] Um, but there's other parts of the department have grown
+[00:35:37] and changed and we've got more jobs in
+[00:35:39] other parts of the department.
+[00:35:41] I don't know what AI is going to do for the, uh, shape
+[00:35:44] of the workforce, um, across the public sector,
+[00:35:47] but it is reasonable to expect
+[00:35:49] that it will shift it and move it.
+[00:35:50] And there may be, uh, workplace
+[00:35:52] or workforce impacts from ai.
+[00:35:54] We're not seeing that yet,
+[00:35:56] and it's still quite new and early.
+[00:35:57] Just one more, just, just finishing off this, all
+[00:36:00] that is helpful, um, coming.
+[00:36:04] My first question was really about, um, how do,
+[00:36:07] where is the system stewardship around making sure that
+[00:36:10] those, you know, we want New Zealanders
+[00:36:12] to have the skills in the public sector to use AI wealth.
+[00:36:16] Um, how do we make sure that that's not, um,
+[00:36:19] just some people, some people who are the adopters,
+[00:36:22] the PhDs, they're the people
+[00:36:23] going out and getting these skills.
+[00:36:24] How do we make sure that's equitable, that's fair,
+[00:36:26] that's getting through the one stool.
+[00:36:29] How do we make sure that that's happening if we
+[00:36:31] don't have someone with the hand?
+[00:36:33] I think, um, we, we face a question like this
+[00:36:36] or similar often for GCDO
+[00:36:38] and uh, this, um, uh, it's important to recognize
+[00:36:43] that chief executives are accountable
+[00:36:44] for their own organizations
+[00:36:45] and their own responsibilities, including their workforce.
+[00:36:48] And so it's important that we support that.
+[00:36:51] We provide, uh, um, policies, guidance tools
+[00:36:53] that run across the public sector,
+[00:36:55] but we're still very much organized
+[00:36:56] around public sector accountabilities falling
+[00:36:58] within executives.
+[00:37:00] So that question will be answered in different ways
+[00:37:03] in different organizations.
+[00:37:05] Um, my focus is digital
+[00:37:06] and ai, we care about capability in order to be able
+[00:37:09] to do that successfully and well.
+[00:37:11] I think the stewardship of the overall public sector
+[00:37:13] workforce is probably a bit more
+[00:37:14] with the Public Services Commission.
+[00:37:16] Um, and I think to your question though, in terms
+[00:37:20] of people coming through, that's probably also part of the,
+[00:37:23] a question for the curriculum
+[00:37:25] and sort of the education sector.
+[00:37:28] So the sort of, you know, the ministry there.
+[00:37:30] Um, and I know that there are initiatives there, it's just,
+[00:37:34] I'm not, you know, it's not really for me to discuss,
+[00:37:37] but it might be something you want to talk about
+[00:37:40] because that's part of the investment, uh, for the future.
+[00:37:44] Um, and so, you know, people leaving schools
+[00:37:48] with skills coming into the,
+[00:37:49] before the public service, we then have to, uh, ensure
+[00:37:53] that they understand, you know,
+[00:37:55] the core public service values, which are quite fundamental
+[00:37:58] and different from any other type of role, as well as how
+[00:38:02] that applies in terms of the AR context and,
+[00:38:05] and those sorts of things.
+[00:38:06] So, but to answer your question, I think
+[00:38:08] that's a curriculum, uh, question
+[00:38:10] and education question that that probably is something
+[00:38:13] that could be explored with the ministry.
+[00:38:17] Alright. Looks like, um, yep.
+[00:38:19] Uh, those were the questions that members
+[00:38:21] and thank you so much for answering these
+[00:38:24] questions and thank you for your time.
+[00:38:25] Thank you. Appreciate the opportunity.
+[00:38:28] We very quickly move.

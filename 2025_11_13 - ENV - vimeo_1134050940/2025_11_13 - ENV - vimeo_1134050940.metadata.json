@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:03:09.453218+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1134050940",
+  "title": "2025/11/13 - ENV",
+  "url": "https://vimeo.com/1134050940",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 2359,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2346.61,
+    "segment_count": 780,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_13 - ENV - vimeo_1134050940\\2025_11_13 - ENV - vimeo_1134050940.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1134050940",
+    "display_id": "1134050940",
+    "title": "2025/11/13 - ENV",
+    "description": "Thursday, 13th November 2025 | Environment Committee\n\nMinister's response to the emissions reduction monitoring report for 2025\n\nHearing of evidence:\n\nMinister of Climate Change, Hon Simon Watts",
+    "webpage_url": "https://vimeo.com/1134050940",
+    "original_url": "https://vimeo.com/1134050940",
+    "upload_date": "20251112",
+    "timestamp": 1762976256,
+    "release_timestamp": 1762976262,
+    "duration": 2359,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081904713-26b65c1b12faef080ce626ba7b1ff386de94a67b8585bab511ebea289d866aa1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264760958.vtt?expires=1778565794&sig=34d4972ca4f32c3494cdefb026db1362b0d5cad7&download=auto_generated_captions.vtt"
+  }
+}

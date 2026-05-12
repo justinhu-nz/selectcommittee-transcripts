@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:00:34.689876+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1140955225",
+  "title": "2025 11 27 FEC",
+  "url": "https://vimeo.com/1140955225",
+  "published_at": "20251127",
+  "published_display": "2025-11-27",
+  "duration_seconds": 6975,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6974.24,
+    "segment_count": 2431,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 27 FEC - vimeo_1140955225\\2025 11 27 FEC - vimeo_1140955225.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1140955225",
+    "display_id": "1140955225",
+    "title": "2025 11 27 FEC",
+    "description": "Thursday 27 November 2025\u00a0| Finance and Expenditure Committee\nInquiry into performance reporting and public accountability\nDr Paul Duignan\nPeter Wilson and Julie Fry, independent economists\nIngage Global Limited\nJames Barnes, Director, Ingage Global Limited\nDuane Grace, Director, Tiaki Global Limited\nOffice of the Ombudsman\nJohn Allen, Chief Ombudsman\nParliamentary Commissioner for the Environment\nSimon Upton, Parliamentary Commissioner for the Environment\nGeoff Simmons, Chief Economist | Kaitohu Matua \u014changa\nThe New Zealand Initiative\nDr Bryce Wilkinson, Senior Fellow\nAssociation of Salaried Medical Specialists\nHarriet Wild, Director of Policy and Research\nMcGuinness Institute\nWendy McGuinness, Chief Executive\nAnimal and Plant Health Association of New Zealand\nDr Liz Shackleton, Chief Executive",
+    "webpage_url": "https://vimeo.com/1140955225",
+    "original_url": "https://vimeo.com/1140955225",
+    "upload_date": "20251127",
+    "timestamp": 1764207159,
+    "release_timestamp": 1764207169,
+    "duration": 6975,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2088203203-4e59a0a92633c0f14057b5b0165229fd4ec03ba7f5016ee887c2320d05a4f82a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267991495.vtt?expires=1778565639&sig=bf5d6a1b2fc06300561544921a4aa472b48adf3c&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:33.052101+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094265942",
+  "title": "2025 07 16 - HE",
+  "url": "https://vimeo.com/1094265942",
+  "published_at": "20250715",
+  "published_display": "2025-07-15",
+  "duration_seconds": 4562,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4454.81,
+    "segment_count": 1298,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 16 - HE - vimeo_1094265942\\2025 07 16 - HE - vimeo_1094265942.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094265942",
+    "display_id": "1094265942",
+    "title": "2025 07 16 - HE",
+    "description": "16 July 2025 | Health Committee\n\nNotice of motion to approve the Misuse of Drugs (Classification and Presumption of Supply) Order 2025\nMinistry of Health\nTania Jones, Manager, Regulatory Practice and Analysis\nChris James, Group Manager, Medsafe\nDiana Yeritsyan, Senior Solicitor, Health Legal\nNathalie Bere-Adams, Senior Advisor, regulatory Practice and Analysis\n\nBriefing from Bronda Smith\nBronda Smith\n\nPetition of Gareth Lowndes: Increase resources for the Health and Disability Commissioner\nGareth Lowndes\n\nBriefing from Arthritis New Zealand\nHealth New Zealand\u2014Te Whatu Ora\nDr Sarah Clarke, National Clinical Director Primary and Community Care\nDr Peter Gow, Clinical Director & Rheumatologist\nAndrew Bary, Manager Pharmacy, Planning, Funding and Outcomes",
+    "webpage_url": "https://vimeo.com/1094265942",
+    "original_url": "https://vimeo.com/1094265942",
+    "upload_date": "20250715",
+    "timestamp": 1752616820,
+    "release_timestamp": 1752616828,
+    "duration": 4562,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2040594133-34a7077ccf86a385a6e296f875ef552bdd137e9f74c8339ff722709c68e5fdf9-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242615116.vtt?expires=1778566057&sig=7b1dc100b87c1c6770bc1373568063098a7cb102&download=auto_generated_captions.vtt"
+  }
+}

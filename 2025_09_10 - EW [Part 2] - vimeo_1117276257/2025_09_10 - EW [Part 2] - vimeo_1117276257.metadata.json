@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:14.162687+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117276257",
+  "title": "2025/09/10 - EW [Part 2]",
+  "url": "https://vimeo.com/1117276257",
+  "published_at": "20250910",
+  "published_display": "2025-09-10",
+  "duration_seconds": 6294,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6293.99,
+    "segment_count": 2178,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - EW [Part 2] - vimeo_1117276257\\2025_09_10 - EW [Part 2] - vimeo_1117276257.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117276257",
+    "display_id": "1117276257",
+    "title": "2025/09/10 - EW [Part 2]",
+    "description": "Wednesday 10 September 2025 | Education and Workforce Committee\n\nEducation and Training (Early Childhood Education Reform) Amendment Bill\n\nSubmitters\n\nEarly Childhood Council\n- Simon Laube, Chief Executive Officer\n\nECE Reform\n- Dr Mike Bedford, Executive Officer\n\nSave the Children\n- Jacqui Southey, Child Rights Advocacy and Research Director\n\nParents of Vision Impaired NZ\n- Dr Rebekah Graham, National Director\n\nMana Mokopuna - Children's Commissioner\n- Dr Claire Achmad, Children\u2019s Commissioner\n\nNga Tamariki Puawai o Tamaki - The Auckland Kindergarten Association\n- Pauline Winter, CEO\n\nECE Parents' Council Aotearoa\n- Michelle De Bono, Spokesperson\n\nOffice of Early Childhood Education\n- Dr Sarah Alexander, Chief Advisor\n\nKindergartens Aotearoa\n- Amanda Coulston, Chief Executive of Wh\u0101nau Manaaki Kindergartens\u00a0\n- Colleen Templeton, Head Teacher, Island Bay Kindergarten\u00a0\n- Jess Cooper, Head Teacher, Wellington South Kindergarten\n\nNZEI Te Riu Roa\n- Jess Duff\u00a0\u00a0\n- Rachel Graves\u00a0\u00a0\n- Allanah Clark",
+    "webpage_url": "https://vimeo.com/1117276257",
+    "original_url": "https://vimeo.com/1117276257",
+    "upload_date": "20250910",
+    "timestamp": 1757466705,
+    "release_timestamp": 1757466715,
+    "duration": 6294,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057187368-3753ddbde349ba5e92e463d6a49ca2ab0f1acfcf38a36ef7b8d1788bd2f347ce-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252541658.vtt?expires=1778565858&sig=3bcc9c8b7c52cde0c18130e0dbf442ca38d80fa2&download=auto_generated_captions.vtt"
+  }
+}

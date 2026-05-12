@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:10.892007+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1129353903",
+  "title": "2025 11 05 FEC",
+  "url": "https://vimeo.com/1129353903",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 3087,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3086.57,
+    "segment_count": 1141,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 05 FEC - vimeo_1129353903\\2025 11 05 FEC - vimeo_1129353903.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1129353903",
+    "display_id": "1129353903",
+    "title": "2025 11 05 FEC",
+    "description": "Wednesday 5 November 2025\u00a0| Finance and Expenditure Committee\n\nTaxation (Annual Rates for 2025\u201326, Compliance Simplification, and Remedial Measures) Bill\nRyan Daniel\nAvid.legal Limited\nMurray Whyte, Director\nMadison Kilworth, Law Clerk\nDeloitte - GST\nAllan Bullot, Partner - GST\nChartered Accountants Australia New Zealand\nCraig Elliffe, Tax Advisory Group Chair\nJohn Cuthbertson, NZ Tax and Financial Services Leader\nMax Marshall\nTax Justice Aotearoa\nGlenn Barclay, Chair of Tax Justice Aotearoa\nKate Stone, Campaign Manager, Tax Justice Aotearoa\nBill Rosenberg, Policy Advisory Committee chair, Tax Justice Aotearoa",
+    "webpage_url": "https://vimeo.com/1129353903",
+    "original_url": "https://vimeo.com/1129353903",
+    "upload_date": "20251105",
+    "timestamp": 1762304254,
+    "release_timestamp": 1762304261,
+    "duration": 3087,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078353570-99969eea08e3c360489e6cdc03009fc13b4ab60c7356d3bdeb71620564383f6b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263123476.vtt?expires=1778565675&sig=5cd4301d9744c2a30a5b7ee9c8c44e31593586f5&download=auto_generated_captions.vtt"
+  }
+}

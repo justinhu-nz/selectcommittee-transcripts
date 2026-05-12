@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:03:15.937465+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133966943",
+  "title": "2025/11/06 - ENV",
+  "url": "https://vimeo.com/1133966943",
+  "published_at": "20251106",
+  "published_display": "2025-11-06",
+  "duration_seconds": 300,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 299.44,
+    "segment_count": 108,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_06 - ENV - vimeo_1133966943\\2025_11_06 - ENV - vimeo_1133966943.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133966943",
+    "display_id": "1133966943",
+    "title": "2025/11/06 - ENV",
+    "description": "Thursday, 6th November 2025 | Environment Committee\n\nReport of the Parliamentary Commissioner for the Environment, Alt-F Reset: Examining the drivers of forestry in New Zealand\n\nHearing of evidence:\n\nNew Zealand Forest Owners' Association\nElizabeth Heeg, CEO\n\n*Committee suspended mid-way through hearing*",
+    "webpage_url": "https://vimeo.com/1133966943",
+    "original_url": "https://vimeo.com/1133966943",
+    "upload_date": "20251106",
+    "timestamp": 1762388890,
+    "release_timestamp": 1762388897,
+    "duration": 300,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081362619-505a870c1dc8b749e9cab3527bf4f03f9e9a9ca0348ed353c64f3282ca82d70f-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264530508.vtt?expires=1778565800&sig=57ae6efc4ec1f5c34792ffa7c49ba5563c44151e&download=auto_generated_captions.vtt"
+  }
+}

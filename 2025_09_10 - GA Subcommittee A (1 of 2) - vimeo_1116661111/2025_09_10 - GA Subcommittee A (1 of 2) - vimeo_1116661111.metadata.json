@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:59.885643+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1116661111",
+  "title": "2025/09/10 - GA Subcommittee A (1 of 2)",
+  "url": "https://vimeo.com/1116661111",
+  "published_at": "20250909",
+  "published_display": "2025-09-09",
+  "duration_seconds": 11756,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11720.17,
+    "segment_count": 3373,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - GA Subcommittee A (1 of 2) - vimeo_1116661111\\2025_09_10 - GA Subcommittee A (1 of 2) - vimeo_1116661111.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1116661111",
+    "display_id": "1116661111",
+    "title": "2025/09/10 - GA Subcommittee A (1 of 2)",
+    "description": "Wednesday, 10th September 2025 | Governance and Administration Subcommittee A\n\nOnline Casino Gambling Bill\n\nHearings:\n\nFitzroy Bowling Club\nDean File, President\n\nSpecial Olympics Otago Trust\nKim Caffell\n\nBrown Bay Racquets Club Incorporated\nDavid Davies, President\n\nBasketball New Zealand\nBelinda Edwards, Acting Chief Executive\n\nWellington Softball Association\nRaewyn, Chair\n\nTawa AFC\nRichard Mowbray, President\n\nWaimea Old Boys Rugby Football Club\nShar Lowe, Club Manager\n\nNorthern United Hockey Club Incorporated\nNicole Halverson, Chair\nLee Paton, Committee Member\n\nAotearoa Gaming Trust\nCampbell Wilson, National Operations Manager\n\nNew Zealand Telecommunications Forum (TCF)\nKim Connolly-Stone, Policy Director\nDave Simpson, Spark New Zealand\n\nBusiness and Professional Women Inc\nSherryll Markie-Brookes, Vice President Issues\nVicky Mee, Past President\n\nNew Zealand Lotteries Commission (Lotto NZ)\nMark Todd, Chair\nJason Delamore, Chief Executive\nKate Morrisey, General Counsel\nWill Hine, Head of Corporate Communications\nLucy Fullarton, Principal, Regulatory and Stakeholder Engagement\n\nHapai Foundation\nKalie Evans, Trustee\n\nKarori United Tennis Club Incorporated\nSharon Cottrell, President\nMark Storey, Committee Member\n\nSouthern Cancer Society Trust\nHeather Locke, Grant and Request Specialist\n\nThe Mataura Rodeo Club Inc\nAlyce Perkins, Secretary/Treasurer\n\nCycling Marlborough\nRoss Frater, President\n\nH\u0101pai Te Hauora\nJason Alexander, CEO\nJessikha Makoare, Public Health Manager\n\nThe Asian Network Incorporated\nVishal Rishi, Chief Executive Officer\n\nNorth Avon Christchurch BMX Club\nMark Lewis, President",
+    "webpage_url": "https://vimeo.com/1116661111",
+    "original_url": "https://vimeo.com/1116661111",
+    "upload_date": "20250909",
+    "timestamp": 1757462206,
+    "release_timestamp": 1757462218,
+    "duration": 11756,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057219916-4d2b9ff7d8376018bdd2242f8e46e69277129d8fa1909cb3a40b94e65caad948-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252534060.vtt?expires=1778566204&sig=d4605118fe1c90eb8913b0aec12dc19f7e5a8d09&download=auto_generated_captions.vtt"
+  }
+}

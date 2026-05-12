@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:47.435277+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1035460806",
+  "title": "2024/12/05 - FD [Part 1]",
+  "url": "https://vimeo.com/1035460806",
+  "published_at": "20241204",
+  "published_display": "2024-12-04",
+  "duration_seconds": 11630,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11629.39,
+    "segment_count": 4474,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_05 - FD [Part 1] - vimeo_1035460806\\2024_12_05 - FD [Part 1] - vimeo_1035460806.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1035460806",
+    "display_id": "1035460806",
+    "title": "2024/12/05 - FD [Part 1]",
+    "description": "Thursday 5 December 2024 | Foreign Affairs, Defence and Trade Committee\n\nItem of business: \n\n2023/24 Annual review of the Ministry of Foreign Affairs and Trade \n\nHearing of evidence: \n\nHon Todd McClay, Associate Minister of Foreign Affairs\n\nMinistry of Foreign Affairs and Trade \n\n                 Bede Corry, Chief Executive and Foreign Secretary\n                 Rob Taylor, Deputy Chief Executive, People and Operations Group\n                 Vangelis Vitalis, Deputy Secretary, Trade and Economic Group\n                 Bernadette Cavanagh, Deputy Secretary, Pacific and Development Group\n                 Paula Wilson, Deputy Secretary, Europe, Middle East & Africa and Australia Group\n                 Victoria Hallum, Deputy Secretary, Multilateral and Legal Affairs Group\n                 Mark Sinclair, Acting Deputy Secretary, Americas and Asia Group\n                 David Evans, Divisional Manager, Strategy and Performance Division\n                 Jonathan Curr, Divisional Manager, Middle East and Africa Division\n                 Raylene Liufalani, Chief of Staff\n                 Corinne Ambler, Chief Media Adviser\n                 Sarah Corbett, Divisional Manager, Executive Services Division\n                 Catherine Pantling, Senior Adviser, Executive Services Division",
+    "webpage_url": "https://vimeo.com/1035460806",
+    "original_url": "https://vimeo.com/1035460806",
+    "upload_date": "20241204",
+    "timestamp": 1733356259,
+    "release_timestamp": 1733356542,
+    "duration": 11630,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1957902740-773390c08999bb2cbaf449acdf08ff92b723c2d947ed0af02b7d0338c7ce9de2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200593728.vtt?expires=1778566311&sig=929f223500453ddd148929e99f4303d37ecadb20&download=auto_generated_captions.vtt"
+  }
+}

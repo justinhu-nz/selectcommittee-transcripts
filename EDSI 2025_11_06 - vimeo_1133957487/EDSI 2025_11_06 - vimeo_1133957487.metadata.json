@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-12T04:05:27.647059+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133957487",
+  "title": "EDSI 2025/11/06",
+  "url": "https://vimeo.com/1133957487",
+  "published_at": "20251106",
+  "published_display": "2025-11-06",
+  "duration_seconds": 2314,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2309.61,
+    "segment_count": 914,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\EDSI 2025_11_06 - vimeo_1133957487\\EDSI 2025_11_06 - vimeo_1133957487.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133957487",
+    "display_id": "1133957487",
+    "title": "EDSI 2025/11/06",
+    "webpage_url": "https://vimeo.com/1133957487",
+    "original_url": "https://vimeo.com/1133957487",
+    "upload_date": "20251106",
+    "timestamp": 1762390655,
+    "release_timestamp": 1762390661,
+    "duration": 2314,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078911152-49062d505323a0c7945a952e7d41a314c464cb5e3c89e365a0a5ae03f1b5a68c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263383257.vtt?expires=1778565932&sig=b89c28e5fb6560e1051bff502b158e9363aba0c4&download=auto_generated_captions.vtt"
+  }
+}

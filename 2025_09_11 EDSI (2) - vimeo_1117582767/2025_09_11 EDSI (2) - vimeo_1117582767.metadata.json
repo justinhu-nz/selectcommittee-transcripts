@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:43.341130+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117582767",
+  "title": "2025/09/11 EDSI (2)",
+  "url": "https://vimeo.com/1117582767",
+  "published_at": "20250911",
+  "published_display": "2025-09-11",
+  "duration_seconds": 1271,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1268.61,
+    "segment_count": 441,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_11 EDSI (2) - vimeo_1117582767\\2025_09_11 EDSI (2) - vimeo_1117582767.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117582767",
+    "display_id": "1117582767",
+    "title": "2025/09/11 EDSI (2)",
+    "description": "Anti-Money Laundering and Countering Financing of Terrorism (Supervisor, Levy, and Other Matters) Amendment Bill\n\nThe Law Association of New Zealand - AML and CFT Committee\n          Gavin Jolliffe, Senior Solicitor, Vicki Ammundsen Trust Law Limited\n          Claudia Shan, Partner, Avancier Legal\nBarfoot and Thompson\n          Peter Thompson, Managing Director\n          Ashleigh Henderson, AML Compliance Manager",
+    "webpage_url": "https://vimeo.com/1117582767",
+    "original_url": "https://vimeo.com/1117582767",
+    "upload_date": "20250911",
+    "timestamp": 1757554037,
+    "release_timestamp": 1757554045,
+    "duration": 1271,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057633168-63500faf1843566856e659ffed0cb2bf45af9b2674da0b9b3d4557bbf21a4ea5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252761552.vtt?expires=1778565948&sig=a5aecda22fab5a310bac69601d3cde02a42b1002&download=auto_generated_captions.vtt"
+  }
+}

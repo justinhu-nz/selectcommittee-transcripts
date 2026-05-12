@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:31.993205+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1036210662",
+  "title": "2024/12/05 - FD [Part 3]",
+  "url": "https://vimeo.com/1036210662",
+  "published_at": "20241205",
+  "published_display": "2024-12-05",
+  "duration_seconds": 3958,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3831.55,
+    "segment_count": 1445,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_05 - FD [Part 3] - vimeo_1036210662\\2024_12_05 - FD [Part 3] - vimeo_1036210662.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1036210662",
+    "display_id": "1036210662",
+    "title": "2024/12/05 - FD [Part 3]",
+    "description": "Thursday 5 December 2024 | Foreign Affairs, Defence and Trade Committee\n\nItem of business: \n\n2023/24 Annual review of the New Zealand Customs Service\n\nHearing of evidence: \n\nHon Casey Costello, Minister of Customs\n\nNew Zealand Customs Service\n\nChristine Stevenson, Comptroller of Customs\nJamie Bamford, Deputy Chief Executive Operations\nRichard Bargh, Deputy Chief Executive Policy, Legal and Strategy\nSharon May, Deputy Chief Executive Enterprise Services\nJoe Cannon, Deputy Chief Executive International and Governance\nDavid Soper, Chief Legal Advisor\nGreg Hanlen, Chief Financial Officer",
+    "webpage_url": "https://vimeo.com/1036210662",
+    "original_url": "https://vimeo.com/1036210662",
+    "upload_date": "20241205",
+    "timestamp": 1733371738,
+    "release_timestamp": 1733371817,
+    "duration": 3958,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1957903362-6b956b24a657c5548773b5bc9c184cfb22293ef5ef505cc2f7d2fa9576370c48-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200621391.vtt?expires=1778566296&sig=1c65f20dafcde0411a96e2e209c9ee555d1533f1&download=auto_generated_captions.vtt"
+  }
+}

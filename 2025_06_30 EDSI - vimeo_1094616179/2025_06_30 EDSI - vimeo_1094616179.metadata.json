@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:22.957608+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094616179",
+  "title": "2025/06/30 EDSI",
+  "url": "https://vimeo.com/1094616179",
+  "published_at": "20250629",
+  "published_display": "2025-06-29",
+  "duration_seconds": 7129,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7128.6,
+    "segment_count": 2298,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_30 EDSI - vimeo_1094616179\\2025_06_30 EDSI - vimeo_1094616179.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094616179",
+    "display_id": "1094616179",
+    "title": "2025/06/30 EDSI",
+    "description": "Monday, June 2025 | Economic Development, Science and Innovation Committee\n\nHearings of evidence:\n\nReview briefing on the 2023/24 annual review of AgResearch Limited\n\nAgResearch\n\tSue Bidrose, Chief Executive\n\tAxel Heiser, Chief Scientist\n\tMarie Bradley, Director Strategy and Communications\n\tCarol Bellette, Director Finance\n\tGreg Rossiter, Company Secretary\n\nReview briefing on the 2023/24 annual review of Landcare Research New Zealand Limited\n\nLandcare Research New Zealand\n\tColin Dawson, Chair\n\tJames Stevenson-Wallace, Chief Executive\n\tFiona Carswell, Science Group Manager",
+    "webpage_url": "https://vimeo.com/1094616179",
+    "original_url": "https://vimeo.com/1094616179",
+    "upload_date": "20250629",
+    "timestamp": 1751238292,
+    "release_timestamp": 1751238301,
+    "duration": 7129,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2031696338-a685a2ad54b27b2efcd8116fbc4d0f266ec4798a66fb078a9247ad62fd7462e1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/239607888.vtt?expires=1778565987&sig=e7d9418ef2428d0381c9b030437a47c2ff6070de&download=auto_generated_captions.vtt"
+  }
+}

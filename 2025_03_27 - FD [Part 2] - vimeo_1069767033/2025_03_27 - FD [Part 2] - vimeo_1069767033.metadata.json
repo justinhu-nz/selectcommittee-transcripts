@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:40.587315+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1069767033",
+  "title": "2025/03/27 - FD [Part 2]",
+  "url": "https://vimeo.com/1069767033",
+  "published_at": "20250326",
+  "published_display": "2025-03-26",
+  "duration_seconds": 745,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 736.0,
+    "segment_count": 251,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_03_27 - FD [Part 2] - vimeo_1069767033\\2025_03_27 - FD [Part 2] - vimeo_1069767033.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1069767033",
+    "display_id": "1069767033",
+    "title": "2025/03/27 - FD [Part 2]",
+    "description": "Thursday, 27 March 2025 | Foreign Affairs, Defence and Trade Committee \n\nCustoms (Levies and Other Matters) Amendment Bill\n\nSubmitters\n\nHon Casey Costello, Minister of Customs\n\nNew Zealand Customs Service\n         Richard Bargh, Deputy Chief Executive, Policy Legal and Strategy\n         Kathryn MacIver, Group Manager Policy and Strategy\n\nMinistry for the Environment\n         Hannah Singer, Senior Policy Advisor, Resource Efficiency Policy",
+    "webpage_url": "https://vimeo.com/1069767033",
+    "original_url": "https://vimeo.com/1069767033",
+    "upload_date": "20250326",
+    "timestamp": 1743027354,
+    "release_timestamp": 1743027354,
+    "duration": 745,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1998166465-fb9673649be54abfdcd3ad2728efc7ac322619ec92b1d235c3b631be57080449-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/221854773.vtt?expires=1778566245&sig=45e2234ce8801e5b47d1c244bd75a9c401d0f995&download=auto_generated_captions.vtt"
+  }
+}

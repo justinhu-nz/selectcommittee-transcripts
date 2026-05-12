@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:17.334893+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142286677",
+  "title": "2025/12/02 - EDSI (Part 2)",
+  "url": "https://vimeo.com/1142286677",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 3460,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3459.24,
+    "segment_count": 1193,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - EDSI (Part 2) - vimeo_1142286677\\2025_12_02 - EDSI (Part 2) - vimeo_1142286677.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142286677",
+    "display_id": "1142286677",
+    "title": "2025/12/02 - EDSI (Part 2)",
+    "description": "Tuesday 2 December 2025 | Economic Development Science and Innovation Committee\n\n2024/2025 Annual review of Financial Markets Authority\n\nHearing of evidence:\n\nFinancial Markets Authority\n\nSamantha Barrass, Chief Executive\nLiam Mason, Executive Director - Evaluation and Oversight and General Counsel\nCraig Stobo, FMA Board Chair",
+    "webpage_url": "https://vimeo.com/1142286677",
+    "original_url": "https://vimeo.com/1142286677",
+    "upload_date": "20251202",
+    "timestamp": 1764648773,
+    "release_timestamp": 1764648780,
+    "duration": 3460,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090335907-30c88e52c1414890b18c75b3eb507787b42ed2b91327f484ef312e00cbcdf8e0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268850591.vtt?expires=1778565922&sig=d8a11ad955aa1030d6d87b07c411e59baac3c749&download=auto_generated_captions.vtt"
+  }
+}

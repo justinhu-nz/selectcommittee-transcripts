@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:03:34.802051+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133668881",
+  "title": "2025/11/12 - EW",
+  "url": "https://vimeo.com/1133668881",
+  "published_at": "20251111",
+  "published_display": "2025-11-11",
+  "duration_seconds": 969,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 956.37,
+    "segment_count": 355,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_12 - EW - vimeo_1133668881\\2025_11_12 - EW - vimeo_1133668881.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133668881",
+    "display_id": "1133668881",
+    "title": "2025/11/12 - EW",
+    "description": "Wednesday 12 November 2025 | Education and Workforce Committee\n\nPetition of Dr Kerryn Palmer: Reinstate the Creatives in Schools Programme\n\nHearing of evidence:\nDr Kerryn Palmer",
+    "webpage_url": "https://vimeo.com/1133668881",
+    "original_url": "https://vimeo.com/1133668881",
+    "upload_date": "20251111",
+    "timestamp": 1762888932,
+    "release_timestamp": 1762888938,
+    "duration": 969,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081912149-1c49ac396599a2af7f5854a90fdd0f89f3aad9256a8ead9d876f31e9def660b1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264521353.vtt?expires=1778565819&sig=7068ca9ce7033e48023c75999d0f69f1192a6c39&download=auto_generated_captions.vtt"
+  }
+}

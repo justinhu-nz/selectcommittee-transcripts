@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:20.915547+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1116629801",
+  "title": "2025/09/08 - GA (A) (2 of 3)",
+  "url": "https://vimeo.com/1116629801",
+  "published_at": "20250908",
+  "published_display": "2025-09-08",
+  "duration_seconds": 2994,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2993.28,
+    "segment_count": 1110,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_08 - GA (A) (2 of 3) - vimeo_1116629801\\2025_09_08 - GA (A) (2 of 3) - vimeo_1116629801.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1116629801",
+    "display_id": "1116629801",
+    "title": "2025/09/08 - GA (A) (2 of 3)",
+    "description": "8 September 2025 | Governance and Administration Subcommittee A (1.00pm - 2.00pm)\nOnline Casino Gambling Bill\nSport Manawatu\nBike Manawatu Inc\n\u00a0Tim Lloyd - Chairman\n\u00a0Janina Gapper - Secretary\nRauktaui Music Therapy Trust\n\u00a0Sarah Paterson-Hamlin - Funding Coordinator\nWellington North Badminton Association Incorporated\n\u00a0Dave White - President and Chair Person\n\u00a0Richard Kirby - General Manager\nDunedin Choral Society Inc\nNZ Mountain Safety Council\n\u00a0Mike Daisley - Chief Executive Officer",
+    "webpage_url": "https://vimeo.com/1116629801",
+    "original_url": "https://vimeo.com/1116629801",
+    "upload_date": "20250908",
+    "timestamp": 1757296469,
+    "release_timestamp": 1757296479,
+    "duration": 2994,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2056761698-9396b02401f7dbdf05ea2d53f79ec921c71a2e10ea85c1e282f52ae255933964-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252111868.vtt?expires=1778566225&sig=9baae94f8d26aabc8ed03dd14f3e970967537c1d&download=auto_generated_captions.vtt"
+  }
+}

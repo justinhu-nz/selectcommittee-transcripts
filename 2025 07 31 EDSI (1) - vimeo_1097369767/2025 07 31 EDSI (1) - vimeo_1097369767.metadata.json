@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:09.656419+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1097369767",
+  "title": "2025 07 31 EDSI (1)",
+  "url": "https://vimeo.com/1097369767",
+  "published_at": "20250730",
+  "published_display": "2025-07-30",
+  "duration_seconds": 1879,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1870.91,
+    "segment_count": 641,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 31 EDSI (1) - vimeo_1097369767\\2025 07 31 EDSI (1) - vimeo_1097369767.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1097369767",
+    "display_id": "1097369767",
+    "title": "2025 07 31 EDSI (1)",
+    "description": "Review briefing on the 2023/24 annual review of Crown Regional Holdings Limited\nCrown Regional Holdings Ltd\nJohn Rae, Chair, Crown Regional Holdings Limited\nRobert Pigou, Deputy Secretary, K\u0101noa Regional Development & Commercial Services, Ministry of Business Innovation & Employment",
+    "webpage_url": "https://vimeo.com/1097369767",
+    "original_url": "https://vimeo.com/1097369767",
+    "upload_date": "20250730",
+    "timestamp": 1753911957,
+    "release_timestamp": 1753911964,
+    "duration": 1879,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042604023-84f9c4825e86ad656337851e31be715b5d73cb78e30f64c43a3c45df2fff6a7b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/245190881.vtt?expires=1778565974&sig=7e5b186124ebd1cf07f738b077e1c97fc603a7af&download=auto_generated_captions.vtt"
+  }
+}

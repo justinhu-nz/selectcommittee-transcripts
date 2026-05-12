@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:08:23.158636+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1084076926",
+  "title": "2025 05 21 - HE",
+  "url": "https://vimeo.com/1084076926",
+  "published_at": "20250520",
+  "published_display": "2025-05-20",
+  "duration_seconds": 2619,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2611.14,
+    "segment_count": 912,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 05 21 - HE - vimeo_1084076926\\2025 05 21 - HE - vimeo_1084076926.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1084076926",
+    "display_id": "1084076926",
+    "title": "2025 05 21 - HE",
+    "description": "21 May 2025 | Health Committee\n\nPetition of Health Consumer Advocacy Alliance: Establish an independent Patient Safety Commissioner accountable to Parliament\nHealth and Disability Commissioner\n\tMorag McDowell, Commissioner\n\nMedicines Amendment Bill\nAssociate Minister of Health (Pharmac)\n\tHon David Seymour",
+    "webpage_url": "https://vimeo.com/1084076926",
+    "original_url": "https://vimeo.com/1084076926",
+    "upload_date": "20250520",
+    "timestamp": 1747777991,
+    "release_timestamp": 1747777999,
+    "duration": 2619,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2017942904-2fe393559e20dcd7864d5aee306e1cda6a8eaf0acf5a42dccbc9172aa377fe75-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/232234349.vtt?expires=1778566107&sig=7d9bcd02fe125c29a0ff453a9775afd881647104&download=auto_generated_captions.vtt"
+  }
+}

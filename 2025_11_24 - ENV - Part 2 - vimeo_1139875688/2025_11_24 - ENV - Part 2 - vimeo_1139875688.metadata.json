@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:42.923279+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1139875688",
+  "title": "2025/11/24 - ENV - Part 2",
+  "url": "https://vimeo.com/1139875688",
+  "published_at": "20251124",
+  "published_display": "2025-11-24",
+  "duration_seconds": 11152,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11152.05,
+    "segment_count": 3316,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_24 - ENV - Part 2 - vimeo_1139875688\\2025_11_24 - ENV - Part 2 - vimeo_1139875688.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1139875688",
+    "display_id": "1139875688",
+    "title": "2025/11/24 - ENV - Part 2",
+    "description": "Monday 24 November 2025 | Environmental Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nNelson Tasman Climate Forum\nFred Overmars\nDavid Bartle\nAxel Downard-Wilke\n\nSummerset Group Holdings Limited\nAaron Smail\n\nMyland Partners (NZ) Ltd\nAndrew Fawcet\nMadeleine Wright\n\nContact energy\nBrett Woods\nMike Fuge\n\nDunedin Museum of Natural Mystery\nBruce Mahalski\n\nWest Coast branch of Forest and Bird\nSuzanne Hills\n\nJenny Easton\n\nAlisa Howard\n\nPirir\u0101kau Tribal Authority\nJulie Shepherd\n\nM\u0101t\u0101tahi Taiao\nHikawai Te Nahu\nQuack Pirihi\n\nNew Zealand Minerals Council\nJosie Vidal\n\nCanterbury Regional Council (Environment Canterbury)\nDr Deon Swiggs\n\nPort of Tauranga Limited\nDan Kneebone\nCory Lipinski\n\nFar North District Council\nMayor Moko Tepania\n\nRichard Reeve\n\nMary Hutchinson\n\nTe Uru Kahika\nDr Deon Swiggs\nDr Stefanie Rixecker\nNigel Corry",
+    "webpage_url": "https://vimeo.com/1139875688",
+    "original_url": "https://vimeo.com/1139875688",
+    "upload_date": "20251124",
+    "timestamp": 1763953966,
+    "release_timestamp": 1763953976,
+    "duration": 11152,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087117739-8cfd532ae2f0c8fb3afa9fc9a3508031ab14608c7dd7f3de15e5f8ca67efda68-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267249660.vtt?expires=1778565766&sig=d0aee6be097585c5d0bbfdf991f7fd60b774a88c&download=auto_generated_captions.vtt"
+  }
+}

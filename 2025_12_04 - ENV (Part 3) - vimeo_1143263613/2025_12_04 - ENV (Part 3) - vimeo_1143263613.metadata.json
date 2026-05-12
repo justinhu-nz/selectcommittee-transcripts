@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:58.153711+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143263613",
+  "title": "2025/12/04 - ENV (Part 3)",
+  "url": "https://vimeo.com/1143263613",
+  "published_at": "20251204",
+  "published_display": "2025-12-04",
+  "duration_seconds": 12258,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12258.19,
+    "segment_count": 3880,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - ENV (Part 3) - vimeo_1143263613\\2025_12_04 - ENV (Part 3) - vimeo_1143263613.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143263613",
+    "display_id": "1143263613",
+    "title": "2025/12/04 - ENV (Part 3)",
+    "description": "Thursday, 4th December 2025 | Environment Committee\n\n2024/25 Annual review of the Energy Efficiency and Conservation Authority\n\nHearing of evidence:\n\nEnergy Efficiency and Conservation Authority\n\nMarcos Pelenur, Chief Executive\nElena Trout, Board Chair\nMurray Bell, Group Manager Policy and Regulations\nWilliam Jensen, Manager Policy and Engagement\n\n\n2024/25 Annual review of the Environmental Protection Authority\n\nHearing of evidence:\n\nEnvironmental Protection Authority\n\nDr Allan Freeth, Chief Executive\nBarry O'Neil, Board Chair\nSarah Watson, General Manager, Corporate Services\nDr Lauren Fleury, Acting General Manager, Hazardous Substances and New Organisms\nJulia White, General Counsel\nRoss Perrin, Head of Finance and Business Services\nRichard Preece, Manager, Climate, Land and Oceans",
+    "webpage_url": "https://vimeo.com/1143263613",
+    "original_url": "https://vimeo.com/1143263613",
+    "upload_date": "20251204",
+    "timestamp": 1764821969,
+    "release_timestamp": 1764821983,
+    "duration": 12258,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091464928-31686c96188f27fc66d48455ec5ecd6a3001b5989f717c77442c494290881baa-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269753460.vtt?expires=1778565722&sig=345d717d14b18b70122d5aa8a24537f4553c9ed5&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:00:56.956134+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135941183",
+  "title": "2025 11 19 FEC",
+  "url": "https://vimeo.com/1135941183",
+  "published_at": "20251118",
+  "published_display": "2025-11-18",
+  "duration_seconds": 1992,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1991.33,
+    "segment_count": 754,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 19 FEC - vimeo_1135941183\\2025 11 19 FEC - vimeo_1135941183.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135941183",
+    "display_id": "1135941183",
+    "title": "2025 11 19 FEC",
+    "description": "Wednesday 19 November 2025 | Finance and Expenditure Committee\nTaxation (Annual Rates for 2025\u201326, Compliance Simplification, and Remedial Measures) Bill\n\nCorporate Taxpayers Group\nVivien Lei, Senior Group Tax Advisor, Fisher & Paykel Healthcare\nPatrick McCalman, Partner, Deloitte\nDeloitte New Zealand\nRobyn Walker, Partner\nMayne Wetherell\nChris Harker, Partner\nBrendan Brown, Partner",
+    "webpage_url": "https://vimeo.com/1135941183",
+    "original_url": "https://vimeo.com/1135941183",
+    "upload_date": "20251118",
+    "timestamp": 1763496231,
+    "release_timestamp": 1763496237,
+    "duration": 1992,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2084509763-440f139c1f66c6288fa6d17286cca7d89bcec408c7deed738d3f4d0783abde23-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266065229.vtt?expires=1778565661&sig=f0337ff81fd808c7a23c2e40019232f268bd9425&download=auto_generated_captions.vtt"
+  }
+}

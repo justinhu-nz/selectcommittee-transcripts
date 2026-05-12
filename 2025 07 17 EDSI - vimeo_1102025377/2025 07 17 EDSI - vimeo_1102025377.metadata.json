@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:15.910823+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1102025377",
+  "title": "2025 07 17 EDSI",
+  "url": "https://vimeo.com/1102025377",
+  "published_at": "20250716",
+  "published_display": "2025-07-16",
+  "duration_seconds": 3748,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3743.26,
+    "segment_count": 1561,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 17 EDSI - vimeo_1102025377\\2025 07 17 EDSI - vimeo_1102025377.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1102025377",
+    "display_id": "1102025377",
+    "title": "2025 07 17 EDSI",
+    "description": "Thursday 17 July 2025\n\nEconomic Development, Science and Innovation Committee\n\nReview briefing on the 2023/24 annual review of the New Zealand Tourism Board\nHearing of evidence\nNZ Tourism Board\nRene de Monchy, Chief Executive\nPaul Brock, Board Chair",
+    "webpage_url": "https://vimeo.com/1102025377",
+    "original_url": "https://vimeo.com/1102025377",
+    "upload_date": "20250716",
+    "timestamp": 1752705398,
+    "release_timestamp": 1752705398,
+    "duration": 3748,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2037655709-4b61e512bb1d5c681a4de2e2d35397e52ad388001199f24ce77c806e3476fe36-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/242607798.vtt?expires=1778565980&sig=5ee8cb589a974eb2d7e0705f24aa9035e914c25f&download=auto_generated_captions.vtt"
+  }
+}

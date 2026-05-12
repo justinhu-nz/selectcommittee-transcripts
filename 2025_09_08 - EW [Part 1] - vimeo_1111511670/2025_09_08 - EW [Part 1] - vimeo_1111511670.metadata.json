@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:35.530152+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111511670",
+  "title": "2025/09/08 - EW [Part 1]",
+  "url": "https://vimeo.com/1111511670",
+  "published_at": "20250908",
+  "published_display": "2025-09-08",
+  "duration_seconds": 7384,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7370.62,
+    "segment_count": 2743,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_08 - EW [Part 1] - vimeo_1111511670\\2025_09_08 - EW [Part 1] - vimeo_1111511670.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111511670",
+    "display_id": "1111511670",
+    "title": "2025/09/08 - EW [Part 1]",
+    "description": "Monday 8 September 2025 | Education and Workforce Committee\n\nInquiry into the harm young New Zealanders encounter online, and the roles that Government, business, and society should play in addressing those harms\n\nDr Emma Briant\n\nYouthline Auckland\n- Liz Hosking-Clement, Clinical Improvement Lead\n\nDr Shaanan Cohney\n\nDavid Harvey\n\nacademyEX\n- Frances Valintine, Founder & Board Director\n\nDr Samantha Marsh\n\nDr Claire Meehan\n\nClinical Advisory Services Aotearoa\n- Maree Inder, Chief Executive\n- Linda Bowden, 2IC Clinical Manager\n\nNetsafe\n- Michael des Tombe, Chief Legal Advisor\n\nQUT Digital Media Research Centre\n- Professor Axel Bruns, Program Leader \u2013 Digital Publics\n- Dr Kim Osman, Senior Research Associate\n- Daniel Whelan-Shamy, Research Student\n\nChildren\u2019s Online Safety Society (B416)\n- Dr Maneesh Deva, Member Anna Curzon\n- Co-chair Steve McCracken, Principal \u2013 Whangaparaoa College\n\nStratford District Youth Council\n- Tatjana Hanne, Co-chair\n- Tess Hooker, Secretary\n\nHavelock North Intermediate School\n- Nigel Messervy, Principal\n- Shyna Kesha, Staff Member\n\nKaye McKean",
+    "webpage_url": "https://vimeo.com/1111511670",
+    "original_url": "https://vimeo.com/1111511670",
+    "upload_date": "20250908",
+    "timestamp": 1757290134,
+    "release_timestamp": 1757290150,
+    "duration": 7384,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2056684117-370beb44199de302fba48c06e87ed9f5c12c0c7ce3ad9a2af7b91a7bf11b9246-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252103323.vtt?expires=1778565880&sig=1f63e0443e08f80164a7886b747954f24a2e14a5&download=auto_generated_captions.vtt"
+  }
+}

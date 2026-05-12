@@ -1,0 +1,524 @@
+Title: EDSI 2025/11/06
+URL: https://vimeo.com/1117645770
+Published: 2025-11-05
+Duration: 00:27:19
+
+[00:04:12] Not sure if you can answer this,
+[00:04:13] but the question, first question really is
+[00:04:15] how effective you think the guidance has been?
+[00:04:18] Um, and you've talked about just over 2000 downloads.
+[00:04:22] How many, um, businesses that you think in New Zealand are
+[00:04:27] actively engaging with it or following it?
+[00:04:31] Um, well, you, you're right.
+[00:04:32] So it's a really hard question to Yeah, to know.
+[00:04:35] Um, we've got, I guess, broader indications
+[00:04:38] of what's happening to AI use, um, both in, in New Zealand
+[00:04:41] and other countries where guidance has been, um, introduced.
+[00:04:44] Um, it's fair to say that New Zealand was a, a bit
+[00:04:46] of a slow adopter,
+[00:04:47] but like all countries where, you know,
+[00:04:50] use increasing rapidly.
+[00:04:51] So from a, uh, I guess a slight, um, uh,
+[00:04:55] slight slower start, you're seeing this, this big uptake
+[00:04:59] and we haven't seen any cases where there's been, um,
+[00:05:03] I guess poor use of ai.
+[00:05:05] So it's encouraging there, but, uh,
+[00:05:06] but we have no specific information on, on, uh,
+[00:05:10] AO business users yet.
+[00:05:12] Sure. So there've been no, um, opportunity to see
+[00:05:17] within that number of downloads, the di with the, the divide
+[00:05:20] between small or medium, uh, medium to large size businesses
+[00:05:24] or small businesses who accessed it. You'd have
+[00:05:27] No, no, we've been able to do that.
+[00:05:28] I mean, the, the other thing that we have been doing though
+[00:05:30] is, um, we've started to introduce some of the concepts
+[00:05:34] and the guidance into o other parts of the NB offering.
+[00:05:37] So we run the, the business.gov website,
+[00:05:39] and so that started to have an AI section and also we look
+[00:05:42] after the regional business partner network.
+[00:05:45] So this is all the, um, the regional contracts
+[00:05:48] to help different business advisors.
+[00:05:50] And, um, uh, dove had a, um, a kind
+[00:05:53] of a train the trainer AI session as well,
+[00:05:55] so you're seeing the demand for
+[00:05:56] that sort of tool picking up.
+[00:05:58] Sure. And, um, you talked also about the,
+[00:06:01] in your opening comments about the, the pace of change.
+[00:06:04] So you're right, guidance and then the, the technology
+[00:06:07] and the resource continues to evolve.
+[00:06:09] Um, a few questions on that.
+[00:06:11] The first, is there a schedule
+[00:06:14] or is there a mechanism in place for you to be able
+[00:06:17] to review the guidance based on the changes?
+[00:06:20] Uh, so we haven't got a schedule
+[00:06:22] or a planned, um, review, um,
+[00:06:24] but it is something that is said we're, we're rolling out,
+[00:06:27] um, through other means.
+[00:06:29] Probably the, the things that we're,
+[00:06:32] we're doing is very much putting it into the small business,
+[00:06:35] um, uh, services that envy provides.
+[00:06:39] And, and just thinking about the role of government here,
+[00:06:42] um, it, it's not gonna be something like, uh,
+[00:06:45] an envy type beast
+[00:06:46] that's gonna help a sophisticated business pick up the, the,
+[00:06:49] the very edgy, newest, um, part of, part of any technology
+[00:06:53] that, that's, the privacy sector will be able to do
+[00:06:55] that much better than than we
+[00:06:56] could, and they'll do it ahead of us.
+[00:06:58] The, the thing that we're doing is more helping
+[00:07:00] probably some of the laggards or the more nervous
+[00:07:01] kind of smaller businesses.
+[00:07:03] And, and for that, um, that cohort,
+[00:07:06] the guidance is still very relevant
+[00:07:07] 'cause it's much more kind of the bare bones, the basics of
+[00:07:09] how you pick this, this tool up.
+[00:07:11] Sure. So if the, um, I agree, there'll be,
+[00:07:15] there'll be business and enterprise that'll be leading
+[00:07:18] and there will be people who might
+[00:07:20] follow or are looking to follow.
+[00:07:22] How are you enabling the two-way conversation
+[00:07:24] between the guidance and the future shaping of the guidance
+[00:07:27] and the leaders in the sector so that it can be updated,
+[00:07:31] refreshed, and, um, able to lead the laggers with
+[00:07:35] what they should be doing now as opposed to six months ago,
+[00:07:39] Uh, really through industry engagement.
+[00:07:41] So, um, we were fortunate enough that, um, a lot
+[00:07:43] of industry participants help with this guidance.
+[00:07:45] So, um, tech NZ and the, and Maori data leaders.
+[00:07:49] And, and, and a lot of those different organizations, um,
+[00:07:52] gave up their time and we, we, those relationships continue
+[00:07:56] and have been in place for a long time.
+[00:07:57] So, um, yeah,
+[00:08:00] I guess the hypothetical situation will be when,
+[00:08:02] when those groups start to say, oh, we need to need
+[00:08:04] to update the guidance, we should.
+[00:08:06] Um, the other thing of course is that it's a web form,
+[00:08:09] it's not a, it's not a printed document.
+[00:08:11] So, um, updating it is,
+[00:08:12] that's something we can do recently quickly.
+[00:08:14] Alright. Actually, I had ask us up, uh, to the, uh,
+[00:08:18] previous question that we've been asked about the downloads.
+[00:08:20] So that downloads number of downloads is not an indication
+[00:08:23] of numbers of businesses using AI because Yeah.
+[00:08:27] So just wanted to clarify that.
+[00:08:28] And there is no like, kind of, uh, obligation on businesses
+[00:08:32] to basically tick that box before they use AI that yet.
+[00:08:36] So that's not an indication. Just wanted to clarify that.
+[00:08:38] Uh, new primary from Marina Williams.
+[00:08:41] Um, in relation to
+[00:08:42] what you were saying about the other partners that you work
+[00:08:44] with, really interested in that.
+[00:08:45] What did the, um, data ethics
+[00:08:49] and innovation tell you about the challenges
+[00:08:51] that businesses would face using Maori data?
+[00:08:55] Uh, so, um, uh, the, the, we,
+[00:08:59] we lent on their expertise there, so we're,
+[00:09:01] we're not the, the data experts.
+[00:09:03] Um, but what they, there's probably two elements.
+[00:09:06] One, one was, um, uh, data is something
+[00:09:10] that should be protected, whether it's
+[00:09:11] multi data or any data.
+[00:09:13] And, and so businesses should be careful that they're not,
+[00:09:16] um, breaching any privacy concerns.
+[00:09:18] So some of the, the, the broad, um, I guess support
+[00:09:22] and the guidance applies, um, even more so
+[00:09:24] to Maori data from that perspective than than others.
+[00:09:27] But some of the sorts of things that, that they had is, um,
+[00:09:30] they have a principle of, um, when using Maori data
+[00:09:35] businesses should ensure they do no harm
+[00:09:37] and, um, ensure that they're actually doing something
+[00:09:40] that's, that's positive for Maori.
+[00:09:41] So that there's both a perspective
+[00:09:43] of not doing something untoward
+[00:09:45] and also looking for opportunities.
+[00:09:46] And some of the principles they talk about is, um, you know,
+[00:09:51] if, if you are a business that, um, I dunno,
+[00:09:55] it was obviously leaning into Maori data,
+[00:09:56] so you were doing something like a tedo
+[00:09:58] education tool or something like that.
+[00:10:00] Um, there, there was some, some, um,
+[00:10:02] important steps you'd take.
+[00:10:04] So one, you'd, you'd obviously involve, um, Maori, so you,
+[00:10:07] you'd find, um, some sort of, um, leader or community group
+[00:10:12] or something to give you a perspective on, on the use.
+[00:10:15] Uh, you make sure that there are, um, uh,
+[00:10:18] protections in the data, so it's not something
+[00:10:20] that can be lost or, or, or, um, hacked or something.
+[00:10:25] Um, you should, um, uh,
+[00:10:29] I guess my example doesn't work for this, but,
+[00:10:31] but you should control for bias.
+[00:10:32] So say if you're doing something on, I dunno, something
+[00:10:35] that would, uh, have some sort
+[00:10:37] of bias towards certain communities
+[00:10:38] or indigenous perspectives, well then you,
+[00:10:40] you need to make sure that that doesn't happen.
+[00:10:42] Um, and then the final one is making sure you have a human
+[00:10:45] in the loop so that you could at the end look at it
+[00:10:48] and go, well, hang on, is this actually sp out something
+[00:10:50] that we think is a fit for purpose product?
+[00:10:52] Um, really interested in that.
+[00:10:54] How, um, so larger businesses, this isn't necessarily a tool
+[00:10:58] for, what is the role of MB with some of those, um,
+[00:11:02] larger business out AI feels like facial recognition in
+[00:11:06] supermarkets say, um, the challenges for them using, um,
+[00:11:10] recognition of, of money will be different from
+[00:11:13] anywhere else in the world, but they're doing it.
+[00:11:15] So there seems to me to be a natural role for, you know,
+[00:11:19] public organizations to work alongside that in New Zealand
+[00:11:22] to make it appropriate for our,
+[00:11:23] our temperature on those issues.
+[00:11:24] How, how do they come to you? Do they come to you?
+[00:11:27] Can, can you see a role of working alongside?
+[00:11:30] So it's, it's a, a bit of a broad church on this issue
+[00:11:33] 'cause it is a really, um, tricky thing.
+[00:11:35] So the, the main leads are, um, as you said, the, the center
+[00:11:39] for data ethics has got, um, really good guidance on this.
+[00:11:41] And the other one is the privacy commissioner has just
+[00:11:43] updated the, uh, the, the, uh, um, tools for this. It seems
+[00:11:47] Really Good. Yeah. And
+[00:11:48] it's, and it's the sorts of things
+[00:11:49] where we'll work as a team, we'll point businesses to,
+[00:11:52] that's the, that's the, um, the, the,
+[00:11:54] the best approach you can take. Mm-hmm.
+[00:11:56] Alright. Um, primary from, uh, sorry.
+[00:12:00] And primary, you Pushed us up. Yeah,
+[00:12:02] My new primary. Um, so
+[00:12:03] appreciate what you said about involving Maori data.
+[00:12:06] So pretty much it was privacy, data security
+[00:12:08] and protecting against, uh, bias.
+[00:12:11] Wouldn't that be actually general advice for any use of ai?
+[00:12:15] Uh, absolutely.
+[00:12:16] Um, so there's, um, uh, good principles there,
+[00:12:21] but probably the, the, the differences is, um,
+[00:12:24] your opportunity to actually involve some sort
+[00:12:27] of local iwi group if you were doing something specific to
+[00:12:29] that area or, or getting a perspective.
+[00:12:31] But yeah, the, the broad principles of protecting data,
+[00:12:35] ensuring security, and watching Apple bias, that
+[00:12:38] that good data in principle, um, is,
+[00:12:40] is is good broader approach,
+[00:12:42] Um, to my primary chair.
+[00:12:44] That Right. Um, one, one thing is we talk about the use
+[00:12:48] of AI businesses using ai.
+[00:12:51] What do you envisage that act actually looks like?
+[00:12:53] Because if you can imagine, I know businesses using
+[00:12:58] imaging software, um, photo software,
+[00:13:03] AI is already already built in into some of these tools.
+[00:13:05] Mm-hmm. Are we actually looking at this wrong
+[00:13:07] by actually separating AI as an independent thing
+[00:13:11] rather than actually it's, it's a tool like a calculator
+[00:13:14] that is actually inbuilt into a lot of software these days.
+[00:13:18] Um, so what's your view on actually what, how, how, how do,
+[00:13:23] how do you actually describe businesses using ai?
+[00:13:28] Uh, so, um, but really good point.
+[00:13:30] I, I'd make the distinction almost about
+[00:13:32] how mature the technologies are.
+[00:13:34] So, um, absolutely, if you look forward five years time,
+[00:13:37] we'll think of AI as just, I dunno, trying
+[00:13:40] to imagine the world before Google
+[00:13:41] and we're trying to convince people
+[00:13:42] to use Google rather than going to the library.
+[00:13:44] Um, it would've seemed like a, like a big shift,
+[00:13:47] but now it's just, well it's, it's just a tool
+[00:13:50] and you, you use the tool for the,
+[00:13:51] for the job you've got in front of you.
+[00:13:53] Um, what we're seeing with AI though,
+[00:13:56] is initially there was the suspicion or this nervousness,
+[00:13:59] and so we wanted to try and demystify that.
+[00:14:02] And where businesses have gone first, I guess is the, um,
+[00:14:05] those repetitive tasks
+[00:14:07] and the, the, um, uh, the, you know, the, the,
+[00:14:11] the organizing information, maybe the, the data clean, the,
+[00:14:15] um, the research, the, the, the, the kind of some of those,
+[00:14:19] um, I guess drafting emails
+[00:14:20] or things like that, um, in time, you'd expect
+[00:14:24] that they will just become just another tool.
+[00:14:27] The interesting one will be, um, what we see with some
+[00:14:30] of the more, the newer things
+[00:14:31] that we can't really think about yet.
+[00:14:32] So I mentioned AI agents, some introduction, um,
+[00:14:36] that's something where, um,
+[00:14:39] you can see businesses will start to use that,
+[00:14:41] but it would still be a role for helping them navigate that.
+[00:14:44] So if it's a, I don't know, an AI agent
+[00:14:47] to tokenize your calendar, well that's probably fine
+[00:14:51] if it's a AI agent to, um, pay your power
+[00:14:55] or probably that's fine,
+[00:14:57] but if it starts to get into a more serious
+[00:14:58] financial decision, maybe not.
+[00:15:00] So there's kind of this evolutionist
+[00:15:02] of the technology matures.
+[00:15:04] So, so you're mainly focusing on the large language
+[00:15:06] models, uh, for this guidance rather than actually some
+[00:15:10] of the technologies which
+[00:15:11] has probably already been built in.
+[00:15:12] If we look in healthcare, we look at radiology.
+[00:15:15] Is that, is that really where you
+[00:15:17] see the guidance actually setting?
+[00:15:18] Can I see Something? Yeah, I, I think, uh,
+[00:15:20] there are some areas where the guide,
+[00:15:22] I mean the radiology example is one
+[00:15:23] where this guidance is perhaps less relevant,
+[00:15:27] although there is still decision criteria that you have
+[00:15:29] to apply with some of the findings
+[00:15:30] and the guidance would be relevant,
+[00:15:32] but I think it does go broader than large language models.
+[00:15:35] So anything that goes in different,
+[00:15:36] since automated decision making this guidance
+[00:15:38] is gonna be really important.
+[00:15:40] So there's quite a range of, I think as you highlighted,
+[00:15:41] there are a wide range of uses of AI
+[00:15:43] and that the guidance is reasonably flexible
+[00:15:45] in terms of how it applies to them. Mm-hmm.
+[00:15:48] Uh, Dr. David Sen, thank you, uh, pji, um,
+[00:15:51] just following on a little bit from Hamish, um, yes.
+[00:15:55] And, and politicians will be pleased to know
+[00:15:57] that they can get their agent to write their speeches
+[00:15:59] and their posts
+[00:16:00] and everything as long as they put the right
+[00:16:02] data in protected.
+[00:16:03] Um, and we can see that moving really fast.
+[00:16:07] So the opportunities for productivity are huge
+[00:16:10] as you guys are well aware of for New Zealand in particular.
+[00:16:14] Um, but the other side of that is, is safety.
+[00:16:18] And there's huge concerns around safety with, um,
+[00:16:23] all sections of society that you can think of
+[00:16:25] where we are using images and we're using people's voices
+[00:16:29] and we're able to put them
+[00:16:30] and we can use the data to do all sorts of things.
+[00:16:34] Um, and when we discuss this
+[00:16:38] with our constituency,
+[00:16:40] that's the prime thing that comes to mind.
+[00:16:42] They're really, really worried about the dangers of it.
+[00:16:45] So that question's not so much about asking you to solve
+[00:16:48] that because we kind of can't.
+[00:16:51] But it seems to me these, these two tracks, one
+[00:16:54] that you are primarily working on, which is helping
+[00:16:57] to increase productivity and helping small businesses
+[00:17:00] to do things faster and so on
+[00:17:02] and so forth in all of us actually.
+[00:17:04] And then there's this other safety side
+[00:17:05] where people are really, really concerned.
+[00:17:08] My question is really this, how do we address that
+[00:17:11] as a parliament, as a government?
+[00:17:14] Because you, you may have one part of the solution,
+[00:17:18] you mentioned the center for Data care and,
+[00:17:21] and Privacy Commission.
+[00:17:22] Is there a way that we can start
+[00:17:23] to bring these things together
+[00:17:25] or do they need to be discovered understood in
+[00:17:29] separate domains?
+[00:17:32] So, um, I guess the, the, the guidance has, um,
+[00:17:36] an important word in its title, which is responsible use.
+[00:17:40] So, um, there, there are, um, yeah, there, there's plenty
+[00:17:45] of sections about how businesses can navigate this,
+[00:17:47] but one of them is on the, um, how you comply
+[00:17:50] with different legal obligations
+[00:17:52] and, um, you know, the,
+[00:17:55] the parliament's perspective is ensuring that those, um,
+[00:17:58] those, those I guess fundamental laws are for purpose.
+[00:18:02] So, um, the AI strategy that was released at the same time,
+[00:18:06] um, the government, um, indicated its position,
+[00:18:09] which was not to produce a bespoke AI act
+[00:18:13] and instead to rely on the,
+[00:18:15] the fundamental laws that New Zealand has.
+[00:18:17] So there's things like the Privacy Act, the Commerce Act,
+[00:18:20] the Competition Act, and they all have elements that apply
+[00:18:23] to all technologies and the is well, how do we ensure
+[00:18:27] that they stay for, for purpose of ai?
+[00:18:29] Sure. So there's a, um, an update to the um,
+[00:18:34] uh, commerce act that's coming through and,
+[00:18:36] and it's all about how, um, uh, avoiding price collusion
+[00:18:41] and, and the too long didn't read is, um, you can't say, oh,
+[00:18:45] it wasn't me, it was the algorithm.
+[00:18:47] And this isn't the idea of, um, uh, say three companies,
+[00:18:52] um, analytically, uh, use the same AI pricing software,
+[00:18:57] the AI price pricing software, then cos will the best way
+[00:19:00] to ensure profit maximizations collude.
+[00:19:03] And inadvertently they now have broken
+[00:19:05] a, a law in New Zealand.
+[00:19:06] So we're updating the legislation just
+[00:19:08] to make sure that that is clear.
+[00:19:10] And then probably the other one is the members bill
+[00:19:13] that's been, um,
+[00:19:15] that's been drawn the harmful digital, uh, communications.
+[00:19:18] Um, it's there on kind of the doctrine of images.
+[00:19:21] So it's, it's that sort of stuff that,
+[00:19:23] that parliament will need to, um, stay live to.
+[00:19:26] Yeah. Supplement supplementary. Yeah.
+[00:19:27] Um, yeah, so, and I agree with all of that,
+[00:19:30] but it seems quite reactive.
+[00:19:32] Um, all of the pieces of legislation,
+[00:19:35] the ministries and so on and so forth.
+[00:19:37] And you also mentioned that
+[00:19:38] how fast this is moving in fields I work in,
+[00:19:41] that's they're sort of saying this is the competitive
+[00:19:44] advantage for the 21st century,
+[00:19:47] and I agree, how the heck do we stay with this?
+[00:19:52] You know, is there a way
+[00:19:53] that we can actually bring the right people together
+[00:19:55] to stay ahead this as much as possible?
+[00:19:58] Because what you just explained, it's a kind
+[00:20:00] of piecemeal reactive way of dealing with it. Hmm.
+[00:20:05] I mean, I, I don't have the, um, uh, exact answer here,
+[00:20:09] here, um, but probably the,
+[00:20:11] the one tool we do have is the international cooperation
+[00:20:13] that New Zealand has.
+[00:20:14] So, um, uh, the, um, AI summit
+[00:20:19] as in its third year in India, um, early next year,
+[00:20:22] and a lot of the, um, uh, the, the topics of
+[00:20:25] that are all about controlling risk.
+[00:20:28] Um, so I I I, I mean that's a very partial answer
+[00:20:31] and I apologize not having anything more,
+[00:20:33] but that, that's probably our best, best opportunity to say
+[00:20:35] That. Yeah. Thank you. I think it's
+[00:20:36] probably a question for us.
+[00:20:38] Yeah. A supplementary politic.
+[00:20:40] I just wanted to add and follow through with Dr.
+[00:20:43] David's, um, questions, um, the, the,
+[00:20:46] the responsible use, um,
+[00:20:49] and the law that sort of gives the structure,
+[00:20:54] how does mb um, expect
+[00:20:58] to weigh in on responsible use?
+[00:21:00] Um, I understand there will be laws, there will be
+[00:21:04] prosecutions, um, there will be all
+[00:21:08] of the guidelines and what is, are we
+[00:21:13] doing this alone?
+[00:21:15] And yes, there will be summits are are other countries ahead
+[00:21:19] of us in, in the sense of being able
+[00:21:23] to weigh in on responsible use because humans
+[00:21:26] and laws, you know, historically, um, in,
+[00:21:31] in a state of, um, pushing the boundaries.
+[00:21:34] So,
+[00:21:36] So the, um, internationally, the, the,
+[00:21:39] there's been two paths that have gone down in regulation.
+[00:21:41] So there's the specific AI act
+[00:21:43] and that's very much the, probably the European example is
+[00:21:46] the, is the obvious one there.
+[00:21:47] Um, or there's the relying on your,
+[00:21:50] your fundamental privacy laws
+[00:21:52] and competition, what have you.
+[00:21:53] Um, and today it's not clear which is the correct one.
+[00:21:58] Um, it seems as though, um, uh, I guess
+[00:22:03] businesses find it easier to work
+[00:22:05] with legislation already know.
+[00:22:07] Um, but, but the, the jury's still out on that.
+[00:22:10] Um, some of the, the interesting things that happen
+[00:22:12] around the world are, are the large test cases.
+[00:22:15] So there's, um, uh, I guess, uh, a case going
+[00:22:19] through in the US which is all about, um, uh,
+[00:22:22] it's like copyright type issues.
+[00:22:24] So these large, um, AI businesses that have, um,
+[00:22:27] built their models and,
+[00:22:28] and taught them on these data sets that were, um,
+[00:22:34] publicly available but not public.
+[00:22:35] And there's a big questionnaire of, well, um,
+[00:22:38] what's the right stance there?
+[00:22:40] And it would be, um, very hard for New Zealand
+[00:22:42] to do something with competition law
+[00:22:43] that's inconsistent with the global norms.
+[00:22:45] So that's probably where the, the the, um, the,
+[00:22:50] the big issues will land.
+[00:22:52] Okay. Alright.
+[00:22:53] I'll ask the next question. So about the hallucinations.
+[00:22:56] So have you done any kind of survey
+[00:22:58] of businesses about the awareness of that, um, aspect of ai?
+[00:23:03] Because that can be like a kind
+[00:23:05] of a trap for some, isn't it?
+[00:23:08] No, we haven't.
+[00:23:10] Um, I'm just thinking that there's been a few high,
+[00:23:14] high profile cases of it,
+[00:23:15] and that's probably, um, raising awareness, the, uh,
+[00:23:19] the one over in Australia with the consultancy that,
+[00:23:21] that turned out that a lot of their work was hallucinated,
+[00:23:24] um, that got a lot of coverage
+[00:23:26] and that's had quite an impact on that industry.
+[00:23:28] And I speak, other businesses are well aware as well,
+[00:23:30] but there's, there's been no survey of no hallucination
+[00:23:32] Because I'm just thinking about small businesses
+[00:23:34] because they don't have like resources to put into
+[00:23:38] or to crosscheck things sometimes.
+[00:23:39] And so what do you think there needs
+[00:23:44] to be like more done in that regard?
+[00:23:48] It's a hard one just focusing on, yeah.
+[00:23:50] Um, but at least where the guidance goes on it is,
+[00:23:53] it has uh, um, I guess advice on how to do good prompting
+[00:23:57] and, and doing things and,
+[00:23:59] and understanding that if you don't understand what the data
+[00:24:02] that it's trained on, you expose yourself to risks.
+[00:24:05] But then the, the really important one
+[00:24:06] there is the human in the loop.
+[00:24:08] Mm. So it's saying that, um, by all means, um,
+[00:24:13] let your large language model draft your statements or, or,
+[00:24:16] or your documents or what have you,
+[00:24:18] but have a human in the loop, um,
+[00:24:19] that there's a good application here to, um,
+[00:24:22] company directors as well.
+[00:24:24] So the obligations that they have, they can't just, um,
+[00:24:28] I dunno, let let a large language model summarize their
+[00:24:31] board pack and say, oh yeah, I've read the board pack,
+[00:24:33] that that isn't sufficient.
+[00:24:34] They still need to charge their obligations
+[00:24:36] by being a human in the loop.
+[00:24:38] It's probably worth noting too
+[00:24:40] that different industries
+[00:24:41] have different professional duties.
+[00:24:43] So if you're a lawyer and you use AI to do your law
+[00:24:46] and you make mistakes, that's not
+[00:24:48] very professional as a lawyer.
+[00:24:50] Whereas if you are a, a builder writing copy
+[00:24:53] for your latest internet ad,
+[00:24:54] you can probably accept quite a lot more risk. That's
+[00:24:56] Good point. Yeah.
+[00:24:58] That's very good. Um, yeah. Any other questions for Mr.
+[00:25:02] Ruben? Yeah, thank you. Um, coming back to some
+[00:25:06] of the earlier comments you talked about, you know,
+[00:25:08] we've looked at to other
+[00:25:09] countries, specifically to Australia.
+[00:25:12] So it seems to me in this space, um,
+[00:25:16] we are sometimes we are kind of a fast follower.
+[00:25:19] We've just, in this case feels more like we've just been a
+[00:25:21] follower and we, I think have an opportunity
+[00:25:26] to be a leader, but the window for
+[00:25:30] that is rapidly disappearing.
+[00:25:33] Do you think that that's still viable for New Zealand
+[00:25:35] to be a leader in this space?
+[00:25:37] And if so, what do you think we need to be thinking about?
+[00:25:42] So you, you mean in terms of AI usage by business
+[00:25:45] Ai? Well,
+[00:25:46] AI usage,
+[00:25:47] but also not, not, not,
+[00:25:52] not just from a guidance perspective, not from a kind
+[00:25:54] of retrospective, now this is happening now
+[00:25:57] that's happening, we are gonna update our guidance,
+[00:26:00] but more from the perspective of trying to get ahead of it
+[00:26:02] or trying to lead with our approach to it.
+[00:26:08] Yeah. I, I I think that's quite challenging.
+[00:26:11] I, I think it probably always has been.
+[00:26:13] So, um, as team mentioned,
+[00:26:14] the regulatory environment is very much globalized.
+[00:26:18] And, um, the reality is we're, we're a taker
+[00:26:21] of a majority of these tools.
+[00:26:22] So if you have co-pilot integrated into Microsoft Office
+[00:26:24] Suite that's running on open ai, um, that's the thing
+[00:26:28] that a lot of people are using
+[00:26:29] in, in your encounter with it.
+[00:26:30] And actually a lot of that stuff is driven
+[00:26:32] by the regulatory systems in place in the US and the eu.
+[00:26:35] And, um, if we got too far ahead of that, so if we sought
+[00:26:40] to put in place measures
+[00:26:41] that weren't in those major jurisdictions, their ability
+[00:26:44] to regulate could end up being quite constrained.
+[00:26:47] So, so I think it's, yeah,
+[00:26:49] I think there are geopolitical reasons why
+[00:26:51] it's difficult for us to be a leader.
+[00:26:53] Yeah. So, uh, can I just clarify on that?
+[00:26:56] So, because AI is kind of an international thing, right?
+[00:26:58] So that's why the approach needs to be kind of, uh,
+[00:27:01] international, taking all that into consideration.
+[00:27:03] Would that be the right way to describe it?
+[00:27:06] Yeah, I think it's, I think it's a good description. Yeah.
+[00:27:08] Any more questions? Ru um, members, any more questions?
+[00:27:12] No, looks like that was really good. Yeah.
+[00:27:14] Thank you so much to both of you. Thank you. Thank you.
+[00:27:17] Thank you.

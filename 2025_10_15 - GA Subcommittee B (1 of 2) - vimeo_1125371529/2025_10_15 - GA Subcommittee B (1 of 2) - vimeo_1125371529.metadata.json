@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:08:52.927168+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125371529",
+  "title": "2025/10/15 - GA Subcommittee B (1 of 2)",
+  "url": "https://vimeo.com/1125371529",
+  "published_at": "20251014",
+  "published_display": "2025-10-14",
+  "duration_seconds": 4413,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4403.98,
+    "segment_count": 1140,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_15 - GA Subcommittee B (1 of 2) - vimeo_1125371529\\2025_10_15 - GA Subcommittee B (1 of 2) - vimeo_1125371529.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125371529",
+    "display_id": "1125371529",
+    "title": "2025/10/15 - GA Subcommittee B (1 of 2)",
+    "description": "Wednesday, 15th October 2025 | Governance and Administration Subcommittee B\n\nPublic Service Amendment Bill\n\nHearing of evidence:\n\nNational Delegate Team at Department of Conservation, Public Service Association\nPaula Warren, PSA National Delegate\n\nPolicy Hub - Victoria University of Wellington\nAndrew Jackson, Operational Manager\n\nDr. Malcolm Menzies\n\nParents of Vision Impaired NZ\nDr Rebekah Graham, National Executive Officer\n\nAsian Legal Network\nDarryn Ooi, Co-lead advocacy\n\nOffice of the Clerk\nDr. David Wilson, Clerk of the House of Representatives",
+    "webpage_url": "https://vimeo.com/1125371529",
+    "original_url": "https://vimeo.com/1125371529",
+    "upload_date": "20251014",
+    "timestamp": 1760471823,
+    "release_timestamp": 1760471832,
+    "duration": 4413,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2070098811-9b689ae18f5a7b8e3cc2b3e603dfb301ce798e27e7541b6c11231fb2ad494c46-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259124766.vtt?expires=1778566137&sig=13da0d2811966de7670831780a45ca06db16c869&download=auto_generated_captions.vtt"
+  }
+}

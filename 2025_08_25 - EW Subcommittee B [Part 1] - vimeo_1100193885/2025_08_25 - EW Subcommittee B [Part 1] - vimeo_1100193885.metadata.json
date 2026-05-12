@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:56.578686+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1100193885",
+  "title": "2025/08/25 - EW Subcommittee B [Part 1]",
+  "url": "https://vimeo.com/1100193885",
+  "published_at": "20250825",
+  "published_display": "2025-08-25",
+  "duration_seconds": 11851,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11850.19,
+    "segment_count": 3931,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_25 - EW Subcommittee B [Part 1] - vimeo_1100193885\\2025_08_25 - EW Subcommittee B [Part 1] - vimeo_1100193885.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1100193885",
+    "display_id": "1100193885",
+    "title": "2025/08/25 - EW Subcommittee B [Part 1]",
+    "description": "Monday 25 August 2025 | Education and Workforce subcommittee B\n\nEmployment Relations Amendment Bill\n\nSubmitters:\n\nKathleen Ryan\n\nUnite Union\n- Griffin Dilger, Fast Food Worker and Union Delegate\n- Tali Williams, Assistant Secretary\n\nBusiness New Zealand \n- Paul Mackay, Manager Employment Relations Policy\n- Jessica Russell, Senior Policy Adviser\n\nNew Zealand Police Association\n- Erin Polaczuk, Employment Relations Manager/National Secretary\n\n- Megan Morris\n\nAssociation of Salaried Medical Specialists\n- Steve Hurring, Industrial Director\n\nRetail NZ\n- Ann-Marie Johnson, Advocacy Manager\n- Yevgenya Chityan, Business & HR Adviser\n- Warren Quirke, Executive Director\u00a0\n\nJennifer Haraki\n\nSmall Passenger Service Association\n- Warren Quirke, Executive Director\n\n- Brodie Croucher\n\nNew Zealand Professional Firefighters' Union\n- Wattie Watson, National Secretary\n\nNZ Dairy Workers Union - Te Runanga Waiu\n- Chris Flatt, National Secretary\n- Jared Phillips, General Counsel\n\nJohn Ryall\n\nMea'ole Keil\n\nWellington Uber Drivers Network\n- Steve Fairley, Spokesperson\n\n- Nick Hill\n\n- Shaun Monaghan\n\n- Bryce Bartley\n\nYoung Workers Resource Centre\n- Matariki Roche, Communications and Engagement Coordinator\n\nMostafa Hadidi\n\nPSA Te Pukenga Here Tikanga Mahi\n- Angus Wilson, Legal Officer\n- Kirsten Winde, Policy Advisor\n\nLocal Government Committee of the PSA\n- Benedict Fergusson, Local Government Committee Member\n- Tom Buckley, PSA Assistant National Secretary\n\nNureddin Abdurahman\n\nTertiary Education Union\n- Sandra Grey, National Secretary\n\nYvonne Oldfield",
+    "webpage_url": "https://vimeo.com/1100193885",
+    "original_url": "https://vimeo.com/1100193885",
+    "upload_date": "20250825",
+    "timestamp": 1756080186,
+    "release_timestamp": 1756080200,
+    "duration": 11851,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2064589669-ee532629c313f4c2b79e76a5ac214607c66307feaf16b2638667803b4496c292-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249615152.vtt?expires=1778565901&sig=0b47d33fc5d90800e196fa0e9a7846489269a249&download=auto_generated_captions.vtt"
+  }
+}

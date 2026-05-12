@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:40.614159+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1111798560",
+  "title": "2025 09 10 FEC",
+  "url": "https://vimeo.com/1111798560",
+  "published_at": "20250910",
+  "published_display": "2025-09-10",
+  "duration_seconds": 3708,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3707.03,
+    "segment_count": 1476,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 10 FEC - vimeo_1111798560\\2025 09 10 FEC - vimeo_1111798560.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1111798560",
+    "display_id": "1111798560",
+    "title": "2025 09 10 FEC",
+    "description": "Wednesday 23 July 2025\u00a0| Finance and Expenditure Committee\n\nFinancial Markets (Conduct of Institutions) Amendment (Duty to Provide Financial Services) Amendment Bill\nAndy Foster\nNew Zealand Banking Association - Te Rangapu Peke\nRoger Beaumont, CEO\nSam Schuyt, Policy Director and Legal Counsel\nTe Kahui Inihua o Aotearoa Insurance Council of New Zealand\nKris Faafoi, Chief Executive\nSusan Ivory, Regulatory Affairs Manager\nLegislation Design and Advisory Committee\nSimon Peart, Member\nKarl Simpson, Member\nParliamentary Commissioner for the Environment\nSimon Upton, Parliamentary Commissioner for the Environment\nMatt Paterson, Chief Advisor \u2013 Policy and Programmes | Kaitohu Matua Kaupapahere me ng\u0101 H\u014dtaka",
+    "webpage_url": "https://vimeo.com/1111798560",
+    "original_url": "https://vimeo.com/1111798560",
+    "upload_date": "20250910",
+    "timestamp": 1757467820,
+    "release_timestamp": 1757467828,
+    "duration": 3708,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057197233-dd753357647d19294e1580552ed414ca287f1a764b1b05605d47579f79b4a923-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252543775.vtt?expires=1778565704&sig=07a9ba4eef3ec128e05ae9443590e5e8075d4a65&download=auto_generated_captions.vtt"
+  }
+}

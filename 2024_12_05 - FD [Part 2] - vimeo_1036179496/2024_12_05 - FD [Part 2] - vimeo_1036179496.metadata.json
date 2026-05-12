@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:38.475249+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1036179496",
+  "title": "2024/12/05 - FD [Part 2]",
+  "url": "https://vimeo.com/1036179496",
+  "published_at": "20241205",
+  "published_display": "2024-12-05",
+  "duration_seconds": 5416,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5416.02,
+    "segment_count": 2136,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_05 - FD [Part 2] - vimeo_1036179496\\2024_12_05 - FD [Part 2] - vimeo_1036179496.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1036179496",
+    "display_id": "1036179496",
+    "title": "2024/12/05 - FD [Part 2]",
+    "description": "Thursday 5 December 2024 | Foreign Affairs, Defence and Trade Committee \n\nItem of business: \n\n2023/24 Annual review of the New Zealand Antarctic Institute\n\nHearing of evidence: \n\nNew Zealand Antarctic Institute \n\nProfessor Jordy Hendrikx, Acting Chief Executive\n\nItem of business: \n\n2023/24 Annual review of New Zealand Trade and Enterprise\n\nHearing of evidence: \n\nNew Zealand Trade and Enterprise\n\nJennifer Kerr, Chair, NZTE Board\nPeter Chrisp, Chief Executive",
+    "webpage_url": "https://vimeo.com/1036179496",
+    "original_url": "https://vimeo.com/1036179496",
+    "upload_date": "20241205",
+    "timestamp": 1733366227,
+    "release_timestamp": 1733366344,
+    "duration": 5416,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1957902978-a1ad5cf991d9af33534b17eb6f0bc55313344276207273e69d902f48ccbd284a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200612760.vtt?expires=1778566302&sig=856d6ea490dc7b12bd3df29a4901763b7a09225d&download=auto_generated_captions.vtt"
+  }
+}

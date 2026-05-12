@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:02.245060+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1115007806",
+  "title": "2025 09 02- HE Subcommittee A (Part 2)",
+  "url": "https://vimeo.com/1115007806",
+  "published_at": "20250902",
+  "published_display": "2025-09-02",
+  "duration_seconds": 11592,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11588.67,
+    "segment_count": 3711,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 02- HE Subcommittee A (Part 2) - vimeo_1115007806\\2025 09 02- HE Subcommittee A (Part 2) - vimeo_1115007806.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1115007806",
+    "display_id": "1115007806",
+    "title": "2025 09 02- HE Subcommittee A (Part 2)",
+    "description": "2 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nPirirakau Tribal Authority - Incorporated\n\tJason Ake\n\tJulie Shepherd\nToitu Te Tiriti Otautahi\n\tTeresa Butler\nTania Rauna\nSTIR - Stop Institutional Racism\n\tDr Clive Aspin, Associate Professor, Te Herenga Waka, Victoria University\n\tDr Elspeth Frascatore, Senior Medical Officer, Emergency Department, Auckland Hospital\nOraTaiao Aotearoa NZ Climate and Health Council\n\tDr Summer Wright\n\tDr Dermot Coffey\nRoyal New Zealand College of General Practitioners\n\tDr Luke Bradford, President\n\tDr Jessica Keepa, Te Akoranga a M\u0101ui representative\nRoyal Australasian College of Physicians\n\tDr Matt Wheeler\nWERO\nHemopereki Simon, Co-researcher\nRose Black\nThe Royal Australia and New Zealand College of Psychiatrists RANZCP\n\tWhaea Moe Milne\n\tMatua Ron Baker\nTe Waka Whaiora Trust\n\tCarole Koha\nMarion Leighton\nTe Tahuna Trust\n\tIvor Jones\nNga Iwi o Taranaki\n\tDion Luke\nTe Karu o Te Ika Poari Hauora - Iwi Maori Partnership Board\n\tMaia Te Hira\nTess Pilkington\nNational Council of Women of New Zealand\n\tEileen Brown, Safety Health & Wellbeing Action Hub\n\tBernice Williams, Parliamentary Watch Committee\n\tMathilde Jaudin, Board Administrator\nTe Pae Oranga o Ruahine o Tararua\n\tAdele Small\nTe Runanga o Nga Toa Awhina, NZPSA\n\tAllan Franks\n\tManaia Tana\nProtect Public Healthcare (PPH)\n\tMason Lithgow",
+    "webpage_url": "https://vimeo.com/1115007806",
+    "original_url": "https://vimeo.com/1115007806",
+    "upload_date": "20250902",
+    "timestamp": 1756786910,
+    "release_timestamp": 1756786928,
+    "duration": 11592,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2054260475-1694d195f1a7d020523cb089bd6a59f53e426c90669ef5d2e65328de88df7b55-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/251237379.vtt?expires=1778566026&sig=8e9b84bb179a2cf81a75f2c68b658fe4684653fc&download=auto_generated_captions.vtt"
+  }
+}

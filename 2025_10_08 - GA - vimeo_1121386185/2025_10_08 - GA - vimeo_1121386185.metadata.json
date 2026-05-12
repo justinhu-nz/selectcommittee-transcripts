@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:23.579613+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1121386185",
+  "title": "2025/10/08 - GA",
+  "url": "https://vimeo.com/1121386185",
+  "published_at": "20251007",
+  "published_display": "2025-10-07",
+  "duration_seconds": 9825,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9810.4,
+    "segment_count": 3413,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_08 - GA - vimeo_1121386185\\2025_10_08 - GA - vimeo_1121386185.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1121386185",
+    "display_id": "1121386185",
+    "title": "2025/10/08 - GA",
+    "description": "Wednesday, 8th October 2025 | Governance and Administration Committee\n\nPublic Service Amendment Bill\u00a0\n\nHearing of evidence:\n\nTaxpayers' Union\u00a0\nJames Ross - Head of Policy and Legislative Affairs\u00a0\nRay Deacon - Economist\u00a0\nAustin Ellingham-Banks - Researcher\u00a0\n\nHuman Rights Commission\nProfessor Gail Pacheco - Equal Employment Opportunities Commissioner\u00a0\nOliver Christeller - Senior Human Rights Advisor\u00a0\n\nTe Runanga o Nga Toa Awhina, NZPSA\u00a0\nJoanna Houston - Head of Te Runanga o Nga Toa Awhina\u00a0\nMike Tana - Maori Policy Advisor\u00a0\n\nFree Speech Union\u00a0\nSteph Martin - Stakeholder Relationships Manager\u00a0\nGeoff Plimmer - Board Member\u00a0\n\nHapai Public Institute of Public Professionals Aotearoa New Zealand\u00a0\nDerek Gill - Board Member\u00a0\n\nNew Zealand Public Service Association\u00a0\nFleur Fitzsimons - National Secretary\nDuane Leo - National Secretary\nAlex Davies - Assistant Secretary\u00a0\nAndrew McCauley - Policy Advisor\u00a0\n\nLocal Government (System Improvements) Amendment Bill\u00a0\n\nHearing of evidence:\n\nCanterbury Regional Council\u00a0\nDeon Swiggs - Deputy Chair\u00a0\n\nLocal Government New Zealand\u00a0\nSimon Randall - Policy Director\u00a0\nScott Necklen - Chief Executive\u00a0\n\nThe New Zealand Initiative\u00a0\nNick Clark - Senior Fellow\u00a0\n\nFederated Farmers of New Zealand\u00a0\nNigel Billings - Senior Policy Advisor\u00a0\nSandra Faulkner - Local Government Spokesperson\u00a0\n\nNew Zealand Council of Trade Unions\u00a0\nRichard Wagstaff - President\u00a0\nJack Foster - Policy Analyst\u00a0\n\nTaituara - Local Government Professionals Aotearoa\u00a0\nJo Miller - President\u00a0\nRaymond Horan - Chief Advisor\u00a0\n\nParliamentary Commissioner for the Environment\u00a0\nSimon Upton - Commissioner\u00a0\nRebecca Thornley - General Counsel\u00a0\nMatt Paterson - Chief Policy Adviser\u00a0\n\nEconomic Development New Zealand\u00a0\nVaughan Cooper - Chairman\u00a0\n\nAuckland Council\nRichard Hills - Councillor, Chair of Policy and Planning Committee\u00a0",
+    "webpage_url": "https://vimeo.com/1121386185",
+    "original_url": "https://vimeo.com/1121386185",
+    "upload_date": "20251007",
+    "timestamp": 1759876036,
+    "release_timestamp": 1759876050,
+    "duration": 9825,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067529713-51c8947a626244739926f1063c21b6e7374a13162fc12a4ffd3fc86cef8a67f1-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257861712.vtt?expires=1778566168&sig=43ba4e00051e54ad3184969744ce3ba89e7572dd&download=auto_generated_captions.vtt"
+  }
+}

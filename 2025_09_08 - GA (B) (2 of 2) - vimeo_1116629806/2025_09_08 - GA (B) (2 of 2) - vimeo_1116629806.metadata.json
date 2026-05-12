@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:15.184243+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1116629806",
+  "title": "2025/09/08 - GA (B) (2 of 2)",
+  "url": "https://vimeo.com/1116629806",
+  "published_at": "20250908",
+  "published_display": "2025-09-08",
+  "duration_seconds": 10537,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10535.92,
+    "segment_count": 3161,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_08 - GA (B) (2 of 2) - vimeo_1116629806\\2025_09_08 - GA (B) (2 of 2) - vimeo_1116629806.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1116629806",
+    "display_id": "1116629806",
+    "title": "2025/09/08 - GA (B) (2 of 2)",
+    "description": "8 September 2025 | Governance and Administration Subcommittee B (1.30pm - 4.55pm)\nOnline Casino Gambling Bill\nSpecial Olympics Wellington\nNew Zealand Amateur Sport Association\n\nGordon Noble-Campbell - Chairman\nJohn Morrison, MNZM - Association Vice-President\nWayne Guppy, Mayor of Upper Hutt City - Association Board Member\n\nGaming Machine Association of New Zealand\n\nPeter Dengate Thrush - Independent Chair\nDavid Cormack - Consultant\n\nNew Zealand Rugby Union\n\nMark Robinson - CEO\n\nWellington Free Ambulance\n\nDominic Barrington Prowse \u2013 Fundraising Advisor\nClaire Carruthers \u2013 GM Fundraising and Communication\n\nNew Zealand Riding for the Disabled\n\nDonna Kennedy - Chief Executive\n\nWaterside Karori AFC\n\nHugh Kettle \u2013 Chair of Executive Committee\n\nDataworks Group\n\nAl Watson - CEO\nAdam Stangroom - VP Responsible Gambling\n\nParalympics New Zealand\n\nGreg Warnecke - CEO and Secretary General\t\nJana Rangooni - Chair and President\n\nCholmondeley Children's Centre\n\nDarel Hall \u2013 General Manager\n\nTaranaki Cricket Association Incorporated\n\nRyan Evans \u2013 General Manager\n\nAmberley Squash Racquets Club\nDunedin Budget Advisory Service Inc\n\nAndrew Henderson \u2013 Executive Officer\n\nAuckland Rugby Union Incorporated\n\nPaula Kent \u2013 Head of Business, Support and Planning\n\nRotorua Lakes Council\n\nMayor Tania Tapsell\n\nTennis Western BOP\n\nRobert Naumann \u2013 Executive Chair\n\nTe Kohanga Reo o Te Awhina\nTe Ariki Paitai - Treasurer\nMaui Kahungunu Charitable Trust\n\nPane Hart - CEO",
+    "webpage_url": "https://vimeo.com/1116629806",
+    "original_url": "https://vimeo.com/1116629806",
+    "upload_date": "20250908",
+    "timestamp": 1757305813,
+    "release_timestamp": 1757305826,
+    "duration": 10537,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2056737137-2d3aaf9f1288f2ed219abe529bd1b289a48fd682bccdf1064ea9d137e3e8d062-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252124809.vtt?expires=1778566219&sig=11c95f6b9e695c9c717d738adf38074e28999fa2&download=auto_generated_captions.vtt"
+  }
+}

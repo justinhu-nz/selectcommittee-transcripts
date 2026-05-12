@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:37.774279+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1139902187",
+  "title": "2025/11/25 - ENV - Part 1",
+  "url": "https://vimeo.com/1139902187",
+  "published_at": "20251124",
+  "published_display": "2025-11-24",
+  "duration_seconds": 14376,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 14364.0,
+    "segment_count": 5099,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_25 - ENV - Part 1 - vimeo_1139902187\\2025_11_25 - ENV - Part 1 - vimeo_1139902187.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1139902187",
+    "display_id": "1139902187",
+    "title": "2025/11/25 - ENV - Part 1",
+    "description": "Tuesday 25 November 2025 | Environmental Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nTe\u00a0Ohu\u00a0Kaimoana\u00a0\nKylie Grigg\nMereana Latimer\u00a0\nKayla Martin\n\nMalaghans\u00a0Valley Protection Society\u00a0\nJames Hall\n\nGreenpeace Aotearoa\u00a0\nGenevieve Toop\n\nCentral Otago District Council, Otago Regional Council, Queenstown Lakes District Council\u00a0\nConnor English\nAnita Vanstone\n\nZero Waste Aotearoa\nSue Coutts\n\nSt Peter\u2019s on Willis Social Justice Group\u00a0\nGail Duncan\nStephen Jenkins\n\nCoromandel Watchdog of Hauraki\u00a0\nCatherine Delahunty\nAugusta\u00a0Macassey-Pickard\n\nSelwyn District Council\u00a0\nLydia Gliddon\nGeoff Deavoll\n\nGreater Wellington Regional Council\u00a0\nAdrienne Staples\nMatt Hickman\n\nTangaro Tuia te Ora, Endangered Species Foundation\u00a0\nNatalie Jessup\n\nKiwis Against Seabed Mining\u00a0\nCindy Baxter\n\nWinton Land Limited\u00a0\nBronwyn Carruthers\nSimon Ash\n\nTranspower New Zealand Limited\u00a0\nJo Mooar\nRoy Noble\n\nHorizons Regional Council\u00a0\nNikki Riley\n\nPort Company CEO Group\u00a0\nCharles Finny\n\nFederated Mountain Clubs of New Zealand\u00a0\nMegan\u00a0Dimozantos\nRaymond Ford\n\nThe Wellington Company Asset Management Limited\u00a0\nIan Cassels\n\nMcCallum Bros Limited\nCallum McCallum\n\nMeridian Energy\u00a0\nHumphrey Tapper\nAndrew Feierabend\n\nCatherine Delahunty\n\nDonald Hayes\n\n350 Aotearoa\nAdam Currie\n\nGreg Presland\n\nNew Zealand Psychological Society - Te\u00a0R\u014dp\u016b\u00a0M\u0101tai\u00a0Hinengaro o Aotearoa\u00a0\nRebecca Wirihana\nPhillipa Te Paea Pehi\nIris Fontanilla\n\nElliot Blyth",
+    "webpage_url": "https://vimeo.com/1139902187",
+    "original_url": "https://vimeo.com/1139902187",
+    "upload_date": "20251124",
+    "timestamp": 1764027305,
+    "release_timestamp": 1764027318,
+    "duration": 14376,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087557637-86d26c0a84d8c6be9c8298351d08d0f0747620fcbe6bf99f29fdb641c6e46cd2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267475224.vtt?expires=1778565761&sig=020e1ef94bf7941a411e166b1d1041e80169a0a6&download=auto_generated_captions.vtt"
+  }
+}

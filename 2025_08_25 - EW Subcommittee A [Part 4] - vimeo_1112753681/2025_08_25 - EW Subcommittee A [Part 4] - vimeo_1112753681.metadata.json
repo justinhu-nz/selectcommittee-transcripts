@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:49.764342+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1112753681",
+  "title": "2025/08/25 - EW Subcommittee A [Part 4]",
+  "url": "https://vimeo.com/1112753681",
+  "published_at": "20250825",
+  "published_display": "2025-08-25",
+  "duration_seconds": 3562,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3559.53,
+    "segment_count": 1257,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_25 - EW Subcommittee A [Part 4] - vimeo_1112753681\\2025_08_25 - EW Subcommittee A [Part 4] - vimeo_1112753681.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1112753681",
+    "display_id": "1112753681",
+    "title": "2025/08/25 - EW Subcommittee A [Part 4]",
+    "description": "Monday 25 August 2025 | Education and Workforce Subcommittee A\n\nEmployment Relations Amendment Bill\n\nSubmitters:\n\nCoal Action Murihiku (CAM) Group\n- Jenny Campbell\n\nDan Mills\n\nTe Runanga o Nga Toa Awhina, NZPSA\n- Virgil Iraia, President \u2013 Public Service Association\n- Mike Tana, Kaitohutohu Kaupapa Here M\u0101ori\n\nWomen's Network of the PSA\n- Alix Crosbie, Women's Committee Member\n- Sonja Lister, Women's Committee Member\n- Kirsten Windelov, Policy Advisor\n\nGail Duncan\n\nWorkers First Union, Inc.\n- Anita Rosentreter, Strategic Project Coordinator\n\nCoromandel Workers Council\n- Pamela Grealey",
+    "webpage_url": "https://vimeo.com/1112753681",
+    "original_url": "https://vimeo.com/1112753681",
+    "upload_date": "20250825",
+    "timestamp": 1756085053,
+    "release_timestamp": 1756085061,
+    "duration": 3562,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2064572820-5859a57b1095d3e7f3e15789262fead4f351967ea350a03813215058ca9a7fbf-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249621891.vtt?expires=1778565894&sig=70938ce293ae97cff06a8d9b9573ce9f82b9a49a&download=auto_generated_captions.vtt"
+  }
+}

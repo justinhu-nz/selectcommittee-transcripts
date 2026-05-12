@@ -1,0 +1,2436 @@
+Title: 2025 11 27 FEC
+URL: https://vimeo.com/1140955225
+Published: 2025-11-27
+Duration: 01:56:15
+
+[00:00:00] Or you can, uh, give us the 1 0 1 version, uh, verbally,
+[00:00:04] uh, of your large submission.
+[00:00:05] So go for it. We're in your hands,
+[00:00:07] So we're ready to go. Okay. Yeah.
+[00:00:09] Yeah. It's 1231.
+[00:00:10] Thank you very much. Yeah. Uh, I'm Paul Dugan.
+[00:00:13] Thank you for the opportunities to talk
+[00:00:14] to you about this important topic of government planning.
+[00:00:16] It's a bit arcane, but for those of us who are into it,
+[00:00:19] it's, it's really fascinating.
+[00:00:21] Thanks for the report that
+[00:00:22] was prepared for the select committee.
+[00:00:23] I thought it dealt in detail with it. Thank you.
+[00:00:25] Um, I've had a lot of experience, uh,
+[00:00:27] in government planning, and I won't go into it now,
+[00:00:29] but I was the director of Labor Parliamentary Research Unit
+[00:00:32] and did multiple projects for treasury
+[00:00:34] and others in regard to planning, uh,
+[00:00:37] planning methodologies, particularly for government.
+[00:00:40] There's three takeaways that I, I wanna leave with you.
+[00:00:42] One is the need for conceptual clarity
+[00:00:45] around the key issues in government planning.
+[00:00:47] Secondly, there should be a better way
+[00:00:49] to see what government is doing.
+[00:00:51] And then lastly, we could build on New Zealand's reputation
+[00:00:53] as, uh, innovator in public sector planning in the,
+[00:00:56] in the eighties and the nineties by, uh,
+[00:00:58] moving forward in a, in a direction.
+[00:01:01] I'm about to suggest, first of all,
+[00:01:03] this question of conceptual clarity.
+[00:01:05] Um, a a lot of problems arose when I've been doing this work
+[00:01:09] for 30 years, and a lot of problems arose,
+[00:01:11] technical problems, for instance, the question
+[00:01:13] of attribution and accountability is a problem
+[00:01:15] that arises all the time.
+[00:01:16] Particularly if you start talking about outcomes.
+[00:01:18] You talk about contracting for outcomes,
+[00:01:21] it's essential that you get these, right?
+[00:01:22] Otherwise, people will end up carrying risks
+[00:01:25] that they don't even understand they're carrying.
+[00:01:27] So what I've done is I've written a book about this,
+[00:01:30] which is freely available up on the website
+[00:01:32] to be planning org slash book,
+[00:01:34] and it covers off all of the key issues that arose
+[00:01:37] and how to solve them from a robust conceptual point
+[00:01:40] of view using this thing called outcomes theory
+[00:01:42] that I've been developing in the course of this work.
+[00:01:44] So the first point is there is, uh,
+[00:01:46] is a little bit like if we're doing accounting.
+[00:01:48] You need accounting theory.
+[00:01:49] If you're doing outcomes work, planning work, you need, um,
+[00:01:53] a little bit of outcomes theory.
+[00:01:54] So there's a conceptual underpinning, which is available
+[00:01:57] for people to use up there.
+[00:01:59] Second point, the government planning is complex.
+[00:02:02] The documentation you are dealing with is complex,
+[00:02:05] and it will always be complex,
+[00:02:06] but we can put a visual layer over the top,
+[00:02:10] which enables people
+[00:02:11] to more excessively access the documentation.
+[00:02:15] And that's what I want to talk about.
+[00:02:16] I want to show you an example of visual
+[00:02:19] planning framework and action.
+[00:02:21] So what I've done here, this is kind of the fruition
+[00:02:23] of 30 years of work on government planning, is,
+[00:02:26] is I've specialized in building visual models.
+[00:02:29] I'm a psychologist, so I'm trying
+[00:02:30] to make things accessible for people.
+[00:02:32] And I've built a visual model here.
+[00:02:34] These are all the major
+[00:02:35] government departments, not all of them.
+[00:02:37] And we can drill down into them.
+[00:02:39] First of all, I've taken the government targets
+[00:02:41] and I've taken each of the government targets,
+[00:02:44] and here they are here.
+[00:02:46] Um, and what I've done for each, I've taken the target,
+[00:02:48] but I've also built one of these diagrams,
+[00:02:50] which is a particular type of intervention logic built
+[00:02:53] according to a certain set of rules.
+[00:02:55] And this is the steps that you'd have
+[00:02:57] to take in regard to that.
+[00:02:58] One of the, the targets, this target happens to be sure
+[00:03:01] to stays in emergency room.
+[00:03:02] So you need to talk about community care, care at home,
+[00:03:05] alternative scaled ambulance, handovers, et cetera.
+[00:03:08] So you can see what we see.
+[00:03:10] You can imagine a minister here talking to officials saying,
+[00:03:12] how are we going in regard to these boxes?
+[00:03:14] Are we going to achieve the target?
+[00:03:16] So the takeaway here is that you can use a visual approach
+[00:03:20] to thinking about planning.
+[00:03:22] Now, this just doesn't all, we've got all those, uh,
+[00:03:25] we've got all of the targets modeled in that way,
+[00:03:28] but we can also use it for government agencies.
+[00:03:30] So what I've done is I've built,
+[00:03:31] and all of these is fully populated.
+[00:03:33] I've built these models for all of the government.
+[00:03:35] I've done this in practice
+[00:03:36] with government agencies on hundreds of occasions.
+[00:03:39] But now what I've done with using an AI prompt
+[00:03:41] where I'm able to build very consistent models based on
+[00:03:44] public documentation from the government agencies.
+[00:03:47] So say someone says, well, hey, what's,
+[00:03:49] what's doc doing in regard to visitor
+[00:03:51] and recreation management?
+[00:03:53] Immediately, people on your committee ministers,
+[00:03:56] cabinet ministers, uh, mps, anyone can immediately say, Hey,
+[00:04:00] this is what, this is what doc's doing.
+[00:04:02] It's trying to look at visitor demand, uh,
+[00:04:05] site carrying capabilities, tracks, huts, camp sites.
+[00:04:08] So while we've got, there's a visual model,
+[00:04:09] like a little roadmap going from left to right, um,
+[00:04:12] which you can drill down immediately.
+[00:04:14] So you can see how this is much more
+[00:04:17] accessible than a traditional government
+[00:04:19] planning that we have.
+[00:04:20] It doesn't replace it, but it sits on top of it.
+[00:04:22] You could go, you could say,
+[00:04:24] what exactly is MFA doing in the Pacific, for instance?
+[00:04:27] So we drill down under MFA
+[00:04:28] and we can look at what it's doing in Pacific.
+[00:04:31] So it's, here's the steps.
+[00:04:33] Again, a model which has been drawn from public
+[00:04:35] documentation about what their department's doing.
+[00:04:38] It's not endorsed by the department,
+[00:04:40] but it could be, it could be amended
+[00:04:42] and it could be endorsed by the department.
+[00:04:44] So I just wanted to basically show you
+[00:04:46] that that's freely available.
+[00:04:47] It's up on the web for anyone to look at.
+[00:04:50] The committee can look at it, uh, et cetera.
+[00:04:53] And then the last point I wanna make is really about
+[00:04:55] innovation and government planning.
+[00:04:56] New Zealand led the world in the eighties
+[00:04:58] and nineties in government planning.
+[00:05:01] It could, if it wished to do it again with piloting this,
+[00:05:03] this, this approach that I'm putting forward.
+[00:05:06] Obviously cover that off in, in my, um,
+[00:05:08] submission and detail.
+[00:05:10] But I've just really given you a little taste of there, of
+[00:05:12] how you, we could, I, I have built in a sort of a proof
+[00:05:15] of concept of that we could have a visual model for
+[00:05:21] enabling people to get into government planning
+[00:05:23] a much more accessible way.
+[00:05:24] Now, what I've built there, that's, it is fully populated,
+[00:05:26] it's drawn off information,
+[00:05:28] public information about departments,
+[00:05:30] but there's no reason why the departments couldn't go
+[00:05:33] through and amend that to really absolutely tailor it
+[00:05:35] to exactly what they're doing.
+[00:05:37] It's all in PowerPoint.
+[00:05:38] Um, it's not any specialized software.
+[00:05:41] And that's just in conclusion, this DV planning approach.
+[00:05:44] Is it, it is in a sense, I'm giving it away.
+[00:05:47] I'm happy for anyone to use the approach.
+[00:05:48] Anyone can consult on it. Anyone can train people in it.
+[00:05:52] Um, it, it can be used is in all of that I showed you.
+[00:05:56] So anyone can edit it. People just need to acknowledge
+[00:05:59] that they're doing, do view planning.
+[00:06:01] So in conclusion, all
+[00:06:03] of this material's up on do view planning.org.
+[00:06:05] If you wanna look at the book, it's slash
+[00:06:07] book, if you wanna look at that.
+[00:06:08] Do view that I've showed you that diagram of, uh,
+[00:06:10] visualization of the, of the government planning.
+[00:06:12] It's up there slash nz do view.
+[00:06:15] And that's all I really wanted to say. Yeah.
+[00:06:18] Oh, brilliant, Paul. And, uh, great
+[00:06:19] to have an outcome specialist, uh, kicking off our, uh,
+[00:06:23] our first hearings on the inquiry into performance reporting
+[00:06:26] and, um, public accountability.
+[00:06:27] Do I have any questions members for Paul?
+[00:06:33] Uh, and that what we've, a lot of what we've seen is on
+[00:06:36] that website, uh, Ryan Hamilton. Thanks,
+[00:06:39] Chair. Uh, look, just,
+[00:06:40] just a comment, really.
+[00:06:41] Um, I hope that by the end of the process, we can end up
+[00:06:44] with something as straightforward as that
+[00:06:46] because, um, that's certainly, that's certainly, um,
+[00:06:48] you know, in my layman's process of working
+[00:06:51] through government departments, I think if anyone could,
+[00:06:53] could follow the pathway, um, yeah,
+[00:06:55] that would be most helpful.
+[00:06:56] So thank you for your contribution to, to today.
+[00:07:00] Yep. You've certainly made traceability, um, very easy in,
+[00:07:03] in, in those, uh, schemes that you showed us.
+[00:07:06] Anyone else? Okay, we'll, we'll leave it at that.
+[00:07:11] Paul, thank you so much for all the work you've done.
+[00:07:13] Keep in touch with the committee,
+[00:07:14] because this will be ongoing into next year, our inquiry.
+[00:07:18] And, um, we appreciate the work you've done.
+[00:07:20] And, uh, keep, keep in touch with our officials,
+[00:07:22] particularly around the office
+[00:07:23] of the auditor, general, and others.
+[00:07:25] Thanks very much. Um, so yeah, anyone can use that.
+[00:07:27] So have, have a wee look into that model.
+[00:07:29] It's, it's just up on the website at slash uh, nz do view,
+[00:07:33] and you can click through and see what you think
+[00:07:35] of it. Thank, thank you very
+[00:07:36] Much. Thank you. And it's an open,
+[00:07:37] open invitation
+[00:07:38] for supplementary advice
+[00:07:39] or information via our clerk's office as well
+[00:07:41] as we go through this process.
+[00:07:43] Thank you very much. Okay. Thank, thank you, Paul.
+[00:07:45] Bye-bye. Okay. Have we got their next submitters?
+[00:07:50] Yes, we've got Julie here, and we've got Peter here.
+[00:07:53] They're back. They are back.
+[00:07:55] And we appreciate your other submission.
+[00:07:57] So, um, uh, you've got five minutes.
+[00:08:01] Um, as independent economists, we look, uh,
+[00:08:03] we've got your submission here.
+[00:08:05] We look forward to your oral.
+[00:08:07] Okay, thanks. Thanks, chairman. Yes. Great to be back.
+[00:08:11] Um, we'll take it that you've read our submission.
+[00:08:13] So just, just, uh, summarize a few key points at the start,
+[00:08:18] and then hopeful have some time for questions.
+[00:08:21] We've focused our submission using the co the case study
+[00:08:25] of the work we've done on persistent disadvantage,
+[00:08:27] which is a, an area where governments have, have struggled
+[00:08:32] for quite some time across all, all, all governments
+[00:08:35] to improve lives.
+[00:08:36] And the accountability system isn't really helping, uh,
+[00:08:41] to, to do that.
+[00:08:42] And in fact, we suggest it's probably getting in the way.
+[00:08:47] And the areas we particularly want to, uh, focus on today
+[00:08:52] is that when you are dealing with people
+[00:08:56] with complex needs across multiple depart, working across
+[00:09:00] multiple departments, no single agency has,
+[00:09:03] has responsibility for, for everything.
+[00:09:06] And so accountability just, just doesn't help.
+[00:09:09] And the, particularly when you are trying to,
+[00:09:14] um, bring in the work of NGOs and iwis
+[00:09:17] and community groups, that,
+[00:09:18] that the current system just doesn't deal well across
+[00:09:21] that boundary.
+[00:09:24] We also think that, that the classic Westminster chain
+[00:09:27] of an accountability system,
+[00:09:28] which goes up from public servants to chief executives,
+[00:09:31] to ministers, to cabinet to parliament, uh,
+[00:09:34] has important gaps in it when you're dealing with, um,
+[00:09:38] with persistent disadvantage,
+[00:09:40] but also in other areas of policy.
+[00:09:42] It doesn't include the people
+[00:09:44] who are being helped in that chain.
+[00:09:46] It doesn't help communities.
+[00:09:48] It doesn't include to treaty,
+[00:09:51] and it also doesn't include future generations.
+[00:09:54] And so there, there are significant gaps of people
+[00:09:56] to whom officials should be accountable in their work and,
+[00:10:00] and that's not there.
+[00:10:02] And then finally, in areas where the government is using
+[00:10:07] contracting and third party, uh, providers
+[00:10:10] to provide services, the accountability system is often,
+[00:10:16] it's very departmental centered,
+[00:10:18] and it's pushing the author, the requirements
+[00:10:21] of departments onto providers.
+[00:10:23] Uh, it requires them to do a lot of work
+[00:10:25] for very little effort.
+[00:10:27] And we think there are real opportunities to increase,
+[00:10:31] to use the accountability systems
+[00:10:32] that those organizations are already subject to.
+[00:10:36] For example, if they're a charity,
+[00:10:38] they're subject to the Charities Act.
+[00:10:39] They do a lot of reporting.
+[00:10:41] You don't have to duplicate that in, uh, in contracts.
+[00:10:46] So that's the summary,
+[00:10:48] and we, we'd love to take any questions.
+[00:10:50] Okay. Thank you, Peter. And thank you, Julie.
+[00:10:52] Any questions, uh, for these two members? Okay.
+[00:10:57] Well, you've obviously made yourself, um, loud and clear,
+[00:10:59] and so thank you for, um, uh, giving us much, uh, a big part
+[00:11:04] of your day today on both submissions.
+[00:11:06] Thank you, Mr. Chair. Thanks members. Thank
+[00:11:08] You. Thank you.
+[00:11:09] Okay.
+[00:11:12] Um, who have we got next? Mr.
+[00:11:15] Mr. Clark and James and Wayne?
+[00:11:22] Oh, very good. Hello, gentlemen.
+[00:11:25] Kia Kiara, uh, you have got 10 minutes,
+[00:11:29] and so we're not gonna eat into that.
+[00:11:30] We've got your written submission,
+[00:11:33] and so we're in your hands.
+[00:11:35] Yeah, K Cameron. And, um,
+[00:11:39] so we appreciate the opportunity to talk to the submission
+[00:11:42] that we, that we made.
+[00:11:43] My name is Dwayne Grace. I'm the, uh,
+[00:11:45] program director for Engage Global.
+[00:11:47] And beside me is, uh, James Barnes,
+[00:11:49] who's the director of the same company.
+[00:11:51] So, to, to kick it off, we, uh, reviewed the interim report
+[00:11:56] and that, that had one singular question.
+[00:11:58] How is it that parliament
+[00:11:59] and public hold the executive to account,
+[00:12:00] whether it be public money or otherwise?
+[00:12:02] And in the first kind of four key areas to that report,
+[00:12:05] we agreed in some, so whether it be the identification
+[00:12:09] of the limitations of, of the current reporting
+[00:12:11] or performance, uh, reporting system, that being
+[00:12:14] that performance data is, is fragmented.
+[00:12:16] There's no connect between, uh, policy, intent and outcome.
+[00:12:19] There's not a depth necessarily of the assessment,
+[00:12:22] and there's no cross-agency reporting mechanism
+[00:12:25] that lands exactly as to our experience.
+[00:12:27] And both James and I have experienced across 30 years
+[00:12:30] working across and in government on,
+[00:12:32] on different programs of works.
+[00:12:33] The second part to that is that the purpose of the system
+[00:12:36] that was defined was very good.
+[00:12:38] The accountability requirement for the system,
+[00:12:40] the improvement and the trust in terms of underpinning what
+[00:12:43] that performance reporting system would look like,
+[00:12:45] makes a lot of sense in the heartening thing from our
+[00:12:47] perspective or engages perspective, was that that component
+[00:12:51] around constant improvement of system when it comes
+[00:12:55] to then the design principles, which I'll, which we'll talk
+[00:12:58] to, um, after we, we, we kind of set the, the frame was
+[00:13:02] that those design principles again, resonated
+[00:13:05] to us across all of them.
+[00:13:08] The, under the requirement for understandable information,
+[00:13:11] the securing the information that matters,
+[00:13:13] and then identifying information that's connected,
+[00:13:16] trustworthy, and proportionate all makes complete sense.
+[00:13:20] So what was our submission about then?
+[00:13:22] Our submission was a response to that.
+[00:13:25] And what we're going to talk
+[00:13:26] to is about the REM methodology,
+[00:13:28] and then provide an example of how that's been used.
+[00:13:30] REM as a methodology has been around for more than 30 years,
+[00:13:34] and what it connects to of the eight improvement areas
+[00:13:36] that were presented in the interim report, the one
+[00:13:39] that's most, most relevant.
+[00:13:41] And we think the one that has the most important is that
+[00:13:44] of the enabler, because it, it's not about,
+[00:13:47] we don't believe the response to the reporting limitations
+[00:13:50] that were identified in interim report are adding new layers
+[00:13:52] or new systems or new processes,
+[00:13:55] but rather levering what we already have REM
+[00:13:58] as a methodology is built around people.
+[00:14:01] And that's been the, the, the, the secret source or,
+[00:14:05] or why it's been successful both here in New Zealand
+[00:14:07] offshore as a methodology.
+[00:14:08] It's been currently used in the GCC.
+[00:14:10] So if you can take a methodology that was built out
+[00:14:12] of New Zealand and apply it in different other
+[00:14:14] jurisdictions, you know that the methodology
+[00:14:16] and the frameworks that it provides are universal and it,
+[00:14:19] and they are, because it's about the people.
+[00:14:22] So REM stands for relational equity, uh, relationships,
+[00:14:25] equity and management,
+[00:14:27] where relationships is about aligning persons
+[00:14:30] or peoples that have a responsibility to an outcome.
+[00:14:32] Equity looks at what those role responsibilities are,
+[00:14:35] but in particular, accountability
+[00:14:37] and management defines the disciplines, processes
+[00:14:40] and systems that will deliver those outcomes.
+[00:14:42] Now, again, um, as the person said, just, uh,
+[00:14:46] before us, we take it that the submission was read.
+[00:14:49] And so you can see that from a framework perspective,
+[00:14:52] it's relatively easy to apply the re methodologies
+[00:14:54] of framework over a particular organization, enterprise or,
+[00:14:58] or initiative program of work.
+[00:14:59] That that's probably its strength.
+[00:15:01] When you look at each of those three, um, factors of, of,
+[00:15:05] uh, relationship equity management, A a again, the,
+[00:15:08] I think we provide an example across the
+[00:15:10] enabler, uh, sections.
+[00:15:11] We are looking at how do we best, uh, capture data
+[00:15:14] that could be enabled and used somewhere else.
+[00:15:17] What I wanted to, to talk to you
+[00:15:18] before I pass it across to James to provide an example
+[00:15:21] of REM in practice, um, is, is, is really
+[00:15:25] to focus on the delivery model.
+[00:15:27] Engage is is a very practical organization.
+[00:15:30] We understand the frameworks, we understand the theory on
+[00:15:32] how things are supposed to work, 'cause that's important,
+[00:15:35] but it's more about the how do you bring a delivery model
+[00:15:38] to address this or respond to the, the challenge that's, um,
+[00:15:41] that this committee, uh, has to address.
+[00:15:45] And if we think about the people, the first part
+[00:15:47] of the methodology, it says in practice, let's define a line
+[00:15:50] of sight and connect policy intent
+[00:15:53] through delivery into outcome.
+[00:15:55] And so you've seen that in our submission.
+[00:15:58] The minister establishes the policy intent that
+[00:16:00] that's pretty much universally agreed from that.
+[00:16:02] Then that informs the chief executive
+[00:16:05] of agencies whose job it is to take the policy intent
+[00:16:08] and then create, uh, directives, whether
+[00:16:11] that be within their own agency
+[00:16:12] or interagency from there, um, that, uh,
+[00:16:16] that directive informs our policy managers whose job it is
+[00:16:20] to implement that into the planning
+[00:16:21] and current reporting mechanisms.
+[00:16:22] And that's probably one of the key points out of our review
+[00:16:25] of, of this particular domain is to say, you,
+[00:16:28] you can see all of the reporting lines
+[00:16:29] that are held currently in the system,
+[00:16:32] the performance reporting and
+[00:16:33] or the, um, public accountability touch points.
+[00:16:37] It's as much a matter of connecting
+[00:16:38] and aligning more than anything else.
+[00:16:40] Now, from that policy manager, we get to the delivery lead,
+[00:16:44] again, takes the planning, uh, operationalize
+[00:16:46] and operationalizes that planning.
+[00:16:48] And then obviously it's the frontline delivery.
+[00:16:50] And I love what I heard just previous to our,
+[00:16:53] our conversation here is that we agree
+[00:16:56] and whole, that one of the key parts of, of that, uh,
+[00:16:59] performance reporting or, or
+[00:17:01] or requirement around accountability is that this model,
+[00:17:05] this system has to get to the frontline delivery
+[00:17:08] and has to engage, uh, those, uh,
+[00:17:12] New Zealand public, those stakeholders, whoever it is
+[00:17:15] that's supposed to benefit from the programs, it,
+[00:17:17] it must connect there.
+[00:17:18] Now, the thing about the REM model
+[00:17:19] before I pass to James is that,
+[00:17:22] and you would've seen in the submission,
+[00:17:23] while there's informing down that chain,
+[00:17:25] there's informed by up it.
+[00:17:28] So the REM model assures that there are data
+[00:17:30] and insights that while they run up back up the chain up
+[00:17:33] to a policy, you also have delivery adjustment.
+[00:17:36] Going back to frontline delivery again, um, James is, um,
+[00:17:41] more learned at re in fact, he developed a remodel
+[00:17:44] and he was, he has a, he has a, an example of
+[00:17:47] of, of re practice.
+[00:17:49] Just before we get onto that, the, the fundamentals
+[00:17:52] of the operating paradigm of RM is
+[00:17:54] that it clarifies relationship assumptions as
+[00:17:57] to why people are engaged, why organizations are engaged.
+[00:18:02] That's the relationship part.
+[00:18:04] The equity part is aligning functions
+[00:18:06] and roles around that understanding that was achieved as to,
+[00:18:10] uh, what the aspirations or,
+[00:18:13] or the proposition of the engagement was
+[00:18:16] that brought all those stakeholders together.
+[00:18:19] The, the last one is just integrating all the management
+[00:18:22] systems that will bring all that data that's created in
+[00:18:26] that framework together.
+[00:18:28] The example that I want to use is, uh, our work
+[00:18:31] with Transit New Zealand, 15 years, I was involved with the,
+[00:18:35] uh, state highway networks providing a whole lot
+[00:18:38] of services, advisory services around that.
+[00:18:40] One of the, one of the, the areas was, uh, the state, the,
+[00:18:44] uh, national state highway, uh, land transport strategy,
+[00:18:49] you know, is, is part
+[00:18:50] of the economic structure of New Zealand.
+[00:18:53] Auckland was falling behind in its, uh,
+[00:18:56] in its roading program.
+[00:18:57] And, and the minister at the time, um,
+[00:19:00] mark Gosey wanted that rectified.
+[00:19:02] So he got whole, got in touch with the CEO of transit
+[00:19:06] transit, called me in
+[00:19:08] and said, look, uh, the minister wants this sorted.
+[00:19:12] So can you come in and, and,
+[00:19:13] and provide us a bit of a brief on how you might do that.
+[00:19:17] We took that brief. The, the CEO put out some directives.
+[00:19:21] Uh, the regional manager, uh,
+[00:19:24] of transit Auckland picked up the responsibility
+[00:19:28] for implementing the plan.
+[00:19:30] And, uh, the,
+[00:19:33] and from there down the chain to the lead agencies
+[00:19:38] that were responsible for delivering parts
+[00:19:42] of the, uh, outcome.
+[00:19:44] And then down to the actual people on the ground
+[00:19:47] who were then able to implement
+[00:19:50] what was already established.
+[00:19:52] And so the, the, the protocols
+[00:19:55] that were started at the beginning filtered down
+[00:19:58] through the ranks or the, um, parts of the organization.
+[00:20:02] And one of the, one of the things that happened was that,
+[00:20:05] uh, the last 20 kilometers of, uh,
+[00:20:09] state highway one up to Cape Ringer.
+[00:20:11] 'cause this pro project ended up being 400 kilometers from
+[00:20:14] Mary Mary to Capea to sort out all the issues, uh,
+[00:20:19] that were engaged in that problem.
+[00:20:22] They, we were able to identify, uh,
+[00:20:25] through our relationship, uh, dialogue
+[00:20:28] and analysis, what, what the issue was.
+[00:20:32] And then we were able to identify a solution, got everybody
+[00:20:35] to sign off on it.
+[00:20:36] And the economic benefits
+[00:20:38] of solving this particular problem was quite extensive,
+[00:20:41] as you might very well know, uh,
+[00:20:43] because it opened up a lot of tourism
+[00:20:45] and other employment and a
+[00:20:46] Whole lot of other social benefits.
+[00:20:49] Okay. Right. Okay. Thank you, gentlemen.
+[00:20:54] Uh, questions. We've got Dr. David Wilson.
+[00:20:57] Yeah. Uh, gentlemen, um, quite comprehensive
+[00:21:00] and integrated in terms of your approach.
+[00:21:03] And I, I'm gonna ask an eff efficacy question.
+[00:21:06] Um, really, so how, you know,
+[00:21:08] how's this gonna actually improve performance of what we do
+[00:21:11] and how we collect the information?
+[00:21:12] That's the first one. Yeah. How are we gonna do this better?
+[00:21:16] Um, and the second one is, um, how can we actually utilize
+[00:21:20] what you're talking about here to give us effect to
+[00:21:24] the good use of public money?
+[00:21:26] In a nutshell, that's the accountability part.
+[00:21:28] 'cause that's what we're after. Yeah.
+[00:21:29] So those two questions.
+[00:21:31] It, it's a, a great, great. Two questions, David.
+[00:21:34] And, and I think the answer to that is
+[00:21:36] that REM addresses the limitations
+[00:21:38] that were identified in current performance, uh, reporting
+[00:21:41] that that's what it is.
+[00:21:43] So in terms of the delivery model
+[00:21:45] that's been explained in the submission, what it's able
+[00:21:48] to do is it answers the question
+[00:21:50] of do we have a connected system?
+[00:21:51] Yes. Is there an inter-agency mechanism that aligns the, uh,
+[00:21:55] different agencies involved in a program work?
+[00:21:57] The answer to that is, yes. We saw where we,
+[00:22:00] we saw a climate change program work.
+[00:22:02] I think it was a budget of 3.27 million.
+[00:22:04] Otherwise, it doesn't matter whether you agree
+[00:22:05] with the policy or not, but
+[00:22:06] what we saw was 22 different agencies somehow working
+[00:22:10] possibly not together on these particular outcomes.
+[00:22:12] So it answers the interconnect,
+[00:22:14] it answers the question about the, the lack of assessment
+[00:22:17] or reporting data, the depth of it,
+[00:22:19] because REM James kind of connected to it,
+[00:22:23] REM focuses a lot on the stakeholder engagement on ground,
+[00:22:26] the communities and NZ public.
+[00:22:28] Um, and so in terms of
+[00:22:30] how will it improve the performance reporting,
+[00:22:32] it addresses the limitations
+[00:22:34] that were identified in that report.
+[00:22:35] In terms of accountability, again, it takes a very, uh,
+[00:22:39] very, it anchors REM as a methodology
+[00:22:41] and as a delivery model anchors in community.
+[00:22:44] Um, we, we say stakeholders, local stakeholders, it, it,
+[00:22:47] it's something that we, we talk about a lot.
+[00:22:49] It's explicit in the REM methodology that they are
+[00:22:52] as important as any other part of that chain.
+[00:22:55] And, and the, the, uh, James might correct me if I'm wrong,
+[00:22:59] but that particular example that he
+[00:23:01] provided through the minister in, uh, uh,
+[00:23:03] New Zealand transport, there were barriers
+[00:23:06] and issues for 25 years.
+[00:23:07] Unresolved re methodology was applied,
+[00:23:09] and within 12 months, those major challenges
+[00:23:11] and barriers were removed.
+[00:23:13] And it came down to the simplicity of,
+[00:23:16] let's look at the people.
+[00:23:17] Let's get visibly on the delivery chain,
+[00:23:19] understand the outcome, and engage stakeholders.
+[00:23:22] So it was really that simple, which,
+[00:23:25] well, it was really that simple.
+[00:23:26] Okay. Right. We'll leave it at the, um, thank you, James.
+[00:23:29] Thank you, Dwayne, for your presentation
+[00:23:31] and, and for your submission.
+[00:23:33] Let's keep in touch with the process over the next,
+[00:23:36] um, six or so months.
+[00:23:37] Great. Thank you for your time. Thank
+[00:23:39] You.
+[00:23:42] Okay. Now we got the Chief Ombudsman, um, queued up.
+[00:23:46] Mr. Allen? Yes.
+[00:23:50] Thank you, chair. Oh, good, good.
+[00:23:52] Uh, afternoon, Mr. Allen.
+[00:23:54] And, uh, great to have you here on, um, uh, day one.
+[00:23:57] Uh, thank you. Obviously, you, your office brings a unique,
+[00:24:00] uh, all of government oversight perspective,
+[00:24:03] but I also wanna acknowledge
+[00:24:04] that you also bring the perspective
+[00:24:05] as a former CE of MFA as well.
+[00:24:08] So, uh, we thank you for your submission and,
+[00:24:11] and look forward to the discussion.
+[00:24:13] Uh, thank you, Mr. Chairman.
+[00:24:14] I thought I'd frame, uh, the comments I'd make, uh,
+[00:24:17] against the overarching purpose
+[00:24:19] and vision, uh, statement in chapter six,
+[00:24:21] which I strongly support, uh,
+[00:24:24] because I think actually that goes to the heart of
+[00:24:26] what the Office of the Ombudsman is about.
+[00:24:30] And I think we can actively support, uh,
+[00:24:33] out better outcomes across those three criteria.
+[00:24:36] So the first obviously is accountability.
+[00:24:39] And the specific lens that the Office
+[00:24:41] of the Ombudsman brings, as you've recognized, uh,
+[00:24:44] is we bring a citizens' experience of engaging
+[00:24:49] with the agencies of the Crown.
+[00:24:52] So we are not looking at it in a top down way.
+[00:24:55] We're looking at it very much from the perspective, did this
+[00:24:59] actually work for New Zealanders?
+[00:25:02] Does it actually deliver an outcome for New Zealanders?
+[00:25:06] And what are the issues
+[00:25:08] and obstacles in the delivery of service
+[00:25:11] by particular agencies
+[00:25:12] that are being experienced by New Zealanders?
+[00:25:15] And we see that, of course, throughout complaints, data,
+[00:25:18] thousands of complaints in the course of a year,
+[00:25:21] specific lived experience by New Zealanders of engaging
+[00:25:24] with the Crown in various guises.
+[00:25:28] And so, as a consequence of that, uh,
+[00:25:30] we have a rich database that can support this committee
+[00:25:34] or any other committee of Parliament, uh, in understanding
+[00:25:38] what actually is happening in terms of the effectiveness
+[00:25:41] of agencies in delivering outcomes.
+[00:25:45] Uh, the second thing that we can do is on the basis
+[00:25:47] of understanding those various complaints, we can identify
+[00:25:54] systemic issues across agencies,
+[00:25:57] and we can see where the roadblocks are,
+[00:25:59] where the problems are, uh, which are constraining good
+[00:26:03] and effective service delivery.
+[00:26:06] And we can, as a consequence of own motion reviews, uh,
+[00:26:09] engage and investigation to, um, unlock, uh,
+[00:26:14] and address, at least make recommendations to address, uh,
+[00:26:18] resolutions of those particular issues.
+[00:26:20] And we've done that. Uh, in relation to corrections, uh,
+[00:26:24] we've done it in relation to orang.
+[00:26:26] Uh, we've done it in relation to mental health issues
+[00:26:30] where we've taken a set of complaints
+[00:26:32] in those specific areas, uh, identified systemic issues
+[00:26:37] and then developed solutions
+[00:26:39] or helped develop solutions, how that can address them.
+[00:26:43] Uh, the third area there is,
+[00:26:45] or second area there is improvement.
+[00:26:48] Uh, our reports obviously go to best practice in relation
+[00:26:51] to areas like, uh, official information compliance
+[00:26:54] and all of those sorts of things.
+[00:26:56] So there's a great wealth of information about
+[00:26:59] best practice in this office.
+[00:27:01] And then thirdly, trust, uh, which the availability
+[00:27:04] of information through the oi, uh,
+[00:27:07] official Information Act is a key component of,
+[00:27:10] now the question with the Official Information Act is
+[00:27:13] obviously compliance.
+[00:27:14] Uh, our view is that there's a deeply compliance culture,
+[00:27:18] a deeply risk averse culture, uh,
+[00:27:20] within the public sector in relation to availability
+[00:27:23] of information, a, a good news reporting culture,
+[00:27:26] if I can put it, uh, directly.
+[00:27:29] Uh, and that in fact, much
+[00:27:32] of this information could be proactively released, uh,
+[00:27:35] which would go to the building and strengthening of trust
+[00:27:38] and confidence in Parliament, uh,
+[00:27:40] which is the third criteria you've raised.
+[00:27:43] So, uh, Mr.
+[00:27:44] Chairman, what I'm trying to say to you is there's a wealth
+[00:27:47] of information within this office
+[00:27:48] that can support your work.
+[00:27:50] Uh, there is a real ambition within this office
+[00:27:52] to make systemic change.
+[00:27:54] Uh, and there is the capacity in the office to be able
+[00:27:58] to undertake reviews or investigations at your instance,
+[00:28:02] or at other committee's instance,
+[00:28:04] or at Parliament's instance, to be able
+[00:28:06] to improve public trust and confidence
+[00:28:09] and the performance of the system. Thank you.
+[00:28:12] Oh, thank you so much Mr. Allen, for that, uh, genuine
+[00:28:16] enthusiasm and, uh, uh, uh, invitation
+[00:28:19] for ongoing engagement with your office.
+[00:28:21] Uh, members. Do, do we have any, any questions
+[00:28:24] or points, uh, that need to be clarified for, um,
+[00:28:27] with the Ombudsman?
+[00:28:31] Okay. We'll leave, we'll leave it at that.
+[00:28:33] Mr. Allen, again, thank you, uh, for your submission.
+[00:28:35] Thank you for your willingness to, um,
+[00:28:37] be part of the process.
+[00:28:39] Uh, and, and I know you'll be very close to the office
+[00:28:42] of the Auditor General as well.
+[00:28:44] And so let's keep in touch
+[00:28:45] as we progress this public inquiry over
+[00:28:47] the next six or so months.
+[00:28:49] Excellent. Thank you, Mr. Chairman.
+[00:28:50] Thank you. Thank you. Okay.
+[00:28:55] That leads us to, um, uh,
+[00:28:57] the Parliamentary Commissioner for the environment,
+[00:29:01] Mr. Chair. We don't have the
+[00:29:02] next submitters here yet,
+[00:29:04] but we do have Wendy McGinnis if we'd like to go to her.
+[00:29:07] Oh, Wendy from the McGinnis Institute? Yes. Okay.
+[00:29:11] Let's, let's go to her now.
+[00:29:13] She's the last members on our agenda,
+[00:29:15] but we'll, we'll bring her forward if she's happy with that.
+[00:30:24] Okay. How are we getting on?
+[00:30:25] Sorry, Mr. Chair. She's declined to, to, uh, come up.
+[00:30:30] Panelists, can I suggest instead we just do a,
+[00:30:31] a break till 10 past one?
+[00:30:33] Okay. Let's guys, we, we will do an eight minute break
+[00:30:35] and we'll be back, uh, ready to go.
+[00:30:37] 10 past one for worth. Uh, Simon Upton. Thank you.
+[00:36:10] Right. Okay.
+[00:36:20] Oh, commissioner, we'll just give it, we, we'll give it
+[00:36:23] to our colleagues return.
+[00:36:24] We did say, uh, one 10, um,
+[00:36:28] but, so just bear with us.
+[00:36:30] Could you also just check please,
+[00:36:32] that Matt Patterson is a panelist.
+[00:36:35] Um, he's joining from overseas, actually.
+[00:36:38] Um, I'm not sure whether you, I've got two colleagues
+[00:36:43] coming in locally and one who's overseas.
+[00:36:47] So you should have Jeff Simmons, Peter Lee,
+[00:36:50] and Matt Patterson.
+[00:36:52] Yes. Uh, we looks like we might have all three. Good.
+[00:36:57] Let's just, um, just give it a couple of minutes.
+[00:37:00] 'cause I do get in trouble. Um, Mr.
+[00:37:03] Upton, if I do start,
+[00:37:06] if I start early when I've promised the start time,
+[00:37:09] Pete, you've caught me out. If
+[00:37:10] you'd started early, I can tell you,
+[00:37:16] And of course, this is appointment viewing for our, um,
+[00:37:19] television audience, so we don't want Oh, absolutely,
+[00:37:21] Absolutely. We don't want, we don't
+[00:37:22] want them to miss it either.
+[00:38:19] Right? Okay. It's, it's, we are nearly there.
+[00:38:32] Uh, we know, um, Mr.
+[00:38:34] Up and you being a product, a political product
+[00:38:36] of the eighties and nineties,
+[00:38:37] those important reforming years that, uh, you'll be loving
+[00:38:41] to get your teeth around the possible amends
+[00:38:44] of the Public Finance Act and things.
+[00:38:45] That's, that's gonna, we, we,
+[00:38:47] you'll be very excited being part of that generation.
+[00:38:50] This, this may complete the, uh,
+[00:38:52] com complete the job in many ways.
+[00:38:59] Okay. Right. We've got Dr. Russell here.
+[00:39:02] We've got everyone here. Uh, welcome Commissioner.
+[00:39:04] We look forward to your, um, uh, to your presentation.
+[00:39:08] We've got 20 minutes here.
+[00:39:09] Uh, hopefully we can, um, complete it within that time.
+[00:39:12] But we welcome you and your colleagues.
+[00:39:15] Thank you. Um, and look, I, I would like to give most of
+[00:39:18] that time to you to ask questions.
+[00:39:20] So let me just make a few brief points.
+[00:39:24] Firstly, uh, I commend what you're doing.
+[00:39:27] I think it's really, really important, uh,
+[00:39:30] that you are asking questions about how Parliament holds
+[00:39:35] agencies and ministers to account
+[00:39:38] for how they spend public money.
+[00:39:39] So I'm, I'm right behind that.
+[00:39:41] Um, first point is, I think select committees need
+[00:39:44] to think about scrutiny differently.
+[00:39:47] I'm, I'm sorry, but I think we are wired
+[00:39:50] and it's centuries of wiring around an entity
+[00:39:55] and the money it's given,
+[00:39:56] and you're looking at the entity all the time.
+[00:39:58] I think we need to think about scrutiny. That's important.
+[00:40:01] That's very, very important from a
+[00:40:02] public finance point of view.
+[00:40:04] And that's what the audit office, uh,
+[00:40:06] does a very good job of.
+[00:40:07] Uh, but I think we need to think about scrutiny differently.
+[00:40:10] And everything I'm gonna say to you, I've been working
+[00:40:12] through with the audit office.
+[00:40:14] I don't think they'd disagree
+[00:40:16] with the broad thrust of where I'm coming from.
+[00:40:18] The second point is, uh, the committee needs
+[00:40:21] to think much harder about evaluation.
+[00:40:25] One thing to look at what's been announced
+[00:40:27] or what's been spent this year, uh,
+[00:40:29] but of course, evaluating along the way and down the track.
+[00:40:34] Now, there's an appendix to my submission, which I
+[00:40:38] strongly recommend that you read,
+[00:40:39] which says a bit more about that.
+[00:40:42] The third point is that, um, we need to be able
+[00:40:47] to ask questions about more than just what happens
+[00:40:49] inside an agency.
+[00:40:51] So if you've read my submission, you'll know I'm saying
+[00:40:54] that you need a higher level than just entities, um,
+[00:40:58] to ask good questions.
+[00:41:00] And I've suggested to you that that is at the level of,
+[00:41:05] shall we say, enduring or longer term outcomes.
+[00:41:10] And I think you've gotta be brave as mps
+[00:41:12] and start disentangling this stuff from short term point
+[00:41:15] scoring in the environment.
+[00:41:18] For instance, the things,
+[00:41:19] the problems we've got today will be
+[00:41:21] with us in 50 years time.
+[00:41:23] They won't be solved. We have to manage them.
+[00:41:28] We don't know often how best to manage them.
+[00:41:31] We're almost certainly gonna get stuff wrong.
+[00:41:33] So you have to be able in an adult way to say, look, okay,
+[00:41:38] well conceived, but did it deliver?
+[00:41:40] You know, in the medical world, people don't, uh, rush
+[00:41:43] to the media or to the courts.
+[00:41:45] If there's a medical mishap, they have a conference,
+[00:41:47] they talk about, you know, how can we learn from this?
+[00:41:50] And I think in a very different way, we need to be learning
+[00:41:53] as we go from what we are doing.
+[00:41:57] Fourth point, um, I haven't written a submission for you
+[00:42:02] as a sort of a good idea.
+[00:42:03] Light bulb. How about this?
+[00:42:06] What I'm, what I've put in front of you as a result
+[00:42:08] of six years work?
+[00:42:10] Um, I've done far more thinking about this, I think,
+[00:42:12] than anyone else in New Zealand in recent times.
+[00:42:15] Um, it's not just a good idea.
+[00:42:17] It's something that we have pioneered.
+[00:42:20] We've tested it out in practice.
+[00:42:21] We're now running on an annual basis.
+[00:42:26] I think it's a good, I think the, the estimate
+[00:42:29] of environmental expenditure we do, which is pitched
+[00:42:31] to the level of long-term enduring outcomes,
+[00:42:33] which run across all of government.
+[00:42:35] I think it works for the environment.
+[00:42:37] It, it won't necessarily work for other areas.
+[00:42:39] And you'll see from my recommendations,
+[00:42:41] I do not suggest you adopt this
+[00:42:43] as a standardized approach for all of government.
+[00:42:46] Different parts of government will probably lend themselves
+[00:42:49] to different inquiry, but the nature
+[00:42:51] of environmental problems, which are very, very long term,
+[00:42:54] is I think this works rather well for them.
+[00:42:58] Um, if I'm having a difficulty,
+[00:43:00] it's getting select committees to engage with the stuff,
+[00:43:03] because it seems a bit out of left field.
+[00:43:06] It's not what they're used to.
+[00:43:08] It's not, let's get dock in, or let's get MFE in.
+[00:43:12] It's, it's something different.
+[00:43:13] So it would help me if the committee recommended
+[00:43:17] that Parliament give the work that my office has pioneered
+[00:43:22] on environmental outcomes and performance.
+[00:43:24] A stronger mandate to proceed.
+[00:43:26] I mean, ultimately the standing orders have
+[00:43:30] to say something about scrutiny,
+[00:43:33] which is a bit broader than just entity level stuff.
+[00:43:38] It really is leading edge.
+[00:43:39] Um, I presented the work that I've done
+[00:43:41] to the international organization
+[00:43:43] of Supreme Audit Institutions earlier this year.
+[00:43:47] Uh, I don't think anyone else has done this
+[00:43:49] with the possible exception of Estonia.
+[00:43:51] And you'll often find in this life,
+[00:43:53] Estonia is ahead on all sorts of things,
+[00:43:55] digital and otherwise.
+[00:43:57] Uh, but with that single exception,
+[00:43:58] I don't think anyone's really been trying
+[00:44:01] to take the approach that we've taken here.
+[00:44:03] But just last week, we published
+[00:44:06] our fifth edition of Estimate Environmental Expenditure,
+[00:44:10] and we did a little bit of a, a, a zoom in on, uh, jobs
+[00:44:14] for Nature, okay.
+[00:44:15] Which is ran across different agencies.
+[00:44:18] Um, I think there is a lot, uh,
+[00:44:22] in there, which could help.
+[00:44:24] But you as a committee,
+[00:44:26] and you are the all powerful committee when it comes
+[00:44:28] to the Public Finance Act.
+[00:44:29] And the rest of it, you really need to be driving, uh,
+[00:44:33] some changes in parliament that encourage people
+[00:44:35] to take a broader view.
+[00:44:37] So I'll stop there and give you the rest
+[00:44:39] of the time, uh, for questions.
+[00:44:41] But we will run out of time.
+[00:44:43] Um, I would invite any of you who are interested
+[00:44:46] to come over and we can sit down
+[00:44:48] and go through this in detail.
+[00:44:50] 'cause it represents a major investment
+[00:44:52] of time and taxpayers money.
+[00:44:54] Uh, and you need to, at least some
+[00:44:56] of you need to be across it.
+[00:44:58] Okay. No, no. Thank you.
+[00:44:59] And thank you for that, uh, ongoing invitation.
+[00:45:01] Um, uh, Dan Bidar.
+[00:45:03] Hey, thanks very much, Simon.
+[00:45:04] And, um, you'll be pleased to know
+[00:45:06] that this committee has discussed
+[00:45:08] that diagram in your expenditure work, um, extensively.
+[00:45:11] And I think actually there's one thing we can agree on is
+[00:45:14] the importance of that.
+[00:45:15] So not just in this committee,
+[00:45:17] I must say in several other committees.
+[00:45:19] So I think you'll be surprised, pleasantly surprised at
+[00:45:22] how many mps have, um, enjoyed
+[00:45:26] and grasped the importance of the work that you are doing.
+[00:45:30] Um, I guess I, I, I, I want you to help, um,
+[00:45:35] the committee understand
+[00:45:37] where this approach may, may be applicable too.
+[00:45:41] 'cause if you look at all the select committees, actually,
+[00:45:43] I think probably mostly committees could do that kind of
+[00:45:46] inputs, outputs, analysis.
+[00:45:49] Um, what is the level of investment required to get to
+[00:45:54] that level where every select committee has that kind
+[00:45:57] of, um, lens?
+[00:46:00] And second to that, is that, I mean, you mentioned Estonia.
+[00:46:03] Is it, is it worth us doing a bit more investigation into
+[00:46:07] how Estonia does it, or,
+[00:46:08] or are you saying that we are actually leading in this area?
+[00:46:11] Well, to be frank, I mean,
+[00:46:13] if you spent six years on something local, I, I mean,
+[00:46:16] it's always interesting to see what others do,
+[00:46:17] but I, I, I think probably work that we've done can give you
+[00:46:21] as good a start as any, I mean, you need
+[00:46:23] to ask the auditor general that question as well.
+[00:46:26] Um, you mentioned the diagram, Dan, I mean,
+[00:46:29] and, and people love the diagram.
+[00:46:30] I mean, sanky diagrams is just addictive.
+[00:46:32] It looks, oh, wow, this is complicated
+[00:46:34] and we can connect this with that and so on and so forth.
+[00:46:36] I mean, environment, as I make the point
+[00:46:39] of my submission environment's a bit different from,
+[00:46:41] from some things, because the outcomes really are running
+[00:46:46] across all of New Zealand
+[00:46:47] and large numbers of agencies involved.
+[00:46:50] That will not be the case in other areas.
+[00:46:53] I mean, you take health, for instance,
+[00:46:55] I haven't looked at this, but I take it
+[00:46:57] that most money gets spent on health through Vote Health.
+[00:47:00] And so you don't need a multi-agency approach,
+[00:47:03] although there will be programs which spin over into
+[00:47:07] education, into corrections, into whatever.
+[00:47:09] But I mean, the health committee should be able to say,
+[00:47:14] we want to be able to identify any expenditure outside
+[00:47:17] of Vote Health, which contributes.
+[00:47:19] So we're aware of it. And so when a particular outcome
+[00:47:22] that our government says it's aiming
+[00:47:24] for is being talked about, yeah, we should be able
+[00:47:27] to pull in, we should know how much money
+[00:47:29] collectively is being spent, which able to pull people in.
+[00:47:32] I, I don't think you can hope for
+[00:47:35] a standardized, um, approach.
+[00:47:38] Uh, I really would suggest you have a,
+[00:47:40] a variable geometry approach
+[00:47:42] to use a wonderful piece of jargon.
+[00:47:43] Um, and the bit which is missing.
+[00:47:46] You see, I've done the long term outcomes
+[00:47:48] for the environment, and I don't think they're contentious
+[00:47:50] and they're in our environmental reporting,
+[00:47:52] you know, and all the rest of it.
+[00:47:54] But, but in other areas it may be more contentious.
+[00:47:57] But you've got to get the government of the day to say,
+[00:48:01] okay, you say you want good health for all, you know,
+[00:48:04] teenagers, or you want, uh, you want possums under control
+[00:48:08] or whatever, you know, predators under control by 2050.
+[00:48:10] Okay, you are not gonna be there forever.
+[00:48:13] What are your medium term objectives?
+[00:48:15] How do they relate to those long-term ones?
+[00:48:17] That's what you've gotta get governments to come up with.
+[00:48:20] Uh, and they should be able to tell you, I mean,
+[00:48:21] after all, you're all elective with manifestos.
+[00:48:23] This is what we are gonna try to do.
+[00:48:25] Okay, that's your outcome.
+[00:48:26] Let's see how you're spending the money to promote that.
+[00:48:29] That's what you want to do.
+[00:48:31] Yeah. No, that's great, Simon.
+[00:48:32] And just a second point, um, you, you mentioned coming over
+[00:48:35] and actually, um, having a meeting with yourselves,
+[00:48:37] I think personally I would like that opportunity.
+[00:48:40] So, um, it'd be great with you on that. Yeah, thank
+[00:48:44] You. Please do.
+[00:48:45] Okay. Thank you. Uh, Dr. Deborah Russell,
+[00:48:48] Uh, excuse me.
+[00:48:49] Thank you. Um, Simon, um, I was just thinking in terms of
+[00:48:52] that sanky di diagram, um, an obvious place to use it
+[00:48:55] as in the justice cluster.
+[00:48:57] Um, you know, you just, yeah.
+[00:48:59] Would be a, uh, I was just, it took me a while to think
+[00:49:00] of something, but the justice one would be one, you know,
+[00:49:02] maybe like in the Family
+[00:49:03] and sexual violence program, um, uh,
+[00:49:06] we all love the Sanky diagram.
+[00:49:08] Um, it would take, you said it took a considerable amount
+[00:49:11] of time and resource in order to develop it.
+[00:49:15] And of course we've got a cost constrained government,
+[00:49:17] so we're kind of fighting against that too.
+[00:49:19] It would take a fair amount of resourcing.
+[00:49:22] I, I think it's important, but what's your,
+[00:49:25] I wouldn't understate that.
+[00:49:26] I mean, if people want to make something, uh, difficult,
+[00:49:29] if you wanna put it into the complicator, um,
+[00:49:32] then I'm sure you could spend an limited amount.
+[00:49:33] I've done this on 0.4 of an FTA year. Okay.
+[00:49:38] Right. And a lot of very positive constructive engagement
+[00:49:43] with government departments.
+[00:49:45] So we've had to say to them, look, this is what we're doing.
+[00:49:47] It's not the way you're currently reporting.
+[00:49:49] Could you help us isolate the money you think,
+[00:49:52] which contributes to these different outcomes?
+[00:49:53] I have to say, almost without exception,
+[00:49:55] they've been very, very helpful.
+[00:49:57] So, yep. They, they, they diverted a little bit of time
+[00:50:00] and human resource to help.
+[00:50:02] Remember, this is not public finance act sort
+[00:50:05] of gold edge quality stuff where you have to be able
+[00:50:08] to account for every cent.
+[00:50:09] This is stuff about how money's being mobilized
+[00:50:13] after broad outcomes.
+[00:50:14] So it doesn't need some spurious level of precision.
+[00:50:18] I think we've got it good enough.
+[00:50:20] Now, I have to say, if you say good enough
+[00:50:22] to the audit office or the treasurer,
+[00:50:23] they probably slightly recall
+[00:50:24] 'cause they don't live in that sort of world.
+[00:50:26] But I think you've gotta feel comfortable about having other
+[00:50:30] ways of calling people to account.
+[00:50:33] So I, I, I don't think it needs to be hugely expensive.
+[00:50:37] Uh, look, I've got three people online.
+[00:50:39] One of them is Peter Lee, who's my statistical expert.
+[00:50:41] He has spent, he understands
+[00:50:43] how public finance is put together.
+[00:50:45] He has spent a lot of time, which is why if he came
+[00:50:47] and talked to us, we could tell you about the methodology.
+[00:50:49] We've developed a methodology which is transparent
+[00:50:52] and we can account for,
+[00:50:54] but that's taken him some time to put together.
+[00:50:57] But it's there now. It's, it's a working model.
+[00:51:00] And, and we, I really would appreciate the committee's
+[00:51:02] support, uh, in saying, yeah, this is worth doing.
+[00:51:08] Saying that, that we have talked to agencies about
+[00:51:12] how this could be operationalized.
+[00:51:14] And although different agencies have different accounting
+[00:51:16] systems, uh, they do all have the ability to, to code
+[00:51:21] spending in a certain way, a certain way.
+[00:51:23] Just what we hear time
+[00:51:24] and time again, is, is that what they would need is
+[00:51:27] that consistent long-term set of outcomes
+[00:51:29] with which to do that coding.
+[00:51:31] If that was provided and,
+[00:51:33] and it lasted across governments, it would be fairly simple
+[00:51:36] for them to operationalize this.
+[00:51:38] Okay, thank you. Yeah, I was gonna say, a,
+[00:51:41] a key starting point is making sure you're defining
+[00:51:45] what those long-term outcomes are.
+[00:51:47] And we, Simon went about that.
+[00:51:50] And so we, we were able to, to say,
+[00:51:53] these are the long-term outcomes we're gonna focus on.
+[00:51:55] And starting to work with agencies to
+[00:51:59] classify expenditure according to them.
+[00:52:00] If you're doing this in other sectors, you'd,
+[00:52:03] someone else would need to do that and,
+[00:52:05] and make that that decision.
+[00:52:07] So that's a key thing to consider who, who will be defining
+[00:52:10] what those long-term outcomes are.
+[00:52:12] And for other sectors, it might be a group
+[00:52:14] of CEEs, for example.
+[00:52:15] 'cause you, you want to try
+[00:52:16] and come up with outcomes that are relatively apolitical
+[00:52:20] and are gonna survive different types of governments.
+[00:52:24] Yep. So, um, that's helpful. Thank you.
+[00:52:26] Because to, i, I do wanna come across
+[00:52:28] and talk about it at some stage next year, not this,
+[00:52:30] but Fran, Fran this year.
+[00:52:32] But, um, in terms of that 0.4
+[00:52:34] of an FTE plus some other costs obviously associated
+[00:52:37] with it, it's, it's not insurmountable by any means.
+[00:52:40] Um, I just wanna go back to another point you made Simon
+[00:52:44] and you, um, were talking about how
+[00:52:48] as mps we possibly need to forego the, um,
+[00:52:53] cheap political point, which is, uh, in order
+[00:52:57] to get the longer term outcome we want as parliamentarians.
+[00:53:00] Um, it's very sweet.
+[00:53:04] I mean, I agree, but it is, you know,
+[00:53:06] with the trouble is we do work in an intensely political
+[00:53:08] environment and it's really hard to,
+[00:53:10] to find that way forward.
+[00:53:11] And, um, you know, I, I take your point,
+[00:53:15] but that's actually a really hard thing to do.
+[00:53:17] Well, look, of course, I'm not suggesting you evacuate
+[00:53:19] politics from this one thing we can be sure of.
+[00:53:21] Governments have never even approached perfection.
+[00:53:23] There'll be plenty of cockups and stuff ups to get into.
+[00:53:26] I, I don't deny that for a minute.
+[00:53:29] Um, but in addition to that, there is the, you know, the run
+[00:53:33] of the mill business, which just doesn't
+[00:53:35] feature on the radar screen.
+[00:53:37] And as the stewards of the public's money,
+[00:53:39] I think you're required to ask questions about stuff, even,
+[00:53:42] which, if it appears to be working, um, you know, are we,
+[00:53:46] are we really making the progress you want to, I'd like
+[00:53:49] to think that ministers were interested in asking
+[00:53:51] these questions as well.
+[00:53:53] Um, so I I,
+[00:53:54] I'm not suggesting you evacuate politics from this, but,
+[00:53:57] but you know, again, look at the way we think at present,
+[00:54:01] the treasury, um, spends a large amount
+[00:54:04] of time looking at new expending initiatives.
+[00:54:06] You know, so the whole thing's on new expenditure
+[00:54:08] and the budget's all about what's new.
+[00:54:10] There is a vast 98% baseline in there,
+[00:54:13] which just goes on like a super tanker.
+[00:54:16] Some of that stuff is really important for New Zealand
+[00:54:20] and being able to ask questions about it in a sensible way,
+[00:54:24] um, I think you'd find whether you are in government
+[00:54:27] or opposition, hugely valuable.
+[00:54:29] Yeah. Okay. Um, just one last comment.
+[00:54:32] You know, obviously you've got, um, climate adaptation
+[00:54:34] and greenhouse gas emission sitting in your sanky diagram
+[00:54:37] as part of the, um, I, I must say, um, have you done,
+[00:54:43] I'd be in, I can see the, the, some of the detail on that,
+[00:54:46] but I, I'd certainly be interested in seeing more
+[00:54:47] of the detail on that one.
+[00:54:48] So I might come across and, um,
+[00:54:50] and dig into that a little, if I may.
+[00:54:52] Please do. And, and, and that's one where we'd like
+[00:54:54] to see much more transparency about what's mitigation
+[00:54:57] and what's adaptation.
+[00:54:58] Yeah. Uh, and you'll find some text.
+[00:55:00] Have you, have you looked at last week's edition,
+[00:55:02] which came out because, um, there's,
+[00:55:04] there's this reference to that there.
+[00:55:06] All of you should be aware
+[00:55:07] and we can send it to you if you like.
+[00:55:09] The, the the 25 26 edition of
+[00:55:13] EEE came out last week
+[00:55:15] and you were all at least
+[00:55:17] electronically notified as far as I'm aware.
+[00:55:19] Okay. Thank you. Okay. Uh, Ryan Hamilton.
+[00:55:23] Thanks, chair. Um, afternoon, Simon.
+[00:55:26] Um, just in your report
+[00:55:27] and appreciate, we're not gonna have time to go too deep,
+[00:55:29] but you mentioned sectoral approach quite,
+[00:55:32] quite a lot both across, um, the reporting
+[00:55:35] and at the, um, I guess the accountability end
+[00:55:38] of it across sector.
+[00:55:39] So what you're saying is,
+[00:55:40] and I guess your sen diagram highlights that, um,
+[00:55:44] there's not enough cohesion across, um,
+[00:55:47] expenditure at the top end.
+[00:55:49] So I was just interested around your thoughts on, you know,
+[00:55:51] sectors and did you have a view as to
+[00:55:53] how many there should be or shouldn't be?
+[00:55:55] Um, yeah,
+[00:55:57] No, quite explicitly.
+[00:55:58] I, I, I've only looked at environment. Okay.
+[00:56:00] That's, that's my role. It would be improper for me
+[00:56:02] to be off into other areas.
+[00:56:04] But, um, I'm pretty clear if you look at our state
+[00:56:06] of the environment reporting that there are five, you could,
+[00:56:10] you could just about fit any environmental issue under
+[00:56:13] one of five headings.
+[00:56:14] And then if you look at the sanky diagram,
+[00:56:15] that yellow one in the middle is improving the efficiency
+[00:56:18] and effectiveness of institutions designed
+[00:56:20] to manage human interventions in the environment.
+[00:56:22] So that's, that's if you like the, the bureaucracy
+[00:56:25] of running things like the EPA
+[00:56:27] and the Resource Management Act and all of that stuff.
+[00:56:30] Um, and, and that's the one by the way,
+[00:56:32] if you look at this year's, uh, numbers,
+[00:56:34] that's the one which is growing.
+[00:56:35] Everything else is falling, but we're spending more
+[00:56:36] and more on, on, on policy development.
+[00:56:38] So that's an interesting thing to follow up.
+[00:56:41] But the sector environment,
+[00:56:44] I think we've got it pretty well defined now.
+[00:56:46] Um, Dr. Russell has mentioned justice. That's a sector.
+[00:56:50] Uh, I think that, you know, some parts
+[00:56:52] of government fit rather nicely under that heading when you
+[00:56:55] and, and education will and health will as sectors,
+[00:56:57] but they're ni they're easier to cope with
+[00:57:01] because you tend to put your money through a single entity,
+[00:57:03] through a single portal.
+[00:57:05] So you know, the, that they'll be easier to do, uh,
+[00:57:09] what you need, if you want to look, look, look,
+[00:57:11] map this across government, I mean, I'd ask them,
+[00:57:13] ask the audit office what they think
+[00:57:14] and how many, how many sectors could this usefully apply to?
+[00:57:20] And, and we've done the thinking for this one.
+[00:57:22] So they do have a model to work from. Okay,
+[00:57:26] Thank you. I think,
+[00:57:27] I think what you'll find is for many
+[00:57:29] of the sectors, they'll have two, three,
+[00:57:31] maybe four major departments, which is
+[00:57:33] what we've found environment.
+[00:57:35] But also by taking a sexual approach, you start
+[00:57:38] to mop up some of the smaller ones.
+[00:57:40] I mean, we, we have TPK
+[00:57:41] or, uh, ministry of Justice
+[00:57:44] contributes some stuff to the environment.
+[00:57:46] You'll find the same thing in, in the justice sector.
+[00:57:48] There might be some social services
+[00:57:50] or some health stuff that also contributes.
+[00:57:52] But only once you've defined those long-term outcomes,
+[00:57:55] can you start to think, oh,
+[00:57:57] which are the small contributors
+[00:57:58] into these outcomes as well.
+[00:58:00] Sometimes those small contributors know tons.
+[00:58:03] I mean, I am told, I haven't personally spoken to 'em,
+[00:58:06] but I'm told that defense knows quite a lot.
+[00:58:09] You'll see they're in there, defense knows quite a lot
+[00:58:11] 'cause it's got a, an estate of land, it's managing stuff,
+[00:58:14] it's coping with pests and so on, so forth.
+[00:58:17] Um, are they aligned with
+[00:58:19] what the government's doing elsewhere?
+[00:58:20] Are they not, uh, you know, what can we learn from them?
+[00:58:23] They may have done something which was a
+[00:58:24] hell of a lot cheaper and better.
+[00:58:26] I, I, the, so as Matt says
+[00:58:27] that the small ones can often yield
+[00:58:29] as many insights as the big ones.
+[00:58:31] We tend all of those on this call.
+[00:58:34] We tend to talk to the Wellington based policy bureaucracy,
+[00:58:39] but there is a lot of stuff out there, um,
+[00:58:42] which goes beyond that.
+[00:58:44] Thank you. Okay.
+[00:58:46] Uh, any, any other questions, uh, members or Mr.
+[00:58:50] Upton and colleagues, have you got any uh, uh,
+[00:58:52] concluding remarks?
+[00:58:55] I, my concluding remarks, can
+[00:58:56] I just say something Tam Sorry,
+[00:58:58] Sorry, just you raise my hand.
+[00:59:00] Um, Simon, I have just pulled up your current, um,
+[00:59:04] SANKY report and thank you.
+[00:59:06] It's fantastic. I'm just gonna note that environmental
+[00:59:10] exp expen, sorry, climate expenditure 24 25 was 1.2 billion.
+[00:59:14] And climate expenditure 25, 26 is
+[00:59:19] six 56 million.
+[00:59:20] So a huge reduction.
+[00:59:22] I mean, that's one of the really useful
+[00:59:24] things about your report.
+[00:59:25] Thank you. That it helps us to identify that sort of thing.
+[00:59:27] And I appreciate those things are a bit of an approximation,
+[00:59:30] not a, a detailed one for, you know, as you said,
+[00:59:33] it's, um, but it's pretty good.
+[00:59:34] Well, pretty good estimate, I said. Okay.
+[00:59:38] Thank you, uh, Dr. Russell.
+[00:59:40] And, um, uh, for those that are, uh, wondering what,
+[00:59:42] what we're talking about on the Sankey, um, graph, then
+[00:59:45] that is page four.
+[00:59:46] It's on the parliamentary website of, of the commissioner's,
+[00:59:50] um, uh, submission, uh, page four.
+[00:59:53] And it shows the, uh, 24, 25, um, environmental expenditure
+[00:59:56] by government agencies well worth having a look
+[01:00:00] at in your submission.
+[01:00:02] So, um, thank you so much. Uh, we appreciate that.
+[01:00:05] We appreciate the ongoing, um, invitation, uh, to come
+[01:00:09] and see you and to, uh, yes, to, to dig deeper.
+[01:00:11] And we will, it sounds like
+[01:00:12] members are keen to take that up.
+[01:00:14] Thank you. We'd appreciate that.
+[01:00:16] And just look at the last line of my submission, which says,
+[01:00:19] the committee could recommend
+[01:00:20] that parliament give the work on environmental outcomes
+[01:00:23] and performance a stronger mandate.
+[01:00:25] To be frank, I think committees think, wow,
+[01:00:28] this is an interesting idea.
+[01:00:29] It's a good idea, but you know, why should we do it?
+[01:00:32] Uh, uh, if you want the stuff to move forward, you
+[01:00:34] as a committee need
+[01:00:35] to recommend that someone does something.
+[01:00:37] I've gone as far as I can go using my office.
+[01:00:41] Yeah, no, that, that's fine.
+[01:00:42] And, uh, as you would've seen
+[01:00:44] with our banking inquiry recommendations, we got, um,
+[01:00:47] almost, uh, unanimous support and most of them.
+[01:00:49] And, um, uh,
+[01:00:50] we also gave some pretty strong recommendations out there
+[01:00:53] to the banking regulators
+[01:00:55] and sector players, uh, that have since been taken up.
+[01:00:58] So we have got good form.
+[01:00:59] You can be rest assured that we will be, uh, wanting
+[01:01:02] to make, uh, recommendations that stick going forward.
+[01:01:06] You very much. Okay. Thank you Mr.
+[01:01:08] Upton, and thank you to your colleagues.
+[01:01:13] Okay, Mr. Clark, and welcome to, uh, penny Hera too.
+[01:01:18] Nice to see you, penny. Okay. We've got, have we got Dr.
+[01:01:21] Bryce Wilkinson here, New Zealand, uh, initiative? Yes,
+[01:01:25] We do.
+[01:01:27] Okay.
+[01:01:36] Okay. Bryce, I think it looks like you've logged onto
+[01:01:39] another computer in another room,
+[01:01:41] so we you might have some, um,
+[01:01:44] Yes, We, we might not lose you this time. Uh,
+[01:01:47] Yes. My apologies. Apologies
+[01:01:48] For Yeah, no, that's all right.
+[01:01:50] Um, uh, sorry that that happened this morning, but, uh,
+[01:01:53] nonetheless, we've got you here for a p uh,
+[01:01:55] potentially up to 20 minutes.
+[01:01:57] Uh, we've got the NZI New Zealand initiative, um,
+[01:02:00] submission, and, uh, we look forward
+[01:02:01] to your, to the discussion.
+[01:02:05] Yes, thank you. Oh, some brief open opening remarks then.
+[01:02:08] Um, thank you very much, um, for the opportunity to speak,
+[01:02:11] um, on the New Zealand initiative submission.
+[01:02:14] Uh, we think this is a very important inquiry
+[01:02:17] and to performance reporting in in
+[01:02:19] public, uh, accountability.
+[01:02:22] I mean, the stark reality is
+[01:02:23] that total crown spending is about 190 billion approaching
+[01:02:27] 190 billion annually.
+[01:02:30] Uh, but we know remarkably little about how much of
+[01:02:33] that represents value for money.
+[01:02:35] And, um, this extraordinary situation does deserve, um,
+[01:02:40] um, great attention.
+[01:02:42] And so the initiative strongly supports this inquiry, uh,
+[01:02:45] parliament's ability to hold the executive accountable
+[01:02:48] for value for money is fundamental
+[01:02:51] to both our democratic governance
+[01:02:53] and our economic wellbeing.
+[01:02:55] And our submission makes three core arguments.
+[01:02:58] First, the current system lacks adequate incentives
+[01:03:02] and checks to ensure public, uh,
+[01:03:04] resources are used effectively.
+[01:03:06] And the executive naturally has an advocacy bias when
+[01:03:09] presenting policies.
+[01:03:11] And the administrative state has both an information
+[01:03:14] advantage and institutional incentives
+[01:03:17] that favor opacity over transparency.
+[01:03:21] Second, while requiring clearer objectives from the
+[01:03:25] executive, it is important
+[01:03:27] that we shouldn't expect complete transparency
+[01:03:30] about the deeper reasons behind policy decisions.
+[01:03:33] Coalition governments involve compromises,
+[01:03:36] and the good reasons given publicly may
+[01:03:38] differ from the real reasons.
+[01:03:40] And what matters most is whether the interventions deliver
+[01:03:44] net benefits that justify their costs.
+[01:03:46] And that's the important thing to try and get clarity about.
+[01:03:50] Third, and most importantly,
+[01:03:53] we think parliament needs greater independent
+[01:03:56] analytical capacity.
+[01:03:58] Um, we propose establishing a parliamentary review office,
+[01:04:02] call it an office of, uh, fiscal
+[01:04:05] and regulatory analysis if you prefer.
+[01:04:08] And this body would provide parliament
+[01:04:10] with expert independent assessments
+[01:04:13] of whether both spending programs
+[01:04:15] and regulations deliver value for money.
+[01:04:18] It could conduct a zero based reviews
+[01:04:21] learning from Netherlands successful model.
+[01:04:24] Beyond this, we suggest strengthening standing orders,
+[01:04:27] although we have not gone into detail on that,
+[01:04:29] to enforce compliance with reporting requirements, including
+[01:04:34] mandatory sunset clauses for new initiatives.
+[01:04:37] We also encourage considering mechanisms
+[01:04:40] for direct accountability to taxpayers, perhaps
+[01:04:43] through strike down referendum as you successfully
+[01:04:48] in, uh, in Switzerland,
+[01:04:50] we're a bit more dubious about initiative referendum.
+[01:04:54] The committee has an opportunity here
+[01:04:56] to fundamentally improve
+[01:04:58] how New Zealand managers nearly
+[01:05:00] 190 billion in annual spending.
+[01:05:02] Um, it's not a case of whether we need reform.
+[01:05:06] It's a case of what's the best thing to do
+[01:05:09] and the most appropriate, uh, thing to do.
+[01:05:12] And, um, my final remark is, you know, this committee has,
+[01:05:15] uh, considered the regulatory standards bill, which is,
+[01:05:19] is now an act.
+[01:05:20] And I, I very much see that as being of the same.
+[01:05:24] I, it was, it, it imposes, um,
+[01:05:27] requirements on the executive government
+[01:05:29] to report on aspects of the regulatory thing,
+[01:05:33] but leaves parliament entirely software it as to
+[01:05:36] what it decides to do with that information
+[01:05:39] and the initiatives long promoted a fiscal council.
+[01:05:42] Uh, but in, in this particular submission here,
+[01:05:46] I'm suggesting it's, it's, uh, could be a broader agenda
+[01:05:50] to cover both the fiscal and the regulatory side.
+[01:05:53] So, thank you very much, Mr. Chairman.
+[01:05:55] Oh. Oh, thank you, uh, Dr. Wilkinson,
+[01:05:57] for those introductory remarks, we're gonna go to Dr.
+[01:05:59] Uh, Russell.
+[01:06:01] Um, thanks, Bryce.
+[01:06:02] Um, I agree with some of what you say, not not all of it,
+[01:06:05] but, um, this office of, um, review.
+[01:06:09] Um, it's an interesting suggestion saying you, uh,
+[01:06:13] particularly needing the analytic capability, um,
+[01:06:17] and, um, to help, um, mps
+[01:06:22] as opposed to the executive.
+[01:06:23] I, I, I think that's an interesting suggestion
+[01:06:25] that we do get faced with Grace lodges of information.
+[01:06:28] It's very hard to find our way through it.
+[01:06:31] Um, I guess I'm always reluctant
+[01:06:32] to set up yet another office.
+[01:06:34] Is it something that could be done
+[01:06:36] within the audit office if the audit office was
+[01:06:39] funded to do it?
+[01:06:42] Yes, that's an option.
+[01:06:44] And I haven't recommended that
+[01:06:46] because, um, it requires a different set of schools.
+[01:06:50] Um, it, you know, economic analysis, uh, you have
+[01:06:53] to identify what would've happened otherwise, uh,
+[01:06:57] and given technological change
+[01:06:58] and, um, what other things were possible that's, um,
+[01:07:02] that's difficult to do.
+[01:07:04] And it's a different school from just working out
+[01:07:06] where the government spends money has been sent on the means
+[01:07:09] for which it was appropriated
+[01:07:11] and, uh, whether, uh,
+[01:07:13] it got into the pockets it was intended that had gotten to,
+[01:07:17] so while it could be done, um, my instinct is to
+[01:07:22] not, to, not to confuse
+[01:07:24] and broaden the auditor, general, the controller
+[01:07:27] and order to general's office,
+[01:07:28] but leave, leave it, uh, focused on what it does now.
+[01:07:33] And I've been very complimentary to it over
+[01:07:36] for many years now about how well it is doing its job
+[01:07:40] and just wishing that more often when it blew the whistle,
+[01:07:43] uh, there wasn't greater public attention to that
+[01:07:47] and more visible results.
+[01:07:49] Mm-hmm. So that's, yeah.
+[01:07:50] So that's why we, we propose a separate fiscal council
+[01:07:53] rather than wanting to sit it in that office,
+[01:07:57] but these things are open for discussion about what's best
+[01:08:00] and what's practicable. Yeah.
+[01:08:02] And one of the things that strikes me, we could do, having
+[01:08:05] that kind of analytic capacity
+[01:08:08] is also the work we've often talked around about around, um,
+[01:08:13] party manifestos and election promises and costings
+[01:08:17] and some of those sorts of things too, which
+[01:08:19] also sits exactly in that what if space.
+[01:08:22] Um,
+[01:08:24] Yeah, so on, on that matter, I've been, um,
+[01:08:28] pushing against having this body to comp, um, uh, sort
+[01:08:32] of cost out, um, political parties campaign, um,
+[01:08:38] uh, promises or, or plans.
+[01:08:40] Um, it, it would start to politicize the office a bit,
+[01:08:45] and it's hard to do because often what's in a party
+[01:08:48] manifesto, the details aren't spelled out
+[01:08:51] unless you know how broad and far reaching it is
+[01:08:54] or how narrow it is.
+[01:08:55] Um, uh, anything, any costing you're going to give is going
+[01:08:59] to be rather speculative.
+[01:09:01] And if it's not what one of the other parties wants to hear,
+[01:09:05] then Maggie immediately going to attack it.
+[01:09:07] And that entity is going to look, uh, is just going
+[01:09:12] to get sucked into a political debate, which
+[01:09:15] I can't really hope to win.
+[01:09:16] Yeah. The, and the other thing,
+[01:09:18] the other reason why I hesitate on that aspect is that
+[01:09:21] to me, our system is working quite well at the moment
+[01:09:24] that the major political parties have been hiring
+[01:09:28] independent, um, uh, economic experts, um, inform metrics
+[01:09:32] and build and the like to do their costings for them.
+[01:09:36] And it seems to me that's a much better arrangement.
+[01:09:40] That's, it's not something taxpayers need to fund,
+[01:09:44] and it's tricky for them to fund,
+[01:09:46] but that's just my personal opinion. Yeah.
+[01:09:48] Yeah. Okay. Thank you. Okay. Uh, Todd Stevenson Act.
+[01:09:52] Thank you. Um, Bryce, you mentioned in your, uh,
+[01:09:55] remarks about zero based budgeting
+[01:09:57] and was it the Netherlands you mentioned do that,
+[01:09:59] but can you just explain how, how that would actually add
+[01:10:03] to, um, I suppose accountability and transparency?
+[01:10:06] Transparency? Uh, yes.
+[01:10:09] The, the idea there is that, um, with productivity change,
+[01:10:14] um, departments should be able
+[01:10:15] to keep running their existing programs, uh, uh, along
+[01:10:19] with funders and overs, depending on population growth and,
+[01:10:21] and changing relative demands out of their existing.
+[01:10:25] So, um, if they want an increase in the budget, they need
+[01:10:29] to make a, an explicit case for that.
+[01:10:33] Um, so you don't necessarily get automatic, um,
+[01:10:37] increases in base spending unless of course it's a benefit
+[01:10:40] or something which is tied to wages or the CPI
+[01:10:44] and it's a contractual thing that, that has
+[01:10:46] to go up with that.
+[01:10:51] Thank you. Uh, Bryce, you, I know you'd said you didn't,
+[01:10:54] um, have a, you didn't add a lot of detail
+[01:10:56] around your proposal to strengthen
+[01:10:59] strengthening standing orders,
+[01:11:00] but in saying that you do make the comment ensuring
+[01:11:04] that key documents are subject to scrutiny.
+[01:11:07] Just, uh, can you just give us a definition of
+[01:11:09] what those key documents are
+[01:11:11] and what are not being scrutinized
+[01:11:14] or are not being scrutinized enough in your view?
+[01:11:17] Yes. What was motivating That was, um,
+[01:11:21] some material I read about how select committees get dilu
+[01:11:26] with, with documents
+[01:11:28] and don't have time to, um, you know, to, to get,
+[01:11:33] get on top of them all.
+[01:11:34] And they're not all properly serviced
+[01:11:37] with earth quality regulatory impact
+[01:11:39] statements and the like.
+[01:11:41] So, um, standing orders can specify
+[01:11:46] what the, what, uh, what the documents are,
+[01:11:51] which the executive government sort of takes into parliament
+[01:11:55] to, um, assess and debate and make decisions on.
+[01:11:59] So the idea there was
+[01:12:02] that if select committees are finding they're not being
+[01:12:06] adequately serviced and,
+[01:12:08] and the documents they're getting aren't really up
+[01:12:10] to standard, um, it's through standing orders
+[01:12:13] that they would put more pressure on the government
+[01:12:16] of the day to do a better job in those respects.
+[01:12:20] Mm. Okay. Okay. Members, anything else for Dr. Wilkinson?
+[01:12:26] Okay, we will leave it at that.
+[01:12:28] Thank, thank you, uh, Dr. Wilkinson for,
+[01:12:31] um, joining us today.
+[01:12:32] Thank you for your submission
+[01:12:34] and let's, um, keep in touch
+[01:12:35] as we progress this, um, public inquiry.
+[01:12:38] Thank you very much, Mr. Chairman.
+[01:12:40] Thank you. Okay.
+[01:12:42] Members, uh, Mr. Clark h how have we got next?
+[01:12:46] Have we got the salary? We're slightly ahead of time.
+[01:12:49] The Association of Salaried Medical Specialists.
+[01:12:53] Are they on queue? Yes. We're just bringing them in now.
+[01:12:56] Oh, good. Good to see Mike Davidson from
+[01:12:58] the Green Party here too.
+[01:12:59] Thanks, Mike.
+[01:13:10] Okay. Good afternoon. Have we got Harriet there, Harriet?
+[01:13:14] Wild.
+[01:13:21] Oh, we have, we got a, uh, a video. There we go.
+[01:13:26] Kiata, Kiata. Harriet Kiata.
+[01:13:28] Cameron, thank you for being, being here well in advance.
+[01:13:32] Uh, we're running ahead of
+[01:13:33] schedule, which is quite exciting.
+[01:13:34] With free to go, we might,
+[01:13:35] I might actually fulfill the promise
+[01:13:37] of two 30 finish, so we're in your hands.
+[01:13:39] Um, you have got up to, um, uh, 20 minutes if we need
+[01:13:43] that much, so thank you.
+[01:13:45] Sure. Well, t my name is Harriet Wild
+[01:13:50] and I am the Director of Policy
+[01:13:51] and research at to Maura, the Association
+[01:13:55] of Salaried Medical Specialists
+[01:13:57] for A-S-M-S-A-S-M-S is the Union
+[01:14:01] and Professional Association for Senior Doctors
+[01:14:03] and dentists in Aldo New Zealand.
+[01:14:06] I will take our submission as read
+[01:14:08] and now our submission today, I would like to talk, talk
+[01:14:11] through some of our experiences with performance reporting
+[01:14:14] and accountability data.
+[01:14:16] And as a health union, we are extensive users
+[01:14:18] of performance reporting official information
+[01:14:21] and accountability data.
+[01:14:23] I'll be using mostly examples drawn from the health sector.
+[01:14:26] Our main points are there are significant gaps in health
+[01:14:30] data, which impacts directly on performance report
+[01:14:34] and public accountability.
+[01:14:36] These data gaps cover fundamental aspects
+[01:14:38] of our health system, including unmet
+[01:14:41] need and health workforce.
+[01:14:43] We urgently need to address these gaps in order
+[01:14:45] to improve system efficiency, patient outcomes,
+[01:14:49] and develop our workforce to meet our needs.
+[01:14:52] Our policy and research work is undertaken both in-house
+[01:14:56] and commissioned externally.
+[01:14:58] We rely on timely access to information
+[01:15:00] and data about the operation of the health system,
+[01:15:03] the health workforce, and health outcomes of New Zealanders.
+[01:15:07] We often use this data alongside surveys
+[01:15:09] of our members' experiences as senior doctors
+[01:15:12] and dentists to shine a light on the
+[01:15:14] New Zealand public health system.
+[01:15:16] Through our research
+[01:15:17] and policy work in different structural iterations
+[01:15:20] of the health system, we find there is much room
+[01:15:22] for improvement in health performance reporting.
+[01:15:25] We have characterized health system performance reporting,
+[01:15:29] and our submission as disconnected, opaque, and partial.
+[01:15:33] This is despite the ever increasing interest in our public
+[01:15:36] health system and its performance.
+[01:15:38] The SSOs issues Monitor continues to have health
+[01:15:41] and hospitals as its number two issue for New Zealanders
+[01:15:45] and the number one for New Zealanders.
+[01:15:47] Over 65 people are deeply interested
+[01:15:50] and invested in the funding functioning
+[01:15:52] and future of our public health system.
+[01:15:55] We have found monitoring
+[01:15:56] and evaluation deficits nearly everywhere.
+[01:15:59] We look in health at the district,
+[01:16:01] regional, and national level.
+[01:16:04] At the international level.
+[01:16:05] Our recent report on health financing
+[01:16:07] and expenditure from the University of Auckland,
+[01:16:09] professors Tim Binzel
+[01:16:11] and Paula Log, found that the Ministry of Health has failed
+[01:16:15] to provide health expenditure data to the OECD.
+[01:16:18] Since 2018, New Zealand is the only OECD country not
+[01:16:22] providing this information.
+[01:16:24] And in June this year,
+[01:16:26] the OECD published a report titled Best Practice in
+[01:16:30] Institutionalizing Health Accounts.
+[01:16:32] And noted quote, with the exception of New Zealand,
+[01:16:35] all OECD countries currently submit some data on health
+[01:16:39] spending and financing based on the system
+[01:16:41] of health accounts.
+[01:16:42] 2011 core classifications, health financing,
+[01:16:46] healthcare services, and health providers.
+[01:16:49] A table on page 16
+[01:16:50] of this report shows New Zealand accompanied by a blank row.
+[01:16:54] Because we haven't submitted any returns,
+[01:16:57] the OECD has been estimating
+[01:16:59] and extrapolating our health expenditure based on
+[01:17:02] that 2018 return.
+[01:17:04] This is important because when ministers are asked about
+[01:17:06] how New Zealand compares internationally on health
+[01:17:09] expenditure, all will say we are quote above average.
+[01:17:14] We cannot in fact make this statement
+[01:17:16] because we simply don't know how we compare further.
+[01:17:20] New Zealand adds GST to its public health expenditure data.
+[01:17:24] And while technically this is not incorrect
+[01:17:27] or wrong, according to the accounting systems used
+[01:17:29] by the OECD, New Zealand is unique in the way it applies GST
+[01:17:34] to public health expenditure.
+[01:17:35] So this impacts on the way
+[01:17:37] that health expenditure figures ordered to the OECD
+[01:17:40] and may have significant over
+[01:17:43] the New Zealand's tax based expenditure
+[01:17:46] and reported OECD figures every year.
+[01:17:49] As a result, when minister's briefings
+[01:17:51] and official websites say
+[01:17:52] that New Zealand's health expenditure is above average,
+[01:17:55] the public will believe them.
+[01:17:57] Performance and reporting
+[01:17:59] and accountability data seems to me like an iceberg.
+[01:18:02] Often just the tip is publicly accessible.
+[01:18:05] The far more important, relevant
+[01:18:06] and interesting information, the bulk
+[01:18:08] of information lies hidden beneath the surface.
+[01:18:12] The hidden information is often not published in any form
+[01:18:14] and must be requested through the Official Information Act.
+[01:18:17] Sometimes the data we require
+[01:18:19] to construct a comprehensive analysis on the performance
+[01:18:22] of fundamental aspects of our health system,
+[01:18:24] namely unmet need
+[01:18:26] and the health workforce is not routinely collected.
+[01:18:29] Data is often fragmented,
+[01:18:30] inconsistent if it's collected at all.
+[01:18:34] We regularly find gaps in published performance reporting,
+[01:18:38] which we would consider basic outcome measures.
+[01:18:40] These are things like the number of healthcare workers
+[01:18:43] by headcount and FTE in any hospital district
+[01:18:46] by professional group role or service, hospital bed numbers
+[01:18:50] and occupancy rates.
+[01:18:52] Emergency department capacity to cope with surges in demand
+[01:18:56] clinical thresholds for access to services,
+[01:18:58] clinical accountability and adverse events data.
+[01:19:02] And on this last point, we note
+[01:19:04] that Health New Zealand was not publishing adverse events
+[01:19:07] data until uncovered by the media
+[01:19:10] and then directed to, to resume that posting, um,
+[01:19:13] by the Ombudsman.
+[01:19:15] Even now, nearly six months since that decision,
+[01:19:17] health New Zealand has only published data from Capital
+[01:19:20] Coast and HU Valley District.
+[01:19:23] The single report reveals for the first time ever
+[01:19:26] that deaths and adverse events have occurred due
+[01:19:29] to resource constraints.
+[01:19:32] Since the health reforms,
+[01:19:33] A SMS has observed a decline in reporting
+[01:19:36] and accountability to local communities about health needs
+[01:19:39] and the state of services
+[01:19:41] provided by Health New Zealand locally.
+[01:19:44] Some local accountability could have been achieved
+[01:19:46] through localities and iwi Maori partnership boards,
+[01:19:49] but localities have been discontinued
+[01:19:51] and the accountability role
+[01:19:53] of these boards has been weakened in the changes
+[01:19:55] to the Payor Healthy Futures Act.
+[01:19:58] One way government could provide greater public
+[01:20:00] accountability information to communities would be
+[01:20:02] through reporting on unmet need.
+[01:20:05] Communities require accessible regular reporting
+[01:20:08] to support their understanding
+[01:20:09] of population health within their district,
+[01:20:11] including health status, access to care, equity
+[01:20:16] or obligations, quality of care, health outcomes,
+[01:20:21] and system efficiency.
+[01:20:23] Data collected through the New Zealand Health Survey tracks
+[01:20:25] unmet need for primary care, dental care,
+[01:20:28] and for mental health care.
+[01:20:30] But there is currently no meaningful mechanism
+[01:20:32] to determine unmet need for hospital
+[01:20:34] and outpatient specialist care.
+[01:20:37] Our members inform us
+[01:20:38] that more referrals are being declined due
+[01:20:40] to workforce shortages and budget constraints.
+[01:20:43] We have recently found out that the number
+[01:20:45] of declined referrals are not being collated nationally,
+[01:20:48] so there's no overall picture of the scale
+[01:20:50] of need for planned care.
+[01:20:52] Our analysis shows
+[01:20:53] that waiting lists are effectively being managed
+[01:20:56] by declining referrals.
+[01:20:58] And the true wait list for a first specialist appointment
+[01:21:00] or treatment will far exceed available system capacity
+[01:21:04] First, first specialist appointment wait list.
+[01:21:06] Numbers are in fact flatlining
+[01:21:08] because the threshold to get on the wait list is so high
+[01:21:11] to improve our understanding of the total unmet need
+[01:21:14] for healthcare regular population surveys by age, ethnicity,
+[01:21:18] region deprivation, and disease prevalence are all critical.
+[01:21:24] Also critical is accurately reporting the iceberg
+[01:21:27] of planned care data.
+[01:21:29] This reporting must include information on
+[01:21:31] all patient journeys.
+[01:21:32] What is above the surface of the actual FSA wait list
+[01:21:35] and what is hidden below the surface being this being the
+[01:21:38] many thousands of people with their referrals declined.
+[01:21:42] The recent A SMS report managed, declined by our economist,
+[01:21:46] Andrea Black, provides insights
+[01:21:48] and presents implications on our health status
+[01:21:50] and levels of unmet health need.
+[01:21:53] The report analyzes nearly 15 years
+[01:21:55] of the self-reported health status question in the
+[01:21:58] New Zealand Health Survey.
+[01:22:00] She found that the proportion
+[01:22:01] of New Zealanders in excellent health is declining by 2036.
+[01:22:05] If current trends continue, there will be fewer than 7%
+[01:22:09] of New Zealanders in excellent health.
+[01:22:11] The proportion of New Zealanders in fair health is rising
+[01:22:14] and it is rising for people of working age
+[01:22:18] more than more than people over the age of 65.
+[01:22:22] People in fair health are much more likely
+[01:22:24] to require health services than people in excellent health.
+[01:22:27] And as fair health has increased in the population,
+[01:22:30] so has unmet need for primary care, mental health services,
+[01:22:34] and oral health care.
+[01:22:36] Moving to workforce, our experience
+[01:22:38] of publicly available workforce data is
+[01:22:41] that it is unreliable and incomplete.
+[01:22:43] Data on health workforce capacity
+[01:22:45] and capability is largely non-existent.
+[01:22:48] The size of the health workforce is not determined
+[01:22:50] by current demand or unmet need for care, but by budgets.
+[01:22:55] Our systems do not enable meaningful planning, budgeting,
+[01:22:58] or forecasting for the health workforce
+[01:23:00] and do not account for demand or unmet need.
+[01:23:03] Some systems such as rostering
+[01:23:05] and scheduling still require paper reports.
+[01:23:09] Ultimately what this means is a system run on the goodwill
+[01:23:11] of health workers to cover entrenched shortages.
+[01:23:15] We note that the recently announced digital health
+[01:23:17] investment plan includes a component
+[01:23:19] for a human capital management system that seek
+[01:23:22] to address some of these issues,
+[01:23:23] including workforce planning and rostering.
+[01:23:27] While this is a welcome development,
+[01:23:28] these are urgently needed upgrades,
+[01:23:30] which will still take 10 years to be operational according
+[01:23:33] to the plans timeline.
+[01:23:36] Our surveys and analysis
+[01:23:37] of the senior medical workforce reveal
+[01:23:39] that doctors are struggling to cover for absent colleagues,
+[01:23:42] provide appropriate time and training to registrars,
+[01:23:45] and have time to provide patient-centered care
+[01:23:47] to patients in whanau as demand for care grows.
+[01:23:51] These measures must be part of any public accountability
+[01:23:55] or performance reporting.
+[01:23:56] We do not have a workforce target
+[01:23:58] nor measurable workforce recruitment and retention goals.
+[01:24:02] The health workforce takes up about two thirds
+[01:24:05] of operational spending.
+[01:24:07] The ability of that workforce to work most effectively
+[01:24:10] and efficiently is the make or break of the health system.
+[01:24:14] We strongly recommend developing a regular
+[01:24:17] publicly reported comprehensive health workforce census.
+[01:24:21] This could not only serve
+[01:24:22] to fill the data gaps on workforce numbers,
+[01:24:25] but also provide valuable qualitative insights into job
+[01:24:29] satisfaction and where changes needed in a dynamic
+[01:24:32] and constantly evolving system.
+[01:24:35] In summary, the gaps in health performance reporting
+[01:24:37] and accountability data are stark
+[01:24:40] and baseline information on unmet need
+[01:24:42] and the health workforce does not exist.
+[01:24:46] We urgently need to address these gaps in order
+[01:24:48] to improve the efficiency
+[01:24:50] and effectiveness of the health system outcomes
+[01:24:52] for patients, and to develop a health workforce
+[01:24:54] that has the capacity
+[01:24:56] and capability to meet our growing health needs.
+[01:24:59] Kilda.
+[01:25:00] Thank you very much. Um, Ms. Wild, that's loud and clear.
+[01:25:06] Uh, as was your, um, written submission, um, members,
+[01:25:09] uh, Dr. Debra Russell,
+[01:25:12] Uh, excuse me.
+[01:25:14] Sorry. Thank you. That was, um, pretty sobering
+[01:25:16] to hear all of that.
+[01:25:18] Can I just clarify, I missed the date when you said
+[01:25:20] we'd last sent data.
+[01:25:22] Was, am I right? Was that 2018?
+[01:25:24] Correct. 2018.
+[01:25:26] Okay. And is that,
+[01:25:27] where is the responsibility for that lie?
+[01:25:29] Does it lie within the ministry?
+[01:25:31] Correct. The Ministry of Health
+[01:25:33] And, sorry, again, one clarification.
+[01:25:35] Was it the data for 2018
+[01:25:38] or was the last time we sent data was in 2018?
+[01:25:41] It was for previous years.
+[01:25:44] The last, uh, so the, the return is made every year. Yeah.
+[01:25:47] Um, and the last time we submitted data was in 2018,
+[01:25:51] So it would've been for the
+[01:25:53] 2017 year or something like that.
+[01:25:54] Yeah, 20 17, 20 18 year.
+[01:25:56] Okay. Thank you. Um, I guess we better leave
+[01:25:58] that in the hands of the health committee to, um,
+[01:26:01] follow up on that.
+[01:26:03] Um, um, I just wanted to clarify that, but thank you.
+[01:26:06] That was pretty, um, sobering to hear all that.
+[01:26:08] I guess it, um, it goes to, uh,
+[01:26:11] health reporting within health rather than
+[01:26:14] across the broad sweep of government.
+[01:26:16] But, um, uh, one of the things,
+[01:26:19] I don't know if you heard the Parliamentary Commissioner
+[01:26:21] for the environment's, um, submission and
+[01:26:25] or whether you've seen his sanky diagrams.
+[01:26:28] No, I haven't. Right, okay.
+[01:26:30] So they're really interesting 'cause they look at
+[01:26:31] where health spend is coming from right across government.
+[01:26:35] And he felt, you know,
+[01:26:36] obviously the health scene is probably mostly like virtually
+[01:26:39] all of it within the health vote.
+[01:26:42] Um, but I think it'd be interesting to, for us
+[01:26:47] to ever think about how that could be captured within
+[01:26:50] a sanky diagram or where we, how we can link inputs
+[01:26:54] to outcomes over time. But anyway, yeah, and
+[01:26:57] You'll have seen from our submission that, um,
+[01:26:59] the Simpson Review in, um, in 20 20 19 acknowledged that,
+[01:27:04] you know, 80% of of health, um, health determinants sit
+[01:27:08] outside the health system.
+[01:27:10] So having those, uh, multi-agency cross
+[01:27:13] really cross government, um, accords to,
+[01:27:18] to improve health outcomes will, will improve, um,
+[01:27:22] improve things for everyone.
+[01:27:24] Yeah. Okay. Look, thank you.
+[01:27:25] We really appreciated your submission.
+[01:27:28] Okay. Any other, uh, questions for Harriet Wild members?
+[01:27:32] Okay, look, thank you so much for your submission.
+[01:27:35] Uh, I, I do note here that you, uh,
+[01:27:37] obviously support the intent of the inquiry
+[01:27:39] and feel it's long overdue.
+[01:27:40] And that is something that all of us, um,
+[01:27:43] would arguably agree on. So thank you.
+[01:27:45] Thank you. We are really, um, we we're, we are really keen
+[01:27:48] to see what happens next.
+[01:27:50] Um, and we do think it's, it's critically important and
+[01:27:53] Yeah, no, well please to keep involved.
+[01:27:55] Please stay engaged as we continue
+[01:27:56] to work on this over the next six months or so.
+[01:27:58] Thank you. Thank you. Right.
+[01:28:02] We have got Wendy McInnis.
+[01:28:04] I can see her online, um, from the McInnis Institute.
+[01:28:07] Thank you for, um, uh, jumping into the spot
+[01:28:10] as we are running a little bit ahead of time, Wendy, lovely
+[01:28:12] to see you again
+[01:28:13] and, um, we look forward to your presentation.
+[01:28:16] Great. And can I just check, um,
+[01:28:18] you can see the PowerPoint slide,
+[01:28:20] Uh, uh, are we sharing a screen, Mr. Clark?
+[01:28:27] Sorry, I'll just sit back out again and just check.
+[01:28:33] I've got shared here.
+[01:28:37] There We go. I'll just go onto to view.
+[01:28:40] So thank you very much. Um, okay.
+[01:28:45] Hopefully we've got, can you see the PowerPoint slide?
+[01:28:50] Yes, we can. Yes. Fantastic. Thank you.
+[01:28:53] Well look, opening remarks, um, clearly I've been around
+[01:28:57] for a wee while I've seen, um, massive sort
+[01:29:00] of focus on this area.
+[01:29:02] Um, I wanted to just like clarify,
+[01:29:04] the Public Finance Act had a very strong relationship.
+[01:29:08] I was in the treasury at the time on the Public Finance Act,
+[01:29:11] um, looking at the relationship between Department
+[01:29:14] of Ministers, so it was our minister and our department.
+[01:29:18] So that was the area of focus.
+[01:29:21] And what you've done in your wonderful terms
+[01:29:23] of reference has expanded that.
+[01:29:25] And I think that's terribly important.
+[01:29:27] Um, and I think it's very timely the, um, focus
+[01:29:31] that you've created in your terms
+[01:29:33] of reference is the focus on the public and the parliament
+[01:29:35] and almost everything else in between.
+[01:29:38] So if you're looking at like a chain, you've taken the chain
+[01:29:41] that was in existence with the Public Finance Act
+[01:29:43] and you've sort of put it within that broader context,
+[01:29:46] and I think it's terribly timely to do that.
+[01:29:49] Um, one of the things,
+[01:29:51] so we've actually been looking quite closely at the concept
+[01:29:54] of public accountability and the very back slide.
+[01:29:57] I've actually got some links.
+[01:29:59] Um, so public accountability is sort
+[01:30:01] of a co accounting concept,
+[01:30:04] and I've put a couple of links in the very back for those
+[01:30:06] that wanna go there in terms of what the XRB
+[01:30:09] and what sort of said, um, well broadly
+[01:30:11] around public accountability
+[01:30:12] because it's clearly underlines the reporting framework
+[01:30:16] across everywhere.
+[01:30:18] Um, so I've put those links in there just in case you
+[01:30:21] weren't sort of fully aware of that.
+[01:30:23] The, um, the most important thing I think
+[01:30:26] for me is you can't have, um, performance
+[01:30:28] or public accountability without real clarity
+[01:30:32] over what the goals are.
+[01:30:33] Goals. So you can't measure success if you dunno
+[01:30:36] what success looks like.
+[01:30:38] And so I just wanted to raise that.
+[01:30:40] So I've sort of identified seven things
+[01:30:42] that I thought if I could briefly talk to, um,
+[01:30:45] before you ask me, hopefully some questions.
+[01:30:48] So a clarity of goals, um, just extremely important.
+[01:30:52] And particularly of course, they're going to change.
+[01:30:55] Um, and every government
+[01:30:56] that comes in is going to have new goals.
+[01:30:59] The clarity over that I think is terribly poorly managed.
+[01:31:03] Um, and I, I've given you some really quick examples over,
+[01:31:07] um, I think we're moving away from technical terminology
+[01:31:12] and we really need to revisit it
+[01:31:14] because it's the only thing
+[01:31:15] that gives us comparability and accountability.
+[01:31:18] So we've had a time when we had strategic result areas.
+[01:31:21] We've had focus areas,
+[01:31:22] we've had better public service targets.
+[01:31:25] We've had, we've got the, currently we've got the target,
+[01:31:28] um, the target areas.
+[01:31:31] Um, we've got physical objectives
+[01:31:33] and policy objectives and the budgets.
+[01:31:35] Um, but we haven't got any sort of consistent language.
+[01:31:39] And I think that even if different governments want
+[01:31:42] to have different language, it would be really nice if they
+[01:31:44] turned around and said, oh, what we mean
+[01:31:46] by better public services targets is blah, blah, blah.
+[01:31:50] Um, and so that means that right at the very top,
+[01:31:54] it's very hard from the general public perspective
+[01:31:57] to actually understand what, um, the goals of government.
+[01:32:00] So therefore, if you don't know the goals of government,
+[01:32:02] you can't hold them to be accountable.
+[01:32:04] So your system falls down at the first hurdle,
+[01:32:07] which is really what I wanted to say.
+[01:32:09] Um, second thing is,
+[01:32:12] we have created obviously a consolidated financial statement
+[01:32:17] of government, which of course I clearly support.
+[01:32:20] Um, but we actually haven't got a place, um,
+[01:32:23] or a space where we can measure the goals
+[01:32:26] of government against the financial reporting mechanisms.
+[01:32:30] And so my view is that the cons,
+[01:32:32] there should be a consolidated annual report,
+[01:32:35] and that should be, um, have a commentary
+[01:32:38] that actually says, these are the goals of government
+[01:32:41] and this is the performance of government.
+[01:32:43] So it may be very, um, uh, you know, a political bridge
+[01:32:49] and I, I kind of, I can understand how people might say, oh,
+[01:32:53] well that's gonna make a, um, might be challenging,
+[01:32:56] but it actually is an enormous opportunity for that,
+[01:33:01] um, building that bridge.
+[01:33:02] And that bridge doesn't currently exist.
+[01:33:04] And I'll give you, um, an example where lux
+[01:33:07] and nine goals are being reported on by the DPMC.
+[01:33:10] Now, uh, that's where the report goes.
+[01:33:13] And actually that's one of the slides,
+[01:33:14] so I can just point it to you after this.
+[01:33:16] But, so the concept is that we are having these goals
+[01:33:21] of government, which the public, I think have a full right
+[01:33:24] to know and understand.
+[01:33:26] Um, and even the government departments
+[01:33:29] or officials need to have clarity over
+[01:33:32] that doesn't have a home.
+[01:33:34] And what we need to do, I think, in terms of trying
+[01:33:37] to improve performance
+[01:33:38] and public accountability is have real clarity at the front
+[01:33:41] end every year about what government's trying to do.
+[01:33:45] Um, number four,
+[01:33:46] there is consolidated climate statement for all of government.
+[01:33:50] Um, there is a climate emergency, um, and I,
+[01:33:54] and I use that word 'cause I actually think there's a
+[01:33:56] climate crisis, not an emergency.
+[01:33:59] Um, and I think that every country is different
+[01:34:02] and we need to really start understanding
+[01:34:05] that the climate statement, climate reporting.
+[01:34:07] And I know I've just got something in my email about, um,
+[01:34:11] submissions on that, which we will be submitting on,
+[01:34:13] but it, it's, it's not difficult.
+[01:34:16] It's really simple process.
+[01:34:18] It gives an ability for government to fill that line between
+[01:34:23] what the public need to know
+[01:34:25] and what, um, cabinet needs to know.
+[01:34:28] Um, and that accountability process
+[01:34:30] that you're trying to achieve.
+[01:34:32] You know, that I always talk about governments
+[01:34:34] department strategies.
+[01:34:36] Um, once again, it's a c for me,
+[01:34:39] it's a performance document.
+[01:34:41] Uh, you need to know what success looks like,
+[01:34:43] what people are trying to achieve to be able
+[01:34:46] to make them held accountable.
+[01:34:48] Um, number six is just my gosh, aren't we,
+[01:34:53] we are gonna be data overload.
+[01:34:55] So choosing priorities around data is going
+[01:34:58] to be fundamentally important.
+[01:35:00] Like what reports are needed and who's needed.
+[01:35:03] Um, and there's who needs it.
+[01:35:05] And this other aspect around
+[01:35:07] that timely information may not be able
+[01:35:09] to be accurate understanding.
+[01:35:11] I mean, that was what really what happened in COVID was the,
+[01:35:14] the early response was they were operating on very poor
+[01:35:18] quality information, but some information was
+[01:35:22] better than no information.
+[01:35:23] And I think that we, when we are dealing with levels
+[01:35:25] of disruption, we need to take that onto, onto account.
+[01:35:29] Um, last
+[01:35:31] but not least, um, the AI ready documents.
+[01:35:35] So we are going to see, we've already, you know,
+[01:35:38] the cybersecurity, what we know about it,
+[01:35:40] but there's a lot going on that we don't know about it.
+[01:35:42] We are dealing with, um, bad actors,
+[01:35:45] bad actor, nation states.
+[01:35:46] Um, we are dealing in a completely different world than we
+[01:35:51] had, you know, at the beginning of the century.
+[01:35:54] So I'm being very strongly arguing that we need
+[01:35:58] to make AI ready public documents.
+[01:36:01] Now, this has two aspects.
+[01:36:03] One is the fact that they need to be searchable in terms
+[01:36:06] of ai, because if we are going
+[01:36:07] to use all these different types of AI mechanisms to search
+[01:36:11] for quality information in the public arena,
+[01:36:14] you wanna have some control over what those are.
+[01:36:17] Um, you wanna know, you can trust them
+[01:36:20] and you wanna know that they're searching the right stuff.
+[01:36:22] So weirdly, it's not like what we used
+[01:36:25] to do when we'd do a Google search
+[01:36:27] or, um, you know, a Word document.
+[01:36:30] Um, basically
+[01:36:31] what you're doing now is you're tagging certain information
+[01:36:35] within documents to be the easy searchable data.
+[01:36:39] It's, it's relatively complex.
+[01:36:42] Um, it's something
+[01:36:43] that we don't want cabinet papers going out being retracted
+[01:36:46] and looking like cabinet papers,
+[01:36:47] but they're not cabinet papers.
+[01:36:49] So we have been arguing that there is a central register
+[01:36:53] of cabinet papers, um,
+[01:36:55] and that enables people to, you know,
+[01:36:58] we can build up the verification of those over time.
+[01:37:00] So we don't want, for example, um, flawed policy based on,
+[01:37:05] um, misinformation that's been put into our systems.
+[01:37:09] So we, we need to, um, think about what,
+[01:37:12] what public documents are really important
+[01:37:14] and we need to then put a very strong sort of box
+[01:37:18] around those and then manage to make sure
+[01:37:21] that the public are informed well for democracy.
+[01:37:24] Um, I've got just two, two little slides.
+[01:37:27] Um, that one's just showing you the nine target areas, so
+[01:37:32] DPMC sort of owning that.
+[01:37:34] But we, you know, I'd ask the question is where do you see
+[01:37:37] that fitting within your terms of reference?
+[01:37:40] Um, my view is it, um, it is relevant.
+[01:37:43] Um, I, I kind of wonder whether it should be, um,
+[01:37:47] fitting more within treasury.
+[01:37:49] Now, obviously I'm mixed treasury, so a long time ago.
+[01:37:52] Um, or, uh, so it's just actually understanding
+[01:37:56] that you've gotta also ringfence, you know,
+[01:37:59] if treasury's the financial advisor, how does
+[01:38:03] that fit within this broader frame that you're creating?
+[01:38:06] And I, if it was me, I would be anything
+[01:38:09] with a dollar on it, I'd be, you know, definitely trying
+[01:38:12] to position it under one body.
+[01:38:14] Um, just because, uh, you know, like for all those reasons
+[01:38:18] that I've just talked about actually.
+[01:38:20] Um, and very last is I've just put, um,
+[01:38:22] which I mentioned the SRB
+[01:38:24] discussion on public accountability.
+[01:38:26] We did some work on strategy stewardship, um, looking at,
+[01:38:30] uh, old forms, looking at Ruth Richardson's, uh, um,
+[01:38:34] terminology and, and so forth going forward.
+[01:38:37] There's the GDS index, there's just some links just
+[01:38:41] to give you some idea of where those things are.
+[01:38:42] And then I've got the think piece
+[01:38:44] that we've done on unlocking government documents with ai.
+[01:38:48] So there we go. Hopefully create enough time. Cameron.
+[01:38:52] Yeah, no, uh, no, you have thank,
+[01:38:54] and thank you for those, um, those links.
+[01:38:57] We put some of us,
+[01:38:58] particularly like those nine government targets
+[01:39:00] that are seen on the DPMC website.
+[01:39:01] But I digress members, have we got any, um,
+[01:39:04] questions, uh, or comments?
+[01:39:09] Yep. Um, Wendy, can you, um, flick back
+[01:39:12] to the government targets?
+[01:39:14] Yep. So these are the current
+[01:39:18] government's targets, aren't they?
+[01:39:20] Yes, they were produced, this is the recorder report,
+[01:39:24] 30th, June, 2025.
+[01:39:25] Yeah,
+[01:39:27] I I, I, I've always found those
+[01:39:31] targets interesting.
+[01:39:32] And I, um, but to me they're more of a,
+[01:39:36] a political tool rather than an accountability tool.
+[01:39:40] Um, and I, I get the, I'm just trying to be fair on this
+[01:39:44] because I'd like to hoe into the government on it,
+[01:39:46] but I'm not going to, it's a,
+[01:39:47] but it's a, um, it is, it's there I guess for
+[01:39:53] publicity and political purposes.
+[01:39:55] Um, and if we overemphasize something like this,
+[01:40:00] um, we end up in the position where we had,
+[01:40:02] with the previous auditor general who decided that
+[01:40:04] because we, uh, when we were in government,
+[01:40:07] we called something a program that
+[01:40:08] that meant it was a full fledged program that needed
+[01:40:10] to be treated as an auditable program with very rigid, yeah.
+[01:40:14] Yeah. So, um, there's, there's this, uh, uh, quite a
+[01:40:17] and it's a, it's a, it's a point that's come up a number
+[01:40:20] of times through this inquiry where politics runs into a,
+[01:40:24] into accountability and there's a attention there.
+[01:40:28] Um, and, um, I'm just wondering how you can, I, I,
+[01:40:31] I'd like a comment from you on that. Really.
+[01:40:32] Yeah, I know. Look, you, you're absolutely spot on.
+[01:40:35] There is clearly a relationship between the political goals
+[01:40:40] and objectives and the public service
+[01:40:43] or the government, um, broader, um, objectives.
+[01:40:47] And there has to be some sort of bridge
+[01:40:50] or relationship to them.
+[01:40:53] Um, it, it can be as simple as, um, you know,
+[01:40:58] these, these goals are given from ministers
+[01:41:03] to departments and government to run the government.
+[01:41:06] I mean, I think, um, if you could, if you could clarify
+[01:41:11] a definition that gave it, um, substance,
+[01:41:17] uh, that it is meant to drive
+[01:41:20] financial activity within the government sector, um,
+[01:41:24] then I think it absolutely makes sense to actually know what
+[01:41:29] that success successes.
+[01:41:30] Um, so for example, even from a political perspective,
+[01:41:34] if you have, if one political party has objectives
+[01:41:38] that it's running government with,
+[01:41:40] and then another one they can actually turn round
+[01:41:42] and critique it or say, you know, I agree
+[01:41:44] with this intention, but I don't agree with that intention.
+[01:41:49] So the problem, I think with, um, these goals
+[01:41:53] and these terms that have been used, um, it's, uh,
+[01:41:56] going back to Ruth Richardson and probably beyond
+[01:41:58] before her, um,
+[01:41:59] but I'm only aware she, I think she sort
+[01:42:01] of really started it when she was using the goals to try
+[01:42:04] and drive financial activity, um,
+[01:42:07] and delivery of, um, outcomes.
+[01:42:10] So, you know, you've got this, you have,
+[01:42:13] you're absolutely right that they are different,
+[01:42:17] but there's no place that they come together.
+[01:42:20] And I think it's the management commentary in an annual
+[01:42:24] report of consolidated government.
+[01:42:26] And it can, it can be signed by the Minister of Finance,
+[01:42:29] but there is not a one place you can go to, um,
+[01:42:32] how many people, for example, go
+[01:42:34] and look at the December budget update
+[01:42:37] and, you know, try and, do you know what I mean?
+[01:42:39] Yeah, I know. I mean, like, you know, I do, but,
+[01:42:41] but you know, it's actually understanding
+[01:42:43] that there's no public mechanism
+[01:42:46] and we really need to care for democracy at a level
+[01:42:49] that we have never had to before,
+[01:42:52] because the interference that we're going to see,
+[01:42:55] and we probably already are seeing is coming
+[01:42:58] because we are not communicating what that looks like.
+[01:43:03] So, you know, we are going to go into another election
+[01:43:06] where those, you know, those purposes of
+[01:43:09] what the government is being judged against is
+[01:43:11] not particularly clear.
+[01:43:13] Um, some of that comes from our MMP, you know,
+[01:43:17] we've done a lot of work looking at the coalitions, um,
+[01:43:19] and looking at the goals of the coalitions.
+[01:43:22] In fact, every, um, we, we've started this process
+[01:43:25] of looking through the coalition agreements
+[01:43:28] and we have a working paper and we go through
+[01:43:30] and say, yes, that one was done
+[01:43:31] and that one was done, but that one wasn't.
+[01:43:33] Um, but what's, you know, what's clearly apparent is that
+[01:43:36] that is seen as a mandate,
+[01:43:38] and you can kind of understand that too,
+[01:43:40] because that's an agreement
+[01:43:41] that being signed by the parties.
+[01:43:43] But we are actually seeing that the public policy
+[01:43:46] before the election is different from the public
+[01:43:49] policy after the election.
+[01:43:52] And then, and we haven't got a, a proper mechanism
+[01:43:56] for getting a government view.
+[01:43:58] And if you don't get government, you can't get performance,
+[01:44:01] you can't get public accountability.
+[01:44:03] So we've kind of, like I said,
+[01:44:05] at the first hurdle falling over.
+[01:44:07] Okay. We're gonna have to, um, leave it at that.
+[01:44:10] Uh, Wendy, uh, one, one could also, um, make a point that,
+[01:44:14] um, that those public service targets, uh, have been, um,
+[01:44:19] supported by some chief executives.
+[01:44:21] Uh, any, any hearing that I've been part of, they have said,
+[01:44:24] whether it's the Secretary of Justice or the Yeah.
+[01:44:26] Of DPMC, uh, that they help with their work
+[01:44:29] and their focus of resources.
+[01:44:31] And so, um, uh, I would argue that they go
+[01:44:34] beyond their political marketing purposes well beyond.
+[01:44:38] But anyway, that's a, that's a political
+[01:44:40] You Don't need to be part of, but thank you. No, no.
+[01:44:42] One really quick response is yes,
+[01:44:44] but I don't think the public have got it.
+[01:44:49] That Would be my comment. Thank
+[01:44:50] You. Okay. Okay. And
+[01:44:51] you could also put a link there
+[01:44:52] to our quarterly, uh,
+[01:44:54] to the government's quarterly action plans
+[01:44:55] and quarterly reports is another level
+[01:44:57] of accountability as well.
+[01:44:59] Anyway, thank you, Wendy. Thank
+[01:45:00] You very much. Thank you. Thank you.
+[01:45:01] Cool. We appreciate that.
+[01:45:03] And, uh, we are now on to, in our last,
+[01:45:05] um, 10 minute presentation.
+[01:45:07] We've got Animal plant, uh,
+[01:45:08] health Association of New Zealand.
+[01:45:10] We've got Dr. Liz Shackleton here. Thank you, Dr.
+[01:45:13] Shackleton. Uh, we look forward to your presentation.
+[01:45:15] You've got 10 minutes.
+[01:45:17] Kira Koa, thank you so much, um, to the, um,
+[01:45:21] group here today for your inquiry
+[01:45:23] and for the opportunity to chat to you today.
+[01:45:26] So look, as context, animal
+[01:45:28] and Plant Health New Zealand, we represent close
+[01:45:30] to 80 New Zealand and global organizations here, research,
+[01:45:34] developing, manufacturing and distributing animal
+[01:45:36] and health pro, um, animal health products.
+[01:45:38] Why does that actually matter?
+[01:45:41] These products are the toolkit for many
+[01:45:43] of New Zealand's goals around sustainability, biosecurity,
+[01:45:46] conservation, and economic growth.
+[01:45:49] Our members strongly support your inquiry
+[01:45:53] and our members re recognize first
+[01:45:55] and foremost the really crucial role that the system plays
+[01:45:58] and the importance of robust performance reporting
+[01:46:01] and public accountability, vital to trust
+[01:46:04] and confidence, good governance,
+[01:46:06] and that that also needs to evolve over time.
+[01:46:09] So look really quickly today, our members have asked for us
+[01:46:12] to share with you really a bit of a case example
+[01:46:15] and some key take homes from their experience
+[01:46:18] of the current system.
+[01:46:20] And then secondly, looking forward the opportunities
+[01:46:22] that they see to strengthen that.
+[01:46:25] Um, so look as context,
+[01:46:27] our members operate under the AG compounds
+[01:46:29] and Vet Medicines Act, the hazardous substances
+[01:46:32] and New Organisms Act and WorkSafe Act,
+[01:46:35] and essentially that's around approving agricultural
+[01:46:38] and horticultural products.
+[01:46:40] Back in February, a Ministry
+[01:46:42] for Regulation Review was endorsed by cabinet
+[01:46:46] and it reinforced the critical importance
+[01:46:48] of this inquiry inquiry
+[01:46:50] and it confirmed our members' experiences.
+[01:46:53] So it found a number of themes
+[01:46:55] directly relevant to this inquiry.
+[01:46:58] One, it found a lack of strategic direction
+[01:47:01] and complexity, particularly around monopoly provider,
+[01:47:04] multi regulator models.
+[01:47:06] It creates duplication
+[01:47:08] and importantly, complexity for governance who are trying
+[01:47:12] to monitor and hold to account.
+[01:47:14] It also found themes around performance reporting.
+[01:47:17] Now that really supported our members' experience of metrics
+[01:47:21] that lack spasticity measurement
+[01:47:24] of actual impact on the ground.
+[01:47:26] And that's leading to uncertain processing timeframes
+[01:47:29] for our members on, um, unclear reporting and outcomes.
+[01:47:34] And that uncertainty is living out
+[01:47:36] and impacting us as we speak because some of our r
+[01:47:39] and d companies are choosing
+[01:47:40] to exit investment in New Zealand here at a time
+[01:47:44] when we need it most.
+[01:47:46] There's also a theme
+[01:47:47] around uncertain outcomes for investment.
+[01:47:49] And look, our members really support a properly resource
+[01:47:53] regulator, but considerable funding increases from industry
+[01:47:57] in recent years just hasn't delivered improved processing
+[01:48:00] of applications with water monopoly providers.
+[01:48:04] In one example, we had a regulator advise industry
+[01:48:08] after the fact of a multimillion dollar spend
+[01:48:10] of industry funds on an encore project.
+[01:48:13] In another example, we had members report
+[01:48:17] that application fee increases back in 2018, went up
+[01:48:21] between 60% and 500% for another regulator.
+[01:48:25] But as of today, that hasn't translated into improved
+[01:48:29] processing timeframes.
+[01:48:31] So really I think the mood of our membership is
+[01:48:33] that they believe it's reasonable for industry
+[01:48:35] and taxpayers to understand what
+[01:48:38] outcomes are being delivered for funding.
+[01:48:41] Um, out of the review that the Ministry
+[01:48:43] for Regulation have done, they're proposing as what one
+[01:48:47] of the regulators further levy and cost recovery settings.
+[01:48:51] Now, for our members, they just cannot justify these
+[01:48:54] until clear measurable improvements in core business.
+[01:48:58] Core strategic priorities can be demonstrated.
+[01:49:01] And for them, that is making transparent, consistent,
+[01:49:05] and timely decisions on new product approvals.
+[01:49:09] The last two themes in the review
+[01:49:11] and our members' experience was around accountability.
+[01:49:14] Really a theme when we listened to our members
+[01:49:17] around the quality of performance reporting.
+[01:49:20] And if that's not there, it is quite a challenge in terms
+[01:49:24] of obscuring inefficiencies, increases governance risk
+[01:49:28] and governor's ability to detect
+[01:49:30] and respond to high risk impacts
+[01:49:32] and undermines confidence in, um, obviously, um, those
+[01:49:37] that are within the system.
+[01:49:39] The review finally had a theme around the importance
+[01:49:42] of communications and engagement.
+[01:49:44] It's the quality performance reporting, again,
+[01:49:47] which builds trust
+[01:49:49] by actually demonstrating outcomes from the
+[01:49:51] intentions that are set.
+[01:49:53] Um, I guess my last piece
+[01:49:55] before we look forward is
+[01:49:57] a real enduring question from this review for our members is
+[01:50:01] that it confirmed an extensive backlog,
+[01:50:04] but that didn't happen overnight.
+[01:50:06] The question is what was being reported before this review
+[01:50:10] and what was being asked by governance?
+[01:50:13] Because where are we at now?
+[01:50:15] We're nine months on from a cabinet endorsed review
+[01:50:18] and with a roadmap for change that's really clear.
+[01:50:21] Literally yesterday we released a pulse check survey,
+[01:50:25] which we did to confirm
+[01:50:26] and substantiate
+[01:50:27] what was happening on the ground for our members.
+[01:50:30] Those results confirm
+[01:50:31] that our members are seeing no meaningful change
+[01:50:34] in the approval process.
+[01:50:36] Nine months on from a review.
+[01:50:38] And in some areas deterioration
+[01:50:40] and performance, the flow on impacts
+[01:50:43] for our members are real global RD companies continue
+[01:50:47] to review their future here
+[01:50:49] and the longer term impacts for New Zealand
+[01:50:51] for environmental, economic, social, animal welfare,
+[01:50:55] productivity, the list goes on.
+[01:50:57] So all of what our members are seeing directly reflects back
+[01:51:01] to the issues you've highlighted in your inquiry,
+[01:51:04] performance reporting, lack of transparency,
+[01:51:08] and around the weak accountability frameworks
+[01:51:10] that you've mentioned in your inquiry.
+[01:51:12] So look, our members' view is forward
+[01:51:15] and our focus is forward on where are the opportunities
+[01:51:18] to rebuild that trust and confidence.
+[01:51:21] And that was a theme identified in the review.
+[01:51:24] There's really five key things they would like this
+[01:51:26] inquiry to think about.
+[01:51:28] It's when you're dealing with complex governance structures,
+[01:51:31] as is in our case,
+[01:51:33] have we got really clearly defined accountability roles.
+[01:51:37] Clear performance indicators is a major priority,
+[01:51:41] not only aligned with strategic priorities, domestic
+[01:51:44] and internationally, but the
+[01:51:46] but performance indicators
+[01:51:47] that actually capture the whole system reflect outcomes
+[01:51:51] and what matters to the public and to industry.
+[01:51:54] Not only what agencies choose to report,
+[01:51:57] there's a real theme around robust
+[01:51:59] and specific targets that actually capture the whole process
+[01:52:03] and the impact on the ground.
+[01:52:06] Also around funding a really clear theme from our members
+[01:52:10] around strengthening reporting
+[01:52:12] around intended versus actual use of funding
+[01:52:16] and a robust accountability framework
+[01:52:18] that ensures we've got escalation procedures
+[01:52:21] and consequences for unmet deliverables.
+[01:52:24] So I mean, we're continuing to try
+[01:52:26] and work constructively with regulators through this review.
+[01:52:30] We've laid out a blueprint
+[01:52:32] and areas where we're trying to bring up solutions
+[01:52:35] to support, because as a small country
+[01:52:37] with finite resource public servants
+[01:52:40] and these skills, these specialist skill sets are crucial.
+[01:52:43] So we really welcome opportunities
+[01:52:46] to make headway with this review.
+[01:52:48] But we have to be honest
+[01:52:49] and say that nine months on from a cabinet endorsed review
+[01:52:53] roadmap, the dial has not moved for our members.
+[01:52:57] And it's been confirmed in a recent pulse check
+[01:52:59] that we've done and obviously directly links
+[01:53:02] to the gaps in your inquiry.
+[01:53:04] So we thank the committee for the work they're doing.
+[01:53:07] We really hope it results in performance reporting
+[01:53:10] and accountability frameworks that aren't just robust,
+[01:53:14] but they're transparent and they actually hold to account.
+[01:53:17] So I'll wrap up their respectful of time.
+[01:53:20] Really appreciate the opportunity to speak on behalf
+[01:53:22] of our members and look really happy
+[01:53:25] to answer any questions that you've got.
+[01:53:27] Oh, thank you Dr. Shekel. And, um, uh, Dr. Wilson,
+[01:53:31] Uh, Dr. Shekel, thank
+[01:53:32] you, uh, sobering feedback for us really, uh,
+[01:53:36] in terms of the state of particularly your sector.
+[01:53:39] And I'm gathering that your members are,
+[01:53:41] are quite comfortable
+[01:53:42] with running their own performance evaluation over their own
+[01:53:45] activities, uh, and outcomes.
+[01:53:48] So I guess my question is really to you whether
+[01:53:52] or not you think there is a better way
+[01:53:53] that we can include stakeholders such
+[01:53:55] as yourselves in developing the performance accounting
+[01:53:59] mechanisms moving forward for, for the sector
+[01:54:02] and what you are confronting right now in
+[01:54:04] terms of public outcome?
+[01:54:06] Yeah. Um, a lot of it starts at governance level.
+[01:54:11] One of the key opportunities that came out
+[01:54:13] of this review was the ability
+[01:54:15] to set up a sector leaders forum.
+[01:54:18] Now that has been set up and we have just had
+[01:54:21] after nine months an independent chair appointed,
+[01:54:23] which is a great opportunity.
+[01:54:26] And my encouragement
+[01:54:27] to the committee would be thinking about how you can use
+[01:54:30] that sector leaders group to maximum impact to inform,
+[01:54:34] I guess it's the four pillars of governance is what is just,
+[01:54:38] you cannot go past in this review an element
+[01:54:40] around strategic priorities, risk, risk, appetite,
+[01:54:45] risk setting, and then culture.
+[01:54:47] So how do you find an appropriate forum where
+[01:54:51] industry governance can inform it would out the real risk
+[01:54:55] of perceived industry capture or otherwise as well?
+[01:54:58] 'cause that's obviously, um, important
+[01:55:01] that industry context is not capture,
+[01:55:04] but it, it does play a vital role.
+[01:55:06] So it's just thinking about where those forums can be used
+[01:55:09] to greater effect, both in testing strategic priorities
+[01:55:13] that are set by agencies, but also the metrics.
+[01:55:16] Because what we found
+[01:55:19] notably in our review was often what may be reported,
+[01:55:23] there could be actually periods of time
+[01:55:25] or an application's being held.
+[01:55:27] And unless that's really expressed in the legislation,
+[01:55:30] often on the ground,
+[01:55:32] the experience can be different in terms of
+[01:55:33] how the processes run.
+[01:55:35] So, uh, think we now at least have a forum in place
+[01:55:38] that think about where you can use us
+[01:55:40] to maximum impact. Yep.
+[01:55:42] Okay. Okay. Thank you Dr. Wilson. And thank you Dr.
+[01:55:45] Shackleton for your, um, for your submission on behalf
+[01:55:47] of Animal and Plant Health NZ and, uh, for appearing
+[01:55:51] before the committee today.
+[01:55:53] Thank you. Appreciate your time and your work. Thank you.
+[01:55:55] Thank you. Right. Uh, Mr. Clark,
+[01:55:57] that's all our hearings today.
+[01:55:58] There's no one else queued up, is there? No, that's awesome.
+[01:56:02] Okay. Members, thank you for your, uh, attendance
+[01:56:05] and your conscientiousness, uh,
+[01:56:07] and we will see you back in parliament next week.
+[01:56:09] Thank you so much. Thank you, chair. Thank
+[01:56:11] You, chair. Thank you, CLA.
+[01:56:12] Thank
+[01:56:13] You. Thanks team.

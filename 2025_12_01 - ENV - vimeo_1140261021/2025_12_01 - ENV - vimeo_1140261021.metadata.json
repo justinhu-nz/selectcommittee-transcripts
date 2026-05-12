@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:24.811052+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1140261021",
+  "title": "2025/12/01 - ENV",
+  "url": "https://vimeo.com/1140261021",
+  "published_at": "20251201",
+  "published_display": "2025-12-01",
+  "duration_seconds": 8042,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8019.89,
+    "segment_count": 2757,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_01 - ENV - vimeo_1140261021\\2025_12_01 - ENV - vimeo_1140261021.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1140261021",
+    "display_id": "1140261021",
+    "title": "2025/12/01 - ENV",
+    "description": "Monday, 1st December 2025 | Environment Committee\n\n2024/25 Annual review of He Pou a Rangi Climate Change Commission\n\nHearing of evidence:\n\nClimate Change Commission\n\nRt Hon Dame Patsy Reddy, Chairperson\nJo Hendy, Chief Executive\nGrant Blackwell, Chief Science Advisor\nLeah Chamberlin-Gunn, Principal Advisor, Strategic Communications",
+    "webpage_url": "https://vimeo.com/1140261021",
+    "original_url": "https://vimeo.com/1140261021",
+    "upload_date": "20251201",
+    "timestamp": 1764563556,
+    "release_timestamp": 1764563567,
+    "duration": 8042,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2089846766-f7a0794c91b5e2d4561d4df3e570a9295c27e82db4794f71b10f96ccbeb871de-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268806205.vtt?expires=1778565748&sig=49d050c6b157d64d6474a3435818630001f919d8&download=auto_generated_captions.vtt"
+  }
+}

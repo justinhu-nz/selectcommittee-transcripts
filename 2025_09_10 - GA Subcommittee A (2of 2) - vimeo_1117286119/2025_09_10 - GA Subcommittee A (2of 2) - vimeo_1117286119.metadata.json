@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:41.354513+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117286119",
+  "title": "2025/09/10 - GA Subcommittee A (2of 2)",
+  "url": "https://vimeo.com/1117286119",
+  "published_at": "20250910",
+  "published_display": "2025-09-10",
+  "duration_seconds": 3891,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3890.28,
+    "segment_count": 1327,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - GA Subcommittee A (2of 2) - vimeo_1117286119\\2025_09_10 - GA Subcommittee A (2of 2) - vimeo_1117286119.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117286119",
+    "display_id": "1117286119",
+    "title": "2025/09/10 - GA Subcommittee A (2of 2)",
+    "description": "Wednesday, 10th September 2025 | Governance and Administration Subcommittee A\n\nOnline Casino Gambling Bill\n\nHearings:\n\nHawkes Bay Dragon Boat Club\nLeonie Wallwork, Chair\nMichelle Danks, Treasurer and Fundraising Chair\nNancy Scott, Club Captain\n\nPapatoetoe Wildcats American Football Club\n\nVictoria Theatre Trust\n\nCanterbury Alpine Ice Skating Club\nLogan Fort, Funding Administrator\n\nLake House Arts\nGrae, Manager\n\n888NZ\nLonnie Bossi, Chief Executive Officer\nItai Pazner\nYaniv Sherman\nSasha Grist",
+    "webpage_url": "https://vimeo.com/1117286119",
+    "original_url": "https://vimeo.com/1117286119",
+    "upload_date": "20250910",
+    "timestamp": 1757467407,
+    "release_timestamp": 1757467416,
+    "duration": 3891,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057221292-22bd9950e662593e04ca26399e9b992c30ecdc0403beaf689026f1bb8793bedf-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252542912.vtt?expires=1778566185&sig=ffe4bd12969995f2904d6a06eeaa6988ecd4f6c4&download=auto_generated_captions.vtt"
+  }
+}

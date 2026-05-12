@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:50.808705+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1109864742",
+  "title": "2025/09/11 - EDSI",
+  "url": "https://vimeo.com/1109864742",
+  "published_at": "20250910",
+  "published_display": "2025-09-10",
+  "duration_seconds": 1855,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1854.68,
+    "segment_count": 635,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_11 - EDSI - vimeo_1109864742\\2025_09_11 - EDSI - vimeo_1109864742.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1109864742",
+    "display_id": "1109864742",
+    "title": "2025/09/11 - EDSI",
+    "description": "Anti-Money Laundering and Countering Financing of Terrorism (Supervisor, Levy, and Other Matters) Amendment Bill\nFinancial Services Federation\n        Lyn McMorran, Executive Director\nBlind Low Vision\n         Andrea Midgen, CEO\nReal Estate Institute of New Zealand\n        Janine Tan, Senior Legal Advisor\n        Lizzy Ryley, Chief Executive\nCygnus Law Limited\n         Simon Papa",
+    "webpage_url": "https://vimeo.com/1109864742",
+    "original_url": "https://vimeo.com/1109864742",
+    "upload_date": "20250910",
+    "timestamp": 1757536612,
+    "release_timestamp": 1757536620,
+    "duration": 1855,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057537639-07bfb82b5604238de11c8af8ca50e9f23e30c1f72bbff147179c7c95f8c45189-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252724983.vtt?expires=1778565955&sig=a6ee1e4c702cf1db8e8c02f8d7762f3750d31ed0&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:50.679709+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1107261929",
+  "title": "2025 08 05 (Finance and Expenditure subcommittee A) Part 2",
+  "url": "https://vimeo.com/1107261929",
+  "published_at": "20250805",
+  "published_display": "2025-08-05",
+  "duration_seconds": 2048,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2047.41,
+    "segment_count": 665,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 08 05 (Finance and Expenditure subcommittee A) Part 2 - vimeo_1107261929\\2025 08 05 (Finance and Expenditure subcommittee A) Part 2 - vimeo_1107261929.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1107261929",
+    "display_id": "1107261929",
+    "title": "2025 08 05 (Finance and Expenditure subcommittee A) Part 2",
+    "description": "Tuesday 5 August 2025\u00a0| Finance and Expenditure Committee\n\nOverseas Investment (National Interest Test and Other Matters) Amendment Bill\nDame Anne Salmond\nDr Geoff Bertram\nColin Robertson\nJodi ELLIS",
+    "webpage_url": "https://vimeo.com/1107261929",
+    "original_url": "https://vimeo.com/1107261929",
+    "upload_date": "20250805",
+    "timestamp": 1754358009,
+    "release_timestamp": 1754358015,
+    "duration": 2048,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2044266935-fa72c9b2978b7999bd99ccc8fe207117d05e371c681f6a531c020a2d310897d9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/246074110.vtt?expires=1778565715&sig=fc67bbdb097767b8d1b9b36ce8c8228100e3454a&download=auto_generated_captions.vtt"
+  }
+}

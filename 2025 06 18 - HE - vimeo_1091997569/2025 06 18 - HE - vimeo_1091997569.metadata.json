@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:48.379997+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1091997569",
+  "title": "2025 06 18 - HE",
+  "url": "https://vimeo.com/1091997569",
+  "published_at": "20250618",
+  "published_display": "2025-06-18",
+  "duration_seconds": 16964,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 16963.58,
+    "segment_count": 4195,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 18 - HE - vimeo_1091997569\\2025 06 18 - HE - vimeo_1091997569.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1091997569",
+    "display_id": "1091997569",
+    "title": "2025 06 18 - HE",
+    "description": "18 June 2025 | Health Committee\n\n2025/26 Estimates for Vote Health\nMinister of Health\nHon Simeon Brown\n\nMinister for Mental Health\n\tHon Matt Doocey\nHealth New Zealand\n\tDale Bramley, Interim Chief Executive\n\nAssociate Minister of Health (Pharmac)\n\tHon David Seymour\n\nMinister for Seniors and Associate Minister of Health\n\tHon Casey Costello\n\n2025/26 Estimates for the Appropriation within Vote Business, Science and Innovation related to the Health Research Fund\nMinister of Science, Innovation and Technology\n\tHon Dr Shane Reti",
+    "webpage_url": "https://vimeo.com/1091997569",
+    "original_url": "https://vimeo.com/1091997569",
+    "upload_date": "20250618",
+    "timestamp": 1750211498,
+    "release_timestamp": 1750211511,
+    "duration": 16964,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2027796606-5f9c469cbb0721a486daca3d82ba3c1d2ed044fc833114104021b445eda51e4b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237544685.vtt?expires=1778566072&sig=a2c0b578d59e30c2a6a89fd3b9b6277f76bc47ea&download=auto_generated_captions.vtt"
+  }
+}

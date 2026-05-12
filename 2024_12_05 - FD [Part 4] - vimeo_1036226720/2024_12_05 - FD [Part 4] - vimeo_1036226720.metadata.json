@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:26.849157+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1036226720",
+  "title": "2024/12/05 - FD [Part 4]",
+  "url": "https://vimeo.com/1036226720",
+  "published_at": "20241205",
+  "published_display": "2024-12-05",
+  "duration_seconds": 1029,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1023.1,
+    "segment_count": 379,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_05 - FD [Part 4] - vimeo_1036226720\\2024_12_05 - FD [Part 4] - vimeo_1036226720.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1036226720",
+    "display_id": "1036226720",
+    "title": "2024/12/05 - FD [Part 4]",
+    "description": "Thursday 5 December 2024 | Foreign Affairs, Defence and Trade Committee\n\nItem of business: \n\n2023/24 Annual review of the Border Executive Board\n\nHearing of evidence: \n\nBorder Executive Board\n\nChristine Stevenson, Comptroller and Chief Executive\nCarolyn Tremain, Secretary for MBIE\nRay Smith, Director-General of Primary Industries\nAudrey Sonerson, Secretary for Transport\nDi Sarfati, Director General of Health\nVangelis Vitalis, Deputy Secretary, Trade and Economic (MFAT)",
+    "webpage_url": "https://vimeo.com/1036226720",
+    "original_url": "https://vimeo.com/1036226720",
+    "upload_date": "20241205",
+    "timestamp": 1733373153,
+    "release_timestamp": 1733373180,
+    "duration": 1029,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1958222193-73dcf111b937eb0588edc8edbc62f28238c569eee55bbf3bd7a4d95d8a3d63f4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200623547.vtt?expires=1778566291&sig=3afe8ba046216d6ec54abcfd8bd7e9e944414144&download=auto_generated_captions.vtt"
+  }
+}

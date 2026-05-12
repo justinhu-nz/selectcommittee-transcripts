@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:41.624686+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1115334074",
+  "title": "2025 09 03 - HE Subcommittee B (Part 3)",
+  "url": "https://vimeo.com/1115334074",
+  "published_at": "20250903",
+  "published_display": "2025-09-03",
+  "duration_seconds": 1218,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1199.16,
+    "segment_count": 396,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 03 - HE Subcommittee B (Part 3) - vimeo_1115334074\\2025 09 03 - HE Subcommittee B (Part 3) - vimeo_1115334074.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1115334074",
+    "display_id": "1115334074",
+    "title": "2025 09 03 - HE Subcommittee B (Part 3)",
+    "description": "3 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nTe Tiratu Iwi Maori Partnership Board\n\tTipa Mahuta, Co-Chair\nErika Locke\nMultiple Sclerosis Society of New Zealand\n\tAmanda Rose, MSNZ National Manager\n\tNeil Woodhams, MSNZ President\nTe Hau Awhiowhio o Otangarei\nBridget Allan",
+    "webpage_url": "https://vimeo.com/1115334074",
+    "original_url": "https://vimeo.com/1115334074",
+    "upload_date": "20250903",
+    "timestamp": 1756862777,
+    "release_timestamp": 1756862786,
+    "duration": 1218,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2055513779-997cbec9f9a7de74c3879ebcfb2748ba831880587fed63a9c6152453d5dfeeb4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/251282509.vtt?expires=1778566006&sig=b56417c60dc7e9f598eb69a219b18606a4687e11&download=auto_generated_captions.vtt"
+  }
+}

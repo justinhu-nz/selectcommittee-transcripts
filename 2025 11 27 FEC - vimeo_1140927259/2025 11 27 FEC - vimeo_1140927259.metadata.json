@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:00:41.735129+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1140927259",
+  "title": "2025 11 27 FEC",
+  "url": "https://vimeo.com/1140927259",
+  "published_at": "20251126",
+  "published_display": "2025-11-26",
+  "duration_seconds": 7357,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7249.69,
+    "segment_count": 1911,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 27 FEC - vimeo_1140927259\\2025 11 27 FEC - vimeo_1140927259.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1140927259",
+    "display_id": "1140927259",
+    "title": "2025 11 27 FEC",
+    "description": "Thursday 27 November 2025\u00a0| Finance and Expenditure Committee\nTaxation (Annual Rates for 2025\u201326, Compliance Simplification, and Remedial Measures) Bill\nNew Zealand Law Society Te Kahui Ture o Aotearoa\nLouisa Joblin, Member, Human Rights and Privacy Law Committee\nNeil Russ, Member, Tax Law Committee\nFinancial Services Council of New Zealand Incorporated\nKirk Hope, CEO FSC\nMike Woodbury, Consultant, Chapman Tripp\nNew Zealand Institute of Economic Research\nPeter Wilson, Associate, New Zealand Institute of Economic Research\nJulie Fry, Associate, New Zealand Institute of Economic Research\nPrivacy Foundation NZ\nKatrine Evans, Chair\nKathleen Ryan\nYearly Meeting of Aotearoa NZ (Quakers)\nMarilyn Head\nTaxpayers' Union\nJordan Williams, Executive Director\nRay Deacon, Economist\nTaxi Limited\nJosh Taylor, Co-Founder\nSamuel Blackman\nCharlotte Evans\nWill Lau",
+    "webpage_url": "https://vimeo.com/1140927259",
+    "original_url": "https://vimeo.com/1140927259",
+    "upload_date": "20251126",
+    "timestamp": 1764198815,
+    "release_timestamp": 1764198823,
+    "duration": 7357,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2088171924-8134c838d234e042086f728641be5e02be0dd9f0f95ea55ae7f70904e8dcc7df-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267975301.vtt?expires=1778565645&sig=e09e1c7dc78ae8f695ec965a599f7ec8b95eb647&download=auto_generated_captions.vtt"
+  }
+}

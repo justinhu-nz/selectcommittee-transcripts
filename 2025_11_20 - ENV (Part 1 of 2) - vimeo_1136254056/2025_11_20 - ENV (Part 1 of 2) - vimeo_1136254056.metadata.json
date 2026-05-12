@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:59.539529+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1136254056",
+  "title": "2025/11/20 - ENV (Part 1 of 2)",
+  "url": "https://vimeo.com/1136254056",
+  "published_at": "20251119",
+  "published_display": "2025-11-19",
+  "duration_seconds": 3691,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3683.28,
+    "segment_count": 884,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_20 - ENV (Part 1 of 2) - vimeo_1136254056\\2025_11_20 - ENV (Part 1 of 2) - vimeo_1136254056.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1136254056",
+    "display_id": "1136254056",
+    "title": "2025/11/20 - ENV (Part 1 of 2)",
+    "description": "Thursday, 20th November 2025 | Environment Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nRoyal Forest and Bird Society of New Zealand\nRichard Capie, Chief Advisor - Policy and Advocacy\nPeter Anderson, Legal Advisor\n\nNew Zealand Law Society Te Kahui Ture o Aotearoa\nDaniel Jackson, Member\nSarah Shaw, Member",
+    "webpage_url": "https://vimeo.com/1136254056",
+    "original_url": "https://vimeo.com/1136254056",
+    "upload_date": "20251119",
+    "timestamp": 1763582351,
+    "release_timestamp": 1763582357,
+    "duration": 3691,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085213854-41f2ec421af0c53dfcb5998c4e2cba7cb8f67c9a5e69f621ec4be1c45c8847e0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266359233.vtt?expires=1778565784&sig=8795028b41b1b723a3d4000f37138f86a8810959&download=auto_generated_captions.vtt"
+  }
+}

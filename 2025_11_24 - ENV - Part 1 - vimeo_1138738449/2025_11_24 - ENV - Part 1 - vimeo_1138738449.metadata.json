@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:48.805278+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138738449",
+  "title": "2025/11/24 - ENV - Part 1",
+  "url": "https://vimeo.com/1138738449",
+  "published_at": "20251123",
+  "published_display": "2025-11-23",
+  "duration_seconds": 14284,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 14278.67,
+    "segment_count": 4808,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_24 - ENV - Part 1 - vimeo_1138738449\\2025_11_24 - ENV - Part 1 - vimeo_1138738449.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138738449",
+    "display_id": "1138738449",
+    "title": "2025/11/24 - ENV - Part 1",
+    "description": "Monday 24 November 2025 | Environmental Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nWellington Tenths Trust and Palmerston North M\u0101ori Reserve Trust\nLiz Mellish\n\nSantana Minerals\nDamian Spring\n\nThe Law Association of New Zealand\nPatrick Senior\nBridget Bailey\n\nChoose Clean Water\nTom Kay\nMarine Prickett\n\nFranks Ogilvie\nBrigitte Morten\nMax Parkinga-Barber\n\nNew Zealand Initiative\nNick Clark\nDr Eric Crampton\n\nCoat Action Network Aotearoa\nTim Jones\n\nTe Runanga o Ngati Whakaue ki Maketu\nRoana Bennett\n\nQueenstown Lakes District Council\nDavid Wallace\n\nSave the Basin Campaign Incorporated\nTim Jones\n\nTinopai Resource Management Unit\nMina Henare-Toka\n\nTaharoa Ironsand Limited\nStephanie de Groot\n\nTaranaki Energy Watch\nSarah Roberts\n\nCoal Action Murihiku\nJenny Campbell\n\nClimate Justice Taranaki\nDr Lyndon DeVantier\nCatherine Cheung\n\nTe Hunga R\u014dia M\u0101ori o Aotearoa\nKuru Ketu\n\nAged Care Association New Zealand\nHon Tracey Martin\n\nEnvironment Hubs Aotearoa\nStirling Ruwhiu\n\nHampden Community Energy Society Inc\nDugald MacTavish\n\nKit Withers\n\nWaikato-Tainui\nKaruna Deobhakta,\nRebekah Te Rito\n\nAndrew Riddell",
+    "webpage_url": "https://vimeo.com/1138738449",
+    "original_url": "https://vimeo.com/1138738449",
+    "upload_date": "20251123",
+    "timestamp": 1763940837,
+    "release_timestamp": 1763940854,
+    "duration": 14284,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087084867-53f9a0f861140405cecc096928df166f54e4d2eca1833a094aff1b26120214b2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267234074.vtt?expires=1778565772&sig=b59a2dd78531f882389435d4c24f6ae7247da737&download=auto_generated_captions.vtt"
+  }
+}

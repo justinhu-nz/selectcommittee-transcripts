@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:00.239172+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117294355",
+  "title": "2025/10/08 - GA Subcommittee B",
+  "url": "https://vimeo.com/1117294355",
+  "published_at": "20251008",
+  "published_display": "2025-10-08",
+  "duration_seconds": 7852,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7841.73,
+    "segment_count": 2025,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_08 - GA Subcommittee B - vimeo_1117294355\\2025_10_08 - GA Subcommittee B - vimeo_1117294355.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117294355",
+    "display_id": "1117294355",
+    "title": "2025/10/08 - GA Subcommittee B",
+    "description": "Wednesday, 8th October 2025 | Governance and Administration Subcommittee B\n\nLocal Government (System Improvements) Amendment Bill\n\nHearing of evidence:\n\nNew Plymouth District Council\u00a0\nNeil Holdom - Mayor\u00a0\n\nTararua District Council\u00a0\nPeter Wimsett - Chief Advisor\u00a0\n\nCitizens Advice Bureau\u00a0\nKerry Dalton - CEO\u00a0\n\nTourism Industry Aotearoa\u00a0\nBruce Bassett - Chief Advisor\u00a0\n\nHamilton City Council\u00a0\nPaula Southgate, Mayor\u00a0\n\nNelson Tasman Climate Forum\u00a0\nDavid Bartle - Member\u00a0\n\nNew Zealand Taxpayers' Union\u00a0\nJames Ross - Head of Policy and Legislative Affairs\u00a0\nRay Deacon - Economist\u00a0\nJordan Williams - Executive Director\u00a0\n\nNZ Airports Association\u00a0\nBillie Moore - Chief Executive\n\nPhil Stevens\u00a0\n\nTheo van de Klundert\u00a0\n\nAshburton District Council\nLiz McMillian - Deputy Mayor\nHamish Riach - Chief Executive\u00a0",
+    "webpage_url": "https://vimeo.com/1117294355",
+    "original_url": "https://vimeo.com/1117294355",
+    "upload_date": "20251008",
+    "timestamp": 1759884186,
+    "release_timestamp": 1759884196,
+    "duration": 7852,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067846395-598155a23ba0173579a284b5e53ec4762a9c57c72176fcb2ccfef99928f5aff7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257878150.vtt?expires=1778566144&sig=1c8ccd3d738f7f8588e8adb76b50c8eede48a42a&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:08:44.462550+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125367116",
+  "title": "2025/10/15 - GA Subcommittee A (1 of 2)",
+  "url": "https://vimeo.com/1125367116",
+  "published_at": "20251014",
+  "published_display": "2025-10-14",
+  "duration_seconds": 3317,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3316.41,
+    "segment_count": 1190,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_15 - GA Subcommittee A (1 of 2) - vimeo_1125367116\\2025_10_15 - GA Subcommittee A (1 of 2) - vimeo_1125367116.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125367116",
+    "display_id": "1125367116",
+    "title": "2025/10/15 - GA Subcommittee A (1 of 2)",
+    "description": "Wednesday, 15th October 2025 | Governance and Administration Subcommittee A\n\nPublic Service Amendment Bill\n\nHearing of evidence:\n\nRights Aotearoa\nPaul Thistoll, CEO\n\nTrust Democracy\nSimon Wright, Chair\n\nProfessor Jonathan Boston\n\nInterested Citizens Group - Hamilton\nMargaret Evans, Former Hamilton Mayor\nRaymond Mudford, Member\nColin Jones, Member\nRusselle Knaap, Member\n\nTe Uru Tangata Centre for Workplace Inclusion\nMaretha Smit, Chief Executive\n\nAnimal and Plant Health Association New Zealand\nLiz Shackleton, Chief Executive\n\nJacob Sorenson",
+    "webpage_url": "https://vimeo.com/1125367116",
+    "original_url": "https://vimeo.com/1125367116",
+    "upload_date": "20251014",
+    "timestamp": 1760472048,
+    "release_timestamp": 1760472058,
+    "duration": 3317,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2070095091-43075e2875065e74ae05ccef0380c46f4d48ea64177606ea75a78dd342812be9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/259125573.vtt?expires=1778566129&sig=0f520d324313e921372c88a38413fbafc9b25099&download=auto_generated_captions.vtt"
+  }
+}

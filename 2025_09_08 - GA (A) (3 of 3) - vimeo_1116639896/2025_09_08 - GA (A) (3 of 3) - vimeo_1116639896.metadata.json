@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:08.455563+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1116639896",
+  "title": "2025/09/08 - GA (A) (3 of 3)",
+  "url": "https://vimeo.com/1116639896",
+  "published_at": "20250908",
+  "published_display": "2025-09-08",
+  "duration_seconds": 6564,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6563.19,
+    "segment_count": 1929,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_08 - GA (A) (3 of 3) - vimeo_1116639896\\2025_09_08 - GA (A) (3 of 3) - vimeo_1116639896.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1116639896",
+    "display_id": "1116639896",
+    "title": "2025/09/08 - GA (A) (3 of 3)",
+    "description": "8 September 2025 | Governance and Administration Subcommittee A (2.55pm - 4.55pm)\nOnline Casino Gambling Bill\n  Alexandra Bowling Club\n   Special Olympics Hutt Valley Trust\n   \u00a0Andrzej Kowalczyk - Secretary\n   Port Nicholson Poneke Cycling Club\n   \u00a0Nick Warren \u2013 President\n   Wanderers Community Sports Club\n   \u00a0James van der Colk - Manager\n   Wairarapa Multisports Club Inc\n   \u00a0Catherine Rossiter-Stead \u2013 Secretary\n   New Plymouth Riding for the Disabled\n   \u00a0Kevin Nielsen - President\n   The Salvation Army New Zealand\n   \u00a0Lisa Campbell - National Operations Manager\n   \u00a0Paul Barber - Principal Social Policy Analyst\n   Entain New Zealand Limited\n   \u00a0Sam Moncur - Managing Director Entain NZ\n   \u00a0Andrew Bouris - CEO Entain ANZ\n   Squash City Invercargill\n   \u00a0Karyn Flett - Secretary\n   Zoo and Aquarium Association Australasia\n   \u00a0Nicola Craddock - Executive Director\n   Fitzroy School\n   \u00a0Suzie Archer \u2013 Specialist Teacher\n   Mana Marlins Marsters Swim Club Inc\n   \u00a0Michelle Warshawsky \u2013 Secretary",
+    "webpage_url": "https://vimeo.com/1116639896",
+    "original_url": "https://vimeo.com/1116639896",
+    "upload_date": "20250908",
+    "timestamp": 1757306499,
+    "release_timestamp": 1757306507,
+    "duration": 6564,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2056763063-6ef1db355b954d9a34d360c704e38ccf68bfb964dab2cdb7ff63a334f759685f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252125481.vtt?expires=1778566213&sig=c69ff970881b46876bd2c2f6af8b1eb9736dc389&download=auto_generated_captions.vtt"
+  }
+}

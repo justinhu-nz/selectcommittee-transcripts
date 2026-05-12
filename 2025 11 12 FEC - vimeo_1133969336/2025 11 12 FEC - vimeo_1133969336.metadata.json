@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:04.641005+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133969336",
+  "title": "2025 11 12 FEC",
+  "url": "https://vimeo.com/1133969336",
+  "published_at": "20251112",
+  "published_display": "2025-11-12",
+  "duration_seconds": 3038,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3036.99,
+    "segment_count": 1068,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 12 FEC - vimeo_1133969336\\2025 11 12 FEC - vimeo_1133969336.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133969336",
+    "display_id": "1133969336",
+    "title": "2025 11 12 FEC",
+    "description": "Wednesday 12 November 2025\u00a0| Finance and Expenditure Committee\nTaxation (Annual Rates for 2025\u201326, Compliance Simplification, and Remedial Measures) Bill\nOceana Gold (New Zealand) Limited\nPaul Whelan, Commercial Manager, Oceana Gold\nRachael McKinney, Superintendent \u2013 Financial Accounting, Oceana Gold\nPhil Stevenson, Partner, Deloitte\nBaucher Consulting\nTerry Baucher, Director\nAtmabhav Charitable Trust\u00a0\nAmal Karl, Founding Trustee, Atmabhav Charitable Trust and Founder, CEO of FxMed Group\nVenkat Raman, Founding Trustee, Atmabhav Charitable Trust and Editor, General Manager of IndianNewsLink\nPwC\nSandy Lau, Partner\nChris Place, Partner\nSt Peter's on Willis Social Justice Group\nGail Duncan",
+    "webpage_url": "https://vimeo.com/1133969336",
+    "original_url": "https://vimeo.com/1133969336",
+    "upload_date": "20251112",
+    "timestamp": 1762909071,
+    "release_timestamp": 1762909086,
+    "duration": 3038,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081927566-d9f4af230eb8d6815c6c2dd47025c4689d8573969c8ead019686a31f3f494eb7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264577131.vtt?expires=1778565669&sig=15f106aa80710252da7ba7015269a8b6da64e03d&download=auto_generated_captions.vtt"
+  }
+}

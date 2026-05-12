@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:03.884721+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143230222",
+  "title": "2015/12/04 - ENV (Part 2)",
+  "url": "https://vimeo.com/1143230222",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 7525,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7504.74,
+    "segment_count": 2559,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2015_12_04 - ENV (Part 2) - vimeo_1143230222\\2015_12_04 - ENV (Part 2) - vimeo_1143230222.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143230222",
+    "display_id": "1143230222",
+    "title": "2015/12/04 - ENV (Part 2)",
+    "description": "Thursday 4 December 2025 | Environment Committee\n\n2024/25 Annual review of the Ministry for the Environment (Continued)\n\nHearing of evidence:\n\nMinistry for the Environment\n\nJames Palmer, Secretary for the Environment and Chief Executive\nAnne Haira, Deputy Secretary, Partnerships, Investment and Enablement\nGina Rangi, Deputy Secretary, T\u016bmatak\u014dkiri\nLaura Dixon, Deputy Secretary, Business Transformation & Services\nNadeine Dommisse, Deputy Secretary, Environmental Management and Adaptation\nNatasha Lewis, Deputy Secretary, Strategy Stewardship and Performance\nSam Buckle, Deputy Secretary, Climate Change Mitigation and Resource Efficiency\nArun Patel, General Manager, Finance and Procurement\nSimon King, Chief Advisor, Office of the Chief Executive",
+    "webpage_url": "https://vimeo.com/1143230222",
+    "original_url": "https://vimeo.com/1143230222",
+    "upload_date": "20251203",
+    "timestamp": 1764805308,
+    "release_timestamp": 1764805322,
+    "duration": 7525,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091389682-4af781c1c2795e5cd5de1015396936b50a9b960daa9163f06f50b1ce5415abdd-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269715968.vtt?expires=1778565728&sig=99add33756be78e26d5b45116d4461836f9b7c91&download=auto_generated_captions.vtt"
+  }
+}

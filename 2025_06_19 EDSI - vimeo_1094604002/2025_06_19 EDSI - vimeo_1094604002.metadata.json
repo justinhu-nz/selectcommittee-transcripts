@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:27.582184+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094604002",
+  "title": "2025/06/19 EDSI",
+  "url": "https://vimeo.com/1094604002",
+  "published_at": "20250619",
+  "published_display": "2025-06-19",
+  "duration_seconds": 3662,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3654.49,
+    "segment_count": 1393,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_06_19 EDSI - vimeo_1094604002\\2025_06_19 EDSI - vimeo_1094604002.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094604002",
+    "display_id": "1094604002",
+    "title": "2025/06/19 EDSI",
+    "description": "Thursday, 19 June 2025 | Economic Development, Science and Innovation Committee\n\n2025/26 Estimates for Vote Business, Science and Innovation (excluding appropriations related to the Health Research Fund and New Zealand Trade and Enterprise)\n\nHearing of evidence:\n\nMinister of Commerce and Consumer Affairs\n\tHon Scott Simpson\n\nMinistry of Business, Innovation, and Employment\n\tPaul Stocks, Deputy Secretary, Building, Resources and Markets\n\tAndrew Hume, General Manager Commerce, Consumer and Business\n\tJenna Reid, Policy Director\n\tAlistair Dixon, Policy Director\n\tSanjai Raj, General Manager Market Integrity\n\tIngrid Bayliss, General Manager Building and Tenancy\n\tStephanie Greathead, Head of Accommodation and Insurance Response",
+    "webpage_url": "https://vimeo.com/1094604002",
+    "original_url": "https://vimeo.com/1094604002",
+    "upload_date": "20250619",
+    "timestamp": 1750307756,
+    "release_timestamp": 1750307763,
+    "duration": 3662,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2029670162-fd8d916c9e19c375f1fe8f45fc4932d648c070c3c78edb18f4a07045c5151245-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237803353.vtt?expires=1778565992&sig=b5ed7c9649b4b7400951571b509a31de79961280&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:43.240342+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1112754524",
+  "title": "2025/08/25 - EW Subcommittee B [Part 2]",
+  "url": "https://vimeo.com/1112754524",
+  "published_at": "20250825",
+  "published_display": "2025-08-25",
+  "duration_seconds": 3713,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3712.62,
+    "segment_count": 1279,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_08_25 - EW Subcommittee B [Part 2] - vimeo_1112754524\\2025_08_25 - EW Subcommittee B [Part 2] - vimeo_1112754524.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1112754524",
+    "display_id": "1112754524",
+    "title": "2025/08/25 - EW Subcommittee B [Part 2]",
+    "description": "Monday, 25 August 2025 | Education and Workforce subcommittee B\n\nEmployment Relations Amendment Bill\n\nSubmitters:\n\nCommunity Law Centres Aotearoa\n- Rupert O\u2019Brien, Law Reform Coordinator\n- Lars Hansen\n- Toby Cooper\n\nRuth Chapman\n\nMary Bowden\n\nUber\n- Pia Brunner, Uber's Director Public Policy, Australia and New Zealand\n- Cameron Loughlin, Uber's Director Legal, Australia and New Zealand\n\nRCSA\n- Brooke Lord, Head of Advocacy\n\nFairPlay Legal\n- Megan Gundesen, Director\n\nFreightways Group\n- Mark Troughear, Chief Executive\n- Ami Van Gils, Head of People and Culture",
+    "webpage_url": "https://vimeo.com/1112754524",
+    "original_url": "https://vimeo.com/1112754524",
+    "upload_date": "20250825",
+    "timestamp": 1756085228,
+    "release_timestamp": 1756085239,
+    "duration": 3713,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2064590767-855f5a504beb4b6b81847d27ad1d8cfc1ce65db511d4ae2b41ffb57a625a1d16-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/249622235.vtt?expires=1778565886&sig=b2fd5f8518829ef444aa5f5ca22e0092b94722c0&download=auto_generated_captions.vtt"
+  }
+}

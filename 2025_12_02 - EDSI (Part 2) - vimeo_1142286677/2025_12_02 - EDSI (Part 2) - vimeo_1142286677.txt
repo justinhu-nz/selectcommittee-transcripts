@@ -1,0 +1,1198 @@
+Title: 2025/12/02 - EDSI (Part 2)
+URL: https://vimeo.com/1142286677
+Published: 2025-12-02
+Duration: 00:57:40
+
+[00:00:23] Uh,
+[00:00:30] so everybody's here.
+[00:00:32] Yeah, we all are here,
+[00:00:33] so we can get started when you're ready.
+[00:00:36] We have one hour with you.
+[00:00:37] So if you would like to start by some,
+[00:00:39] a brief opening remarks.
+[00:00:41] Yes. And then there will be Christians from members.
+[00:00:43] Thank you. Perfect. Thank you. Praise.
+[00:00:47] Thank you. Uh, Dr. Palmier. Uh, good afternoon.
+[00:00:50] I'm Craig Stobo, chair of the FMA. Uh, thank you very much.
+[00:00:53] Opportunity to speak to you
+[00:00:57] and answer any queries you may have.
+[00:01:00] Uh, it's been a year of progressive, incredibly proud
+[00:01:03] of our work on locking innovation
+[00:01:05] through the regulatory sandbox
+[00:01:07] and helping businesses to operate in new ways.
+[00:01:10] At the same time, we've worked with the NZX
+[00:01:12] and MB to make stock exchange listings easier,
+[00:01:15] while addressing the global shifts towards private markets
+[00:01:19] with their challenges of valuation and liquidity.
+[00:01:23] These efforts are all about developing
+[00:01:25] and building confidence in our financial markets,
+[00:01:28] ensuring they remain attractive for investors
+[00:01:30] and businesses alike.
+[00:01:32] It's a collective achievement that reflects the strength
+[00:01:34] of our partnerships and the commitment of everyone involved.
+[00:01:38] With that in mind, I would like to hand over
+[00:01:39] to our chief executive, Samantha Bures. Samantha.
+[00:01:43] Hi, Tina. Coto. Kato. It's a pleasure to be here.
+[00:01:46] I'm joined by Leah Mason, who's our General Counsel
+[00:01:49] and Director of Evaluation and oversight.
+[00:01:52] Uh, just a few brief remarks.
+[00:01:54] The year, um, has seen us to deliver on our mandate
+[00:01:57] to promote and facilitate fair, efficient,
+[00:01:59] and transparent financial markets.
+[00:02:01] In March, we successfully implemented the conduct
+[00:02:04] of financial institutions regime,
+[00:02:07] which gives us formal oversight over banks, insurers,
+[00:02:10] and non-bank deposit takers.
+[00:02:12] And this is for the first time, uh, in, in New Zealand
+[00:02:15] that they have been regulated,
+[00:02:17] that they're now being regulated for their conduct.
+[00:02:20] Uh, we launched our first financial conduct report in June,
+[00:02:23] uh, to ensure the industry understood our priorities, uh,
+[00:02:28] with focusing on making us predictable as a regulator,
+[00:02:32] we took enforcement action where consumer harm was evident,
+[00:02:35] pursuing a wide range of cases.
+[00:02:37] We've taken lead on issues around mortgage fraud
+[00:02:41] and being part of a broader coalition on fighting scams.
+[00:02:45] KiwiSaver turned 18 this year
+[00:02:47] and remains a cornerstone of Kiwi's.
+[00:02:50] Uh, long-term wealth funds under management have now reached
+[00:02:53] 123 billion.
+[00:02:56] We very much welcome policy discussion on the
+[00:02:59] future of Kiwi Saver.
+[00:03:01] Uh, we note, uh,
+[00:03:02] and are concerned that just under a third of members
+[00:03:05] of working age are not contributing at the moment.
+[00:03:08] Uh, we've begun policy work on custody,
+[00:03:12] and as Kiwi Saver funds, uh, rise substantially,
+[00:03:15] it's important to consider the role of the businesses
+[00:03:19] who actually hold this money,
+[00:03:21] and they're not directly regulated for that purpose.
+[00:03:25] Internally, we continue
+[00:03:27] to focus on the culture and on our people.
+[00:03:30] This year in review was the first time total FMA staff
+[00:03:34] numbers fell since the FMA was founded in 2011.
+[00:03:38] And I acknowledge the work of our staff
+[00:03:41] during this difficult period.
+[00:03:43] I'm very proud to report that our gender pay gap, uh,
+[00:03:47] which also includes my pay now,
+[00:03:49] sits at half a percent down from almost 10%,
+[00:03:53] uh, two years ago.
+[00:03:55] So, our ease of doing business survey is a very useful tool
+[00:03:58] for understanding stakeholders views many responses were
+[00:04:02] positive, but also offer some valuable insight on
+[00:04:05] how we can do better looking ahead.
+[00:04:08] There's significant policy work on the horizon.
+[00:04:11] The need for a clear regulatory framework for digital assets
+[00:04:15] and ongoing work to ensure the future
+[00:04:17] of New Zealand's capital markets requires ongoing
+[00:04:20] support and attention.
+[00:04:22] So, that's it. Thank you very much for your time
+[00:04:24] and very, very much welcome your questions.
+[00:04:27] Thank you. We'll start with
+[00:04:28] Ena Williams. Dear
+[00:04:29] reporter. And hello to you, Mr. Chair.
+[00:04:32] All the way in, somewhere sunny.
+[00:04:34] Um, I, um, look blown away by, um, just
+[00:04:39] how busy the FMA has been this year.
+[00:04:42] Um, you've canceled licenses, filed criminal charges,
+[00:04:44] taken some action against major institutions.
+[00:04:47] Um, should we be worried that, uh,
+[00:04:51] firms are treating misconduct as low risk in New Zealand?
+[00:04:56] Yeah. Look, are they treating misconduct as low risk?
+[00:05:01] It is very much the focus of our enforcement activity is
+[00:05:04] to show that whilst we are an engagement led regulator,
+[00:05:07] there are consequences
+[00:05:09] and significant consequences for misconduct.
+[00:05:12] We focus our enforcement action on the most egregious
+[00:05:15] misconduct cases.
+[00:05:16] We have achieved some significant wins through the courts,
+[00:05:20] uh, this, this year.
+[00:05:22] We have seen our enforcement work, uh, in increase
+[00:05:26] over the past year,
+[00:05:27] and that has been a function of the economic times
+[00:05:30] that we are in, as well as the expansion of our function.
+[00:05:33] Liam, I dunno if you wanted to add anything from
+[00:05:37] Yeah. Well, two, two
+[00:05:38] things.
+[00:05:38] I think, um, the, I think the vast majority of firms, uh,
+[00:05:42] will try to do the right thing.
+[00:05:44] Um, but incentives is what it's all about.
+[00:05:48] And that's, that's where our supervisory engagement
+[00:05:50] with the firms is, is that is
+[00:05:52] where we change behavior most of the time.
+[00:05:55] Um, what we, what we are seeing as Samantha said, is
+[00:06:01] an unfortunate, uh, number of cases,
+[00:06:05] which are simple fraud and scams.
+[00:06:07] Um, that's by no means anything other than the, you know,
+[00:06:11] a very small minority of the industry,
+[00:06:12] but it's a minority that has a big impact.
+[00:06:16] And so it is important that we keep up the prevention work,
+[00:06:19] keep up the education work, keep up the enforcement work.
+[00:06:21] Yeah. And we,
+[00:06:22] and we're still seeing in some of our fair dealing work,
+[00:06:25] we're still seeing ongoing lack of investment in systems
+[00:06:29] to secure, you know, what is being offered, um, in, in terms
+[00:06:33] of offerings to customers is, is unable to be delivered
+[00:06:37] because of the systems.
+[00:06:39] And that that's a, you know, that that's an ongoing issue.
+[00:06:42] That will become an increasing focus for us.
+[00:06:44] We've got more opportunity now.
+[00:06:45] We are directly regulating our banks and insurance companies
+[00:06:49] and non-bank deposit takers for conduct.
+[00:06:51] We have a broader range of tools that we can use.
+[00:06:54] We have thus far, and will until March this year,
+[00:06:57] only been able to deal
+[00:06:59] with issues emanating from those sectors as a matter
+[00:07:03] of enforcement, as a matter of breach
+[00:07:05] of fair dealing requirements,
+[00:07:06] we now have the broader proactive supervisory toolkit
+[00:07:10] to be able to tackle issues with, with that group of people.
+[00:07:14] I could add something else. Uh, Irina, um,
+[00:07:17] thank you for your question.
+[00:07:19] We are changing our, uh, way we deliver our regulation,
+[00:07:22] which is moving to outcomes focus where we are
+[00:07:26] getting in the boardrooms
+[00:07:28] of businesses addressing governors, stewards of companies,
+[00:07:32] not just at a, uh, legal
+[00:07:34] or compliance level to, uh, ask questions
+[00:07:38] of board members around how they think about risks
+[00:07:42] and harms, and how those harms can be suppressed
+[00:07:46] before they become a problem for all of us.
+[00:07:48] So it's trying to get ahead of the curve by, by engaging
+[00:07:52] widely with the top echelons of businesses
+[00:07:56] in their board meetings
+[00:07:58] and their senior leadership team meetings, to,
+[00:08:00] to make them aware of what we are interested in,
+[00:08:02] which is why the financial conduct report is so important.
+[00:08:08] Um, thank you. That's helpful.
+[00:08:10] Just thinking through then those cost implications
+[00:08:13] for consumers, um, you know,
+[00:08:15] thinking about misleading conduct and banking, insurance
+[00:08:18] and financial advice, which, um, from the number
+[00:08:23] of, um, enforcement actions
+[00:08:25] that you've taken in the last year, it seems to me
+[00:08:27] that these are still adding on, um, a huge number
+[00:08:30] of costs to consumers.
+[00:08:32] Hope Group comes to mind, where consumers were mislead
+[00:08:34] to paying double premiums.
+[00:08:36] Um, how are you dealing with those, uh, number of situations
+[00:08:41] that might be sort of between
+[00:08:43] that proactive supervisory role that you have
+[00:08:46] and enforcement,
+[00:08:47] but are still, um, in the middle here where, um,
+[00:08:50] things are going wrong for consumers
+[00:08:52] and they're paying more for services
+[00:08:53] that should be cheaper? Yeah.
+[00:08:55] Yeah. Thank, thank you for that.
+[00:08:57] Um, so something, as, as Smith said, a lot
+[00:09:01] of the cases we see are due
+[00:09:03] to underinvestment, uh, in systems.
+[00:09:06] Many of them are long running.
+[00:09:08] That's why, uh, in in our financial conduct report
+[00:09:11] for this past year, we, um,
+[00:09:15] identified a priority for banks
+[00:09:17] and insurers of undertaking product reviews that is going
+[00:09:21] through the back book to see what has been mis-sold,
+[00:09:25] what hasn't been delivered.
+[00:09:27] Um, we get a lot of self reports
+[00:09:31] and we encourage firms to self-report.
+[00:09:33] Something that, uh, you, you don't see is
+[00:09:36] that the vast majority
+[00:09:38] of these are resolved without enforcement action,
+[00:09:41] but with remediation to customers.
+[00:09:43] Mm-hmm. And, and that's what we need.
+[00:09:44] And the enforcement cases that you've seen go through
+[00:09:47] where there are penalties applied,
+[00:09:48] there's also been remediation to the customers.
+[00:09:51] And we, we want to get to the point
+[00:09:52] where we're not fixing it up
+[00:09:53] after the event, we're stopping it,
+[00:09:55] but where we are at the moment, we're still going
+[00:09:57] through that remedial stage.
+[00:09:59] And in that middle, that middle group that you identified.
+[00:10:02] And it's a, it's a really good point
+[00:10:03] because the, the formal enforcement cases that we see go
+[00:10:07] through the courts are just a fraction
+[00:10:09] of the issues that we will face.
+[00:10:11] So there is a middle group
+[00:10:13] where we use our supervisory tools.
+[00:10:15] So we have direction orders, we can have license conditions
+[00:10:18] we do onsite, uh, we will do onsite visits
+[00:10:21] where they will be, uh, requirements
+[00:10:24] to change the way firms, firms are doing things as well.
+[00:10:27] So we've got a broader range of tools, uh, that can be led,
+[00:10:31] that can be used in harder ways.
+[00:10:34] Uh, that can be far.
+[00:10:36] One of the, one of the challenges
+[00:10:38] with enforcement action taken
+[00:10:40] through the courts is the time lapse between the, uh,
+[00:10:44] problem occurring
+[00:10:46] and when the credible deteriorative starts.
+[00:10:47] And sometimes because of the, you know,
+[00:10:50] it can be 1, 2, 3 years, uh, in, in, in time.
+[00:10:55] So one of the points that we are working towards
+[00:10:58] as we look upon the outcomes is how we can use
+[00:11:01] the broader range of tools that we have to be able to
+[00:11:06] make our regulation felt at the sharp end,
+[00:11:09] but, but do it faster.
+[00:11:14] Um, I guess that's, um,
+[00:11:17] that's something I'm really interested in, into,
+[00:11:19] and when you've come out with these nine priorities,
+[00:11:22] I think have been quite well socialized
+[00:11:24] with your stakeholders, um, how can we then use that
+[00:11:29] at a parliamentary level to, to expect your progress
+[00:11:33] and your tracking against that, those priorities?
+[00:11:36] I mean, there are nine of them. There are a lot of them
+[00:11:39] Actually. And, and, and
+[00:11:40] there are more than that, right?
+[00:11:42] There's, there's about 16, 16 regulatory priorities.
+[00:11:46] So this is the first year we've done the
+[00:11:48] financial conduct report.
+[00:11:49] Uh, what, as I, as I said
+[00:11:51] before, what we are aiming to do with that report is
+[00:11:55] to set out the regulatory priorities of things
+[00:11:57] that we're going to be focusing on
+[00:11:59] and key measures of success
+[00:12:01] that we are looking for in that work.
+[00:12:03] So that there is something that we can,
+[00:12:05] when we do the second financial conduct report in June
+[00:12:08] of 2026, we will report back on
+[00:12:13] how good a job we have done
+[00:12:15] on delivering against those regulatory priorities.
+[00:12:18] We'll be reporting back on those that are multi-year where,
+[00:12:22] but, but we will be specific on the success statements.
+[00:12:25] So that's, you know, so that it's not kind of, uh, a,
+[00:12:28] a loose, a loose priority.
+[00:12:31] I suspect that we will reduce, I mean,
+[00:12:35] I can't speak the border.
+[00:12:36] We, we know we, we are beginning
+[00:12:38] to do work on our red priority.
+[00:12:39] 16 is a lot.
+[00:12:41] It's, it's been a little bit trial to see how it works.
+[00:12:44] As our first year, uh, we, we may find that we need
+[00:12:48] to be a little bit more focused in terms
+[00:12:51] of our reg priorities,
+[00:12:52] but certainly at the select committee,
+[00:12:55] select committee level, and at the parliamentary level, I,
+[00:12:59] my, you know, our ambition is
+[00:13:00] that the financial conduct report gives you some very clear
+[00:13:04] outcomes that you can measure us against us
+[00:13:07] to account against in addition to our annual report.
+[00:13:10] You can, and, and they're, and they're meant to be real
+[00:13:13] and meaningful for your constituents,
+[00:13:15] because ultimately
+[00:13:17] what we are focused on is improving New Zealander's
+[00:13:20] experience in the financial services sector.
+[00:13:22] And the more specific
+[00:13:23] and purposeful we can be, the more we can give you the tools
+[00:13:28] to be able to hold us
+[00:13:29] to account on their behalf for that work.
+[00:13:31] Mm-hmm. Uh,
+[00:13:35] Uh, first of all, I just want to echo arena's, uh,
+[00:13:38] sentiment, um, heartened, uh, by the developments
+[00:13:41] that you've made over, over just even the last
+[00:13:43] year been fabulous.
+[00:13:45] Um, the C-C-C-F-A coming to you,
+[00:13:49] the Twin Pot Twin Peaks model, within that,
+[00:13:52] a single service provider, having some kind
+[00:13:56] of regulatory control over what the banks do
+[00:14:00] and insurers do, I think is fabulous as part of this kind
+[00:14:04] of new world we are entering into.
+[00:14:06] So very heartened by all of that.
+[00:14:08] Um, also alongside that, the, the Kofi having
+[00:14:12] that insight and then the group you've put together
+[00:14:15] with the R-B-N-Z-F-M-A, ComCom mb
+[00:14:19] the really integrated and connected approach mm-hmm.
+[00:14:22] Which I think is fabulous. Um, I look forward to how some
+[00:14:26] of those outcomes come about.
+[00:14:28] One issue that's come up quite recently,
+[00:14:30] which is really significant, is the outcome of a lot
+[00:14:33] of these scams and these frauds are actually money
+[00:14:37] laundering and financing of terrorism.
+[00:14:40] And so our party has been pushing very hard to look at, um,
+[00:14:44] organized crime overseas and how they operate
+[00:14:47] and how we can address that here.
+[00:14:49] Mm-hmm. At the moment, um,
+[00:14:53] the responses, the prudential responsibility,
+[00:14:55] the regulatory responsibility for A-M-L-C-F-T is worth
+[00:15:00] Reserve Bank and yourselves,
+[00:15:03] and this is moving apparently to DIA.
+[00:15:06] Mm-hmm. Intuitively, I think that's not the right move.
+[00:15:11] Um, just wondering if you would like to comment on that.
+[00:15:15] So the policy decisions of the government
+[00:15:18] and that decision is, you know, our, our job primarily is to
+[00:15:23] make it work really well.
+[00:15:25] And that is what we are focused on working with the agencies
+[00:15:28] to secure a seamless transition to the, to the DIA.
+[00:15:33] When that happens, uh, we, even
+[00:15:38] with that happening, we will continue to take, uh,
+[00:15:43] a good citizen systems view.
+[00:15:45] Uh, there is, there, there will be a relationship
+[00:15:48] that we will need to build
+[00:15:49] and secure with the DIA to make sure that the intelligence
+[00:15:53] and the insights that we bring from our scam work
+[00:15:57] and from our oversight of financial services
+[00:16:00] is fed really well into the work that the DIA do.
+[00:16:02] So even though it will be shifting to the DIA,
+[00:16:05] we are not a siloed organization, so we will,
+[00:16:09] we will be working very hard
+[00:16:11] to make it work incredibly well. Mm-hmm.
+[00:16:13] Because the, some of the reports
+[00:16:15] that come from the banks in terms of suspicious activity,
+[00:16:19] um, at the moment, um, I fear fall into a,
+[00:16:25] with the FIU, et cetera,
+[00:16:27] and we sort of, we know from the inside that probably 80%
+[00:16:31] of them don't even get looked at.
+[00:16:33] Yeah. So that's, in terms of your comment
+[00:16:36] before around timeliness and addressing the, like scams
+[00:16:40] and fraud and so on, that's a bit of a barrier
+[00:16:44] or a bit of a, um, yeah.
+[00:16:47] Like the whole system to me seems like, yeah.
+[00:16:49] So David, it's best that if we have a question. Yeah.
+[00:16:52] Uh, so I think, I think the CEO's got it. Okay.
+[00:16:55] Yeah. Thank you. Alright. Good.
+[00:16:59] Um, you have a prime, Scott will,
+[00:17:02] Um, a note that you've, um, you've, well,
+[00:17:06] there's been changes to the climate related disclosures
+[00:17:09] scheme, and I'm wondering what,
+[00:17:13] what you've learned from other jurisdictions, how well
+[00:17:16] that's worked and how well that is working.
+[00:17:19] Yes, here.
+[00:17:21] Sure. Well, New Zealand was in the unusual position
+[00:17:24] of being a leader in mandatory, uh,
+[00:17:26] climate related disclosures.
+[00:17:28] Mm-hmm. Um, and we,
+[00:17:31] we've completed a first year of monitoring.
+[00:17:33] A lot of effort went into it.
+[00:17:34] Uh, it was a big setup cost for firms. Mm-hmm.
+[00:17:38] Uh, and we, we were very pleased that the effort
+[00:17:41] that did go in, um,
+[00:17:43] we are seeing overseas jurisdictions catching up, uh, the,
+[00:17:47] the international, um, standards that, uh, ICF has,
+[00:17:52] um, got, its, its standards settled.
+[00:17:55] Australia is following fast.
+[00:17:57] Um, what we are seeing overseas is that, uh, by
+[00:18:00] and large the thresholds
+[00:18:01] for reporting higher than they were set in New Zealand.
+[00:18:04] And, um, I think that's probably reflected in the,
+[00:18:06] in the recent changes that, uh, the, the proportionate cost
+[00:18:10] of that we, we did see was very high.
+[00:18:13] Uh, also leading out with managed funds, uh,
+[00:18:15] is not something that that other jurisdictions have done.
+[00:18:18] So we are probably moving closer into alignment,
+[00:18:22] I would say, with where the rest of the, um,
+[00:18:25] I suppose not the rest of the world,
+[00:18:26] that's too grand a statement,
+[00:18:27] but the comparative jurisdictions are, are heading.
+[00:18:31] Um, one of the things
+[00:18:32] that we have seen from some research is that
+[00:18:36] as you move, well, two things.
+[00:18:39] We understand a number of companies
+[00:18:40] that are currently reporting, we want
+[00:18:42] to continue reporting in some form.
+[00:18:45] What has been observed in some research is that, uh,
+[00:18:49] voluntary reporting can lead to more selective reporting.
+[00:18:53] So we are expecting that we may have to, um,
+[00:18:56] increase our monitoring Yeah.
+[00:18:58] Of the voluntary reporting sector to make sure
+[00:19:00] that they're giving a, a fair
+[00:19:02] and balanced view of their efforts supplementary. So,
+[00:19:07] So in a sense, are you saying that we, we were,
+[00:19:09] once we were a leader
+[00:19:12] and we are not quite leading the space anymore?
+[00:19:15] We are, we're, we're, we are, we are, as a consequence
+[00:19:18] of changes, we are now more out of the pack.
+[00:19:21] I would say we we're still ahead of almost everybody.
+[00:19:24] Yeah. In terms of having that mandatory regime.
+[00:19:26] Um, we are a smaller jurisdiction though with,
+[00:19:31] uh, with more smaller firms.
+[00:19:34] And, um, I think that the, the balance there has, has been,
+[00:19:38] um, changed and is closer to what we see overseas.
+[00:19:43] But we are actually still ahead in terms of, um,
+[00:19:45] the requirements that we have for reporting
+[00:19:47] and the reporting that's being
+[00:19:49] provided for New Zealand investors
+[00:19:51] And, and the work that's been, the work
+[00:19:53] that's been pushed in puts New Zealand in a really strong
+[00:19:56] position to be able to, you know, even
+[00:19:59] with the changes in the standards for our firms to be able
+[00:20:02] to, uh, work in the international stage, uh,
+[00:20:06] and to be able to, uh, adapt to any, if they're exporting
+[00:20:11] to be able to adapt to any of the reporting requirements
+[00:20:14] o overseas, I think it's,
+[00:20:15] it's been an interesting experience on
+[00:20:18] the international stage.
+[00:20:19] Uh, there's been, particularly with Scope three emissions
+[00:20:22] and how you do reporting against those,
+[00:20:25] there's been a real sense in which,
+[00:20:28] at the international level, we've all been working together
+[00:20:33] to try and learn from each other's experience and,
+[00:20:35] and what is, what is going to work.
+[00:20:38] The potential risk of greenwashing is one that is as,
+[00:20:42] as Liam said, we're going to have
+[00:20:43] to keep a really strong eye on.
+[00:20:46] But what has been clear from the international events
+[00:20:50] that I've been part of is New Zealand's the work.
+[00:20:53] Even though we are changing the standards, the work
+[00:20:55] that we have done puts us ahead of, of, of other,
+[00:20:59] of other jurisdictions.
+[00:21:01] A supplementary from Mar
+[00:21:03] Williams. Yeah. Just a
+[00:21:04] couple on the climate reporting
+[00:21:05] and, um, Pathfinder, um, the
+[00:21:10] climate reporting is meant to help investors price risk.
+[00:21:12] Mm-hmm. Um, I'm interested in
+[00:21:15] what feedback you've had from major shareholders
+[00:21:17] particularly, um, you know, fund managers
+[00:21:19] who are interested in pricing this appro pricing, uh,
+[00:21:22] risk appropriately for their funds around this.
+[00:21:26] Um, and how you see your role as, um, supporting the market,
+[00:21:32] um, for, for funds
+[00:21:33] and for investment, incoming investment
+[00:21:35] with this kind of information.
+[00:21:37] If we won't, um, have some of
+[00:21:39] that information being made available by legislation,
+[00:21:42] do you anticipate more, um, sort of anomalies coming
+[00:21:46] through, which you already identified?
+[00:21:47] I mean, the first round of, um, very helpful work
+[00:21:50] that the FMA did identified that a number
+[00:21:52] of reporting entities weren't reporting according
+[00:21:55] to the standards already.
+[00:21:57] Yeah. Um, well, the, I mean,
+[00:21:59] major shareholders often themselves are fund managers.
+[00:22:01] Um, and that goes through very quickly
+[00:22:05] to the retail investors there.
+[00:22:07] The research we've done, the research that, um,
+[00:22:09] we've seen from others tells us
+[00:22:11] that ethical investment is still an important matter
+[00:22:15] for a number of retail investors. Some of
+[00:22:17] These guys are running green funds.
+[00:22:18] Yeah. And that's, that they're, they're being,
+[00:22:20] they're being offered in response to the demand.
+[00:22:22] So it's important for them.
+[00:22:24] And what they're promising that we've got, uh,
+[00:22:28] very clear information around what is in, what is out,
+[00:22:32] what are they investing in, um,
+[00:22:33] are they sticking to their mandate.
+[00:22:35] And, um, we've consulted in the last few
+[00:22:40] months on new guidance for ethical investment disclosure.
+[00:22:45] We put out some initial guidance.
+[00:22:47] Some years ago it was high level
+[00:22:49] and, um, that was in the context
+[00:22:53] of international standards still being in development.
+[00:22:56] We are seeing that is still the case,
+[00:22:59] but, uh, a growing consensus in terms
+[00:23:02] of international expectations.
+[00:23:04] And so we've, we've put out, um, draft new guidance
+[00:23:08] to provide clearer, um, assistance for those fund managers
+[00:23:11] to tell the right story to the investors. Yeah.
+[00:23:14] And one of the, um, one, one of the issues
+[00:23:16] that the guidance is very sort of is,
+[00:23:19] is very much picking up on, is, uh, you know, where
+[00:23:23] entities wanting to do the right thing by way
+[00:23:25] of offering green funds,
+[00:23:27] but there is a risk that the marketing arm, uh, runs ahead
+[00:23:31] of what's actually being, what's actually being offered.
+[00:23:35] And so one of the outcomes that we are looking
+[00:23:37] for in the guidance,
+[00:23:39] 'cause we have seen, uh, we,
+[00:23:41] we have seen entities trip up over this is to say,
+[00:23:44] it's great that you are, you know, that, that it's, it's,
+[00:23:47] you know, it's, it's great that you want
+[00:23:48] to go down this path, but it is important that you check
+[00:23:51] that what you're saying in your marketing, uh,
+[00:23:53] is actually matched, uh, pretty specifically to,
+[00:23:56] I do, I just wanna dig in for this a little bit.
+[00:23:58] Okay. So, Uh, yeah, one supplementary, okay.
+[00:24:01] Been in one supplementary.
+[00:24:03] It's you sented Pathfinder
+[00:24:06] for those misleading ethical claims, um,
+[00:24:10] and, you know,
+[00:24:12] identified gaps across the sector on these issues.
+[00:24:16] Mm-hmm. Is greenwashing widespread
+[00:24:18] in the New Zealand market?
+[00:24:24] We do not see that it's widespread.
+[00:24:27] Um, but one of the things that
+[00:24:31] is really challenging for retail investors is being able
+[00:24:35] to compare different claims
+[00:24:37] when there's no consistent terminology.
+[00:24:39] Uh, when there are no baseline requirements.
+[00:24:43] If I, if I say that I'm, uh, not investing in carbon
+[00:24:48] then, but there's a fornot that says up to 5%, how,
+[00:24:53] how clearly does that need to be said?
+[00:24:54] Or up to 15%? How clearly does that need to be said?
+[00:24:57] How do we help investors to see that?
+[00:24:59] How do we, um, ensure that companies, when they use terms,
+[00:25:03] when they use terminology, they all mean the same thing.
+[00:25:07] So until we get there, it's gonna be difficult
+[00:25:11] to say who's right, who's wrong. Yeah.
+[00:25:13] Um, this is a particular issue for Kiwis over funds.
+[00:25:17] Um, how do New Zealanders ha have some assurance that
+[00:25:20] what they expect out of the ethical KiwiSaver funds,
+[00:25:23] which many of us are invested in probably around this table
+[00:25:25] because of our jobs, um, how can we assure ourselves that,
+[00:25:30] um, this, this, there is some standard
+[00:25:33] around what's being advertised
+[00:25:35] and, um, what might all come out in the wash.
+[00:25:39] So I was just, so the guidance, it's a great,
+[00:25:42] it's, it's a great question.
+[00:25:43] And the guidance that we put put out is aimed to
+[00:25:48] address just those to achieve Exactly.
+[00:25:50] To achieve that point. Achieve that point. Yeah. Okay.
+[00:25:53] Um, alright. I'll ask a supplementary here.
+[00:25:55] So given the financial risk, uh, comes in many forms,
+[00:26:00] it can be inflation, it could be geopolitics,
+[00:26:02] it could be regulation.
+[00:26:03] So why, I mean, I'm thinking why is climate, um,
+[00:26:07] signaled out for, uh, like a, a bespoke reporting regime?
+[00:26:11] And in that regard, are you able to, uh,
+[00:26:15] provide me an example, uh, where
+[00:26:18] mandatory climate disclosures changed, uh, company's, um,
+[00:26:22] real world behavior, um, in capital allocation
+[00:26:26] or emission emission reduction?
+[00:26:28] Yeah. If you could give an example there. So
+[00:26:30] I'll, I'll pick that up.
+[00:26:31] It maybe that we need to come back to you
+[00:26:33] with a specific, uh, sure.
+[00:26:35] Specific example. So as the, the pulling up
+[00:26:38] for a separate regime was a matter of government policy
+[00:26:41] and that, that the standards were set by the XRB,
+[00:26:44] and our job is to, uh, regulate and has been to regulate
+[00:26:48] and enforce those.
+[00:26:50] So the reason, uh,
+[00:26:52] but what we have, what we have seen, I would say broadly,
+[00:26:56] not just in New Zealand, but elsewhere, is
+[00:26:59] a focus on climate in particular, uh, probably due
+[00:27:04] to a, a view that the, that,
+[00:27:07] that the normal expectations that you would have from, uh,
+[00:27:12] that you would have from entities properly looking at,
+[00:27:14] you know, with any entities
+[00:27:15] that are important in the economy,
+[00:27:17] properly looking at their long-term risk
+[00:27:19] that could arise from climate might be buried in the normal
+[00:27:21] accounting standards.
+[00:27:23] And so there was a need for, uh, a new set
+[00:27:26] of standards around climate.
+[00:27:28] But this was, this, this was a, you know, this,
+[00:27:30] this is a decision that was, uh, you know, that
+[00:27:33] that was taken at the, at the government level, the focus,
+[00:27:37] uh, on, you know, the, the focus on climate
+[00:27:41] and the focus on ethical investing more generally is one,
+[00:27:45] from a, from a regulatory perspective, when we're, when,
+[00:27:49] when we are needing to work in an environment
+[00:27:52] where securing a strong fund sector
+[00:27:55] and a strong experience of investors, uh, in,
+[00:27:58] in the fund sector, if there are particular elements
+[00:28:01] that become increasingly important to investors,
+[00:28:03] so these can become aspects that can be marketed.
+[00:28:06] So ethical investing, green investing, climate related,
+[00:28:10] so it can all be part of something that is part
+[00:28:12] of a marketing effort to attract investors to your fund
+[00:28:16] and not to their fund.
+[00:28:17] Yeah. That becomes something for us, uh, more generally
+[00:28:21] outside of a climate, out of a climate,
+[00:28:23] separate climate related disclosures regime,
+[00:28:25] because that will be a risk to us that we will want
+[00:28:28] to investigate to ensure that actually
+[00:28:29] what is being held out to investors is
+[00:28:32] actually, is, is actually true.
+[00:28:33] And that would be the case whether
+[00:28:35] or not we had, uh, a climate related disclosures regime.
+[00:28:39] I don't have an example, I'm afraid at the tip
+[00:28:42] of my tongue. Do you
+[00:28:44] Need That's fine. You can
+[00:28:45] provide me, because what I want to look into it is
+[00:28:47] that, is it, uh, a compliance just for compliance sake?
+[00:28:50] Um, that's, that's the question. So yeah.
+[00:28:53] If you can provide an example later on, that's totally fine.
+[00:28:56] Sure. We have a new primary from Uben Davidson.
+[00:28:59] Thank you, uh, madam, she, um,
+[00:29:02] artificial intelligence we know is becoming
+[00:29:04] increasingly sophisticated.
+[00:29:06] Um, so the policing
+[00:29:08] and prevention around it, especially in this space, needs
+[00:29:11] to, um, either keep up or preferably be ahead of it.
+[00:29:15] Mm-hmm. Um, how ready do you think we are domestically,
+[00:29:20] and how do you think that compares, uh, internationally?
+[00:29:26] So I might see if you want to pick up the Yep.
+[00:29:29] The point, and then we can come
+[00:29:30] onto Han to what we're doing. Sure,
+[00:29:32] Sure. Um,
+[00:29:33] we, I,
+[00:29:37] I would say that, um, we're probably at risk
+[00:29:41] of being slightly behind.
+[00:29:43] Um, we did some
+[00:29:47] research work this year, uh, looking at the uptake
+[00:29:50] and use of artificial intelligence in
+[00:29:53] financial services firms.
+[00:29:54] We found a large number
+[00:29:55] of firms are interested in exploring,
+[00:29:58] but, um, domestically less use than perhaps has been
+[00:30:02] reported from some overseas markets.
+[00:30:04] It's also an area, though,
+[00:30:05] where the development is incredibly rapid.
+[00:30:07] Yeah. And the capability is developing very rapidly.
+[00:30:10] It's becoming more and more useful for more
+[00:30:12] and more things, um, uh, very quickly,
+[00:30:15] and we will probably talk at some point, uh,
+[00:30:20] about the work that we've been doing in the sandbox,
+[00:30:22] but one of the things that we want to explore, um,
+[00:30:25] there is opportunities for use of AI in the positive sense.
+[00:30:31] So, um, you know, opportunities potentially
+[00:30:33] to improve access to financial advice.
+[00:30:35] Yeah. Uh, but also what we need to do, uh,
+[00:30:40] and we have, um, uh, work going on internally to make sure
+[00:30:44] that we are skilled up enough to understand
+[00:30:46] what are the guardrails that
+[00:30:47] need to go along with that. Yeah.
+[00:30:49] So we, um, so internally, uh, we are piloting the use
+[00:30:52] of ai, uh, in, in internally.
+[00:30:56] Uh, I'm enjoying using it.
+[00:30:57] Uh, it, but it can be quite clunky actually.
+[00:31:00] The practical, practical use of how it can be clunky
+[00:31:03] and requires human intervention is, uh, is, is is I think,
+[00:31:07] important, an important part of the work that we will do.
+[00:31:10] Uh, the opportunities, uh, of AI are definitely there.
+[00:31:16] I mean, looking at the work that one
+[00:31:17] of our priorities this year is to look at the access
+[00:31:19] to financial advice.
+[00:31:20] You can see the long-term opportunities
+[00:31:23] that there is with ai.
+[00:31:26] What am I concerned about?
+[00:31:27] I'm concerned that, uh, the historic lack
+[00:31:32] of investment generally in technology,
+[00:31:35] in the financial services sector in New Zealand,
+[00:31:38] where we are still seeing basic problems
+[00:31:43] with delivering what is promised by providers,
+[00:31:46] creates a layer of risk over invest over technology
+[00:31:51] that uses AI
+[00:31:52] and the ability of New Zealand Financial Services Inc.
+[00:31:57] To be able to be across, uh, the, you know,
+[00:32:01] where it can go, where it, where it can go wrong.
+[00:32:04] And that will become an increasing focus for our work,
+[00:32:07] both the opportunities, but also the approach
+[00:32:11] that the sector needs to take to investing safely, uh, and,
+[00:32:15] and testing the use of ai.
+[00:32:17] Yeah. So a
+[00:32:19] A sub off that, I guess this could be the same,
+[00:32:21] but it might be two different things.
+[00:32:23] What advice would you give to government
+[00:32:25] and what requests would you have of government
+[00:32:27] around those challenges?
+[00:32:31] Oh, gosh. I, we, we, we probably need
+[00:32:35] to do some more research work on that, but,
+[00:32:38] and initially, um, we, we've, we are fortunate,
+[00:32:40] for instance, the financial advice, uh,
+[00:32:43] laws were changed a few years ago, um, partly to allow, um,
+[00:32:47] what was then called robo advice
+[00:32:49] and what, what I suspect is now gonna be AI
+[00:32:51] advice to be delivered.
+[00:32:52] So we've, we've got a relatively up to date
+[00:32:56] and fairly flexible regulatory regime in that respect.
+[00:33:00] Um, I, I may be proven wrong by, by the industry,
+[00:33:03] but I don't think there are, um,
+[00:33:06] specific regulatory barriers to ai.
+[00:33:09] And I think with the introduction of Kofi,
+[00:33:11] with our financial advice, um, supervisory regime,
+[00:33:15] we've also got the tools
+[00:33:16] to influence firms and how they use them.
+[00:33:18] Mm. But we are very, I mean, looking at the, uh,
+[00:33:23] I mean, I know there's kind of issues around the pricing
+[00:33:25] of AI stocks in the international markets at the moment,
+[00:33:28] and is there a bubble or, or not.
+[00:33:30] But we've got, um, we've got some great members of staff
+[00:33:34] who are very future, future focused thinkers.
+[00:33:36] And we are anticipating, uh, that over,
+[00:33:40] whether it's the next year to five to 10 years, that ai,
+[00:33:45] the use of AI in the financial services sector will
+[00:33:47] dramatically change the way
+[00:33:48] that financial services are received and offered.
+[00:33:52] And that means that we need, as an organization, we need
+[00:33:56] to be keeping, uh, our eye kind of, you know,
+[00:33:59] very firmly focused on the risks of today,
+[00:34:01] but also the potential
+[00:34:02] and risks of tomorrow, uh, that, that come through.
+[00:34:05] So it will be, it will be, uh, increasing investment
+[00:34:09] for us. Yep.
+[00:34:10] Supplementary from, yeah.
+[00:34:13] Just a quick, um, question about the number
+[00:34:16] of scam alerts you issued last year,
+[00:34:18] I think was topped a hundred.
+[00:34:20] Um, in, in terms of the use of AI within the organization,
+[00:34:24] surely it's time that those scam alerts
+[00:34:26] that aren't necessarily reaching the people who need
+[00:34:29] to hear about them, vulnerable communities, older peoples,
+[00:34:32] um, might be, you know, scanned for and delivered by ai.
+[00:34:36] Mm-hmm. Um,
+[00:34:38] and so how do, how do you ensure
+[00:34:40] that you're getting the investment that you need to be able
+[00:34:41] to continue to deliver on?
+[00:34:43] Yeah, so we are constantly, um, we, we've,
+[00:34:47] we are constantly looking
+[00:34:49] at ways in which we can improve a number
+[00:34:52] of things when it comes to scam alerts, the way
+[00:34:54] that we communicate them, the way that we work multi-agency
+[00:34:57] with the scam alerts, the way
+[00:34:58] that we use our own technology.
+[00:35:00] So we've been investing
+[00:35:01] and we will continue to invest in our ability to be, uh,
+[00:35:06] to, to, to be able to collect.
+[00:35:08] It's, it's not just the actual scams, it's the ability
+[00:35:10] to be able to liaise with agencies, both in New Zealand
+[00:35:13] and internationally, to be able to collect intelligence
+[00:35:17] that scams, scams are occurring.
+[00:35:21] But it, it's, it's con it, it, it will, there's not one fix
+[00:35:24] that there will be to, it's a constant awareness
+[00:35:26] that we need to keep being curious and inquisitive
+[00:35:30] and resolved to be on top of the latest, um,
+[00:35:34] not just the individual scams,
+[00:35:36] but the ways in which, which the scams are appearing.
+[00:35:38] Mm-hmm.
+[00:35:40] I Think it's encouraging that some
+[00:35:42] of our regulated community are actively advertising
+[00:35:47] to their constituent consumers around how to think about
+[00:35:50] scams, basically slow the decision making down.
+[00:35:54] Um, so that's, that's encouraging.
+[00:35:57] And I think we can do more around educating consumers
+[00:36:01] and investors about being aware of scams.
+[00:36:04] The person that's on the phone
+[00:36:06] or the person on the screen is not
+[00:36:08] necessarily the person you think it is.
+[00:36:10] So it's actually raising people's awareness
+[00:36:11] of potential financial loss earlier.
+[00:36:17] Um, a new primary brief from Scott. Thank you.
+[00:36:22] Uh, Madam Chair. Um, you talked about the risk
+[00:36:26] of greenwashing earlier
+[00:36:28] and, um, arena, I think mentioned the problem of
+[00:36:32] verifying claims.
+[00:36:35] I'm wondering how well you work with others in the sector,
+[00:36:37] such as charities like Mindful Money to help
+[00:36:41] help us understand and help the, the great unwashed Yeah.
+[00:36:45] Make decisions when there's such lack of clarity and,
+[00:36:50] and, and,
+[00:36:52] and people really concerned about where they invest,
+[00:36:56] where the Kiwi Saver goes, what, what,
+[00:36:58] what's happening with their money? Yeah.
+[00:37:00] So we have, um, this, this over this, over this past year,
+[00:37:04] uh, have been, uh, really investing
+[00:37:08] a lot more into our engagement with the Vari, with,
+[00:37:12] with the various groups Mindful Money,
+[00:37:13] think Cap Christians Against Poverty,
+[00:37:14] and sort of the debt charities around, uh,
+[00:37:17] to build up our understanding, uh, particularly with,
+[00:37:20] with the, with credit, moving with Triple CFA,
+[00:37:23] coming into the FM with, into the FMA, to be able
+[00:37:27] to build up our understanding of where the risks are
+[00:37:31] and to build up those relationships.
+[00:37:32] And that will become increasingly important to us.
+[00:37:36] And that's included, um, that's included.
+[00:37:38] Things like, uh, with Fin Cap, uh, we've had the opportunity
+[00:37:42] to do a day in the life, which has been able to give, um,
+[00:37:45] you know, a number of us have been able to have, uh,
+[00:37:48] direct experience of, um, of, of, of individuals,
+[00:37:53] uh, coming in and who have been, uh, misled
+[00:37:57] by their experience in financial services.
+[00:38:02] Just a very, very quick, yeah.
+[00:38:04] Um, that relationship is something
+[00:38:09] that you have regular ey, or,
+[00:38:12] or is it just annual?
+[00:38:15] Or how, how does, how does it work
+[00:38:17] with those different, different,
+[00:38:18] Yeah, it's a current level.
+[00:38:20] So we had, uh, it's one of, uh, one of a number of, um, sort
+[00:38:24] of at senior level round tables that we've had.
+[00:38:28] Uh, we will be having, um, more of them next year,
+[00:38:30] but it's not occurring just at my level, uh, with the, uh,
+[00:38:35] it is, is, it is occurring very much at the
+[00:38:37] frontline working level.
+[00:38:38] So, whilst I may only meet,
+[00:38:41] although actually I've met with a number of the, um,
+[00:38:44] the representatives, um, informally
+[00:38:47] and formally, you know, 2, 3, 4, 5 times this year, uh,
+[00:38:52] it's also happening at the working level, uh, with, um,
+[00:38:56] with, with, you know, in our licensing
+[00:38:59] and in our supervision area.
+[00:39:00] And it will become, it is an important area of engagement,
+[00:39:05] engaging investment that we will
+[00:39:06] be, we will be doing as well.
+[00:39:07] We've also been, uh, under mat, our Maori strategy,
+[00:39:12] we have been, uh, we, we have been, um,
+[00:39:16] building up our engagement with Iwi
+[00:39:18] to understand Maori provider
+[00:39:20] and consumer experiences with the financial services sector.
+[00:39:23] And that will support, uh, our, build our understanding of
+[00:39:27] where we need to be working in order
+[00:39:30] to be able to make a difference.
+[00:39:32] I supplement just a couple, um, just, I,
+[00:39:37] I wanna express to you how impressed I have been at
+[00:39:39] observing that transition, um, to FMA with the, uh,
+[00:39:43] credit regulation.
+[00:39:45] Um, and I, I'm interested in knowing just where, where
+[00:39:50] that is up for now, and, um, how we can expect FMA
+[00:39:53] to be working with vulnerable consumers, which isn't,
+[00:39:56] you know, a group of people you have
+[00:39:58] needed to work with before.
+[00:40:00] Mm-hmm. Also interested in, um, 84%, I think
+[00:40:03] of your respondents to the survey about how they perceive,
+[00:40:05] you said that they perceive you really positively.
+[00:40:08] Do you think this will change if you are working
+[00:40:10] with those other groups, um,
+[00:40:12] who are at a different kettle of fish?
+[00:40:14] Um, and finally, you know, there's other users
+[00:40:17] of your services, particularly market integrity users, um,
+[00:40:20] will they see a change in your operating focus, um, right.
+[00:40:24] If you're moving away from, you know, the top end
+[00:40:27] of town in the boardrooms to, um,
+[00:40:29] south Auckland's car yards.
+[00:40:30] Yeah. That's a great, uh, gosh, that's a, that, those,
+[00:40:34] those are really great questions.
+[00:40:37] I would characterize, uh, our, the expansion of our remit,
+[00:40:42] uh, recently into, um, conduct of banks
+[00:40:46] and insurance, um, companies.
+[00:40:48] And in forthcoming into credit as doing two things.
+[00:40:53] The first is it more broadly means
+[00:40:54] that we are expanding into consumer protection.
+[00:40:57] It particularly and profoundly means
+[00:40:59] that we are moving into vulnerable consumer protection
+[00:41:02] and not just in the credit, uh, space either.
+[00:41:06] It's also in the insurance space.
+[00:41:08] So it's where, you know, if you, we, we can all be,
+[00:41:11] we can all start, you know,
+[00:41:12] we can all be vulnerable if our house is just burnt down
+[00:41:15] or has been flooded or, um, our, our partner has just died.
+[00:41:20] The experience that we have of the insurance sector
+[00:41:23] and the claims management experience of, of is, is profound.
+[00:41:28] Uh, and I'm, I'm mentioning that
+[00:41:30] because that's an area that we, in terms of vulnerability,
+[00:41:34] it's an area that, um, we is very much to the front
+[00:41:38] of our minds in the insurance sector, uh,
+[00:41:41] and with credit, absolutely less so at the big end of town.
+[00:41:46] But when you, when when you are not living in the middle
+[00:41:50] of a major city and your car breaks down
+[00:41:53] and you are on benefits, you don't have that many choices
+[00:41:58] when it comes to how do you get in your car.
+[00:42:01] So you can go to work and you can get your kids to school,
+[00:42:04] and that makes you vulnerable
+[00:42:06] and potentially exposed to, um, to, to actually,
+[00:42:10] even if you get great credit opportunity,
+[00:42:13] you've still got to pay it back.
+[00:42:15] Uh, and this is, uh, but, but quite often, they're not.
+[00:42:19] Quite often the vulnerability
+[00:42:21] of those consumers has been misused.
+[00:42:24] I'd like to pay, um, you know, I'd like
+[00:42:26] to call out the Commerce Commission who've done some
+[00:42:28] fabulous work in this area.
+[00:42:30] I know from my experience
+[00:42:32] of taking on credit regulation in my previous home country,
+[00:42:36] that, uh, the, the, the, the difference
+[00:42:40] between being the initial regulator of, uh, the, the,
+[00:42:45] the more difficult end of the credit sector is, um, is, is,
+[00:42:49] is is incredibly difficult.
+[00:42:51] And the commerce committee, you know, being able
+[00:42:52] to pick up from the Commerce Commission is really helpful.
+[00:42:56] To your point over how our engagement scores change,
+[00:43:01] I think we have to be pretty realistic.
+[00:43:03] You know, we will be doing a lot of work,
+[00:43:05] but the expectations on us, um, must
+[00:43:09] and should increase for the work that we can do.
+[00:43:13] And that's why it's important for us
+[00:43:14] to build out our relationships with the debt charities
+[00:43:17] and with those who representing the, uh,
+[00:43:20] representing vulnerable consumers.
+[00:43:22] They will be an important source
+[00:43:23] of intelligence that'll help us with education.
+[00:43:27] Uh, will we always be able
+[00:43:29] to meet their incredibly high expectations for all the cases
+[00:43:32] that we can take on?
+[00:43:34] That's a harder, you know, that, that,
+[00:43:35] that's, that's a harder question.
+[00:43:37] So I think we need to be ready.
+[00:43:38] Um, but, but I do, I, I, I anticipate
+[00:43:42] that rightly the expectations on us will increase,
+[00:43:45] and it could well be that, um, we, we want
+[00:43:50] to improve our engagement scores,
+[00:43:52] but actually for us, what we want to be able to do is
+[00:43:55] to point to really tangible
+[00:43:57] a really tangible difference that we can make. I have
+[00:44:00] One more, is that on that?
+[00:44:02] Yeah. Um,
+[00:44:06] Maori access to credit is a yearning gap.
+[00:44:10] It's in New Zealand's, uh, progress towards more access
+[00:44:14] to credit and more access
+[00:44:16] for small businesses, particularly.
+[00:44:18] Are you fixing it? And is it under threat
+[00:44:23] Again? So,
+[00:44:24] um, we will be
+[00:44:26] publishing some relevant research next week, access
+[00:44:31] to insurance, access to credit, uh, on, you know,
+[00:44:36] for those who are living, uh, who, who wish,
+[00:44:39] and who for Maori living in, who, who wishing to sort
+[00:44:42] of live in a TIA Maori way
+[00:44:44] or collectively owned land is, uh, is, uh,
+[00:44:48] quite possibly, um, a, a bigger problem
+[00:44:53] than, than, than perhaps we will realize to start with.
+[00:44:58] We have found out from the research
+[00:45:00] and the work that we've been doing this year that getting,
+[00:45:03] um, getting insurance for homes
+[00:45:07] and other, um, other, other high expense items such as,
+[00:45:12] you know, cars on communally owned land, we, uh, that,
+[00:45:16] that can offer access to that can be, IM impossible.
+[00:45:20] Mm. And we have found instances where premiums,
+[00:45:23] even if the premiums have been charged, but the, uh,
+[00:45:27] but actually the, uh, the claim has been invalidated
+[00:45:30] because of the, uh, because of community owned land.
+[00:45:33] So this will be the reason we have matura, uh,
+[00:45:37] which is a strategy to, uh, build up our capability
+[00:45:42] to be able to research and to understand,
+[00:45:44] but fundamentally to make a difference to Maori experience,
+[00:45:48] um, of financial services and ma and,
+[00:45:51] and, and really understand.
+[00:45:52] One of the things that we must understand is the way
+[00:45:55] that the financial services sector has evolved over decades.
+[00:45:58] And this comes through in the research
+[00:45:59] that we'll be publishing next, next week.
+[00:46:01] The way the financial services sector has evolved over
+[00:46:04] decades, not just going back to 1975, I'm going back beyond
+[00:46:08] that to, in a, in a way that, um, does, you know, conflicts
+[00:46:12] with tick hunger and
+[00:46:13] therefore conflicts with Maori, um, ma Maori access to, um,
+[00:46:17] to, to and, and ability both as providers and as consumers.
+[00:46:21] And this is something that, um, I would like to think
+[00:46:25] that the FMA we, we are not,
+[00:46:27] but I would like to think that in that in important ways,
+[00:46:31] we will be able to make a difference with the work
+[00:46:33] that we're doing, both with insurance
+[00:46:34] and banking coming over to us and credit and being able and,
+[00:46:38] and the work that we're doing under ro we can, we can point
+[00:46:41] to making an important difference.
+[00:46:43] Okay. Working with Maori, uh, primary Dr. David Wilson.
+[00:46:47] Thank you. Um, I'm gonna give you two strings
+[00:46:49] and hope that you make a bow out of them.
+[00:46:51] I'll do my best. So, uh, I think most
+[00:46:54] of us will remember the good old days
+[00:46:55] where you could write account pay only on a check.
+[00:46:58] Yeah. You expect that it would go to the right person.
+[00:47:01] We've gone digital and, um,
+[00:47:03] when you're looking at a transaction,
+[00:47:05] particularly say investment fraud, it happens
+[00:47:08] through a bank, one bank to another.
+[00:47:11] And the mule accounts that in the receiving bank, which, um,
+[00:47:15] has not been able to be looked at
+[00:47:18] by the banking ombudsman to date.
+[00:47:22] So the mule accounts are running right.
+[00:47:25] And doing what they like.
+[00:47:26] So that's one end of the continuum.
+[00:47:29] I looked in your report to see
+[00:47:31] that you've gone into licensing firms, um,
+[00:47:36] that provide financial services.
+[00:47:38] So that's the other strength to the bow.
+[00:47:40] I hope you can draw for me,
+[00:47:41] because at that point
+[00:47:45] where somebody is asking, has their money come
+[00:47:48] to the wrong place, confirmation of payee is one thing,
+[00:47:51] but it's not the answer.
+[00:47:53] It could be the ultimate beneficial owner
+[00:47:55] that we're actually looking for,
+[00:47:56] especially if they're talking your account.
+[00:47:59] Can that then be a position that the banks can take to say
+[00:48:03] that this account is not a licensed
+[00:48:05] financial service provider?
+[00:48:10] There, there are a couple of, couple of parts to that.
+[00:48:13] Um, I, I think that there are moves to improve the ability
+[00:48:16] to look at both sides of a transaction to a complaint,
+[00:48:19] recognizing the contributions on both.
+[00:48:21] And we very much welcome those, um, in, in terms of
+[00:48:25] where the money's eventually going.
+[00:48:27] Um, that, that really comes back to the sort
+[00:48:31] of multifaceted way that we need to attack scams.
+[00:48:34] Um, we absolutely are willing to use, um, Kofi
+[00:48:38] and the fair conduct programs to ensure
+[00:48:41] that banks are paying sufficient attention to the
+[00:48:45] customer protection systems that they have in place.
+[00:48:47] But it also comes back to that's, that's a little bit bottom
+[00:48:52] of the cliff, uh, in a, in a sense, it's
+[00:48:54] how do we stop the money from moving in the first place?
+[00:48:56] You know, what, what are the
+[00:48:57] disruption efforts that we can have?
+[00:48:59] Um, that's why we're working with the technology platforms.
+[00:49:02] Uh, we have trusted flagger status with TikTok, with Google.
+[00:49:06] We're working on something similar with meta, uh, to try
+[00:49:09] to disrupt the message
+[00:49:11] before money starts moving outta bank accounts.
+[00:49:14] That's long term going to be more effective.
+[00:49:16] Uh, but it's there, there's a lot, there's a lot in there.
+[00:49:21] So, um, we, we published, uh,
+[00:49:24] warnings last month about what's called a pump
+[00:49:27] and dump scheme, a a fraudulent investment scheme.
+[00:49:31] Um, and our team passed over a thousand pieces of content
+[00:49:34] to meta in the last month relating to those scams.
+[00:49:38] It's, it's very high volume.
+[00:49:39] It's, um, I, I, I love the suggestion of how we can use AI
+[00:49:43] to, um, to keep up with that
+[00:49:45] because it's, uh, it's,
+[00:49:47] it's fighting against the tide at times.
+[00:49:49] But, um, working with those technology platforms, working
+[00:49:53] with the banks, as Craig said, our education efforts
+[00:49:55] with consumers, we need them all together.
+[00:49:57] And the Antica Alliance with other, um, government
+[00:50:00] and private sector companies, that's what it's gonna take
+[00:50:03] to, to, uh, beat this.
+[00:50:05] Yes. I'm talking about a red flag. Yeah.
+[00:50:08] That if the person on the front desk at the bank can see
+[00:50:11] that this money is not going,
+[00:50:13] and it's intended to be an investment,
+[00:50:14] but it's not going to a license, financial service,
+[00:50:17] but red flag, and that pinches it right at the beginning.
+[00:50:22] Mm-hmm. But the thought, thank any question, um,
+[00:50:26] Any final questions?
+[00:50:27] Yes, thank you.
+[00:50:30] Um, just going back to the boardroom end of town, um,
+[00:50:33] market cleanliness.
+[00:50:35] Um, you have had, if a,
+[00:50:38] has in this year had some more criticism
+[00:50:40] around unclear guidance for insider trading.
+[00:50:42] Mm-hmm. Um, wanted to understand, um,
+[00:50:47] how you consult with an, with market participants
+[00:50:50] around those issues and how we build consensus around, um,
+[00:50:55] you know, what is a small market and people know each other,
+[00:50:57] and a pretty often unique set of circumstances
+[00:51:00] around institutional investors. Yeah.
+[00:51:02] So, um, so I'm gonna go back to a point, uh,
+[00:51:07] that I, I, I may be foreign,
+[00:51:10] and it's really important that the regulation,
+[00:51:13] unless you're serving a search warrant
+[00:51:15] or something, should be predictable.
+[00:51:17] And our initial, uh, information sheet on
+[00:51:20] what we were calling at the time, shadow
+[00:51:21] inside insider trading, did take the sector
+[00:51:25] by, by surprise.
+[00:51:27] Uh, and that's, uh, that's unusual for us
+[00:51:30] for, for that to happen.
+[00:51:32] And we recognized very quickly that we needed to talk more
+[00:51:36] with the sector on the issues.
+[00:51:38] And we've simply, we've just reissued the, uh,
+[00:51:41] we've reissued the information sheet and it's gone down.
+[00:51:44] It's gone down very well with some clear, uh, with, with,
+[00:51:47] with some clear examples of the cases
+[00:51:50] that we had been seeing to support the sector, understanding
+[00:51:53] what is and, and isn't acceptable.
+[00:51:55] It, you know, it market plenty, you know, for,
+[00:51:58] for a small open economy like New Zealand,
+[00:52:01] it's incredibly important that, uh,
+[00:52:04] we have a strong reputation for tackling insider trading
+[00:52:08] and any of the, and,
+[00:52:09] and anything else that can impact our market cleaner.
+[00:52:12] Generally we score well on market cleanliness,
+[00:52:14] but it is an area that we need to keep, we need
+[00:52:17] to keep a watch on.
+[00:52:19] I guess the worry would be that, um, something like
+[00:52:22] that might increase costs for capital raises.
+[00:52:25] Um, do, do we expect that to be a feature
+[00:52:29] of the New Zealand market board going forward?
+[00:52:30] Do we think that, um, capital raises will,
+[00:52:32] will have any costs associated with, with that advice,
+[00:52:35] or do you think you're out of the woods?
+[00:52:37] The, so it's a very, it's, it's a,
+[00:52:39] it it's a, it's a good point.
+[00:52:41] One of the issues with the work that we do to do
+[00:52:45] with market cleanliness is to get that right balance
+[00:52:50] between inappropriate use of private information for
+[00:52:55] personal gain that cuts across, uh,
+[00:52:58] confidence in market integrity,
+[00:53:01] and to make sure that there's different, there's clarity
+[00:53:03] between that and the efficient
+[00:53:07] and effective price discovery process
+[00:53:09] that, that, that occurs.
+[00:53:11] And that is, um, that there was a risk
+[00:53:15] that the information that we put out might cut across that.
+[00:53:19] What we are hearing from the clarification that we, um,
+[00:53:23] that we have recently published is that
+[00:53:26] that is not the case.
+[00:53:27] Okay. At all. It is a real,
+[00:53:29] there's a real ba there's a real balance to be made between
+[00:53:33] what is private, what is the misuse of private information,
+[00:53:37] what is good research
+[00:53:38] and analysis, how do we make sure that we've got
+[00:53:41] efficient price discovery at the same time
+[00:53:45] as confidence in the cleanliness of the market.
+[00:53:48] Uh, so there's a, you know, and,
+[00:53:51] and what we, when we actually take action on,
+[00:53:54] let's say something like insider trading,
+[00:53:56] when we actually go to the point of taking real action,
+[00:53:58] there's a significant investigation
+[00:54:00] that goes on behind that.
+[00:54:03] And these are really, you know, they, they,
+[00:54:05] they're very egregious cases that we,
+[00:54:07] that we will take action on.
+[00:54:09] Can I just ask you a very quick fire
+[00:54:10] question? Regulatory sandbox,
+[00:54:12] Who loves it? Oh, thank
+[00:54:13] you. Who hates it?
+[00:54:15] That's, that's why. And what's next?
+[00:54:18] Um, it's, it's, it's been a really fascinating experience
+[00:54:23] and, and a very useful one, I hope.
+[00:54:25] Um, we've got, uh, we'll be publishing the, the,
+[00:54:29] the first formal instrument that comes out of it for a,
+[00:54:32] a fractionalized property investment next week.
+[00:54:34] Um, we've got, uh, other firms that simply needed guidance
+[00:54:39] and assistance on the way through.
+[00:54:41] A couple of things, um, that we've discovered on the way
+[00:54:43] through though, um, is particularly for providers of,
+[00:54:48] um, e-payment services, e-money, stable coins, we,
+[00:54:53] we simply lack the regulatory infrastructure that they need.
+[00:54:56] And it's, I'm not coming at that as a regulator that,
+[00:54:59] that we need that, that they need.
+[00:55:01] That's right. And what we are hearing from, um,
+[00:55:03] fintechs in particular is they can't export their services.
+[00:55:07] They won't, and products overseas, they can't connect
+[00:55:09] to Swift because they can't get a license in New Zealand
+[00:55:11] because there's nothing to license.
+[00:55:12] That's right. So a fair bit of the work that we're doing
+[00:55:16] with a couple of the firms is,
+[00:55:18] is almost torturing our regime to, to fit, uh, something
+[00:55:22] that's essentially a payment product.
+[00:55:24] Um, but it's, we, we've learned a lot along the way.
+[00:55:27] Um, our board will be looking soon at the,
+[00:55:31] the possibilities, um, for next,
+[00:55:33] for the, for the next round.
+[00:55:35] Um, but, but options include exploring more in ai,
+[00:55:38] continuing our work with, um, tokenization, uh, of course.
+[00:55:43] Um, so we'll, we'll see what comes with that.
+[00:55:46] And the, the, the issue, uh, the issue
+[00:55:49] that we're experiencing over, do we have a,
+[00:55:54] you know, is there a sufficient regulatory regime
+[00:55:57] around virtual assets?
+[00:56:00] Is, and, and that being one that is an export opportunity
+[00:56:04] for New Zealand and not, uh, you know, not, not, you know,
+[00:56:07] not, not a, not a regulatory burden is one that we see.
+[00:56:11] And we're talking about international comparisons.
+[00:56:14] We do see in other jurisdictions that they have adopted
+[00:56:20] a regulatory regime for virtual assets.
+[00:56:23] For example, regulating the use
+[00:56:24] of distributed ledger technology to hold
+[00:56:26] and transfer value as a, as a way
+[00:56:29] of bringing business into their jurisdiction.
+[00:56:32] Because it provides certainty.
+[00:56:34] It, you know, it's, it's not just access to swift,
+[00:56:36] it's access to bank accounts, it's access, it's it's being,
+[00:56:40] being a trusted provider, uh, if you are exporting, uh,
+[00:56:44] into, into other, other jurisdictions.
+[00:56:47] We had a round table, um, oh, a month
+[00:56:50] or two ago with, uh, the fin with, with, um, some
+[00:56:54] of the FinTech providers.
+[00:56:55] And this was a point that was coming through
+[00:56:57] that loud and loud and strong.
+[00:56:58] So I would, I do anticipate that you, you,
+[00:57:01] you will hear more from, not necessarily from us at all,
+[00:57:04] but from the, um, but, but,
+[00:57:07] but from the industry and from us.
+[00:57:09] And from us, yeah. Okay. And from us. From us as well. Yeah.
+[00:57:14] Right. Uh, that's, that's very good. So thank you so much.
+[00:57:16] Um, great.
+[00:57:18] Samantha and Ali, any concluding remarks from you?
+[00:57:21] Just thank you for, uh, your questions
+[00:57:23] and you are interested in what we're doing.
+[00:57:25] Really appreciate the inquiry. Thank you.
+[00:57:27] Thank you. Thank you so much.
+[00:57:29] Thank you very much. Thank you.
+[00:57:38] Into private session.

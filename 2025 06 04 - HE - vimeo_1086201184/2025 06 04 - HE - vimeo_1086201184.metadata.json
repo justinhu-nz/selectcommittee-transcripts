@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:08:15.878745+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1086201184",
+  "title": "2025 06 04 - HE",
+  "url": "https://vimeo.com/1086201184",
+  "published_at": "20250603",
+  "published_display": "2025-06-03",
+  "duration_seconds": 1787,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1777.74,
+    "segment_count": 588,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 04 - HE - vimeo_1086201184\\2025 06 04 - HE - vimeo_1086201184.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1086201184",
+    "display_id": "1086201184",
+    "title": "2025 06 04 - HE",
+    "description": "4 June 2025 | Health Committee\n\nReport of the Ombudsman, OIA timeliness obligations: Compliance and practice in Health New Zealand Te Whatu Ora; Report of the Ombudsman, OIA timeliness obligations: Compliance and practice in Pharmaceutical Management Agency Te P\u0101taka Whaioranga; Report of the Ombudsman, OPCAT Aged Care Monitoring, Chief Ombudsman's Observations 2021\u20132024\n\nOffice of the Ombudsman\nJohn Allen, Chief Ombudsman",
+    "webpage_url": "https://vimeo.com/1086201184",
+    "original_url": "https://vimeo.com/1086201184",
+    "upload_date": "20250603",
+    "timestamp": 1748984833,
+    "release_timestamp": 1748984843,
+    "duration": 1787,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2022893078-3082a44088784162b8aefa3f1acff65ed4b7bb5fbfefd06c6ba8193af6965826-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/234915239.vtt?expires=1778566100&sig=2f78db939369ec5346e717e1e6063c899a46f429&download=auto_generated_captions.vtt"
+  }
+}

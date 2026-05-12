@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:11.581577+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142297410",
+  "title": "2025/12/04 - EDSI (Part 1)",
+  "url": "https://vimeo.com/1142297410",
+  "published_at": "20251203",
+  "published_display": "2025-12-03",
+  "duration_seconds": 10836,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10836.24,
+    "segment_count": 3853,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - EDSI (Part 1) - vimeo_1142297410\\2025_12_04 - EDSI (Part 1) - vimeo_1142297410.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142297410",
+    "display_id": "1142297410",
+    "title": "2025/12/04 - EDSI (Part 1)",
+    "description": "Thursday 4 December 2025 | Economic Development Science and Innovation Committee\n\n2024/2025 Annual review of Ministry of Business, Innovation and Employment\n\nHearing of evidence:\n\nMinistry of Business, Innovation and Employment\n\nSuzanne Stew, Acting Chief Executive\nNic Blakeley, Deputy Secretary, Labour, Science and Enterprise\nRichard Griffiths, Deputy Secretary, Corporate and Digital Shared Services\nAlison McDonald, Deputy Secretary, Immigration\nRobert Pigou, Deputy Secretary, Regional Development & Commercial Services\nMelanie Porter, Deputy Secretary, Strategy and Assurance\nPaul Stocks, Deputy Secretary, Building, Resources and Markets\nIngrid Bayliss, Acting Deputy Secretary, Te Whakatairanga Service Delivery\nLesley McConnell, Chief Advisor to the Secretary\nPaul Helm, Chief Financial Officer\nJeannie Melville, Deputy Chief Operating Officer Immigration\nSimon Thomas, Head of Building System Delivery & Assurance\nAndy Hume, General manager, Commerce, Consumer and Business\nJivan Grewal, General Manager, Workplace Relations and Safety Policy\nDanette Olsen, General Manager, Science System Investment and Performance\nFiona Whiteridge, General Manager, Refugee and Migrant Services\nSteve Watson, General Manager, Immigration Compliance and Investigations",
+    "webpage_url": "https://vimeo.com/1142297410",
+    "original_url": "https://vimeo.com/1142297410",
+    "upload_date": "20251203",
+    "timestamp": 1764799595,
+    "release_timestamp": 1764799606,
+    "duration": 10836,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091372170-f74dafcd1ae55a042d24aa2e8c3d330ad9bb8a5290ac8283fc9590577eb648f9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269700816.vtt?expires=1778565915&sig=994c19457fdb1a18ab664313087bd58a3469cd66&download=auto_generated_captions.vtt"
+  }
+}

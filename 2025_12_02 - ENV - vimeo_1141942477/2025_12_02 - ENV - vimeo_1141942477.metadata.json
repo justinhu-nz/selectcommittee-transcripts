@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:17.333050+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1141942477",
+  "title": "2025/12/02 - ENV",
+  "url": "https://vimeo.com/1141942477",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 11754,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11748.81,
+    "segment_count": 4010,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - ENV - vimeo_1141942477\\2025_12_02 - ENV - vimeo_1141942477.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1141942477",
+    "display_id": "1141942477",
+    "title": "2025/12/02 - ENV",
+    "description": "Tuesday, 2nd December 2025 | Environment Committee\n\n2024/25 Annual review of the Department of Conservation\n\nHearing of evidence:\n\nDepartment of Conservation\n\nPenny Nelson, Director-General of Conservation\nSia Aston, Deputy Director-General Public Affairs\nPeter Galvin, Deputy Director-General Policy\nStephanie Rowe, Deputy Director-General Biodiversity, Heritage and Visitors\nSheridan Smith, Deputy Director-General Treaty Relationships\nMike Tully, Deputy Director-General Organisation Support\nHenry Weston, Deputy Director-General Regional Operations\nTim Bamford, Director Terrestrial Biodiversity",
+    "webpage_url": "https://vimeo.com/1141942477",
+    "original_url": "https://vimeo.com/1141942477",
+    "upload_date": "20251202",
+    "timestamp": 1764651005,
+    "release_timestamp": 1764651015,
+    "duration": 11754,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090035684-400b0e98556d8d23ff45a9735ee7947a6e100d3b8f7d76a3e701b809d26ae798-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268855364.vtt?expires=1778565741&sig=aaad8cc4cc1bdbd37a74e3c06ad60265f3f0966c&download=auto_generated_captions.vtt"
+  }
+}

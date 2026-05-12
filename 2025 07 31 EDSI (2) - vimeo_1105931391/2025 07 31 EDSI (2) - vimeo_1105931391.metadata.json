@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:03.276506+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1105931391",
+  "title": "2025 07 31 EDSI (2)",
+  "url": "https://vimeo.com/1105931391",
+  "published_at": "20250730",
+  "published_display": "2025-07-30",
+  "duration_seconds": 1884,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1880.43,
+    "segment_count": 650,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 31 EDSI (2) - vimeo_1105931391\\2025 07 31 EDSI (2) - vimeo_1105931391.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1105931391",
+    "display_id": "1105931391",
+    "title": "2025 07 31 EDSI (2)",
+    "description": "Review briefing on the 2023/24 annual review of the Real Estate Agents Authority\nReal Estate Agents Authority\nBelinda Moffat, Chief Executive/Registrar\nDenese Bates KC, REA Board Chair",
+    "webpage_url": "https://vimeo.com/1105931391",
+    "original_url": "https://vimeo.com/1105931391",
+    "upload_date": "20250730",
+    "timestamp": 1753914962,
+    "release_timestamp": 1753914974,
+    "duration": 1884,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042603161-2ea87a2db35fef4272cd3f39f3318818e9e2c48f082b67d45990121d4c98872a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/245197527.vtt?expires=1778565967&sig=70f9a30dd19fc8178711e4e044eb35d825dcae8c&download=auto_generated_captions.vtt"
+  }
+}

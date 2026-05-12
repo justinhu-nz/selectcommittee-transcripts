@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:48.533519+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1115327941",
+  "title": "2025 09 03 - HE Subcommittee B (Part 2)",
+  "url": "https://vimeo.com/1115327941",
+  "published_at": "20250903",
+  "published_display": "2025-09-03",
+  "duration_seconds": 1634,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1632.93,
+    "segment_count": 603,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 03 - HE Subcommittee B (Part 2) - vimeo_1115327941\\2025 09 03 - HE Subcommittee B (Part 2) - vimeo_1115327941.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1115327941",
+    "display_id": "1115327941",
+    "title": "2025 09 03 - HE Subcommittee B (Part 2)",
+    "description": "3 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nRare Disorders New Zealand\nTe Runanga o Ngati Ruanui Trust\nTe P\u016bhana Ora\nPhysiotherapy New Zealand\n\tKirsten Davie, President\n\tSimon Hoar, Chief Executive Officer",
+    "webpage_url": "https://vimeo.com/1115327941",
+    "original_url": "https://vimeo.com/1115327941",
+    "upload_date": "20250903",
+    "timestamp": 1756858126,
+    "release_timestamp": 1756858135,
+    "duration": 1634,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2054668684-fcaedc57391a246bef4f52e254b5730447533098096299d0033b6faab9c453f3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/251274484.vtt?expires=1778566013&sig=75fa8a536b72de042873afd43d2d138db0037f90&download=auto_generated_captions.vtt"
+  }
+}

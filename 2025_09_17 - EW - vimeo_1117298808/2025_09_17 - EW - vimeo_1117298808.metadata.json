@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:04:07.481401+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117298808",
+  "title": "2025/09/17 - EW",
+  "url": "https://vimeo.com/1117298808",
+  "published_at": "20250916",
+  "published_display": "2025-09-16",
+  "duration_seconds": 2163,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2162.76,
+    "segment_count": 804,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_17 - EW - vimeo_1117298808\\2025_09_17 - EW - vimeo_1117298808.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117298808",
+    "display_id": "1117298808",
+    "title": "2025/09/17 - EW",
+    "description": "Wednesday 17 September 2025 | Education and Workforce Committee\n\nEducation and Training (Early Childhood Education Reform) Amendment Bill\n\nSubmitters\n\nHon David Seymour, Associate Minister of Education\n\nDavid Haynes\n\nMargaret Stuart",
+    "webpage_url": "https://vimeo.com/1117298808",
+    "original_url": "https://vimeo.com/1117298808",
+    "upload_date": "20250916",
+    "timestamp": 1758056180,
+    "release_timestamp": 1758056188,
+    "duration": 2163,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2059733772-a4d568af854fbde8ff5e8ee99a39b7b8039f307913e30b7fdfbbae7f918cc684-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/253743580.vtt?expires=1778565852&sig=010ce423e7b5e322ccbc9842a4952b16d4373ee3&download=auto_generated_captions.vtt"
+  }
+}

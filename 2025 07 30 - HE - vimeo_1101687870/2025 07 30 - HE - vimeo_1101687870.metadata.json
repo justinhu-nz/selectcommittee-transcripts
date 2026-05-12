@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:25.538058+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1101687870",
+  "title": "2025 07 30 - HE",
+  "url": "https://vimeo.com/1101687870",
+  "published_at": "20250729",
+  "published_display": "2025-07-29",
+  "duration_seconds": 2412,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1740.07,
+    "segment_count": 532,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 07 30 - HE - vimeo_1101687870\\2025 07 30 - HE - vimeo_1101687870.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1101687870",
+    "display_id": "1101687870",
+    "title": "2025 07 30 - HE",
+    "description": "30 July 2025 | Health Committee\n\nReview briefing on the 2023/24 annual review of the Health Quality and Safety Commission New Zealand\nHealth Quality and Safety Commission\n\tRae Lamb, Chair\n\tKere Pomare, Director of Engagement and Impact and Acting Chief Executive\n\tRichard Hamblin, Director of Health Quality Intelligence\n\tDon Matheson, Director, National Mortality Review\n\tDr Martin Thomas, Director of Safety and Quality/Clinical Director\n\nReport of the Ombudsman, OIA timeliness obligations: Compliance and practice in Pharmaceutical Management Agency Te P\u0101taka Whaioranga\nPharmaceutical Management Agency\n\tBrendan Boyle, Chief Executive\nMinistry of Health\n\tBrent Johnston, Acting Deputy-Director General Performance & Governance",
+    "webpage_url": "https://vimeo.com/1101687870",
+    "original_url": "https://vimeo.com/1101687870",
+    "upload_date": "20250729",
+    "timestamp": 1753821759,
+    "release_timestamp": 1753821767,
+    "duration": 2412,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2042177071-4070bd21a1558f50aee84e13cebfb4d47c94c30a47cdb8bb376baeb0fa577832-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/244959207.vtt?expires=1778566050&sig=0b7ec6c5ffa506349fbc7210747ac8280e671728&download=auto_generated_captions.vtt"
+  }
+}

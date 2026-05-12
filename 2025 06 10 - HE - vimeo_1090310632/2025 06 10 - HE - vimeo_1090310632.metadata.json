@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:55.396649+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1090310632",
+  "title": "2025 06 10 - HE",
+  "url": "https://vimeo.com/1090310632",
+  "published_at": "20250610",
+  "published_display": "2025-06-10",
+  "duration_seconds": 9188,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9178.92,
+    "segment_count": 2723,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 10 - HE - vimeo_1090310632\\2025 06 10 - HE - vimeo_1090310632.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1090310632",
+    "display_id": "1090310632",
+    "title": "2025 06 10 - HE",
+    "description": "10 June 2025 | Health Committee\n\nMedicines Amendment Bill\nAlvina Edwards\nJacob Sorenson\nSOMA Group Ltd\n\tGreg Marshall\nBreast Cancer Aotearoa Coalition\n\tFay Sowerby\nThe Law Association of New Zealand\n\tKate MacKay, member of the Mental Health & Disability Law Committee\nMerck Sharp and Dohme (New Zealand)\nCancer Society of New Zealand\n\tDr Kate Gregory, Medical Director\n\tRachael Nuemann, Head of Advocacy and Public Affairs\nMark Baldwin\nThe College Of Nurses Aotearoa(NZ)Inc\n\tKate Weston, Executive Director\nJulia Rucklidge\nPharmaceutical Society of New Zealand\n\tMichael Hammond, President\n\tHelen Morgan-Banda, Chief Executive Officer\n\tLibby McCulloch, Professional Practice Pharmacist\nConsumer Healthcare Products Association of NZ Incorporated\nPharmaceutical Compounding NZ Ltd - Trading as CompoundLabs\nRoche Products (New Zealand) Limited\n\tAaron Hape, Government Affairs Partner\n\tJoanna Waugh, Regulatory Affairs Lead\n\tNadia Kaienua, Regulatory Affairs Partner\n\tLaura Haycock, Health Systems Partner\nRoyal Australasian College of Physicians (RACP)\n\tJanak De Zoysa, Aotearoa New Zealand President-Elect\n\tMatthew Doogue, Australasian Society of Clinical and Experimental Pharmacologists and \tToxicologists (ASCEPT) NZ Secretary\nWairewa Runanga Incorporated Society\n\tJaleesa Marie Kiriana Panirau,",
+    "webpage_url": "https://vimeo.com/1090310632",
+    "original_url": "https://vimeo.com/1090310632",
+    "upload_date": "20250610",
+    "timestamp": 1749526594,
+    "release_timestamp": 1749526611,
+    "duration": 9188,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2024979617-0b7aa4e257e84ad9a9f9cfd983c3a46d16ceb1b5f2aaba25911607245158518c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/236066196.vtt?expires=1778566079&sig=f56d557bd8fa838f59134c70cedc0aca95e750ca&download=auto_generated_captions.vtt"
+  }
+}

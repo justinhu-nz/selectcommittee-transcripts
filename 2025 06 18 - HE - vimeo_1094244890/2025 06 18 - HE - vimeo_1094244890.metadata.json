@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:41.013446+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1094244890",
+  "title": "2025 06 18 - HE",
+  "url": "https://vimeo.com/1094244890",
+  "published_at": "20250618",
+  "published_display": "2025-06-18",
+  "duration_seconds": 5309,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5308.06,
+    "segment_count": 1912,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 18 - HE - vimeo_1094244890\\2025 06 18 - HE - vimeo_1094244890.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1094244890",
+    "display_id": "1094244890",
+    "title": "2025 06 18 - HE",
+    "description": "18 June 2025 | Health Committee\n\nInquiry into the aged care sector's current and future capacity to provide support services for people experiencing neurological cognitive disorders\nIndependent Health and Aged Care Pricing Authority\n\tProf. Michael Pervan, CEO\nAgeing Australia\n\tTom Symondson, CEO\nNew Zealand Health Group\n\tMike Peters, CEO\n\tGrant Searchfield\nHammondCare\n\tCharles Hercus, General Manager Strategy & Policy\n\tDr Duncan McKellar, Acting Executive General Manager",
+    "webpage_url": "https://vimeo.com/1094244890",
+    "original_url": "https://vimeo.com/1094244890",
+    "upload_date": "20250618",
+    "timestamp": 1750219655,
+    "release_timestamp": 1750219665,
+    "duration": 5309,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2028173480-7604ebec9f5c58ba0c20b2672230759789d01ddcdb1bf3fb02edda6f27482303-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/237558058.vtt?expires=1778566065&sig=a68ce6f9c4833b0fda1a4e47966c02ff50c716de&download=auto_generated_captions.vtt"
+  }
+}

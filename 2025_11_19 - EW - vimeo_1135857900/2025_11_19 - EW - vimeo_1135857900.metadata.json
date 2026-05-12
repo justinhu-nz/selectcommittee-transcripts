@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:03:28.186675+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1135857900",
+  "title": "2025/11/19 - EW",
+  "url": "https://vimeo.com/1135857900",
+  "published_at": "20251118",
+  "published_display": "2025-11-18",
+  "duration_seconds": 2612,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2599.8,
+    "segment_count": 1027,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_19 - EW - vimeo_1135857900\\2025_11_19 - EW - vimeo_1135857900.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1135857900",
+    "display_id": "1135857900",
+    "title": "2025/11/19 - EW",
+    "description": "Wednesday 19 November 2025 | Education and Workforce Committee\n\nBriefing on the report of the Education Review Office: A new chapter, How well are the changes to English and maths going?\n\nHearing of Evidence:\n\nEducation Review Office\n   Nicholas Pole, Chief Executive and Chief Review Officer\n   Ruth Shinoda, Deputy Chief Executive, Evaluation and Policy\n   Rebecca Bjarnesen, Senior Manager, Evaluation and Policy\n\nMinistry of Education\n   Hayley Welch, Acting General Manager, New Zealand Curriculum and Te Wh\u0101riki, Te Pout\u0101h\u016b (Curriculum Centre)",
+    "webpage_url": "https://vimeo.com/1135857900",
+    "original_url": "https://vimeo.com/1135857900",
+    "upload_date": "20251118",
+    "timestamp": 1763495365,
+    "release_timestamp": 1763495372,
+    "duration": 2612,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2084548122-0c5cbe4d4a6290b61d123d1078ef978085340b030cfbf5ef404d76d4ae685496-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266061122.vtt?expires=1778565812&sig=71d1ae7a2cb763ee56afd68507064277bf757e4c&download=auto_generated_captions.vtt"
+  }
+}

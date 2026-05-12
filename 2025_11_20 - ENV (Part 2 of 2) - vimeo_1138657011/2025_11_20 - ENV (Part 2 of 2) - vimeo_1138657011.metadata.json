@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:53.073832+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138657011",
+  "title": "2025/11/20 - ENV (Part 2 of 2)",
+  "url": "https://vimeo.com/1138657011",
+  "published_at": "20251120",
+  "published_display": "2025-11-20",
+  "duration_seconds": 3565,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3560.51,
+    "segment_count": 1053,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_20 - ENV (Part 2 of 2) - vimeo_1138657011\\2025_11_20 - ENV (Part 2 of 2) - vimeo_1138657011.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138657011",
+    "display_id": "1138657011",
+    "title": "2025/11/20 - ENV (Part 2 of 2)",
+    "description": "Thursday, 20th November 2025 | Environment Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nParliamentary Commissioner for the Environment\nSimon Upton, Parliamentary Commissioner for the Environment\nRebecca Thornley, General Council\n\nPanel Convenor for the Fast Track Approvals Act 2024\nJane Borthwick, Panel Convenor\nJennifer Caldwell, Associate Convenor",
+    "webpage_url": "https://vimeo.com/1138657011",
+    "original_url": "https://vimeo.com/1138657011",
+    "upload_date": "20251120",
+    "timestamp": 1763600232,
+    "release_timestamp": 1763600241,
+    "duration": 3565,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2085214430-15658f9d7e8e34126e4c6a9c15241589fcc90da3ea455fa5fec9012d897c074b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/266421539.vtt?expires=1778565777&sig=57c0072d6d36cb93290310e23f45d390496f3426&download=auto_generated_captions.vtt"
+  }
+}

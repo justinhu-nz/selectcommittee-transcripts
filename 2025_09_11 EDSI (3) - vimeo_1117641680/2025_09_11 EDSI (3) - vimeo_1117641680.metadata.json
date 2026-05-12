@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:37.352209+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117641680",
+  "title": "2025/09/11 EDSI (3)",
+  "url": "https://vimeo.com/1117641680",
+  "published_at": "20250911",
+  "published_display": "2025-09-11",
+  "duration_seconds": 817,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 816.1,
+    "segment_count": 268,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_11 EDSI (3) - vimeo_1117641680\\2025_09_11 EDSI (3) - vimeo_1117641680.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117641680",
+    "display_id": "1117641680",
+    "title": "2025/09/11 EDSI (3)",
+    "description": "Patents Amendment Bill\n\n         Doug Calhoun\nFisher and Paykel Healthcare\n         Jon Harwood, General Manager \u2013 Intellectual Property\n          Tessa Whittle, Head of Corporate Affairs",
+    "webpage_url": "https://vimeo.com/1117641680",
+    "original_url": "https://vimeo.com/1117641680",
+    "upload_date": "20250911",
+    "timestamp": 1757555534,
+    "release_timestamp": 1757555542,
+    "duration": 817,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057632429-44b607021eabac1084e71849a771db0fd69e6a041a2cc11c5e8c6857c85ffad0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252764041.vtt?expires=1778565942&sig=8411aa58b0fa5f3e6129e84c87abc6a85d1771e7&download=auto_generated_captions.vtt"
+  }
+}

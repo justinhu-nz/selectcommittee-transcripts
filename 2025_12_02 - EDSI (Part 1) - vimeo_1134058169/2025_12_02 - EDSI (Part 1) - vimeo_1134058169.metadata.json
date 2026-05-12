@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:22.656586+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1134058169",
+  "title": "2025/12/02 - EDSI (Part 1)",
+  "url": "https://vimeo.com/1134058169",
+  "published_at": "20251202",
+  "published_display": "2025-12-02",
+  "duration_seconds": 3632,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3621.09,
+    "segment_count": 1321,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_02 - EDSI (Part 1) - vimeo_1134058169\\2025_12_02 - EDSI (Part 1) - vimeo_1134058169.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1134058169",
+    "display_id": "1134058169",
+    "title": "2025/12/02 - EDSI (Part 1)",
+    "description": "Tuesday 2 December 2025 | Economic Development Science and Innovation Committee\n\n2024/2025 Annual review of New Zealand Post Limited\n\nHearing of evidence:\n\nNew Zealand Post Limited\n\nDame Paula Rebstock, Chair NZ Post\nDavid Walsh, Chief Executive Officer\nRhonda Richardson, Chief Financial Officer\nMalcolm Shaw, Chief Governance and Sustainability Officer\nGreta Parker, External Communications Lead\nMatthew Kenning, Government Relations Advisor",
+    "webpage_url": "https://vimeo.com/1134058169",
+    "original_url": "https://vimeo.com/1134058169",
+    "upload_date": "20251202",
+    "timestamp": 1764644770,
+    "release_timestamp": 1764644777,
+    "duration": 3632,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2090334511-a14168c4361d6056d801a4697c89d923420f970ec9776fd959d8564763f70e0d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/268842596.vtt?expires=1778565927&sig=18a9bb578ec1e09f5b91f401af78eaba5960723a&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:49.761656+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1116659758",
+  "title": "2025/09/10 - GA Subcommittee B",
+  "url": "https://vimeo.com/1116659758",
+  "published_at": "20250910",
+  "published_display": "2025-09-10",
+  "duration_seconds": 14514,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 14513.5,
+    "segment_count": 4718,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_09_10 - GA Subcommittee B - vimeo_1116659758\\2025_09_10 - GA Subcommittee B - vimeo_1116659758.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1116659758",
+    "display_id": "1116659758",
+    "title": "2025/09/10 - GA Subcommittee B",
+    "description": "Wednesday, 10th September 2025 | Governance and Administration Subcommittee B\n\nOnline Casino Gambling Bill\n\nHearings:\n\nISMS Limited\nSam Arnold, Chief Executive Officer\n\nCommunities Against Alcohol Harm Inc\nDr Grant Hewison, Secretary\n\nSnow Sports NZ\nNic Cavanagh, Chief Executive Officer\n\nBlind Low Vision NZ\nAndrea Midgen, CEO\n\nAssociation of New Zealand Advertisers\nLindsay Mouat, Chief Executive\n\nSpecial Olympics Upper North Island Trust\nLaurinne Laing, Deputy Chairperson\n\nHalberg Foundation\nThomas Smith, Chief Executive\n\nClubs New Zealand\nLucy Waterreus, Chief Executive Officer\n\nSpecial Olympics Taupo Trust\nJim Harknett, Acting Chairman\n\nFruitvale School\nDonal McLean, Tumuaki\n\nBay of Plenty Badminton Association Inc\n\nStokes Valley Football Club Inc\nCasey Diver, President\n\nManor Park Golf Club\nDr Anne Alkema, President\nGraham Bennett, Club Captain\n\nBrass Band Association of New Zealand Inc\nJohn Sullivan, President\nHelen Lee, Executive Officer\n\nWaihi Beach Lifeguard Services Inc\nDonna Pfefferle, Chair\n\nPhilanthropy New Zealand\n\nTotara Park Mountain Bike Club Inc\nAlan Zuppicich, President\n\nMuseums Aotearoa\nSarah Maguire, Interim Chief Executive\n\nThe Court Theatre\nRichard Aindow, Chief Executive\n\nHawkes Bay Equestrian Park Inc\nYvonne Steers, Vice President\n\nTe Hiku Sports Hub Inc\nMark Osborne, General Manager\n\nTe Rangihaeata Oranga Trust\nCath Healey, General Manager\nMatthew Bennett, Board Chairman\n\nBuller Gymnastics Club Incorporated\nNikki Diskin, Chairperson\n\nHomebuilders West Coast Trust\nNikki Diskin, Operations and Funding Manager\n\nLevin Community Patrol\nOliver Bau, Secretary\n\nBrain Injury New Zealand\nClare Shufflebotham, National Administration Officer\nDr Kelly Jones, Vice President",
+    "webpage_url": "https://vimeo.com/1116659758",
+    "original_url": "https://vimeo.com/1116659758",
+    "upload_date": "20250910",
+    "timestamp": 1757465076,
+    "release_timestamp": 1757465091,
+    "duration": 14514,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2057222059-912be08c4e6d53ad9659f62afead9059295e47ba7987c132735b6f46c965a644-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/252539001.vtt?expires=1778566193&sig=bfe9c38e3d39fcb803b642fc79cc171ed70b35e0&download=auto_generated_captions.vtt"
+  }
+}

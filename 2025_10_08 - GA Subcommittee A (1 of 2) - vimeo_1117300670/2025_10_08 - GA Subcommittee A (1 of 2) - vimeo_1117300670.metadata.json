@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:14.454181+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117300670",
+  "title": "2025/10/08 - GA Subcommittee A (1 of 2)",
+  "url": "https://vimeo.com/1117300670",
+  "published_at": "20251007",
+  "published_display": "2025-10-07",
+  "duration_seconds": 5031,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5030.27,
+    "segment_count": 1681,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_08 - GA Subcommittee A (1 of 2) - vimeo_1117300670\\2025_10_08 - GA Subcommittee A (1 of 2) - vimeo_1117300670.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117300670",
+    "display_id": "1117300670",
+    "title": "2025/10/08 - GA Subcommittee A (1 of 2)",
+    "description": "Wednesday, 8th October 2025 | Governance and Administration Subcommittee A\n\nLocal Government (System Improvements) Amendment Bill\n\nHearing of evidence:\n\nMount Manganui ratepayers residents and retailers\u00a0\nTim Maltby\u00a0\n\nOraTaiao Aotearoa NZ Climate and Health Counci\u00a0\n\nRecreation Aotearoa\u00a0\nSarah Murray\u00a0\n\nWellington Community Justice Project\u00a0\nEmily Grown\u00a0\n\nQueenstown Lakes District Council\u00a0\nGlyn Lewers, Mayor\u00a0\n\nSociaLink Tuhono Papori\u00a0\nLiz Davies\u00a0\n\nOpotiki District Council\u00a0\nSteve Lewer\u00a0\n\nNew Zealand Forest Owners Association\nElizabeth Heeg\u00a0\n\nMackenzie District Council\u00a0\nKaren Morgan, Mayor",
+    "webpage_url": "https://vimeo.com/1117300670",
+    "original_url": "https://vimeo.com/1117300670",
+    "upload_date": "20251007",
+    "timestamp": 1759881111,
+    "release_timestamp": 1759881118,
+    "duration": 5031,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067848871-05f38b42c3caed7bb7823206409f21ba4b47ef9adec88169af48eea7e769d8d7-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257870795.vtt?expires=1778566158&sig=679143c42dd2e084f284d1946ea9a9f0135c479d&download=auto_generated_captions.vtt"
+  }
+}

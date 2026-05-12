@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:00:48.059135+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1138321162",
+  "title": "2025 11 27 FEC",
+  "url": "https://vimeo.com/1138321162",
+  "published_at": "20251126",
+  "published_display": "2025-11-26",
+  "duration_seconds": 2838,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2812.24,
+    "segment_count": 1011,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 11 27 FEC - vimeo_1138321162\\2025 11 27 FEC - vimeo_1138321162.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1138321162",
+    "display_id": "1138321162",
+    "title": "2025 11 27 FEC",
+    "description": "Thursday 27 November 2025\u00a0| Finance and Expenditure Committee\nReserve Bank of New Zealand Monetary Policy Statement November 2025\nReserve Bank of New Zealand\nKaren Silk, Assistant Governor, Money\nPaul Conway, Chief Economist\nChristian Hawkesby, Acting Governor",
+    "webpage_url": "https://vimeo.com/1138321162",
+    "original_url": "https://vimeo.com/1138321162",
+    "upload_date": "20251126",
+    "timestamp": 1764191076,
+    "release_timestamp": 1764191084,
+    "duration": 2838,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2088127134-40dff48bda6758b4f670a6de24bbbab7a3743d7c99c79344c4e704c5a663080a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267956620.vtt?expires=1778565652&sig=b25ece632f22134fbdefafa93725988fc123a9b0&download=auto_generated_captions.vtt"
+  }
+}

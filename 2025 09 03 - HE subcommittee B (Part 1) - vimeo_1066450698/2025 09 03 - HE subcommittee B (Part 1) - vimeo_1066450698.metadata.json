@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:06:55.984874+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1066450698",
+  "title": "2025 09 03 - HE subcommittee B (Part 1)",
+  "url": "https://vimeo.com/1066450698",
+  "published_at": "20250902",
+  "published_display": "2025-09-02",
+  "duration_seconds": 8652,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8642.8,
+    "segment_count": 2926,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 03 - HE subcommittee B (Part 1) - vimeo_1066450698\\2025 09 03 - HE subcommittee B (Part 1) - vimeo_1066450698.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1066450698",
+    "display_id": "1066450698",
+    "title": "2025 09 03 - HE subcommittee B (Part 1)",
+    "description": "3 September 2025 | Health Committee\n\nHealthy Futures (Pae Ora) Amendment Bill\nTe Puna Ora O Mataatua\nTim Tenbensel\nMoengaroa Edmonds\nTanya Wilton\nEmily Gill\nNeville Robertson\nRANZCOG - Royal Australian and New Zealand College of Obstetricians and Gynaecologists\n\tDr Sue Fleming, Vice President and Te K\u0101hui Oranga \u014d Nuku Chair\n\tDr Pelle Kempe, Chair\nSJP O'Neill (Simon)\nAti Awa Toa Hauora Partnership Board\nHikitia Ropata, Executive Chair\nTerry Taylor\nAustralian and New Zealand College of Anaesthetists (ANZCA)\n\tDr Rachel Dempsey, Chair\n\tDr Brendan Little, Deputy Chair\n\tMarilyn Head, Senior Policy Adviser\nRainbow Support Collective\n\tKate Collyns\nNew Zealand College of Public Health Medicine\n\tProfessor Sir Collin Tukuitonga\n\tDr Anna Stevenson\nArthritis New Zealand\nLeukaemia and Blood Cancer New Zealand\n\tRosie Shaw, Head of Advocacy\nKay Jones\nPaul Singh\nMuaupoko Tribal Authority",
+    "webpage_url": "https://vimeo.com/1066450698",
+    "original_url": "https://vimeo.com/1066450698",
+    "upload_date": "20250902",
+    "timestamp": 1756855921,
+    "release_timestamp": 1756855931,
+    "duration": 8652,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2054669030-3d62f932e70fd84bc94c0558c886f309dfb62b5845cb6a2169531bbb8220eaa3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/251270843.vtt?expires=1778566020&sig=187af4e45f648cbe2603124af3c970b24993b9fe&download=auto_generated_captions.vtt"
+  }
+}

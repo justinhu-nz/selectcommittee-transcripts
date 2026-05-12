@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:02:32.000279+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1140226467",
+  "title": "2025/11/25 - ENV - Part 2",
+  "url": "https://vimeo.com/1140226467",
+  "published_at": "20251125",
+  "published_display": "2025-11-25",
+  "duration_seconds": 10936,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 10928.65,
+    "segment_count": 3420,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_11_25 - ENV - Part 2 - vimeo_1140226467\\2025_11_25 - ENV - Part 2 - vimeo_1140226467.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1140226467",
+    "display_id": "1140226467",
+    "title": "2025/11/25 - ENV - Part 2",
+    "description": "Tuesday 25 November 2025 | Environmental Committee\n\nFast-track Approvals Amendment Bill\n\nHearing of evidence:\n\nTe\u00a0R\u016bnaka\u00a0o\u00a0\u014ct\u0101kou\u00a0\nEdward Ellison\nBrett Ellison\n\nHamilton City Council\u00a0\nBlair Bowcott\nGeoff Taylor\nMaria Huata\n\nTukituki Water Security Limited and Water Holdings Hawkes Bay Limited\u00a0\nJames Winchester\nMike Petersen\n\nRivers Group\nNicci Wood\n\nNew Zealand Fish & Game Council\u00a0\nHelen Brosnan\n\nEnvironmental Defence Society\u00a0\nShay Schlaepfer\nGreg Severinsen\n\nThe Tree Council\u00a0\nDr Mels Barton\n\nTauranga City Council\u00a0\nMahe Drysdale\nAndrew Mead\n\nCarter Group Limited\u00a0\nTim Carter\nJo Appleyard\nMeg Davidson\n\nLo Aleen\n\nRichard Suggate\n\nTe Runanga o\u00a0Ngati\u00a0Ruanui Trust\u00a0\nGraham Young\nNicola Coogan\n\nTe\u00a0R\u016bnanga\u00a0o\u00a0Toa\u00a0Rangatira\u00a0\nRobert McLean\nNick Mokomoko Stewart\nJaida Howard\n\nRidgeburn Limited\nAlex Devine\nCameron Hodgson\n\nKiwirail\nDavid Gordon\nMarija Batistich\n\nAuckland Council\nMiriama Knox\nJames Hassall\nDean Williams\n\nTe Korowai o Ngaruahine Trust\nTe Aorangi Dillon",
+    "webpage_url": "https://vimeo.com/1140226467",
+    "original_url": "https://vimeo.com/1140226467",
+    "upload_date": "20251125",
+    "timestamp": 1764040099,
+    "release_timestamp": 1764040114,
+    "duration": 10936,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2087574645-8a839c53bc1407250f0399f2f9af8d7d9e2f7098e9952a3199529725f35f5f1b-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/267496184.vtt?expires=1778565756&sig=90b138376741e22b08c0a47a0d88e1170be82d78&download=auto_generated_captions.vtt"
+  }
+}

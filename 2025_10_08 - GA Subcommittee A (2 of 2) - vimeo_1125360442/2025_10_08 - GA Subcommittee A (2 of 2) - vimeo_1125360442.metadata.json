@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:09:06.402889+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1125360442",
+  "title": "2025/10/08 - GA Subcommittee A (2 of 2)",
+  "url": "https://vimeo.com/1125360442",
+  "published_at": "20251008",
+  "published_display": "2025-10-08",
+  "duration_seconds": 1364,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1343.78,
+    "segment_count": 505,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_10_08 - GA Subcommittee A (2 of 2) - vimeo_1125360442\\2025_10_08 - GA Subcommittee A (2 of 2) - vimeo_1125360442.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1125360442",
+    "display_id": "1125360442",
+    "title": "2025/10/08 - GA Subcommittee A (2 of 2)",
+    "description": "Wednesday, 8th October 2025 | Governance and Administration Subcommittee A\n\nLocal Government (System Improvements) Amendment Bill\n\nHearing of evidence:\n\nZero Waste Aotearoa\u00a0\nSue Coutts\u00a0\n\nEnvironment Southland\u00a0\nNichol Howell, Chairman\u00a0\n\nWellington City Council Environmental Mayoral Forum\u00a0\n\nPiriakau Tribal Authority - Incorporated\u00a0\nJason Ake",
+    "webpage_url": "https://vimeo.com/1125360442",
+    "original_url": "https://vimeo.com/1125360442",
+    "upload_date": "20251008",
+    "timestamp": 1759883101,
+    "release_timestamp": 1759883113,
+    "duration": 1364,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2067849690-9687f24b503fe9dac3f50dea00923d288085153fb4f03f0dcba12b46fe3aca6e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/257875154.vtt?expires=1778566151&sig=33b2464db19f9e61e75adee5d0d5805ce6f85e9f&download=auto_generated_captions.vtt"
+  }
+}

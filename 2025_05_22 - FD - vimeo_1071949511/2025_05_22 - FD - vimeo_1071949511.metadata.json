@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:30.075332+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1071949511",
+  "title": "2025/05/22 - FD",
+  "url": "https://vimeo.com/1071949511",
+  "published_at": "20250521",
+  "published_display": "2025-05-21",
+  "duration_seconds": 1171,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1168.72,
+    "segment_count": 421,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_05_22 - FD - vimeo_1071949511\\2025_05_22 - FD - vimeo_1071949511.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1071949511",
+    "display_id": "1071949511",
+    "title": "2025/05/22 - FD",
+    "description": "Thursday 22 May 2025 | Foreign Affairs, Defence and Trade Committee \n\nUnited Arab Emirates Comprehensive Economic Partnership Agreement Legislation Amendment Bill\n\nHearing of evidence\n\nSubmitter list:\nNew Zealand Council of Trade Unions Te Kauae Kaimahi\n\nCatherine Sixtus",
+    "webpage_url": "https://vimeo.com/1071949511",
+    "original_url": "https://vimeo.com/1071949511",
+    "upload_date": "20250521",
+    "timestamp": 1747864246,
+    "release_timestamp": 1747864254,
+    "duration": 1171,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2018385674-632c753d21bd74446b81365f05d528cc40803ed0d89fa09130ad6ed2a42d0539-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/232467304.vtt?expires=1778566234&sig=7fbd123a829b8e6890c15e6511a6219ae2360251&download=auto_generated_captions.vtt"
+  }
+}

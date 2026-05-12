@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:07:17.332879+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1105643414",
+  "title": "2025 08 13 - HE",
+  "url": "https://vimeo.com/1105643414",
+  "published_at": "20250812",
+  "published_display": "2025-08-12",
+  "duration_seconds": 7368,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6772.18,
+    "segment_count": 2038,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 08 13 - HE - vimeo_1105643414\\2025 08 13 - HE - vimeo_1105643414.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1105643414",
+    "display_id": "1105643414",
+    "title": "2025 08 13 - HE",
+    "description": "13 August 2025 | Health Committee\nBriefing from Michael Papesch\nHealth New Zealand\u2014Te Whatu Ora\n\tDame Helen Stokes-Lampard, National Chief Medical Officer\n\tRachel Haggerty, Director, Funding - Hospitals, Planning, Funding and Outcomes\n\nPetition of Kathleen Walsh: Urgently find obstetric specialists for maternity services at Whakat\u0101ne Hospital\nKathleen Walsh\n\nPetition of Fluoride Free New Zealand: Stop water fluoridation\nFluoride Free New Zealand\n\tMary Byrne\n\tMark Atkin\n\nBriefing from Bronda Smith\nRoyal New Zealand College of General Practitioners\n\tDr Luke Bradford, Medical Director\n\nReport of the Controller and Auditor-General, Providing equitable access to planned care treatment\nOffice of the Auditor-General\n\tLeeanne McAviney, Assistant Auditor-General\n\tKaren Wong, Manager Sector Performance\n\tRichard Towers, Principal Performance Auditor",
+    "webpage_url": "https://vimeo.com/1105643414",
+    "original_url": "https://vimeo.com/1105643414",
+    "upload_date": "20250812",
+    "timestamp": 1755037843,
+    "release_timestamp": 1755037851,
+    "duration": 7368,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2047060029-912bd1a6a7378495b4c02f36e12b9f942c3850f8febfd68786032e274af9cb5f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/247550719.vtt?expires=1778566041&sig=8e6517367855e591f4a4694c69d6956a369c4e16&download=auto_generated_captions.vtt"
+  }
+}

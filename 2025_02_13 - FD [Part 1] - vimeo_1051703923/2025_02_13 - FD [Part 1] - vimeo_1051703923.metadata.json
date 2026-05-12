@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:01.913946+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1051703923",
+  "title": "2025/02/13 - FD [Part 1]",
+  "url": "https://vimeo.com/1051703923",
+  "published_at": "20250212",
+  "published_display": "2025-02-12",
+  "duration_seconds": 3744,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3733.28,
+    "segment_count": 1301,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_02_13 - FD [Part 1] - vimeo_1051703923\\2025_02_13 - FD [Part 1] - vimeo_1051703923.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1051703923",
+    "display_id": "1051703923",
+    "title": "2025/02/13 - FD [Part 1]",
+    "description": "Thursday 13 February 2025 | Foreign Affairs, Defence and Trade Committee\n\nInternational treaty examination of the Agreement Under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction; International treaty examination of the Agreement on Climate Change, Trade and Sustainability",
+    "webpage_url": "https://vimeo.com/1051703923",
+    "original_url": "https://vimeo.com/1051703923",
+    "upload_date": "20250212",
+    "timestamp": 1739394837,
+    "release_timestamp": 1739394849,
+    "duration": 3744,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1982346208-019e6b6b44c8f75a20cc386dab4020a49181afec3d48dfc52099e2d49d54b39d-d_1920x1080?&r=pad&region=us",
+    "width": 960,
+    "height": 540,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/213095124.vtt?expires=1778566266&sig=d1e5e64059e77f02a92ea6222fa9eb164739c03b&download=auto_generated_captions.vtt"
+  }
+}

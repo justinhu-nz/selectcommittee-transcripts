@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:08:04.008465+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1090276996",
+  "title": "2025 06 04 - HE",
+  "url": "https://vimeo.com/1090276996",
+  "published_at": "20250604",
+  "published_display": "2025-06-04",
+  "duration_seconds": 9034,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 9027.09,
+    "segment_count": 3209,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 06 04 - HE - vimeo_1090276996\\2025 06 04 - HE - vimeo_1090276996.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1090276996",
+    "display_id": "1090276996",
+    "title": "2025 06 04 - HE",
+    "description": "4 June 2025 | Health Committee\n\nMedicines Amendment Bill\n\nNZ Drug Foundation\n\tSarah Helm, Executive Director\nThe New Zealand Initiative\n\tDr Eric Crampton\nMedicines New Zealand\n\tDr Graeme Jarvis, Chief Executive Officer\nWellington Community Justice Project\n\tGemma Bennion\n\tFinn Studd\nJohn McDonald-Wharry (Zoom)\nANZCA - Australia and New Zealand College of Anaesthetists\nSteven Hectors\nNew Zealand Association of Optometrists\n\tDr Lesley Frederikson, Clinical Directorate\n\tHadyn Treanor, President\nNZ Outdoors and Freedom Party\nSue Grey\nClinical Advisory Pharmacists Association (CAPA)\n\tPenny Clark, Chair\n\tDr Linda Bryant, Previous Chair\nCouncil of Medical Colleges in New Zealand\nHato Hone St John\nWilhelmina Jannetje Vermeulen\nTe Hau Awhiowhio o Otangarei \n\tMargaret Hand, Nurse Practitioner\nBioOra Limited\n\tJohn Robson, Managing Director\nNew Zealand Companion Animal Specialists\n\tDr Ryan Cattin, Registered Specialist in Small Animal Internal Medicine ARC North",
+    "webpage_url": "https://vimeo.com/1090276996",
+    "original_url": "https://vimeo.com/1090276996",
+    "upload_date": "20250604",
+    "timestamp": 1748997994,
+    "release_timestamp": 1748998008,
+    "duration": 9034,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2022895768-1fdce838806cbbfdceaaf0ef9417fe56e9e7ccd483eb3d3a32107d4906c11ce9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/234949225.vtt?expires=1778566088&sig=480a633b41a6142c6e418e5602fffe18c42504c2&download=auto_generated_captions.vtt"
+  }
+}

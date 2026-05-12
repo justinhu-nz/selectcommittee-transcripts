@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:53.991247+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1035365856",
+  "title": "2024/12/03 - FD",
+  "url": "https://vimeo.com/1035365856",
+  "published_at": "20241203",
+  "published_display": "2024-12-03",
+  "duration_seconds": 12060,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12049.17,
+    "segment_count": 4190,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2024_12_03 - FD - vimeo_1035365856\\2024_12_03 - FD - vimeo_1035365856.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1035365856",
+    "display_id": "1035365856",
+    "title": "2024/12/03 - FD",
+    "description": "Tuesday, 3 December 2024 | Foreign Affairs, Defence and Trade Committee \n\nItem of business: \n\n2023/24 Annual review of the Ministry of Defence; 2023/24 Annual review of the New Zealand Defence Force\n\nHearing of evidence (2.30pm to 3.00pm): \n\nHon Judith Collins KC, Minister of Defence\nBrook Barrington, Chief Executive, Ministry of Defence\nAir Marshal Tony Davies, Chief of Defence Force\n\nHon Chris Penk, Minister for Veterans\nAlex Brunt, Acting General Manager Veterans Affairs\n\nHearing of evidence (3.00pm to 6.00pm): \n\nMinistry of Defence\n\nBrook Barrington, Chief Executive\nSarah Minson, Deputy Secretary - Capability Delivery\nPasanka Wickremasinghe, Chief Financial Officer\n\nNew Zealand Defence Force\n\nAir Marshal Tony Davies, Chief of Defence Force\nRear Admiral Mat Williams, Vice Chief of Defence Force\nBrigadier James Kennedy-Good, Director Defence Legal Service\nJacinda Funnell, Chief People Officer\nBridget Marks, Chief Finance Officer\nAlex Brunt, Acting General Manager Veterans Affairs\nMark Brunton, Head Defence Estate and Infrastructure",
+    "webpage_url": "https://vimeo.com/1035365856",
+    "original_url": "https://vimeo.com/1035365856",
+    "upload_date": "20241203",
+    "timestamp": 1733201610,
+    "release_timestamp": 1733201854,
+    "duration": 12060,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1959247156-122374ef599b27043180190a5b14f7ad07e2b4f3f7b953e6887dd0775ea01012-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/200136662.vtt?expires=1778566318&sig=710a267a710c9ee653bc66f3846866a1f5c40d69&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:11:14.516441+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1038322418",
+  "title": "2025/01/30 - FD [Part 1]",
+  "url": "https://vimeo.com/1038322418",
+  "published_at": "20250129",
+  "published_display": "2025-01-29",
+  "duration_seconds": 5546,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5545.14,
+    "segment_count": 1884,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_01_30 - FD [Part 1] - vimeo_1038322418\\2025_01_30 - FD [Part 1] - vimeo_1038322418.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1038322418",
+    "display_id": "1038322418",
+    "title": "2025/01/30 - FD [Part 1]",
+    "description": "Thursday 30 January 2025 | Foreign Affairs, Defence and Trade Committee",
+    "webpage_url": "https://vimeo.com/1038322418",
+    "original_url": "https://vimeo.com/1038322418",
+    "upload_date": "20250129",
+    "timestamp": 1738187035,
+    "release_timestamp": 1738187053,
+    "duration": 5546,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1976586624-87eb9451d84d21c7d0fcaf938aedef857b843268b357aa5900b46c3610900343-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/210199461.vtt?expires=1778566278&sig=8c22b611de59adb6d6bc66f3ea0801f9f68db45f&download=auto_generated_captions.vtt"
+  }
+}

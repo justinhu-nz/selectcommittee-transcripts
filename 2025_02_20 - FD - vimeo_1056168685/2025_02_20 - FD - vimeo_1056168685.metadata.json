@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:10:51.700697+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1056168685",
+  "title": "2025/02/20 - FD",
+  "url": "https://vimeo.com/1056168685",
+  "published_at": "20250219",
+  "published_display": "2025-02-19",
+  "duration_seconds": 2994,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2992.8,
+    "segment_count": 945,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_02_20 - FD - vimeo_1056168685\\2025_02_20 - FD - vimeo_1056168685.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1056168685",
+    "display_id": "1056168685",
+    "title": "2025/02/20 - FD",
+    "description": "Thursday 20 February 2025 | Foreign Affairs, Defence and Trade Committee\n\nInternational treaty examination of the NZ \u2013 UAE Comprehensive Economic Partnership Agreement, and Agreement between the Government of New Zealand and the Government of the United Arab Emirates on the Promotion and Protection of Investments\n\nSubmitters\n\nNga Toki Whakarururanga\n- Maui Solomon\n\nPirirakau Tribal Authority - Incorporated\n- Jason Ake\u00a0\n\nNZ International Business Forum\n- Stephen Jacobi, Executive Director\n\nJane Kelsey",
+    "webpage_url": "https://vimeo.com/1056168685",
+    "original_url": "https://vimeo.com/1056168685",
+    "upload_date": "20250219",
+    "timestamp": 1740001282,
+    "release_timestamp": 1740001295,
+    "duration": 2994,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1984542150-b1c752fc6671bef6d4783ccad3f6d9a30114b2e7d63d1b54e26655cd44756765-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/214529513.vtt?expires=1778566256&sig=61f28af1e99686b7baab6a969f77d44a91aed607&download=auto_generated_captions.vtt"
+  }
+}

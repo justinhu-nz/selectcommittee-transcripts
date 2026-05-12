@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:01:28.439552+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1118572210",
+  "title": "2025 09 15 (Finance and Expenditure subcommittee B) Part 2",
+  "url": "https://vimeo.com/1118572210",
+  "published_at": "20250914",
+  "published_display": "2025-09-14",
+  "duration_seconds": 4689,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4686.07,
+    "segment_count": 1489,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025 09 15 (Finance and Expenditure subcommittee B) Part 2 - vimeo_1118572210\\2025 09 15 (Finance and Expenditure subcommittee B) Part 2 - vimeo_1118572210.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1118572210",
+    "display_id": "1118572210",
+    "title": "2025 09 15 (Finance and Expenditure subcommittee B) Part 2",
+    "description": "Monday 15 September 2025\u00a0| Finance and Expenditure Committee\nFinancial Markets (Conduct of Institutions) Amendment (Duty to Provide Financial Services) Amendment Bill\nWestpac New Zealand\nCatherine McGrath, Chief Executive\nSarah Walters\nEamon Frazer\nChristopher Hawkins\nJulie Smith\nFred Overmars\nCarillon (Caril) Cowan\nDr. Debbie Hager\nWerner Geuther\nFederated Farmers of New Zealand\nMark Hooper, Board member Federated Farmers of NZ\nOliver Ibbetson, Government Relations Manager",
+    "webpage_url": "https://vimeo.com/1118572210",
+    "original_url": "https://vimeo.com/1118572210",
+    "upload_date": "20250914",
+    "timestamp": 1757892214,
+    "release_timestamp": 1757892226,
+    "duration": 4689,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2058872076-16603225659fc5cca133f9fef462ef68f9496400ef51c5644021339032997f9f-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/253321111.vtt?expires=1778565693&sig=cc25099c875b32a6890d8ce547e31bae6630cbeb&download=auto_generated_captions.vtt"
+  }
+}

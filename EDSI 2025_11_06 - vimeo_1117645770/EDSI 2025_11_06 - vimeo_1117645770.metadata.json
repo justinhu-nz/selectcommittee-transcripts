@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-12T04:05:32.765874+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117645770",
+  "title": "EDSI 2025/11/06",
+  "url": "https://vimeo.com/1117645770",
+  "published_at": "20251105",
+  "published_display": "2025-11-05",
+  "duration_seconds": 1639,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1637.69,
+    "segment_count": 519,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\EDSI 2025_11_06 - vimeo_1117645770\\EDSI 2025_11_06 - vimeo_1117645770.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1117645770",
+    "display_id": "1117645770",
+    "title": "EDSI 2025/11/06",
+    "description": "Briefing on artificial intelligence\n\nMinistry of Business, Innovation and Employment\n             Dean Ford, General Manager, Technology and Innovation\n             Simon Rae, Manager, Digital Futures Policy",
+    "webpage_url": "https://vimeo.com/1117645770",
+    "original_url": "https://vimeo.com/1117645770",
+    "upload_date": "20251105",
+    "timestamp": 1762371185,
+    "release_timestamp": 1762371191,
+    "duration": 1639,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2078783866-dea544ea7e1d53b99a712e191e9630fc77148d006def3290fb33f054bb458392-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/263309871.vtt?expires=1778565937&sig=15597599badbe6152a0922303bb12bbc15b23dbc&download=auto_generated_captions.vtt"
+  }
+}
