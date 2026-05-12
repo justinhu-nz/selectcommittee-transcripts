@@ -841,6 +841,18 @@
     });
 
     els.meetings.addEventListener("click", (event) => {
+      const toggle = event.target.closest(".desc-toggle");
+      if (toggle) {
+        const guid = toggle.dataset.guid;
+        if (state.expandedDescriptions.has(guid)) {
+          state.expandedDescriptions.delete(guid);
+        } else {
+          state.expandedDescriptions.add(guid);
+        }
+        render();
+        return;
+      }
+
       const button = event.target.closest(".open-reader");
       if (!button) return;
       openReader(button.dataset.guid);
