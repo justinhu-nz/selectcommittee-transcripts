@@ -145,6 +145,27 @@
       text-decoration: none;
     }
 
+    .description-panel {
+      display: grid;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .description-panel summary {
+      color: var(--blue);
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .description-panel p {
+      margin: 0;
+      max-height: 9.5rem;
+      overflow: auto;
+      padding-right: 4px;
+      white-space: pre-line;
+    }
+
     .search-panel {
       display: grid;
       grid-template-rows: auto auto minmax(0, 1fr);
@@ -312,6 +333,7 @@
     <aside class="video-panel">
       <div class="video-shell" id="videoShell"></div>
       <div class="panel links" id="links"></div>
+      <details class="panel description-panel" id="descriptionPanel"></details>
       <div class="panel search-panel">
         <input id="search" type="search" autocomplete="off" placeholder="Search this transcript">
         <div class="stats" id="stats"></div>
@@ -341,6 +363,7 @@
       viewer: document.getElementById("viewer"),
       videoShell: document.getElementById("videoShell"),
       links: document.getElementById("links"),
+      descriptionPanel: document.getElementById("descriptionPanel"),
       search: document.getElementById("search"),
       stats: document.getElementById("stats"),
       matches: document.getElementById("matches"),
@@ -362,6 +385,8 @@
       .replace(/\s+/g, " ")
       .trim()
       .slice(0, 120) || "transcript";
+
+    const titleFor = (meeting) => meeting?.displayTitle || meeting?.title || meeting?.sourceTitle || "Untitled meeting";
 
     const fetchJson = async (url, options = {}) => {
       const response = await fetch(url, options);
@@ -451,7 +476,7 @@
         return;
       }
 
-      els.videoShell.innerHTML = `<iframe id="vimeoPlayer" src="${escapeHtml(buildEmbedSrc())}" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="${escapeHtml(state.meeting.title)}"></iframe>`;
+      els.videoShell.innerHTML = `<iframe id="vimeoPlayer" src="${escapeHtml(buildEmbedSrc())}" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="${escapeHtml(titleFor(state.meeting))}"></iframe>`;
       state.iframe = document.getElementById("vimeoPlayer");
       state.player = window.Vimeo && state.iframe ? new Vimeo.Player(state.iframe) : null;
     };
@@ -487,7 +512,7 @@
 
     const downloadCleanTranscript = () => {
       const text = cleanTranscriptText();
-      const fileName = `${cleanFileName(state.meeting?.title)} - clean transcript.txt`;
+      const fileName = `${cleanFileName(titleFor(state.meeting))} - clean transcript.txt`;
       const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
       const url = URL.createObjectURL(blob);
       const link = document.createElement("a");
@@ -502,12 +527,14 @@
     const renderMeeting = () => {
       const meeting = state.meeting;
       const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
-      document.title = `${meeting.title} - Select Committee Transcripts`;
-      els.title.textContent = meeting.title;
+      const partLabel = meeting.partLabel ? `<span>${escapeHtml(meeting.partLabel)}</span>` : "";
+      document.title = `${titleFor(meeting)} - Select Committee Transcripts`;
+      els.title.textContent = titleFor(meeting);
       els.meta.innerHTML = `
         <span>${escapeHtml(meeting.date)}</span>
         <span>${escapeHtml(duration)}</span>
         <span class="tag">${escapeHtml(meeting.committee)}</span>
+        ${partLabel}
       `;
       els.links.innerHTML = `
         ${meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : ""}
@@ -517,6 +544,9 @@
         <button id="downloadCleanTxt" type="button">Download clean TXT</button>
         <a href="index.html">Search</a>
       `;
+      els.descriptionPanel.innerHTML = meeting.description
+        ? `<summary>Video description</summary><p>${escapeHtml(meeting.description)}</p>`
+        : "";
       state.chunks = state.transcript.chunks || [];
       els.state.hidden = true;
       els.viewer.hidden = false;
