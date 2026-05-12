@@ -147,6 +147,18 @@
       color: var(--muted);
     }
 
+    .desc-toggle {
+      margin-left: 6px;
+      border: 0;
+      background: transparent;
+      color: var(--blue);
+      font: inherit;
+      padding: 0;
+      cursor: pointer;
+    }
+
+    .desc-toggle:hover { text-decoration: underline; }
+
     .snippets {
       display: grid;
       gap: 8px;
@@ -378,6 +390,7 @@
       searchRun: 0,
       shardCache: new Map(),
       transcriptCache: new Map(),
+      expandedDescriptions: new Set(),
       activeMeeting: null,
       activeTranscript: null,
       readerQuery: ""
@@ -438,7 +451,18 @@
 
     const metadataMatches = (meeting, query) => {
       if (!query) return true;
-      return [meeting.title, meeting.date, meeting.committee, meeting.description]
+      return [
+        meeting.displayTitle,
+        meeting.sourceTitle,
+        meeting.title,
+        meeting.date,
+        meeting.committee,
+        meeting.topic,
+        meeting.partLabel,
+        meeting.descriptionSummary,
+        meeting.description,
+        meeting.showcaseId
+      ]
         .map(normalize)
         .join(" ")
         .includes(query);
@@ -591,6 +615,23 @@
       `).join("")}</div>`;
     };
 
+    const titleFor = (meeting) => meeting.displayTitle || meeting.title || meeting.sourceTitle || "Untitled meeting";
+
+    const renderDescription = (meeting, query) => {
+      const summary = meeting.descriptionSummary || meeting.topic || meeting.description || "";
+      const full = meeting.description || summary;
+      const expanded = state.expandedDescriptions.has(meeting.guid);
+      const text = expanded ? full : summary;
+      const canToggle = collapseWhitespace(full) && collapseWhitespace(full) !== collapseWhitespace(summary);
+      if (!text && !canToggle) return "";
+      return `
+        <p class="desc">
+          ${highlightText(text, query)}
+          ${canToggle ? `<button class="desc-toggle" type="button" data-guid="${escapeHtml(meeting.guid)}">${expanded ? "Less" : "More"}</button>` : ""}
+        </p>
+      `;
+    };
+
     const render = () => {
       if (!state.data) return;
       const query = normalize(state.query).trim();
@@ -611,16 +652,18 @@
         const vimeo = meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : "";
         const viewerHref = `viewer.html?guid=${encodeURIComponent(meeting.guid)}${query ? `&q=${encodeURIComponent(query)}` : ""}`;
         const matchLabel = transcriptMatch ? `<span>${transcriptMatch.count} transcript match${transcriptMatch.count === 1 ? "" : "es"}</span>` : "";
+        const partLabel = meeting.partLabel ? `<span>${escapeHtml(meeting.partLabel)}</span>` : "";
         return `
           <article class="meeting">
-            <h2>${escapeHtml(meeting.title)}</h2>
+            <h2>${escapeHtml(titleFor(meeting))}</h2>
             <div class="meta">
               <span>${escapeHtml(meeting.date)}</span>
               <span>${escapeHtml(duration)}</span>
               <span class="tag">${escapeHtml(meeting.committee)}</span>
+              ${partLabel}
               ${matchLabel}
             </div>
-            <p class="desc">${highlightText(meeting.description || "", query)}</p>
+            ${renderDescription(meeting, query)}
             ${renderTranscriptSnippets(transcriptMatch, snippetState, query)}
             <div class="links">
               <a href="${escapeHtml(viewerHref)}">Open transcript</a>
@@ -717,9 +760,10 @@
       const query = normalize(state.readerQuery).trim();
       const matches = query ? chunks.filter((chunk) => normalize(chunk.text).includes(query)) : [];
       const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
+      const partLabel = meeting.partLabel ? ` · ${meeting.partLabel}` : "";
 
-      els.readerTitle.textContent = meeting.title;
-      els.readerMeta.textContent = `${meeting.date} · ${duration} · ${meeting.committee}`;
+      els.readerTitle.textContent = titleFor(meeting);
+      els.readerMeta.textContent = `${meeting.date} · ${duration} · ${meeting.committee}${partLabel}`;
       els.readerLinks.innerHTML = `
         ${meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : ""}
         <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
@@ -762,7 +806,7 @@
       state.activeTranscript = null;
       state.readerQuery = state.query;
       els.readerSearch.value = state.readerQuery;
-      els.readerTitle.textContent = meeting.title;
+      els.readerTitle.textContent = titleFor(meeting);
       els.readerMeta.textContent = "Loading transcript...";
       els.readerTranscript.innerHTML = "";
       document.body.classList.add("reader-open");
