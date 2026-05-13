@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-12T23:47:46.388435+00:00",
-  "provider": "vimeo",
-  "media_id": "vimeo_989256818",
-  "title": "vimeo_989256818",
-  "url": "https://vimeo.com/989256818",
-  "published_at": "20240730",
-  "published_display": "2024-07-30",
-  "duration_seconds": 3413,
-  "source_labels": "Vimeo Showcase 10758262",
-  "transcript": {
-    "source": "whisper",
-    "language": "mi",
-    "duration_seconds": 3413.9733125,
-    "segment_count": 614,
-    "source_vtt_path": null
-  }
+    "generated_at":  "2026-05-12T23:47:46.388435+00:00",
+    "provider":  "vimeo",
+    "media_id":  "vimeo_989256818",
+    "title":  "vimeo_989256818",
+    "url":  "https://vimeo.com/989256818",
+    "published_at":  "20240730",
+    "published_display":  "2024-07-30",
+    "duration_seconds":  3413,
+    "source_labels":  "Vimeo Showcase 10758262",
+    "transcript":  {
+                       "source":  "whisper",
+                       "language":  "mi",
+                       "duration_seconds":  3413.9733125,
+                       "segment_count":  614,
+                       "source_vtt_path":  "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_989256818 - vimeo_989256818\\vimeo_989256818 - vimeo_989256818.en.vtt"
+                   }
 }
