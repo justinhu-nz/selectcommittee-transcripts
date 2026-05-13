@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-12T15:44:14.154663+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1101686690",
+  "title": "vimeo_1101686690",
+  "url": "https://vimeo.com/1101686690",
+  "published_at": "20250812",
+  "published_display": "2025-08-12",
+  "duration_seconds": 6506,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 6505.792,
+    "segment_count": 1178,
+    "source_vtt_path": null
+  }
+}

@@ -1,0 +1,3436 @@
+{
+  "language": "mi",
+  "duration": 3442.5813125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Away you go, we're happy to see you from one of those sorts of people."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Porina t\u0101tu."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Porina."
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Tena kata e a kotea Warbrick toku ingoa,"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "geiria hono te alawa iwi a tearoa waka,"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "ko Ng\u0101ti Rangitahi, Te Raurangi Ng\u0101ti Wahi o me tuwharetoa o ku iwi,"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "and I'm the DCE Strategic Engagement M\u0101ori Partnerships"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "and Data Capability at Stats Indeed."
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "Porina."
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "Morina t\u0101tu."
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Ko Anna McDow toku ingoa, ko Te Atiawa, Ng\u0101ti Kahanunu,"
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Ng\u0101ti Mania Pouto, Ng\u0101i Tuhoe o koe iwi,"
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "I'm the General Manager Strategic Engagement M\u0101ori Partnerships"
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": "and Outcomes at Stats Indeed."
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "text": "Excellent."
+    },
+    {
+      "start": 36.0,
+      "end": 39.0,
+      "text": "We're also joined on the screen by Rachel Wilcox,"
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": "and Rachel is our Principal Advisor,"
+    },
+    {
+      "start": 41.0,
+      "end": 43.0,
+      "text": "Data Operations and Infrastructure,"
+    },
+    {
+      "start": 43.0,
+      "end": 46.0,
+      "text": "unfortunately not able to be here in person today,"
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "so thank you for allowing her to be online."
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "text": "We're good."
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "text": "Excellent."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "Yeah, you just, if you'd like to just present,"
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": "just give us a name for it,"
+    },
+    {
+      "start": 55.0,
+      "end": 57.0,
+      "text": "and we've had the opportunity to read through"
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "the brief document that we've provided for the meeting,"
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "and, yeah, go from there, so thank you."
+    },
+    {
+      "start": 62.0,
+      "end": 63.0,
+      "text": "Good bye."
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": "I'll walk you there, and thank you for the invitation"
+    },
+    {
+      "start": 65.0,
+      "end": 68.0,
+      "text": "to brief you on the Integrated Data Infrastructure"
+    },
+    {
+      "start": 68.0,
+      "end": 71.0,
+      "text": "or what we commonly call the IDI."
+    },
+    {
+      "start": 71.0,
+      "end": 74.0,
+      "text": "We realised that the IDI is pretty complex,"
+    },
+    {
+      "start": 74.0,
+      "end": 77.0,
+      "text": "so we thought we'd just spend a short amount of time this morning"
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": "highlighting some of the key points"
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "that we've provided in the information that you've received."
+    },
+    {
+      "start": 84.0,
+      "end": 87.0,
+      "text": "We thought that would be a really useful sort of framework"
+    },
+    {
+      "start": 87.0,
+      "end": 91.0,
+      "text": "for opening up for conversation."
+    },
+    {
+      "start": 91.0,
+      "end": 94.0,
+      "text": "We've allowed, yeah, we'll be very brief,"
+    },
+    {
+      "start": 94.0,
+      "end": 97.0,
+      "text": "to allow and ensure that there's plenty of time for questions"
+    },
+    {
+      "start": 97.0,
+      "end": 101.0,
+      "text": "in the end, but if you'd prefer a more interactive session,"
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": "please feel free to jump in and ask us questions"
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": "as we're just walking through the intro."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "Before we get into the detail around the IDI,"
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": "we thought it might be really helpful to share a bit of context"
+    },
+    {
+      "start": 111.0,
+      "end": 115.0,
+      "text": "about the environment we're working in at Stats Endent."
+    },
+    {
+      "start": 115.0,
+      "end": 119.0,
+      "text": "So I think, you know, it's reasonably well understood"
+    },
+    {
+      "start": 119.0,
+      "end": 120.0,
+      "text": "and recognised that..."
+    },
+    {
+      "start": 120.0,
+      "end": 125.24,
+      "text": "that current government data systems don't deliver as well for Iwi y M\u0101ori,"
+    },
+    {
+      "start": 125.24,
+      "end": 126.76,
+      "text": "not as well as we'd like."
+    },
+    {
+      "start": 126.76,
+      "end": 131.56,
+      "text": "This impacts the quality of data at national and regional levels"
+    },
+    {
+      "start": 131.56,
+      "end": 137.8,
+      "text": "and means that M\u0101ori are not always accurately and meaningfully represented in data."
+    },
+    {
+      "start": 137.8,
+      "end": 141.92,
+      "text": "That can of course impact the quality of decision making for government"
+    },
+    {
+      "start": 141.92,
+      "end": 144.8,
+      "text": "as well as for Iwi themselves."
+    },
+    {
+      "start": 144.8,
+      "end": 152.4,
+      "text": "M\u0101ori haf consistently told government that they don't have all the data that they need to achieve their aspirations."
+    },
+    {
+      "start": 152.4,
+      "end": 159.4,
+      "text": "In many cases this affects their ability to design, deliver and evaluate services that work for their communities."
+    },
+    {
+      "start": 159.4,
+      "end": 174.4,
+      "text": "Sometimes the data does exist within government systems but it's not readily accessible or usable in ways that can support M\u0101ori to understand how they can deliver or identify their priorities."
+    },
+    {
+      "start": 175.4,
+      "end": 188.4,
+      "text": "In terms of the levers utilised by STATS NZ, we have a strategic, enterprise-wide focus on delivering better data outcomes for and with M\u0101ori iwi and hap\u016b."
+    },
+    {
+      "start": 188.4,
+      "end": 195.4,
+      "text": "This sees a strong emphasis on our TREA settlement and a called work with iwi and other government agencies,"
+    },
+    {
+      "start": 195.4,
+      "end": 208.4,
+      "text": "the mana \u014ctiti relationship that we have with the data iwi leaders group and of course working across STATS to ensure our staff are better equipped to recognise and act on data opportunities that will benefit iwi M\u0101ori."
+    },
+    {
+      "start": 208.4,
+      "end": 214.4,
+      "text": "We also have legislative levers that can be used to drive change across the government data system."
+    },
+    {
+      "start": 214.4,
+      "end": 221.4,
+      "text": "The Data and Statistics Act 2022 includes provisions that are designed to address current data system failings"
+    },
+    {
+      "start": 221.4,
+      "end": 226.4,
+      "text": "and to ensure more representative government data system into the future."
+    },
+    {
+      "start": 226.4,
+      "end": 239.4,
+      "text": "Section 14 of the Act Specific way requires that the government status-tush in, who is also currently out the air of STATS NZ, recognise the interests of M\u0101ori to build STATS capability."
+    },
+    {
+      "start": 240.0,
+      "end": 243.12,
+      "text": "to engage and understand M\u0101ori interests and data,"
+    },
+    {
+      "start": 243.12,
+      "end": 245.28,
+      "text": "but also to foster the capability of M\u0101ori"
+    },
+    {
+      "start": 245.28,
+      "end": 248.36,
+      "text": "to collect data, produce statistics,"
+    },
+    {
+      "start": 248.36,
+      "end": 251.92,
+      "text": "and use data for research and engage with stats NZ."
+    },
+    {
+      "start": 251.92,
+      "end": 253.24,
+      "text": "That's probably enough for me."
+    },
+    {
+      "start": 253.24,
+      "end": 254.64,
+      "text": "You're comfortable if I hand over"
+    },
+    {
+      "start": 254.64,
+      "end": 256.4,
+      "text": "to get more into the IDO?"
+    },
+    {
+      "start": 256.4,
+      "end": 257.4,
+      "text": "Absolutely."
+    },
+    {
+      "start": 257.4,
+      "end": 258.92,
+      "text": "Thanks, Tata."
+    },
+    {
+      "start": 258.92,
+      "end": 262.68,
+      "text": "So I will highlight probably just a few elements of the IDO."
+    },
+    {
+      "start": 262.68,
+      "end": 264.2,
+      "text": "As Tia said, it's bit complex."
+    },
+    {
+      "start": 264.2,
+      "end": 265.6,
+      "text": "So we'll work our way through it"
+    },
+    {
+      "start": 265.6,
+      "end": 268.76,
+      "text": "and then also talk briefly but more specifically"
+    },
+    {
+      "start": 268.76,
+      "end": 270.44,
+      "text": "about the work that we currently do"
+    },
+    {
+      "start": 270.44,
+      "end": 272.4,
+      "text": "with Iwi and M\u0101ori as well in that space."
+    },
+    {
+      "start": 272.4,
+      "end": 276.48,
+      "text": "So as you have seen, we at stats NZ"
+    },
+    {
+      "start": 276.48,
+      "end": 280.32,
+      "text": "maintain two integrated databases."
+    },
+    {
+      "start": 280.32,
+      "end": 282.16,
+      "text": "One about people and households,"
+    },
+    {
+      "start": 282.16,
+      "end": 284.12,
+      "text": "which is the IDI, and our focus today."
+    },
+    {
+      "start": 284.12,
+      "end": 286.76,
+      "text": "And the other, the Longitudinal Business Database,"
+    },
+    {
+      "start": 286.76,
+      "end": 289.36,
+      "text": "or the LVD, which is about businesses."
+    },
+    {
+      "start": 289.36,
+      "end": 291.72,
+      "text": "Those two databases do talk to each other"
+    },
+    {
+      "start": 291.72,
+      "end": 293.76,
+      "text": "through the Inland Revenue Information."
+    },
+    {
+      "start": 293.76,
+      "end": 296.88,
+      "text": "So we can link employer and employee information."
+    },
+    {
+      "start": 296.88,
+      "end": 298.52,
+      "text": "And so people do do research"
+    },
+    {
+      "start": 298.8,
+      "end": 301.52,
+      "text": "that covers both of those databases."
+    },
+    {
+      "start": 304.16,
+      "end": 308.4,
+      "text": "The IDI contains a range of data about events, services,"
+    },
+    {
+      "start": 308.4,
+      "end": 313.44,
+      "text": "so education, income, benefits, migration, justice, health."
+    },
+    {
+      "start": 313.44,
+      "end": 316.8,
+      "text": "There's data in there from across all of those areas."
+    },
+    {
+      "start": 316.8,
+      "end": 320.2,
+      "text": "And the data itself comes from government agencies,"
+    },
+    {
+      "start": 320.2,
+      "end": 321.92,
+      "text": "from stats NZ, so the census,"
+    },
+    {
+      "start": 321.92,
+      "end": 325.6,
+      "text": "and pretty much all of our social survey information is in there."
+    },
+    {
+      "start": 325.64,
+      "end": 329.52,
+      "text": "There was also some non-government organisation data in the IDI."
+    },
+    {
+      "start": 332.48,
+      "end": 336.92,
+      "text": "In terms of history, we've been integrating data at stats NZ"
+    },
+    {
+      "start": 336.92,
+      "end": 338.2,
+      "text": "since 1997."
+    },
+    {
+      "start": 338.2,
+      "end": 340.52,
+      "text": "And about that time, there was a Cabinet directive"
+    },
+    {
+      "start": 340.52,
+      "end": 342.12,
+      "text": "that actually if you're going to integrate"
+    },
+    {
+      "start": 342.12,
+      "end": 343.92,
+      "text": "more than one data set together,"
+    },
+    {
+      "start": 343.92,
+      "end": 347.0,
+      "text": "that stats NZ was a good place to do that."
+    },
+    {
+      "start": 347.0,
+      "end": 350.48,
+      "text": "And a large amount of the reasoning behind that"
+    },
+    {
+      "start": 350.48,
+      "end": 353.24,
+      "text": "is that the legislation that we do have"
+    },
+    {
+      "start": 353.24,
+      "end": 356.56,
+      "text": "that enables that to be done safely."
+    },
+    {
+      "start": 356.56,
+      "end": 360.0,
+      "text": "At the time, we were very much about..."
+    },
+    {
+      "start": 360.0,
+      "end": 390.0,
+      "text": "te iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi iwi"
+    },
+    {
+      "start": 390.0,
+      "end": 392.64,
+      "text": "w\u0113 starta te s\u012bsa m\u014d signifikata expansion."
+    },
+    {
+      "start": 392.64,
+      "end": 395.08,
+      "text": "It was the time of better public service measures"
+    },
+    {
+      "start": 395.08,
+      "end": 397.88,
+      "text": "and social investment emerging."
+    },
+    {
+      "start": 397.88,
+      "end": 402.68,
+      "text": "And so we looked really hard at how we needed to grow it,"
+    },
+    {
+      "start": 402.68,
+      "end": 406.0,
+      "text": "how we did that safely and how we get more analytical capability"
+    },
+    {
+      "start": 406.0,
+      "end": 408.12,
+      "text": "being able to be utilised in the IDI."
+    },
+    {
+      "start": 409.72,
+      "end": 414.64,
+      "text": "That was also when we moved to a broader space"
+    },
+    {
+      "start": 414.64,
+      "end": 416.0,
+      "text": "than a labour market focus."
+    },
+    {
+      "start": 416.0,
+      "end": 419.68,
+      "text": "And so for the first time you could see more children"
+    },
+    {
+      "start": 419.76,
+      "end": 422.12,
+      "text": "and old people in the IDI as well."
+    },
+    {
+      "start": 423.32,
+      "end": 424.92,
+      "text": "And that's really important in terms of"
+    },
+    {
+      "start": 424.92,
+      "end": 426.68,
+      "text": "what you would have seen in the briefing."
+    },
+    {
+      "start": 426.68,
+      "end": 429.68,
+      "text": "There's a central linking spine in the IDI."
+    },
+    {
+      "start": 430.64,
+      "end": 434.32,
+      "text": "So that aims to create an ever-resident population."
+    },
+    {
+      "start": 434.32,
+      "end": 436.96,
+      "text": "So it's bigger than the population of New Zealand"
+    },
+    {
+      "start": 436.96,
+      "end": 440.64,
+      "text": "because it's not a resident right now situation."
+    },
+    {
+      "start": 441.0,
+      "end": 442.8,
+      "text": "And that works"
+    },
+    {
+      "start": 444.04,
+      "end": 447.36,
+      "text": "because there are three data sets that we link together"
+    },
+    {
+      "start": 447.36,
+      "end": 448.56,
+      "text": "to create the spine."
+    },
+    {
+      "start": 448.6,
+      "end": 450.52,
+      "text": "And so we have birth registrations"
+    },
+    {
+      "start": 450.52,
+      "end": 452.64,
+      "text": "from the Department of Internal Affairs."
+    },
+    {
+      "start": 452.64,
+      "end": 457.08,
+      "text": "We have visa or migration information from MB."
+    },
+    {
+      "start": 457.08,
+      "end": 461.0,
+      "text": "And we also have tax data from in-led revenue."
+    },
+    {
+      "start": 461.0,
+      "end": 463.2,
+      "text": "We link those three data sets together"
+    },
+    {
+      "start": 464.36,
+      "end": 465.56,
+      "text": "to create our spine"
+    },
+    {
+      "start": 465.56,
+      "end": 468.28,
+      "text": "and then all other event-type data sets"
+    },
+    {
+      "start": 468.28,
+      "end": 470.8,
+      "text": "or information is linked to the spine."
+    },
+    {
+      "start": 470.8,
+      "end": 473.84,
+      "text": "There are two ways in which we do the linking in the IDI"
+    },
+    {
+      "start": 473.84,
+      "end": 477.84,
+      "text": "and without getting into too much of the technical detail"
+    },
+    {
+      "start": 478.56,
+      "end": 480.0,
+      "text": "the two are one."
+    },
+    {
+      "start": 480.0,
+      "end": 488.32,
+      "text": "we can directly or deterministic link data, so that's where there is a unique identifier"
+    },
+    {
+      "start": 488.32,
+      "end": 494.4,
+      "text": "and two sets of data that we can link together directly. So, for example, your NHI number from"
+    },
+    {
+      "start": 494.4,
+      "end": 500.08,
+      "text": "the health system or your inland revenue number from the tax system, if those identifiers exist"
+    },
+    {
+      "start": 500.08,
+      "end": 504.0,
+      "text": "on two datasets, we will directly link. The other way in which we link, which is"
+    },
+    {
+      "start": 504.96,
+      "end": 511.44,
+      "text": "probabilistic, which is where we use name, sex, date of birth, and increasingly address"
+    },
+    {
+      "start": 511.44,
+      "end": 520.16,
+      "text": "information to link datasets together. There's more opportunity for a bit of noise or error"
+    },
+    {
+      "start": 520.16,
+      "end": 525.44,
+      "text": "in that linking, so we work really hard to keep on top of that and make sure that we're"
+    },
+    {
+      "start": 525.44,
+      "end": 537.25,
+      "text": "really clear about the amount of error in that sort of linking. Each time we refresh the IDI,"
+    },
+    {
+      "start": 538.13,
+      "end": 546.61,
+      "text": "we collect data from almost, I think, now 30 data supplies. This is all done via"
+    },
+    {
+      "start": 546.61,
+      "end": 554.93,
+      "text": "secure file transfer and the data is on the whole fully resupplied each time we update the IDI."
+    },
+    {
+      "start": 555.89,
+      "end": 559.41,
+      "text": "There's a lot of quality checking and work that we do to ensure that we're able to do"
+    },
+    {
+      "start": 559.41,
+      "end": 566.69,
+      "text": "this the best we can. We remove all of the identifiable information before we make it"
+    },
+    {
+      "start": 566.69,
+      "end": 571.01,
+      "text": "available for research use and I'll get under that a little bit in a second."
+    },
+    {
+      "start": 572.13,
+      "end": 577.09,
+      "text": "We update the IDI itself three times each year. We do that in March, June and October."
+    },
+    {
+      "start": 578.05,
+      "end": 584.69,
+      "text": "There are some data loads that we do more frequently and that is because the"
+    },
+    {
+      "start": 584.69,
+      "end": 588.77,
+      "text": "unique identifier is on that data and that unique identifier is already in the IDI"
+    },
+    {
+      "start": 589.89,
+      "end": 594.37,
+      "text": "and that includes things like some of the tax information comes through more regularly than"
+    },
+    {
+      "start": 595.49,
+      "end": 599.89,
+      "text": "the quarterly update. There are two guiding"
+    },
+    {
+      "start": 600.0,
+      "end": 606.32,
+      "text": "pieces of legislation that underpin our ability to be able to safely manage and provide access"
+    },
+    {
+      "start": 606.32,
+      "end": 615.36,
+      "text": "to the IDI and that is the Data and Statistics Act 2022 and the Privacy Act 2020. The IDI is often"
+    },
+    {
+      "start": 615.36,
+      "end": 621.52,
+      "text": "described as being privacy by design in terms of how we put it together and so that means we"
+    },
+    {
+      "start": 621.52,
+      "end": 628.24,
+      "text": "build and provide access to the IDI primarily ensuring that individuals information is remained"
+    },
+    {
+      "start": 628.24,
+      "end": 636.8,
+      "text": "confidential. That's great. It also at times causes us some difficulty for example if someone"
+    },
+    {
+      "start": 636.8,
+      "end": 643.84,
+      "text": "wants to understand exactly what data of theirs as an individual is in the IDI we'd have to unpick"
+    },
+    {
+      "start": 643.84,
+      "end": 650.16,
+      "text": "quite a significant amount of work to do that so there are always balances to be had with a"
+    },
+    {
+      "start": 650.16,
+      "end": 658.48,
+      "text": "database that's as broad and detailed as the IDI so we work really hard to maintain the safety"
+    },
+    {
+      "start": 658.48,
+      "end": 665.36,
+      "text": "parameters around it. We have absolutely suggesting that an individual has a right to know what's"
+    },
+    {
+      "start": 665.36,
+      "end": 673.6,
+      "text": "information is recorded against you. How is an individual on that out? What's the process?"
+    },
+    {
+      "start": 674.16,
+      "end": 678.8,
+      "text": "It's pretty difficult because of the way we pull it together it is something that we would like to"
+    },
+    {
+      "start": 678.8,
+      "end": 686.32,
+      "text": "be able to do much more easily. It actually at this stage isn't generally that easy and would probably"
+    },
+    {
+      "start": 686.32,
+      "end": 692.24,
+      "text": "be it's more efficient to actually be able to understand what the source data is that you might"
+    },
+    {
+      "start": 692.24,
+      "end": 698.4,
+      "text": "have in the IDI and work it through that way. So the privacy mechanisms that we put in place"
+    },
+    {
+      "start": 699.68,
+      "end": 705.68,
+      "text": "ensure that privacy at that group level and at the individuals when data is coming out"
+    },
+    {
+      "start": 705.76,
+      "end": 711.84,
+      "text": "it does mean that because of the mechanisms we've got in place we can't easily I couldn't easily if I"
+    },
+    {
+      "start": 711.84,
+      "end": 717.04,
+      "text": "requested it I couldn't easily find out I've got that record that record and that record from these"
+    },
+    {
+      "start": 717.04,
+      "end": 719.84,
+      "text": "service provisions that are in the IDI. In your histories."
+    },
+    {
+      "start": 720.0,
+      "end": 722.8,
+      "text": "whether there have been any problems with privacy?"
+    },
+    {
+      "start": 723.0,
+      "end": 724.48,
+      "text": "Like any privacy incidents?"
+    },
+    {
+      "start": 724.68,
+      "end": 725.8,
+      "text": "Any\u2026"
+    },
+    {
+      "start": 726.0,
+      "end": 728.44,
+      "text": "No, we haven't had any yeah yeah."
+    },
+    {
+      "start": 728.64,
+      "end": 731.16,
+      "text": "We and actually that segways"
+    },
+    {
+      "start": 731.36,
+      "end": 733.48,
+      "text": "really nicely into the frameworks we use"
+    },
+    {
+      "start": 733.68,
+      "end": 736.36,
+      "text": "to protect privacy and the safety of the data."
+    },
+    {
+      "start": 736.56,
+      "end": 737.68,
+      "text": "So we have two"
+    },
+    {
+      "start": 738.4,
+      "end": 741.2,
+      "text": "that we use, one has been around"
+    },
+    {
+      "start": 741.4,
+      "end": 744.4,
+      "text": "for longer than the i di and that's the 5 safe framework"
+    },
+    {
+      "start": 744.6,
+      "end": 747.32,
+      "text": "and we outlined that in the brief."
+    },
+    {
+      "start": 747.32,
+      "end": 755.2,
+      "text": "The five SACES is designed to work like a bit of a team, so it's about the safe people, safe projects, safe settings, safe data and safe outputs."
+    },
+    {
+      "start": 756.48,
+      "end": 773.52,
+      "text": "And so we look at the settings across the five and so for example, the data we provide access to for researchers is de-identified, so there is no identifying information remained on."
+    },
+    {
+      "start": 773.52,
+      "end": 787.8,
+      "text": "There's still a lot of information in there, and so by making sure that let's, for example, they're in a setting, a physical setting and technology settings that are controlled and we've also got relationships with each of the researchers."
+    },
+    {
+      "start": 787.8,
+      "end": 797.32,
+      "text": "So there's a trust environment there, then we're using the group of the five SACES collectively to manage our responsibilities."
+    },
+    {
+      "start": 797.4,
+      "end": 799.48,
+      "text": "So an issue, just chip in. Anybody chip in?"
+    },
+    {
+      "start": 799.48,
+      "end": 800.68,
+      "text": "Yeah, please do. Sorry."
+    },
+    {
+      "start": 800.68,
+      "end": 801.88,
+      "text": "Thank you, Mr Chair."
+    },
+    {
+      "start": 801.88,
+      "end": 805.12,
+      "text": "And just another question about the Privacy Act requirements."
+    },
+    {
+      "start": 805.12,
+      "end": 809.56,
+      "text": "So the other requirement is the ability to correct data that's held as well."
+    },
+    {
+      "start": 809.56,
+      "end": 811.92,
+      "text": "Is that a function that you're looking at?"
+    },
+    {
+      "start": 811.92,
+      "end": 821.4,
+      "text": "And then the second part was there's currently a bill before the House on amendments to privacy laws in terms of indirect collection of data from indirect sources."
+    },
+    {
+      "start": 821.4,
+      "end": 826.0,
+      "text": "Is that something that you're kind of pre-empting in terms of the requirements there?"
+    },
+    {
+      "start": 826.04,
+      "end": 838.72,
+      "text": "The first bit I think I can probably tackle, and I think the second bit we might have to ask general counsel for some people or a policy manager."
+    },
+    {
+      "start": 838.72,
+      "end": 839.96,
+      "text": "So in terms of correct..."
+    },
+    {
+      "start": 840.0,
+      "end": 844.76,
+      "text": "information, we would go back to the source and ask for the information to be corrected"
+    },
+    {
+      "start": 844.76,
+      "end": 850.9,
+      "text": "at the source so that the agency who supplies the data, because we're getting those new"
+    },
+    {
+      "start": 850.9,
+      "end": 853.64,
+      "text": "supplies through, we can correct that that way."
+    },
+    {
+      "start": 853.64,
+      "end": 859.8,
+      "text": "Thank you, Sarah. This is Sarah, general councillor."
+    },
+    {
+      "start": 859.8,
+      "end": 865.52,
+      "text": "Kia ora, kata. I'm Sarah Duen Toko, i'm general manager, risk and assurance and general"
+    },
+    {
+      "start": 865.52,
+      "end": 871.32,
+      "text": "councillor at Stats, and quite a quick answer for you is that our understanding at the moment"
+    },
+    {
+      "start": 871.32,
+      "end": 877.32,
+      "text": "is that new requirement will have an exemption for an legislation, because it would be quite"
+    },
+    {
+      "start": 877.32,
+      "end": 880.76,
+      "text": "difficult, but we are still thinking about how that's going to work with us, with our"
+    },
+    {
+      "start": 880.76,
+      "end": 886.28,
+      "text": "partners, and also hoping there's some guidance from the Privacy Commission as well about"
+    },
+    {
+      "start": 886.28,
+      "end": 889.12,
+      "text": "your expectations around that. So we'll see you with then."
+    },
+    {
+      "start": 889.12,
+      "end": 890.12,
+      "text": "Thank you."
+    },
+    {
+      "start": 890.84,
+      "end": 891.84,
+      "text": "Sarah?"
+    },
+    {
+      "start": 891.84,
+      "end": 897.08,
+      "text": "Happy for me to clarify for a little bit. I won't take too much more time. So we've got"
+    },
+    {
+      "start": 897.08,
+      "end": 902.36,
+      "text": "the five safes. Our other framework we use is Ngati Kungapai Hedi, and that's really"
+    },
+    {
+      "start": 902.36,
+      "end": 907.08,
+      "text": "about ensuring that we bring the people and their stories that sit behind the data"
+    },
+    {
+      "start": 907.08,
+      "end": 913.52,
+      "text": "to the forefront of our processes and the researchers who use the data. So it encourages safe"
+    },
+    {
+      "start": 913.52,
+      "end": 918.48,
+      "text": "and ethical use of data by considering the impact on people the data is about and"
+    },
+    {
+      "start": 918.52,
+      "end": 923.32,
+      "text": "encouraging relationships and collaboration and certainly sharing of"
+    },
+    {
+      "start": 923.32,
+      "end": 929.36,
+      "text": "results with the population of interest that research projects are about. The two"
+    },
+    {
+      "start": 929.36,
+      "end": 933.6,
+      "text": "frameworks we use are really complementary, and they really help our researchers to"
+    },
+    {
+      "start": 933.6,
+      "end": 939.04,
+      "text": "understand their responsibilities and how they can work with communities"
+    },
+    {
+      "start": 939.04,
+      "end": 944.28,
+      "text": "across New Zealand to get the most value out of the data. In terms of the"
+    },
+    {
+      "start": 944.28,
+      "end": 950.36,
+      "text": "access to the data in a more concrete way, we have data lab facilities where we"
+    },
+    {
+      "start": 950.36,
+      "end": 953.92,
+      "text": "do that. We have 42 of them across the country at the moment, and they"
+    },
+    {
+      "start": 953.92,
+      "end": 958.76,
+      "text": "range. We've got three in our own Stats NZ offices. Many government"
+    },
+    {
+      "start": 958.76,
+      "end": 960.0,
+      "text": "departments will have the data."
+    },
+    {
+      "start": 960.0,
+      "end": 970.96,
+      "text": "academic institutions, there are some research, private sector research firms, and one EWI Data Lab"
+    },
+    {
+      "start": 970.96,
+      "end": 975.84,
+      "text": "that was set up in 2023 that our partners Te Kahuera Runga of the Data EWI Leaders Group"
+    },
+    {
+      "start": 975.84,
+      "end": 983.44,
+      "text": "managed in Rotorua. We support currently 12,000 researchers across some 370 projects."
+    },
+    {
+      "start": 983.92,
+      "end": 989.68,
+      "text": "That's a pretty huge increase since the approximately 15 projects in the 2011"
+    },
+    {
+      "start": 989.68,
+      "end": 998.96,
+      "text": "version of the IDI. Over that time, there hasn't been significant changes in the technology"
+    },
+    {
+      "start": 998.96,
+      "end": 1003.76,
+      "text": "or the methods we've used for the IDI, but there's been a very firm focus on ensuring"
+    },
+    {
+      "start": 1003.76,
+      "end": 1007.92,
+      "text": "that our processes and protocols have evolved over that time, that we've worked with the"
+    },
+    {
+      "start": 1007.92,
+      "end": 1012.48,
+      "text": "researchers to ensure that we've been able to stay relevant and current."
+    },
+    {
+      "start": 1015.52,
+      "end": 1021.04,
+      "text": "With that amount of use, it's not surprising that the IDI is pretty embedded across government"
+    },
+    {
+      "start": 1021.04,
+      "end": 1029.6,
+      "text": "and beyond now in terms of a critical data tool. It's used, many agencies now rely on the IDI to"
+    },
+    {
+      "start": 1029.6,
+      "end": 1036.48,
+      "text": "inform service planning and delivery and program evaluation. For example, the IDI hosts simulations"
+    },
+    {
+      "start": 1036.48,
+      "end": 1043.84,
+      "text": "and models to research policy change and for monitoring outcomes in treasury."
+    },
+    {
+      "start": 1043.92,
+      "end": 1050.56,
+      "text": "There's a tax welfare model, an MSD, we have the social outcomes model, and with Oranga Tamariki,"
+    },
+    {
+      "start": 1050.56,
+      "end": 1057.68,
+      "text": "we have the children's well-being model. The IDI is a critical success tool for a social"
+    },
+    {
+      "start": 1057.68,
+      "end": 1062.64,
+      "text": "investment approach, and we're already working with the social investment agency on this."
+    },
+    {
+      "start": 1062.96,
+      "end": 1074.56,
+      "text": "The IDI holds individual level data that can enable cohort and time series analysis"
+    },
+    {
+      "start": 1075.12,
+      "end": 1079.92,
+      "text": "of factors that impact people's lives and needs. Importantly,"
+    },
+    {
+      "start": 1080.0,
+      "end": 1086.0,
+      "text": "at enables research of factors across different sectors and different outcomes for people."
+    },
+    {
+      "start": 1086.0,
+      "end": 1092.0,
+      "text": "Back to the five safes in Ngatekanga Paihiri, our frameworks, you cannot output data"
+    },
+    {
+      "start": 1092.0,
+      "end": 1098.0,
+      "text": "that identifies individuals and it cannot be used for case management"
+    },
+    {
+      "start": 1098.0,
+      "end": 1101.0,
+      "text": "and that links back to the data and stats."
+    },
+    {
+      "start": 1101.0,
+      "end": 1108.0,
+      "text": "By case management you cannot use the IDI to intervene in somebody's life,"
+    },
+    {
+      "start": 1108.0,
+      "end": 1112.0,
+      "text": "whether that be for a regulatory purpose or because you want to provide"
+    },
+    {
+      "start": 1112.0,
+      "end": 1114.0,
+      "text": "some sort of beneficial service."
+    },
+    {
+      "start": 1117.0,
+      "end": 1122.0,
+      "text": "There is emerging use of the IDI by Iwi, for example,"
+    },
+    {
+      "start": 1122.0,
+      "end": 1125.0,
+      "text": "to establish monitoring and reporting against strategies"
+    },
+    {
+      "start": 1125.0,
+      "end": 1128.0,
+      "text": "and to make decisions about service provision investment."
+    },
+    {
+      "start": 1128.0,
+      "end": 1133.0,
+      "text": "A recent count of projects, the number of Iwi-affiliated"
+    },
+    {
+      "start": 1133.0,
+      "end": 1140.0,
+      "text": "active research projects at 16, the IDI is also a really important tool"
+    },
+    {
+      "start": 1140.0,
+      "end": 1145.0,
+      "text": "for stats and we're increasingly using it for statistical production."
+    },
+    {
+      "start": 1145.0,
+      "end": 1151.0,
+      "text": "As long as you're happy, time-wise, I can talk a little bit more specifically"
+    },
+    {
+      "start": 1151.0,
+      "end": 1155.0,
+      "text": "in brief about the work we're doing with Iwi and Ngati with the IDI."
+    },
+    {
+      "start": 1155.0,
+      "end": 1161.0,
+      "text": "I think what I'd like is this is excellent for just getting an understanding"
+    },
+    {
+      "start": 1161.0,
+      "end": 1165.0,
+      "text": "of what God used the word tool, what this tool is all about,"
+    },
+    {
+      "start": 1165.0,
+      "end": 1170.0,
+      "text": "but also to explore the future opportunities of what this means for."
+    },
+    {
+      "start": 1170.0,
+      "end": 1175.0,
+      "text": "We are the M\u0101ori Affairs Committee, it's been a decent amount of time"
+    },
+    {
+      "start": 1175.0,
+      "end": 1180.0,
+      "text": "in that space but I'll let you run this to achieve that in means,"
+    },
+    {
+      "start": 1180.0,
+      "end": 1182.0,
+      "text": "if you can please."
+    },
+    {
+      "start": 1182.0,
+      "end": 1186.0,
+      "text": "What we wanted to highlight was the ways in which Iwi and Ngati"
+    },
+    {
+      "start": 1186.0,
+      "end": 1193.0,
+      "text": "using it and where there is certainly room for growth."
+    },
+    {
+      "start": 1193.0,
+      "end": 1198.0,
+      "text": "So the amount of data collected and in different ways"
+    },
+    {
+      "start": 1198.0,
+      "end": 1200.0,
+      "text": "and for different purposes"
+    },
+    {
+      "start": 1200.0,
+      "end": 1201.36,
+      "text": "betu ata rungitaach."
+    },
+    {
+      "start": 1201.56,
+      "end": 1202.52,
+      "text": "Aroi mehanai ita ateipi te kaitia"
+    },
+    {
+      "start": 1202.72,
+      "end": 1203.88,
+      "text": "Ido i ma ni, te kaitia"
+    },
+    {
+      "start": 1204.08,
+      "end": 1205.48,
+      "text": "rungita\ufffdu i kiitimiai o aatimiai"
+    },
+    {
+      "start": 1205.68,
+      "end": 1206.96,
+      "text": "a kaitia k Marianne Taradang"
+    },
+    {
+      "start": 1207.16,
+      "end": 1208.96,
+      "text": "Iroi te kaitia kaitia."
+    },
+    {
+      "start": 1209.16,
+      "end": 1209.96,
+      "text": "Iko iaithai te kaitia"
+    },
+    {
+      "start": 1210.16,
+      "end": 1211.04,
+      "text": "i kanada'i p\u0101poha kai"
+    },
+    {
+      "start": 1211.24,
+      "end": 1212.32,
+      "text": "kaitia kaitia pwahani"
+    },
+    {
+      "start": 1212.52,
+      "end": 1214.0,
+      "text": "i ketaraa i aamiai."
+    },
+    {
+      "start": 1214.2,
+      "end": 1214.92,
+      "text": "Iroi te kaitia"
+    },
+    {
+      "start": 1215.12,
+      "end": 1215.4,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1215.6,
+      "end": 1216.44,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1216.64,
+      "end": 1217.44,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1217.64,
+      "end": 1218.48,
+      "text": "i kaitia pwahani"
+    },
+    {
+      "start": 1218.68,
+      "end": 1220.64,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1220.84,
+      "end": 1221.84,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1222.04,
+      "end": 1222.72,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1222.92,
+      "end": 1223.44,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1223.64,
+      "end": 1224.48,
+      "text": "i kaitia kaitia"
+    },
+    {
+      "start": 1230.0,
+      "end": 1253.5,
+      "text": "So, working directly with EE, on agreed data plans that talk to their aspirations and the relevant data needs for them is common for us to help define what data is needed, identify where that data exists, not always is it only in the IDI and provide assistance with getting access to it and working with the EE data analysts."
+    },
+    {
+      "start": 1253.5,
+      "end": 1268.5,
+      "text": "The IDI data is often required to address cross-cutting topics of interest for EE, for example, and EE might want to understand the outcomes for Komatua in Rohe who have been hospitalised due to a heart attack."
+    },
+    {
+      "start": 1268.5,
+      "end": 1282.5,
+      "text": "This would require data to find people of a certain age, within a geographic area of interest, probably hospitalisation, even some mortality data, as well as potentially data about maybe subsequent benefit receipt to name a few."
+    },
+    {
+      "start": 1282.5,
+      "end": 1287.5,
+      "text": "This is the only place that that information is pulled together."
+    },
+    {
+      "start": 1287.5,
+      "end": 1299.5,
+      "text": "It's important, again, that we work with EE to grow their capability and how they can navigate this data space so that they're able to do that work without us as time goes by."
+    },
+    {
+      "start": 1299.5,
+      "end": 1309.5,
+      "text": "Not everyone can get into the data lab and certainly not straight away, so we also provide customised data as services for EE and wider."
+    },
+    {
+      "start": 1309.5,
+      "end": 1319.5,
+      "text": "These respond directly to EE data needs and the IDI is often called upon and the inclusion of census data in the IDI means that they're..."
+    },
+    {
+      "start": 1320.0,
+      "end": 1323.12,
+      "text": "maitha ki i garao daru raitu i ariau, moun i maitha mari te tithurai i i bytau i i wani."
+    },
+    {
+      "start": 1323.32,
+      "end": 1324.88,
+      "text": "Ia maithi pinaupatu i i pa."
+    },
+    {
+      "start": 1325.04,
+      "end": 1326.12,
+      "text": "Marama pa, moun i i bytau i i bytau."
+    },
+    {
+      "start": 1326.24,
+      "end": 1329.32,
+      "text": "Daru mkokora pa raitu,"
+    },
+    {
+      "start": 1329.48,
+      "end": 1337.08,
+      "text": "paito i i bytau i i bytau i bytau i bytau i bytau pinausa i bytau i bytau i bytau i bytau i bytau i bytau i bytau i bytau i bytau."
+    },
+    {
+      "start": 1337.08,
+      "end": 1339.08,
+      "text": "te akses a data now?"
+    },
+    {
+      "start": 1339.08,
+      "end": 1340.08,
+      "text": "Yeah, so they're not everywhere."
+    },
+    {
+      "start": 1340.08,
+      "end": 1342.08,
+      "text": "I think that's the important thing tonight."
+    },
+    {
+      "start": 1342.08,
+      "end": 1344.08,
+      "text": "There's clearly many of them across government."
+    },
+    {
+      "start": 1344.08,
+      "end": 1347.08,
+      "text": "As I mentioned, there's one EE-based data lab in Ngorotaroa."
+    },
+    {
+      "start": 1347.08,
+      "end": 1349.08,
+      "text": "So they're not everywhere."
+    },
+    {
+      "start": 1349.08,
+      "end": 1351.08,
+      "text": "So sometimes people have to get to one."
+    },
+    {
+      "start": 1351.08,
+      "end": 1352.08,
+      "text": "So it's physical?"
+    },
+    {
+      "start": 1352.08,
+      "end": 1355.08,
+      "text": "Yeah, it's a physical space."
+    },
+    {
+      "start": 1355.08,
+      "end": 1357.08,
+      "text": "The system is in Ireland, isn't it?"
+    },
+    {
+      "start": 1357.08,
+      "end": 1358.08,
+      "text": "It's not connected to the internet."
+    },
+    {
+      "start": 1358.08,
+      "end": 1359.08,
+      "text": "That's correct, yeah."
+    },
+    {
+      "start": 1359.08,
+      "end": 1360.08,
+      "text": "So it's a physical space."
+    },
+    {
+      "start": 1360.08,
+      "end": 1362.08,
+      "text": "So there's the physical setting."
+    },
+    {
+      "start": 1362.08,
+      "end": 1365.08,
+      "text": "There's also controls around the technology settings."
+    },
+    {
+      "start": 1365.08,
+      "end": 1368.08,
+      "text": "So it's not connected to the internet."
+    },
+    {
+      "start": 1368.08,
+      "end": 1372.08,
+      "text": "You know, you can't access everything you'd like"
+    },
+    {
+      "start": 1372.08,
+      "end": 1374.08,
+      "text": "in conjunction with the IDI."
+    },
+    {
+      "start": 1374.08,
+      "end": 1377.08,
+      "text": "When you're working in there, you're working on the IDI."
+    },
+    {
+      "start": 1377.08,
+      "end": 1381.08,
+      "text": "There are processes to check for confidentiality."
+    },
+    {
+      "start": 1381.08,
+      "end": 1383.08,
+      "text": "So making sure we're maintaining privacy"
+    },
+    {
+      "start": 1383.08,
+      "end": 1386.08,
+      "text": "before any information is released"
+    },
+    {
+      "start": 1386.08,
+      "end": 1388.08,
+      "text": "out of the data lab as well."
+    },
+    {
+      "start": 1388.08,
+      "end": 1393.08,
+      "text": "So yeah, there's the physical and technological settings"
+    },
+    {
+      "start": 1393.08,
+      "end": 1395.08,
+      "text": "as well as the relationships"
+    },
+    {
+      "start": 1395.08,
+      "end": 1397.08,
+      "text": "that we build with the researchers."
+    },
+    {
+      "start": 1397.08,
+      "end": 1399.08,
+      "text": "So they all complete training."
+    },
+    {
+      "start": 1399.08,
+      "end": 1401.08,
+      "text": "They all sign confidentiality agreements"
+    },
+    {
+      "start": 1401.08,
+      "end": 1403.08,
+      "text": "to show they understand their responsibilities."
+    },
+    {
+      "start": 1403.08,
+      "end": 1405.08,
+      "text": "There's a number of factors that we work through"
+    },
+    {
+      "start": 1405.08,
+      "end": 1407.08,
+      "text": "to ensure the safety."
+    },
+    {
+      "start": 1407.08,
+      "end": 1409.08,
+      "text": "And as in most things, it's a balance."
+    },
+    {
+      "start": 1409.08,
+      "end": 1411.08,
+      "text": "So it's how do you get more labs out there,"
+    },
+    {
+      "start": 1411.08,
+      "end": 1414.08,
+      "text": "more ability for more people to use it"
+    },
+    {
+      "start": 1414.08,
+      "end": 1417.08,
+      "text": "and make sure that the processes"
+    },
+    {
+      "start": 1417.08,
+      "end": 1420.08,
+      "text": "and safety settings we have are going to be scaled"
+    },
+    {
+      "start": 1420.08,
+      "end": 1422.08,
+      "text": "and work as we expand."
+    },
+    {
+      "start": 1422.08,
+      "end": 1427.08,
+      "text": "These are specific people employed or contracted via stats, et cetera."
+    },
+    {
+      "start": 1427.08,
+      "end": 1429.08,
+      "text": "So don't have to be contracted"
+    },
+    {
+      "start": 1429.08,
+      "end": 1432.08,
+      "text": "or employed by stats, in fact."
+    },
+    {
+      "start": 1440.0,
+      "end": 1446.24,
+      "text": "the majority are not but part of our five safe frameworks is that researchers who"
+    },
+    {
+      "start": 1446.24,
+      "end": 1450.96,
+      "text": "they do need to be big bona fide researchers they need to have some experience"
+    },
+    {
+      "start": 1452.08,
+      "end": 1459.36,
+      "text": "they we we do reference checks when they first come in to use the data lab or the IDI yeah"
+    },
+    {
+      "start": 1460.4,
+      "end": 1466.32,
+      "text": "and for example it's not uncommon to have PhD students and so what happens usually is"
+    },
+    {
+      "start": 1466.32,
+      "end": 1473.04,
+      "text": "one of their supervisors is an experienced IDI user and so you know you we help make those"
+    },
+    {
+      "start": 1473.6,
+      "end": 1477.04,
+      "text": "like those connections in the relationships they are really important as well."
+    },
+    {
+      "start": 1477.04,
+      "end": 1478.32,
+      "text": "All right thank you Mr Chair."
+    },
+    {
+      "start": 1482.88,
+      "end": 1488.96,
+      "text": "So yes we have services to provide customized data and I think also we provide there are some"
+    },
+    {
+      "start": 1488.96,
+      "end": 1494.8,
+      "text": "there are some specific pieces of work to build EE and M\u0101ori data capability more"
+    },
+    {
+      "start": 1494.8,
+      "end": 1500.56,
+      "text": "generally that are on the rise so through the mana \u014ctiti relationship with T\u0101k\u0101h\u016br\u0101"
+    },
+    {
+      "start": 1500.56,
+      "end": 1506.16,
+      "text": "don't know the data iwi leaders group that we mentioned there is a comprehensive capability"
+    },
+    {
+      "start": 1506.16,
+      "end": 1512.4,
+      "text": "building program for Te Mana Whakatepu this is where the iwi collections in the 2023 census"
+    },
+    {
+      "start": 1512.4,
+      "end": 1517.36,
+      "text": "would lead and facilitated and also where our data apprenticeships and scholarships are"
+    },
+    {
+      "start": 1517.36,
+      "end": 1523.84,
+      "text": "provided there is a specific piece of work in Te Mana Whakatepu on IDI capability"
+    },
+    {
+      "start": 1524.88,
+      "end": 1531.52,
+      "text": "and last year Te K\u0101h\u016br\u0101 Dunga had I think 10 iwi data analysts who completed IDI training directly"
+    },
+    {
+      "start": 1531.52,
+      "end": 1537.28,
+      "text": "learning about the processes how to handle the data and also each of them undertook a"
+    },
+    {
+      "start": 1537.28,
+      "end": 1543.12,
+      "text": "research project that was agreed with their iwi this initiative I think was well oversubscribed"
+    },
+    {
+      "start": 1543.12,
+      "end": 1548.96,
+      "text": "so the interest is really really high and and honestly the feedback really positive"
+    },
+    {
+      "start": 1549.84,
+      "end": 1555.44,
+      "text": "from those who are taking part and from their iwi so this is something that we're proud"
+    },
+    {
+      "start": 1556.16,
+      "end": 1559.92,
+      "text": "to partner with and contribute to"
+    },
+    {
+      "start": 1560.0,
+      "end": 1564.52,
+      "text": "In terms of the sort of thing that Iwi are doing currently in the IDI, there's a variety of work."
+    },
+    {
+      "start": 1564.52,
+      "end": 1581.72,
+      "text": "So, for example, it has been used for recovery efforts after Cyclone Gabriel where access to an analysis of the IDI enabled Iwi leaders to make solid cases about housing needs post the Cyclone event."
+    },
+    {
+      "start": 1582.68,
+      "end": 1592.48,
+      "text": "The need to understand outcomes for the people that cut across government sectors and therefore dominant data sets is really important."
+    },
+    {
+      "start": 1592.48,
+      "end": 1603.4,
+      "text": "And another example would be Iwi wanting to understand how the Rangatahi are achieving in the education sector."
+    },
+    {
+      "start": 1603.4,
+      "end": 1610.72,
+      "text": "Without the IDI, Iwi would need to go to individual agencies to understand what data there is,"
+    },
+    {
+      "start": 1611.2,
+      "end": 1615.68,
+      "text": "to then work out how they access it and not have a central point to be able to access it."
+    },
+    {
+      "start": 1615.68,
+      "end": 1625.16,
+      "text": "So, even being able to perhaps data that talks to their own strategies, the IDI provides an excellent space to be able to do that."
+    },
+    {
+      "start": 1625.16,
+      "end": 1630.28,
+      "text": "So, just before you move off that, you mentioned about housing and the situation of a natural event such as the Cyclone."
+    },
+    {
+      "start": 1630.28,
+      "end": 1630.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 1630.88,
+      "end": 1634.4,
+      "text": "That would seem to me quite a sort of a time critical type of."
+    },
+    {
+      "start": 1634.4,
+      "end": 1635.28,
+      "text": "Absolutely."
+    },
+    {
+      "start": 1635.32,
+      "end": 1642.6,
+      "text": "And so, with your updating of your database every three times a year, how do you get the timeliness out of that?"
+    },
+    {
+      "start": 1642.6,
+      "end": 1642.96,
+      "text": "Yeah."
+    },
+    {
+      "start": 1642.96,
+      "end": 1646.8,
+      "text": "So, we had to work really hard on that."
+    },
+    {
+      "start": 1646.8,
+      "end": 1654.4,
+      "text": "And so, it's safe to say that not all the data would have been as up to date, as would have been ideal."
+    },
+    {
+      "start": 1654.4,
+      "end": 1656.76,
+      "text": "So, it's about making the best out of it."
+    },
+    {
+      "start": 1656.76,
+      "end": 1660.6,
+      "text": "We certainly do in situations like that work with agencies to see what we can do."
+    },
+    {
+      "start": 1660.6,
+      "end": 1662.76,
+      "text": "So, let me ask the question a different way."
+    },
+    {
+      "start": 1662.8,
+      "end": 1669.72,
+      "text": "You have the ability that clearly this kind of information is going to be would be very handy in the next couple of weeks."
+    },
+    {
+      "start": 1669.72,
+      "end": 1676.0,
+      "text": "And you can instigate a process where this department please provide us your database on that."
+    },
+    {
+      "start": 1676.0,
+      "end": 1680.0,
+      "text": "In other words, can you expedite the results, which would be so helpful?"
+    },
+    {
+      "start": 1680.0,
+      "end": 1682.88,
+      "text": "for the likes of e-read leaders about getting this information."
+    },
+    {
+      "start": 1683.92,
+      "end": 1687.84,
+      "text": "Not across the board. It depends on the data you need"
+    },
+    {
+      "start": 1688.8,
+      "end": 1694.4,
+      "text": "and the outcome or the research question that you're looking at."
+    },
+    {
+      "start": 1694.4,
+      "end": 1698.32,
+      "text": "So no, we wouldn't be able to across the board expedite data to that extent."
+    },
+    {
+      "start": 1698.32,
+      "end": 1703.12,
+      "text": "Yep. So there is an element of, I won't want a bit of words,"
+    },
+    {
+      "start": 1703.12,
+      "end": 1706.8,
+      "text": "sluggishness with regards to what you can actually achieve."
+    },
+    {
+      "start": 1706.8,
+      "end": 1711.28,
+      "text": "So when you've got time critical information to be able to act tomorrow,"
+    },
+    {
+      "start": 1711.28,
+      "end": 1714.72,
+      "text": "it's not necessarily the best tool for that sometimes."
+    },
+    {
+      "start": 1715.52,
+      "end": 1716.88,
+      "text": "That's a very fair statement."
+    },
+    {
+      "start": 1716.88,
+      "end": 1719.2,
+      "text": "Okay, absolutely."
+    },
+    {
+      "start": 1721.76,
+      "end": 1729.76,
+      "text": "I think just to finish, we know that we need to balance the potential value alongside safety"
+    },
+    {
+      "start": 1729.76,
+      "end": 1733.44,
+      "text": "and that's for all our youth and it is also relevant for iwi and M\u0101ori."
+    },
+    {
+      "start": 1734.0,
+      "end": 1739.84,
+      "text": "The challenges in the Government data systems tend to be noticeable really quickly in the"
+    },
+    {
+      "start": 1739.84,
+      "end": 1742.72,
+      "text": "IDI because of the breadth and the depth of data in there"
+    },
+    {
+      "start": 1743.68,
+      "end": 1747.84,
+      "text": "and because of the vast amount of research questions that are potentially possible."
+    },
+    {
+      "start": 1748.96,
+      "end": 1753.84,
+      "text": "So in many ways the IDI often acts like a barometer for some of the quality issues"
+    },
+    {
+      "start": 1753.84,
+      "end": 1756.56,
+      "text": "with the data system more generally."
+    },
+    {
+      "start": 1756.56,
+      "end": 1759.28,
+      "text": "So it means we need to continue to work closely with M\u0101ne"
+    },
+    {
+      "start": 1759.28,
+      "end": 1762.0,
+      "text": "to ensure we're always looking for ways to evolve our processes."
+    },
+    {
+      "start": 1762.56,
+      "end": 1765.28,
+      "text": "Our safety parameters and our governance structures"
+    },
+    {
+      "start": 1767.2,
+      "end": 1770.16,
+      "text": "as we've talked about, we've already got frameworks in place."
+    },
+    {
+      "start": 1770.16,
+      "end": 1771.68,
+      "text": "They're really, really important."
+    },
+    {
+      "start": 1773.12,
+      "end": 1776.88,
+      "text": "They're not the only thing and they're not a replacement for the relationships"
+    },
+    {
+      "start": 1776.88,
+      "end": 1780.0,
+      "text": "and the joint work and also the understanding of the context"
+    },
+    {
+      "start": 1780.0,
+      "end": 1782.64,
+      "text": "that our communities are working in."
+    },
+    {
+      "start": 1782.64,
+      "end": 1785.84,
+      "text": "So that's something that we do have a keen eye on as well."
+    },
+    {
+      "start": 1786.16,
+      "end": 1786.96,
+      "text": "Excellent."
+    },
+    {
+      "start": 1788.16,
+      "end": 1789.68,
+      "text": "Thank you, Mr Chair."
+    },
+    {
+      "start": 1789.68,
+      "end": 1792.4,
+      "text": "I'll just tell a question about data security"
+    },
+    {
+      "start": 1792.4,
+      "end": 1796.72,
+      "text": "and do you categorise types of data"
+    },
+    {
+      "start": 1796.72,
+      "end": 1799.84,
+      "text": "and sort of enable security and protections on the basis?"
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.96,
+      "text": "of things like sensitivity. So you spoke earlier about health data and appeals to me like that might"
+    },
+    {
+      "start": 1805.68,
+      "end": 1811.6,
+      "text": "be a category where additional safety measures are placed in terms of storage and potentially also"
+    },
+    {
+      "start": 1811.6,
+      "end": 1818.4,
+      "text": "disclosure. And so Rachel online may want to chip in because she might have some more specific"
+    },
+    {
+      "start": 1818.4,
+      "end": 1825.92,
+      "text": "information than me on this but there are a couple of things we do. So before any data set comes"
+    },
+    {
+      "start": 1825.92,
+      "end": 1831.52,
+      "text": "into the IDI part of our privacy and ethics processes is also working out the confidentiality"
+    },
+    {
+      "start": 1831.52,
+      "end": 1837.68,
+      "text": "requirements so how that data can be released from the lab and for some the settings are higher than"
+    },
+    {
+      "start": 1837.68,
+      "end": 1845.6,
+      "text": "others because of the sensitivity of the data. We don't necessarily have different security settings"
+    },
+    {
+      "start": 1845.6,
+      "end": 1851.76,
+      "text": "in how we store the data we're keeping that all as secure as we can. We do make sure that"
+    },
+    {
+      "start": 1852.72,
+      "end": 1858.48,
+      "text": "the researchers have access to the data they need for their research questions rather than all of it."
+    },
+    {
+      "start": 1858.48,
+      "end": 1864.16,
+      "text": "So and you know and particularly keen on that when it is sensitive information."
+    },
+    {
+      "start": 1872.32,
+      "end": 1880.0,
+      "text": "Just interested around a similar corridor but slightly tangential in terms of the work you do"
+    },
+    {
+      "start": 1880.08,
+      "end": 1888.16,
+      "text": "on tikanga pai here and interested in data sovereignty and what work might be underway"
+    },
+    {
+      "start": 1888.16,
+      "end": 1895.6,
+      "text": "or being done to kind of enact that in a practical sense. So my first question I guess is like"
+    },
+    {
+      "start": 1895.6,
+      "end": 1900.56,
+      "text": "what are the outputs of that? How do you monitor and report on it? Is there a metric for it"
+    },
+    {
+      "start": 1900.56,
+      "end": 1905.12,
+      "text": "or is it just a nice ideological thing that is like we have these tikanga and that's great."
+    },
+    {
+      "start": 1905.92,
+      "end": 1910.16,
+      "text": "Are there some specific things you could describe for us and is there any work being done with"
+    },
+    {
+      "start": 1911.92,
+      "end": 1916.48,
+      "text": "in terms of data sovereignty and then finally I'm just interested to know where the data is stored."
+    },
+    {
+      "start": 1916.48,
+      "end": 1919.84,
+      "text": "Is it in Aotearoa specifically or does any ever go offshore?"
+    },
+    {
+      "start": 1920.08,
+      "end": 1924.76,
+      "text": "kapa? Maikata handle the last one first, yes, all the RDO data are stored on shore kapa,"
+    },
+    {
+      "start": 1924.76,
+      "end": 1927.24,
+      "text": "yep. Do you want to?"
+    },
+    {
+      "start": 1927.24,
+      "end": 1931.6,
+      "text": "Maikata ka wala mana auditie, if you didn't talk about the relationship, yep, so kapa."
+    },
+    {
+      "start": 1931.6,
+      "end": 1938.34,
+      "text": "So, as part of the mana auditie relationship that we have with data ILG and through their"
+    },
+    {
+      "start": 1938.34,
+      "end": 1944.0,
+      "text": "charitable trust to k\u0101hui iraranga, the data ILG released the M\u0101ori Data Governance"
+    },
+    {
+      "start": 1944.0,
+      "end": 1952.16,
+      "text": "Model in May 2023. If you're familiar with the model, you'll know that it outlines"
+    },
+    {
+      "start": 1952.16,
+      "end": 1957.24,
+      "text": "standards that enable M\u0101ori to participate meaningfully in data decision-making"
+    },
+    {
+      "start": 1957.24,
+      "end": 1963.64,
+      "text": "and management. Stats NZ currently is providing ongoing support to government"
+    },
+    {
+      "start": 1963.64,
+      "end": 1968.28,
+      "text": "agencies to raise awareness of the model and understand what opportunities there"
+    },
+    {
+      "start": 1968.28,
+      "end": 1975.84,
+      "text": "might be in the separate parts of the data system across government. And we also"
+    },
+    {
+      "start": 1975.84,
+      "end": 1986.04,
+      "text": "are continuing work with the data ILG to build a, sorry, I need my glasses on, I can't read my notes."
+    },
+    {
+      "start": 1986.04,
+      "end": 1993.92,
+      "text": "Excuse me, that's zero, but I was doing well. So, yeah, the strong focus on data"
+    },
+    {
+      "start": 1993.92,
+      "end": 1997.68,
+      "text": "ethics in the model also really closely aligns with the needs of the data"
+    },
+    {
+      "start": 1997.72,
+      "end": 2002.96,
+      "text": "system to consider assumes of ethics more generally, particularly in terms of data"
+    },
+    {
+      "start": 2002.96,
+      "end": 2007.6,
+      "text": "use and innovation, which is a space that Stats NZ is at in the moment, for"
+    },
+    {
+      "start": 2007.6,
+      "end": 2013.36,
+      "text": "example, in using integrated data for the purposes of social investment. I think,"
+    },
+    {
+      "start": 2013.36,
+      "end": 2017.56,
+      "text": "you know, in terms of the M\u0101ori Data Governance Model at the moment, our role"
+    },
+    {
+      "start": 2017.56,
+      "end": 2022.76,
+      "text": "really is to support and ready the government data system to support that"
+    },
+    {
+      "start": 2022.84,
+      "end": 2029.64,
+      "text": "key work that I mentioned earlier. But we are also developing with the data ILG"
+    },
+    {
+      "start": 2029.64,
+      "end": 2034.36,
+      "text": "and M\u0101ori Data Classification Framework. And what that framework will do is it"
+    },
+    {
+      "start": 2034.36,
+      "end": 2039.84,
+      "text": "will help us to better understand the level and types of M\u0101ori data and"
+    },
+    {
+      "start": 2040.0,
+      "end": 2044.8,
+      "text": "interest that might exist within a data set because that's not currently very evident to the moment"
+    },
+    {
+      "start": 2044.8,
+      "end": 2049.28,
+      "text": "when you talk about M\u0101ori data if people want to know well what is M\u0101ori data what you're talking about"
+    },
+    {
+      "start": 2049.28,
+      "end": 2056.96,
+      "text": "so that's a key focus at the work at the moment. The model itself has not been implemented like"
+    },
+    {
+      "start": 2056.96,
+      "end": 2061.92,
+      "text": "agreed by government and implemented sort of as a wholesale model but it is a model that we"
+    },
+    {
+      "start": 2061.92,
+      "end": 2070.16,
+      "text": "recognise provides us with significant information and detail about how to support"
+    },
+    {
+      "start": 2070.16,
+      "end": 2077.92,
+      "text": "hold of system transformation for ensuring a data system that has more of a totality focused"
+    },
+    {
+      "start": 2077.92,
+      "end": 2082.96,
+      "text": "and or M\u0101ori data aspirations embedded in it. Do you want to talk then maybe about"
+    },
+    {
+      "start": 2082.96,
+      "end": 2089.04,
+      "text": "some of the work in more detail or is that helpful? I think n\u0101 te k\u0101ngapai heidi so I don't think"
+    },
+    {
+      "start": 2090.0,
+      "end": 2095.84,
+      "text": "to the best of my knowledge there's not any specific monitoring or reporting on that however"
+    },
+    {
+      "start": 2097.12,
+      "end": 2104.64,
+      "text": "every single research application for the IDI undergoes there's an element of that that is"
+    },
+    {
+      "start": 2104.64,
+      "end": 2112.48,
+      "text": "directly relevant to n\u0101 te k\u0101ngapai heidi and the way the application process works is that the team"
+    },
+    {
+      "start": 2113.04,
+      "end": 2120.16,
+      "text": "facilitating that work so hard with the researchers to make sure that they understand"
+    },
+    {
+      "start": 2120.16,
+      "end": 2124.96,
+      "text": "their responsibilities and that they are living up to the requirements that we don't"
+    },
+    {
+      "start": 2125.6,
+      "end": 2129.2,
+      "text": "like reject if you look for one of a better word many applications"
+    },
+    {
+      "start": 2129.92,
+      "end": 2136.4,
+      "text": "but there is a variable amount of work that needs to be to be done depending on the expertise"
+    },
+    {
+      "start": 2137.28,
+      "end": 2142.24,
+      "text": "the experience and the likes of researchers. I just have a supplementary question."
+    },
+    {
+      "start": 2142.24,
+      "end": 2147.92,
+      "text": "Business Chair, thank you that answered my questions comprehensively. I am interested"
+    },
+    {
+      "start": 2147.92,
+      "end": 2155.36,
+      "text": "speaking about the access and how it's not a particularly accessible system currently"
+    },
+    {
+      "start": 2155.36,
+      "end": 2159.84,
+      "text": "and in relation to security measures that are taken appropriately so."
+    },
+    {
+      "start": 2160.0,
+      "end": 2164.0,
+      "text": "to limit who has access to it in order to protect that data."
+    },
+    {
+      "start": 2164.0,
+      "end": 2168.0,
+      "text": "So things like having bona fide researchers, I was a PhD student"
+    },
+    {
+      "start": 2168.0,
+      "end": 2173.0,
+      "text": "and understand the process is very rigorous to access things."
+    },
+    {
+      "start": 2173.0,
+      "end": 2178.0,
+      "text": "But in a M\u0101ori setting, obviously sometimes there are community groups"
+    },
+    {
+      "start": 2178.0,
+      "end": 2183.0,
+      "text": "like Papakaina organisations or collectives of our people"
+    },
+    {
+      "start": 2183.0,
+      "end": 2188.0,
+      "text": "who need to access that data but may not be considered bona fide"
+    },
+    {
+      "start": 2188.0,
+      "end": 2192.0,
+      "text": "or legit in a Western framework for research."
+    },
+    {
+      "start": 2192.0,
+      "end": 2198.0,
+      "text": "And you talked about wanting to work actively to limit impacts of complexity."
+    },
+    {
+      "start": 2198.0,
+      "end": 2203.0,
+      "text": "So are there aspects of or are there people in this process"
+    },
+    {
+      "start": 2203.0,
+      "end": 2208.0,
+      "text": "that are kind of considering that or doing stuff already to enable"
+    },
+    {
+      "start": 2208.0,
+      "end": 2211.0,
+      "text": "those people to access through those pathways they may not otherwise"
+    },
+    {
+      "start": 2211.0,
+      "end": 2213.0,
+      "text": "have been able to go through?"
+    },
+    {
+      "start": 2213.0,
+      "end": 2217.0,
+      "text": "Yeah, that's a great question."
+    },
+    {
+      "start": 2217.0,
+      "end": 2221.0,
+      "text": "And I think the first most succinct comment is"
+    },
+    {
+      "start": 2221.0,
+      "end": 2223.0,
+      "text": "we certainly haven't nailed it."
+    },
+    {
+      "start": 2223.0,
+      "end": 2225.0,
+      "text": "Yeah, it's still work in progress."
+    },
+    {
+      "start": 2225.0,
+      "end": 2229.0,
+      "text": "And in reality, not everyone wants to be in a data lab"
+    },
+    {
+      "start": 2229.0,
+      "end": 2231.0,
+      "text": "to be able to use it."
+    },
+    {
+      "start": 2231.0,
+      "end": 2234.0,
+      "text": "Even in the government policy analysts want to be able to get"
+    },
+    {
+      "start": 2234.0,
+      "end": 2237.0,
+      "text": "some value from it without having to have that capability too."
+    },
+    {
+      "start": 2237.0,
+      "end": 2243.0,
+      "text": "So we still need to work with our colleagues"
+    },
+    {
+      "start": 2243.0,
+      "end": 2246.0,
+      "text": "across the public service on how we can get more value"
+    },
+    {
+      "start": 2246.0,
+      "end": 2250.0,
+      "text": "out of the type of data, integrated data that's in the IDI outside,"
+    },
+    {
+      "start": 2250.0,
+      "end": 2253.0,
+      "text": "so safely outside of the data lab environment."
+    },
+    {
+      "start": 2253.0,
+      "end": 2257.0,
+      "text": "And so I think that's one thing that will be really useful"
+    },
+    {
+      "start": 2257.0,
+      "end": 2260.0,
+      "text": "for Iwi and M\u0101ori as well, is that how can we..."
+    },
+    {
+      "start": 2260.0,
+      "end": 2264.0,
+      "text": "And there are government agencies that work"
+    },
+    {
+      "start": 2264.0,
+      "end": 2266.0,
+      "text": "with a lot of community groups in terms of dashboards"
+    },
+    {
+      "start": 2266.0,
+      "end": 2269.0,
+      "text": "and things like that that utilises the IDI,"
+    },
+    {
+      "start": 2269.0,
+      "end": 2272.0,
+      "text": "so like Social Investment Agency, Tepunia Kaukari,"
+    },
+    {
+      "start": 2272.0,
+      "end": 2274.0,
+      "text": "for example, for a couple."
+    },
+    {
+      "start": 2274.0,
+      "end": 2277.0,
+      "text": "So I think that's one element that we're going to need"
+    },
+    {
+      "start": 2277.0,
+      "end": 2280.0,
+      "text": "to continue to look to how we can..."
+    },
+    {
+      "start": 2280.0,
+      "end": 2288.0,
+      "text": "harness that more is how do we service, find new ways to service people who aren't going to want to"
+    },
+    {
+      "start": 2288.0,
+      "end": 2292.4,
+      "text": "be in the IDI and because the services that we provide in terms of customized data or working"
+    },
+    {
+      "start": 2292.4,
+      "end": 2298.64,
+      "text": "directly with Iwi, not easily scalable. Yeah and maybe to build on that in terms of the not"
+    },
+    {
+      "start": 2298.64,
+      "end": 2303.76,
+      "text": "easily scalable work, some of the work that we do in the interim to support you know those"
+    },
+    {
+      "start": 2303.76,
+      "end": 2308.24,
+      "text": "data interests and needs are the customized data sets which you've heard and speak about"
+    },
+    {
+      "start": 2308.32,
+      "end": 2314.32,
+      "text": "previously which is where stats NZ will work within the IDI and across agencies to gather"
+    },
+    {
+      "start": 2314.32,
+      "end": 2320.16,
+      "text": "the data that they need specifically based on you know the Iwi's immediate needs at that point."
+    },
+    {
+      "start": 2320.16,
+      "end": 2327.6,
+      "text": "I think another piece of work that you know we have underway in terms of how we're looking at"
+    },
+    {
+      "start": 2329.28,
+      "end": 2336.08,
+      "text": "the system transformation at stats NZ is definitely around ensuring that we get more"
+    },
+    {
+      "start": 2336.08,
+      "end": 2341.6,
+      "text": "data out to people more regularly but you know just as a matter of course to help"
+    },
+    {
+      "start": 2341.6,
+      "end": 2346.16,
+      "text": "curb some of that need. I was actually sorry this is my final stop and I actually have to run"
+    },
+    {
+      "start": 2346.16,
+      "end": 2351.2,
+      "text": "but I was actually curious to know and I may have missed this so forgive me if it just didn't"
+    },
+    {
+      "start": 2351.2,
+      "end": 2356.64,
+      "text": "go in my brain but do you ever proactively release data that has been signalled as"
+    },
+    {
+      "start": 2356.64,
+      "end": 2362.72,
+      "text": "useful for Iwi or Ropu kind of in like a report form or anything that may be"
+    },
+    {
+      "start": 2362.8,
+      "end": 2367.36,
+      "text": "kind of consistently useful for those groups. I'm just thinking for example are there like"
+    },
+    {
+      "start": 2367.36,
+      "end": 2371.84,
+      "text": "quarterly reports released for example to Arunanga or something like that."
+    },
+    {
+      "start": 2371.84,
+      "end": 2377.44,
+      "text": "Not currently but our relationship with the Dadi Releaders group they do produce"
+    },
+    {
+      "start": 2377.44,
+      "end": 2383.2,
+      "text": "so we support they work with us and receive the data this year was the first time that"
+    },
+    {
+      "start": 2384.24,
+      "end": 2390.48,
+      "text": "our census related data or sorry actually last year because it's 2023 our census related data"
+    },
+    {
+      "start": 2390.48,
+      "end": 2396.64,
+      "text": "was shared by a non-government agency on the Te Fata platform through the Dadi Releaders group"
+    },
+    {
+      "start": 2397.36,
+      "end": 2400.0,
+      "text": "so that it was a significant milestone and to me"
+    },
+    {
+      "start": 2400.0,
+      "end": 2403.52,
+      "text": "au erti Greetings of the relationship"
+    },
+    {
+      "start": 2403.52,
+      "end": 2405.84,
+      "text": "an our ability to understand how we can"
+    },
+    {
+      "start": 2405.84,
+      "end": 2407.76,
+      "text": "better support Ewan M\u0101ore"
+    },
+    {
+      "start": 2407.76,
+      "end": 2411.02,
+      "text": "I think so but with them having had access"
+    },
+    {
+      "start": 2411.02,
+      "end": 2413.6,
+      "text": "to that data and releasing it onto"
+    },
+    {
+      "start": 2413.6,
+      "end": 2415.84,
+      "text": "butter they also produce insights"
+    },
+    {
+      "start": 2415.84,
+      "end": 2418.58,
+      "text": "that they understand M\u0101ori want to need"
+    },
+    {
+      "start": 2418.58,
+      "end": 2420.74,
+      "text": "um so it's through the money auditi"
+    },
+    {
+      "start": 2420.74,
+      "end": 2422.58,
+      "text": "relationship that we support that"
+    },
+    {
+      "start": 2422.58,
+      "end": 2425.0,
+      "text": "work but we don't necessarily do it"
+    },
+    {
+      "start": 2425.0,
+      "end": 2425.84,
+      "text": "ourselves directly."
+    },
+    {
+      "start": 2426.16,
+      "end": 2427.16,
+      "text": "longest i koe k\u014ddua."
+    },
+    {
+      "start": 2427.16,
+      "end": 2428.06,
+      "text": "\u521dicles brakes i koe koe k Arms"
+    },
+    {
+      "start": 2428.06,
+      "end": 2429.66,
+      "text": "o apparatit Loadjina"
+    },
+    {
+      "start": 2429.66,
+      "end": 2435.52,
+      "text": "Forte garaq i rai, kai rai, mula kaito ar anit opening garaia."
+    },
+    {
+      "start": 2435.52,
+      "end": 2448.5,
+      "text": "Wai i ba i rai, ma orsata that is the data base and then taking that through to just to bring the use of that on live."
+    },
+    {
+      "start": 2448.5,
+      "end": 2472.5,
+      "text": "Yeah, and Rachel, if you've got one that will be cool. In terms of some of our EW work, our teams with the Social Investment Agency are currently working with the Teneke Nekinui, the PSG, for Ngata Maniapoto."
+    },
+    {
+      "start": 2472.5,
+      "end": 2498.5,
+      "text": "They're actually using IDI and other data sets, building a dashboard that talks directly to the data needs embedded in their strategy, and covering social, financial, environmental elements, and using that for decision-making and day-to-day."
+    },
+    {
+      "start": 2498.5,
+      "end": 2516.5,
+      "text": "So, just before we go there, can I just interior that a bit more? So, in terms of the, you've got the spine, which is essentially the, from your report, you've got the employee data from IRD, I've got the employee information, there's a third bundle on there, and every four months, roughly, that's refreshed."
+    },
+    {
+      "start": 2516.5,
+      "end": 2519.5,
+      "text": "How does, what's the link between the, how does that..."
+    },
+    {
+      "start": 2520.0,
+      "end": 2535.0,
+      "text": "at work through to giving the level of draw down detail that money of bottle would need specific to them in terms of just giving the conversation we've been having around how the data isn't identified down to individuals."
+    },
+    {
+      "start": 2535.0,
+      "end": 2549.0,
+      "text": "Yeah, yeah. It is quite a journey for the data. So we get it, link it together. This is how this particular one is. We link it together and we do that at the regular intervals."
+    },
+    {
+      "start": 2549.0,
+      "end": 2560.0,
+      "text": "We have worked in parallel with our partner to get a really clear specification for the type of data they would need in the IDI."
+    },
+    {
+      "start": 2560.0,
+      "end": 2568.0,
+      "text": "And so when that's available with the regular updates and for this one, we needed the 2023 census data to be in there."
+    },
+    {
+      "start": 2568.0,
+      "end": 2574.0,
+      "text": "That is now so we work through extracting all that data."
+    },
+    {
+      "start": 2574.0,
+      "end": 2588.0,
+      "text": "We then pass it on to the Iwi and the Social Investment Agency and there's further work done to provide visualisation of that in a way that the Iwi can do their decision making."
+    },
+    {
+      "start": 2588.0,
+      "end": 2590.0,
+      "text": "So that's a real partnership along there."
+    },
+    {
+      "start": 2590.0,
+      "end": 2601.0,
+      "text": "So it begins with members of money of bottle actually being individually identified in that original data set."
+    },
+    {
+      "start": 2601.0,
+      "end": 2608.0,
+      "text": "So the way the cohort or population of interest works is we look at the parameters."
+    },
+    {
+      "start": 2608.0,
+      "end": 2620.0,
+      "text": "So in this instance, the Iwi affiliation will be one parameter and then we geographic parameters too because as is really common with Iwi,"
+    },
+    {
+      "start": 2620.0,
+      "end": 2633.0,
+      "text": "they're interested in their people in Rohe, as well as outside of Rohe, as well as people generally in their Rohe because they're looking for positive outcomes more generally in their areas."
+    },
+    {
+      "start": 2633.0,
+      "end": 2639.0,
+      "text": "So we work through all of those sort of specifications and we pull out a cohort."
+    },
+    {
+      "start": 2640.0,
+      "end": 2648.0,
+      "text": "that's still confidentialised, but in this case, quite rightly, you've picked up that this is a largely,"
+    },
+    {
+      "start": 2648.0,
+      "end": 2658.0,
+      "text": "where you can identify people who have an iwi affiliation of Ng\u0101ti Maniapoto in that extract,"
+    },
+    {
+      "start": 2658.0,
+      "end": 2667.0,
+      "text": "and so we work with the iwi to make sure that we're all clear on what's coming out."
+    },
+    {
+      "start": 2668.0,
+      "end": 2673.0,
+      "text": "We have a short time left itself and I want to maximise this remaining time,"
+    },
+    {
+      "start": 2673.0,
+      "end": 2678.0,
+      "text": "and with the M\u0101ori Affairs Committee, and as I briefed early on,"
+    },
+    {
+      "start": 2678.0,
+      "end": 2683.0,
+      "text": "is that we're here to endeavour to achieve better outcomes for M\u0101ori."
+    },
+    {
+      "start": 2683.0,
+      "end": 2687.0,
+      "text": "This tool, IDI, and what you're doing as statistics,"
+    },
+    {
+      "start": 2687.0,
+      "end": 2691.0,
+      "text": "is a big tool and it's a very valuable tool,"
+    },
+    {
+      "start": 2691.0,
+      "end": 2699.0,
+      "text": "but what is it that we can do to help you to even be better than what you are today?"
+    },
+    {
+      "start": 2699.0,
+      "end": 2703.0,
+      "text": "So, you know, databases only as good as the data that comes in,"
+    },
+    {
+      "start": 2703.0,
+      "end": 2705.0,
+      "text": "letting the data going out."
+    },
+    {
+      "start": 2705.0,
+      "end": 2707.0,
+      "text": "So, I'm trying to ask you the question,"
+    },
+    {
+      "start": 2707.0,
+      "end": 2716.11,
+      "text": "is how can I help you to be even more successful with the purpose that you serve within our country?"
+    },
+    {
+      "start": 2716.11,
+      "end": 2718.11,
+      "text": "Thank you."
+    },
+    {
+      "start": 2718.11,
+      "end": 2720.11,
+      "text": "It's a big question."
+    },
+    {
+      "start": 2720.11,
+      "end": 2724.11,
+      "text": "I'm trying to get ourselves focused because it's been really interesting."
+    },
+    {
+      "start": 2724.11,
+      "end": 2729.11,
+      "text": "We've got a tangible for us to actually deliver some outcomes."
+    },
+    {
+      "start": 2729.11,
+      "end": 2735.11,
+      "text": "I think one thing I'll probably pick up on is the IDI has experienced"
+    },
+    {
+      "start": 2735.11,
+      "end": 2738.11,
+      "text": "some significant growth over the years."
+    },
+    {
+      "start": 2738.11,
+      "end": 2740.11,
+      "text": "I think you sort of heard today."
+    },
+    {
+      "start": 2740.11,
+      "end": 2747.11,
+      "text": "It's definitely operating well on its original 2011 design,"
+    },
+    {
+      "start": 2748.11,
+      "end": 2752.11,
+      "text": "and increasing use has revealed some of its challenges."
+    },
+    {
+      "start": 2752.11,
+      "end": 2756.11,
+      "text": "So, we know it's built on old, unstable technology"
+    },
+    {
+      "start": 2756.11,
+      "end": 2759.11,
+      "text": "and it's reached the limits of its operating capacity."
+    },
+    {
+      "start": 2759.11,
+      "end": 2760.0,
+      "text": "Greatfully."
+    },
+    {
+      "start": 2760.0,
+      "end": 2765.28,
+      "text": "last year the Minister for Social Development, Minister of Statistics and Associate Minister of"
+    },
+    {
+      "start": 2765.28,
+      "end": 2771.6,
+      "text": "Finance agreed to provide a small amount of tag contingency funding to enable some short term"
+    },
+    {
+      "start": 2771.6,
+      "end": 2778.24,
+      "text": "fixes to the IDI and that's helpful. It means that as part of this work we can bring more data"
+    },
+    {
+      "start": 2778.24,
+      "end": 2785.76,
+      "text": "into the IDI and make it easier for data users to analyse data speeding up and simplifying it"
+    },
+    {
+      "start": 2786.32,
+      "end": 2793.04,
+      "text": "but I think in the longer term acknowledging some of the challenges there the focus for us"
+    },
+    {
+      "start": 2793.04,
+      "end": 2798.16,
+      "text": "will really be on upgrading our statistical and data system so it will provide for that large"
+    },
+    {
+      "start": 2798.16,
+      "end": 2804.64,
+      "text": "scale and rapid adding both the technology but also the data coming into it I think the linking"
+    },
+    {
+      "start": 2804.64,
+      "end": 2815.28,
+      "text": "and the updating of data so I think for us usefully if there was support to enable us"
+    },
+    {
+      "start": 2815.36,
+      "end": 2821.36,
+      "text": "to build a strong data pipeline across government making it easy as possible for agencies to share"
+    },
+    {
+      "start": 2821.36,
+      "end": 2827.84,
+      "text": "data with us and for data to flow into the system that would be something that would help immensely."
+    },
+    {
+      "start": 2828.4,
+      "end": 2831.76,
+      "text": "It's work that we have underway and that we're focused on."
+    },
+    {
+      "start": 2833.28,
+      "end": 2837.28,
+      "text": "It's probably a too high level for what a question is. I understand that the"
+    },
+    {
+      "start": 2839.04,
+      "end": 2844.08,
+      "text": "the bigger the computer the more you can do with it. It's that aspect of being a tangible"
+    },
+    {
+      "start": 2844.72,
+      "end": 2850.96,
+      "text": "part of what your business is but if I'd like you to draw a bit more down into Te Aumaldi"
+    },
+    {
+      "start": 2850.96,
+      "end": 2860.48,
+      "text": "and what is it like data wise, just a question okay so what data would be incredibly helpful"
+    },
+    {
+      "start": 2860.48,
+      "end": 2866.64,
+      "text": "for research in the future and how do you propose that data to be able to quality like"
+    },
+    {
+      "start": 2866.64,
+      "end": 2870.48,
+      "text": "how do you get the quality that's to make it useful because you can have data you can have"
+    },
+    {
+      "start": 2870.48,
+      "end": 2877.12,
+      "text": "good data. Yeah absolutely and I think when you've talked about the data coming in you know it's"
+    },
+    {
+      "start": 2877.12,
+      "end": 2879.92,
+      "text": "only at the end it's only as good as the data coming in and I think"
+    },
+    {
+      "start": 2880.0,
+      "end": 2890.18,
+      "text": "that is one element is that it takes a lot of effort across a number of agencies to lift the quality"
+    },
+    {
+      "start": 2890.18,
+      "end": 2897.3,
+      "text": "of the data coming in and it's a collective action problem that we do need to unite on."
+    },
+    {
+      "start": 2897.3,
+      "end": 2903.78,
+      "text": "And so I think lifting the quality of the data and there are variables that are important"
+    },
+    {
+      "start": 2903.78,
+      "end": 2912.02,
+      "text": "in an iwi and M\u0101ori context that will be really key there."
+    },
+    {
+      "start": 2912.58,
+      "end": 2917.78,
+      "text": "Okay, so let's take that as an example. How can we hold entities, whether we're Government"
+    },
+    {
+      "start": 2917.78,
+      "end": 2922.02,
+      "text": "Department or whatever it is, accountable for the quality of the data coming in?"
+    },
+    {
+      "start": 2923.46,
+      "end": 2927.3,
+      "text": "You saw what you're saying, is that we can go see, get a lot of data out there,"
+    },
+    {
+      "start": 2927.3,
+      "end": 2931.86,
+      "text": "but it may not be particularly useful. I'm trying to work out our role here"
+    },
+    {
+      "start": 2931.94,
+      "end": 2937.86,
+      "text": "is to hold ministers to account, hold departments to account about the service that they deliver"
+    },
+    {
+      "start": 2937.86,
+      "end": 2944.66,
+      "text": "to endeavour to provide better M\u0101ori outcomes. The cleanliness of the data or whatever way you"
+    },
+    {
+      "start": 2944.66,
+      "end": 2952.26,
+      "text": "would describe it is an important factor. So I'm asking for you to help us to be able to provide,"
+    },
+    {
+      "start": 2952.26,
+      "end": 2957.38,
+      "text": "you know, be part of a cog in the gearbox, actually deliver that outcome."
+    },
+    {
+      "start": 2957.46,
+      "end": 2964.66,
+      "text": "And there is work that's underway, I wonder if to knew our manager in policy might be better placed."
+    },
+    {
+      "start": 2964.66,
+      "end": 2965.46,
+      "text": "Good morning. Good morning."
+    },
+    {
+      "start": 2966.02,
+      "end": 2972.34,
+      "text": "Yes, help would be great. I think the onus is on us at the moment. We're working with"
+    },
+    {
+      "start": 2972.34,
+      "end": 2977.22,
+      "text": "the social investment agency in particular and with other Government departments and with iwi"
+    },
+    {
+      "start": 2977.22,
+      "end": 2983.78,
+      "text": "to determine what data is most critically needed for our next sort of short-term space,"
+    },
+    {
+      "start": 2983.86,
+      "end": 2990.5,
+      "text": "particularly as our social investment context. So the onus is on us at the moment to form that"
+    },
+    {
+      "start": 2990.5,
+      "end": 2994.74,
+      "text": "list of what is the most critical data. But once we have that list, we do need help,"
+    },
+    {
+      "start": 2994.74,
+      "end": 2999.54,
+      "text": "we need to build collectively. Part of that problem is"
+    },
+    {
+      "start": 3000.0,
+      "end": 3006.16,
+      "text": "understand understanding the value of data, it is sometimes hard to prioritise quality improvements"
+    },
+    {
+      "start": 3006.16,
+      "end": 3012.24,
+      "text": "in data, collecting different data for sharing because sometimes that story or narrative and"
+    },
+    {
+      "start": 3012.24,
+      "end": 3018.64,
+      "text": "the value of data that can be lost and actually worldwide we're seeing that sort of understanding"
+    },
+    {
+      "start": 3018.64,
+      "end": 3023.36,
+      "text": "increase a lot at the moment and so there's probably two things that's waiting for us to"
+    },
+    {
+      "start": 3024.88,
+      "end": 3028.32,
+      "text": "work with our stakeholders to form the list of the most critical data needed"
+    },
+    {
+      "start": 3028.32,
+      "end": 3032.8,
+      "text": "and then maybe coming back and saying to government, to stakeholders, to our partners"
+    },
+    {
+      "start": 3033.36,
+      "end": 3038.56,
+      "text": "we need some help. So let's make that an action please to is that when you're at that time"
+    },
+    {
+      "start": 3038.56,
+      "end": 3045.76,
+      "text": "is proactively engaged and then and you know I'm asking for some help for us to do that job."
+    },
+    {
+      "start": 3046.48,
+      "end": 3050.24,
+      "text": "I actually find the conversation that we're not just with understanding this and it's"
+    },
+    {
+      "start": 3050.24,
+      "end": 3056.96,
+      "text": "great to give all members a general basis of what this machine is but also potentially to"
+    },
+    {
+      "start": 3057.6,
+      "end": 3065.12,
+      "text": "to meet at a certain cadence to engage with you how are we tracking the work that you're doing in"
+    },
+    {
+      "start": 3065.12,
+      "end": 3070.72,
+      "text": "the M\u0101ori space and receiving that data is potentially you diarise some form of a catch-up"
+    },
+    {
+      "start": 3070.72,
+      "end": 3075.68,
+      "text": "with your briefness on how that progress is because it's that kind of information for us to then"
+    },
+    {
+      "start": 3075.68,
+      "end": 3081.36,
+      "text": "ask the appropriate questions when we have people in front of us so I'd ask of that a few"
+    },
+    {
+      "start": 3081.36,
+      "end": 3085.12,
+      "text": "other lines. Yeah that would be fabulous thank you sorry that was a difficult question to"
+    },
+    {
+      "start": 3085.12,
+      "end": 3088.56,
+      "text": "answer appreciate you know answering in a that way because the onus is currently on us"
+    },
+    {
+      "start": 3088.56,
+      "end": 3093.84,
+      "text": "so I think that opportunity to update regularly would be helpful. Okay so that's the data in"
+    },
+    {
+      "start": 3094.8,
+      "end": 3100.16,
+      "text": "okay the other question I have in the short time we have here is uh as as mentioned is"
+    },
+    {
+      "start": 3100.16,
+      "end": 3106.88,
+      "text": "articulate I think we have people um that would value access and and doing some great work"
+    },
+    {
+      "start": 3106.88,
+      "end": 3111.12,
+      "text": "and providing us with information say this is where we need to focus we've got problems here"
+    },
+    {
+      "start": 3111.12,
+      "end": 3119.92,
+      "text": "is what are we proactively doing to ensure that we're maximising quality engagement from"
+    },
+    {
+      "start": 3120.0,
+      "end": 3133.0,
+      "text": "researches, et cetera, to use this machine. You've got this machine, get people starting to tap into it and use it to help out with policy, to help out with management governance, et cetera, et cetera."
+    },
+    {
+      "start": 3133.0,
+      "end": 3141.0,
+      "text": "So I'd like to understand also what are we doing on that side of it? Or are we just organic, we're just waiting for them to come and hopefully they learn about it?"
+    },
+    {
+      "start": 3141.0,
+      "end": 3149.0,
+      "text": "Or are we actually going out there pregnant? We've got this machine here and it could be quite valuable for some of the mahi, some of the PhDs."
+    },
+    {
+      "start": 3150.0,
+      "end": 3158.0,
+      "text": "Work that's happening out there, whatever it is. So yeah, so there's the data in and there's also the use of that data on the other side of it. I think it's important as well."
+    },
+    {
+      "start": 3158.0,
+      "end": 3167.0,
+      "text": "Yeah, we don't tend to need to drum up business for the IOA. Yeah, it's probably more us being able to keep up."
+    },
+    {
+      "start": 3167.0,
+      "end": 3188.0,
+      "text": "I think, though, what I would say is what I think a really good improvement and I think something that would be of interest to the committee and for our iwi M\u0101ori partners is some clearer stories about the value that is generated from the multitude of research projects that are in the IDI."
+    },
+    {
+      "start": 3188.0,
+      "end": 3198.0,
+      "text": "And that's always been a hard narrative for us to be able to articulate clearly. And so I think that's probably something that would be valuable."
+    },
+    {
+      "start": 3198.0,
+      "end": 3208.0,
+      "text": "Well, we could do that by a briefing such as this to work on those tangible outcomes and we can write a report that's tabled into the House, which then makes it public."
+    },
+    {
+      "start": 3209.0,
+      "end": 3219.0,
+      "text": "You know, that's one avenue to make sure that Decision Magazine is realizing the good work that's happening in some of the space and the challenges both sides of it itself."
+    },
+    {
+      "start": 3219.0,
+      "end": 3229.0,
+      "text": "So that's one thing that we could do. We're not an advertising agency, but we do have the ability to communicate. That's one of our purposes is to communicate what's happening here."
+    },
+    {
+      "start": 3229.0,
+      "end": 3240.0,
+      "text": "We could potentially do that as part of the briefing that we have in our engagement with you. Any last questions from any members just in the very short time we've got left?"
+    },
+    {
+      "start": 3240.0,
+      "end": 3249.6,
+      "text": "I found this very, very useful. This is actually part of an accountability settings and that"
+    },
+    {
+      "start": 3249.6,
+      "end": 3255.6,
+      "text": "inquiry is actually based on the premise that we have the executive, the ministers that make"
+    },
+    {
+      "start": 3255.6,
+      "end": 3262.96,
+      "text": "decisions policy-wise. They have a vote, a quantity of putia, money to put through there and the"
+    },
+    {
+      "start": 3262.96,
+      "end": 3269.44,
+      "text": "traceability of that to delivering outcomes. Our experience thus far is that it's incredibly"
+    },
+    {
+      "start": 3269.44,
+      "end": 3274.56,
+      "text": "difficult in the mechanics of what Parliament is and we will potentially looking at where"
+    },
+    {
+      "start": 3274.56,
+      "end": 3280.72,
+      "text": "can IDI actually sit in that and providing accountability and that's a big question in"
+    },
+    {
+      "start": 3280.72,
+      "end": 3286.4,
+      "text": "itself and it may be something that you may want to take away. I think of what you can contribute"
+    },
+    {
+      "start": 3286.4,
+      "end": 3293.84,
+      "text": "to providing that out is when monies get distributed through different portfolios, different agencies"
+    },
+    {
+      "start": 3293.92,
+      "end": 3299.76,
+      "text": "to deliver an outcome such as on Te Reo M\u0101ori, for instance, you know, at the moment we've"
+    },
+    {
+      "start": 3299.76,
+      "end": 3304.88,
+      "text": "realised that it's going through a multitude of agencies to deliver a common outcome which is"
+    },
+    {
+      "start": 3304.88,
+      "end": 3312.56,
+      "text": "increase the quality of Te Reo M\u0101ori being used in Aotearoa sort of thing. So as an example"
+    },
+    {
+      "start": 3313.2,
+      "end": 3318.24,
+      "text": "because at the moment it's very, it's very, I call it almost like radio talk, it disappears"
+    },
+    {
+      "start": 3318.32,
+      "end": 3324.08,
+      "text": "into the abyss and it's very hard to hold people accountable for the outcome which is ultimately"
+    },
+    {
+      "start": 3324.08,
+      "end": 3329.52,
+      "text": "decided by the executive for the minister and of course you are in the game of data capture"
+    },
+    {
+      "start": 3330.24,
+      "end": 3336.96,
+      "text": "and you know the financial data is as important as many things that are in this place, that's"
+    },
+    {
+      "start": 3336.96,
+      "end": 3341.92,
+      "text": "the resource to get things done and how you play a part in helping us to do better than"
+    },
+    {
+      "start": 3342.0,
+      "end": 3348.0,
+      "text": "what we are today in gaining better clarity of their investment of taxpayer money."
+    },
+    {
+      "start": 3350.16,
+      "end": 3356.32,
+      "text": "One thing today that's called it and that is the lack of ability to attribute"
+    },
+    {
+      "start": 3357.36,
+      "end": 3360.0,
+      "text": "results to government."
+    },
+    {
+      "start": 3360.0,
+      "end": 3373.0,
+      "text": "polisiu i anakini, kus we're trying to track what governments are doing through the funding"
+    },
+    {
+      "start": 3373.0,
+      "end": 3382.0,
+      "text": "and whether the results are in fact due to the policies or just getting it right accidentally."
+    },
+    {
+      "start": 3382.0,
+      "end": 3384.0,
+      "text": "Yeah, in spite of the policies."
+    },
+    {
+      "start": 3384.0,
+      "end": 3387.0,
+      "text": "So that's our inquiry itself."
+    },
+    {
+      "start": 3387.0,
+      "end": 3393.0,
+      "text": "And this has been really interesting to learn the tool which is what Stax NZ are doing with IDI"
+    },
+    {
+      "start": 3393.0,
+      "end": 3397.0,
+      "text": "and also your LBD as well."
+    },
+    {
+      "start": 3397.0,
+      "end": 3399.0,
+      "text": "Yeah, so it's been very helpful."
+    },
+    {
+      "start": 3399.0,
+      "end": 3402.0,
+      "text": "I thank you very much for making time for such a short notice to come before us."
+    },
+    {
+      "start": 3402.0,
+      "end": 3404.0,
+      "text": "Appreciate that."
+    },
+    {
+      "start": 3404.0,
+      "end": 3407.0,
+      "text": "And hopefully we'll have some actions for the future as well"
+    },
+    {
+      "start": 3407.0,
+      "end": 3410.0,
+      "text": "when your piece of work done is gathering what data you're looking for"
+    },
+    {
+      "start": 3410.0,
+      "end": 3413.0,
+      "text": "but also to gain some information if you really do want"
+    },
+    {
+      "start": 3413.0,
+      "end": 3418.0,
+      "text": "perhaps some of the good stories to be told later to understand what those stories"
+    },
+    {
+      "start": 3418.0,
+      "end": 3421.0,
+      "text": "and then we can see what we can do with potentially the briefing,"
+    },
+    {
+      "start": 3421.0,
+      "end": 3427.0,
+      "text": "gathering that information, but I'm reporting that to the House."
+    },
+    {
+      "start": 3427.0,
+      "end": 3429.0,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3429.0,
+      "end": 3431.0,
+      "text": "Thank you."
+    }
+  ]
+}
