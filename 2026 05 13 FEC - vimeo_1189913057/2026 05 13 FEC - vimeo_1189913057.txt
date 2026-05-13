@@ -1,0 +1,600 @@
+Title: 2026 05 13 FEC
+URL: https://vimeo.com/1189913057
+Published: 2026-05-13
+Duration: 00:26:48
+
+[00:00:00] I'll hand over to you just for some opening comments and introductions, and maybe
+[00:00:03] just go from there.
+[00:00:04] Great. Thanks very much, Chair. I'm David McLean.
+[00:00:07] I'm the chair of Kiwi Group Capital.
+[00:00:09] And this is, as you know, Steve Ujkic, the CEO of Kiwibank.
+[00:00:14] We're very pleased to be invited back to the Select Committee.
+[00:00:17] We're here, in theory, to talk about the
+[00:00:20] financial year ended 30 June 2025, but it does feel like quite a long time ago,
+[00:00:24] and there's been a lot of events happening since.
+[00:00:26] And in particular, just the
+[00:00:29] ripples and the waves from the situation in the Middle East
+[00:00:33] flowing through to affecting and impacting New Zealand businesses and New Zealand
+[00:00:37] households. And I think just reinforcing for Kiwibank in particular,
+[00:00:41] its role
+[00:00:42] to
+[00:00:43] Kiwi helping Kiwi,
+[00:00:45] and very important in times like this that
+[00:00:49] Kiwibank can fulfill its purpose and help New Zealanders get through these tough
+[00:00:53] times. So, we look forward to your questions. Thank you very much.
+[00:00:57] Thank you.
+[00:01:00] Dr David Wilson, go for it.
+[00:01:03] Once again, Chair, I need to
+[00:01:05] make a declaration that
+[00:01:07] I was a victim of financial fraud,
+[00:01:10] through which one of the mule accounts was with Kiwibank.
+[00:01:14] So my question really is that I notice that financial information supporting
+[00:01:18] systems and controls needs improvement.
+[00:01:21] So my question is, how are the controls around
+[00:01:24] protecting
+[00:01:26] customers from fraud and the
+[00:01:30] money laundering activity that passes through the bank?
+[00:01:34] Hi, Steve.
+[00:01:35] Yep. Thank you. And thanks for your question, David.
+[00:01:37] I believe we've made really good progress.
+[00:01:39] The needs improvement does reflect
+[00:01:42] a specific convention around it's
+[00:01:46] extremely difficult to get higher than a needs improvement, the amount of
+[00:01:49] investment and amount of time required to get there.
+[00:01:51] So very focused on making improvements there.
+[00:01:54] But to get to a standard where I think you wouldn't
+[00:01:58] have that sort of rating will take quite a long time.
+[00:02:01] We have made material steps, and we're one of the
+[00:02:05] first to launch verification,
+[00:02:08] so account verification, and we're at the forefront of that.
+[00:02:12] Our
+[00:02:13] progress on resolving fraud, we've made considerable
+[00:02:17] progress from where we were probably seen across the market as one of the slower
+[00:02:21] ones to respond on complaints.
+[00:02:24] And we've been at the forefront of putting the new rules in
+[00:02:28] for the banking code of conduct, which I'm sure you'll be familiar with, as
+[00:02:32] bringing quite significant new obligations.
+[00:02:35] I think probably overdue obligations, to be fair.
+[00:02:37] But new obligations around what's required from banks.
+[00:02:40] There is some settling in period about the receiving bank, which
+[00:02:44] is obviously what you've alluded to with the mule activity.
+[00:02:47] And wearing another hat, I'm on the Banking Ombudsman Board, and I'm
+[00:02:51] very conscious that the Banking Ombudsman is wanting to push and get
+[00:02:55] clarity on that space. So hopefully we get much more satisfactory resolutions.
+[00:02:59] Yeah, I think that area is still kind of unresolved in terms of the
+[00:03:03] activity.
+[00:03:03] It is, and as
+[00:03:05] you'll be very unfortunately
+[00:03:09] familiar with, there's categories where we've got people that
+[00:03:13] are kind of
+[00:03:14] willfully blind to the situation-
+[00:03:16] Mm
+[00:03:17] ... and show a pattern, and those are far more easily identified than those in the
+[00:03:21] one-off situation.
+[00:03:23] Quite often there is difficult social circumstances where people are,
+[00:03:27] this may be their last chance to try and get themselves out of a corner.
+[00:03:31] Yeah.
+[00:03:31] That's much more difficult to detect.
+[00:03:33] But I certainly take the point that we need to do everything we can to
+[00:03:37] strengthen that space.
+[00:03:39] Is that a supplementary from-
+[00:03:40] Supplementary, yeah. Thanks, gentlemen. Welcome.
+[00:03:43] Around the same topic or add on, because obviously, yeah, one of the things
+[00:03:48] in the audit report was around these controls,
+[00:03:53] and access management, et cetera.
+[00:03:54] I understand that obviously you are also doing a new technology platform.
+[00:03:58] Yep.
+[00:03:59] Some of that's to enable open banking, et cetera, but I'm
+[00:04:02] assuming also that would address some of the issues that were raised in the audit
+[00:04:06] report and can you tell us the progress on that platform?
+[00:04:08] Yeah.
+[00:04:10] Absolutely at the heart of transformation is a set of capabilities that you're
+[00:04:13] talking about around segregation of duties.
+[00:04:16] User identity access management is one of the biggest investments in technology,
+[00:04:21] to really push us to a situation where we absolutely think that we've got
+[00:04:25] a global standard of that. The challenge we've had, some of the systems
+[00:04:29] are from the start of Kiwibank, 24 years old.
+[00:04:33] As you would imagine, technology that was built 24 years ago doesn't
+[00:04:37] play that well with the sort of modern architecture that we've
+[00:04:41] done, and one of the great challenges of banking transformation is you're trying to
+[00:04:44] get 25-year-old tech to talk to brand new stuff.
+[00:04:47] Mm.
+[00:04:48] And that's not always an easy marriage between those two.
+[00:04:52] But certainly, the cybersecurity and the identity access
+[00:04:56] management are two of the largest components of the investment we're making.
+[00:04:59] And we have to run fast because we're up against
+[00:05:03] global networks of well-organized criminals who are extremely innovative
+[00:05:07] and getting new tools all the time.
+[00:05:09] For example, the new Mythos AI which
+[00:05:12] gives
+[00:05:13] next-level capability for hackers.
+[00:05:15] So we have to run really hard at this space, and we're really committed to
+[00:05:18] investing in it.
+[00:05:19] Yeah, I think the vast majority of New Zealanders would be very surprised with the
+[00:05:22] sophistication of cyber criminals.
+[00:05:25] How diversified they are, where they're operating from, marketplaces that they're
+[00:05:28] operating on, have customer satisfaction scores, all those things
+[00:05:32] you'd expect in a very large corporate.
+[00:05:34] It's probably the second most profitable business in the world, behind drugs, I
+[00:05:38] suspect.
+[00:05:39] And the other thing I'd say is just a plea that it's important that all of New
+[00:05:43] Zealand work together on this as well.
+[00:05:45] So as well as us doing it individually, we want New Zealand to be seen globally as
+[00:05:48] a tough nut to crack.
+[00:05:50] Yeah.
+[00:05:50] And so we're very committed to working with groups convened by the government
+[00:05:54] to ensure our national cybersecurity is up to scratch.
+[00:05:57] Certainly hope that at some stage the committee might find its chance to invite the
+[00:06:01] Metas of the world to come in and talk about what extra activity they could
+[00:06:05] undertake to protect us.
+[00:06:07] Mm.
+[00:06:07] I've been, and Catherine from Westpac, has been the subject of a deep AI
+[00:06:11] fake just in recent times, pushing an investment scam.
+[00:06:14] It's very unsettling when it's you.Not more so for the people that might think it's
+[00:06:18] legitimate.
+[00:06:20] And it's far too hard to get that stuff taken down by companies like Meta.
+[00:06:24] Thank you. We've got a new primary question from Nancy Liu.
+[00:06:27] Thank you, Chair, and welcome. Good to see you.
+[00:06:30] In your opening remarks, you made mention of obviously the
+[00:06:34] very unprecedented uncertainty we have around the world right now.
+[00:06:38] So I want to understand from you, a couple of things,
+[00:06:42] including how is performance tracking so far at Tsodact,
+[00:06:47] knowing that we are talking about the financial year ended almost a year ago, but
+[00:06:50] also the provision for the expected credit loss.
+[00:06:54] Yep.
+[00:06:54] And more broadly, just from your perspective and
+[00:06:59] your communications with your customers, with your clients, how are they going?
+[00:07:03] Yeah, sure. So I'll start with the customers first.
+[00:07:05] I
+[00:07:06] think New Zealanders show that they are very resilient, and keeping a roof
+[00:07:10] over their head shows that they are very prepared to make sacrifices to
+[00:07:14] do so. So our impairments, and people being
+[00:07:18] in a bad debt category are still pretty small, to be fair.
+[00:07:22] On the rise, but when you think about our borrowers,
+[00:07:25] 99.6% of them are up to date. So, the
+[00:07:29] vast majority of New Zealanders are navigating.
+[00:07:32] What it does have a very clear knock-on impact too, and I think you can see it
+[00:07:35] regardless of where your constituents are, that discretionary spending
+[00:07:39] is off very significantly.
+[00:07:43] And the economic headwinds of fuel are probably the most direct tax
+[00:07:47] that I've seen in my career. I think-
+[00:07:48] Mm-hmm
+[00:07:49] ... its ability to really hamper discretionary spend and make it
+[00:07:53] really difficult for companies that don't have the ability to pass on
+[00:07:57] those charges, I think are doing it tough.
+[00:08:00] We haven't seen any significant
+[00:08:03] fallout, but I think it's fair to say that people's numbers will be down
+[00:08:08] really materially, which usually takes a little while to play
+[00:08:11] through. We are making as many calls as we can.
+[00:08:14] We always encourage people to speak to us as early as they can because that gives
+[00:08:17] us our best chance to try and help them.
+[00:08:20] But for instance, we haven't had a mortgagee sale.
+[00:08:23] And so,
+[00:08:25] most customers are navigating really difficult times.
+[00:08:27] In terms of provisions, we've got $128 million provided for
+[00:08:32] as at the last quarterly Reserve Bank, which is the last
+[00:08:36] public numbers. That's $92 million of its collective.
+[00:08:39] So,
+[00:08:40] we are going to, I'm sure... I'm sort of getting ahead of myself a little bit, but
+[00:08:44] I'd be very confident we'll follow the other big three banks who just announced by
+[00:08:48] adding on more collective provision.
+[00:08:50] Okay.
+[00:08:50] We have talked about, at our executive risk committee, the need
+[00:08:54] to go to a more pessimistic economic scenario.
+[00:08:58] So we run three scenarios and I guess a status quo, a
+[00:09:02] slightly pessimistic, and a more pessimistic.
+[00:09:04] The difference between the middle one and the bottom one is about another $9
+[00:09:07] million in overlay.
+[00:09:10] And I would expect that that would be going to the end of the year and would be
+[00:09:13] coming through. So we'll be making more provisions.
+[00:09:16] Having said that, at $128 million,
+[00:09:19] I think that we are well provided for and we've got good capital buffers for
+[00:09:23] tough times.
+[00:09:25] Good. Thank you.
+[00:09:25] Thank you. Dr. Deborah Russell.
+[00:09:27] I was going to ask a primary along the same lines because you did talk
+[00:09:31] about how you are supporting your customers.
+[00:09:33] I guess, we are sitting now in the fuel
+[00:09:37] crisis, which is
+[00:09:39] driven out of the Middle East. And a few years back,
+[00:09:43] we had the COVID crisis, and a few years before that,
+[00:09:47] we had the global financial crisis.
+[00:09:51] So similar sorts of shocks and difficulties.
+[00:09:54] Are you able to draw on that past experience in order to work out what you do now?
+[00:09:58] Yeah, you are. It's a great point you make, particularly the playbook from the
+[00:10:01] COVID period and now around early
+[00:10:05] identification of people that are suffering stress.
+[00:10:08] So where we've seen people eating into savings quicker than they've traditionally
+[00:10:12] done over the last period,
+[00:10:14] whether
+[00:10:16] it be more frequent calls to our contact center, those sorts of things, and a much
+[00:10:20] stronger,
+[00:10:21] for lack of a better description, much stronger rhythm about a reach-out program.
+[00:10:25] So going to customers proactively.
+[00:10:27] I would say that's probably one of the number one features where we've built a much
+[00:10:30] stronger capability to use all of our team to do that
+[00:10:34] outbound calling.
+[00:10:36] Whereas pre-COVID, that would've been limited to the amount of people we had in the
+[00:10:39] contact center. Now we've got up to 1,000 frontline staff that can be making those
+[00:10:42] care calls,
+[00:10:44] off a much stronger technology base with a much stronger way to record where
+[00:10:48] they're at. So I'd say that's the number one way.
+[00:10:50] I think the second way is,
+[00:10:53] in all three of those crisis, is that patience has been rewarded.
+[00:10:57] That cycles are bad, that they're hard going, but they don't last
+[00:11:01] forever. And so taking and staying open for business I think is
+[00:11:04] critical. But also recognizing that people will turn a
+[00:11:08] corner.
+[00:11:09] Mm-hmm.
+[00:11:09] Who knows when?
+[00:11:11] But that's the job of a bank is to just be a bit resilient and patient in these
+[00:11:14] situations.
+[00:11:15] No, I know it's hard to-
+[00:11:18] I completely agree. I know if you can sit tight, it
+[00:11:21] helps at this stage.
+[00:11:26] There's degrees of uncertainty in this.
+[00:11:28] Are you finding it
+[00:11:30] possible to model possible outcomes in this scenario that you weren't in COVID, or
+[00:11:34] the other way around, or is it just sort of they're too different to be able to
+[00:11:38] sort of-
+[00:11:39] I think it's almost too early as well.
+[00:11:40] Right. Sure.
+[00:11:42] But that's active work will be going on. It's going on at the moment.
+[00:11:45] Yeah.
+[00:11:45] Modeling that with the economics team, the credit team.
+[00:11:48] Modeling different scenarios, as Steve said.
+[00:11:51] Yeah.
+[00:11:51] Plugging them in and saying, "What is that likely to mean for people?"
+[00:11:54] Yeah.
+[00:11:54] Yeah.
+[00:11:55] And there's also a not... The FRS requirements are very
+[00:11:58] particular about how you do that, but there is also has to be room for an
+[00:12:02] overlay, which is about that uncertainty that you talked to.
+[00:12:06] Yeah.
+[00:12:06] Which is actually the unknowns.
+[00:12:08] Yeah.
+[00:12:08] So if you'd asked us a month ago, how long was this going to last?
+[00:12:11] I'm sure half the room might've said in the next few weeks.
+[00:12:14] Today, I'm not sure any of us would-
+[00:12:15] Yeah
+[00:12:16] ... be as bold as that. So-
+[00:12:17] Mm-hmm
+[00:12:17] ... making sure that the models can tell you a lot, but they can't tell you
+[00:12:20] everything.
+[00:12:21] Yeah. We're what? We're three months into this now, are we?
+[00:12:24] And-
+[00:12:24] Three months into the two-week war. Yeah.
+[00:12:26] I was trying to remember back to COVID.
+[00:12:28] We're-
+[00:12:30] Yeah
+[00:12:30] We had a little bit more advance warning that it was coming because it started to
+[00:12:33] affect overseas before it-
+[00:12:34] Mm
+[00:12:34] ... got to us.
+[00:12:35] Yeah.
+[00:12:35] But then it was so uncertain for quite a long time as to how it was going to
+[00:12:38] develop and-
+[00:12:39] We have also had an eye on the, global financial crisis, although only the older
+[00:12:43] ones of us can remember that.
+[00:12:45] Yeah.
+[00:12:46] But, that in particular, the implications for that if global financial
+[00:12:49] markets were to be materially affected and shut down.
+[00:12:53] And in the early stages of this Iran crisis, there were bumps
+[00:12:57] in the availability of funding from global wholesale markets.
+[00:13:00] So that sort of playbook's been dusted off.
+[00:13:02] It doesn't look like it's an issue at the moment, but that's quite relevant
+[00:13:06] for banks where part of your funding comes from global financial markets.
+[00:13:09] Yeah. It's a great point that David made.
+[00:13:11] I should've made that point, which is, our number one priority from our board has
+[00:13:14] been liquidity.
+[00:13:15] Yeah
+[00:13:15] To make sure that we're in a situation that we don't... GFC markets did lock up.
+[00:13:20] We raised 600 million Swiss dollars in really recent
+[00:13:23] times, but there was probably a one or two days during that fortnight that you
+[00:13:27] wouldn't have want to been going to the market.
+[00:13:29] Sure. Yep.
+[00:13:30] And to David's point, it isn't not available, it's just
+[00:13:34] a lot more expensive than you would want.
+[00:13:36] And once you've got that on board, you've got it for six years.
+[00:13:39] So you've got to balance liquidity and
+[00:13:42] sustainable returns.
+[00:13:44] So if I'm possibly drawing a little bit too much out of what you said, so
+[00:13:48] it'll be my last comment. I get the feeling that this crisis then, from your point
+[00:13:52] of view, is maybe a little more similar to the global financial
+[00:13:56] crisis than it was to COVID, but they are nevertheless crises from which you can
+[00:14:00] learn lessons.
+[00:14:00] Yeah, I think that's right.
+[00:14:01] Yeah.
+[00:14:02] Yeah.
+[00:14:02] I was going to say the GFC perhaps more on the macro-
+[00:14:05] Yeah
+[00:14:05] ... funding markets. And COVID perhaps, in the early stages anyway, on
+[00:14:09] the impact on individual businesses.
+[00:14:12] Right.
+[00:14:12] But COVID then sort of turned the other way around where it was stay-at-home
+[00:14:16] shopping and things sort of changed quite quickly.
+[00:14:18] So-
+[00:14:18] Yeah
+[00:14:19] ... yeah.
+[00:14:19] Okay. Thank you.
+[00:14:20] Thanks. David, is yours a supplementary or...?
+[00:14:22] Yes, it is. To Deborah's point, and runs down the same lines
+[00:14:26] really.
+[00:14:27] So have you, seen as how we're now looking forward and taking account of
+[00:14:31] the
+[00:14:32] Iran crisis, have you seen substantive changes
+[00:14:36] in terms of residential versus commercial lending?
+[00:14:41] Well, both are very quiet.
+[00:14:44] I would say in the business space,
+[00:14:47] customers that just don't have the confidence to make commitment about capital
+[00:14:50] equipment and-
+[00:14:51] Mm
+[00:14:51] ... and making big shifts. We've got a number of customers who were ready
+[00:14:55] to go, either committing to, say, a large lease or committing to
+[00:14:59] a new capital project that have just put that on the back burner.
+[00:15:02] Mm.
+[00:15:03] So that's sort of different to
+[00:15:05] the other committee question, which was around,
+[00:15:08] are you seeing problems? I think people are holding onto the cash they've got.
+[00:15:11] So in the same way as liquidity's king for us, liquidity is king for customers.
+[00:15:16] Residential particularly, not so much first home buyer, that's still
+[00:15:20] pretty
+[00:15:21] strong.
+[00:15:21] Yeah.
+[00:15:23] But what we have seen in our commercial property space is anyone buying off the
+[00:15:26] plans has just walked away.
+[00:15:28] Mm.
+[00:15:28] So there's no activity of people wanting to buy off the plans at the moment,
+[00:15:31] because they're just not sure what those properties are going to be worth by the
+[00:15:34] time they're constructed. Construction costs
+[00:15:37] look vulnerable to the crisis that we're in at the moment, so
+[00:15:41] just much slower. All those things have a knock-on, so if you're
+[00:15:45] collecting waste from a building site, that building site's not happening anymore.
+[00:15:49] So we're seeing the second and third order knock-ons for businesses.
+[00:15:53] Mm.
+[00:15:53] Not just the construction businesses, but those that support them, the
+[00:15:56] subcontractors, everyone. Everyone's a lot quieter.
+[00:15:59] And Bidwell.
+[00:16:00] Thanks, Mr. Chair, and thanks Steve and David, and to your team for coming
+[00:16:03] today. The year in review coincided with the
+[00:16:07] banking inquiry,
+[00:16:09] which you're no doubt-
+[00:16:10] Yes
+[00:16:10] ... aware of and familiar with. And,
+[00:16:12] I think actually there's very few things that we all agree on, but we all want Kiwi
+[00:16:16] Bank actually to do well and to become a sizable
+[00:16:20] competitor in the market.
+[00:16:23] I guess my question to you is,
+[00:16:26] most of the debate around that pathway to being a competitor
+[00:16:29] for Kiwi Bank revolves around capital structure, so raising
+[00:16:33] money from the market,
+[00:16:35] capital injection from your shareholder,
+[00:16:38] or other such mechanisms. My question to you is, in the
+[00:16:42] absence of the capital structure
+[00:16:46] question, what are the other pathways that exist
+[00:16:50] for Kiwi Bank to realistically move to a large player in the
+[00:16:54] market?
+[00:16:54] Yeah. Well, first of all, I'd welcome the fact that everyone agrees
+[00:16:58] that we want Kiwi Bank to succeed, and I particularly thank Dr.
+[00:17:02] Deborah and Francisco for wearing the Kiwi Bank black and green today.
+[00:17:07] But,
+[00:17:09] no, this is
+[00:17:11] very important.
+[00:17:11] Love Kiwi Bank.
+[00:17:12] The
+[00:17:14] banks need to grow and be successful.
+[00:17:16] We need Kiwi Bank to have a bigger impact in the market, it has to be a bigger
+[00:17:20] share in the market.
+[00:17:21] When it's 7.5% or something market share, the big banks can
+[00:17:25] afford to sort of ignore it. If it was 15%, it would be very
+[00:17:28] hard to ignore and we could have much more effect in the market.
+[00:17:31] To do that, you need two things. You need capability and you need ongoing sources
+[00:17:35] of capital. Capability is going to be addressed by two things, the
+[00:17:39] people and the technology. People, already Kiwi Bank, because of its brand
+[00:17:42] positioning and the fact that it's seen as a bit of a challenger and disruptor,
+[00:17:46] Kiwi Bank now has a really attractive employment proposition and is hiring the best
+[00:17:49] people in the market, which is good.
+[00:17:51] The technology transformation project, which is replacing the core IT, will give it
+[00:17:55] a capability that is a generation ahead of the big banks.
+[00:17:58] So as we get further through that, we'll have that capability.
+[00:18:02] But you also, if you're growing, you need ongoing sources of capital.
+[00:18:06] Mm.
+[00:18:07] And banks need to plan this out for sort of several years.
+[00:18:09] You don't want to be running short and having to come to the market.
+[00:18:12] And at the moment, thanks to the Reserve Bank's changes
+[00:18:16] announced late last year-
+[00:18:19] Mm
+[00:18:19] ... the effect of those capital changes by the Reserve Bank
+[00:18:22] effectively gave Kiwi Bank about 500 million more
+[00:18:26] capital headroom, which translates to something like 20 billion of mortgage
+[00:18:30] lending, if you did it all in mortgage lending.
+[00:18:32] And so that has made a huge difference to our outlook.
+[00:18:36] So,
+[00:18:37] for the next two or three years, we-You know, or more
+[00:18:41] Mm-hmm
+[00:18:41] ... depending on how fast the economy grows and how fast we grow within it.
+[00:18:44] Yeah.
+[00:18:45] We're okay from the capital point of view, but we always need to be planning and
+[00:18:48] looking ahead and saying, "In three to five years' time we're going to need more,
+[00:18:52] so we need to be working well ahead of time to-
+[00:18:54] Yeah
+[00:18:54] ... to plan for that."
+[00:18:55] That's positive in terms of the sizable difference from those capital
+[00:18:59] requirement changes.
+[00:19:01] Are you able to give us a sense of what
+[00:19:06] made the biggest difference from that RBNZ capital review?
+[00:19:09] Was it just the ratios, the capital ratio?
+[00:19:12] Was it the risk weights? Was it-
+[00:19:15] Yeah
+[00:19:15] ... you know, was it everything from-
+[00:19:17] ... what was the
+[00:19:18] Yeah, a combo really. I mean, in the near term, the risk-weighted asset leveling
+[00:19:22] the playing, well, nearly leveling the playing field after more than two decades of
+[00:19:25] being
+[00:19:27] disadvantaged compared to the big players, was very welcome.
+[00:19:31] I think the second part that you touched on was the step-up.
+[00:19:34] Mm.
+[00:19:34] So as we were planning capital planning with the step-ups, that obviously meant
+[00:19:37] that we had to be really careful about what the capital planning was.
+[00:19:41] Having those moderated meant that two levers were really
+[00:19:45] strengthen the position.
+[00:19:46] Mm.
+[00:19:46] And of course, as David touched on, it was the equivalent of $500 million
+[00:19:51] being injected, but of course, we didn't have to go and raise it-
+[00:19:54] Mm
+[00:19:54] ... and didn't have to pay for it. So there's a benefit from that as well, which
+[00:19:58] is-
+[00:19:58] Yes, thank you
+[00:19:59] ... and I think reflects the fact that for a long time it didn't make any sense
+[00:20:02] that we were carrying 60 more percent more capital for a loan
+[00:20:06] compared to ANZ.
+[00:20:07] Mm. No, great news. Thank you.
+[00:20:09] Just a supplementary on that. So that gives you that effectively the equivalent of
+[00:20:13] a capital injection, just giving you more runway.
+[00:20:15] Mm-hmm.
+[00:20:16] But does that also give the other banks
+[00:20:18] more ability to lend as well and sort of neutralize your position on it?
+[00:20:22] Not really, because they're in the same position that they were in before because
+[00:20:24] their internal models had given them the advantage.
+[00:20:27] So, it
+[00:20:29] chops the advantage of someone like ANZ from being 50%
+[00:20:33] ahead of us to being 10% ahead.
+[00:20:35] Is it the tier two element of it?
+[00:20:37] Well, a combination really. It's just the amount of capital that you're holding for
+[00:20:40] the assets that you have-
+[00:20:42] ... was the key feature of that, the risk-weighted asset element of it.
+[00:20:45] That's the big change.
+[00:20:48] So, that
+[00:20:49] gives you a chance to be more competitive.
+[00:20:52] But the things that David touched on around our own capability and scale, as called
+[00:20:56] out by the Commerce Commission report in this last couple of days as well, is we
+[00:20:59] just need to keep growing. We need to be bigger and more influential.
+[00:21:03] In the time I've been here, I'm sure we have certainly had more influence and we're
+[00:21:06] talked about more in other boardrooms than we were.
+[00:21:09] But when we double the size in another five years, we'll be talked about even more
+[00:21:13] so. It's always been the mission to be bigger, to challenge harder.
+[00:21:17] And even if we don't win the customer, if you get a better deal, then we've
+[00:21:20] achieved what we were founded for, which is to make you better off.
+[00:21:23] Just in terms of your broader remit around open banking.
+[00:21:26] Mm-hmm.
+[00:21:27] I know you're a bit of a
+[00:21:28] perhaps-
+[00:21:29] Two weeks away
+[00:21:29] ... hesitate to-
+[00:21:30] Two weeks away from from launching
+[00:21:32] ... I hesitate to use the word laggard, but I think when you were here last time,
+[00:21:35] you said you'll actually have the ability to leapfrog.
+[00:21:37] But-
+[00:21:37] Yeah, we will. So we're launching...
+[00:21:39] The team will be pleased that I'm committing to it publicly, but the 29th of
+[00:21:44] May we'll be out with open banking.
+[00:21:46] The product that we come out with open banking will be the third generation, so
+[00:21:50] we'll be the first to that generation of open banking.
+[00:21:52] It'll also mean we'll be far faster to open banking for business banking as well.
+[00:21:57] And the technology we've chosen, which is homegrown and successfully
+[00:22:01] done in Australia, is a far more flexible solution
+[00:22:05] for fintechs joining us than it is for the Australian players.
+[00:22:09] And this was, to be fair, we were later, but it was an agreed and
+[00:22:13] programmed later date rather than we asked for a delay.
+[00:22:17] But I think we're in strong suit. I also think, if you do want an example of
+[00:22:21] where a smaller player can make a shift, our announcement that we
+[00:22:25] wouldn't charge for data feeds
+[00:22:27] got a response from four others who joined us after we announced.
+[00:22:30] So up until that announcement, they were going to charge you for your data to be
+[00:22:33] fed into open banking.
+[00:22:35] Our stance to never charge you for your own data did influence others, I believe.
+[00:22:38] And so-
+[00:22:39] ... that's an example where the technology will be easier.
+[00:22:42] We know as the smallest player we've got to partner better.
+[00:22:45] And so if we can bring other capabilities into the market, just like we do with
+[00:22:48] advisors, we should do that, and customers will choose.
+[00:22:51] So I'm sure they'll choose some great fintech solutions, and we'll be the
+[00:22:55] plumbing, and customers will enjoy that, just like you've got multiple apps on your
+[00:22:58] phone.
+[00:22:59] Steve, can you give us for the hundreds of viewers that'll be tuned
+[00:23:04] Can you give us a layman's version of an example that you'll be rolling out in
+[00:23:08] terms of open banking? What does it mean to your average business or user?
+[00:23:11] Yeah. So, if you think about collecting your information for a home loan, for
+[00:23:15] instance. So you think, "Geez, maybe I can get a better deal from my home loan."
+[00:23:20] But one of the things you worry about is, "I don't really have the time to get all
+[00:23:23] my information together, and then I've got to go and collect it and go and find my
+[00:23:26] broker." Open banking will be a classic example where you'll be able to
+[00:23:29] permission the bank to provide all that information directly to a broker.
+[00:23:34] At the moment, we do that for our own customers, but we'll be able to do it for
+[00:23:36] others now. So that broker will have the very latest financial information
+[00:23:41] in real time with 100% certainty that the information hasn't been
+[00:23:45] manipulated. That means a faster time to yes.
+[00:23:47] So for many, many, 70% of New Zealanders who go to a home loan advisor,
+[00:23:51] that will mean a far easier and cleaner experience.
+[00:23:54] I think the classic example is it won't be long before you see Airwallex and
+[00:23:58] Wise and others doing international payments via open banking.
+[00:24:01] And so, a lower cost to remit money overseas via open banking
+[00:24:05] solutions.
+[00:24:07] I think all of those are clear examples where fintechs can provide a
+[00:24:10] solution that should make banking more competitive.
+[00:24:13] Thanks. We've got a supplementary from Dr. David.
+[00:24:15] Yeah. And I'm not sure it's your issue to solve, but,
+[00:24:19] we've had discussions with various Pacific Island communities
+[00:24:23] around remittances and so on, and you see where I'm going with this.
+[00:24:26] Sure, yeah.
+[00:24:27] Some of those payment rails are just not really available to them.
+[00:24:29] No.
+[00:24:30] Can you make comment on that for us?
+[00:24:32] Yeah, I can. It's certainly
+[00:24:34] an extraordinarily uncomfortable space to see people working so hard
+[00:24:38] to support their whanau on the islands, and regardless of where they're going
+[00:24:42] overseas, to be charged so much.I don't think banks have done a good job.
+[00:24:46] It's
+[00:24:48] a classic example where the current banking systems are pretty opaque-
+[00:24:51] Mm
+[00:24:52] ... and quite difficult, and there's fees on each end.
+[00:24:55] And so that has opened up quite a significant market for remittance
+[00:24:59] processes who I think prey on a lack
+[00:25:03] of sometimes visibility, sometimes sophistication-
+[00:25:07] Yeah
+[00:25:07] ... sometimes the absolute need to get the money to a place.
+[00:25:09] And banks have tended to walk away from it because of the AML risk.
+[00:25:13] I think it's an area where
+[00:25:16] that's really ripe for fintechs and other technology players to do a much better
+[00:25:19] job at a lower cost.
+[00:25:21] Mm. So supplement.
+[00:25:22] Certainly hope that's the case.
+[00:25:23] Yeah. So, if we're talking, say, Wise-
+[00:25:26] Yeah
+[00:25:27] ... providing that access into
+[00:25:30] some are-
+[00:25:32] ... currently can't because you can't get a bank account.
+[00:25:34] Yep.
+[00:25:35] Yeah, I think what you'll probably see,
+[00:25:38] you'll probably see companies like-
+[00:25:41] ... global players like Airwallets be able to provide that capability, and
+[00:25:45] so I think they've got... I did look at it the other day.
+[00:25:48] I think they had 140 payment entry points.
+[00:25:51] So,
+[00:25:52] going to
+[00:25:54] like M-PESA, so like a prepaid account in Africa,
+[00:25:58] a Grab account in Indonesia, those sorts of things.
+[00:26:01] So the traditional bank account, I think,
+[00:26:04] Dr. David, will be different and I think if you can get the money to where it
+[00:26:08] needs to be spent from, like a Grab account in the Philippines or in
+[00:26:12] Malaysia- ... then you're actually giving yourself a decent chance to do a much
+[00:26:15] better, lower cost deal than needing a traditional landing place
+[00:26:19] where, for instance, some banks and big global banks have pulled out of
+[00:26:23] operating in those territories.
+[00:26:25] That's very advanced thinking. Thank you, Steve.
+[00:26:28] That seems to be the end of our questions.
+[00:26:29] Mm-hmm.
+[00:26:29] Thank you, David and Steve. It's great to have you both here and to see the
+[00:26:33] progress.
+[00:26:34] Thanks very much. Thanks for coming in.
+[00:26:35] Mm.
+[00:26:35] Thanks for speaking.
+[00:26:36] And we look forward to the 29th of May.
+[00:26:37] Yeah.
+[00:26:37] Yes.
+[00:26:38] Day after budget day.
+[00:26:40] Mm.
+[00:26:41] Thanks very much.
+[00:26:42] Thank you.
+[00:26:42] Thank you.
+[00:26:48] Yeah
