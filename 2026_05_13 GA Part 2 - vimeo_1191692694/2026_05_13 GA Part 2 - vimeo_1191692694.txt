@@ -1,0 +1,458 @@
+Title: 2026/05/13 GA Part 2
+URL: https://vimeo.com/1191692694
+Published: 2026-05-13
+Duration: 00:21:21
+
+[00:00:03] Number
+[00:01:11] across the whole place.
+[00:01:11] Yeah.
+[00:01:12] So when you're replacing 21, are you taking off 21 or are they not
+[00:01:16] operational?
+[00:01:16] That's what Christine's saying.
+[00:01:18] You're not independent under there?
+[00:01:20] In six stations?
+[00:01:21] Yeah.
+[00:01:22] So, if you look at, if we go page eight,
+[00:01:26] which is the fleet on the 1st July
+[00:01:29] 2017,
+[00:01:31] and page 11, which is the fleet on 1st May
+[00:01:35] 2026, they're essentially the same.
+[00:01:38] 1,266. This is 1,267.
+[00:01:41] Yep. I got that.
+[00:01:42] So we're essentially replacing old fleet with new fleet,
+[00:01:46] but not increasing the size of the fleet.
+[00:01:48] Yeah. So what I'm actually saying, so in 2017 and
+[00:01:52] 2018, you replaced 21.
+[00:01:54] Mm-hmm.
+[00:01:55] So what is the old fleet actually doing?
+[00:01:58] The machinery that you're actually replacing-
+[00:02:01] Replacing
+[00:02:01] ... equipment that you're replacing, are they at the time operational and you're
+[00:02:05] actually replacing one for one? Or are they not in operation and
+[00:02:09] you're replacing 21 that is actually missing 21?
+[00:02:12] That's the question.
+[00:02:12] This is what I'm getting at.
+[00:02:13] So are they-
+[00:02:13] So are they, every time, every
+[00:02:18] opera- I mean every day that the fire-
+[00:02:21] Yep
+[00:02:21] ... brigade is actually in operation, is there a total of
+[00:02:25] 1,200 plus that is actually in operation?
+[00:02:28] Yeah.
+[00:02:28] Or I'm saying-
+[00:02:29] Mm. Mm
+[00:02:30] ... and what is the biggest number that is actually not in operation when you
+[00:02:34] are trying to replace them, is what I'm saying.
+[00:02:36] So to get maximum efficiency from our fleet, what we do is
+[00:02:40] we have a cascade model, so the busiest stations get the newest
+[00:02:43] appliances,
+[00:02:45] and then they cascade down to the next tier of stations.
+[00:02:49] So the older trucks sit with the stations that have the least amount of calls.
+[00:02:53] How many machinery, how many equip- fire trucks are
+[00:02:56] currently, today in
+[00:02:58] operation?
+[00:03:01] As of-
+[00:03:01] As of today
+[00:03:02] ... the 3rd of May-
+[00:03:03] Of course it is
+[00:03:04] ... there was-
+[00:03:04] That is actually on the road-
+[00:03:06] Appliances
+[00:03:06] ... and able and not broken down.
+[00:03:08] I couldn't give you that figure today because it's a
+[00:03:11] daily figure that changes. But we'd say is that
+[00:03:14] 1,267 appliances are in our fleet,
+[00:03:18] as such.
+[00:03:19] Yeah. So how many-
+[00:03:19] I just don't want to say there's that many today and then find out that one's
+[00:03:22] broken down somewhere across the-
+[00:03:24] Yeah. So out of 1,267 that is actually
+[00:03:27] supposedly in your fleet, how many are not actually operating?
+[00:03:31] Today?
+[00:03:32] Yeah.
+[00:03:33] Like I said, I couldn't give you the exact number, because that depends
+[00:03:37] on any given time, any given moment, whether one breaks down, it's-
+[00:03:41] What percentage of it is actually operational?
+[00:03:44] Roughly. I mean, you're not counting the ones that's about to break down today.
+[00:03:48] Yes. Well, roughly I'd expect about-
+[00:03:49] Yeah. Okay, then we go yesterday. How many as of yesterday is actually
+[00:03:52] currently in operation?
+[00:03:53] Roughly I would expect that-
+[00:03:54] Is it 1,267?
+[00:03:55] I would expect that that's the case. Mm-hmm.
+[00:03:57] Right.
+[00:03:58] Mm-hmm.
+[00:03:58] Okay. Thank you. I'm going to move to Lamonia and then
+[00:04:02] Micah.
+[00:04:03] Thank you. So mine could be a sub on Melissa's, but more
+[00:04:07] so coming back to Mia when we talked about when you've got
+[00:04:11] appliances going to different jobs and you've got quite a
+[00:04:15] broad view. Is there a system that tracks
+[00:04:19] the
+[00:04:21] incidences, per se, and I'm more talking about an
+[00:04:25] overall automated system.
+[00:04:27] Mm-hmm.
+[00:04:28] And then how do you know at mothership that there is breakdowns on the
+[00:04:32] way there or breakdowns, is there a
+[00:04:34] monitoring tool that captures all of that?
+[00:04:37] And how often would you guys look at that?
+[00:04:41] Do you want to speak to that or should I-
+[00:04:42] Sure. Certainly. So in my portfolio I have the communications center,
+[00:04:46] and that is I guess what you'd call the mothership.
+[00:04:48] Right.
+[00:04:48] So,
+[00:04:49] every time an appliance is tasked to a job, it's done through the
+[00:04:53] communication center. Those appliances
+[00:04:57] give advice back to the comms center of when they're en route, when they arrive at
+[00:05:01] a job, status updates, et cetera. So when you looked at
+[00:05:05] that
+[00:05:07] diagram where we said that they were
+[00:05:10] code 10, I think we said code zero, I beg
+[00:05:14] your pardon, that's our crews telling the comms center that
+[00:05:18] they were not available for turnout, and that's where those figures have come from.
+[00:05:22] So there is a overall system.
+[00:05:24] I think just in the wider system as well, every call
+[00:05:28] type is categorized, so it's put into an incident type.
+[00:05:32] And then from that we have a predetermined attendance, so we'd have how many
+[00:05:36] appliances would go to that. So if it's a big high-rise building, it might be four
+[00:05:40] pumping appliances go, and an aerial go. So that's predetermined.
+[00:05:45] And then there's a thing called the beat list, which is the
+[00:05:48] order of appliances they go to. So when we talk about the network,
+[00:05:52] it's all predetermined, and it's all in place.
+[00:05:54] So if one appliance can't make it, well, then the communication
+[00:05:58] center automatically sends the next closest one that fits into that
+[00:06:01] predetermined attendance.
+[00:06:03] And so following on from that, Madam Chair, just very quickly.
+[00:06:06] So when there's breakdown on the way or there's breakdowns for whatever reason-
+[00:06:10] Another appliance will be dispatched
+[00:06:11] ... another, so you've got that sort of automated-
+[00:06:14] That redundancy
+[00:06:15] ... system that-
+[00:06:16] And what,
+[00:06:18] how or who actually reviews all of that data?
+[00:06:22] And is it done on a weekly basis, particularly that you've got eyes
+[00:06:26] on those areas that have broken down, and what's the sort of
+[00:06:29] strategy to fill that up or-
+[00:06:31] Yeah. So that's-
+[00:06:33] Yeah.
+[00:06:34] Yeah.
+[00:06:34] So I get a weekly report through my management team, and that tells
+[00:06:38] me the activities, how many jobs we go to, what type of incidents,
+[00:06:42] and they'll raise any issues that are coming through,
+[00:06:45] the comms center. So that's-
+[00:06:47] Last one.
+[00:06:47] Yes.
+[00:06:48] Last one. And so just in terms of the seriousness of the breakdowns on
+[00:06:52] the way or at that incident, what is the strategy that is then put
+[00:06:56] in place to cover that spot or that appliance for that
+[00:06:59] particular fire station?
+[00:07:01] Yeah. Well, that's the relief fleet, and that's how we activate our relief fleet
+[00:07:05] to cover those. So at a district level,
+[00:07:08] that's monitored every day across any
+[00:07:12] breakdowns. It's monitored by our fleet team who get notified when there is
+[00:07:16] a breakdown, and obviously that activates the system with our contractors
+[00:07:20] to do the maintenance on whatever needs to happen with that, or whether or
+[00:07:24] not an investigation needs to be launched if it's more serious in the breakdown as
+[00:07:28] to what happened. But it's automated through
+[00:07:31] the system and whenever there's a breakdown, so
+[00:07:35] the notifications
+[00:07:37] are in place,
+[00:07:39] and the reporting goes up to Megan as the operational
+[00:07:43] response DCU.
+[00:07:45] Thanks. Madam Chair.
+[00:07:47] Thank you. And I've got probably four quick questions related to, I think
+[00:07:51] it's kind of following on from Andy's questions earlier around the finance
+[00:07:55] aspect. First of all, I guess what percentage of the budget is spent
+[00:07:59] on the fleet, both I guess how that's trended over the past and then forecast
+[00:08:03] into the future?
+[00:08:04] Yeah. Good question. Daryl, can you get it?
+[00:08:06] So in terms of our total spend on assets, so, and this is going
+[00:08:10] back over eight years, so 40% on property-
+[00:08:13] Wait, so but I just want to focus on the-
+[00:08:15] Yes, I understand that, and I need to put it in the section for you.
+[00:08:18] So 40% on property, 20% on fleet, 20% on equipment,
+[00:08:22] 20% on ICT.
+[00:08:26] And so has that always been the case over 16 years?
+[00:08:28] It's a very consistent pattern.
+[00:08:30] And forecasted forward, it's the same 20%?
+[00:08:32] Yeah. Similar, yes.
+[00:08:34] So obviously, Finance put in a request to have the levy increased to
+[00:08:37] 5.2%,
+[00:08:39] which was turned down by the minister in, it's around 2%, I think.
+[00:08:43] Yes.
+[00:08:43] And obviously was looking at a funding gap,
+[00:08:46] for the fleet to come up to age.
+[00:08:49] Had you got the 5.2%, would have that actually fixed this
+[00:08:53] issue of this funding gap?
+[00:08:55] As in all in age, is that what you're referring to?
+[00:08:57] Yeah, I'm just looking at the funding gap of 154 million
+[00:09:01] to actually bring your fleet up to the
+[00:09:04] standard, to be percent over 10 years.
+[00:09:06] And you requested
+[00:09:08] 5.2%, which was turned down. Had you got the 5.2%, would have
+[00:09:12] this issue with aged fleet been fixed within 10 years
+[00:09:16] or no?
+[00:09:18] No. Not at all.
+[00:09:19] It wouldn't have been sufficient.
+[00:09:21] And it
+[00:09:23] wasn't only addressed towards capital assets.
+[00:09:26] It was a broader range of initiatives that 5.2% was designed to
+[00:09:30] be targeted towards.
+[00:09:31] Do you know what the funding gap would be had you got the 5.2?
+[00:09:36] So we've backed up, no, I think.
+[00:09:38] Okay. So you told us in the January hearing
+[00:09:42] that there's $150 million of total cost reduction,
+[00:09:47] proposed from 2026 to '29,
+[00:09:50] 60 million of that, no, 90 million of that was for
+[00:09:54] managing enduring risk and another 60 million to be reinvested back into
+[00:09:58] the organization. How much of that 150 is
+[00:10:02] captured in the data we see on page 24?
+[00:10:05] And how, and none, how much would there actually be plugging this
+[00:10:10] funding gap over the next 10?
+[00:10:12] None.
+[00:10:13] So the 150 is captured in the dark blue
+[00:10:17] boxes, which is our board financial solutions.
+[00:10:20] One of the reasons why we're able to lift our investment in fleet, particularly
+[00:10:23] over the years 2028, 2029 through to 2035,
+[00:10:27] '36, is the impact of those savings,
+[00:10:31] increasing our surpluses and increasing the funding that's available to invest in
+[00:10:35] our assets in total, but also in our fleet.
+[00:10:37] So, just to ensure I'm right,
+[00:10:40] how much of the 154 sits within those blue
+[00:10:44] boxes?
+[00:10:45] So none of the 154 sits-
+[00:10:47] Oh, no. None of $150 million that you're looking to-
+[00:10:50] The $150 million.
+[00:10:51] Yeah. So I will need to come back to you on the specific figure.
+[00:10:54] Okay.
+[00:10:55] And just final-
+[00:10:57] Final, yep
+[00:10:57] ... finally, I'm just trying to work out, because obviously
+[00:11:00] there's a significant
+[00:11:02] cost to get the fleet up to the right standard over this 10-year
+[00:11:06] period and create a gap. How's that impacting, I guess, the
+[00:11:09] tension with your other assets, like your training facilities and
+[00:11:13] your stations?
+[00:11:16] The, it is a prioritization with anyone who's working within a fiscal envelope, as
+[00:11:20] I'm sure you're aware.
+[00:11:22] But we have to be able to spread over which parts of these assets we have to
+[00:11:26] focus on first. So the longer-term plan, as you've talked about before, Daryl,
+[00:11:30] around the assets is again based on priority of assets, whether
+[00:11:33] it's
+[00:11:35] lifting the condition, making sure their health and safety is safe in the first
+[00:11:37] place, and then what we've got left we can use in those other areas.
+[00:11:41] Thank you. Melissa, just as a quick clarification, and then I'm going to-
+[00:11:44] Yep. Just wanting to go back to the percentages, 40 property,
+[00:11:48] 20 equipment, 20 ICT, is that right?
+[00:11:50] And 20.
+[00:11:52] Yes.
+[00:11:52] So that's, and then fort- so and 20 for what?
+[00:11:56] Sorry, 20 for fleet. 20% for fleet, 20% for ICT,
+[00:11:59] 20% for equipment, 40% fleet. That's how that
+[00:12:03] capital investment is being distributed.
+[00:12:05] Can I just ask-
+[00:12:06] Yeah, please
+[00:12:06] ... in terms of the 20% of ICT, what do you actually spend your ICT budget on?
+[00:12:10] Because when I asked earlier that,
+[00:12:13] fire crews are actually having to write on pieces of paper as to what's
+[00:12:17] wrong with their trucks.So what is it?
+[00:12:19] Most companies, according to my colleague, most companies
+[00:12:23] only use 10% of their total budget on ICT.
+[00:12:26] Why are you spending 20% and not actually having equipments for our firefighters?
+[00:12:31] And talk through that, Derek.
+[00:12:32] Do you want me to take that?
+[00:12:33] If you want.
+[00:12:34] So, as Kerry explained in the earlier meeting, we have legacy
+[00:12:38] ICT systems that are very old. And so we've got an ICT product
+[00:12:42] roadmap, so we're progressively renewing our ICT infrastructure as a
+[00:12:46] whole. So-
+[00:12:47] No. So what are you actually saying?
+[00:12:48] So you've got an ICT problem, legacy issue, so you're
+[00:12:52] trying to fix old ICT systems, and you're actually not purchasing new
+[00:12:56] equipment. Is that what you're saying?
+[00:12:57] No, not saying.
+[00:12:58] When you're procuring, when you actually look at whether it will make better sense
+[00:13:02] to actually rip the whole thing out and actually start new.
+[00:13:05] So what we're saying is that, within the disbursement of
+[00:13:09] the capital budgets there, 20% is going towards ICT.
+[00:13:12] And that is managing
+[00:13:15] a set of ICT systems that aren't
+[00:13:21] modernized for the organization to where we need it.
+[00:13:24] And this is a good example of the manual
+[00:13:27] processing that had to go to pull this information together.
+[00:13:30] We're just doing a HRS payroll system.
+[00:13:33] There's a number of our systems that need replacement, and we need to make sure
+[00:13:36] that we're balancing that investment-
+[00:13:38] Payroll system
+[00:13:39] ... alongside-
+[00:13:39] Are you able to provide-
+[00:13:41] Melissa. Yeah, I'm just going to request information.
+[00:13:43] Very, we might have to put it in writing because we've only got a couple of minutes
+[00:13:47] left, and I promised Tim we would come to you.
+[00:13:47] That's fine. We can come back to that. That's fine.
+[00:13:49] Sorry, Tim.
+[00:13:51] Yeah, because I think there may some people that would like clarification.
+[00:13:54] There's a lot of rumors, about 61 million on a payroll system that never actually
+[00:13:58] got brought into use, so it'd be good to get that clarification from Melissa.
+[00:14:01] Can I just finish by asking about the capacity within Finance for
+[00:14:05] fleet management?
+[00:14:09] You've painted the picture pretty well, particularly for nine years, though it is
+[00:14:13] nine years down track now. But you inherited 289
+[00:14:17] that were outside their target age, from the numbers you've given us.
+[00:14:20] And you've introduced over those nine years as well, 318 new
+[00:14:24] ones, I think is the number you've given me.
+[00:14:26] Total.
+[00:14:27] No, totals.
+[00:14:29] Total.
+[00:14:30] Yeah.
+[00:14:31] But in that time, a further 372 have
+[00:14:35] passed 25 years. So that actually means we're now
+[00:14:39] down to 350.
+[00:14:41] So the numbers of fleet outside their target age.
+[00:14:45] So we're now total fleet outside. That's
+[00:14:49] correct, isn't it? Those numbers?
+[00:14:52] The numbers we've provided you are correct.
+[00:14:54] Okay. So sort of tracking backwards, the type three, Mr.
+[00:14:58] Foster asked about that. 196 vehicle,
+[00:15:01] 105 of those are outside of the target age.
+[00:15:03] In fact, the average age is 22 years for a 20-year target.
+[00:15:06] So it sort of paints the picture of where you're at.
+[00:15:09] 41 have been disposed, only two new ones since 2018.
+[00:15:14] That's from page 30 in your document.
+[00:15:17] I guess I just want to understand, because there are other, like I think of
+[00:15:21] Fonterra, they manage a fleet of manned
+[00:15:24] trucks or milk tankers.
+[00:15:27] The military manage vehicles and have systems that capture down to
+[00:15:31] individual components, both time and hours and use.
+[00:15:37] So there's the managing of the day-to-day sustainment, and then there's the
+[00:15:40] managing of the system and how we bring in.
+[00:15:44] Did Defense have the capacity to manage this in-house, or does it
+[00:15:48] need external support to manage a complex system like
+[00:15:52] this?
+[00:15:53] I think we have the capability in-house.
+[00:15:56] I'm just bringing in at the moment an independent advisor to actually give
+[00:16:01] us advice and assurance around the system that we're putting.
+[00:16:04] So it's just testing that,
+[00:16:06] just to ensure that we're doing it in the most effective way through
+[00:16:10] there. But
+[00:16:12] what we are doing is we're managing the fleet within the fiscal
+[00:16:15] constraints that we have in there alongside,
+[00:16:19] I think when you refer to the military and Fonterra, I think
+[00:16:23] that the
+[00:16:25] challenge that we find for emergency is the significant
+[00:16:28] investment that's required from the inheritance of the
+[00:16:32] existence of foreign emergency when it came to being in 2017.
+[00:16:36] So,
+[00:16:37] we're not trying to escape from the fact that
+[00:16:42] we've got a huge legacy issue of
+[00:16:45] age within the fleet. And as an organization, we've got
+[00:16:51] a plan in place for how we work ourselves out of that within the budget that
+[00:16:55] we have.
+[00:16:57] Sure. So I hear that, and I understand.
+[00:17:00] I think the question is,
+[00:17:03] nine years into Defense, though, the situation is still going
+[00:17:07] backwards based on the numbers we've been provided for this hearing.
+[00:17:12] So I understand your optimism that you've got people
+[00:17:16] that can handle it moving forward, but the numbers are tracking in the opposite
+[00:17:20] direction.
+[00:17:23] Yeah. So, the numbers are going to be
+[00:17:27] determined by the level of investment that we can put in to actually
+[00:17:31] make a
+[00:17:32] material difference in actually moving that.
+[00:17:34] Even in our planning, our planning is to,
+[00:17:39] I guess, to some degree, hold the line, so that it's not getting
+[00:17:43] worse rather than actually making that substantive change.
+[00:17:46] And I think the graphs show the difference and the gap of investment
+[00:17:50] of being able to achieve what personally I feel that
+[00:17:54] all of our firefighters want and deserve, which is to have a
+[00:17:58] fleet within the target age. Which will reduce the maintenance, which will reduce
+[00:18:02] the breakdowns.
+[00:18:04] Within
+[00:18:06] the realms of what we have to deal with,
+[00:18:09] I feel that we've got a robust system and like I say, providing assurance
+[00:18:13] over that system to ensure that we can benchmark against others and that
+[00:18:17] we can test the system
+[00:18:19] to
+[00:18:20] maintain and hold the line so that our fleet's not getting progressively
+[00:18:24] worse.
+[00:18:25] And so I hear your confidence in your teamCan I
+[00:18:29] ask, is it true that FENZ have hired independent consultants to help
+[00:18:32] them with this inquiry?
+[00:18:36] To help with this inquiry?
+[00:18:37] Yes.
+[00:18:38] I'm in the procurement process at the moment
+[00:18:41] of bringing in a specialist to actually, like I said,
+[00:18:46] provide me a level of assurance around our whole management
+[00:18:49] of the fleet to ensure if there's anything that we can learn from there
+[00:18:54] around how our process is working.
+[00:18:57] But have
+[00:18:59] FENZ contracted independent consultants to
+[00:19:03] help with this inquiry?
+[00:19:05] Oh, we certainly have, yes. To help us bring it all
+[00:19:09] together.
+[00:19:10] And bring all the material together for us. Yes, we have.
+[00:19:12] You didn't have the in-house capacity to do that.
+[00:19:15] No, not in such a-
+[00:19:17] Short timeframe
+[00:19:18] ... short timeframe, and not with the level of detail and manual
+[00:19:22] intervention that's needed.
+[00:19:23] And how much would FENZ be spending on-
+[00:19:25] Last question
+[00:19:25] ... additional consultants?
+[00:19:26] I'd have to come back to you with that exact figure, but-
+[00:19:29] Does it align with government policy to use external consultants?
+[00:19:33] It will do.
+[00:19:35] And we can come back with the detail on that.
+[00:19:37] We'll come back, yeah.
+[00:19:37] But I would, Chair, if you just-
+[00:19:39] Yes
+[00:19:39] ... allow me for a second just to say,
+[00:19:43] don't underestimate the manual work that went into
+[00:19:46] compiling this for you. We want it to be open and honest and
+[00:19:50] give real clarity around it, and hopefully we've achieved that through the pack for
+[00:19:54] you.
+[00:19:55] But to bring that all together-
+[00:19:57] It's good, yeah
+[00:19:58] ... we needed some support to do that.
+[00:20:00] Being challenged, yeah.
+[00:20:00] Um-
+[00:20:00] Is that not something you'd routinely have available in terms of how you manage
+[00:20:04] your fleet, that you would have had that list of all the vehicles?
+[00:20:06] Well, as I say, the-
+[00:20:07] It's a lot
+[00:20:08] ... the IT systems that we have to support that, and that's
+[00:20:12] part of our improvement plan around it.
+[00:20:14] But we don't have that just to draw those reports out, as you would expect for a
+[00:20:17] big organization like ours.
+[00:20:19] Yeah. Can I, I have to stop us there because we do have other business, and that is
+[00:20:23] the end of it, and I did let it go another couple of minutes, actually.
+[00:20:27] But I want to say thank you very much.
+[00:20:28] And look, we do appreciate the work that has gone in to get this.
+[00:20:32] It's a document that I think will be very useful in our inquiry going forward,
+[00:20:36] and I think there may be other questions that come from
+[00:20:39] this. So are you open to us getting you written questions
+[00:20:43] throughout-
+[00:20:44] Mm-hmm. Absolutely
+[00:20:44] ... so that we can get those to you?
+[00:20:45] Yeah.
+[00:20:46] But I know that you've already committed to getting some information back
+[00:20:50] from two various members who asked specific questions.
+[00:20:53] So thank you for that.
+[00:20:54] Thank you for your time.
+[00:20:55] Can we get them in at any other stage?
+[00:20:57] We do, towards the-
+[00:20:59] Yeah
+[00:20:59] ... yeah, the end.
+[00:21:00] Yeah.
+[00:21:01] Definitely.
+[00:21:01] We do have a time that we've got.
+[00:21:03] We'll come back to you with what was asked this morning.
+[00:21:05] We've actually got the answers now.
+[00:21:06] We did some work in between, but I know we've run out of time, so.
+[00:21:08] Yeah. Great. Look, thank you very much.
+[00:21:10] We really appreciate that this morning and the short time this afternoon, and
+[00:21:14] we look forward to engaging with you further.
+[00:21:16] Thank you.
+[00:21:16] Thank you.
+[00:21:16] Thank you all.
+[00:21:17] Cheers.
