@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-14T01:09:55.291827+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1117301771",
+  "title": "2025 10 22 FEC",
+  "url": "https://vimeo.com/1117301771",
+  "published_at": "20251021",
+  "published_display": "2025-10-21",
+  "duration_seconds": 6367,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 6367.1466875,
+    "segment_count": 1503,
+    "source_vtt_path": null
+  }
+}
