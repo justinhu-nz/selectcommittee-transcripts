@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T09:45:42.472916+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1027151402",
+  "title": "vimeo_1027151402",
+  "url": "https://vimeo.com/1027151402",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 11351786",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6827.82,
+    "segment_count": 2410,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2024_11_14 - PBC - vimeo_1027151402\\2024_11_14 - PBC - vimeo_1027151402.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1027151402",
+    "display_id": "1027151402",
+    "title": "2024/11/14 - PBC",
+    "description": "Thursday, 14 November 2024 | Parliament Bill Committee\n\nParliament Bill\n\nHearing of Evidence:\n\nDerek Gill\u00a0\nBasil Walker\u00a0\nCatherine Sixtus\u00a0\nAndrew Ecclestone\u00a0\nRemuneration Authority\u00a0\n\tGeoff Summers, Chair\u00a0\nDave Agnew\u00a0\nMary-Amelia Brown\u00a0\nJohn McDonald-Wharry\u00a0\nWill Dreyer\u00a0\nRex Landy\u00a0\nDr Dean Knight\u00a0\nNew Zealand Council for Civil Liberties\u00a0\n\tThomas Beagle, Chairperson, Executive Committee\u00a0",
+    "webpage_url": "https://vimeo.com/1027151402",
+    "original_url": "https://vimeo.com/1027151402",
+    "upload_date": "20241114",
+    "timestamp": 1731560468,
+    "release_timestamp": 1731560613,
+    "duration": 6839,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1949860852-b4d355e26dc66fba77d1ba2a4e02130b2db658aac50dffae53db9a93af57b9f0-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/196441761.vtt?expires=1778501482&sig=a0c55382c530ce7bb07090de2ef19d3d5e4c3cd3&download=auto_generated_captions.vtt"
+  }
+}

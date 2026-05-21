@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T09:45:36.735258+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_976141581",
+  "title": "vimeo_976141581",
+  "url": "https://vimeo.com/976141581",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10828747",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1952.91,
+    "segment_count": 696,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025_03_12 - Privileges - vimeo_976141581\\2025_03_12 - Privileges - vimeo_976141581.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "976141581",
+    "display_id": "976141581",
+    "title": "2025/03/12 - Privileges",
+    "description": "Question of privilege concerning the conduct of four members during proceedings of the House (12 March 2025)\n\nHearing of evidence\nHon Peeni Henare MP",
+    "webpage_url": "https://vimeo.com/976141581",
+    "original_url": "https://vimeo.com/976141581",
+    "upload_date": "20250312",
+    "timestamp": 1741756272,
+    "release_timestamp": 1741756280,
+    "duration": 1963,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1890655293-825f061a1b79d160b62e08a8134ac3a6c2c6903a6c7ab2a39a616eaf455ed3f3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/218713955.vtt?expires=1778501519&sig=d326a4fce4afc8082e0b3cb809c97da9d36c14fb&download=auto_generated_captions.vtt"
+  }
+}

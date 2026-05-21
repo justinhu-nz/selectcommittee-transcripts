@@ -1,0 +1,859 @@
+Title: vimeo_890132198
+URL: https://vimeo.com/890132198
+Published: 2024-03-26
+Duration: 00:40:33
+
+[00:00:00] And Andrew for being here.
+[00:00:01] Uh, with that, I'm happy to pass off to you
+[00:00:03] to make some general introductory remarks.
+[00:00:05] Thank you. Time minister.
+[00:00:06] Um, just to introduce myself to, uh, to everybody,
+[00:00:09] I'm Andrew Clark, director General of the GCSB.
+[00:00:12] Uh, with me today is Andrew Hampton,
+[00:00:14] director General of the SIS.
+[00:00:16] Uh, we'll both make some opening, uh, statements,
+[00:00:18] and then we're happy to take questions.
+[00:00:20] Excellent. Um, this is my first time appearing
+[00:00:23] before the, uh, committee having taken up the position, uh,
+[00:00:27] just in October.
+[00:00:29] Um, thanks for the opportunity
+[00:00:30] to update you today on the work of the GCSB.
+[00:00:34] We're New Zealand's lead organization
+[00:00:35] for signals intelligence and Cybersecurity.
+[00:00:38] Cybersecurity. We support our customers resilience
+[00:00:41] and decision making to successfully navigate a disrupted
+[00:00:45] and contested international environment.
+[00:00:48] Uh, it is the most challenging global security
+[00:00:51] environment in a generation.
+[00:00:54] In recent years, we have observed
+[00:00:56] a sharp rise in geostrategic competition
+[00:00:59] and global tensions, including armed conflict,
+[00:01:03] which has driven supply chain disruption,
+[00:01:06] global economic uncertainty,
+[00:01:08] and the erosion of the rules based order that is fundamental
+[00:01:12] to a small trading nation such as New Zealand.
+[00:01:15] In this environment, security threats evolve quickly
+[00:01:19] and cross borders flexibly presenting challenges
+[00:01:22] for both the bureau and the service.
+[00:01:26] In the past year, we
+[00:01:27] provided signals intelligence to customers
+[00:01:30] and 18 government agencies
+[00:01:32] and their ministers to equip decision makers
+[00:01:35] with greater insight.
+[00:01:37] Our intelligence insights cover the entire range
+[00:01:40] of national security intelligence priorities
+[00:01:43] set by the government.
+[00:01:45] Our second collection is primarily focused offshore,
+[00:01:49] including our own region, which has been an enduring focus.
+[00:01:54] The geostrategic competition we see playing out globally.
+[00:01:58] Uh, we're also witnessing in our neighborhood
+[00:02:01] and it's our mission to understand what's happening.
+[00:02:05] At the same time, we are working more closely
+[00:02:08] with our domestic partners at home, particularly police
+[00:02:11] and the SIS around counter-terrorism and violent extremism.
+[00:02:16] In response to the Royal Commission of Inquiry
+[00:02:19] into the Christchurch terror attacks, over the past year,
+[00:02:24] our intelligence has helped to disrupt foreign interference
+[00:02:27] and espionage operations, transnational criminal endeavors,
+[00:02:32] including drugs, drug smuggling, plus terrorist,
+[00:02:35] and violent extremist threats.
+[00:02:39] We also make a significant contribution
+[00:02:41] to global counter-terrorism efforts, including disruption
+[00:02:45] of attack planning.
+[00:02:47] GCSB intelligence plays an important role in ensuring the
+[00:02:51] safety of New Zealanders offshore,
+[00:02:54] including deployed members of the New Zealand Defense Force,
+[00:02:57] some of whom are in conflict zones.
+[00:03:00] And while I've spoken mainly about our own intelligence
+[00:03:04] insights, we're also the conduit for partner intelligence
+[00:03:07] to our decision makers,
+[00:03:08] and particularly from five i's partners.
+[00:03:12] I'll now move on to our cybersecurity mission,
+[00:03:14] which is delivered through the National Cybersecurity
+[00:03:17] Center Cybersecurity.
+[00:03:19] Under this function, the GCSB works
+[00:03:21] to protect information systems critical
+[00:03:23] to New Zealand's national interests from
+[00:03:26] sophisticated security threats.
+[00:03:29] In the last fiscal year,
+[00:03:30] the NCSC recorded 316 cybersecurity
+[00:03:35] incidents involving New Zealand's most nationally
+[00:03:38] significant organizations.
+[00:03:41] These incidents represent the most serious malicious cyber
+[00:03:44] activity targeting New Zealand.
+[00:03:47] This figure is made up
+[00:03:48] of a slightly higher proportion at 28% of financially
+[00:03:53] motivated activity.
+[00:03:55] Then, uh, that with links
+[00:03:57] to state sponsored cyber actors at 23%,
+[00:04:00] but broadly in line with previous years,
+[00:04:03] while criminal groups predominantly target victims
+[00:04:06] for financial gain through ransomware attacks,
+[00:04:10] state sponsored cyber actors typically aim
+[00:04:13] to maintain a covert presence on computer networks
+[00:04:15] of high intelligence value.
+[00:04:18] Today, we publicly released information
+[00:04:20] regarding intrusion into New Zealand's parliamentary
+[00:04:23] networks by cyber actors sponsored
+[00:04:26] by the People's Republic of China.
+[00:04:28] This is the third time in the past year that we have
+[00:04:31] publicly linked malicious state backed cyber activity
+[00:04:35] to the PRC, uh, in that same timeframe.
+[00:04:38] We have also called out the Russian Federation on three
+[00:04:40] occasions, the type
+[00:04:42] of state backed techniques we're observing continue
+[00:04:45] to evolve and test cyber security agencies the world over,
+[00:04:49] including methods such as, uh, living off the land,
+[00:04:52] which is the stealthy compromise of critical infrastructure,
+[00:04:56] using legitimate tools on victim devices
+[00:05:00] and networks to maintain access
+[00:05:02] to significant targets without detection.
+[00:05:07] Our capability to defend New Zealand against these threats
+[00:05:10] is expanding through the use of new capabilities
+[00:05:13] and partnerships on top of our Cortex suite of services.
+[00:05:18] The ncsc Malware Free Networks service provides realtime
+[00:05:23] detection and disruption delivered through third party
+[00:05:27] cybersecurity providers,
+[00:05:29] and it is significantly increasing New Zealand's capability
+[00:05:33] to disrupt malicious cyber activity.
+[00:05:36] The number of Kiwis protected by malware free networks,
+[00:05:39] or MFN as it's now known, continues to grow.
+[00:05:42] And today, our partnerships
+[00:05:44] with third party providers in New Zealand mean
+[00:05:47] that the vast majority of New Zealanders
+[00:05:49] and New Zealand organizations now have MFN cover.
+[00:05:54] That's a significant achievement in snowballing in success
+[00:05:57] in a short time since its formal launch.
+[00:06:00] In November, 2021,
+[00:06:02] MFN has disrupted more than 6.2 million
+[00:06:06] malicious cyber events,
+[00:06:07] and its positive impact was recognized
+[00:06:10] with the Public Service Commission's Spirit of service award
+[00:06:14] and the overall Prime Minister's award last year, uh,
+[00:06:18] as well as industry recognition
+[00:06:20] as the best security product award at the annual Information
+[00:06:24] Security Awards, uh, ICE A NS in 2022.
+[00:06:28] Overall, our combined cyber defenses have helped mitigate an
+[00:06:31] estimated $382 million worth of harm
+[00:06:35] to New Zealand systems since 2016.
+[00:06:38] Of course, the true value of our national cyber defense, uh,
+[00:06:42] goes far beyond the dollar figure, uh,
+[00:06:44] with business continuity, investment confidence
+[00:06:47] and protection of Kiwi's data at the heart of our service.
+[00:06:52] In July last year, the government announced the integration
+[00:06:56] of New Zealand's computer emergency response team
+[00:06:59] or CERT NZ with the NCSE
+[00:07:02] to create a single lead operational cybersecurity
+[00:07:06] agency for New Zealand.
+[00:07:08] Following the initial transfer of cert functions
+[00:07:11] to the GCSB, we're now working
+[00:07:13] to provide a stronger cybersecurity system
+[00:07:16] and improved customer, uh, service for all New Zealanders.
+[00:07:20] While the NCSC customers include government departments,
+[00:07:24] key economic generators, research institutions
+[00:07:28] and operators of critical national infrastructure
+[00:07:31] cert supports a broader range of businesses, uh,
+[00:07:34] organizations and individuals who are affected
+[00:07:37] by cybersecurity incidents.
+[00:07:41] cert cybersecurity outreach also goes
+[00:07:43] beyond our borders Through its Pacific Partnership Program,
+[00:07:47] CERT works with our close specific neighbors
+[00:07:50] to build local cybersecurity resilience
+[00:07:53] by providing advice and support.
+[00:07:56] As Director General, I'm also the government chief
+[00:07:59] Information Security Officer, or GCI o.
+[00:08:02] Last year cabinet confirmed a refreshed GCI o uh, mandate
+[00:08:06] to strengthen public sector cyber standards
+[00:08:09] and expand the GCI O mandate beyond the core public service
+[00:08:13] to include crown agents.
+[00:08:16] As the cyber threats we face evolve,
+[00:08:18] so too must the public sector's approach
+[00:08:20] to addressing those risks
+[00:08:22] as our critical infrastructure is increasingly digitized.
+[00:08:28] I would also like to provide an update on the construction
+[00:08:30] of the $300 million, all
+[00:08:32] of government data center being built at RNZA base
+[00:08:36] Auckland for Novi.
+[00:08:38] The GCSB is the government lead
+[00:08:40] for information security will operate this facility on
+[00:08:43] behalf of the broad range
+[00:08:45] of government agencies that will use it.
+[00:08:48] The facility will shore up the resilience
+[00:08:50] of our secure data storage for the next quarter century
+[00:08:53] workers on track
+[00:08:55] with the vertical infrastructure taking shape,
+[00:08:58] and the facility is due to be switched on early next year.
+[00:09:02] Finally, uh, we are an agency
+[00:09:04] that must always stay one technological step ahead of those
+[00:09:08] who would do us harm,
+[00:09:09] and we need to be alert to what lies around the corner,
+[00:09:12] which includes risks associated with
+[00:09:16] emerging technologies such as artificial intelligence
+[00:09:19] and quantum computing.
+[00:09:21] That's not something that we can do alone.
+[00:09:24] Uh, our international partnerships, uh,
+[00:09:26] and particularly the five eyes are critical to our ability
+[00:09:29] to adapt quickly.
+[00:09:32] But our greatest foundation for success lies
+[00:09:34] with the talented people who make up the GCSB,
+[00:09:37] their specialist skills
+[00:09:39] and the diversity of thought that they bring.
+[00:09:41] They're a slice of New Zealand that enables us to make sense
+[00:09:45] of the security environment around us.
+[00:09:48] They, along with many others, have also helped
+[00:09:51] to build the more robust
+[00:09:52] and trusted authorizing environment that we now work within.
+[00:09:57] We are acutely aware that we can only be as effective
+[00:10:01] as the trust that New Zealanders place in
+[00:10:03] this, uh, thank you.
+[00:10:05] I'll now hand over to Andrew.
+[00:10:06] Thank you, Andrew Koto.
+[00:10:08] Uh, thank you for the opportunity
+[00:10:10] to address the committee today.
+[00:10:12] Next month will mark a year since I became
+[00:10:16] director General Nzs.
+[00:10:17] IS It has been a real privilege to lead this organization,
+[00:10:21] particularly to witness firsthand the kind
+[00:10:23] of work our people do each day to keep New Zealand
+[00:10:27] and New Zealanders safe and secure.
+[00:10:30] Our team is driven by the ethos that we partner
+[00:10:34] with others for impact.
+[00:10:36] This will be a key theme of my comments today,
+[00:10:39] but first, I'll brief you on my agency's insights on the
+[00:10:42] current threats facing New Zealand
+[00:10:44] and how we deliver impact through threat detection,
+[00:10:47] deterrence and disruption.
+[00:10:51] Countering violent extremism
+[00:10:53] and terrorism is an enduring priority for us
+[00:10:56] and continues to occupy around half
+[00:10:58] of our investigative time with the remainder dominated
+[00:11:02] by foreign interference in espionage.
+[00:11:06] New Zealand's national terrorism threat level
+[00:11:08] currently stands at low.
+[00:11:10] That means we consider a, an attack
+[00:11:13] to be a realistic possibility,
+[00:11:16] but we are not seeing specific attack planning at this time.
+[00:11:21] To be clear, it does not mean there is no threat.
+[00:11:26] There is enough bio rhetoric online
+[00:11:28] to suggest there are people who may have the motivation
+[00:11:32] to launch an attack,
+[00:11:33] and there are a small number of nonviolent extremists
+[00:11:36] who continue to draw a significant investigative resource.
+[00:11:41] Five years on the Christchurch attacks still cast a long
+[00:11:44] shadow and continue to inspire
+[00:11:47] identity motivated violent extremists here and overseas.
+[00:11:51] But there has also been a range
+[00:11:53] of positive improvements in the past five years.
+[00:11:55] In terms of the way Nzsis operates,
+[00:11:58] there is more emphasis on threat discovery, including
+[00:12:01] through increased online capability,
+[00:12:04] much improved interagency collaboration,
+[00:12:06] and very genuine community engagement.
+[00:12:10] The memories of the 51 shoe ha are never far from our
+[00:12:14] thoughts in carrying out this important work.
+[00:12:18] Across our counter-terrorism function investigative effort
+[00:12:22] is fairly evenly split between faith identity
+[00:12:26] and politically motivated groups and individuals.
+[00:12:29] However, we are seen in emerging trend
+[00:12:32] where violent extremists are motivated
+[00:12:34] by highly personalized ideologies with no strong allegiance
+[00:12:38] to a specific violent extremist cause or group.
+[00:12:42] Indeed, it is looking like the those with fluid I
+[00:12:47] ideological convictions could become our most prominent
+[00:12:50] subjects of investigation.
+[00:12:53] We're very live to the potential impact
+[00:12:56] of the conflicts in Gaza and the Red Sea.
+[00:12:59] Both internationally
+[00:13:00] and domestically, communities with connections
+[00:13:03] to the region are feeling both vulnerable and threatened.
+[00:13:08] And this is compounded by the volume of hate spread online.
+[00:13:12] We also know that internationally the conflicts are being
+[00:13:15] used by terrorist organizations
+[00:13:17] to drive radicalization and recruitment.
+[00:13:21] There is the possibility
+[00:13:22] that these conflicts could provide a catalyst
+[00:13:25] for motivating someone in New Zealand
+[00:13:27] to undertake an identity politically
+[00:13:30] or faith motivated attack.
+[00:13:32] However, we assess the greatest risk domestically,
+[00:13:37] the spontaneous violence driven
+[00:13:39] by emotion rather than a terrorist act.
+[00:13:43] Countering violent extremist threats is a complex challenge,
+[00:13:46] but it's important that I inform the committee
+[00:13:49] that there has been successes.
+[00:13:52] I can't provide specific details in this forum,
+[00:13:55] but there have been a number
+[00:13:56] of instances over the past five years where our team working
+[00:14:00] with others have detected and disrupted terrorist threats.
+[00:14:05] Threats. The foreign interference in an espionage
+[00:14:07] environment is equally complex
+[00:14:09] and fast evolving, driven by geostrategic competition.
+[00:14:14] Last August, N-Z-S-I-S published an unclassified threat
+[00:14:18] assessment, which included more detail than we have released
+[00:14:22] before about the nature of foreign interference
+[00:14:25] and espionage in New Zealand.
+[00:14:27] It's been a game changer in terms
+[00:14:29] of helping make the threat more real
+[00:14:32] for those potentially affected by this kind of activity.
+[00:14:36] But we can't just identify the threats.
+[00:14:39] We are equally focused on helping organize man organizations
+[00:14:43] manage the risk, including through a range of
+[00:14:46] publicly available advice.
+[00:14:48] The annual assessment will be published in August
+[00:14:53] of this year.
+[00:14:55] The next one, foreign interference has the potential
+[00:14:59] to corrode our democratic institutions,
+[00:15:02] damage our economic prosperity
+[00:15:04] and compromise New Zealand's safety, security,
+[00:15:06] and human rights.
+[00:15:08] In New Zealand, we see state actors
+[00:15:10] or their proxies seeking
+[00:15:12] to covertly build long-term influence with individuals.
+[00:15:16] In our national political environment,
+[00:15:18] local government is becoming a more common target.
+[00:15:21] Other business, our business community is increasingly
+[00:15:25] susceptible to including state sponsored attempts
+[00:15:29] to steal hard earned intellectual property
+[00:15:32] or sensitive information.
+[00:15:34] The monitoring and harassment of ethnic communities
+[00:15:38] is becoming more sophisticated and even more insidious.
+[00:15:42] Foreign states like the People's Republic of China
+[00:15:46] or the Republic of Iran, have always have ways
+[00:15:49] to make life difficult for those
+[00:15:52] who dare speak out against those governments.
+[00:15:55] That's simply unacceptable in a country like New Zealand.
+[00:15:59] When I reference those countries,
+[00:16:01] I'm talking specifically about the state
+[00:16:04] and those who act on its behalf, not the Chinese
+[00:16:08] or the Iranian people as a whole,
+[00:16:10] and certainly not community members in New Zealand.
+[00:16:13] In most cases, there's those very communities we need
+[00:16:17] to protect at a global level.
+[00:16:20] New Zealanders have been drawn into a wider PRC strategy
+[00:16:24] to strengthen the capability
+[00:16:27] and lethality of its people's republic,
+[00:16:31] its people's liberation army.
+[00:16:34] Over the past 18 months,
+[00:16:36] N-Z-S-I-S has identified seven New Zealand citizens who are
+[00:16:41] contracted by a third party party to support
+[00:16:44] military aviation training to the People's Liberation Army.
+[00:16:48] The training and expertise they were passing on was gained
+[00:16:52] through previous employment with partner militaries
+[00:16:55] and with the New Zealand Defense Force.
+[00:16:59] Such activity clearly poses a major national security risk,
+[00:17:03] and it is not in New Zealand's interest
+[00:17:05] to have former military personnel training in other military
+[00:17:09] who does not share the same values as our own.
+[00:17:12] I consider it as important that this kind
+[00:17:14] of activity is called out
+[00:17:16] after threat mitigation activities by N-Z-S-I-S
+[00:17:20] and the introduction of legislation in partner countries.
+[00:17:24] All seven individuals have recently left their training
+[00:17:28] roles, but the risk remains
+[00:17:30] that other New Zealanders may be lured
+[00:17:32] to high salaries to replace them.
+[00:17:36] Prior to the general election, our agencies worked
+[00:17:38] with the electoral commission
+[00:17:40] and other election participants, including political parties
+[00:17:44] and candidates to increase their awareness of threats
+[00:17:47] and how to mitigate them.
+[00:17:50] As New Zealanders would expect
+[00:17:52] that N-Z-S-I-S conducted proactive threat discovery work
+[00:17:55] during the period around the general election
+[00:17:58] to detect signs of foreign interference.
+[00:18:01] Our assessment is that it's highly unlikely foreign
+[00:18:05] state activity affected the outcome of the vote.
+[00:18:08] However, we assessed,
+[00:18:10] there were almost certainly several foreign states using
+[00:18:15] the occasion of the election as an opportunity
+[00:18:19] to conduct long-term influence.
+[00:18:21] Building the activity we detected was highly likely aimed at
+[00:18:25] building influence with political candidates
+[00:18:27] and parties, which is easier to do
+[00:18:31] during the election period when they are more accessible.
+[00:18:35] It is also unlikely the election was the target of
+[00:18:40] any large state backed disinformation campaign,
+[00:18:43] which is consistent with the nature
+[00:18:45] of the disinformation environment discussed in our
+[00:18:48] unclassified assessment.
+[00:18:52] I know that when we paint a picture
+[00:18:54] of the threat environment in isolation,
+[00:18:56] it can look rather bleak.
+[00:18:58] What is more positive is there is great work,
+[00:19:01] there is a great deal of work happening, most
+[00:19:04] of it in concert with others
+[00:19:06] that is placing us ahead of the thread.
+[00:19:08] Last October, I stood on a stage in California
+[00:19:11] with New Zealand's five eyes partners
+[00:19:13] to warn against the threat of economic espionage.
+[00:19:16] At the same time, we jointly promoted a set of
+[00:19:19] secure innovation principles that any organization can use
+[00:19:23] to protect their precious intellectual property
+[00:19:26] from those who wish to steal it.
+[00:19:28] Those principles can apply equally
+[00:19:30] to any New Zealand innovator as much
+[00:19:33] as they do to Silicon Valley.
+[00:19:36] Our work also frequently involves supporting Pacific
+[00:19:39] partners to build their own national security resilience.
+[00:19:43] Just this month, our Cook Islands partners put in place
+[00:19:46] their own protective security policy framework
+[00:19:48] for government modeled closely on NZ
+[00:19:51] SI's protective security requirements.
+[00:19:54] There is a lot we do with the New Zealand public too.
+[00:19:58] Our guide for identifying signs
+[00:20:00] of violent extremism reminds is relevant now
+[00:20:03] as when it was published 16 months ago.
+[00:20:07] If the public can tell us when they see some
+[00:20:10] of the behaviors and activities outlined in the guide,
+[00:20:13] then I have no doubt
+[00:20:14] that more attack plans will be disruptive
+[00:20:17] alongside the GCSB.
+[00:20:18] We have recently published our organizational strategies
+[00:20:22] for the coming year on our websites.
+[00:20:25] If we are to continue building deeper partnerships
+[00:20:29] with a wide range of New Zealanders, it is important
+[00:20:31] that we are clear about who we are as organizations
+[00:20:36] and what we seek to achieve for New Zealand.
+[00:20:38] Uh, nor of course, happy
+[00:20:42] to take questions. What
+[00:20:44] Can I say to Andrew And Andrew?
+[00:20:45] Thank you so much for those introductory remarks.
+[00:20:47] Um, we'll open it up to the committee in questions.
+[00:20:49] Now we need to hard stop at, um, 5 55
+[00:20:52] and I guess the first question, if you don't mind,
+[00:20:54] I'll just ask around, you know,
+[00:20:56] obviously acknowledging the public attribution
+[00:20:58] of malicious cyber activity, uh, Andrew Clark, uh,
+[00:21:01] today would've become as a bit
+[00:21:02] of a surprise to New Zealanders.
+[00:21:03] Um, listening to that, uh, why was it so important, uh,
+[00:21:07] for us to go public, uh, with that information
+[00:21:10] and know we've been increasingly doing so, I guess, uh, uh,
+[00:21:12] in the previous administration
+[00:21:13] on this administration as well.
+[00:21:15] Yeah, thanks, prime Minister.
+[00:21:16] Um, of course, the decision to, uh, to go public is always,
+[00:21:22] um, one, um, that it's made
+[00:21:24] by government in the national, uh, interest.
+[00:21:26] But, uh, increasingly we find ourselves, uh, having to, uh,
+[00:21:31] speak out, um, in support of rules-based international, uh,
+[00:21:35] sorry, international, uh, norms of responsible behavior
+[00:21:38] and international, uh, rules, uh, in this case, um, uh,
+[00:21:43] there are a large number of countries, uh, that understand
+[00:21:46] what those international norms
+[00:21:48] of responsible behavior are in cyberspace.
+[00:21:51] Uh, and so, uh, what we wanted to do was to link up
+[00:21:54] with like-minded, uh, partners who are, uh, willing
+[00:21:57] to speak out in the same time
+[00:21:59] and space about the same issue of what they're experiencing.
+[00:22:01] Great. Chris? Yeah, I was interested in, um, your
+[00:22:07] conversation there around people
+[00:22:08] with fluid I ideological convictions
+[00:22:11] and the fact that these individuals could pose greater risk
+[00:22:14] in the future, particularly
+[00:22:15] around spontaneous violence driven by emotion.
+[00:22:20] Does, doesn't that make it harder
+[00:22:21] to identify who those people are?
+[00:22:23] Because if there, if,
+[00:22:24] if there's no particular ideology driving it,
+[00:22:26] how would we possibly identify them?
+[00:22:29] Um, um, that's exactly right, Mr.
+[00:22:33] You know, when you're talking about what we sometimes refer
+[00:22:36] to as networked terrorist organizations, you know, someone
+[00:22:39] who may be affiliated with an organization offshore
+[00:22:41] or even inspired by them,
+[00:22:44] it's sometimes possible notwithstanding encrypted
+[00:22:47] communication apps and the like to, to essentially, um,
+[00:22:51] follow them by following the, the organization.
+[00:22:54] When you have people shopping around
+[00:22:56] for different ideologies, that's much harder.
+[00:22:59] And it's, um, a key key challenge for agencies like ours
+[00:23:04] because we don't undertake mass surveillance.
+[00:23:06] So just to let you know, what we do do, um, yes,
+[00:23:09] we do online operations, we do horizons scanning,
+[00:23:13] but we also rely really, um,
+[00:23:17] heavily on the public
+[00:23:18] because often it's the public who's going
+[00:23:21] to see someone exhibiting those concerning behaviors
+[00:23:23] and they'll, they'll be able to alert us.
+[00:23:25] So that's why we put those indicators out, um,
+[00:23:27] about a year and a half ago.
+[00:23:29] So, so I guess, what are the sort of trigger points
+[00:23:31] that you might see?
+[00:23:32] So if it is as genuinely spontaneous violence driven
+[00:23:35] by emotion, I wrote that down
+[00:23:37] because that kind of alarmed me a little bit.
+[00:23:41] What would be the things that might tip
+[00:23:42] someone into that situation?
+[00:23:44] I think if it's not an ideology,
+[00:23:46] I, I, I think we've, we've run two things together.
+[00:23:48] So the, um, first point was around ideological motivation
+[00:23:53] where yes, we are definitely seeing people shopping around
+[00:23:56] between different ideologies.
+[00:23:58] Some common trends are they're quite young,
+[00:24:00] sometimes they've had quite disrupted upbringings
+[00:24:04] and are marginalized,
+[00:24:06] and unfortunately they're obsessed with, with violence.
+[00:24:09] The point around spontaneous violence, what I was, um,
+[00:24:13] attempting to convey there is not withstanding, um,
+[00:24:18] that impact of the war in, in Gaza
+[00:24:23] and the way in which that has led
+[00:24:26] to heightened emotions domestically
+[00:24:29] and led to those communities feeling vulnerable.
+[00:24:32] We don't get a sense that there's anyone mobilizing
+[00:24:35] to ideological violence or faith-based violence.
+[00:24:39] But I guess what we're concerned about,
+[00:24:41] and certainly our police colleagues are, is
+[00:24:43] with increased protest, with increased, um,
+[00:24:48] coming together of, of different groups with opposed views.
+[00:24:51] There may be spontaneous violence there,
+[00:24:53] but it wouldn't, that wouldn't meet the threshold of,
+[00:24:55] of terrorism for us.
+[00:24:56] So, I'm sorry I was, they were separate points
+[00:24:59] that I would have run
+[00:25:00] Together. Just one more for me, 'cause I'm
+[00:25:01] aware
+[00:25:01] that there'll be others Wanna ask questions as well.
+[00:25:03] You, in your conversation of the election, you mentioned
+[00:25:07] sort of evidence that there were people trying
+[00:25:09] to build relationships with candidates and parties.
+[00:25:13] To what extent did you alert the candidates
+[00:25:15] and parties that that was happening?
+[00:25:17] Bearing them mind? That's probably the greatest
+[00:25:19] safeguard against that kind of behavior. Um,
+[00:25:22] A a again, um, Mr.
+[00:25:24] Kin, I, I agree completely with what you have said.
+[00:25:26] You know, when we talk about foreign affairs,
+[00:25:29] we're not talking about people trying
+[00:25:30] to build relationships with the mps.
+[00:25:32] We are not even talking about governments
+[00:25:34] and open ways trying to influence New Zealand policy.
+[00:25:37] What we are talking about is behavior that's undertaken in,
+[00:25:42] in deceptive covert corruptive ways.
+[00:25:46] So often the person who is the target, indeed,
+[00:25:49] in most cases, they are unwitting, they may not know
+[00:25:52] that the person making the donation to them
+[00:25:54] or the person seeking to meet with them
+[00:25:57] has an ulterior motive.
+[00:25:59] So what we do is generally provide briefings
+[00:26:03] to political parties, to candidates on
+[00:26:06] what they should look out for.
+[00:26:08] But there's also been a number
+[00:26:09] of examples across the political spectrum where we have
+[00:26:14] identified, um, individuals
+[00:26:17] who we know are being particularly targeted sometimes
+[00:26:19] because of their, their ethnicity.
+[00:26:22] And so we, with full agreement of the political parties,
+[00:26:25] have worked with those individuals
+[00:26:27] to help make them more aware of it,
+[00:26:29] because I do want to stress the majority of,
+[00:26:34] um, targets are unwitting.
+[00:26:36] Yeah. And so we need to help, help shine a light on it.
+[00:26:39] I mean, I guess the thing is, if someone shows up
+[00:26:42] to a candidate and says, here, I'm here
+[00:26:43] to give this donation, that
+[00:26:45] that candidate's not necessarily gonna be in
+[00:26:47] any position to know whether Yeah.
+[00:26:48] That person has other connections
+[00:26:50] that they should be concerned about.
+[00:26:51] That's exactly it. And you know, from our perspective, one
+[00:26:54] of the benefits of our electoral system is, um, transparency
+[00:26:59] around donations.
+[00:27:01] So that stuff's in the public ar arena,
+[00:27:03] but sometimes that provides good lead information for us
+[00:27:07] to dig a dig a bit deeper.
+[00:27:09] It's also though individuals
+[00:27:12] who may not be being fully transparent about the nature
+[00:27:15] of their, their motivation connections.
+[00:27:18] Yeah. And so us helping to just broaden understanding of, of
+[00:27:21] that is key, key to managing national look.
+[00:27:24] The point I want to emphasize is having a
+[00:27:27] inclusive democratic system is probably our,
+[00:27:32] our strongest weapon when it comes to countering
+[00:27:35] national security threats.
+[00:27:37] We're about encouraging that, not trying to limit it.
+[00:27:40] Okay. Tiana, I I
+[00:27:41] Just wanna supplementary, um, you, you talking earlier
+[00:27:44] that you have some people that are motivated
+[00:27:46] by violent extremism who are shopping around.
+[00:27:48] Yeah. So my question is, is where are they,
+[00:27:50] where are they shopping around?
+[00:27:51] Is it, is it online?
+[00:27:53] And if it's online at, at, at, to what extent are you
+[00:27:58] kind of investigating the way
+[00:27:59] that the algorithm can amplify this information
+[00:28:03] and disinformation and push people in?
+[00:28:05] Yeah. In, in directions
+[00:28:07] that would not necessarily be the most healthy direction
+[00:28:10] On, on the first point.
+[00:28:11] And it very much is online
+[00:28:12] and we think this is a key drive for it.
+[00:28:14] It is just much easier for individuals,
+[00:28:17] particularly marginalized in individuals to be
+[00:28:22] looking online and finding something
+[00:28:24] that they have some sort of affinity with.
+[00:28:26] And moving on to the, to the next one, look,
+[00:28:29] we aren't the internet place.
+[00:28:30] Neither is GCP.
+[00:28:32] It's not our job to monitor
+[00:28:35] and, um, make determinations about what's, you know,
+[00:28:38] appropriate online content.
+[00:28:41] Where we get focused though is
+[00:28:42] where we see people being mobilized to violence.
+[00:28:45] So that's where our focus tends to be.
+[00:28:47] And in a forum like this,
+[00:28:49] I probably can't talk too openly about it,
+[00:28:52] but it's often not the stuff
+[00:28:55] that's published in public forums Mm-Hmm.
+[00:28:58] Which is the most concern to us.
+[00:28:59] It's actually getting, getting behind that.
+[00:29:02] We also find, unfortunately that often it's,
+[00:29:06] it's not the people who are most vocal online
+[00:29:08] are the ones who are most concerned.
+[00:29:09] It's the ones who are quieter
+[00:29:11] and have, um, the more sophisticated, um, what we call
+[00:29:15] opsec operational security
+[00:29:16] are the ones we are concerned about.
+[00:29:18] I do come back to my point though, you know,
+[00:29:20] we are not all seen or known and
+[00:29:22] nor should we be in a democracy like ours.
+[00:29:24] So having the public equipped, um,
+[00:29:29] and confident to raise with us concerns they see is key
+[00:29:32] because they're as likely, if not more likely
+[00:29:34] to see activity of concern as we
+[00:29:38] Thanks.
+[00:29:41] We've just commemorated the fifth anniversary
+[00:29:44] after, um, uh, you know, the,
+[00:29:47] the terrorist attacks on the Christchurch must died.
+[00:29:49] Yeah. Um, a couple of questions just following on from some
+[00:29:52] of the changes that were put in place in response
+[00:29:55] to the Royal Commission of Inquiry.
+[00:29:58] Um, what progress has been made on the stakeholder
+[00:30:01] or public engagement side of things?
+[00:30:04] How do you measure that progress? Yeah.
+[00:30:07] And you mentioned that e ethnic communities are particularly
+[00:30:10] monitored and the monitoring is becoming
+[00:30:12] particularly insidious.
+[00:30:14] How important would resilience work in those communities be?
+[00:30:18] Okay. Um, first point in terms of responding
+[00:30:22] to Royal Commission generally, um,
+[00:30:26] there were only a small number of, um, recommendations
+[00:30:28] that related specifically to the service.
+[00:30:30] But one of those was to produce a annual threat assessment,
+[00:30:34] which we now, now do another, um, was the work
+[00:30:39] around the indicators
+[00:30:40] for violent extremism and getting that out there.
+[00:30:41] So we've, we've progressed those in terms
+[00:30:44] of community engagement.
+[00:30:46] Um, and, you know, I need to acknowledge the work
+[00:30:48] of my predecessor, Rebecca Ridge.
+[00:30:51] Um, we have developed, um, A series
+[00:30:55] of networks with a range of faith based
+[00:30:59] and ethnic community groups.
+[00:31:00] We meet with them regularly,
+[00:31:02] sometimes at the director general level, sometimes at a,
+[00:31:05] at a, um, sort of a community liaison office level
+[00:31:09] to just hear what they are seeing, hear
+[00:31:11] what their concerns are.
+[00:31:13] And a big part of that has actually been building confidence
+[00:31:15] about what we do and don't do as agencies.
+[00:31:18] And I, I've really benefited from that
+[00:31:20] and feel significant progress has been made.
+[00:31:23] We don't undertake our own surveying of,
+[00:31:26] of those communities.
+[00:31:28] And one of the reasons is some of the people who we engage
+[00:31:30] with, they would rather it not Mm-Hmm.
+[00:31:34] Not be known that publicly
+[00:31:35] that we are en engaging with them.
+[00:31:37] We are very supportive of the ongoing work
+[00:31:39] that DPMC have done on monitoring community, sentiment on
+[00:31:44] national security matters,
+[00:31:45] including with regard to the agency.
+[00:31:47] So, I, I don't have metrics for you,
+[00:31:49] but what I can say is, um, the extent
+[00:31:52] to which community engagement is a focus
+[00:31:54] for the agency has increased hugely over the
+[00:31:58] last five years.
+[00:32:00] And I guess another measure of that is over 20%
+[00:32:04] of our leads now come from community groups,
+[00:32:05] which I guess shows confidence.
+[00:32:07] Yeah. Um, on the point around, um,
+[00:32:10] general community resilience, couldn't,
+[00:32:12] couldn't agree, agree more.
+[00:32:14] And that's obviously a cross, cross government effort.
+[00:32:17] Just one more. Bye.
+[00:32:18] May, um, I'll never forget the mum who sort of talked to me
+[00:32:22] after the attacks happened
+[00:32:24] and said that she could see
+[00:32:26] her teenage son being radicalized.
+[00:32:28] Yeah. And what were the options for deradicalization? Yeah.
+[00:32:31] Just a question around your point about mitigating threats
+[00:32:34] from terrorism and violent extremism
+[00:32:36] and the work that you're doing with other
+[00:32:38] government agencies.
+[00:32:39] Does that fit into any of that
+[00:32:40] Work? Yes. So,
+[00:32:41] so our agency doesn't have a mandate
+[00:32:44] or a role specifically to, um, work
+[00:32:48] with individuals to be be radicalize them.
+[00:32:53] Um, you know,
+[00:32:55] and I know there's debate on whether
+[00:32:56] that's even the appropriate term to, to talk about,
+[00:32:59] but to help them make better choices.
+[00:33:01] But we are very supportive of the work
+[00:33:04] that our police colleagues do, our correction colleagues do,
+[00:33:07] our Ms d colleagues.
+[00:33:08] And, you know, sometimes our intelligence can help inform
+[00:33:11] who they should be, should be, um,
+[00:33:14] focusing, focusing on.
+[00:33:16] So yes, we're supportive of that work,
+[00:33:18] but not in the, not in the lead. Any other questions?
+[00:33:23] Yeah, I was, um, I was just reflecting on the report
+[00:33:26] that came out last week, and I,
+[00:33:28] and I, I think with the attribution that came out today
+[00:33:30] as well, I think many New Zealanders will be surprised, um,
+[00:33:35] and, uh, alarmed that, uh, with foreign interference and,
+[00:33:38] and our, and our national activities and our activities.
+[00:33:41] And I wanted you to talk a a little bit about the sort
+[00:33:44] of auditing processes that you have put in place given, uh,
+[00:33:47] the report that came out last week with a foreign agency
+[00:33:50] that had marked up somehow.
+[00:33:52] Um, and, um, and, and, uh, and,
+[00:33:56] and what you, what you might see as policy settings
+[00:34:00] that we might need to think about in terms of being able
+[00:34:03] to provide that comfort for New Zealanders in terms
+[00:34:06] of those auditing processes you might have.
+[00:34:09] But we don't take the public, public trust
+[00:34:12] and confidence for, for granted.
+[00:34:14] It's fundamental for agencies like ours that the public
+[00:34:19] understand what we do
+[00:34:20] and can be assured that we have strong democratic oversight.
+[00:34:24] Andrew will talk specifically about that, that issue.
+[00:34:27] But, um,
+[00:34:29] there has been a transformation over the last 10 years in
+[00:34:32] terms of oversight in terms of modern legislation,
+[00:34:35] but also in terms of the systems
+[00:34:37] and processes within our two agencies
+[00:34:39] and the culture within the, the agencies.
+[00:34:41] And I think you just only need to look at the, um,
+[00:34:45] I just reports over successive years,
+[00:34:47] which has shown that transformation
+[00:34:49] Information. Uh, yeah,
+[00:34:50] I'd, uh, I'd agree.
+[00:34:51] I would say that the, uh,
+[00:34:53] the first thing is it shows the value of the work
+[00:34:55] that the Inspector General does.
+[00:34:57] Uh, the Inspector General has, uh,
+[00:34:59] an all access pass across both of our, uh, organizations,
+[00:35:03] gets to see, uh, read anything.
+[00:35:04] Um, and, uh,
+[00:35:07] and in that, uh, report, um, he is
+[00:35:12] fundamentally, uh, finding
+[00:35:14] that there were significant systemic issues going back, uh,
+[00:35:17] to the period where the establishment of that, uh,
+[00:35:21] that system in New Zealand was, uh,
+[00:35:22] getting arranged essentially between about 20, uh, 10, uh,
+[00:35:26] through 2012.
+[00:35:27] And, um, and turned on in 2013.
+[00:35:30] Uh, that relates to a period, uh,
+[00:35:33] that the Kittridge report finds in 2013, uh,
+[00:35:36] where there were significant systemic issues, uh,
+[00:35:39] in the GCSB after that period.
+[00:35:41] That report sets in, uh, in motion a number of lines
+[00:35:45] of effort that ultimately result in significant legislative
+[00:35:48] change and increasing the Inspector General's powers
+[00:35:51] and uplifting the capability within the GCSB, uh, to, uh,
+[00:35:56] work within, uh, the authorizing environment, uh,
+[00:35:59] and to provide greater, uh, assurance, uh, to the point
+[00:36:03] where by 2020, uh,
+[00:36:07] it is the GCSB bringing, uh, this system, uh, to light
+[00:36:11] and informing the Inspector General.
+[00:36:14] And in the Inspector General's, uh, report from last week,
+[00:36:17] he concludes, uh, that with all of the changes
+[00:36:20] that have occurred, it would be highly unlikely
+[00:36:22] that something like that could occur again in
+[00:36:25] today's authorizing environment.
+[00:36:28] A question, uh, you, you talked earlier about, uh, support
+[00:36:30] for, uh, for the Pacific as, as a, as a region.
+[00:36:34] And I, I wanted to know a little bit, bit,
+[00:36:37] a little bit more about that in terms of,
+[00:36:40] 'cause Pacific Island countries also have to navigate, uh,
+[00:36:43] lots of different relationships there.
+[00:36:45] Uh, what could we do better in terms of helping to support
+[00:36:50] and independent Pacific
+[00:36:52] and supporting them to,
+[00:36:53] to navigate those relationships as well?
+[00:36:56] Yeah. Okay. Um, part of it is us,
+[00:37:01] um, being able to share more information with them through,
+[00:37:07] um, the intelligence that we have access to.
+[00:37:11] We have insights about what's happening in the region,
+[00:37:13] which they may not have the benefit of.
+[00:37:15] So, um, a lot of work that the agencies
+[00:37:20] are involved with now is getting
+[00:37:21] that intelligence into a form that we can share it,
+[00:37:24] but then it's also about providing practical assistance on
+[00:37:28] what they do to, to mitigate the threats.
+[00:37:30] And we won't be able to talk about specific examples,
+[00:37:33] but it's everything from
+[00:37:36] how we can assist them to get modern, um,
+[00:37:41] legislative and regulatory frameworks
+[00:37:43] so they can make better decisions to quite basic things
+[00:37:47] around how can we, um, how can we just help
+[00:37:53] them to grow the types of capabilities they need.
+[00:37:56] But, you know, as I've, um, flagged in,
+[00:37:59] in the previous session, you know, just last month the
+[00:38:03] Cook Islands introduced across government, um,
+[00:38:07] protective security framework, which is very much their own,
+[00:38:10] but based on the work we, we had done, you know,
+[00:38:13] you wouldn't have seen something like
+[00:38:14] that even a few years ago.
+[00:38:17] Okay. Um, probably just, uh, one final question probably
+[00:38:20] for me, which is that, um, I note, you know,
+[00:38:22] quite significantly the improvements in staff attrition over
+[00:38:25] the last year, um, it's been some good progress there
+[00:38:28] considering where we were at this time last year.
+[00:38:29] Um, is that likely to continue
+[00:38:31] and how you feeling about staff attrition in general?
+[00:38:33] Um, we are Everyone okay at the back there?
+[00:38:40] You know, we are, We are, we are very pleased
+[00:38:44] that we have got over that post
+[00:38:49] covid shock when both agencies were at like 20% turnover.
+[00:38:54] Um, we're now tracking much closer to,
+[00:38:58] to 10, 10%.
+[00:39:00] Yeah. Um, what we are also though aware of is that,
+[00:39:04] you know, our agencies have gone through a period
+[00:39:06] of substantial Yes.
+[00:39:07] Growth. We are not expecting
+[00:39:09] that either agency's gonna be growing much in the future.
+[00:39:13] So we have a real focus on making sure
+[00:39:15] that we are deploying the staff,
+[00:39:16] that we've gotten the most effective, um,
+[00:39:19] and Optim, um, optimal way.
+[00:39:23] And so, you know, we are being disciplined
+[00:39:25] around our recruitment at the, at the moment.
+[00:39:29] Um, having said that,
+[00:39:31] the agencies are the biggest they've
+[00:39:32] ever, they've ever been.
+[00:39:33] We just need to make sure we continue to deliver value
+[00:39:36] to the public of New Zealand with, um,
+[00:39:38] the resources that have invested in us.
+[00:39:40] Great. Judith, I just really wanted to say, um,
+[00:39:42] thank you for the work you do.
+[00:39:44] Mm. And tell the teams, um, particularly impressed
+[00:39:47] with the work that you've done with the Shehar,
+[00:39:50] that terrible, uh, terrorist attack in Christchurch.
+[00:39:53] And I was very impressed,
+[00:39:54] and I think those of us who were there, uh, at the fifth,
+[00:39:58] um, five year anniversary were so impressed that, uh,
+[00:40:03] everyone knew you, everyone was able to, um, talk to you
+[00:40:07] and, uh, they knew actually you're on their
+[00:40:09] side. So it was great.
+[00:40:11] Thank you for that, minister. I'll pass it on.
+[00:40:13] But both of our, both of us are fortunate in
+[00:40:15] that we lead great teams.
+[00:40:17] Indeed. Hey, listen, can I say to both of you, thank you
+[00:40:20] so much, um, for, uh, spending time with us today
+[00:40:22] and, and answering our questions.
+[00:40:23] Really appreciate it. With that, uh,
+[00:40:25] I'll close this public session.
+[00:40:27] Uh, we'll have a private session wrap up and then we'll.

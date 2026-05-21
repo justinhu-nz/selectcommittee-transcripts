@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T09:45:33.970287+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1058084872",
+  "title": "vimeo_1058084872",
+  "url": "https://vimeo.com/1058084872",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758258",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1971.71,
+    "segment_count": 698,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 03 04 ISC - vimeo_1058084872\\2026 03 04 ISC - vimeo_1058084872.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1058084872",
+    "display_id": "1058084872",
+    "title": "2026 03 04 ISC",
+    "description": "Wednesday 4 March 2026\u00a0| Intelligence and Security Committee\n2024/25 Annual reviews of the New Zealand Security Intelligence Service and the Government Communications Security Bureau\nGovernment Communications Security Bureau\nAndrew Clark, Director-General\nNew Zealand Security Intelligence Service\nAndrew Hampton, Director-General",
+    "webpage_url": "https://vimeo.com/1058084872",
+    "original_url": "https://vimeo.com/1058084872",
+    "upload_date": "20260304",
+    "timestamp": 1772596928,
+    "release_timestamp": 1772596936,
+    "duration": 1972,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2129195187-b11c6a0beb40831a509ab1a90a65fd47021045b673a85457c54a6dfa4355f2b3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285936518.vtt?expires=1778501556&sig=de1742931f8753f7de6d80458aecec7a7fd67664&download=auto_generated_captions.vtt"
+  }
+}

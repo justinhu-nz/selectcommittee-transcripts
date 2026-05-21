@@ -1,0 +1,483 @@
+Title: 2026-05-20 2026/05/21 EDSI
+URL: https://vimeo.com/1192050842
+Published: 2026-05-20
+Duration: 00:26:10
+
+[00:00:00] Morning.
+[00:00:01] Thank you so much. We have half an hour with you, so if you would like to start
+[00:00:05] by some
+[00:00:06] opening remarks, that would be great, and then there will be questions from
+[00:00:09] members. Thank you.
+[00:00:13] Thank you. It's a pleasure to be here.
+[00:00:18] We thought that we would open by sharing a little about
+[00:00:22] REANNZ, if that was appropriate, and deal with that.
+[00:00:27] REANN have the privilege of chairing REANNZ,
+[00:00:30] and we're very proudly
+[00:00:33] providing the underlying infrastructure and technology
+[00:00:37] across an incredibly important part of New
+[00:00:41] Zealand,
+[00:00:43] mostly research, education, and we add
+[00:00:46] innovation to that. And of course, the underlying science sector with
+[00:00:50] newly formed PROs,
+[00:00:54] heavily engaged with that community as well.
+[00:00:57] But why don't I pass over to Amber, who's the CEO, and get
+[00:01:01] Amber to give you a more in-depth
+[00:01:04] overview, and then we are, of course, in your hands in terms of
+[00:01:09] questions and where you'd like to take the discussion.
+[00:01:12] Thank you.
+[00:01:14] Thank you, Helen. I thought I would just bring REANNZ to life
+[00:01:18] for you. We are a small entity that often sort of goes
+[00:01:22] behind the scenes, just the nature of what we do.
+[00:01:24] So I thought I'd just bring our work and our mission to life.
+[00:01:28] So our strategic intent is to be the enabler and connector
+[00:01:32] for the research, education, and innovation sector.
+[00:01:36] Now, we do that by being part of a global ecosystem of similar
+[00:01:40] organizations doing exactly the same thing.
+[00:01:43] So there's 120 other countries around the world that have what's called
+[00:01:47] an NREN, a National Research and Education Network.
+[00:01:51] We all work together in a federated model that's based on the
+[00:01:54] concept of reciprocity. So there's no contracts, but we all work
+[00:01:58] together to enable global research, education, and innovation.
+[00:02:02] We do that in two broad ways. First is we run a
+[00:02:06] specialized high speed, low latency network.
+[00:02:10] And to bring that to life, because I realize there's a lot of sort of buzzwords in
+[00:02:13] that statement, when
+[00:02:16] a normal internet provider runs their cables, they fill the
+[00:02:20] cables with as much traffic as they can because that's how you get return
+[00:02:24] on your investment. For an NREN, we're paid by our
+[00:02:27] members and our funders to keep our networks empty.
+[00:02:31] So if you look at our traffic profile, we've got a lot of empty capacity and a
+[00:02:34] little baseload traffic down the bottom.
+[00:02:36] Now, that is done deliberately by design to enable huge data
+[00:02:41] files to go from one end of the world to the other.
+[00:02:44] So if I use an example of Niwa or Earth Sciences as it is
+[00:02:47] now, they regularly send huge climate change data models to the
+[00:02:51] UK, and those are too big to go on normal internet networks.
+[00:02:55] So they traverse REANNZ,
+[00:02:57] which has the headroom. We hand them over to our US colleagues, which also
+[00:03:01] have headroom, and then they hand it over to the UK colleagues who have a similar
+[00:03:05] headroom. So we all need to work together to make this happen.
+[00:03:09] If one of us did run their network differently, you wouldn't get that ability to
+[00:03:13] move huge amounts of data around the world.
+[00:03:15] So that's our fundamental infrastructure.
+[00:03:18] And then on top of that, we have a lot of platforms and services that
+[00:03:22] enable people to also connect and move around the world as well.
+[00:03:25] And some of these are fundamental global services underpinning
+[00:03:29] research and education. If I think of eduroam, which is federated
+[00:03:32] Wi-Fi, that was used 8.4 billion times last year globally.
+[00:03:36] So we're a small entity locally, but we're part of a bigger whole,
+[00:03:41] and it gives us the ability to leverage
+[00:03:44] capability and experience from overseas and bring that to New
+[00:03:48] Zealand to upskill ourselves and to enable us to offer more
+[00:03:52] services to the sector.
+[00:03:55] Great. All right. So are you okay if we start with
+[00:03:59] questions now? You finished your... Yeah. Thank you.
+[00:04:03] Members, questions. First question from Ruben Davidson.
+[00:04:07] Yeah, look, thank you very much. And
+[00:04:11] I'm assuming that you're coming in on our network today as opposed to
+[00:04:15] yours.
+[00:04:16] We are, yes.
+[00:04:17] That would explain some of the issues with it because it is probably running at
+[00:04:21] capacity.
+[00:04:23] On that network question,
+[00:04:26] and network reliability, in your report, it notes that you
+[00:04:30] didn't meet the target. So I was just curious, and I
+[00:04:34] should probably acknowledge that it's by a relatively small measure that you
+[00:04:38] didn't. But
+[00:04:41] I guess the first question there is why you didn't, what you
+[00:04:45] think the cause is for that.
+[00:04:46] Mm-hmm.
+[00:04:46] And then what you think the impact on member experience is as a
+[00:04:50] result.
+[00:04:51] Sure. Let me just bring up the target here.
+[00:04:54] We didn't meet it, and that was because...
+[00:04:57] Just getting it from the report. That was because there was a
+[00:05:01] mistake in the SPE, so actually was human error on our side.
+[00:05:05] You were talking about
+[00:05:07] the
+[00:05:11] packet delay variation target. So we missed it by--
+[00:05:17] So the target was less than .01% of hourly measurements across the core network
+[00:05:22] have a certain amount of packet delay.
+[00:05:25] And we missed it because we actually had incorrectly recorded
+[00:05:29] the measure in our SPE. We recorded it as less than
+[00:05:32] .01 and actually was less than .1, so actually
+[00:05:36] we did meet that.
+[00:05:39] So we did meet what we were aiming to meet.
+[00:05:41] It was an error. The impact if we were to meet that, so the
+[00:05:45] reason that target is really important is it's about quality of data
+[00:05:49] transfer. So if you think of huge packets of
+[00:05:53] data or even files, so medical imaging and the like, you don't want to
+[00:05:57] lose any bits of that transfer through the process because then the quality
+[00:06:02] of the file at the end is less than ideal.
+[00:06:05] So that is why these targets are so important, and that is why we focus on
+[00:06:08] itSo forensically, so to speak.
+[00:06:13] Sure. So just a sup on that, and
+[00:06:17] especially given that it was
+[00:06:19] human error in reporting or-
+[00:06:22] Mm-hmm
+[00:06:22] ... measure monitoring. How
+[00:06:25] are you monitoring and reporting on that?
+[00:06:27] So if it's underperforming-
+[00:06:31] Yeah
+[00:06:31] ... how do you pick up on that? What are the systems that you've got in place for
+[00:06:35] that?
+[00:06:35] Yeah, absolutely. So
+[00:06:37] networks produce a huge amount of data. It's called flow reporting.
+[00:06:41] And we run that through our systems, and we apply an algorithm which
+[00:06:45] allows us monthly to check the performance levels.
+[00:06:48] That algorithm's been checked by the auditors.
+[00:06:51] So the first time we got the new auditors in, they spent a lot of time with our
+[00:06:55] technical teams looking at the math and understanding how that worked to make
+[00:06:59] sure that it was a realistic and a valid
+[00:07:02] target that we were reporting against.
+[00:07:05] Great. And just one final sup on that, and just to pick up on your earlier point
+[00:07:09] about the reciprocal relationship you have with other countries
+[00:07:12] Mm-hmm
+[00:07:12] How does it compare as a rate to equivalent or any
+[00:07:16] other
+[00:07:18] of your partners?
+[00:07:19] It's varied. I couldn't tell you exactly, but the conversations
+[00:07:24] we've had, because they don't report publicly, not everyone does,
+[00:07:28] we're really similar to the US backbones, the big backbone networks,
+[00:07:32] and I would say the more mature countries that operate in NREN.
+[00:07:36] When you start getting into some of the smaller third world countries
+[00:07:39] like Asia or bits of Africa, it's a big achievement just for them to
+[00:07:43] get a stable connection. So it does vary.
+[00:07:46] But the big ones like Australia, US, the UK, a lot of the
+[00:07:50] European ones, that would be comparable.
+[00:07:53] Cool. Thank you.
+[00:07:54] Very good. Next we go to Dr. David Watson.
+[00:07:57] Hi. Yeah, look, thank you for your work, vital in our innovation
+[00:08:01] infrastructure as well as education.
+[00:08:04] What do you perceive or see are the weaknesses in our
+[00:08:08] network?
+[00:08:11] So
+[00:08:13] in our network, you're talking about within REANNZ scope?
+[00:08:16] One of the-
+[00:08:17] Yes
+[00:08:17] ... yeah, one of the things
+[00:08:20] that we're asked to do is around resiliency.
+[00:08:24] So through this global ecosystem, we have very strong global
+[00:08:27] resiliency because we have lots of alternative paths, and we help each other out if
+[00:08:31] something goes wrong.
+[00:08:33] Nationally, the only weakness we see, and
+[00:08:38] we've been talking about this a lot, it's a low likelihood, but the
+[00:08:42] big weakness for New Zealand is we've got
+[00:08:45] three cables between the North and South Island, and the international cables go
+[00:08:49] out from up in north, which you'll probably be aware of.
+[00:08:53] There is a risk, obviously, if there was a big fault and you
+[00:08:57] lost that connectivity between the islands, then you've effectively cut off the
+[00:09:01] South Island. So that would be the one thing we're seeing, and
+[00:09:05] our members at the bottom of the South Island are really
+[00:09:08] interested in any of those conversations when they come up about potential
+[00:09:12] connectivity from Dunedin and Invercargill across to Australia.
+[00:09:16] Thank you, Amber.
+[00:09:17] So that's something we'd be interested in.
+[00:09:19] I have one supplementary, but I just need to declare an interest.
+[00:09:22] My job
+[00:09:23] just prior to coming here was advisor to DataGrid, which is the
+[00:09:27] one that I think you-
+[00:09:28] Oh, right. Okay, that's what I'm referencing.
+[00:09:30] And the transnational network that they were looking at.
+[00:09:33] Mm-hmm.
+[00:09:33] So my next question is, you're shifting large amounts of data, big data,
+[00:09:38] and that's completely important, but we're going to
+[00:09:42] actually have to crunch the data, and at the moment, as I understand,
+[00:09:46] these large amounts of data, we maybe don't have the capacity to do it
+[00:09:50] here. So my question is three related things around our
+[00:09:54] capacity to do the processing and our sovereignty,
+[00:09:58] data sovereignty-
+[00:09:59] Mm-hmm
+[00:09:59] ... IP, et cetera.
+[00:10:01] Yeah, and you're right, they're two different questions.
+[00:10:05] So if you look across the ecosystem in New Zealand, there's a
+[00:10:09] range of
+[00:10:10] capability available for people to process their data.
+[00:10:14] So REANNZ runs a high-performance compute.
+[00:10:18] All the universities have their own.
+[00:10:21] And we use
+[00:10:23] other entities like Earth Sciences Compute.
+[00:10:25] But when you start getting really large volumes,
+[00:10:28] that is where we're looking overseas at the moment.
+[00:10:31] So the benefit of the networks is the ability to move big
+[00:10:35] data offshore if need be.
+[00:10:37] So we are talking actively to Pawsey, which is a supercomputer
+[00:10:41] center in Perth,
+[00:10:43] and they've got huge amounts of GPU, CPU, and access to
+[00:10:46] quantum. So we're looking at trying to bring that online for the sector in the
+[00:10:50] next three months or so.
+[00:10:54] So that is available to leverage, those opportunities are available to leverage.
+[00:10:58] The sovereign question's a really interesting one.
+[00:11:02] There is a need that's emerging, and the sector haven't quite landed on
+[00:11:05] this, but for GPUs at scale to reflect
+[00:11:09] sovereign data sets, and obviously we've got
+[00:11:14] sovereign Māori data, we've got governmental IP data.
+[00:11:18] And one of the challenges that some of the universities have as well is they don't
+[00:11:22] quite know what's in some of these data sets, so you obviously take a risk-averse
+[00:11:26] approach, choose to process it
+[00:11:29] in country as well.
+[00:11:31] So it is a gap. We are working with GDDA
+[00:11:35] on ways that we might be able to fill that gap.
+[00:11:39] Awesome. Thank you, Amber.
+[00:11:40] All right. A supplementary, Robin Davidson.
+[00:11:42] Yeah, just
+[00:11:43] exploring further on that sovereign data question.
+[00:11:46] Mm-hmm.
+[00:11:49] How
+[00:11:51] do you get an assurance if
+[00:11:55] things are going to be going offshore?
+[00:11:59] Mm-hmm.
+[00:11:59] What does that assurance model look like?
+[00:12:02] And particularly then in the context of Māori data
+[00:12:06] sovereignty, who are you providing that assurance to?
+[00:12:10] So what we'll do is with these contracts, we
+[00:12:14] will have a clear statement so people are aware where the data's going.
+[00:12:18] If it's going to another country, you can never 100% guarantee, right?
+[00:12:22] You can just talk about what the facility states and what the laws of the
+[00:12:26] country is.
+[00:12:28] If it's Māori data sovereignty, we are really open to people
+[00:12:32] about where it's being processed.
+[00:12:34] So for example, when REANNZ took over management of the
+[00:12:38] high-performance compute from 1 July, we went and
+[00:12:42] talked to several Māori-led research groups who were using Mahi Wika,
+[00:12:46] and we talked through what that meant to sovereignty,
+[00:12:51] what REANNZ being a Crown-owned entity meant to sovereignty and the
+[00:12:55] benefits of it. So that was how we leaned into it.
+[00:13:00] Does that answer your question?
+[00:13:01] It's basically a case-by-case basis, and we're transparent.
+[00:13:06] We're also looking at using AI concepts such as federated
+[00:13:09] learning,
+[00:13:11] which are designed to support sovereignty.
+[00:13:14] So what that process does, you
+[00:13:17] run a process on distributed datasets.
+[00:13:21] So that could be a dataset owned by an iwi and managed by an iwi,
+[00:13:25] and all you're passing back to the center, wherever the center happens to be,
+[00:13:28] is the result of that query. The data's not actually leaving
+[00:13:33] its normal place of rest. So we're looking at those
+[00:13:37] services to really help answer that question as well.
+[00:13:40] Yeah, great. You've said yourself you can't be
+[00:13:44] 100% certain once it leaves, so are there
+[00:13:47] places that you wouldn't send it to?
+[00:13:51] And
+[00:13:53] is there a percentage below 100 that you wouldn't drop to?
+[00:13:57] Would you be comfortable with 80% certainty?
+[00:14:00] No. Remember, the data is the ownership of the
+[00:14:04] research program, not REANNZ, so it comes to the
+[00:14:07] individual researcher and research program. We don't actually own datasets.
+[00:14:11] We move them from A to B,
+[00:14:14] and we provide, either directly or through a federated model, the
+[00:14:18] ability for people to use overseas infrastructure, but that is not
+[00:14:21] REANNZ's
+[00:14:23] responsibility at this stage.
+[00:14:26] Yeah. So anywhere's possible. If someone wants to send something somewhere, you'll
+[00:14:29] connect them.
+[00:14:31] As long as it's within the global community, and just noting the global
+[00:14:35] community is bound by sanctions, so there are certain countries that aren't
+[00:14:39] on the networks anymore because of international sanctions.
+[00:14:44] Yeah. I'll ask a question. So given there are so many different
+[00:14:48] places the data goes to, so how do you basically
+[00:14:52] monitor that the whole chain where the
+[00:14:56] data is going is protected for any cybersecurity kind of
+[00:15:00] attacks? What capabilities do you have to monitor that?
+[00:15:03] Yeah. So we do two things. So we can monitor through
+[00:15:07] the network records, we call them the flow reporting, where data goes.
+[00:15:12] We work closely with the other ones of us, so we know
+[00:15:16] what their cybersecurity posture is.
+[00:15:20] So we can
+[00:15:22] talk to members if need be, what that journey looks like in terms of a
+[00:15:26] cybersecurity approach. We also have a
+[00:15:30] lot of layers of cybersecurity on the REANNZ network nationally, and again, we
+[00:15:34] share that very much with our members.
+[00:15:37] The one thing to note is there's two types of traffic.
+[00:15:41] We've got two types of networks. There's the NREN
+[00:15:45] network, which is the global ecosystem.
+[00:15:47] That is where we have more control and visibility.
+[00:15:51] At certain points, we hand off to the general internet.
+[00:15:54] So it depends on the traffic, depends on the level of security.
+[00:15:58] And at a governance level, we monitor and
+[00:16:02] oversee and ensure as much
+[00:16:06] as is absolutely possible.
+[00:16:11] And as we all know from a cybersecurity standpoint,
+[00:16:16] you have to understand, monitor, and be
+[00:16:20] always
+[00:16:21] cognizant of
+[00:16:23] evolving threats. So we take cybersecurity very, very
+[00:16:27] seriously and we continue to monitor,
+[00:16:30] and we have a incredible team who
+[00:16:34] oversees that for our members, for our customers.
+[00:16:39] So if there is any security incident, does
+[00:16:43] that get reported to
+[00:16:47] whoever is the actual owner of that data?
+[00:16:50] We would, yes. So we haven't had one, but we would
+[00:16:54] report to the institution, and if we knew, it would be the
+[00:16:58] individual researcher, but definitely the institution.
+[00:17:02] Actually, I'm deputy chair on what's called the
+[00:17:06] Security Policy Alliance, and that is around sharing information
+[00:17:10] across the global community of
+[00:17:13] cyber threats as well. So we're trying to protect everyone with intel
+[00:17:18] across the whole ecosystem.
+[00:17:22] Robin Davidson. Yeah.
+[00:17:23] Yeah. Thank you.
+[00:17:25] So in the report, it talks about reduced
+[00:17:29] revenue via membership fees.
+[00:17:31] Mm-hmm.
+[00:17:31] Mm-hmm.
+[00:17:31] And obviously, that's partly the CRI to
+[00:17:35] PRO transition that you've talked about earlier.
+[00:17:39] Also, the disestablishment of Te Pūkenga.
+[00:17:42] So we won't go into the
+[00:17:45] intricacies and opinions on that at this end, or certainly from my perspective.
+[00:17:49] Just focused on this year.
+[00:17:50] But as the chair has suggested, if we're focused on this year,
+[00:17:54] what are the impacts on the affordability and sustainability of your
+[00:17:58] services as a result of those changes?
+[00:18:01] Yeah. It's a very good question.
+[00:18:04] There's no buckets of service. So from the network side, we are still
+[00:18:08] sustainable.
+[00:18:10] So it has reduced some margin that we were
+[00:18:14] making to invest in product development and things like that,
+[00:18:18] but it didn't mean we fell below sustainability for that core
+[00:18:22] service.From an HPC or a compute side of the
+[00:18:25] business,
+[00:18:28] again, we are stabilizing revenues, so we're
+[00:18:32] actually okay. But it does impact our ability to
+[00:18:36] invest in the future, so in the GPUs that we're looking at or
+[00:18:40] additional services.
+[00:18:42] So that's really the impact. It hasn't pushed us below a level of
+[00:18:46] concern.
+[00:18:52] So affecting your ability to invest in the future.
+[00:18:55] Mm-hmm.
+[00:18:59] There's a sliding scale probably on that statement as far as
+[00:19:03] it could be, we're very comfortable with our lack of ability to
+[00:19:06] invest in the future, through to in three years' time if it continues like this,
+[00:19:11] we'll be in real trouble.
+[00:19:13] Yeah. We're
+[00:19:15] not in the latter, we're in the former.
+[00:19:17] So REANNZ has an obligation to make enough money annually to
+[00:19:21] reinvest in our infrastructure. We're still meeting that obligation at the
+[00:19:25] moment.
+[00:19:27] It's key for us to keep
+[00:19:32] membership revenue static and constant as we can to give us that
+[00:19:36] certainty about the reinvestment model.
+[00:19:38] What we're looking at doing is we're looking at identifying opportunities where we
+[00:19:41] can grow and bring more people onto the infrastructure,
+[00:19:45] which then gives us the ability to invest in things like GPUs
+[00:19:49] and quantum and what have you.
+[00:19:52] So we've got one line on the ability to keep the
+[00:19:55] status quo going and keep it refreshed,
+[00:19:59] as determined by hardware refresh cycles.
+[00:20:02] And so have you been
+[00:20:05] asked to do or have you done any work about who else might come on as users,
+[00:20:09] especially given the shifts that we're seeing towards more services being able to
+[00:20:13] use this?
+[00:20:14] Yeah, absolutely. So we're talking very closely with the
+[00:20:17] GDDA.
+[00:20:19] We're a mandated entity under that, so we're talking to them about how we could
+[00:20:23] provide additional services. What we've done as part of that is we've looked
+[00:20:27] around the global ecosystem and seen
+[00:20:30] where other countries have used NREN capability in different
+[00:20:34] ways. So one of the obvious opportunities that we are
+[00:20:38] talking about is hospitals. So if you look overseas,
+[00:20:44] hospitals are often connected to what we call the NREN, and that's for two
+[00:20:48] reasons. One is the stability of the network allowing for file
+[00:20:51] transfer, so when you're looking at MRIs flitting around.
+[00:20:55] The other is the interface between the
+[00:20:59] teaching institutions, whether that's a polytechnic or a university,
+[00:21:03] and hospitals. There's a lot of students going back and forth,
+[00:21:06] and we have a lot of software and services that make that transition
+[00:21:11] between a tertiary institution and the network that's at a
+[00:21:15] hospital, or hospital systems more streamlined.
+[00:21:19] So that's a key one that we're actively looking at.
+[00:21:22] The other one is around emergency services, and that's not
+[00:21:26] for emergency response. That's not what we do.
+[00:21:29] But again, we have federated services that are designed and used
+[00:21:33] overseas to allow
+[00:21:35] multidisciplinary response teams to stand up
+[00:21:39] really quickly and work together at remote locations.
+[00:21:42] So there's opportunities there for us,
+[00:21:45] and that's what we're talking about. Equally, there's government departments.
+[00:21:49] We're innovation, so you've got Department of Conservation, you've got
+[00:21:53] MPI, you've got MB. You've got all of these standard
+[00:21:57] departments that have
+[00:22:00] mandates that align with our purpose.
+[00:22:02] We do have Ministry of Education on as a member currently.
+[00:22:06] Mm-hmm.
+[00:22:06] So there's a big opportunity. Mm.
+[00:22:08] Yeah. Those sound like massive opportunity.
+[00:22:12] Mm-hmm.
+[00:22:13] Even one of those could help us for example.
+[00:22:16] Yeah, exactly.
+[00:22:17] Sounds big to me.
+[00:22:18] Yeah.
+[00:22:18] So,
+[00:22:20] that's exciting, the potential, but it
+[00:22:23] also comes back to that capacity, and that was the point right at the beginning
+[00:22:27] about empty
+[00:22:29] glass.
+[00:22:30] Yeah.
+[00:22:30] Yeah. And we've done that modeling. So there's two bits to the capacity.
+[00:22:35] One is,
+[00:22:36] if we look at our national capacity, we have the ability to dial that up
+[00:22:40] really quite easily. It's a call to AEON and we can, a simple process
+[00:22:44] to increase it if we need to. You'll have seen in the response, we
+[00:22:48] have excess capacity on the Hawaiki cable,
+[00:22:52] and that's from Auckland to the US and Australia.
+[00:22:55] That's prepaid for and that lease agreement allows
+[00:22:58] available capacity to step up dramatically over the life of the
+[00:23:02] contract. So what we would expect we would do
+[00:23:06] is we would probably increase capacity nationally, and the additional
+[00:23:10] traffic would be used to absorb some of the currently excess
+[00:23:14] capacity on the Hawaiki
+[00:23:16] link.
+[00:23:19] So we'd need to understand their traffic patterns.
+[00:23:22] Sure. And so I guess
+[00:23:25] if you're able to manage
+[00:23:28] new users, new members,
+[00:23:30] what happens if they all come at
+[00:23:34] once? What's your ability to really rapidly scale up?
+[00:23:38] Good problem.
+[00:23:39] So, would be a nice problem to have.
+[00:23:43] Look, there's a couple of things to think about just to
+[00:23:47] put this conversation in context.
+[00:23:50] Network-wise, that's fine. We did look at Te Whātua Ora and thought we might need
+[00:23:54] to bring one or two network engineers on.
+[00:23:57] The key point to note is we're a business-to-business
+[00:24:01] model,
+[00:24:02] so as long as we're not suddenly required to support a
+[00:24:06] whole lot of end users,
+[00:24:09] we can scale relatively straightforward.
+[00:24:11] The investment and staff become in service management to manage the
+[00:24:15] contract and any of the reporting and relationship requirements
+[00:24:19] that might come with it. But from our technical staff, we don't think it's
+[00:24:22] too huge a step up on top of what we do today based
+[00:24:26] on what we know. So we do need to do more work with the entities, but the
+[00:24:30] opportunity is definitely there.
+[00:24:32] Yeah. Thank you.
+[00:24:34] I would add just a couple of things to that.
+[00:24:37] Firstly, we
+[00:24:40] have just recently undertaken
+[00:24:42] a business modeling exercise to ensure that we can scale
+[00:24:46] and made a couple of adjustments on that basis.
+[00:24:50] And that was following on from our integration of NeSI from Auckland
+[00:24:54] University into REANNZ, which came in at one
+[00:24:58] July of 2025. That,
+[00:25:02] I think, sets the organization up very well
+[00:25:05] for exponential scale and growth, and we're very
+[00:25:09] cognizant of the fact that we have an
+[00:25:13] underlying asset that could be utilized across all of New Zealand for the good of
+[00:25:16] New Zealand. And then secondly, strategically,
+[00:25:20] and following on from what Amber said earlier, we take very
+[00:25:24] seriously our responsibility as a
+[00:25:28] technology and innovation organization.
+[00:25:31] And based on that, it's very important that we are up to
+[00:25:35] date,
+[00:25:36] that we eat our own dog food, so to speak, that we really do
+[00:25:40] embed and be as automated, as
+[00:25:44] efficient as what you would want and expect from an
+[00:25:47] organization like ours. And that's too, I think,
+[00:25:52] an area which could be utilized across New
+[00:25:56] Zealand more,
+[00:25:57] and we'd welcome that. Mm-hmm. That's great. Thank you so much.
+[00:26:02] Yeah, and there might be some follow-up questions.
+[00:26:05] If that's the case, you will be contacted. Thank you.
+[00:26:09] Great. Thank you very much

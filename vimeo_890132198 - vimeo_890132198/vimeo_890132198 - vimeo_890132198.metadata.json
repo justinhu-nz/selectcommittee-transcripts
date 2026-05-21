@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-05-21T09:45:34.853924+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_890132198",
+  "title": "vimeo_890132198",
+  "url": "https://vimeo.com/890132198",
+  "published_at": "20240326",
+  "published_display": "2024-03-26",
+  "duration_seconds": 2433,
+  "source_labels": "Vimeo Showcase 10758258",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2429.11,
+    "segment_count": 854,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\Intelligence and Security Committee - vimeo_890132198\\Intelligence and Security Committee - vimeo_890132198.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "890132198",
+    "display_id": "890132198",
+    "title": "Intelligence and Security Committee",
+    "webpage_url": "https://vimeo.com/890132198",
+    "original_url": "https://vimeo.com/890132198",
+    "upload_date": "20240326",
+    "timestamp": 1711429029,
+    "release_timestamp": 1711429079,
+    "duration": 2433,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1822265169-e3e8311596c136ab5da534e8dfee1b34368d386d0397ac4fb591f376f58bb8b8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

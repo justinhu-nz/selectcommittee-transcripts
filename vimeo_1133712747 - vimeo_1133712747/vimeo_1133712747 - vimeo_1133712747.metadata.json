@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T09:45:40.088854+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1133712747",
+  "title": "vimeo_1133712747",
+  "url": "https://vimeo.com/1133712747",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 6380625",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4974.94,
+    "segment_count": 1848,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025 11 12 SO - vimeo_1133712747\\2025 11 12 SO - vimeo_1133712747.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1133712747",
+    "display_id": "1133712747",
+    "title": "2025 11 12 SO",
+    "description": "Wednesday 12 November 2025 | Standing Orders Committee\n\nHearing of evidence | Review of Standing Orders 2026\nNew Zealand Council for Civil Liberties\nAndrew Ecclestone, Deputy Chair\nFranks Ogilvie\nStephen Franks, Director\nMarcus Ganley, Special Counsel\nGraeme Edgeler\nTrust Democracy\nSimon Wright, Committee member\nAndrew Ecclestone, Committee member\nLouis Donovan\nPeter Hoare\nJonathan Godfrey\nEthan McCormick\nCraig Atkinson",
+    "webpage_url": "https://vimeo.com/1133712747",
+    "original_url": "https://vimeo.com/1133712747",
+    "upload_date": "20251112",
+    "timestamp": 1762923616,
+    "release_timestamp": 1762923626,
+    "duration": 4981,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2081959678-26b790488f6f23889b7d80fea90a10bd4cbecf152cf04dbcfa3a698cdfc2f62c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/264600848.vtt?expires=1778504868&sig=267acf8c9aa32e5fd2a50c5b84de358542895e48&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,2423 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1570.07,
+  "segments": [
+    {
+      "start": 0.06,
+      "end": 0.36,
+      "text": "Morning."
+    },
+    {
+      "start": 1.04,
+      "end": 4.98,
+      "text": "Thank you so much. We have half an hour with you, so if you would like to start"
+    },
+    {
+      "start": 5.04,
+      "end": 5.56,
+      "text": "by some"
+    },
+    {
+      "start": 6.44,
+      "end": 9.76,
+      "text": "opening remarks, that would be great, and then there will be questions from"
+    },
+    {
+      "start": 9.77,
+      "end": 10.46,
+      "text": "members. Thank you."
+    },
+    {
+      "start": 13.8,
+      "end": 17.0,
+      "text": "Thank you. It's a pleasure to be here."
+    },
+    {
+      "start": 18.4,
+      "end": 22.06,
+      "text": "We thought that we would open by sharing a little about"
+    },
+    {
+      "start": 22.08,
+      "end": 25.5,
+      "text": "REANNZ, if that was appropriate, and deal with that."
+    },
+    {
+      "start": 27.0,
+      "end": 30.52,
+      "text": "REANN have the privilege of chairing REANNZ,"
+    },
+    {
+      "start": 30.7,
+      "end": 32.72,
+      "text": "and we're very proudly"
+    },
+    {
+      "start": 33.84,
+      "end": 37.08,
+      "text": "providing the underlying infrastructure and technology"
+    },
+    {
+      "start": 37.58,
+      "end": 41.41,
+      "text": "across an incredibly important part of New"
+    },
+    {
+      "start": 41.42,
+      "end": 41.82,
+      "text": "Zealand,"
+    },
+    {
+      "start": 43.0,
+      "end": 46.88,
+      "text": "mostly research, education, and we add"
+    },
+    {
+      "start": 46.94,
+      "end": 50.7,
+      "text": "innovation to that. And of course, the underlying science sector with"
+    },
+    {
+      "start": 50.84,
+      "end": 53.44,
+      "text": "newly formed PROs,"
+    },
+    {
+      "start": 54.26,
+      "end": 56.78,
+      "text": "heavily engaged with that community as well."
+    },
+    {
+      "start": 57.12,
+      "end": 61.02,
+      "text": "But why don't I pass over to Amber, who's the CEO, and get"
+    },
+    {
+      "start": 61.06,
+      "end": 63.62,
+      "text": "Amber to give you a more in-depth"
+    },
+    {
+      "start": 64.8,
+      "end": 68.28,
+      "text": "overview, and then we are, of course, in your hands in terms of"
+    },
+    {
+      "start": 69.26,
+      "end": 71.24,
+      "text": "questions and where you'd like to take the discussion."
+    },
+    {
+      "start": 72.06,
+      "end": 72.42,
+      "text": "Thank you."
+    },
+    {
+      "start": 74.04,
+      "end": 78.0,
+      "text": "Thank you, Helen. I thought I would just bring REANNZ to life"
+    },
+    {
+      "start": 78.36,
+      "end": 82.09,
+      "text": "for you. We are a small entity that often sort of goes"
+    },
+    {
+      "start": 82.18,
+      "end": 84.82,
+      "text": "behind the scenes, just the nature of what we do."
+    },
+    {
+      "start": 84.9,
+      "end": 87.62,
+      "text": "So I thought I'd just bring our work and our mission to life."
+    },
+    {
+      "start": 88.96,
+      "end": 92.86,
+      "text": "So our strategic intent is to be the enabler and connector"
+    },
+    {
+      "start": 92.9,
+      "end": 95.4,
+      "text": "for the research, education, and innovation sector."
+    },
+    {
+      "start": 96.06,
+      "end": 99.84,
+      "text": "Now, we do that by being part of a global ecosystem of similar"
+    },
+    {
+      "start": 100.32,
+      "end": 102.54,
+      "text": "organizations doing exactly the same thing."
+    },
+    {
+      "start": 103.22,
+      "end": 107.2,
+      "text": "So there's 120 other countries around the world that have what's called"
+    },
+    {
+      "start": 107.3,
+      "end": 110.66,
+      "text": "an NREN, a National Research and Education Network."
+    },
+    {
+      "start": 111.14,
+      "end": 114.86,
+      "text": "We all work together in a federated model that's based on the"
+    },
+    {
+      "start": 114.88,
+      "end": 118.56,
+      "text": "concept of reciprocity. So there's no contracts, but we all work"
+    },
+    {
+      "start": 118.6,
+      "end": 121.92,
+      "text": "together to enable global research, education, and innovation."
+    },
+    {
+      "start": 122.66,
+      "end": 126.22,
+      "text": "We do that in two broad ways. First is we run a"
+    },
+    {
+      "start": 126.38,
+      "end": 129.72,
+      "text": "specialized high speed, low latency network."
+    },
+    {
+      "start": 130.44,
+      "end": 133.28,
+      "text": "And to bring that to life, because I realize there's a lot of sort of buzzwords in"
+    },
+    {
+      "start": 133.32,
+      "end": 134.9,
+      "text": "that statement, when"
+    },
+    {
+      "start": 136.18,
+      "end": 140.1,
+      "text": "a normal internet provider runs their cables, they fill the"
+    },
+    {
+      "start": 140.14,
+      "end": 144.04,
+      "text": "cables with as much traffic as they can because that's how you get return"
+    },
+    {
+      "start": 144.06,
+      "end": 147.31,
+      "text": "on your investment. For an NREN, we're paid by our"
+    },
+    {
+      "start": 147.78,
+      "end": 150.62,
+      "text": "members and our funders to keep our networks empty."
+    },
+    {
+      "start": 151.07,
+      "end": 154.28,
+      "text": "So if you look at our traffic profile, we've got a lot of empty capacity and a"
+    },
+    {
+      "start": 154.32,
+      "end": 156.24,
+      "text": "little baseload traffic down the bottom."
+    },
+    {
+      "start": 156.96,
+      "end": 160.88,
+      "text": "Now, that is done deliberately by design to enable huge data"
+    },
+    {
+      "start": 161.0,
+      "end": 163.26,
+      "text": "files to go from one end of the world to the other."
+    },
+    {
+      "start": 164.18,
+      "end": 167.9,
+      "text": "So if I use an example of Niwa or Earth Sciences as it is"
+    },
+    {
+      "start": 167.96,
+      "end": 171.68,
+      "text": "now, they regularly send huge climate change data models to the"
+    },
+    {
+      "start": 171.76,
+      "end": 175.44,
+      "text": "UK, and those are too big to go on normal internet networks."
+    },
+    {
+      "start": 175.52,
+      "end": 177.02,
+      "text": "So they traverse REANNZ,"
+    },
+    {
+      "start": 177.86,
+      "end": 181.76,
+      "text": "which has the headroom. We hand them over to our US colleagues, which also"
+    },
+    {
+      "start": 181.8,
+      "end": 185.78,
+      "text": "have headroom, and then they hand it over to the UK colleagues who have a similar"
+    },
+    {
+      "start": 185.82,
+      "end": 189.02,
+      "text": "headroom. So we all need to work together to make this happen."
+    },
+    {
+      "start": 189.5,
+      "end": 193.18,
+      "text": "If one of us did run their network differently, you wouldn't get that ability to"
+    },
+    {
+      "start": 193.24,
+      "end": 195.62,
+      "text": "move huge amounts of data around the world."
+    },
+    {
+      "start": 195.66,
+      "end": 198.34,
+      "text": "So that's our fundamental infrastructure."
+    },
+    {
+      "start": 198.36,
+      "end": 202.08,
+      "text": "And then on top of that, we have a lot of platforms and services that"
+    },
+    {
+      "start": 202.1,
+      "end": 204.84,
+      "text": "enable people to also connect and move around the world as well."
+    },
+    {
+      "start": 205.38,
+      "end": 209.06,
+      "text": "And some of these are fundamental global services underpinning"
+    },
+    {
+      "start": 209.12,
+      "end": 212.6,
+      "text": "research and education. If I think of eduroam, which is federated"
+    },
+    {
+      "start": 212.66,
+      "end": 216.52,
+      "text": "Wi-Fi, that was used 8.4 billion times last year globally."
+    },
+    {
+      "start": 216.6,
+      "end": 220.37,
+      "text": "So we're a small entity locally, but we're part of a bigger whole,"
+    },
+    {
+      "start": 221.06,
+      "end": 224.12,
+      "text": "and it gives us the ability to leverage"
+    },
+    {
+      "start": 224.22,
+      "end": 228.16,
+      "text": "capability and experience from overseas and bring that to New"
+    },
+    {
+      "start": 228.2,
+      "end": 232.18,
+      "text": "Zealand to upskill ourselves and to enable us to offer more"
+    },
+    {
+      "start": 232.52,
+      "end": 233.64,
+      "text": "services to the sector."
+    },
+    {
+      "start": 235.78,
+      "end": 239.6,
+      "text": "Great. All right. So are you okay if we start with"
+    },
+    {
+      "start": 239.62,
+      "end": 242.78,
+      "text": "questions now? You finished your... Yeah. Thank you."
+    },
+    {
+      "start": 243.52,
+      "end": 246.68,
+      "text": "Members, questions. First question from Ruben Davidson."
+    },
+    {
+      "start": 247.42,
+      "end": 250.08,
+      "text": "Yeah, look, thank you very much. And"
+    },
+    {
+      "start": 251.46,
+      "end": 255.3,
+      "text": "I'm assuming that you're coming in on our network today as opposed to"
+    },
+    {
+      "start": 255.34,
+      "end": 255.7,
+      "text": "yours."
+    },
+    {
+      "start": 256.46,
+      "end": 257.72,
+      "text": "We are, yes."
+    },
+    {
+      "start": 257.78,
+      "end": 261.06,
+      "text": "That would explain some of the issues with it because it is probably running at"
+    },
+    {
+      "start": 261.1,
+      "end": 261.6,
+      "text": "capacity."
+    },
+    {
+      "start": 263.08,
+      "end": 264.96,
+      "text": "On that network question,"
+    },
+    {
+      "start": 266.34,
+      "end": 270.3,
+      "text": "and network reliability, in your report, it notes that you"
+    },
+    {
+      "start": 270.32,
+      "end": 273.78,
+      "text": "didn't meet the target. So I was just curious, and I"
+    },
+    {
+      "start": 274.72,
+      "end": 278.68,
+      "text": "should probably acknowledge that it's by a relatively small measure that you"
+    },
+    {
+      "start": 278.72,
+      "end": 280.02,
+      "text": "didn't. But"
+    },
+    {
+      "start": 281.2,
+      "end": 285.16,
+      "text": "I guess the first question there is why you didn't, what you"
+    },
+    {
+      "start": 285.2,
+      "end": 286.16,
+      "text": "think the cause is for that."
+    },
+    {
+      "start": 286.2,
+      "end": 286.35,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 286.92,
+      "end": 290.11,
+      "text": "And then what you think the impact on member experience is as a"
+    },
+    {
+      "start": 290.16,
+      "end": 291.84,
+      "text": "result."
+    },
+    {
+      "start": 291.94,
+      "end": 294.24,
+      "text": "Sure. Let me just bring up the target here."
+    },
+    {
+      "start": 294.28,
+      "end": 296.24,
+      "text": "We didn't meet it, and that was because..."
+    },
+    {
+      "start": 297.12,
+      "end": 300.98,
+      "text": "Just getting it from the report. That was because there was a"
+    },
+    {
+      "start": 301.02,
+      "end": 304.98,
+      "text": "mistake in the SPE, so actually was human error on our side."
+    },
+    {
+      "start": 305.68,
+      "end": 307.04,
+      "text": "You were talking about"
+    },
+    {
+      "start": 307.96,
+      "end": 308.54,
+      "text": "the"
+    },
+    {
+      "start": 311.96,
+      "end": 315.16,
+      "text": "packet delay variation target. So we missed it by--"
+    },
+    {
+      "start": 317.76,
+      "end": 321.68,
+      "text": "So the target was less than .01% of hourly measurements across the core network"
+    },
+    {
+      "start": 322.2,
+      "end": 323.84,
+      "text": "have a certain amount of packet delay."
+    },
+    {
+      "start": 325.12,
+      "end": 328.98,
+      "text": "And we missed it because we actually had incorrectly recorded"
+    },
+    {
+      "start": 329.04,
+      "end": 332.88,
+      "text": "the measure in our SPE. We recorded it as less than"
+    },
+    {
+      "start": 332.9,
+      "end": 336.76,
+      "text": ".01 and actually was less than .1, so actually"
+    },
+    {
+      "start": 336.8,
+      "end": 337.62,
+      "text": "we did meet that."
+    },
+    {
+      "start": 339.36,
+      "end": 341.76,
+      "text": "So we did meet what we were aiming to meet."
+    },
+    {
+      "start": 341.8,
+      "end": 345.52,
+      "text": "It was an error. The impact if we were to meet that, so the"
+    },
+    {
+      "start": 345.56,
+      "end": 348.98,
+      "text": "reason that target is really important is it's about quality of data"
+    },
+    {
+      "start": 349.12,
+      "end": 353.06,
+      "text": "transfer. So if you think of huge packets of"
+    },
+    {
+      "start": 353.1,
+      "end": 357.06,
+      "text": "data or even files, so medical imaging and the like, you don't want to"
+    },
+    {
+      "start": 357.14,
+      "end": 361.07,
+      "text": "lose any bits of that transfer through the process because then the quality"
+    },
+    {
+      "start": 362.02,
+      "end": 364.8,
+      "text": "of the file at the end is less than ideal."
+    },
+    {
+      "start": 365.2,
+      "end": 368.84,
+      "text": "So that is why these targets are so important, and that is why we focus on"
+    },
+    {
+      "start": 368.85,
+      "end": 372.78,
+      "text": "itSo forensically, so to speak."
+    },
+    {
+      "start": 373.36,
+      "end": 376.32,
+      "text": "Sure. So just a sup on that, and"
+    },
+    {
+      "start": 377.0,
+      "end": 378.8,
+      "text": "especially given that it was"
+    },
+    {
+      "start": 379.76,
+      "end": 382.08,
+      "text": "human error in reporting or-"
+    },
+    {
+      "start": 382.44,
+      "end": 382.55,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 382.66,
+      "end": 384.14,
+      "text": "... measure monitoring. How"
+    },
+    {
+      "start": 385.7,
+      "end": 387.54,
+      "text": "are you monitoring and reporting on that?"
+    },
+    {
+      "start": 387.66,
+      "end": 390.4,
+      "text": "So if it's underperforming-"
+    },
+    {
+      "start": 391.32,
+      "end": 391.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 391.44,
+      "end": 394.99,
+      "text": "... how do you pick up on that? What are the systems that you've got in place for"
+    },
+    {
+      "start": 395.04,
+      "end": 395.24,
+      "text": "that?"
+    },
+    {
+      "start": 395.54,
+      "end": 396.8,
+      "text": "Yeah, absolutely. So"
+    },
+    {
+      "start": 397.6,
+      "end": 400.9,
+      "text": "networks produce a huge amount of data. It's called flow reporting."
+    },
+    {
+      "start": 401.62,
+      "end": 405.48,
+      "text": "And we run that through our systems, and we apply an algorithm which"
+    },
+    {
+      "start": 405.54,
+      "end": 407.86,
+      "text": "allows us monthly to check the performance levels."
+    },
+    {
+      "start": 408.34,
+      "end": 411.02,
+      "text": "That algorithm's been checked by the auditors."
+    },
+    {
+      "start": 411.58,
+      "end": 415.42,
+      "text": "So the first time we got the new auditors in, they spent a lot of time with our"
+    },
+    {
+      "start": 415.46,
+      "end": 419.31,
+      "text": "technical teams looking at the math and understanding how that worked to make"
+    },
+    {
+      "start": 419.34,
+      "end": 421.34,
+      "text": "sure that it was a realistic and a valid"
+    },
+    {
+      "start": 422.3,
+      "end": 424.52,
+      "text": "target that we were reporting against."
+    },
+    {
+      "start": 425.68,
+      "end": 429.54,
+      "text": "Great. And just one final sup on that, and just to pick up on your earlier point"
+    },
+    {
+      "start": 429.56,
+      "end": 432.32,
+      "text": "about the reciprocal relationship you have with other countries"
+    },
+    {
+      "start": 432.74,
+      "end": 432.79,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 432.79,
+      "end": 436.72,
+      "text": "How does it compare as a rate to equivalent or any"
+    },
+    {
+      "start": 436.76,
+      "end": 436.96,
+      "text": "other"
+    },
+    {
+      "start": 438.44,
+      "end": 439.12,
+      "text": "of your partners?"
+    },
+    {
+      "start": 439.96,
+      "end": 443.88,
+      "text": "It's varied. I couldn't tell you exactly, but the conversations"
+    },
+    {
+      "start": 444.02,
+      "end": 447.06,
+      "text": "we've had, because they don't report publicly, not everyone does,"
+    },
+    {
+      "start": 448.0,
+      "end": 451.3,
+      "text": "we're really similar to the US backbones, the big backbone networks,"
+    },
+    {
+      "start": 452.08,
+      "end": 455.76,
+      "text": "and I would say the more mature countries that operate in NREN."
+    },
+    {
+      "start": 456.28,
+      "end": 459.88,
+      "text": "When you start getting into some of the smaller third world countries"
+    },
+    {
+      "start": 459.96,
+      "end": 463.86,
+      "text": "like Asia or bits of Africa, it's a big achievement just for them to"
+    },
+    {
+      "start": 463.88,
+      "end": 466.66,
+      "text": "get a stable connection. So it does vary."
+    },
+    {
+      "start": 466.86,
+      "end": 470.52,
+      "text": "But the big ones like Australia, US, the UK, a lot of the"
+    },
+    {
+      "start": 470.58,
+      "end": 472.8,
+      "text": "European ones, that would be comparable."
+    },
+    {
+      "start": 473.78,
+      "end": 474.6,
+      "text": "Cool. Thank you."
+    },
+    {
+      "start": 474.74,
+      "end": 477.56,
+      "text": "Very good. Next we go to Dr. David Watson."
+    },
+    {
+      "start": 477.6,
+      "end": 481.43,
+      "text": "Hi. Yeah, look, thank you for your work, vital in our innovation"
+    },
+    {
+      "start": 481.48,
+      "end": 483.52,
+      "text": "infrastructure as well as education."
+    },
+    {
+      "start": 484.84,
+      "end": 488.37,
+      "text": "What do you perceive or see are the weaknesses in our"
+    },
+    {
+      "start": 488.4,
+      "end": 488.9,
+      "text": "network?"
+    },
+    {
+      "start": 491.16,
+      "end": 491.42,
+      "text": "So"
+    },
+    {
+      "start": 493.06,
+      "end": 496.02,
+      "text": "in our network, you're talking about within REANNZ scope?"
+    },
+    {
+      "start": 496.06,
+      "end": 496.4,
+      "text": "One of the-"
+    },
+    {
+      "start": 497.34,
+      "end": 497.62,
+      "text": "Yes"
+    },
+    {
+      "start": 497.72,
+      "end": 499.38,
+      "text": "... yeah, one of the things"
+    },
+    {
+      "start": 500.36,
+      "end": 503.5,
+      "text": "that we're asked to do is around resiliency."
+    },
+    {
+      "start": 504.38,
+      "end": 507.76,
+      "text": "So through this global ecosystem, we have very strong global"
+    },
+    {
+      "start": 507.8,
+      "end": 511.74,
+      "text": "resiliency because we have lots of alternative paths, and we help each other out if"
+    },
+    {
+      "start": 511.76,
+      "end": 512.78,
+      "text": "something goes wrong."
+    },
+    {
+      "start": 513.88,
+      "end": 516.48,
+      "text": "Nationally, the only weakness we see, and"
+    },
+    {
+      "start": 518.52,
+      "end": 521.97,
+      "text": "we've been talking about this a lot, it's a low likelihood, but the"
+    },
+    {
+      "start": 522.02,
+      "end": 525.7,
+      "text": "big weakness for New Zealand is we've got"
+    },
+    {
+      "start": 525.72,
+      "end": 529.2,
+      "text": "three cables between the North and South Island, and the international cables go"
+    },
+    {
+      "start": 529.22,
+      "end": 532.02,
+      "text": "out from up in north, which you'll probably be aware of."
+    },
+    {
+      "start": 533.42,
+      "end": 537.24,
+      "text": "There is a risk, obviously, if there was a big fault and you"
+    },
+    {
+      "start": 537.3,
+      "end": 541.12,
+      "text": "lost that connectivity between the islands, then you've effectively cut off the"
+    },
+    {
+      "start": 541.16,
+      "end": 544.88,
+      "text": "South Island. So that would be the one thing we're seeing, and"
+    },
+    {
+      "start": 545.04,
+      "end": 548.58,
+      "text": "our members at the bottom of the South Island are really"
+    },
+    {
+      "start": 548.74,
+      "end": 552.3,
+      "text": "interested in any of those conversations when they come up about potential"
+    },
+    {
+      "start": 552.36,
+      "end": 555.76,
+      "text": "connectivity from Dunedin and Invercargill across to Australia."
+    },
+    {
+      "start": 556.7,
+      "end": 557.27,
+      "text": "Thank you, Amber."
+    },
+    {
+      "start": 557.27,
+      "end": 559.0,
+      "text": "So that's something we'd be interested in."
+    },
+    {
+      "start": 559.62,
+      "end": 562.3,
+      "text": "I have one supplementary, but I just need to declare an interest."
+    },
+    {
+      "start": 562.46,
+      "end": 562.92,
+      "text": "My job"
+    },
+    {
+      "start": 563.82,
+      "end": 567.72,
+      "text": "just prior to coming here was advisor to DataGrid, which is the"
+    },
+    {
+      "start": 567.79,
+      "end": 568.42,
+      "text": "one that I think you-"
+    },
+    {
+      "start": 568.43,
+      "end": 570.22,
+      "text": "Oh, right. Okay, that's what I'm referencing."
+    },
+    {
+      "start": 570.42,
+      "end": 573.02,
+      "text": "And the transnational network that they were looking at."
+    },
+    {
+      "start": 573.44,
+      "end": 573.45,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 573.5,
+      "end": 577.22,
+      "text": "So my next question is, you're shifting large amounts of data, big data,"
+    },
+    {
+      "start": 578.42,
+      "end": 582.34,
+      "text": "and that's completely important, but we're going to"
+    },
+    {
+      "start": 582.42,
+      "end": 586.12,
+      "text": "actually have to crunch the data, and at the moment, as I understand,"
+    },
+    {
+      "start": 586.62,
+      "end": 590.46,
+      "text": "these large amounts of data, we maybe don't have the capacity to do it"
+    },
+    {
+      "start": 590.52,
+      "end": 594.0,
+      "text": "here. So my question is three related things around our"
+    },
+    {
+      "start": 594.06,
+      "end": 597.89,
+      "text": "capacity to do the processing and our sovereignty,"
+    },
+    {
+      "start": 598.18,
+      "end": 598.9,
+      "text": "data sovereignty-"
+    },
+    {
+      "start": 599.22,
+      "end": 599.42,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 599.9,
+      "end": 601.04,
+      "text": "... IP, et cetera."
+    },
+    {
+      "start": 601.98,
+      "end": 605.24,
+      "text": "Yeah, and you're right, they're two different questions."
+    },
+    {
+      "start": 605.38,
+      "end": 609.04,
+      "text": "So if you look across the ecosystem in New Zealand, there's a"
+    },
+    {
+      "start": 609.1,
+      "end": 610.06,
+      "text": "range of"
+    },
+    {
+      "start": 610.92,
+      "end": 614.88,
+      "text": "capability available for people to process their data."
+    },
+    {
+      "start": 614.9,
+      "end": 617.38,
+      "text": "So REANNZ runs a high-performance compute."
+    },
+    {
+      "start": 618.94,
+      "end": 620.34,
+      "text": "All the universities have their own."
+    },
+    {
+      "start": 621.62,
+      "end": 622.42,
+      "text": "And we use"
+    },
+    {
+      "start": 623.3,
+      "end": 625.26,
+      "text": "other entities like Earth Sciences Compute."
+    },
+    {
+      "start": 625.32,
+      "end": 628.0,
+      "text": "But when you start getting really large volumes,"
+    },
+    {
+      "start": 628.82,
+      "end": 631.32,
+      "text": "that is where we're looking overseas at the moment."
+    },
+    {
+      "start": 631.66,
+      "end": 635.36,
+      "text": "So the benefit of the networks is the ability to move big"
+    },
+    {
+      "start": 635.46,
+      "end": 637.0,
+      "text": "data offshore if need be."
+    },
+    {
+      "start": 637.84,
+      "end": 641.56,
+      "text": "So we are talking actively to Pawsey, which is a supercomputer"
+    },
+    {
+      "start": 641.6,
+      "end": 642.26,
+      "text": "center in Perth,"
+    },
+    {
+      "start": 643.34,
+      "end": 646.82,
+      "text": "and they've got huge amounts of GPU, CPU, and access to"
+    },
+    {
+      "start": 646.88,
+      "end": 650.82,
+      "text": "quantum. So we're looking at trying to bring that online for the sector in the"
+    },
+    {
+      "start": 650.86,
+      "end": 653.29,
+      "text": "next three months or so."
+    },
+    {
+      "start": 654.7,
+      "end": 658.36,
+      "text": "So that is available to leverage, those opportunities are available to leverage."
+    },
+    {
+      "start": 658.5,
+      "end": 661.96,
+      "text": "The sovereign question's a really interesting one."
+    },
+    {
+      "start": 662.08,
+      "end": 665.92,
+      "text": "There is a need that's emerging, and the sector haven't quite landed on"
+    },
+    {
+      "start": 665.98,
+      "end": 669.76,
+      "text": "this, but for GPUs at scale to reflect"
+    },
+    {
+      "start": 669.84,
+      "end": 672.4,
+      "text": "sovereign data sets, and obviously we've got"
+    },
+    {
+      "start": 674.36,
+      "end": 677.38,
+      "text": "sovereign M\u0101ori data, we've got governmental IP data."
+    },
+    {
+      "start": 678.7,
+      "end": 682.65,
+      "text": "And one of the challenges that some of the universities have as well is they don't"
+    },
+    {
+      "start": 682.74,
+      "end": 686.18,
+      "text": "quite know what's in some of these data sets, so you obviously take a risk-averse"
+    },
+    {
+      "start": 686.22,
+      "end": 688.06,
+      "text": "approach, choose to process it"
+    },
+    {
+      "start": 689.64,
+      "end": 690.52,
+      "text": "in country as well."
+    },
+    {
+      "start": 691.56,
+      "end": 695.5,
+      "text": "So it is a gap. We are working with GDDA"
+    },
+    {
+      "start": 695.56,
+      "end": 698.78,
+      "text": "on ways that we might be able to fill that gap."
+    },
+    {
+      "start": 699.84,
+      "end": 700.83,
+      "text": "Awesome. Thank you, Amber."
+    },
+    {
+      "start": 700.88,
+      "end": 702.48,
+      "text": "All right. A supplementary, Robin Davidson."
+    },
+    {
+      "start": 702.54,
+      "end": 702.96,
+      "text": "Yeah, just"
+    },
+    {
+      "start": 703.78,
+      "end": 706.7,
+      "text": "exploring further on that sovereign data question."
+    },
+    {
+      "start": 706.88,
+      "end": 707.49,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 709.08,
+      "end": 709.46,
+      "text": "How"
+    },
+    {
+      "start": 711.98,
+      "end": 715.0,
+      "text": "do you get an assurance if"
+    },
+    {
+      "start": 715.06,
+      "end": 718.22,
+      "text": "things are going to be going offshore?"
+    },
+    {
+      "start": 719.66,
+      "end": 719.67,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 719.7,
+      "end": 721.75,
+      "text": "What does that assurance model look like?"
+    },
+    {
+      "start": 722.3,
+      "end": 726.28,
+      "text": "And particularly then in the context of M\u0101ori data"
+    },
+    {
+      "start": 726.3,
+      "end": 729.02,
+      "text": "sovereignty, who are you providing that assurance to?"
+    },
+    {
+      "start": 730.88,
+      "end": 734.8,
+      "text": "So what we'll do is with these contracts, we"
+    },
+    {
+      "start": 734.84,
+      "end": 738.12,
+      "text": "will have a clear statement so people are aware where the data's going."
+    },
+    {
+      "start": 738.86,
+      "end": 742.62,
+      "text": "If it's going to another country, you can never 100% guarantee, right?"
+    },
+    {
+      "start": 742.74,
+      "end": 746.7,
+      "text": "You can just talk about what the facility states and what the laws of the"
+    },
+    {
+      "start": 746.78,
+      "end": 748.1,
+      "text": "country is."
+    },
+    {
+      "start": 748.96,
+      "end": 752.84,
+      "text": "If it's M\u0101ori data sovereignty, we are really open to people"
+    },
+    {
+      "start": 752.9,
+      "end": 754.3,
+      "text": "about where it's being processed."
+    },
+    {
+      "start": 754.84,
+      "end": 758.37,
+      "text": "So for example, when REANNZ took over management of the"
+    },
+    {
+      "start": 758.42,
+      "end": 762.07,
+      "text": "high-performance compute from 1 July, we went and"
+    },
+    {
+      "start": 762.18,
+      "end": 765.54,
+      "text": "talked to several M\u0101ori-led research groups who were using Mahi Wika,"
+    },
+    {
+      "start": 766.14,
+      "end": 769.28,
+      "text": "and we talked through what that meant to sovereignty,"
+    },
+    {
+      "start": 771.72,
+      "end": 775.5,
+      "text": "what REANNZ being a Crown-owned entity meant to sovereignty and the"
+    },
+    {
+      "start": 775.52,
+      "end": 779.28,
+      "text": "benefits of it. So that was how we leaned into it."
+    },
+    {
+      "start": 780.5,
+      "end": 781.8,
+      "text": "Does that answer your question?"
+    },
+    {
+      "start": 781.86,
+      "end": 784.76,
+      "text": "It's basically a case-by-case basis, and we're transparent."
+    },
+    {
+      "start": 786.14,
+      "end": 789.48,
+      "text": "We're also looking at using AI concepts such as federated"
+    },
+    {
+      "start": 789.6,
+      "end": 790.15,
+      "text": "learning,"
+    },
+    {
+      "start": 791.4,
+      "end": 793.7,
+      "text": "which are designed to support sovereignty."
+    },
+    {
+      "start": 794.92,
+      "end": 796.88,
+      "text": "So what that process does, you"
+    },
+    {
+      "start": 797.98,
+      "end": 801.02,
+      "text": "run a process on distributed datasets."
+    },
+    {
+      "start": 801.08,
+      "end": 804.64,
+      "text": "So that could be a dataset owned by an iwi and managed by an iwi,"
+    },
+    {
+      "start": 805.1,
+      "end": 808.52,
+      "text": "and all you're passing back to the center, wherever the center happens to be,"
+    },
+    {
+      "start": 808.96,
+      "end": 812.26,
+      "text": "is the result of that query. The data's not actually leaving"
+    },
+    {
+      "start": 813.26,
+      "end": 815.94,
+      "text": "its normal place of rest. So we're looking at those"
+    },
+    {
+      "start": 817.12,
+      "end": 819.45,
+      "text": "services to really help answer that question as well."
+    },
+    {
+      "start": 820.4,
+      "end": 824.28,
+      "text": "Yeah, great. You've said yourself you can't be"
+    },
+    {
+      "start": 824.36,
+      "end": 827.86,
+      "text": "100% certain once it leaves, so are there"
+    },
+    {
+      "start": 827.9,
+      "end": 830.02,
+      "text": "places that you wouldn't send it to?"
+    },
+    {
+      "start": 831.76,
+      "end": 832.04,
+      "text": "And"
+    },
+    {
+      "start": 833.02,
+      "end": 836.8,
+      "text": "is there a percentage below 100 that you wouldn't drop to?"
+    },
+    {
+      "start": 837.08,
+      "end": 839.35,
+      "text": "Would you be comfortable with 80% certainty?"
+    },
+    {
+      "start": 840.46,
+      "end": 843.95,
+      "text": "No. Remember, the data is the ownership of the"
+    },
+    {
+      "start": 844.04,
+      "end": 847.62,
+      "text": "research program, not REANNZ, so it comes to the"
+    },
+    {
+      "start": 847.66,
+      "end": 851.26,
+      "text": "individual researcher and research program. We don't actually own datasets."
+    },
+    {
+      "start": 851.36,
+      "end": 853.26,
+      "text": "We move them from A to B,"
+    },
+    {
+      "start": 854.24,
+      "end": 858.0,
+      "text": "and we provide, either directly or through a federated model, the"
+    },
+    {
+      "start": 858.06,
+      "end": 861.64,
+      "text": "ability for people to use overseas infrastructure, but that is not"
+    },
+    {
+      "start": 861.65,
+      "end": 862.21,
+      "text": "REANNZ's"
+    },
+    {
+      "start": 863.42,
+      "end": 864.98,
+      "text": "responsibility at this stage."
+    },
+    {
+      "start": 866.12,
+      "end": 869.79,
+      "text": "Yeah. So anywhere's possible. If someone wants to send something somewhere, you'll"
+    },
+    {
+      "start": 869.82,
+      "end": 870.24,
+      "text": "connect them."
+    },
+    {
+      "start": 871.24,
+      "end": 875.22,
+      "text": "As long as it's within the global community, and just noting the global"
+    },
+    {
+      "start": 875.3,
+      "end": 879.2,
+      "text": "community is bound by sanctions, so there are certain countries that aren't"
+    },
+    {
+      "start": 879.22,
+      "end": 882.24,
+      "text": "on the networks anymore because of international sanctions."
+    },
+    {
+      "start": 884.32,
+      "end": 888.22,
+      "text": "Yeah. I'll ask a question. So given there are so many different"
+    },
+    {
+      "start": 888.28,
+      "end": 892.16,
+      "text": "places the data goes to, so how do you basically"
+    },
+    {
+      "start": 892.54,
+      "end": 896.3,
+      "text": "monitor that the whole chain where the"
+    },
+    {
+      "start": 896.34,
+      "end": 900.04,
+      "text": "data is going is protected for any cybersecurity kind of"
+    },
+    {
+      "start": 900.06,
+      "end": 902.96,
+      "text": "attacks? What capabilities do you have to monitor that?"
+    },
+    {
+      "start": 903.7,
+      "end": 907.64,
+      "text": "Yeah. So we do two things. So we can monitor through"
+    },
+    {
+      "start": 907.72,
+      "end": 910.82,
+      "text": "the network records, we call them the flow reporting, where data goes."
+    },
+    {
+      "start": 912.0,
+      "end": 915.97,
+      "text": "We work closely with the other ones of us, so we know"
+    },
+    {
+      "start": 916.0,
+      "end": 918.78,
+      "text": "what their cybersecurity posture is."
+    },
+    {
+      "start": 920.6,
+      "end": 921.09,
+      "text": "So we can"
+    },
+    {
+      "start": 922.88,
+      "end": 926.66,
+      "text": "talk to members if need be, what that journey looks like in terms of a"
+    },
+    {
+      "start": 926.7,
+      "end": 930.6,
+      "text": "cybersecurity approach. We also have a"
+    },
+    {
+      "start": 930.64,
+      "end": 934.34,
+      "text": "lot of layers of cybersecurity on the REANNZ network nationally, and again, we"
+    },
+    {
+      "start": 934.4,
+      "end": 936.68,
+      "text": "share that very much with our members."
+    },
+    {
+      "start": 937.74,
+      "end": 941.66,
+      "text": "The one thing to note is there's two types of traffic."
+    },
+    {
+      "start": 941.72,
+      "end": 945.6,
+      "text": "We've got two types of networks. There's the NREN"
+    },
+    {
+      "start": 945.64,
+      "end": 947.46,
+      "text": "network, which is the global ecosystem."
+    },
+    {
+      "start": 947.96,
+      "end": 950.56,
+      "text": "That is where we have more control and visibility."
+    },
+    {
+      "start": 951.04,
+      "end": 953.54,
+      "text": "At certain points, we hand off to the general internet."
+    },
+    {
+      "start": 954.22,
+      "end": 956.84,
+      "text": "So it depends on the traffic, depends on the level of security."
+    },
+    {
+      "start": 958.22,
+      "end": 961.77,
+      "text": "And at a governance level, we monitor and"
+    },
+    {
+      "start": 962.76,
+      "end": 966.64,
+      "text": "oversee and ensure as much"
+    },
+    {
+      "start": 966.74,
+      "end": 970.34,
+      "text": "as is absolutely possible."
+    },
+    {
+      "start": 971.32,
+      "end": 974.64,
+      "text": "And as we all know from a cybersecurity standpoint,"
+    },
+    {
+      "start": 976.36,
+      "end": 979.62,
+      "text": "you have to understand, monitor, and be"
+    },
+    {
+      "start": 980.06,
+      "end": 980.6,
+      "text": "always"
+    },
+    {
+      "start": 981.94,
+      "end": 982.8,
+      "text": "cognizant of"
+    },
+    {
+      "start": 983.66,
+      "end": 987.34,
+      "text": "evolving threats. So we take cybersecurity very, very"
+    },
+    {
+      "start": 987.46,
+      "end": 989.6,
+      "text": "seriously and we continue to monitor,"
+    },
+    {
+      "start": 990.82,
+      "end": 993.98,
+      "text": "and we have a incredible team who"
+    },
+    {
+      "start": 994.8,
+      "end": 998.66,
+      "text": "oversees that for our members, for our customers."
+    },
+    {
+      "start": 999.5,
+      "end": 1003.38,
+      "text": "So if there is any security incident, does"
+    },
+    {
+      "start": 1003.42,
+      "end": 1005.18,
+      "text": "that get reported to"
+    },
+    {
+      "start": 1007.26,
+      "end": 1009.4,
+      "text": "whoever is the actual owner of that data?"
+    },
+    {
+      "start": 1010.78,
+      "end": 1014.72,
+      "text": "We would, yes. So we haven't had one, but we would"
+    },
+    {
+      "start": 1014.78,
+      "end": 1018.7,
+      "text": "report to the institution, and if we knew, it would be the"
+    },
+    {
+      "start": 1018.74,
+      "end": 1020.99,
+      "text": "individual researcher, but definitely the institution."
+    },
+    {
+      "start": 1022.88,
+      "end": 1026.57,
+      "text": "Actually, I'm deputy chair on what's called the"
+    },
+    {
+      "start": 1026.62,
+      "end": 1030.42,
+      "text": "Security Policy Alliance, and that is around sharing information"
+    },
+    {
+      "start": 1030.98,
+      "end": 1033.04,
+      "text": "across the global community of"
+    },
+    {
+      "start": 1033.92,
+      "end": 1037.62,
+      "text": "cyber threats as well. So we're trying to protect everyone with intel"
+    },
+    {
+      "start": 1038.76,
+      "end": 1040.18,
+      "text": "across the whole ecosystem."
+    },
+    {
+      "start": 1042.3,
+      "end": 1043.6,
+      "text": "Robin Davidson. Yeah."
+    },
+    {
+      "start": 1043.64,
+      "end": 1044.3,
+      "text": "Yeah. Thank you."
+    },
+    {
+      "start": 1045.62,
+      "end": 1049.5,
+      "text": "So in the report, it talks about reduced"
+    },
+    {
+      "start": 1049.54,
+      "end": 1050.82,
+      "text": "revenue via membership fees."
+    },
+    {
+      "start": 1051.18,
+      "end": 1051.35,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1051.58,
+      "end": 1051.66,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1051.93,
+      "end": 1055.52,
+      "text": "And obviously, that's partly the CRI to"
+    },
+    {
+      "start": 1055.62,
+      "end": 1058.24,
+      "text": "PRO transition that you've talked about earlier."
+    },
+    {
+      "start": 1059.5,
+      "end": 1061.65,
+      "text": "Also, the disestablishment of Te P\u016bkenga."
+    },
+    {
+      "start": 1062.76,
+      "end": 1064.3,
+      "text": "So we won't go into the"
+    },
+    {
+      "start": 1065.3,
+      "end": 1069.08,
+      "text": "intricacies and opinions on that at this end, or certainly from my perspective."
+    },
+    {
+      "start": 1069.22,
+      "end": 1070.02,
+      "text": "Just focused on this year."
+    },
+    {
+      "start": 1070.06,
+      "end": 1073.92,
+      "text": "But as the chair has suggested, if we're focused on this year,"
+    },
+    {
+      "start": 1074.34,
+      "end": 1078.12,
+      "text": "what are the impacts on the affordability and sustainability of your"
+    },
+    {
+      "start": 1078.18,
+      "end": 1080.22,
+      "text": "services as a result of those changes?"
+    },
+    {
+      "start": 1081.0,
+      "end": 1082.5,
+      "text": "Yeah. It's a very good question."
+    },
+    {
+      "start": 1084.5,
+      "end": 1088.2,
+      "text": "There's no buckets of service. So from the network side, we are still"
+    },
+    {
+      "start": 1088.24,
+      "end": 1088.94,
+      "text": "sustainable."
+    },
+    {
+      "start": 1090.96,
+      "end": 1094.78,
+      "text": "So it has reduced some margin that we were"
+    },
+    {
+      "start": 1094.82,
+      "end": 1097.78,
+      "text": "making to invest in product development and things like that,"
+    },
+    {
+      "start": 1098.64,
+      "end": 1102.08,
+      "text": "but it didn't mean we fell below sustainability for that core"
+    },
+    {
+      "start": 1102.16,
+      "end": 1105.8,
+      "text": "service.From an HPC or a compute side of the"
+    },
+    {
+      "start": 1105.82,
+      "end": 1106.29,
+      "text": "business,"
+    },
+    {
+      "start": 1108.42,
+      "end": 1112.05,
+      "text": "again, we are stabilizing revenues, so we're"
+    },
+    {
+      "start": 1112.12,
+      "end": 1115.92,
+      "text": "actually okay. But it does impact our ability to"
+    },
+    {
+      "start": 1116.0,
+      "end": 1119.62,
+      "text": "invest in the future, so in the GPUs that we're looking at or"
+    },
+    {
+      "start": 1120.08,
+      "end": 1121.16,
+      "text": "additional services."
+    },
+    {
+      "start": 1122.9,
+      "end": 1126.38,
+      "text": "So that's really the impact. It hasn't pushed us below a level of"
+    },
+    {
+      "start": 1126.84,
+      "end": 1127.36,
+      "text": "concern."
+    },
+    {
+      "start": 1132.04,
+      "end": 1134.52,
+      "text": "So affecting your ability to invest in the future."
+    },
+    {
+      "start": 1135.26,
+      "end": 1135.49,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1139.12,
+      "end": 1143.0,
+      "text": "There's a sliding scale probably on that statement as far as"
+    },
+    {
+      "start": 1143.04,
+      "end": 1146.82,
+      "text": "it could be, we're very comfortable with our lack of ability to"
+    },
+    {
+      "start": 1146.86,
+      "end": 1150.58,
+      "text": "invest in the future, through to in three years' time if it continues like this,"
+    },
+    {
+      "start": 1151.16,
+      "end": 1152.36,
+      "text": "we'll be in real trouble."
+    },
+    {
+      "start": 1153.64,
+      "end": 1154.41,
+      "text": "Yeah. We're"
+    },
+    {
+      "start": 1155.22,
+      "end": 1156.53,
+      "text": "not in the latter, we're in the former."
+    },
+    {
+      "start": 1157.46,
+      "end": 1161.14,
+      "text": "So REANNZ has an obligation to make enough money annually to"
+    },
+    {
+      "start": 1161.16,
+      "end": 1164.97,
+      "text": "reinvest in our infrastructure. We're still meeting that obligation at the"
+    },
+    {
+      "start": 1165.04,
+      "end": 1165.4,
+      "text": "moment."
+    },
+    {
+      "start": 1167.86,
+      "end": 1170.54,
+      "text": "It's key for us to keep"
+    },
+    {
+      "start": 1172.14,
+      "end": 1175.94,
+      "text": "membership revenue static and constant as we can to give us that"
+    },
+    {
+      "start": 1176.0,
+      "end": 1178.28,
+      "text": "certainty about the reinvestment model."
+    },
+    {
+      "start": 1178.32,
+      "end": 1181.38,
+      "text": "What we're looking at doing is we're looking at identifying opportunities where we"
+    },
+    {
+      "start": 1181.42,
+      "end": 1184.4,
+      "text": "can grow and bring more people onto the infrastructure,"
+    },
+    {
+      "start": 1185.44,
+      "end": 1189.4,
+      "text": "which then gives us the ability to invest in things like GPUs"
+    },
+    {
+      "start": 1189.46,
+      "end": 1190.74,
+      "text": "and quantum and what have you."
+    },
+    {
+      "start": 1192.24,
+      "end": 1195.92,
+      "text": "So we've got one line on the ability to keep the"
+    },
+    {
+      "start": 1195.96,
+      "end": 1198.28,
+      "text": "status quo going and keep it refreshed,"
+    },
+    {
+      "start": 1199.14,
+      "end": 1201.66,
+      "text": "as determined by hardware refresh cycles."
+    },
+    {
+      "start": 1202.92,
+      "end": 1204.09,
+      "text": "And so have you been"
+    },
+    {
+      "start": 1205.86,
+      "end": 1209.84,
+      "text": "asked to do or have you done any work about who else might come on as users,"
+    },
+    {
+      "start": 1209.88,
+      "end": 1213.61,
+      "text": "especially given the shifts that we're seeing towards more services being able to"
+    },
+    {
+      "start": 1213.74,
+      "end": 1214.12,
+      "text": "use this?"
+    },
+    {
+      "start": 1214.46,
+      "end": 1217.78,
+      "text": "Yeah, absolutely. So we're talking very closely with the"
+    },
+    {
+      "start": 1217.82,
+      "end": 1218.46,
+      "text": "GDDA."
+    },
+    {
+      "start": 1219.64,
+      "end": 1223.02,
+      "text": "We're a mandated entity under that, so we're talking to them about how we could"
+    },
+    {
+      "start": 1223.14,
+      "end": 1227.06,
+      "text": "provide additional services. What we've done as part of that is we've looked"
+    },
+    {
+      "start": 1227.08,
+      "end": 1230.5,
+      "text": "around the global ecosystem and seen"
+    },
+    {
+      "start": 1230.92,
+      "end": 1234.66,
+      "text": "where other countries have used NREN capability in different"
+    },
+    {
+      "start": 1234.74,
+      "end": 1238.7,
+      "text": "ways. So one of the obvious opportunities that we are"
+    },
+    {
+      "start": 1238.76,
+      "end": 1242.72,
+      "text": "talking about is hospitals. So if you look overseas,"
+    },
+    {
+      "start": 1244.44,
+      "end": 1247.98,
+      "text": "hospitals are often connected to what we call the NREN, and that's for two"
+    },
+    {
+      "start": 1248.04,
+      "end": 1251.76,
+      "text": "reasons. One is the stability of the network allowing for file"
+    },
+    {
+      "start": 1251.8,
+      "end": 1254.56,
+      "text": "transfer, so when you're looking at MRIs flitting around."
+    },
+    {
+      "start": 1255.3,
+      "end": 1259.06,
+      "text": "The other is the interface between the"
+    },
+    {
+      "start": 1259.12,
+      "end": 1262.94,
+      "text": "teaching institutions, whether that's a polytechnic or a university,"
+    },
+    {
+      "start": 1263.04,
+      "end": 1265.66,
+      "text": "and hospitals. There's a lot of students going back and forth,"
+    },
+    {
+      "start": 1266.88,
+      "end": 1270.8,
+      "text": "and we have a lot of software and services that make that transition"
+    },
+    {
+      "start": 1271.5,
+      "end": 1275.21,
+      "text": "between a tertiary institution and the network that's at a"
+    },
+    {
+      "start": 1275.22,
+      "end": 1278.86,
+      "text": "hospital, or hospital systems more streamlined."
+    },
+    {
+      "start": 1279.34,
+      "end": 1281.42,
+      "text": "So that's a key one that we're actively looking at."
+    },
+    {
+      "start": 1282.09,
+      "end": 1285.98,
+      "text": "The other one is around emergency services, and that's not"
+    },
+    {
+      "start": 1286.04,
+      "end": 1288.32,
+      "text": "for emergency response. That's not what we do."
+    },
+    {
+      "start": 1289.1,
+      "end": 1293.06,
+      "text": "But again, we have federated services that are designed and used"
+    },
+    {
+      "start": 1293.1,
+      "end": 1295.12,
+      "text": "overseas to allow"
+    },
+    {
+      "start": 1295.16,
+      "end": 1299.04,
+      "text": "multidisciplinary response teams to stand up"
+    },
+    {
+      "start": 1299.08,
+      "end": 1301.92,
+      "text": "really quickly and work together at remote locations."
+    },
+    {
+      "start": 1302.35,
+      "end": 1304.62,
+      "text": "So there's opportunities there for us,"
+    },
+    {
+      "start": 1305.58,
+      "end": 1309.44,
+      "text": "and that's what we're talking about. Equally, there's government departments."
+    },
+    {
+      "start": 1309.6,
+      "end": 1313.3,
+      "text": "We're innovation, so you've got Department of Conservation, you've got"
+    },
+    {
+      "start": 1313.36,
+      "end": 1316.78,
+      "text": "MPI, you've got MB. You've got all of these standard"
+    },
+    {
+      "start": 1317.12,
+      "end": 1320.88,
+      "text": "departments that have"
+    },
+    {
+      "start": 1320.92,
+      "end": 1322.58,
+      "text": "mandates that align with our purpose."
+    },
+    {
+      "start": 1322.94,
+      "end": 1325.52,
+      "text": "We do have Ministry of Education on as a member currently."
+    },
+    {
+      "start": 1326.28,
+      "end": 1326.51,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1326.9,
+      "end": 1328.46,
+      "text": "So there's a big opportunity. Mm."
+    },
+    {
+      "start": 1328.52,
+      "end": 1331.64,
+      "text": "Yeah. Those sound like massive opportunity."
+    },
+    {
+      "start": 1332.26,
+      "end": 1332.66,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1333.64,
+      "end": 1336.72,
+      "text": "Even one of those could help us for example."
+    },
+    {
+      "start": 1336.98,
+      "end": 1336.99,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 1337.04,
+      "end": 1337.78,
+      "text": "Sounds big to me."
+    },
+    {
+      "start": 1338.28,
+      "end": 1338.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 1338.46,
+      "end": 1338.64,
+      "text": "So,"
+    },
+    {
+      "start": 1340.34,
+      "end": 1343.3,
+      "text": "that's exciting, the potential, but it"
+    },
+    {
+      "start": 1343.38,
+      "end": 1347.35,
+      "text": "also comes back to that capacity, and that was the point right at the beginning"
+    },
+    {
+      "start": 1347.38,
+      "end": 1348.36,
+      "text": "about empty"
+    },
+    {
+      "start": 1349.58,
+      "end": 1350.48,
+      "text": "glass."
+    },
+    {
+      "start": 1350.54,
+      "end": 1350.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1350.71,
+      "end": 1354.56,
+      "text": "Yeah. And we've done that modeling. So there's two bits to the capacity."
+    },
+    {
+      "start": 1355.28,
+      "end": 1355.83,
+      "text": "One is,"
+    },
+    {
+      "start": 1356.8,
+      "end": 1360.69,
+      "text": "if we look at our national capacity, we have the ability to dial that up"
+    },
+    {
+      "start": 1360.72,
+      "end": 1364.68,
+      "text": "really quite easily. It's a call to AEON and we can, a simple process"
+    },
+    {
+      "start": 1364.74,
+      "end": 1368.62,
+      "text": "to increase it if we need to. You'll have seen in the response, we"
+    },
+    {
+      "start": 1368.74,
+      "end": 1371.34,
+      "text": "have excess capacity on the Hawaiki cable,"
+    },
+    {
+      "start": 1372.48,
+      "end": 1374.82,
+      "text": "and that's from Auckland to the US and Australia."
+    },
+    {
+      "start": 1375.36,
+      "end": 1378.84,
+      "text": "That's prepaid for and that lease agreement allows"
+    },
+    {
+      "start": 1378.92,
+      "end": 1382.9,
+      "text": "available capacity to step up dramatically over the life of the"
+    },
+    {
+      "start": 1382.98,
+      "end": 1386.88,
+      "text": "contract. So what we would expect we would do"
+    },
+    {
+      "start": 1386.96,
+      "end": 1390.68,
+      "text": "is we would probably increase capacity nationally, and the additional"
+    },
+    {
+      "start": 1390.7,
+      "end": 1394.24,
+      "text": "traffic would be used to absorb some of the currently excess"
+    },
+    {
+      "start": 1394.3,
+      "end": 1395.68,
+      "text": "capacity on the Hawaiki"
+    },
+    {
+      "start": 1396.76,
+      "end": 1397.68,
+      "text": "link."
+    },
+    {
+      "start": 1399.96,
+      "end": 1401.76,
+      "text": "So we'd need to understand their traffic patterns."
+    },
+    {
+      "start": 1402.54,
+      "end": 1404.32,
+      "text": "Sure. And so I guess"
+    },
+    {
+      "start": 1405.58,
+      "end": 1406.7,
+      "text": "if you're able to manage"
+    },
+    {
+      "start": 1408.18,
+      "end": 1410.2,
+      "text": "new users, new members,"
+    },
+    {
+      "start": 1410.92,
+      "end": 1414.62,
+      "text": "what happens if they all come at"
+    },
+    {
+      "start": 1414.66,
+      "end": 1418.27,
+      "text": "once? What's your ability to really rapidly scale up?"
+    },
+    {
+      "start": 1418.82,
+      "end": 1419.21,
+      "text": "Good problem."
+    },
+    {
+      "start": 1419.46,
+      "end": 1422.5,
+      "text": "So, would be a nice problem to have."
+    },
+    {
+      "start": 1423.84,
+      "end": 1427.82,
+      "text": "Look, there's a couple of things to think about just to"
+    },
+    {
+      "start": 1427.88,
+      "end": 1430.16,
+      "text": "put this conversation in context."
+    },
+    {
+      "start": 1430.52,
+      "end": 1434.11,
+      "text": "Network-wise, that's fine. We did look at Te Wh\u0101tua Ora and thought we might need"
+    },
+    {
+      "start": 1434.14,
+      "end": 1436.56,
+      "text": "to bring one or two network engineers on."
+    },
+    {
+      "start": 1437.26,
+      "end": 1440.62,
+      "text": "The key point to note is we're a business-to-business"
+    },
+    {
+      "start": 1441.44,
+      "end": 1441.68,
+      "text": "model,"
+    },
+    {
+      "start": 1442.66,
+      "end": 1446.6,
+      "text": "so as long as we're not suddenly required to support a"
+    },
+    {
+      "start": 1446.62,
+      "end": 1448.02,
+      "text": "whole lot of end users,"
+    },
+    {
+      "start": 1449.5,
+      "end": 1451.22,
+      "text": "we can scale relatively straightforward."
+    },
+    {
+      "start": 1451.26,
+      "end": 1455.02,
+      "text": "The investment and staff become in service management to manage the"
+    },
+    {
+      "start": 1455.08,
+      "end": 1459.02,
+      "text": "contract and any of the reporting and relationship requirements"
+    },
+    {
+      "start": 1459.1,
+      "end": 1462.74,
+      "text": "that might come with it. But from our technical staff, we don't think it's"
+    },
+    {
+      "start": 1462.92,
+      "end": 1466.88,
+      "text": "too huge a step up on top of what we do today based"
+    },
+    {
+      "start": 1466.92,
+      "end": 1470.6,
+      "text": "on what we know. So we do need to do more work with the entities, but the"
+    },
+    {
+      "start": 1470.64,
+      "end": 1471.8,
+      "text": "opportunity is definitely there."
+    },
+    {
+      "start": 1472.64,
+      "end": 1473.5,
+      "text": "Yeah. Thank you."
+    },
+    {
+      "start": 1474.26,
+      "end": 1476.82,
+      "text": "I would add just a couple of things to that."
+    },
+    {
+      "start": 1477.52,
+      "end": 1479.1,
+      "text": "Firstly, we"
+    },
+    {
+      "start": 1480.02,
+      "end": 1481.86,
+      "text": "have just recently undertaken"
+    },
+    {
+      "start": 1482.84,
+      "end": 1486.84,
+      "text": "a business modeling exercise to ensure that we can scale"
+    },
+    {
+      "start": 1486.96,
+      "end": 1489.88,
+      "text": "and made a couple of adjustments on that basis."
+    },
+    {
+      "start": 1490.3,
+      "end": 1493.94,
+      "text": "And that was following on from our integration of NeSI from Auckland"
+    },
+    {
+      "start": 1494.0,
+      "end": 1497.96,
+      "text": "University into REANNZ, which came in at one"
+    },
+    {
+      "start": 1498.08,
+      "end": 1501.44,
+      "text": "July of 2025. That,"
+    },
+    {
+      "start": 1502.64,
+      "end": 1505.48,
+      "text": "I think, sets the organization up very well"
+    },
+    {
+      "start": 1505.54,
+      "end": 1509.26,
+      "text": "for exponential scale and growth, and we're very"
+    },
+    {
+      "start": 1509.3,
+      "end": 1511.62,
+      "text": "cognizant of the fact that we have an"
+    },
+    {
+      "start": 1513.36,
+      "end": 1516.68,
+      "text": "underlying asset that could be utilized across all of New Zealand for the good of"
+    },
+    {
+      "start": 1516.74,
+      "end": 1520.6,
+      "text": "New Zealand. And then secondly, strategically,"
+    },
+    {
+      "start": 1520.84,
+      "end": 1524.78,
+      "text": "and following on from what Amber said earlier, we take very"
+    },
+    {
+      "start": 1524.86,
+      "end": 1528.24,
+      "text": "seriously our responsibility as a"
+    },
+    {
+      "start": 1528.68,
+      "end": 1530.72,
+      "text": "technology and innovation organization."
+    },
+    {
+      "start": 1531.25,
+      "end": 1535.08,
+      "text": "And based on that, it's very important that we are up to"
+    },
+    {
+      "start": 1535.12,
+      "end": 1535.48,
+      "text": "date,"
+    },
+    {
+      "start": 1536.48,
+      "end": 1539.57,
+      "text": "that we eat our own dog food, so to speak, that we really do"
+    },
+    {
+      "start": 1540.86,
+      "end": 1544.36,
+      "text": "embed and be as automated, as"
+    },
+    {
+      "start": 1544.44,
+      "end": 1547.92,
+      "text": "efficient as what you would want and expect from an"
+    },
+    {
+      "start": 1547.94,
+      "end": 1551.26,
+      "text": "organization like ours. And that's too, I think,"
+    },
+    {
+      "start": 1552.18,
+      "end": 1556.1,
+      "text": "an area which could be utilized across New"
+    },
+    {
+      "start": 1556.16,
+      "end": 1556.88,
+      "text": "Zealand more,"
+    },
+    {
+      "start": 1557.86,
+      "end": 1561.82,
+      "text": "and we'd welcome that. Mm-hmm. That's great. Thank you so much."
+    },
+    {
+      "start": 1562.52,
+      "end": 1565.2,
+      "text": "Yeah, and there might be some follow-up questions."
+    },
+    {
+      "start": 1565.32,
+      "end": 1568.24,
+      "text": "If that's the case, you will be contacted. Thank you."
+    },
+    {
+      "start": 1569.14,
+      "end": 1570.07,
+      "text": "Great. Thank you very much"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026-05-20 2026_05_21 EDSI - vimeo_1192050842\\2026-05-20 2026_05_21 EDSI - vimeo_1192050842.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1192050842",
+    "display_id": "1192050842",
+    "title": "2026/05/21 EDSI",
+    "description": "Thursday 21 May 2026 | Economic Development, Science and Innovation Committee\n\nReview briefing on the 2024/25 annual review of Research and Education Advanced Network New Zealand Limited (REANNZ)\n\n Research and Education Advanced Network New Zealand Limited (REANNZ)\n\nHelen Robinson, Chair\nAmber McEwen, Chief Executive",
+    "webpage_url": "https://vimeo.com/1192050842",
+    "original_url": "https://vimeo.com/1192050842",
+    "upload_date": "20260520",
+    "timestamp": 1779318865,
+    "release_timestamp": 1779318871,
+    "duration": 1570,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2159802791-a991435680b98c30b97760f9cda237fb73b72849a7f155b8502e5e9142f30255-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

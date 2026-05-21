@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T09:45:45.886431+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170158884",
+  "title": "vimeo_1170158884",
+  "url": "https://vimeo.com/1170158884",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10828818",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1604.03,
+    "segment_count": 485,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_25 RR - vimeo_1170158884\\2026_03_25 RR - vimeo_1170158884.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170158884",
+    "display_id": "1170158884",
+    "title": "2026/03/25 RR",
+    "description": "Complaint about the Land Transport (Road User) Rule 2004 and the Vehicle Use and Parking Bylaw 2025 (Auckland)\n\nWiri Business Association\nGary Holmes, General Manager\n\nAuckland Council\nKaty Bexley, Associate General Counsel Public Law\n\nAuckland Transport\nSarah Preston, Solicitor",
+    "webpage_url": "https://vimeo.com/1170158884",
+    "original_url": "https://vimeo.com/1170158884",
+    "upload_date": "20260325",
+    "timestamp": 1774408449,
+    "release_timestamp": 1774408456,
+    "duration": 1611,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137953730-77378a103757f3342b397dc074074e1a4504cc30a3b2d8c5313df387cb3d0eb5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290235390.vtt?expires=1778501498&sig=f65cfe450a541ed1aff6ea9c27b23ca3b5fe4b46&download=auto_generated_captions.vtt"
+  }
+}
