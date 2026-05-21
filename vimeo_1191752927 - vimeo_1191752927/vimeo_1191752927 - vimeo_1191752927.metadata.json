@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:26.141609+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1191752927",
+  "title": "vimeo_1191752927",
+  "url": "https://vimeo.com/1191752927",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3257.16,
+    "segment_count": 982,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1191752927 - vimeo_1191752927\\vimeo_1191752927 - vimeo_1191752927.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1191752927",
+    "display_id": "1191752927",
+    "title": "2026/05/20 EW Part 1",
+    "description": "Immigration (Enhanced Risk Management) Amendment Bill\n\nRetail NZ\nCarolyn Young, Chief Executive\nDenise Garland, Manager, Advocacy, Advice and Communications\n\nNew Zealand Law Society Te Kahui Ture o Aotearoa\nSimon Graham, convenor of the Law Society\u2019s Immigration & Refugee Law Committee\nHannah Reid, member of the Law Society\u2019s Human Rights & Privacy Committee\n\nOffice of the Ombudsman\nJohn Allen, Chief Ombudsman\nJohn Lindeman, Principal Advisor\nMegan Williams, Senior Lawyer\n\nAlastair Mcclymont\n\nRochelle Zettlemoyer\n\nNew Zealand Council of Trade Unions\nJohn Crocker\nSandra Grey",
+    "webpage_url": "https://vimeo.com/1191752927",
+    "original_url": "https://vimeo.com/1191752927",
+    "upload_date": "20260519",
+    "timestamp": 1779224166,
+    "release_timestamp": 1779224174,
+    "duration": 3257,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2159292940-df2f3262d6c32c0e1ed309ebd4f3e36f8585227316da639a9f04d57c35dcc9ab-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

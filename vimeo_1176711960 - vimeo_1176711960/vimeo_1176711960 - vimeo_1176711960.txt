@@ -1,0 +1,1322 @@
+Title: vimeo_1176711960
+URL: https://vimeo.com/1176711960
+Published: Unknown
+Duration: 00:00:00
+
+[00:08:45] Koto. Welcome to the DNA select committee
+[00:08:49] this morning. And before we start, can I say thank you very much for the
+[00:08:53] information that you sent over. I had a good look at that
+[00:08:57] last night, as I'm sure everybody else has done as well, and this is a helpful
+[00:09:01] size as well. So
+[00:09:03] thank you for that, and thank you for your attendance here.
+[00:09:06] We have 75 minutes with you today, split over the two
+[00:09:10] sessions. Unfortunately, that's the way that that had to go.
+[00:09:13] Yeah.
+[00:09:13] But I understand that you have a presentation to make first, a short one.
+[00:09:17] So I'm going to hand to you, and then I'll be opening up for questions from
+[00:09:20] members. I should say it's good to see you again.
+[00:09:25] Thank you. Thank you, Madam Chair, and kio koto members and committee
+[00:09:28] today. So Fire and Emergency welcomes this inquiry, and we thank
+[00:09:32] the committee for the time to appear today.
+[00:09:35] I have with me my Chief Executive, Kerry Gregory, to help answer some questions.
+[00:09:39] To the right, Deputy Chief Executive Megan Stifler, who can help us
+[00:09:43] with our fleet deployment processes.
+[00:09:45] And on my left, CFO Darrell Purdy for all things financial.
+[00:09:51] We are here today to provide a detailed view of the state of our fleet, its
+[00:09:55] past and its present state.
+[00:09:58] We will bring you some more detail on maintenance at the next appearance, and we
+[00:10:02] can take some high-level appearance discussions today, but we are primarily
+[00:10:06] focused on the fleet at this time. We also know that you're particularly
+[00:10:10] concerned about the Type Threes. You've also asked us questions on the
+[00:10:14] wider fleet, and the pack in front of you provides the full picture of all
+[00:10:17] of that fleet.
+[00:10:19] And I'd like to set the scene to help you understand the material and frame up some
+[00:10:23] of the issues that are involved.
+[00:10:26] But firstly, let's acknowledge our paid and volunteer firefighters.
+[00:10:29] And in the year to June 2025, our crews attended
+[00:10:33] 88,805 incidents across the country.
+[00:10:37] The purpose of our fleet is simple, getting our crews to those emergencies
+[00:10:41] quickly and safely, and we understand the frustration when an appliance
+[00:10:45] breaks down or is unavailable, which is why we aspire to bring the average
+[00:10:49] age of our fleet down.
+[00:10:51] I also want to acknowledge that some previous answers to the committee have
+[00:10:55] created confusion. There was never any intention to mislead,
+[00:10:59] but some of our answers were incomplete, incorrect, or unclear,
+[00:11:04] and some of our technical terms were not properly explained.
+[00:11:08] For that, we apologize. Today, our aim is to provide the
+[00:11:12] clearest factual picture that we can.
+[00:11:15] There are three points I would just like to emphasize.
+[00:11:17] First, the operating reality.
+[00:11:20] Fire and Emergency operate one of New Zealand's largest heavy fleets.
+[00:11:24] It's specialized, nationally dispersed, and operates in more than
+[00:11:28] 600 sites.
+[00:11:30] When Fire and Emergency was established in 2017, it inherited a
+[00:11:34] complex and aged fleet environment.
+[00:11:36] This is not an excuse, but it is an important context.
+[00:11:40] Since Fire and Emergency was established, more than 300 appliances have
+[00:11:44] been put on the run after going through checks and crew training.
+[00:11:48] The second point is safety.
+[00:11:50] We know the impact of outages. To provide some
+[00:11:54] reassurance, last year across those 88,000 deployments,
+[00:11:58] there were 246 incidents that involved an unplanned
+[00:12:02] outage that kept an appliance from attending.
+[00:12:05] But when that does happen, we have a range of network and
+[00:12:08] operational responses that can manage the situation, and Megan can help
+[00:12:12] us answer some of those questions on that later.The third
+[00:12:15] point is transparency and improvement.
+[00:12:18] There are positive fleet stories.
+[00:12:20] A renewal across several of our appliance types and rebuilding the rural fleet is a
+[00:12:24] positive story. But the focus now is understandably on the Type
+[00:12:28] 3s and the Aerials.
+[00:12:30] For our Type 3s, we accept that there have been serious delays.
+[00:12:34] On our Aerials, the age profile is a concern.
+[00:12:38] Our response to these challenges has been to strengthen our governance and
+[00:12:41] reporting, tighter tracking, better information, and additional
+[00:12:45] independent reassurance for the management and the board.
+[00:12:49] But we see this inquiry as an opportunity to help improve the
+[00:12:52] transparency between the committee and Fire and Emergency for future
+[00:12:55] decision-making. So Madam Chair, we are here in that spirit today,
+[00:12:59] open, factual, constructive. We agree with the need to
+[00:13:03] reduce the age of our fleet, whilst recognizing that we do have funding
+[00:13:06] constraints. And we want to give the committee reassurance that Fire and Emergency
+[00:13:10] is serious about the work. So thank you for the brief opening, and we'll now hand
+[00:13:14] back to you for questions.
+[00:13:15] Thank you, Rebecca. I'm going to go straight away to the first
+[00:13:19] question from Tim.
+[00:13:20] Thank you.
+[00:13:23] Thank you very much, Board Chair, Commander, and team
+[00:13:27] for fronting. So, I think over the course of the next few weeks, there are
+[00:13:30] obviously going to be a number of questions about the fleet of appliances we have,
+[00:13:34] suitability, can they be built in New Zealand versus the offshore ones,
+[00:13:37] sustainment, replacement, interaction to service, some of those things.
+[00:13:41] But we'll have plenty of time today.
+[00:13:43] I'd just like to start with some sort of broader overview in line with the comments
+[00:13:47] you've just made, and then we can have a chance to maybe drill into the Type
+[00:13:51] 3, just as one example-
+[00:13:52] Sure
+[00:13:53] ... to understand, I guess, fleet processes, because as you say, it's been quite
+[00:13:56] topical.
+[00:13:57] I think one of the aims of this is just to increase public and parliamentary
+[00:14:02] confidence in FENZ.
+[00:14:05] Nothing is going to fix vehicles or magic up new vehicles overnight.
+[00:14:09] But I think it presents an opportunity to build confidence in FENZ and leadership,
+[00:14:13] and to demonstrate that the issues are well understood, that plans are in place,
+[00:14:16] even if they take time to work through, so.
+[00:14:19] But as you say, we're here in large part because of the conflicting, concerning,
+[00:14:23] and confusing answers that we've been given
+[00:14:25] over the last few hearings, particularly with that tranche two of MAN cabs.
+[00:14:29] We held an extra hearing in March because, which is quite unusual in
+[00:14:33] itself. So where were you both at that meeting?
+[00:14:36] Pardon?
+[00:14:36] Where were you both at the last meeting in March?
+[00:14:39] So we made
+[00:14:41] what we thought at the time was the right decision to send the people with the
+[00:14:44] detail to that meeting, understanding that you wanted further detail specifically
+[00:14:48] around those areas and issues that had been discussed in the previous meeting.
+[00:14:52] And given the short timeframe, we assumed that that would be the right people to
+[00:14:55] send. So in hindsight, we know that was not received well,
+[00:14:59] but that was our decision at the time.
+[00:15:00] There was a perception that those staff got thrown under the bus.
+[00:15:03] How do you respond to that?
+[00:15:04] Wasn't the intention at all. They are the experts in that field, and they have the
+[00:15:07] detail.
+[00:15:08] Did it bring the clarification that we were
+[00:15:12] hoping for?
+[00:15:13] Well, given that we're here today, no.
+[00:15:15] I think we've got to give you more, and we need to help take the committee on the
+[00:15:19] journey for that.
+[00:15:20] So as board chair, have you been asking the same questions that we've been
+[00:15:24] asking as a select committee?
+[00:15:25] Absolutely. The board in its entirety, long before
+[00:15:30] the inquiry was commenced, have worked hard on the fleet
+[00:15:34] progress. We have a financial and investment sustainability committee, which I'm
+[00:15:38] pretty sure I've talked to you about before, which has taken part of
+[00:15:41] the fleet deep dive into that subcommittee.
+[00:15:45] And we are aware of the challenges.
+[00:15:47] We're also aware of our fiscal responsibility and the envelope in which we are
+[00:15:50] operating. We've spent a lot of time as an organization sitting up asset
+[00:15:54] management plans to make sure we are looking at our fleet in an appropriate way,
+[00:15:58] and spent a lot of time looking at what is appropriate for the organization.
+[00:16:01] So you've been asking the same questions. Have you been getting the same answers?
+[00:16:05] Yes.
+[00:16:07] And you're not concerned about answers that we've been given?
+[00:16:09] We are concerned.
+[00:16:10] No, but are you concerned that the answers we've been getting are wrong and you've
+[00:16:14] been getting the same answers?
+[00:16:15] So there was definitely some confusion at those previous meetings, and I think,
+[00:16:18] Kerry, you've got some clarification on that.
+[00:16:20] Would you like to go through that, particularly on those MAN 3s and the 30 trucks?
+[00:16:24] We'll come to that in a minute. But my question is, you're not concerned that the
+[00:16:27] answers we're getting is wrong and-
+[00:16:30] I'm concerned that there's been some confusion in the answers that are given, but
+[00:16:33] the answers that we've, or questions that we have asked at board level and
+[00:16:36] subcommittee level, we've had the appropriate answers for.
+[00:16:39] So that's why we need to-
+[00:16:40] But you must have sat there and said, "Hang on a minute.
+[00:16:43] I think the wrong message is coming across." Because as you've just said,
+[00:16:47] you understood the situation. So surely at that point, either
+[00:16:51] you're going to jump in or you're going to write to the committee afterwards and
+[00:16:54] go, "Hang on a minute. I think we got that one wrong."
+[00:16:57] And that hasn't happened.
+[00:16:59] There was some correspondence back to the committee, which we talked about.
+[00:17:03] We clarified certain things.
+[00:17:04] Yes. Yeah, absolutely. Was concerned about the confusion, for sure.
+[00:17:10] Okay.
+[00:17:14] Right. So let's just take one example then.
+[00:17:19] We've obviously heard a bit about are there any trucks on the road.
+[00:17:22] I think we all understand today none of the tranche two trucks are on the road,
+[00:17:26] but they will be by July.
+[00:17:30] Not all 30, but the first lot will be by July.
+[00:17:33] I can take you through the whole process, if you like, through that.
+[00:17:39] Certainly, our aim is to have them on by July, but there are some issues
+[00:17:43] that we're dealing with that may push them past July, but they'll
+[00:17:47] certainly be on-
+[00:17:48] Sure. But let's just take as one example, how many in that first
+[00:17:52] wave that we were hoping for July, plus or minus the issues that might
+[00:17:56] delay it a few, but-
+[00:17:57] So the 16 that, if you have a look at the green sheet here
+[00:18:01] that we supplied.
+[00:18:02] Yeah. But it is 16 or 17.
+[00:18:06] Well, it might pay if I take you through the context to
+[00:18:09] clarify the confusion.
+[00:18:12] Yeah.
+[00:18:12] Because we have got stuck in the past in giving the committee real
+[00:18:16] clarity on actually the numbers and the makeup between those.
+[00:18:20] So I think if you-
+[00:18:21] If you allow me just to give you a quick context of how that evolved, it'll bring a
+[00:18:25] lot more clarity across the numbers. That would be helpful.
+[00:18:28] Yeah. But just before we do that.
+[00:18:30] Yeah.
+[00:18:31] Here's the reason I'm asking this.
+[00:18:32] At the last meeting, the one that
+[00:18:35] we're here for,
+[00:18:37] we had this exact question of was it '16 or '17.
+[00:18:40] Yeah.
+[00:18:40] And I thought it was pretty clear from your
+[00:18:43] pre-hearing answers and your post-hearing and your review answers that it was
+[00:18:47] 17, including the trial appliance
+[00:18:50] of the AngloCo Man Cab Tranche 2, pipe
+[00:18:54] three.
+[00:18:57] And I was told, "No, no, no. It's '16." And I specifically said,
+[00:19:01] "Are you sure it's not '17?" The written answer here say '17, very clear.
+[00:19:05] And it's not '16.
+[00:19:07] And if
+[00:19:09] the culture, we'll start with the board because we're going to come to officer
+[00:19:12] command in a minute.
+[00:19:13] But if the culture within the board is, "No, no, we're out of transparency, we're
+[00:19:16] putting everything right."
+[00:19:18] And you can see something as clear as that where I specifically say, "Is it '16 or
+[00:19:22] '17?" "No, it's only '16." What's happened to the other
+[00:19:26] tranche? And we can't get an answer.
+[00:19:27] Surely at that point,
+[00:19:29] you could just send us a note and go, "Well, it's 16 are the ones that were built
+[00:19:33] up. So last year, plus there's the trial appliance.
+[00:19:36] That's the 17th."
+[00:19:37] Mm-hmm.
+[00:19:37] Better referring to that.
+[00:19:39] We're just not seeing that kind of proactive approach.
+[00:19:42] Sure. Understood.
+[00:19:42] And I think that's what's creating concern.
+[00:19:44] Yeah.
+[00:19:44] But I'm not seeing a proactive approach out of the boards who are
+[00:19:47] appointed as the public's representatives
+[00:19:51] to oversee things from a government position.
+[00:19:55] Sure. So today we have the answers to those.
+[00:19:57] And I think I'd like, if possible to, is the team-
+[00:19:59] No, that's good
+[00:20:00] ... to go through that.
+[00:20:01] I'm great. But we shouldn't have had to come here today to get those answers,
+[00:20:03] should we?
+[00:20:04] No.
+[00:20:05] So my question to the board is what have you been doing all this time?
+[00:20:09] So we've spent, as I talked you through before, a lot of time looking at fleet.
+[00:20:13] And we are aware of some of the challenges in terms of the miscommunication at this
+[00:20:16] committee level. Hence the reason we need the opportunity now to give you this
+[00:20:20] detail, and we would really like that opportunity to take you through, particularly
+[00:20:23] this era,
+[00:20:25] so we can make sure that we are all on the same page and that we can move forward.
+[00:20:28] Thank you. We'll do that now. Okay. Thank you.
+[00:20:30] Gary, if you want to take us through that.
+[00:20:31] Yeah. And some of that lack of clarity has come from bouncing the
+[00:20:35] numbers, and from our side, bouncing the numbers, when we
+[00:20:39] were very into different phases or aspects of it.
+[00:20:43] And that's why I want to give some real clarity to it.
+[00:20:44] So in 2019, we ordered 30 Man
+[00:20:49] cab chassis.
+[00:20:51] And then in October 2019, we identified
+[00:20:55] the structural body cracking in 28 of the 47 Man
+[00:20:58] Fraser type threes, which had been operationally deployed at that time from
+[00:21:03] previous procurement.
+[00:21:04] So following that, decision was made to pause the further
+[00:21:08] production of any type threes until a solution had been
+[00:21:11] identified for the cracking. The pause is actually
+[00:21:15] quite pivotal in the long term of what's, then this
+[00:21:19] process has dragged on for multiple years.
+[00:21:22] So just to be clear on that point then, can you just give me the date,
+[00:21:26] right back at the start, when did Tranche 2 start?
+[00:21:30] Tranche 2, so the 30 appliances?
+[00:21:32] Yes.
+[00:21:33] So in August 2019, we ordered the 30
+[00:21:37] Man cab chassis.
+[00:21:38] Right. So it didn't start at the end of 2023?
+[00:21:43] I'll get to that, the phase in '23.
+[00:21:46] No, no, I just want to confirm that when Tranche 2 started, so it was
+[00:21:49] 2019.
+[00:21:50] Well, it depends what-
+[00:21:51] The slide in '21 would be helpful as well, Mr.
+[00:21:53] Costa, if that page gives you the timeline.
+[00:21:54] Oh, yeah, I just had someone draw me up one, and it starts-
+[00:21:58] Yeah
+[00:21:58] ... here nicely at December 2023.
+[00:22:01] So in '23, what we did at that stage, and there's a
+[00:22:05] step that comes before that, so I would appreciate if you'd let me go through it
+[00:22:08] because it will become clear.
+[00:22:10] Yeah.
+[00:22:11] But in '23, that's when we went to AngloCo to
+[00:22:14] design further 28 build. So 28 of those
+[00:22:18] chassis that were bought in 2019. Of the
+[00:22:22] 30 chassis,
+[00:22:24] 28 of them we went to AngloCo to design those, and that's what you're referring
+[00:22:28] to as Tranche 2.
+[00:22:30] So it started at '23 or 2019?
+[00:22:34] That's what I'm saying, that's-
+[00:22:35] Started in 2019.
+[00:22:36] That's why we need to go through in a sequential point or it
+[00:22:40] won't, it'll become confusing.
+[00:22:41] Yeah.
+[00:22:42] So 2019-
+[00:22:43] It does, because do you recognize this?
+[00:22:45] I do recognize that.
+[00:22:46] Yeah. It's what you gave us at the last hearing.
+[00:22:48] Yep.
+[00:22:49] To kind of assuage our concerns, and it specifically says, "Tranche 2 starts in
+[00:22:52] December 2023."
+[00:22:53] That is when we gave the-
+[00:22:56] Chassis
+[00:22:57] ... 28 chassis to AngloCo to design the appliances that are
+[00:23:01] coming on.
+[00:23:02] So it's skipped four years of history,
+[00:23:05] hasn't it?
+[00:23:06] Is that-
+[00:23:06] It specifically says
+[00:23:10] it starts in... There's a little code, Tranche 2.
+[00:23:13] It's only Tranche 1 up until here.
+[00:23:15] Yeah. So what I'm trying to do today is give the committee real clarity
+[00:23:19] around the timeline to put you through that.
+[00:23:23] So not going back at what's been supplied in the past, but giving,
+[00:23:27] and not saying that's wrong, it's actually filling the gaps where there are gaps
+[00:23:31] in there.
+[00:23:31] Okay. It's not wrong, it's just not been answered.
+[00:23:34] So but can you, I think you've skipped a bit.
+[00:23:36] So you got to,
+[00:23:37] you had the cracking issue.
+[00:23:39] Yep.
+[00:23:40] In the meantime, you were also running your next generation type three project,
+[00:23:45] and you've gone out for RFPs for that.
+[00:23:47] Mm-hmm.
+[00:23:48] So how did you select AngloCo in 2023 to
+[00:23:52] build the remaining 28?
+[00:23:54] Okay, so following that decision to pause
+[00:23:58] the type threes.
+[00:23:59] Mm-hmm.
+[00:24:00] And that took longer than anticipated.
+[00:24:03] It wasn't until 2021 that a decision was made
+[00:24:07] to send one of the 30 Man chassis that we'd bought in
+[00:24:10] 2019 to AngloCo, and one of
+[00:24:14] those chassis to SEM. And that was to design a
+[00:24:18] different prototype for the body build through there.
+[00:24:21] But how are they selected?
+[00:24:23] So that was two of those originally
+[00:24:26] 30 Man chassis.
+[00:24:28] Yeah, but how were SEM and AngloCo selected?
+[00:24:31] Oh, they've selected through the procurement process to sort of identify-
+[00:24:34] They're the ones that responded to an RFP or something, did they?
+[00:24:38] I'd have to come back with that detail.
+[00:24:39] I haven't gone into the detail of what happened back at that stage.
+[00:24:43] Does anyone in the room know? Because as I understand-
+[00:24:46] Darryl should know. Yes, Darryl has some notes on it.
+[00:24:47] Did SCM put in an RFP for the next generation?
+[00:24:50] So, the process we undertook was, because we had a
+[00:24:53] panel for the next generation Type 3s, we sought external
+[00:24:57] advice, and following that advice,
+[00:25:01] we approached a few of the suppliers who were on the panel
+[00:25:04] for the next generation Type 3 and asked them if they could rapidly
+[00:25:08] fill the build on the main chassis so that we wouldn't have
+[00:25:12] a gap. The intention was we wouldn't have a gap in the production Type 3, so that's
+[00:25:15] how that occurred. We sought advice and followed that advice.
+[00:25:18] So that makes sense. But SCM definitely then had put in an RFP for next
+[00:25:22] generation Type 3.
+[00:25:23] Correct. So separate process, if you like.
+[00:25:26] But we're drawing on that panel of suppliers that we've gone to market for, for the
+[00:25:29] next generations to do this short-term build on the main chassis.
+[00:25:33] So any information that said that there'd only been four RFPs
+[00:25:37] being
+[00:25:39] Scania,
+[00:25:41] AngloCo,
+[00:25:44] Scania NZ with Fraser Fire, Emergency One, but not
+[00:25:48] SCM, that SCM had not put in
+[00:25:51] a RFP for the next generation, that would be incorrect, would it?
+[00:25:56] I'd need to come back to you on that.
+[00:25:58] Right. Because otherwise, it just kind of looked like, get the AngloCo piece,
+[00:26:01] they'd put in an RFP. But if SCM hadn't, it looks like they've been plucked out
+[00:26:05] of thin air.
+[00:26:07] I'd need to clarify that detail with you. Happy to do that.
+[00:26:10] Okay.
+[00:26:10] Great. Thank you.
+[00:26:11] Mm-hmm.
+[00:26:12] Okay, and with that, can we just finish this chronology?
+[00:26:14] Yeah, can we just finish this bit off?
+[00:26:15] Yeah.
+[00:26:15] Thank you.
+[00:26:15] Yeah.
+[00:26:16] So, obviously at that stage, we went out to those
+[00:26:20] two suppliers and then provided them one of each of those 30
+[00:26:23] chassis.
+[00:26:25] And so then in
+[00:26:29] 2023,
+[00:26:31] we went to AngloCo's design and asked them to build a further 28.
+[00:26:35] So that was after
+[00:26:37] seeing the design elements through that.
+[00:26:40] So-
+[00:26:40] Do you test them as part of that when you selected AngloCo from the two?
+[00:26:43] You've now got two trial appliances.
+[00:26:45] Mm-hmm.
+[00:26:46] Do they get tested?
+[00:26:48] My understanding was the delays that were taken with
+[00:26:51] SCM
+[00:26:53] were just too long in actually being able to bring a
+[00:26:57] prototype to fruition.
+[00:26:59] And the contract was then provided to AngloCo
+[00:27:03] on the basis of
+[00:27:05] the design that they'd provided through the...
+[00:27:08] That could meet the spec.
+[00:27:09] So the AngloCo one wasn't tested before it was selected.
+[00:27:13] I would have to check that detail, too.
+[00:27:15] Do you know how long that AngloCo test one spent in the workshops over the
+[00:27:19] two years after it arrived broken?
+[00:27:21] Do you know, Darryl?
+[00:27:23] No, I don't.
+[00:27:23] No, we'd have to come back to that too.
+[00:27:24] We don't know that either.
+[00:27:26] Okay.
+[00:27:29] Okay.
+[00:27:30] So that was back in 2023.
+[00:27:33] And so they were asked to build a further 28, and that's where the number
+[00:27:36] changes from the 30 to the 28 because two are in prototypes.
+[00:27:41] Of those 28, we received 16 appliances, which
+[00:27:45] are going through the various stages to allow them to be put into operational use.
+[00:27:49] And that was 16 that are shown here above the black line.
+[00:27:53] So they have the 16. The two below the black line are the two prototypes.
+[00:27:58] To be clear, right now, of all of those appliances,
+[00:28:02] none of them are in operational use.
+[00:28:03] They're still, as you can see from the lines and the process they go through,
+[00:28:07] in various stages of the pipe.
+[00:28:12] So the remaining 12, so that's 18 from the
+[00:28:16] 16 under 2. So the remaining 12 from those original 30,
+[00:28:20] they haven't been received yet by foreign emergencies.
+[00:28:23] What that means is we haven't taken ownership of those appliances.
+[00:28:26] They're still going through the build process. They're in New Zealand.
+[00:28:29] I traveled up to Auckland myself to have a look at those and we cite that the 12
+[00:28:33] are in New Zealand, but they're still going through that build phase
+[00:28:37] before we will accept ownership of those.
+[00:28:43] I know you're going to ask me about the timeline for those
+[00:28:47] 12 as well.
+[00:28:49] I need to make sure that before we take ownership that we're balancing
+[00:28:53] up the expediency and also making
+[00:28:57] the contractual suitability of those.
+[00:29:00] So we want to make sure that
+[00:29:03] all of the contractual obligations actually have been met before we
+[00:29:09] receive and take ownership of those things.
+[00:29:11] And we have found
+[00:29:13] through our operational
+[00:29:15] deployment checks as we take them through from receiving them to put them into
+[00:29:19] operational use, a number of issues that have come out through there
+[00:29:23] that currently are being rectified by the supplier.
+[00:29:27] So we're actually holding the supplier to account to rectify
+[00:29:31] those issues.
+[00:29:33] It gives me assurance that our operational process that we
+[00:29:37] go through before we put them in deployment from when we receive them is picking up
+[00:29:41] those, and the supplier's working really proactively and
+[00:29:44] positively with us in rectifying any of those issues that are coming up.
+[00:29:48] And the SCM trial truck, will that go into service?
+[00:29:52] The SCM trial truck, it will go into service.
+[00:29:56] Currently, that's destined to go to New Plymouth.
+[00:30:00] And the-
+[00:30:02] Does it come with all the sort of requisite manuals and things that you'd expect?
+[00:30:06] Do the what, sorry?
+[00:30:07] Come with all the sort of requisite manuals for the appliance that you would
+[00:30:10] expect?
+[00:30:12] I don't have that detail, but I'll certainly assume it would.
+[00:30:16] Okay. I'm just going to check, Melissa, was yours a sub?
+[00:30:19] A sub, yeah.
+[00:30:19] Okay.
+[00:30:21] So does that mean I-
+[00:30:21] Yeah, you can go now.
+[00:30:22] Thank you.
+[00:30:22] Thank you, Madam Chair. I just want to go back to the two
+[00:30:26] prototypes that you actually talked about.
+[00:30:28] So they have actually gone out to the
+[00:30:32] two different companies to build.
+[00:30:35] Correct.
+[00:30:35] And you count the 16.
+[00:30:39] So you actually count, hang on, two chassis.
+[00:30:42] So out of the 30, you now are left with 22 because you've got two
+[00:30:46] prototypes. What happens to those two prototypes?
+[00:30:48] Even though they were actually gone out to be built by two separate
+[00:30:53] companies-
+[00:30:53] They're still going to be used
+[00:30:53] ... do they actually come back to you as part of the fleet?
+[00:30:57] Yes.
+[00:30:58] They do, yeah.
+[00:30:59] So one of those prototypes will be going to Rotorua and one will be going to New
+[00:31:01] Plymouth.
+[00:31:02] So they are actually coming back, so that is included.
+[00:31:04] So you now have 12 that haven't actually been received by FENZ.
+[00:31:08] Correct.
+[00:31:08] Sir, you actually initially talked about the concern for the age of the
+[00:31:12] fleet.
+[00:31:12] Mm-hmm.
+[00:31:13] So when we have actually received the vehicle,
+[00:31:17] we've ordered it in 2019,
+[00:31:20] you haven't actually received this 12, and none of these
+[00:31:24] vehicles are operational. So how old would you class those
+[00:31:27] vehicle as when you're calculating the age of the fleet?
+[00:31:33] Oh, so-
+[00:31:33] So are they-
+[00:31:34] Yeah. It's up to you.
+[00:31:35] Yeah.
+[00:31:35] So this is 2026. You ordered them in
+[00:31:38] 2019.
+[00:31:40] Mm-hmm.
+[00:31:40] It's been in the country for seven years, and it's aged,
+[00:31:44] as far as most people are concerned, when you purchase a car or anything else.
+[00:31:48] So how would you classify their age when you're actually calculating the age of
+[00:31:52] the fleet?
+[00:31:53] We'd classify the age of it from when we receive it, which is
+[00:31:57] when the total build is finished. So the appliances that
+[00:32:01] aren't actually fully built and compliant and ready
+[00:32:05] to be deployed on the road until they're built.
+[00:32:07] I would say that's the same of most vehicles.
+[00:32:11] So if you would actually... I'll give you an example.
+[00:32:13] If you purchase a car on the market right now and you actually parked it in the
+[00:32:17] garage for seven years, how old would you actually classify that car as?
+[00:32:22] It's too-
+[00:32:22] And what I'd say-
+[00:32:23] Would you call it brand new?
+[00:32:25] Or would you call it seven years old?
+[00:32:27] If I broke down the components of that car, I would have no idea of how old the
+[00:32:30] No, that wasn't the question. You purchase a car today, brand new, no, back in
+[00:32:34] 2019, and you parked it in the car and not used it,
+[00:32:39] and how old would you classify that car as?
+[00:32:41] Would you call it brand new or would you call it seven years old?
+[00:32:45] Well, I think we're not comparing apples with apples.
+[00:32:48] Well, it's a vehicle.
+[00:32:50] It's a machinery that hasn't been used.
+[00:32:52] It's still in the build phase.
+[00:32:53] There are technologies that progress. It's seven years.
+[00:32:58] Yeah.
+[00:32:59] So you're calling it brand new, are you?
+[00:33:01] I would class a vehicle brand new from the time that it's completed its build
+[00:33:04] process.
+[00:33:05] Wow.
+[00:33:05] Yes.
+[00:33:06] But it's not the build, it's not the vehicle that's being built, it's actually-
+[00:33:09] We've got another couple of subs.
+[00:33:10] Somebody hasn't finished the car in your garage, that's the issue.
+[00:33:13] We've got a couple of subs. So one from Andy and then one from Mike, and then I'm
+[00:33:16] going to-
+[00:33:17] Yeah, look, and tell me whether you want me to come back to this.
+[00:33:19] No.
+[00:33:19] So just having gone now through this document that you've given
+[00:33:23] us,
+[00:33:25] if you look at the age of the fleet-
+[00:33:28] Yeah
+[00:33:28] ... basically what you're saying is you're keeping up with Type 1, 2 rural tankers,
+[00:33:32] special fleets. They're more or less the same.
+[00:33:34] But in the aerials and Type 3s,
+[00:33:37] they're just going worse-
+[00:33:38] Yes
+[00:33:38] ... the whole time, and it's gotten worse and worse-
+[00:33:41] Yep
+[00:33:41] ... at the moment. So I think what we're looking for is some maturity.
+[00:33:44] We got to actually get on top of
+[00:33:46] that because I think the number of vehicles you have commissioned,
+[00:33:50] Type 3s you've commissioned, is
+[00:33:53] four, is it?
+[00:33:54] What page was that on?
+[00:33:56] But since 2017-
+[00:33:58] Yeah
+[00:33:58] ... you've essentially commissioned virtually nothing.
+[00:34:01] Yeah. Type 3s.
+[00:34:01] The Type 3s, yes.
+[00:34:02] Yeah. Okay. So then you've got some information later on in
+[00:34:06] this about essentially the funding deficit.
+[00:34:10] Mm-hmm.
+[00:34:10] Can you just talk us through what that actually means?
+[00:34:15] So you've got these investment gaps
+[00:34:18] for all appliances.
+[00:34:20] Mm-hmm.
+[00:34:21] Can you just walk us through what that graph actually means?
+[00:34:24] Andy, would it be possible to come back to that because-
+[00:34:27] Well, I was wondering whether you want to come back-
+[00:34:29] Yeah. I think-
+[00:34:30] ... because this is quite a big area for you
+[00:34:31] ... I think that, yes, it is.
+[00:34:32] Okay. No, I finally-
+[00:34:33] So can we come back to that? And-
+[00:34:33] But I do want to come back to that because that's-
+[00:34:35] Yes.
+[00:34:35] We'll hold that thought.
+[00:34:35] No, can we hold that-
+[00:34:37] That's the heart of it. Yeah
+[00:34:37] ... and come back to it?
+[00:34:38] Yeah.
+[00:34:38] Because I think that we need to carry on with what we were talking about.
+[00:34:41] Okay. I just want to get to a high level.
+[00:34:43] No, that's all good. Thank you. Mike.
+[00:34:46] Thank you. I just want to quickly touch on, I guess, the cab
+[00:34:50] chassis that were ordered in 2000, or arrived in
+[00:34:53] 2019, and obviously are still sitting there.
+[00:34:56] And my question around that is just around the warranty
+[00:34:59] for those
+[00:35:01] chassis. And actually, what is the warranty of it?
+[00:35:03] And are we basically seven years through that?
+[00:35:07] And how does that affect it?
+[00:35:12] Have you got the info on the warranty?
+[00:35:13] No.
+[00:35:14] Yeah. We will have to come back to you on that.
+[00:35:17] Haven't got the detail of-
+[00:35:18] Specific
+[00:35:19] ... what you need today, the specifics, and I don't want to lead the committee
+[00:35:21] astray with incorrect information.
+[00:35:23] Yeah.
+[00:35:24] Sorry, but that's not really good enough, is it?
+[00:35:26] The board chair sat here and said we've counted eight, specifically a carrier to
+[00:35:30] Type 3.
+[00:35:31] Yep.
+[00:35:31] You can't tell me if it's the input in a RFP is,
+[00:35:35] and how they were chosen. You can't tell Mr.
+[00:35:38] Davidson, if the warranty is in use.
+[00:35:41] You can't tell us exactly how it's passed.
+[00:35:44] There is-
+[00:35:45] Isn't that the point of today?
+[00:35:46] Yeah. The warranty is in place. What I
+[00:35:50] don't want to give the detail on is the specifics of when the warranty started,
+[00:35:54] and that's the question that I'm hearing from Mr. Davidson.
+[00:35:58] Yeah. When it started, when it expires.
+[00:35:59] Yeah.
+[00:36:00] And the insurance.
+[00:36:01] Yeah. So I want to be accurate on that with the committee.
+[00:36:03] I don't want to guess and
+[00:36:06] revert to memory as to what that says.
+[00:36:08] So the only reason I'm not giving the exact clarity is I want to be
+[00:36:12] precise because we've confused the committee before by incorrect or misses
+[00:36:15] or information.
+[00:36:16] It's true.
+[00:36:16] It's not an excuse to avoid the question though, is it?
+[00:36:19] I'm not avoiding the question.
+[00:36:20] It's not avoiding the question.
+[00:36:21] But we'll come back with the answer. Just want to be accurate with the answer.
+[00:36:25] Thank you. Okay, Lamonga, and then I'll come to Andy if there's no more subs
+[00:36:28] around the-
+[00:36:29] Thank you. I've been really listening intently
+[00:36:33] to the questions, but also your answers, because it's really important to
+[00:36:37] understand the operating reality
+[00:36:40] and specifically how,
+[00:36:42] over time, the new trucks have arrived,
+[00:36:46] then they haven't been in operation.
+[00:36:48] So in terms of the operating reality-
+[00:36:51] Yeah
+[00:36:51] ... because this process, we've received a number of
+[00:36:55] submissions from very concerned, not just members of the public, but also your
+[00:36:59] workforce.
+[00:37:00] Mm-hmm.
+[00:37:01] So I want to go back to the operating reality, where you've
+[00:37:05] got hundreds of sites and then you've got this problem
+[00:37:09] of
+[00:37:11] workforce requiring the equipment, and you haven't got fire trucks in.
+[00:37:15] All of us have received lots of concerns around the breakdowns, not just from the
+[00:37:19] workforce, specifically from the public.
+[00:37:21] Mm.
+[00:37:22] What is the strategy moving forward?
+[00:37:25] You are going to come back to us with specific data that's going to be
+[00:37:29] helpful. What is the operating reality from here on in towards the end of the
+[00:37:33] year? Because I'm really concerned when you have truck breakdowns, you've got
+[00:37:37] firefighters sitting on the side of the road waiting for things to be updated.
+[00:37:40] So can you help us understand what is the
+[00:37:44] contingency plan that you have in place?
+[00:37:46] Not just the numbers, but the reality, the operating reality which
+[00:37:50] the Chair openly incomes.
+[00:37:51] Sure. Yeah.
+[00:37:53] That's a better question.
+[00:37:54] Yeah. So
+[00:37:56] with regard to that,
+[00:37:58] we don't minimize the impact at a local level at
+[00:38:02] all. Both Megan and myself have been
+[00:38:05] operational firefighters. We understand, when an appliance
+[00:38:09] breaks down, how devastating that is at a local level
+[00:38:13] around being able to respond to support your community.
+[00:38:17] So, that's not minimized at all. There's two things I'll
+[00:38:21] get Megan to speak in a minute about our network,
+[00:38:24] because we don't operate on a station-by-station basis.
+[00:38:27] We
+[00:38:28] operate on a network basis, which
+[00:38:31] ensures that we can respond to communities.
+[00:38:34] But I do take you to this slide number 13 in your pack.
+[00:38:40] And
+[00:38:41] the reason for this slide in the pack isn't to
+[00:38:47] belittle the impact at a local level, it's to
+[00:38:51] actually show at a system level what it looks like.
+[00:38:55] So
+[00:38:57] 99.72% of the time,
+[00:39:00] we respond to the calls, and that's based from
+[00:39:04] 2001 to 2025, which shows the impact of
+[00:39:08] any mechanical issue you've experienced between the time of a
+[00:39:12] call is given at a station and the time that it responds back
+[00:39:16] to
+[00:39:18] get on station and recommission again.
+[00:39:21] So what this is trying to show is the
+[00:39:25] reality of the system actually working in place rather than any
+[00:39:29] given appliance breaking down at any given time.
+[00:39:32] So the high-level statement that I would make in there is that
+[00:39:35] mechanical breakdowns don't equate to inability to
+[00:39:39] service communities and to respond to appliances.
+[00:39:42] This is limited to that period. It doesn't mean that
+[00:39:46] there's not other appliances that are unavailable at that time.
+[00:39:50] It's about a system level network.
+[00:39:52] Megan, do you just want to talk a little bit about what happens when appliance does
+[00:39:56] break down in these slides?
+[00:39:57] Sure. So what you're seeing here is those
+[00:40:01] figures relate to appliances that have been
+[00:40:05] assigned to a working job. And what Kerry has pointed
+[00:40:08] out, the CE has pointed out, is 99.72% of the
+[00:40:12] time, those vehicles that are assigned to a job
+[00:40:16] turn out to that job.
+[00:40:18] If a vehicle, and in this instance, you can see there were
+[00:40:23] 98 times that an appliance,
+[00:40:27] in 2025,
+[00:40:29] couldn't go out of the station.
+[00:40:32] There are very few occurrences in our
+[00:40:36] paid network where only one
+[00:40:40] appliance is assigned to
+[00:40:42] a job. So we have 1,267
+[00:40:45] appliances across our whole country.
+[00:40:49] That is a network of appliances,
+[00:40:52] and very few times is only one appliance sent.
+[00:40:56] So if in those 98 times
+[00:40:59] a truck couldn't turn out, there is already another truck en
+[00:41:03] route. Now, that doesn't mean it is not frustrating for us.
+[00:41:07] There is nothing worse as a firefighter to hop into a truck and you
+[00:41:11] can't roll out the door. I understand that.
+[00:41:14] But when we talk about serving our community, we've got a network,
+[00:41:19] and there are many reasons a truck can't
+[00:41:23] be assigned. They could be at an ongoing job, so we have to use the network
+[00:41:26] to get to the next job. So if you imagine 1,200 trucks placed
+[00:41:30] across the country,
+[00:41:33] if we need 10 of them to go to a factory fire, we don't leave
+[00:41:37] the station that they've gone from vacant.
+[00:41:40] We move trucks in and cover that. We create a coverage network.
+[00:41:44] I think what we're seeing
+[00:41:48] here is a result of the age of our fleet.
+[00:41:52] The plans we have in play for procurement is recognizing
+[00:41:56] the older
+[00:41:57] the fleet is, the more you have to maintain it,
+[00:42:01] and we need to get those numbers down.
+[00:42:03] We hear our firefighters, and I agree with them. I am a firefighter.
+[00:42:07] The age of the fleet needs to be reduced.
+[00:42:10] Can I ask a sub to that, please? On this
+[00:42:14] graph, and I read this last night and I see that it says there the
+[00:42:18] results need to be treated with care,
+[00:42:20] but it is going up. And what does
+[00:42:24] 2026 show in comparison? So what are the data this
+[00:42:28] year? Is it going up as well?
+[00:42:30] Is it increasing than-
+[00:42:33] We can bring that data back to the committee.
+[00:42:36] But the essence is as a fleet gets older, it's going
+[00:42:40] to require more maintenance. Like Megan said, we're very
+[00:42:44] wholeheartedly, we need to bring the age profile of our fleet down,
+[00:42:48] which will reduce the maintenance of the fleet as a result of that.
+[00:42:52] But we'll certainly expect to see that graph continuing to
+[00:42:55] rise as we try to bring that-
+[00:42:57] Until it comes down.
+[00:42:58] Okay, thank you.
+[00:42:59] Jim.
+[00:43:00] He's got a sub on that.
+[00:43:01] Thank you.
+[00:43:03] Yeah.
+[00:43:03] What are your performance metrics for the supplier?
+[00:43:06] How often do you review and report them, and how are they performing?
+[00:43:09] That's a good question.
+[00:43:10] Yeah, so
+[00:43:12] we can bring you the detail around that if you want the detail on that, but we
+[00:43:15] certainly hold our suppliers account
+[00:43:18] to delivery. There's been multiple
+[00:43:22] issues through there with the suppliers and the delivery and
+[00:43:26] the timelines that we've put in place with, that they haven't been able to meet,
+[00:43:30] and some of those have been outside of our control, outside of
+[00:43:34] their control, such as supply issues and the like.
+[00:43:37] But certainly, the length of procurement is far outside
+[00:43:41] what we think is acceptable,
+[00:43:44] and been working really strongly with the
+[00:43:48] suppliers to hold them to account around the delivery times
+[00:43:52] that they have in place.
+[00:43:53] And have you entertained changing the supplier?
+[00:43:57] Well, we have contractual issues with them for a start,
+[00:44:01] and the end-to-end process from design to
+[00:44:04] the build of an appliance is roughly around 18 months.
+[00:44:08] So,
+[00:44:09] changing suppliers is not quick. We can't just go and buy one off the shelf.
+[00:44:13] And so really conscious in making a decision to change supplier,
+[00:44:18] that's a big call in the pause of supply chain going through.
+[00:44:22] To insulate. Where do you report the performance against in metrics?
+[00:44:25] Is it an annual report or whereabouts is that visible?
+[00:44:29] We don't report performance of those at a
+[00:44:32] government level.
+[00:44:34] So maybe you could report the current status to this committee maybe.
+[00:44:37] Mm-hmm.
+[00:44:37] See if something's there afterwards.
+[00:44:38] That's what the committee wants, yes.
+[00:44:40] Was that a sub?
+[00:44:41] Yeah.
+[00:44:41] Yeah.
+[00:44:43] So thanks for this information. I'm just trying to get my head around it.
+[00:44:47] First of all, obviously, you've pointed out to
+[00:44:50] 99.72% of the time the fleet's been
+[00:44:53] available.
+[00:44:56] Does that include actually
+[00:44:59] being able to be rolled out of the station bay?
+[00:45:03] Because obviously, I've heard of times when
+[00:45:05] the fleet can't leave because there's not enough staff
+[00:45:09] in there. So does that take that into account as well?
+[00:45:12] This is breakdown.
+[00:45:14] Just breakdown.
+[00:45:14] Yeah.
+[00:45:16] Use this one.
+[00:45:18] If you turn to slide 14,
+[00:45:22] do you want to just talk a little bit, 14, Megan?
+[00:45:24] Sure. This might just help you have context around
+[00:45:29] the network and availability. So what you have there
+[00:45:32] is the power of our network is it has to be able to
+[00:45:36] search for major events, but also be able to
+[00:45:40] deal with our everyday business. That graph demonstrates
+[00:45:44] that on average, about 30% of our fleet is
+[00:45:48] used at any one time.
+[00:45:50] We need the capacity for those major events, and you can see, for
+[00:45:54] example, in 2019, that sky
+[00:45:58] tower fire, we went right up to just under 60% of our
+[00:46:02] network was used.
+[00:46:05] That indicates to you that if a truck is off the run, there is a
+[00:46:09] lot of capacity within the network to deal with
+[00:46:13] incidents.
+[00:46:15] Now, the rest of the time, our firefighters are doing our prevention
+[00:46:19] work, working with schools, doing inspections, their
+[00:46:22] training,
+[00:46:24] so that's not an indication of
+[00:46:27] activity. What it is, is saying how often are our trucks used at any
+[00:46:31] one time. I think that gives you some context about what happens
+[00:46:35] when a truck's off the run and how the network can support that.
+[00:46:38] I think just adding to that as well, this graph talks to
+[00:46:42] response. That's not the only thing that our firefighters do on a daily
+[00:46:46] basis, obviously. So, it doesn't talk to
+[00:46:50] the full utilization, but whenever there's a call, we
+[00:46:54] will drop the other things to respond to fire.
+[00:46:56] So this gives our capacity to respond.
+[00:46:58] Okay.
+[00:46:59] I'm sorry, just-
+[00:46:59] Yeah, no, one more, and then I'm going to Melissa, and then Andrew.
+[00:47:02] Yeah.
+[00:47:04] So the 246, I've asked questions in the
+[00:47:08] past
+[00:47:09] of the minister about a national defect
+[00:47:12] reporting system, which to try and get the data on actually the
+[00:47:16] amount of
+[00:47:18] breakdowns there has been, and the response was there is no
+[00:47:22] system to actually capture that data,
+[00:47:26] and that a new one was apparently being
+[00:47:29] designed and put in place. But the data does
+[00:47:33] exist?
+[00:47:33] No. So if you go to the first slide of your pack, it talks
+[00:47:37] about some of the data caveats in there.
+[00:47:39] Yeah.
+[00:47:39] So, on the request of this committee for that information,
+[00:47:43] we've had a full team who have been scouring through
+[00:47:47] all of our information and data to manually pull all this
+[00:47:51] together. So one of the things that we didn't
+[00:47:55] inherit as an organization was the modernization of all of
+[00:47:59] our IT systems. That's another
+[00:48:02] capital challenge that we have for the organization facing us as part of our
+[00:48:05] investment challenge. But the reason
+[00:48:09] this data is here today,
+[00:48:11] is because we've had teams of people pulling it together manually.
+[00:48:15] Okay. So
+[00:48:18] is it likely that it's more than 246?
+[00:48:22] Well, I'm confident with the work that's gone into this to have
+[00:48:26] as accurate picture as possible for the committee today from what we've got.
+[00:48:31] But is it, sorry, I'm just trying to...
+[00:48:33] work out because you can see it trending up.
+[00:48:36] Yeah.
+[00:48:36] I'm just trying to work out, like you've-
+[00:48:37] Okay
+[00:48:38] ... pulled through the data and you're saying 246, but is it likely to be greater
+[00:48:41] than 246 considering we don't actually have a proper
+[00:48:45] system to-
+[00:48:47] Do you have a-
+[00:48:48] I'm fairly confident. I think you would've seen the social media posts
+[00:48:52] tracking truck breakdowns just as I have.
+[00:48:55] Yeah.
+[00:48:55] This kind of is at pace, with what's being
+[00:48:59] put up on social media. So that gives me a level of confidence that what
+[00:49:03] our-
+[00:49:04] Yeah
+[00:49:04] ... firefighters are reporting publicly, we've captured here.
+[00:49:08] So that gives me some level-
+[00:49:09] And does 246 give you confidence in what's-
+[00:49:12] I believe those figures we've gone through manually and that is accurate.
+[00:49:17] I do believe part of our planning,
+[00:49:21] carrying out-
+[00:49:21] Oh, sorry. You didn't quite understand my question.
+[00:49:23] Does 246 give you confidence in your fleet?
+[00:49:27] It's reflective of the age of the fleet.
+[00:49:28] Yeah. I think when you look at the size of the fleet, and like I say,
+[00:49:32] the measure is about the capability that we're deploying into
+[00:49:36] communities and are we responding to the community.
+[00:49:38] So when the confidence comes from the other graph that we
+[00:49:42] showed you about the response, the ability to respond into
+[00:49:46] communities and meeting those times.
+[00:49:48] So you're saying your fleet's a well-maintained serviced fleet?
+[00:49:51] I'd say it's reflective of a fleet of our age and
+[00:49:55] size across the country. Yeah.
+[00:49:58] Thank you. Melissa?
+[00:50:00] Part of the question that I had was this very issue in terms of
+[00:50:05] identifying the
+[00:50:07] failures or breakdowns or issues that you've actually got.
+[00:50:11] You're talking about analysis as you're saying, computer-aided
+[00:50:14] dispatch data. But
+[00:50:18] do you think you're actually capturing all of the faults that our
+[00:50:22] firefighters are actually facing with their equipment?
+[00:50:27] The reason I actually ask that, I was shocked to actually find out that you
+[00:50:31] actually have no process apart from a logbook as such
+[00:50:36] that they handwrite. And who actually monitors those and
+[00:50:40] how are they actually reported so that the management, the
+[00:50:44] board, can actually understand exactly what kind of trouble that they've actually
+[00:50:47] got with their equipment?
+[00:50:49] So before I hand a direct answer to the question, we're well aware that our
+[00:50:52] computer systems are antiquated, and we've been very clear and for many years that
+[00:50:56] we need to upgrade those. The first one we are completing this year, and we don't
+[00:51:00] have capacity as an organization, both financially or
+[00:51:03] human people-wise, to do two large projects in the one time.
+[00:51:06] So it is scheduled, and it's scheduled after the one we're currently delivering in
+[00:51:10] HRIS. So the systems are antiquated, and there's no
+[00:51:14] story otherwise. But can you answer specifically to that question?
+[00:51:17] Yeah, so that is why the data we've supplied is
+[00:51:20] based on our
+[00:51:23] CAD system, so our communication system, because we can track
+[00:51:27] that accurately from when an appliance is deployed
+[00:51:31] as to whether or not it makes it to the
+[00:51:34] incident and whether it gets home again.
+[00:51:36] So that's accurate because that comes through a message from the
+[00:51:40] firefighters directly into our communication center, and it's captured on there,
+[00:51:44] whether or not that's managed to complete the thing.
+[00:51:47] And from that data,
+[00:51:49] that shows that 99 point-
+[00:51:53] 72
+[00:51:54] ... 72% of the time, that we're responding and completing the task.
+[00:51:58] So when you have an equipment that consistently fails-
+[00:52:02] Mm
+[00:52:02] ... and it is actually dispatched for a fire, like
+[00:52:06] Lofus Lodge fire.
+[00:52:07] Mm-hmm.
+[00:52:08] And the first truck that actually got there,
+[00:52:12] it was inoperable. It didn't work.
+[00:52:14] Mm-hmm.
+[00:52:15] And the firefighters are standing there, and the fire's actually
+[00:52:19] happening right before their eyes.
+[00:52:21] How do you think they feel, and how do you feel when that actually
+[00:52:24] happens?
+[00:52:26] That's-
+[00:52:26] When it should have been, it should have actually
+[00:52:29] worked. It wasn't working.
+[00:52:31] Mm-hmm.
+[00:52:33] Yeah, that, I mean-
+[00:52:33] And whose fault was it?
+[00:52:35] That is gut-wrenching. And the
+[00:52:38] firefighters would've been devastated in that situation.
+[00:52:42] But there's no fire service around the world that can
+[00:52:46] guarantee that any appliance on any given day can
+[00:52:50] make it to a fire. There's various reasons
+[00:52:54] why they may or may not make that.
+[00:52:57] When we lift that up to a system level and we ensure that the
+[00:53:01] adequacy of the system to keep people safe,
+[00:53:04] and have confidence at that level,
+[00:53:07] that doesn't
+[00:53:09] in any way negate there will be times when the system
+[00:53:13] can't support it at a local level, and the impact of that at a local level
+[00:53:17] is devastating.
+[00:53:19] Well, that truck actually arrived at Lofus Lodge.
+[00:53:22] It just did not work when they got there.
+[00:53:24] Correct.
+[00:53:25] Okay, thank you. We're going to move now to Andy, because I did say we'd get there
+[00:53:29] before 9:00 p.m. So Andy.
+[00:53:31] Right. Okay.
+[00:53:32] Over to you.
+[00:53:33] First of all, we're going to start off with page 13, so those key metrics of
+[00:53:36] arrival. So clearly the number of vehicles that did not get to
+[00:53:40] and function when they got there has gone up markedly.
+[00:53:44] What I would like to know from that is the percentage of those, if you've got any
+[00:53:48] data about which vehicles are failing.
+[00:53:50] Because, I mean, if you look at the numbers you've given us, essentially you're
+[00:53:53] maintaining the-
+[00:53:54] Mm.
+[00:53:55] You know, the type ones, the type twos,
+[00:53:58] tankers. Those ones, you're basically maintaining them as pretty much as they were
+[00:54:02] when you got them in 2017. But it's the type three, four
+[00:54:06] and the five and sixes.
+[00:54:08] Sure. So you want the percentage.
+[00:54:08] Which
+[00:54:09] are now all at-
+[00:54:11] Yeah
+[00:54:12] ... the age they should be replaced or above on average.
+[00:54:14] Yeah.
+[00:54:15] Pretty all, or five, sixes, I think you gave them 20.
+[00:54:17] Yeah, they are all up, or they're about to get there. So do you have any feel?
+[00:54:21] Because I'm really trying to get a feel for if those numbers are going up like
+[00:54:24] that.
+[00:54:24] Yeah.
+[00:54:24] Starting to go up like that, is that gonna be sustained in that way?
+[00:54:27] And what proportion of that relates to aged fleet?
+[00:54:30] Yeah.
+[00:54:30] Because that's not clear in here.
+[00:54:32] Yeah.
+[00:54:32] Well, we'd have to
+[00:54:33] come back.
+[00:54:34] We can come back with the data.
+[00:54:34] Okay.
+[00:54:34] I mean, obviously, you would expect that the type threes,
+[00:54:38] which are the
+[00:54:40] higher age bracket-
+[00:54:41] Yeah
+[00:54:42] ... and also heavy use in being situated in
+[00:54:46] our major urban centersUm, would have a higher
+[00:54:50] proportion of it.
+[00:54:51] Yeah.
+[00:54:51] But we'll give you the exact detail on that in that-
+[00:54:53] Okay. That'd be really useful because, ultimately,
+[00:54:56] what we're interested in is the fleet actually being able to do its job.
+[00:54:58] You're correct. Yeah.
+[00:54:59] Being able to get there and do its job, and if it's not, and it's going to get
+[00:55:01] worse, then we really need to know.
+[00:55:03] Yeah.
+[00:55:03] Okay. So, leading on from that, let's focus on the Type
+[00:55:07] Threes. So, essentially, if I read the numbers
+[00:55:11] right, you've got 196 Type Threes in the fleet at the moment.
+[00:55:14] Mm-hmm.
+[00:55:15] Yeah. Their average age or the average lifespan should be 20
+[00:55:19] years.
+[00:55:19] Mm-hmm.
+[00:55:19] So you should basically be replacing 10 a year.
+[00:55:22] That's the target.
+[00:55:23] Yeah, okay. So since 2017, other than that we had the hangover of the
+[00:55:27] MAN ones, which was 47, which were ordered in 2015
+[00:55:31] and sort of, I presume, came through the process by 2018.
+[00:55:35] But since then, effectively, until
+[00:55:38] last year, you'd ordered four
+[00:55:41] and you should've been ordering 10 a year. How did we get into that position?
+[00:55:45] So before I had to-
+[00:55:46] What on earth is going on with-
+[00:55:48] Before I hand to Kerry on that one,
+[00:55:51] with our amalgamation in 2017, the direction from cabinet at the time
+[00:55:55] was very clear that we needed to invest in our rural fleet.
+[00:55:58] Yeah.
+[00:55:59] And so that's where the investment has gone.
+[00:56:01] And like any business, it prioritizes what it needs to spend within a fiscal
+[00:56:04] envelope. We needed to bring them up to speed first.
+[00:56:07] So that has been
+[00:56:09] done, and now we are moving on to our Type Threes and our Aerials.
+[00:56:12] So that's why there has been the delay in that space.
+[00:56:14] Okay.
+[00:56:14] Do you want to add anything, Rich?
+[00:56:15] Yeah.
+[00:56:16] Okay, go on, and then I'll-
+[00:56:17] Yeah. Okay. Yeah. So, there was a real focus on that.
+[00:56:21] So that was the prioritization to actually
+[00:56:23] lift the
+[00:56:25] rural fleet and tankers and the like.
+[00:56:28] With the Type Threes though, specifically, where the
+[00:56:31] complication came for the organization was with the
+[00:56:36] MAN appliances are cracking. So that's where, from there
+[00:56:40] forward, it started-
+[00:56:41] That was the ones which you ordered 2015 to '18.
+[00:56:44] Yep.
+[00:56:44] So that feels like it's paralyzed the organization in terms of responding to
+[00:56:48] saying, "Well, yeah, okay, we've got those ones cracking.
+[00:56:49] We've got to fix those."
+[00:56:50] Yeah. So the key-
+[00:56:51] But then there's nothing else.
+[00:56:52] Yeah, so the key point in history there is back in
+[00:56:55] 2019, when the
+[00:56:59] decision was made to pause until a solution was
+[00:57:03] made for the cracking appliances.
+[00:57:05] And I can see in hindsight that based on that decision would've been the
+[00:57:09] context and the thinking of, we don't want to build any new appliances which are
+[00:57:12] just going to crack in the same way until we've got it fixed.
+[00:57:15] Even if it's a different supplier, they may be doing it a different way.
+[00:57:18] Well, the
+[00:57:20] contract at that time was with Fraser Fire.
+[00:57:23] And so working with them to try and find a solution, that took far
+[00:57:27] longer than anyone would've envisaged through there.
+[00:57:30] And that was where the start of the
+[00:57:35] lack of investment into the Type Threes actually
+[00:57:38] started.
+[00:57:39] So what you're telling me is that effectively FENZ was kind of saying, "We've got
+[00:57:43] this problem with the ones which we've already ordered.
+[00:57:46] We know that we've got a fleet which will start to age, but then we don't actually
+[00:57:50] still order any more?"
+[00:57:53] The organization paused the production of those 30
+[00:57:57] chassis,
+[00:57:58] and that didn't
+[00:58:00] eventuate for a number of years till we, like I said before, we went
+[00:58:04] to SEM and AngloCo to build a prototype and a different type of-
+[00:58:08] So in hindsight, should the organization have done that earlier and
+[00:58:12] said, "Well, okay, we've got a problem there.
+[00:58:13] We've got to sort out the Fraser MAN one."
+[00:58:16] Mm.
+[00:58:16] "But we should recognize that a good asset..." You know, only recently got
+[00:58:20] that decent asset management plan, as I understand it.
+[00:58:23] Yep.
+[00:58:24] So you should've been still ordering, even if, said, "Well, we're not going back to
+[00:58:27] you guys. We'll go and find somebody else," because they're not the only-
+[00:58:30] Yeah
+[00:58:30] ... manufacturer in the world.
+[00:58:32] Yeah. Certainly, in hindsight, looking back at
+[00:58:36] 2019, that decision to pause has been quite
+[00:58:41] momentous-
+[00:58:41] ... in the situation we find ourselves in today.
+[00:58:43] Yeah. So it should've been revisited. Okay.
+[00:58:47] You
+[00:58:49] told us the Cabinet said, "Please, can you go and focus on
+[00:58:53] rurals and-
+[00:58:54] Yep
+[00:58:54] ... Volunteer Brigade and so on."
+[00:58:56] Did at any stage the organization say to Cabinet, "Hey, that's
+[00:59:00] good. We'll try and keep doing that.
+[00:59:02] But we actually do need to invest in the Type Threes and the Aerials as well."
+[00:59:05] Did the organization push back saying, "Hang on.
+[00:59:08] You're setting up a bow wave of a problem."
+[00:59:10] We still had a prioritization issue, but I'll... Carry on.
+[00:59:13] Yeah, that was the focus and that was the prioritization.
+[00:59:16] The issue, with the Type Threes,
+[00:59:19] didn't necessarily come from that focus and prioritization.
+[00:59:23] It came from the issue to pause.
+[00:59:25] Yeah. No. It
+[00:59:28] should be reasonably obvious that if you've got a fleet that's aging at the
+[00:59:32] rate it is-
+[00:59:32] Yep
+[00:59:33] ... as I said, it's pretty obvious, it's kind of maths, that you are going to have
+[00:59:37] an issue.
+[00:59:37] Yep.
+[00:59:38] At any stage did the organization wave a flag at Cabinet and say, or the minister,
+[00:59:41] and say, "Hey, we actually do need to invest in some Type Threes and some Aerials
+[00:59:45] as well, but let's focus on Type Threes.
+[00:59:47] We need to invest in those because otherwise this fleet is getting older and older
+[00:59:50] and older." You can see it. Your data's very clear here.
+[00:59:53] Presumably you did know that before providing this data.
+[00:59:56] Yes?
+[00:59:56] Mm.
+[00:59:57] So did at any stage the organization push back on Cabinet and say, "Hey,
+[01:00:01] here's the numbers. We are going to need to invest in Type Three as well."
+[01:00:04] Darrell, did you have anything on that process of-
+[01:00:07] No. We didn't push back.
+[01:00:09] Yep. Wow.
+[01:00:09] But we've been clear about our requirements for capital.
+[01:00:13] Well, if you-
+[01:00:13] We didn't push back.
+[01:00:15] If you've been clear about your requirements for capital and you didn't push back,
+[01:00:17] I'm not reconciling those two things.
+[01:00:19] Well, if the-
+[01:00:19] Who were you clear to?
+[01:00:20] The pushback on the Type Threes that you're talking about?
+[01:00:23] Yes.
+[01:00:24] Yeah. So, they're two separate things in a way.
+[01:00:27] So one is the prioritization in the early years on the
+[01:00:31] Type One, Type Two things.
+[01:00:33] Yes.
+[01:00:33] The plan-
+[01:00:34] Yeah
+[01:00:34] ... at the time for the Type Threes was a constant steady
+[01:00:38] procurement. The procurement got held up by the pause.
+[01:00:42] That was the issue.
+[01:00:42] So it was nothing to do with any instruction being given by Cabinet.
+[01:00:45] It was-That was purely that the
+[01:00:49] organization kind of paralyzed itself.
+[01:00:51] But the issue, the instruction from cabinet was to give-
+[01:00:55] Sure
+[01:00:55] ... the focus onto those rural aspects.
+[01:00:57] Yes.
+[01:00:57] So the organization was doing that.
+[01:00:59] But alongside that, it had a plan of how it would maintain-
+[01:01:03] Okay, so-
+[01:01:03] ... or do the best that it could to maintain within
+[01:01:06] the financial envelope.
+[01:01:07] Okay, so that is not a direction from Cabinet that's given you difficulty, it is
+[01:01:11] your own organization getting stuck with the original-
+[01:01:14] Cabinet didn't give the organization-
+[01:01:17] The type 3s
+[01:01:17] ... the direction to pause on the type 3s.
+[01:01:20] So you couldn't-
+[01:01:21] So you could've done both.
+[01:01:25] You could've done both?
+[01:01:26] If the decision to pause hadn't been taken at that time.
+[01:01:29] You had the resources to do both.
+[01:01:32] We had the resources to keep balancing things.
+[01:01:35] We wouldn't have made as much
+[01:01:37] investment in the rural fleet if we were-
+[01:01:40] Oh, so it would've been a trade-off. Okay.
+[01:01:42] Andy, I've got a couple of sups on that.
+[01:01:44] Can I ask one more?
+[01:01:44] One more, because I want to get these into-
+[01:01:47] This is probably the most critical one that leads me to.
+[01:01:49] Which is, you've got the graphs there, and I'd really like you to explain those.
+[01:01:54] On the, essentially, the investment cap and deficit.
+[01:01:58] Can you just explain those? Because if they are what I think they are, there's a
+[01:02:02] real problem.
+[01:02:04] We'll keep walking through that.
+[01:02:04] Are you talking about slide 24, does that help?
+[01:02:07] Uh.
+[01:02:07] Or 23?
+[01:02:09] Probably is that.
+[01:02:10] Show me which one it is.
+[01:02:11] This one here?
+[01:02:11] Yep, those ones. Yep, 23.
+[01:02:13] All right. So I'm going to hand it to our CFO here.
+[01:02:15] Yeah, please.
+[01:02:15] Who will be able to take you through that.
+[01:02:16] Close. Okay. Yeah.
+[01:02:18] So slide 24 shows what the next 10 years looks like
+[01:02:22] if we are able to bring the whole fleet inside target age.
+[01:02:27] What it shows is that the organization can fund
+[01:02:30] 356 million over the next 10 years based on its full financial
+[01:02:34] projections, but cannot fund 154
+[01:02:37] million
+[01:02:39] of the total 510 million required to bring our total fleet
+[01:02:42] inside target life over the next 10 years.
+[01:02:45] So being really blunt about this, what that means is you were saying that
+[01:02:49] you don't have enough money, and you can't deliver what is needed to maintain the
+[01:02:53] asset.
+[01:02:54] No, it's not what it's saying.
+[01:02:55] Okay, what is it saying?
+[01:02:55] What it's saying is, in order to bring the total
+[01:02:59] fleet inside target life over the next 10 years, we're
+[01:03:03] short of 154 million to be able to do that.
+[01:03:05] I think that's just what-
+[01:03:06] We seem to maintain-
+[01:03:07] I think that's just what I said.
+[01:03:08] Ah, well.
+[01:03:08] You're short of that money.
+[01:03:09] Well-
+[01:03:09] So what-
+[01:03:09] It's renewing the fleet as opposed to maintaining the fleet.
+[01:03:12] We will continue to maintain the fleet.
+[01:03:13] Yes, got that.
+[01:03:14] But in order to bring the total fleet inside target life over 10
+[01:03:18] years, we're short of 154 million. That's what it says.
+[01:03:21] So you do not have enough money to essentially to have the asset, I shouldn't have
+[01:03:24] used the word maintained, but you don't have enough money to have to, if you accept
+[01:03:28] asset management plan to be-
+[01:03:29] ... short $154 million. So what is the advice that has been given
+[01:03:33] to the minister around, because we just tried to send
+[01:03:36] a new levy, and I've got an issue about the way the levies are set
+[01:03:40] and where the levies land, but property versus non-property, that's another issue.
+[01:03:45] But what advice have you been given back to the minister in terms of
+[01:03:49] setting levies to say, "Hey, over that period of time, this is not
+[01:03:53] enough money
+[01:03:54] to keep our fleet in the state that it should be in."
+[01:03:56] So we've been clear with the minister, with all of our information, the
+[01:04:00] asset management plans are the document that, of course, detail where this-
+[01:04:04] Yes
+[01:04:04] ... where this comes from.
+[01:04:05] Yeah.
+[01:04:05] That has been shared at all levels.
+[01:04:08] And we have an opportunity on a rolling basis, of course, to contribute to what we
+[01:04:12] believe we might need in terms of the levy base, but ultimately, it's the decision
+[01:04:16] that's taken from government.
+[01:04:17] And if we don't get, so last question then.
+[01:04:18] If we don't get to that 154, we still have an aging fleet across
+[01:04:22] the board.
+[01:04:23] It will be better, but-
+[01:04:24] But it won't be-
+[01:04:25] It still won't be completely inside target
+[01:04:27] ... 100%
+[01:04:27] Right.
+[01:04:27] Righty-o, we've got two minutes left before the break.
+[01:04:30] Lamonga and Melissa, if we get time.
+[01:04:33] Go for it.
+[01:04:33] Very quickly. Thank you for that, just being really trying to understand the
+[01:04:37] rolling brief. My question is around urban.
+[01:04:41] So you've talked about the investment, cabinet decisions, et cetera.
+[01:04:45] But urban landscape has changed dramatically in terms of
+[01:04:49] building up small street, all sorts of those things.
+[01:04:52] What has been that discussion at the board table in terms of
+[01:04:56] where you sit, Greg and Megan, in terms of
+[01:05:00] requiring firefighters to get into those streets and respond to
+[01:05:04] all of the different activities when they happen?
+[01:05:08] Yeah, sure. So before I hand to Megan and to Greg to talk further, certainly
+[01:05:12] at the board level, we've been very clear that our communities are changing.
+[01:05:15] There's climate change challenges.
+[01:05:16] We have changes in the way our urban areas are developed, as you said, in
+[01:05:20] different ways, and therefore our equipment has to be able to meet those
+[01:05:23] requirements. So there's a big chunk of work that's gone on in the last two years
+[01:05:26] to look at our future operating capability and what we might need in those
+[01:05:29] regions to make sure that we can still deliver and
+[01:05:33] protect our communities. You want to add further on that?
+[01:05:37] Yeah, just
+[01:05:38] it's about being driven by the risk rather than the profile.
+[01:05:42] So, looking at the changing context across the country.
+[01:05:45] We're responding to weather events
+[01:05:48] every week at the moment it seems as different events hitting New
+[01:05:52] Zealand. So,
+[01:05:54] the challenge that we have within our assets is
+[01:05:58] how do we actually get into a position that allows us to
+[01:06:01] look at additional capability when we're, at the
+[01:06:05] moment, trying to maintain our current capability, which is
+[01:06:08] below life cycle. So, that is the investment challenge for us,
+[01:06:13] holding
+[01:06:15] really strongly to ensuring that we can deliver against our core primary
+[01:06:18] functions without building capability into areas that we can't
+[01:06:22] afford to
+[01:06:24] develop in there. But it's certainly a question for
+[01:06:28] the longer-term funding and
+[01:06:30] role of fire and emergency in some of those different activities with the
+[01:06:34] changing environment that's coming across with climate change.
+[01:06:37] Okay, Melissa.
+[01:06:38] Melissa.
+[01:06:39] In that very short time, you talked about in 2017,
+[01:06:45] government actually wanted you to focus on rural and delivery for the rural sums,
+[01:06:48] because wanting to know exactly what you've actually delivered and when you've
+[01:06:52] actually delivered those.
+[01:06:55] Yeah, certainly. Can I refer you to page 10?
+[01:06:59] Because I think that shows you the different types of investment we've
+[01:07:03] made in fleet since that time.
+[01:07:06] This does not include the current orders that we haven't
+[01:07:10] taken into operation. So this is just the fleet that we've put into
+[01:07:14] operations, Member Lee. So you can see there that there's
+[01:07:18] been a total of 318 new appliances put
+[01:07:22] into the system since
+[01:07:24] 2017/18, and we've
+[01:07:27] broken it up there across the different types.
+[01:07:30] So type one and two, tanker and rural,
+[01:07:35] you can see that's where the focus has been.
+[01:07:38] There have been some specials, which are our support vehicles that
+[01:07:43] sit within the network that help move different equipment
+[01:07:46] around. But I think they're the figures
+[01:07:50] that address the question you've just asked.
+[01:07:54] Great. We're going to have to stop there, and if you've got follow-up, then you
+[01:07:58] can ask that after the break. And we will see you back.
+[01:08:01] Thank you very much for this evening.
+[01:08:03] Thank you.
+[01:08:03] I don't know how you felt, but that went fast for me.
+[01:08:07] It did.
+[01:08:07] So, we will see you after the 1:00 when the house
+[01:08:11] resumes at 1:00.
+[01:08:12] Sure.
+[01:08:12] So thank you very much.
+[01:08:13] Thank you.

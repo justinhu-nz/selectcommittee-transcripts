@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:35.599179+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1164106402",
+  "title": "vimeo_1164106402",
+  "url": "https://vimeo.com/1164106402",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4263.44,
+    "segment_count": 1406,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_12 - PP - vimeo_1164106402\\2026_03_12 - PP - vimeo_1164106402.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1164106402",
+    "display_id": "1164106402",
+    "title": "2026/03/12 - PP",
+    "description": "Thursday, 12 March 2026 | Primary Production Select Committee\nHearing of evidence:\nPetition of Ian Sizer: Madagascar Ragwort \u2013 A growing concern for Northland and the rest of New Zealand\u00a0\nParliamentary Commissioner for the Environment\u00a0\n\nSimon Upton, Parliamentary Commissioner for the Environment\u00a0\nDr James Newman, Senior Advisor Science\u00a0\nDr Anna Hooper, Principal Advisor \u2013 Programmes\u00a0\nGeoff Simmons, Chief Advisor \u2013 Policy and Strategy\u00a0\n\nBriefing on the PCE report Reviewing the use of the Land Use Capability system in a regulatory context\u00a0\nParliamentary Commissioner for the Environment\u00a0\n\nSimon Upton, Parliamentary Commissioner for the Environment\u00a0\nDr James Newman, Senior Advisor Science\u00a0\nDr Anna Hooper, Principal Advisor \u2013 Programmes\u00a0\nGeoff Simmons, Chief Advisor \u2013 Policy and Strategy\u00a0\nNora Lanari, Senior Advisor Research and Analysis",
+    "webpage_url": "https://vimeo.com/1164106402",
+    "original_url": "https://vimeo.com/1164106402",
+    "upload_date": "20260311",
+    "timestamp": 1773266848,
+    "release_timestamp": 1773266856,
+    "duration": 4268,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2132647676-4f185e1737f351cacb2d0ff50a7a85dca2803f8be15d35dde21447f0e548e741-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287537014.vtt?expires=1778505027&sig=ab6059907cd08f3a265d4a1403b0480ad37021a5&download=auto_generated_captions.vtt"
+  }
+}

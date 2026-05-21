@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:13.375253+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166206896",
+  "title": "vimeo_1166206896",
+  "url": "https://vimeo.com/1166206896",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2878.45,
+    "segment_count": 1037,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 03 12 Petitions - vimeo_1166206896\\2026 03 12 Petitions - vimeo_1166206896.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166206896",
+    "display_id": "1166206896",
+    "title": "2026 03 12 Petitions",
+    "description": "Petition of Simon Palmer: Amendment to the Protection of Personal and Property Rights Act 1988\n\nSimon Palmer\n\nMinistry of Justice - \n\nCaroline Greaney, Deputy Secretary Policy\nCarl Crafar, Chief Operating Officer\n\n\nCCS Disability Action - \n\nPhoebe Eden-Mann, Policy Analyst\n\n\nCommunity Law Centres Aotearoa - \n\nKaren Hodgson (zoom) Law Reform Coordinator\nMarianne Startup (zoom) Supervising Solicitor, Marlborough Community Law",
+    "webpage_url": "https://vimeo.com/1166206896",
+    "original_url": "https://vimeo.com/1166206896",
+    "upload_date": "20260312",
+    "timestamp": 1773284913,
+    "release_timestamp": 1773284924,
+    "duration": 2881,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2133114173-15a5875f608bfa3e9458ae28553af3b302c5839e4bcd57950230d8a800c0f15e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287577715.vtt?expires=1778501551&sig=d454524b25746345865ddb36c3f933168a3716d0&download=auto_generated_captions.vtt"
+  }
+}

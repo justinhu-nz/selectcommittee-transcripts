@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:28.074467+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1178277873",
+  "title": "vimeo_1178277873",
+  "url": "https://vimeo.com/1178277873",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4524.64,
+    "segment_count": 1346,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 05 04 EW Subcommittee B - vimeo_1178277873\\2026 05 04 EW Subcommittee B - vimeo_1178277873.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1178277873",
+    "display_id": "1178277873",
+    "title": "2026 05 04 EW Subcommittee B",
+    "description": "Employment Leave Bill\nNew Zealand Payroll Practitioners Association (NZPPA)\nDavid Jenkins\n\nThe Farm Office Limited\nEvelien Baas\n\nLeave It To Me Ltd\nSandy Price\n\nAnnick Masselot\n\nGeorge McGuinness\n\nFaAfuhia Fia\n\nFrank Owen-Perry\n\nRetail NZ\nCarolyn Young, Retail NZ Chief Executive\nDenise Garland, Retail NZ Manager, Advocacy, Advice & Communications\nYevgenya Chityan, Retail NZ HR & Business Advisor\n\nHospitality New Zealand\nKristy Phillips, Chief Executive\nTim Blake, General Counsel\n\nOceana Gold (New Zealand) Limited\nAlison Paul, SVP Corporate and Legal Affairs",
+    "webpage_url": "https://vimeo.com/1178277873",
+    "original_url": "https://vimeo.com/1178277873",
+    "upload_date": "20260503",
+    "timestamp": 1777846850,
+    "release_timestamp": 1777846858,
+    "duration": 4527,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2153271410-b14b03c6be91cf4e8c08ea2ee125d1050b9cd1aad4afd42efe70e8260b09fc9c-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/298389582.vtt?expires=1778506126&sig=0d9aed8fae08d9f0c4c8bd9b40cc627c04338ddf&download=auto_generated_captions.vtt"
+  }
+}

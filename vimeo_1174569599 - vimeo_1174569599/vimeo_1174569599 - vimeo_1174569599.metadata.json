@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:20.488969+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1174569599",
+  "title": "vimeo_1174569599",
+  "url": "https://vimeo.com/1174569599",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 12903.11,
+    "segment_count": 3581,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_18 - ENV subcommittee B (Part 3) - vimeo_1174569599\\2026_03_18 - ENV subcommittee B (Part 3) - vimeo_1174569599.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1174569599",
+    "display_id": "1174569599",
+    "title": "2026/03/18 - ENV subcommittee B (Part 3)",
+    "description": "Wednesday, 18 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nCanterbury Mayoral Forum\n\nMayor Nigel Bowen, Timaru District \nHamish Dobbie, CE Hurunui District \nMaree McNeilly, Forum Secretary\n\nTe Kahu o Taonui\n\nPhillip Grimshaw, Kaitohutohu Taiao Senior Advisor \nKiri Sloane-Hobson, Amorangi\n\nTauranga City Council\n\nChristine Jones, General Manager, Strategy, Partnerships and Growth \nJanine Speedy, Team Leader, City Planning \nMarten Rozeboom, Councillor\n\nWaitomo District Council\n\nAlex Bell, General Manager - Strategy and Environment \n\nCommunity Housing Aotearoa\n\nChris Glaudel, Deputy Chief Executive \n\nHutt City Council\n\nCr Brady Dyer, Chair \u2013 District Plan Committee \nTim Johnstone, Head of Planning \nStephen Davis, Senior Policy Planner\n\nQueenstown Lakes District Council\n\nJohn Glover, Mayor \nDavid Wallace, Planning and Development General Manager\n\nWaikato Farmers Group\n\nGraham Pinnell\n\nBathurst Resources Limited\n\nFiona Bartier, General Manager Health Saftey, Environment and Community  \nGerard Dale, Legal Counsel\n\nMcGuinness Institute\n\nWendy McGuinness, Chief Executive\n\nVector\n\nAimee Gulliver, GM Government Relations \n\nTe Pumautanga o Te Arawa Trust\n\nClark Pirika, Chairman \n\nPalmerston North City Council\n\nCr. Lorna Johnson, Chair of Community Resilience & Sustainability Committee and Chair of Hearings Committee \nDavid Murphy, General Manager \u2013 Strategic Planning \nJono Ferguson-Pye, Manager City Planning",
+    "webpage_url": "https://vimeo.com/1174569599",
+    "original_url": "https://vimeo.com/1174569599",
+    "upload_date": "20260318",
+    "timestamp": 1773803276,
+    "release_timestamp": 1773803287,
+    "duration": 12903,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2135245977-3efcfe8b5339ccc26a4559c94b814c31ec570d8032fccbb1863b00db3ab290a2-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288755094.vtt?expires=1778506101&sig=d7426df0d9946d9452bbe5beabf2fa9e0fefacd9&download=auto_generated_captions.vtt"
+  }
+}

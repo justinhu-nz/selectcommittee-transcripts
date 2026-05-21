@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:09.610452+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1143262888",
+  "title": "vimeo_1143262888",
+  "url": "https://vimeo.com/1143262888",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 4738.83,
+    "segment_count": 1554,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_04 - FD (Part 2) - vimeo_1143262888\\2025_12_04 - FD (Part 2) - vimeo_1143262888.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1143262888",
+    "display_id": "1143262888",
+    "title": "2025/12/04 - FD (Part 2)",
+    "description": "Thursday 4 December 2025 | Foreign Affairs, Defence and Trade Committee\n\n2024/25 Annual review of the New Zealand Antarctic Institute\n\nHearing of evidence:\nSubmitter list:\n\nNew Zealand Antarctic Institute\n\nJordy Hendrikx, Chief Executive Officer\nLeon Grice, Board Chair\n\n\n2024/25 Annual review of the New Zealand Customs Service; 2024/25 Annual review of the Border Executive Board\n\nHearing of evidence:\nSubmitter list:\n\nHon Casey Costello - Minister of Customs\n\nNew Zealand Customs Service and Border Executive Board\n\nChristine Stevenson, Chief Executive and Comptroller of Customs\nJamie Bamford, Deputy Chief Executive Operations\nRichard Bargh, Deputy Chief Executive Policy, Legal, and Strategy\nJoe Cannon, Deputy Chief Executive International and Governance\nSharon May, Deputy Chief Executive Enterprise Services\nFiona McKissock, Executive Director Border Executive Board\nGreg Hanlen, Chief Financial Officer\nDavid Soper, Chief Legal Advisor",
+    "webpage_url": "https://vimeo.com/1143262888",
+    "original_url": "https://vimeo.com/1143262888",
+    "upload_date": "20251204",
+    "timestamp": 1764816781,
+    "release_timestamp": 1764816788,
+    "duration": 4739,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091437327-9ad135b2b715509b6aacd3fc90869cb9854b1100545fa007103bc95a9ab1f6f5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269743215.vtt?expires=1778562378&sig=409c4871e4b6bf05d7508088b1cc656a63f7ef14&download=auto_generated_captions.vtt"
+  }
+}

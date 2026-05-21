@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:06.255417+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170411021",
+  "title": "vimeo_1170411021",
+  "url": "https://vimeo.com/1170411021",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1537.93,
+    "segment_count": 490,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_23 FD - vimeo_1170411021\\2026_04_23 FD - vimeo_1170411021.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170411021",
+    "display_id": "1170411021",
+    "title": "2026/04/23 FD",
+    "description": "Thursday 23 April 2026 | Foreign Affairs, Defence and Trade Committee\n\nArmed Forces Discipline Legislation Amendment Bill\n\nHearing of evidence\nSubmitters list:\n\n\nMinister of Defence - Hon Chris Penk\nMax Marshall \nGraeme Edgeler",
+    "webpage_url": "https://vimeo.com/1170411021",
+    "original_url": "https://vimeo.com/1170411021",
+    "upload_date": "20260423",
+    "timestamp": 1776908097,
+    "release_timestamp": 1776908106,
+    "duration": 1541,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2149238426-456890915410a2238ffddfa59271bd29fabf38181fa3b838661187882716f668-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/296214140.vtt?expires=1778505073&sig=02f05d1e45a3d16f8a1133f7e870225fbc905bb2&download=auto_generated_captions.vtt"
+  }
+}

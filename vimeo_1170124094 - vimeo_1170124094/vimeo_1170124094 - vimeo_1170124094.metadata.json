@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:14.892908+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170124094",
+  "title": "vimeo_1170124094",
+  "url": "https://vimeo.com/1170124094",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2927.7,
+    "segment_count": 1023,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 03 11 FEC - vimeo_1170124094\\2026 03 11 FEC - vimeo_1170124094.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170124094",
+    "display_id": "1170124094",
+    "title": "2026 03 11 FEC",
+    "description": "Wednesday 11 March 2026| Finance and Expenditure Committee\nInfrastructure Funding and Financing Amendment Bill\nChris Chamberlain\nCameron Partners Limited on behalf of the Ratepayer Assistance Scheme Steering Group\nHugo Ellis, Partner Cameron Partners\nScott Necklen, Interim CE LGNZ\nMark Butcher, CE LGFA\nNew Zealanders for a Democratic Economy\nDr. Nathan McCluskey, Co-chair\nTransitnext Limited\nBrian Ferguson, Director\nSteve Kelly, Equiland Holdings Pty Ltd\nRichard Mead\nJohn McDonald-Wharry",
+    "webpage_url": "https://vimeo.com/1170124094",
+    "original_url": "https://vimeo.com/1170124094",
+    "upload_date": "20260311",
+    "timestamp": 1773190762,
+    "release_timestamp": 1773190768,
+    "duration": 2928,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2132196628-fda9572bf7febd90c6b9d5621351eb516538de60cb41539f1ab234ee0e76e9af-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287305435.vtt?expires=1778506072&sig=fd7970cd283b3f0a8e9ecd90fb1f3c3f92fa0ddd&download=auto_generated_captions.vtt"
+  }
+}

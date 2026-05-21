@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:12.004858+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1179438261",
+  "title": "vimeo_1179438261",
+  "url": "https://vimeo.com/1179438261",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1474.11,
+    "segment_count": 510,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 23 Petitions Committee - vimeo_1179438261\\2026 04 23 Petitions Committee - vimeo_1179438261.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1179438261",
+    "display_id": "1179438261",
+    "title": "2026 04 23 Petitions Committee",
+    "description": "Petition of Simon Palmer: Amendment to the Protection of Personal and Property Rights Act 1988\n\nPublic Trust NZ\n\nGlenys Talivai, Chief Executive\nBrad St Clair, General Manager, Legal & Governance\n\n\nNZ Law Commission\n\nGeof Shirtcliffe, Commissioner",
+    "webpage_url": "https://vimeo.com/1179438261",
+    "original_url": "https://vimeo.com/1179438261",
+    "upload_date": "20260423",
+    "timestamp": 1776915885,
+    "release_timestamp": 1776915892,
+    "duration": 1474,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2149689370-ac1c9c9364c97ddf65c4d2c36f3c8f5cc5796699b6dfc6c1e4defc222e2b1176-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/296228613.vtt?expires=1778501535&sig=c464e6ac5067389f5dfa3035c4886f1fac146302&download=auto_generated_captions.vtt"
+  }
+}

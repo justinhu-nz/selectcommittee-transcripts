@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:25.918195+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1185332561",
+  "title": "vimeo_1185332561",
+  "url": "https://vimeo.com/1185332561",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1904.47,
+    "segment_count": 587,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 29 SSC Part 1 - vimeo_1185332561\\2026 04 29 SSC Part 1 - vimeo_1185332561.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185332561",
+    "display_id": "1185332561",
+    "title": "2026 04 29 SSC Part 1",
+    "description": "Briefing on New Zealand's ageing population\nHelen Clark Foundation\nKali Mercier, Author of Report\nRachel du Domaine, Head of Planning, WSP",
+    "webpage_url": "https://vimeo.com/1185332561",
+    "original_url": "https://vimeo.com/1185332561",
+    "upload_date": "20260428",
+    "timestamp": 1777408635,
+    "release_timestamp": 1777408642,
+    "duration": 1905,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2151512777-20ae8603c441379f42277196d62e4d4d9a7e113931ef7d3a9e20e3d18f3ead26-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297419449.vtt?expires=1778504962&sig=1f1a4d92a0df4ea4a9cd131a8961a1b63f312815&download=auto_generated_captions.vtt"
+  }
+}

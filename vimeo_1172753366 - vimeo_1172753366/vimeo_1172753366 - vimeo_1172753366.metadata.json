@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:20.620238+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1172753366",
+  "title": "vimeo_1172753366",
+  "url": "https://vimeo.com/1172753366",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3397.77,
+    "segment_count": 1037,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_16 - TI - vimeo_1172753366\\2026_03_16 - TI - vimeo_1172753366.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1172753366",
+    "display_id": "1172753366",
+    "title": "2026/03/16 - TI",
+    "description": "16 March 2026 | Transport and Infrastructure Committee\nBuilding (Earthquake-prone Buildings) Amendment Bill\nManawatu District Council\n\nMichael Ford, Mayor\n\nTe Hiranga Ru QuakeCoRE\n\nProfessor Santiago Pujol\n\nZoran Rakovic\nSu-Wuen Ong\nICOMOS NZ\n\nChessa Stevens\nStacy Vallis, President, ICOMOS Aotearoa New Zealand National Committee",
+    "webpage_url": "https://vimeo.com/1172753366",
+    "original_url": "https://vimeo.com/1172753366",
+    "upload_date": "20260315",
+    "timestamp": 1773612225,
+    "release_timestamp": 1773612231,
+    "duration": 3398,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2134311707-1c4b2570f54ded8898f6434b21b12781898bd85f25f241712a9802c64322f754-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288234079.vtt?expires=1778504937&sig=7441827d63983931ea1f85fd3d222e88beb8ab11&download=auto_generated_captions.vtt"
+  }
+}

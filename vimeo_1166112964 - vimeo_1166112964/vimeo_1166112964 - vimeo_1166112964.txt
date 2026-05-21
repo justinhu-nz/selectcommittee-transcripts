@@ -1,0 +1,558 @@
+Title: vimeo_1166112964
+URL: https://vimeo.com/1166112964
+Published: Unknown
+Duration: 00:00:00
+
+[00:00:00] Your normal chair is off, um, uh, examining the rest
+[00:00:04] of the, the South America.
+[00:00:06] Um, so look, I think, um, we will just get underway
+[00:00:10] and then perhaps if you could introduce yourselves
+[00:00:12] and then, um, and then talk to us,
+[00:00:14] and then I'm sure there will be some
+[00:00:15] questions from the members. Right.
+[00:00:17] Thank you very much, Chad. Um, and good morning chair.
+[00:00:19] Good morning. Um, members of the committee, um,
+[00:00:21] and thank you for this opportunity to brief you on the
+[00:00:24] Ministry of Defense's long-Term Insights briefing,
+[00:00:28] how technology innovations are likely
+[00:00:29] to influence New Zealand's defense capabilities beyond 2035.
+[00:00:33] Thank You. Um, I'm Anton Youngman.
+[00:00:35] I am the, um, deputy Secretary of Strategy Management
+[00:00:39] and assessment of the Ministry of Defense.
+[00:00:40] Mm-hmm. And with me today is the, uh, ministry's Director
+[00:00:44] of Strategy management, who, um, works with me
+[00:00:47] and who led the development of this briefing is all arts.
+[00:00:51] Um, so, as you know, long-term insights briefings aims
+[00:00:54] to provide the public with impartial analysis
+[00:00:56] of the long-term trends, risks,
+[00:00:58] and opportunities facing New Zealand.
+[00:01:02] Um, and it's well documented
+[00:01:03] and understood that New Zealand is facing, uh, one
+[00:01:06] of the most challenging and dangerous strategic environments
+[00:01:08] for decades, uh,
+[00:01:10] not least from intensifying strategic competition,
+[00:01:12] including in our region.
+[00:01:14] But coupled with that, you've got emerging technologies
+[00:01:17] that are rapidly evolving, the character of conflict,
+[00:01:20] changing how defense forces organize
+[00:01:22] and equip for themselves and altering the security
+[00:01:25] threats to the country space.
+[00:01:28] So we at the Ministry
+[00:01:29] of Defense chose this briefing about future technology
+[00:01:31] because it directly relates to the, one of our kind
+[00:01:34] of core functions, which is
+[00:01:35] to provide advice about significant, uh,
+[00:01:38] defense capability investments, as well as
+[00:01:40] to procure the major defense capabilities.
+[00:01:44] But while this is a Ministry of Defense briefing,
+[00:01:46] we have benefited greatly from the technical expertise
+[00:01:49] of the New Zealand Defense Forces Science, um,
+[00:01:52] and technology team, um, that they've been, um, they've
+[00:01:56] provided invaluable technical
+[00:01:57] input into this briefing as well.
+[00:01:59] The briefings also have broad input across government
+[00:02:01] agencies as well as the public
+[00:02:03] and industry via two rounds of public consultation.
+[00:02:08] Our research identifies four key themes
+[00:02:10] that will influence defense capabilities beyond
+[00:02:12] that 2035 horizon.
+[00:02:15] Um, and we, we talk about 'em in the power of data,
+[00:02:18] human machine teaming, next generation effectors
+[00:02:21] and expeditiary sustainment technologies.
+[00:02:24] The briefing also highlights three shifts, um,
+[00:02:27] that carry operational policy
+[00:02:28] and system level implications for defense.
+[00:02:31] Um, a a key point to note, though, in keeping
+[00:02:33] with the purpose of the long-term insights briefings,
+[00:02:36] our work as a research piece, um, and it,
+[00:02:39] and it looks to inform broader discussion
+[00:02:41] and as an input into future discussions,
+[00:02:44] it does not recommend specific capabilities
+[00:02:47] or foreshadow specific, uh, defense purchases.
+[00:02:52] This research, though, is already being used in the review
+[00:02:54] of the defense capability plan, um, into the design
+[00:02:58] of defenses Technology accelerator, as well
+[00:03:00] as in itself is a, is a deliverable
+[00:03:02] of the defense industry strategy.
+[00:03:05] Now, chair and committee members, we've got an A three, um,
+[00:03:08] just to hand out, um, if those have it, you already have it.
+[00:03:12] I've got a small one, but it might be useful for I've got
+[00:03:21] Just pass them all Around.
+[00:03:24] Possible you printed them there. Yeah. Coming other way.
+[00:03:29] There may be.
+[00:03:30] This is technology at its time.
+[00:03:32] This is, this is, I wouldn't be a public servant
+[00:03:34] if I wasn't handing out.
+[00:03:36] Just have some handouts. Yeah.
+[00:03:39] Um, so, so this here is, is is, um,
+[00:03:44] what, um, talked about, there are four key themes
+[00:03:47] that we've highlighted through this research
+[00:03:48] as well as three shifts.
+[00:03:50] Um, I'll just, um, spend a minute, just a minute on, on each
+[00:03:54] and then open up for questions on
+[00:03:56] each, if that, if that works.
+[00:03:57] Um, so the first, um, thing that we have is
+[00:04:00] around the power of data.
+[00:04:02] Um, now this sets the scene for the rest of the briefing
+[00:04:06] as one of the main messages of our research.
+[00:04:09] So the ability of defense forces to collect
+[00:04:13] and analyze data at speed will increasingly be the key
+[00:04:17] determinant of military advantage.
+[00:04:19] That is the key point of our
+[00:04:21] Research.
+[00:04:22] Now, this will involve defense capabilities,
+[00:04:24] having the ability to sense
+[00:04:26] and collect data as well as the digital infrastructure to
+[00:04:30] transmit and store that data, as well as the systems
+[00:04:32] and algorithms that are required to turn
+[00:04:35] that data into insights for decision makers.
+[00:04:39] Um, an example of this in the New Zealand context could be
+[00:04:41] the monitoring of New Zealand's large maritime area.
+[00:04:44] So in page, um, 19 of our, of our briefing, we have this,
+[00:04:48] this, this kind of visual
+[00:04:50] of persistent surveillance, um, in there.
+[00:04:53] Um, and in that, in that picture it talk, it shows
+[00:04:56] having satellites, high altitude, unc crewed platforms,
+[00:04:59] surveillance aircraft, um, uh, UNC crewed surface
+[00:05:03] and underwater vessels, as well as with land based radars.
+[00:05:07] And all of these working in sync together
+[00:05:10] to collect information
+[00:05:12] that delivers comprehensive surveillance coverage.
+[00:05:15] Now, that example itself talks about the front end
+[00:05:18] capabilities, but our analysis highlights the,
+[00:05:21] the critical importance of middle
+[00:05:22] and backend, um, technologies.
+[00:05:25] Um, so for example, the digital infrastructure, um, as well
+[00:05:28] as the software that conducts that analysis.
+[00:05:31] So in this new world,
+[00:05:32] and using this kind of surveillance example,
+[00:05:35] we see the quality of software
+[00:05:37] and algorithms will be
+[00:05:38] what dictates the effectiveness of this.
+[00:05:41] Essentially flipping that perception, if you like,
+[00:05:43] of the software being an enabler of these hardwares to
+[00:05:47] where the software actually defines the capability
+[00:05:50] that defense forces have.
+[00:05:52] Sorry, I, I want just in, I'm looking at the time
+[00:05:55] and chair if you're happy, but we've only got
+[00:05:57] Half an hour. Yeah. And I'd
+[00:05:58] love to geek out on this for a few hours,
+[00:05:59] but can I think a few of us
+[00:06:01] Would like to ask some questions? Absolutely. So if we
+[00:06:03] Can skim through 30
+[00:06:04] Seconds on the four points and then maybe we could Okay.
+[00:06:06] Well, I, um, yeah, happy to open up, um,
+[00:06:08] ask any questions particularly about that data one
+[00:06:10] that I've just highlighted now, if that's, that works.
+[00:06:13] Uh, I think just maybe finish off
+[00:06:15] The four bits quickly and Okay.
+[00:06:16] Okay. So know where we are.
+[00:06:18] So the second area is human machine teaming a key?
+[00:06:20] It there is, that is about the, um, the interaction
+[00:06:23] between humans and intelligent machines.
+[00:06:26] Obviously advances in AI
+[00:06:27] and machine learning, robotics, autonomous system, a set
+[00:06:30] to revolutionize this space.
+[00:06:32] The one key thing I would note about human machine teaming,
+[00:06:35] and we've talked through that, there's multiple
+[00:06:37] spectrum examples of what, um, could be done there
+[00:06:39] and I can answer those in the questions.
+[00:06:42] Um, but the one key point I would note here is
+[00:06:44] that human machine teaming, um,
+[00:06:47] while it possesses significant potentials, um, highlight,
+[00:06:50] uh, our research shows, it is also the most uncertain,
+[00:06:54] encompassing and epically challenging piece of,
+[00:06:57] of theme all the way through this.
+[00:07:00] The, the third area is next generation effectors,
+[00:07:03] in essence, that you can think of those
+[00:07:05] as anything defense forces use that can, um,
+[00:07:07] create an effect, effect
+[00:07:09] that could be kinetic or non-kinetic.
+[00:07:11] So think kinetic guns
+[00:07:12] and missiles, non-kinetic is like jamming
+[00:07:15] of digital systems and so on.
+[00:07:16] Mm-hmm. Um, the one thing, um, again,
+[00:07:19] we've got many examples in, in the briefing itself,
+[00:07:21] but again, our research, one of the key points
+[00:07:23] that we talk about here is that with these new tech, uh,
+[00:07:27] new capabilities in this space of effect is they need
+[00:07:30] to be very, very carefully designed to comply
+[00:07:32] with international and domestic law.
+[00:07:34] We highlight that as one of the key questions in that space.
+[00:07:38] And then finally on sustaining expeditionary forces, um,
+[00:07:43] that is a significant challenge for all defense forces.
+[00:07:46] Um, but especially so for New Zealand.
+[00:07:48] Um, partly
+[00:07:50] because our, our forces operate often such
+[00:07:53] so far away from home.
+[00:07:55] Um, it talks there.
+[00:07:57] Uh, our research talks about increasing kind of, um,
+[00:08:00] electrification of defense forces
+[00:08:02] and having some of the, these kind
+[00:08:04] of on the frontline portable
+[00:08:06] and dispersed production as well as storage of energy.
+[00:08:09] But one of the words
+[00:08:10] of caution we talk about in this space is, um,
+[00:08:13] whilst electrification may be possible
+[00:08:15] for smaller defense capabilities, for larger capabilities
+[00:08:18] that are needed to transport kind
+[00:08:20] of heavy loads quickly over long distances, that is,
+[00:08:23] that is something that is,
+[00:08:25] we can't see within this timeframe.
+[00:08:28] And then, Alright, so they are four themes.
+[00:08:31] Happy to open any questions. Thank
+[00:08:33] You, Tiano.
+[00:08:34] Yeah, I mean, you were saying earlier around, um, um,
+[00:08:37] making sure that the system design is adheres
+[00:08:40] to domestic international law.
+[00:08:42] How are you gonna do that? I mean, technology is, you know,
+[00:08:47] neutral, fast.
+[00:08:48] Um, so how, how you gonna, I mean,
+[00:08:51] you can't really program that stuff in.
+[00:08:52] So how, how will you, how
+[00:08:54] Will that, what, how will that look?
+[00:08:57] So, um, the, I'll, I'll probably use an example of, um,
+[00:09:01] here in the human machine teaming space.
+[00:09:03] 'cause that's where I brought up, um, that point.
+[00:09:06] The, um, one of the, um, one of the key challenges,
+[00:09:10] particularly in the advent of AI
+[00:09:11] and machine learning is that you've now got the ability of,
+[00:09:15] um, machines able to compete
+[00:09:19] and even conduct action, um, themselves.
+[00:09:21] Something that historically
+[00:09:23] with previous merger capabilities, that that wasn't case.
+[00:09:25] It's by default. Um, whilst machines have been in use
+[00:09:28] with defense forces for a very, very long time,
+[00:09:30] the action itself was always
+[00:09:32] by under a human accountability.
+[00:09:34] So what this research does, it doesn't get into any
+[00:09:36] of the solutions as such.
+[00:09:37] This is a long term. We're saying that this is gonna be, uh,
+[00:09:40] already is, but it's going to continue
+[00:09:42] to be a growing challenge
+[00:09:44] and something that through the design of the capabilities
+[00:09:46] needs to be thought
+[00:09:48] through much more carefully now than it ever previously did.
+[00:09:51] It just, we're all seeing the movies and they went bad.
+[00:09:54] That's what, well, if I may just supplementary,
+[00:09:57] I made mad chair the challenge with legislation
+[00:10:00] and regulators 'cause that's our role Yeah.
+[00:10:02] Is keeping up with the way that technology works,
+[00:10:04] but also keeping up with warfare of, my question to you is,
+[00:10:08] and you don't have to answer this right now
+[00:10:10] 'cause I respect that it's not necessarily in aligned
+[00:10:13] with this, is do we have the foundational legislation
+[00:10:16] to make sure that we are able to, uh,
+[00:10:20] govern effectively in the spaces
+[00:10:22] of war in particular modern warfare?
+[00:10:24] And secondly, are our systems nimble enough
+[00:10:28] to make regulatory change?
+[00:10:30] 'cause that's what our job is, to make sure that we do abide
+[00:10:34] by the law and international law and standards.
+[00:10:37] Um, as you say, I, I can't specifically ask that.
+[00:10:40] However, what I will say is this is exactly the type
+[00:10:44] of questions that this research is pointing to
+[00:10:47] and saying, we need to have this conversation.
+[00:10:49] We are looking at a longer term horizon here of 2035.
+[00:10:52] And the reason for doing this type of long term research
+[00:10:55] now is to say these are the types of conversations
+[00:10:58] that that, that we need to have.
+[00:11:00] Sure.
+[00:11:03] Um, it's fascinating.
+[00:11:06] Uh, it's kind of exciting really, some
+[00:11:08] of the stuff in the C five RT space that you've got
+[00:11:12] and the technology that's out there.
+[00:11:14] Even now, having just visited a local drone place in, um,
+[00:11:18] cryptos in Bloomington is, is incredible.
+[00:11:22] Uh, and I, and I understand the content you're saying about
+[00:11:25] having deeper knowledge so
+[00:11:26] that you can have the best decision making advantage,
+[00:11:29] but then you've gotta actually go and execute operations
+[00:11:32] and that needs people on the ground or it needs platforms
+[00:11:35] or, or combat systems in the C five construct.
+[00:11:39] And I just worry that we are looking at a really
+[00:11:43] complex advanced world-leading system as a,
+[00:11:47] as a solution here
+[00:11:49] that we are gonna talk about and never deliver.
+[00:11:53] And, you know, how long has network enable Army been going
+[00:11:56] on for True, and, and what's actually been delivered?
+[00:11:59] How long did we spend, we spent half the,
+[00:12:02] well the initial plan for NH 90 was spending half
+[00:12:04] of its life doing introduction to service.
+[00:12:06] You, you get eight NH s for the price
+[00:12:08] that you probably could have had twice as many
+[00:12:10] twin engine Iroquois.
+[00:12:12] And sometimes you just need stuff out there doing stuff.
+[00:12:15] So to, to take your example of the, of the ocean, you know,
+[00:12:19] we might be able to afford one thing that's underwater
+[00:12:22] and one thing that's in the sky, actually
+[00:12:23] that's not gonna cover it, that's gonna give you really
+[00:12:25] complex, beautiful, refined solution for that one bit.
+[00:12:28] But the guys over here, so at what point do we say, actually
+[00:12:32] to us it's important that we just need agility.
+[00:12:35] We need, uh, redundancy, we need multiple, um,
+[00:12:39] deployable units, which, which won't all be people.
+[00:12:42] I get the machine thing, I get the platform thing,
+[00:12:45] but at what point do we go actually that that's cool,
+[00:12:47] but we are small and we've got limited resources, so
+[00:12:51] how are we gonna use them for the greatest combat effect?
+[00:12:56] Yeah. I, I think, um, um, so obviously part
+[00:12:59] of this research is looking at into the
+[00:13:01] long term deliberately.
+[00:13:02] So, so isn't looking particularly at current state
+[00:13:04] or current, um, capabilities,
+[00:13:06] but two things I would say is
+[00:13:08] that the research dash shows it is an absolute.
+[00:13:10] And so this isn't about,
+[00:13:12] like our first area is talking about harnessing the power
+[00:13:15] of data and it talks about the criticality
+[00:13:17] of the underlying, um, kind of digital infrastructure
+[00:13:22] and the algorithms, but it's an, and with those capabilities
+[00:13:25] and that trade off needs to occur.
+[00:13:27] One of the key points that we make in this briefing is not
+[00:13:30] to lose sight of the importance
+[00:13:31] of the digital infrastructure
+[00:13:33] and the, the software advantages, not just the capabilities.
+[00:13:38] The, the second point I would note is that, um,
+[00:13:40] under the human machine team, um, feeding,
+[00:13:44] we are talking about, um, it's, it's a different role
+[00:13:47] for defense personnel in, in this, in this long-term future.
+[00:13:51] It's a different role. It's, it's moving, um,
+[00:13:53] potentially away from less kind of in the field work
+[00:13:56] and more into that kind of tuning
+[00:13:57] and training systems, interpreting the outputs,
+[00:14:00] making decisions and ensuring adherence
+[00:14:02] with kind of law and doctrine.
+[00:14:04] So it's kind of a different role in this longer term
+[00:14:06] future that we're seeing.
+[00:14:07] So it's not a, it's not a less defense
+[00:14:09] personnel in this world.
+[00:14:11] It is just a different role
+[00:14:12] That we're, but, but, but doesn't Ukraine teach us
+[00:14:14] that actually we've gone back to, uh, world War I
+[00:14:18] with some technology rather than
+[00:14:20] Some Technology with some war
+[00:14:22] and that, that they are, you know,
+[00:14:24] colonels in the field are just going out
+[00:14:25] and buying the nearest cheap drones
+[00:14:26] so they can see something, it's gonna get shot down pretty
+[00:14:28] soon, but just give me some imagery
+[00:14:29] because yes, your point is absolutely valid.
+[00:14:31] We need the data and that gives commands critical insights
+[00:14:34] and decision making ability.
+[00:14:35] But you need just lots of stuff
+[00:14:37] and you're gonna need people out there
+[00:14:39] and there will be some stuff that technology will never do
+[00:14:42] for you that you need actual boots on the ground.
+[00:14:44] And, and I just worry that we've, this is great in isolation
+[00:14:47] and this looks great in the office,
+[00:14:50] but you know, know you up to First Battalion
+[00:14:52] and ask them what they need and they'll say what?
+[00:14:54] Gimme a couple more hundred people in a,
+[00:14:56] in a bunch of bullet basically.
+[00:14:58] Um, and and I don't think we ever get away from that, do we?
+[00:15:01] No. And again, this, this,
+[00:15:02] this research talks about it being an you still need that,
+[00:15:06] that kind of exquisite
+[00:15:07] and that that that kind of, um, the, the capabilities
+[00:15:10] that you are talking about on the frontline, it's
+[00:15:12] how do they supplement?
+[00:15:13] And you use the example of Ukraine, that was something
+[00:15:16] that we looked at as part of, part of this, particularly
+[00:15:19] that quick learning loop that
+[00:15:20] that's occurring on the frontline of, um, yeah.
+[00:15:23] Um, um, yeah, frontline of Ukraine.
+[00:15:26] Um, and again, it still shows again that point of it's both
+[00:15:30] this, this, this shouldn't be seen.
+[00:15:32] I would never recommend anybody
+[00:15:33] to make investment decisions both based solely off this
+[00:15:37] Briefing. So I guess my
+[00:15:38] finals, if I can, um, chair is, is,
+[00:15:42] is does it, does it say that in the briefing and,
+[00:15:45] and where is the work that says
+[00:15:48] we need all this, this is great stuff.
+[00:15:49] If you can deliver this, like, hats off, man, this is great
+[00:15:52] and, and please take me the task on this and,
+[00:15:53] and tear my argument apart.
+[00:15:55] But where is the bit that says alongside this,
+[00:15:58] the second parallel railway track, um, is here's the work
+[00:16:02] that that is gonna enable us to go from 4,000 soldiers today
+[00:16:06] to 8,000 in the future.
+[00:16:07] To go from 2000 sailors to, you know, enough
+[00:16:11] to man the number of ships we need to, you know,
+[00:16:14] go from 2,400 aviators to whatever it might be.
+[00:16:17] Where's the, where's the, where's the parallel bit
+[00:16:19] that says this is how we actually get more people.
+[00:16:21] And so
+[00:16:22] That is where you look at the parallel
+[00:16:24] of the defense capability plan.
+[00:16:26] That is where we are talking about the defense capabilities.
+[00:16:29] And particularly in that, um, the, the, the 2025 date,
+[00:16:33] the Defense State Capability Plan talks about the critical
+[00:16:35] investments that are needed over the four year period,
+[00:16:38] also has an eye out over a 15 year period,
+[00:16:40] which this overlaps at the end of to try
+[00:16:42] and influence future reviews and iterations.
+[00:16:45] So I think what you are asking for there is
+[00:16:47] what is in the defense capability plan.
+[00:16:50] The, the key point is,
+[00:16:51] is when you think about defense investment that is, um, um,
+[00:16:54] described through the defense capabilities plan,
+[00:16:56] there's multiple different aspects of what will define
+[00:17:00] how much and what is being procured with the first one,
+[00:17:03] really the primary one being the,
+[00:17:04] the strategic environment is that's being faced also.
+[00:17:08] Then you've got the state of kind of the NZ DFS assets and,
+[00:17:12] and infrastructure and so on, as well
+[00:17:15] as technology innovations that are occurring.
+[00:17:17] So this one is only looking at the third, third angle,
+[00:17:21] but the defense capability brings all of those bits in
+[00:17:24] to talk about what is needed today critically as well
+[00:17:28] as going out into the future.
+[00:17:29] Thank you. I, I get that.
+[00:17:30] I'm, I'm, I, I think I'm also hinting about at just sort
+[00:17:32] of the culture, the ethos that says actually we need
+[00:17:34] to be flexible, we need to be agile, we need
+[00:17:36] to be easy to move.
+[00:17:38] And that's not about the platforms,
+[00:17:39] it's not about the technology,
+[00:17:40] it's actually about the approach that we take.
+[00:17:42] But I I go on again, this is fascinating. Thank you. Oh,
+[00:17:45] I think I'll just make one comment there.
+[00:17:46] I think what, what happens with these insight briefings,
+[00:17:49] and we see this all the time as we jump to the so what
+[00:17:51] Next? Absolutely.
+[00:17:52] Um, and, and how are we implementing
+[00:17:54] and what are we doing to support it
+[00:17:55] and where's the system shift and how does that work?
+[00:17:57] So, um, I think you're absolutely right.
+[00:17:59] But, uh, and I, but I accept where you're at too,
+[00:18:01] but this is part of a suite of things that will need
+[00:18:03] to happen along the way to make that work.
+[00:18:06] Um, honorable
+[00:18:08] Ade Thank you man, chair.
+[00:18:09] Um, it's good Dan. It is fascinating
+[00:18:12] and one
+[00:18:13] of the challenges when people speak towards technology in
+[00:18:17] particular in warfare is the, uh,
+[00:18:21] increasing usage of cloud systems
+[00:18:24] and hyper cloud systems, et cetera,
+[00:18:27] which under one attack in the most recent strikes in Iran
+[00:18:31] or in the Middle East, has struck a data center, uh,
+[00:18:34] that has all but crippled what they,
+[00:18:38] and then compromised data
+[00:18:39] and everything else that's stored in the cloud.
+[00:18:42] Um, everything
+[00:18:43] that you've just mentioned in this report speaks to what,
+[00:18:47] from my limited te my team's are better at technology than
+[00:18:51] I, um, speaks towards predominantly cloud-based systems.
+[00:18:56] Um, you know, do you see in 2035 New Zealand having
+[00:19:00] that capability to sustain its own cloud-based systems
+[00:19:05] or, uh, are you looking towards
+[00:19:07] how we might partner with others?
+[00:19:11] Um, yeah, um, really good question.
+[00:19:13] And I think the, um, the importance of remaining interal
+[00:19:17] with partners is gonna be key.
+[00:19:19] It is today and it will continue to be, um, again,
+[00:19:22] it's highlighted through there.
+[00:19:24] However, we do, um, through it talk about how the health,
+[00:19:28] the long-term insights briefing,
+[00:19:29] it does talk about the needing to continually balance that
+[00:19:33] cost with sovereignty with, um,
+[00:19:36] legality and social license.
+[00:19:38] We mentioned that about two or three times. Yeah.
+[00:19:40] It's an important balance.
+[00:19:41] So I I I, I can't say New Zealand
+[00:19:44] or with partners that they are four
+[00:19:46] angles that this research shows.
+[00:19:48] You've got to continually, um, yeah, review that.
+[00:19:50] And whilst that is done, um, today with other capability
+[00:19:53] as capabilities change, you've still got
+[00:19:56] to ask those same questions.
+[00:19:57] It's just a different capability
+[00:19:59] that you're asking questions on.
+[00:20:00] If I may supplementary manager. Yes. Yes.
+[00:20:02] Um, that brings me to page 50 of your report,
+[00:20:04] which talks about public engagement
+[00:20:07] and public inclusion social license.
+[00:20:10] And you just mentioned that. Mm-hmm.
+[00:20:12] That too, which is usually important
+[00:20:14] because if I'm sitting down in the public right now
+[00:20:17] and this comes into my hands
+[00:20:18] and, you know, how rabbit hole explorers in this country
+[00:20:22] and around the world get to people read, will read this
+[00:20:26] and go, this is preparing us for orca, that
+[00:20:30] that's what people will read
+[00:20:31] because they're looking into, you know, uh, quantum physics,
+[00:20:36] quantum mathematics, all those kinds of things
+[00:20:38] that come in part of Fuller two and or so.
+[00:20:41] It's really a comment more than a question.
+[00:20:43] And that is, can I suggest that your public engagement,
+[00:20:47] 'cause there's only a small part of it on page 50, uh,
+[00:20:50] it's gonna be ongoing, it's gonna be difficult.
+[00:20:53] And it's got to look like it is independent for New Zealand
+[00:20:56] and for the interests of New Zealand.
+[00:20:57] And it's easy for me to say it
+[00:21:00] 'cause I'm leaving this place next week.
+[00:21:01] So I don't really care too much.
+[00:21:02] But for,
+[00:21:04] and uncle in this has been the challenge for armed services
+[00:21:08] and the Defense Force, and Tim knows as well,
+[00:21:11] is when you speak to someone in Qia,
+[00:21:13] they think this is all about guns and bullets.
+[00:21:16] Mm-hmm. Uh, and you've gotta sell a story
+[00:21:18] that I think will take New Zealand into 2035. Mm-hmm.
+[00:21:21] That's good. So, so, um, two things I'd say.
+[00:21:25] So as part of the scope,
+[00:21:26] we deliberately didn't look into any kind
+[00:21:28] of coalitions or anything.
+[00:21:29] This is a long term piece and so on.
+[00:21:31] So we didn't look at any, any of those.
+[00:21:32] However, coming to your point about the, um,
+[00:21:34] the public engagement public,
+[00:21:36] because this is a really key shift.
+[00:21:37] All three are very important shifts.
+[00:21:39] And if anything, yes, the, the, the, the thematic kind
+[00:21:42] of insights are hopefully interesting to you all.
+[00:21:45] But it's actually the three shifts
+[00:21:47] that we're gonna actually do things differently.
+[00:21:49] Um, on the public engagement, inclusion,
+[00:21:51] it's always been the case that defense needs
+[00:21:54] to maintain public public trust.
+[00:21:56] It's always been that. However, one thing
+[00:21:57] that the research showed was that, um, kind
+[00:22:00] of communicating traditional per um,
+[00:22:03] purchases was comparatively straightforward
+[00:22:07] because, um, their kind of functions and methods
+[00:22:10] and how they were gonna be used is relatively known.
+[00:22:13] Um, the gray ship is a gray ship, a gray ship.
+[00:22:15] And, and, and you know, when you are purchasing a, a ship of
+[00:22:17] that or a, an aircraft of that, what their capabilities are,
+[00:22:21] that can be, um, what they can do.
+[00:22:24] However, in a, in a world where we've got new software
+[00:22:27] and new software upgrades,
+[00:22:29] and particularly where a software upgrade can effectively
+[00:22:33] make a new or a significantly changed
+[00:22:36] or improved capability just through a software upgrade, um,
+[00:22:40] that is where it's gonna be less clear
+[00:22:42] to the public about what's happening there.
+[00:22:44] So we, we, we've stated that in the future,
+[00:22:46] defense forces will need
+[00:22:47] to be more proactive in communicating to the public
+[00:22:50] as their capabilities evolve,
+[00:22:51] particularly through the software.
+[00:22:53] And that is vital. Yeah. And
+[00:22:54] I think that is your point. Yeah.
+[00:22:55] Very good. Right.
+[00:22:57] I think that, um, will bring us to a close.
+[00:23:00] I think, uh, there's no time like the present
+[00:23:03] and the current geopolitical challenges, uh, to, uh,
+[00:23:05] be talking about future, um, capability
+[00:23:08] and interoperability in defense.
+[00:23:10] So, uh, we look forward to the work
+[00:23:12] that comes alongside this for future in discussions
+[00:23:15] with NZDF in the ministry.
+[00:23:16] Um, so thank you for your work.
+[00:23:17] Thank you for coming to talk to us and um, yeah, well done.
+[00:23:21] That's a valuable piece of work.
+[00:23:23] Thank you all.

@@ -1,0 +1,492 @@
+Title: vimeo_1167220964
+URL: https://vimeo.com/1167220964
+Published: Unknown
+Duration: 00:00:00
+
+[00:15:15] Morning and welcome.
+[00:15:16] Thank you for coming in this morning. Good morning.
+[00:15:17] Thanks so much for Morning. Morning. Good morning.
+[00:15:19] Good morning. Thanks very much for the invitation.
+[00:15:22] Um, uh, I'm Brian Heska, the head of, uh, policy Evidence
+[00:15:26] and Insights at a CC.
+[00:15:27] And, um, I've got with me, um, Carly Woodham,
+[00:15:30] who's our principal advisor and hopefully online.
+[00:15:33] Um, we've got, uh, colleague
+[00:15:36] beaming in from our Manco office.
+[00:15:38] Um, he's our manager of operations payments.
+[00:15:41] Um, so he is, um, he's responsible for that interface
+[00:15:45] between a CC and ESD for processing the payments.
+[00:15:48] So if we need to turn to him for the expert, um,
+[00:15:51] expert detail on those parts, the, the process,
+[00:15:53] then he's available for that.
+[00:15:55] There is the great, um, look, thanks very much.
+[00:15:59] We haven't actually sent the committee any written material
+[00:16:02] for this session, um,
+[00:16:04] but we have worked, um, with NSD last week into the process,
+[00:16:07] um, for your consideration of the bo for their advice
+[00:16:10] that they provided you.
+[00:16:11] Um, uh, and we, we, you know, we
+[00:16:15] provided what we could within that timeframe.
+[00:16:17] I know that you'll definitely have questions that you wanted
+[00:16:20] to, to launch into, but would it be helpful if
+[00:16:22] we just gave a little bit of context?
+[00:16:23] Yes, please. As much upfront about
+[00:16:24] where things stand at the moment.
+[00:16:27] Um, we know that you,
+[00:16:29] you've probably got quite an interest just to sort of try
+[00:16:31] to understand a bit more about who these clients are.
+[00:16:34] Um, from accs perspective, um, we, um,
+[00:16:38] the difficulty there is that, um, uh, the,
+[00:16:42] the process payments that we have
+[00:16:43] with MSD are quite a manual process, so it's quite difficult
+[00:16:45] for us to isolate
+[00:16:47] and extract the data about those people from our systems in
+[00:16:50] the same way that MSDI think struggled to,
+[00:16:52] to extract those, that detail.
+[00:16:54] But what we have done over the last few days,
+[00:16:56] we've had a key person, um, just pull a sample
+[00:16:59] of cases over the last year.
+[00:17:02] It's a small sample, but of of 50 cases, um, that we, um,
+[00:17:06] can track where we've, where we've had back payments going
+[00:17:08] to MSD, um,
+[00:17:11] and what they show is, um, that, um, uh,
+[00:17:16] unsurprisingly about 65% of those were sensitive payments.
+[00:17:19] So those are how much?
+[00:17:20] About 65%, so about 33 out of that 50.
+[00:17:25] Um, and um, about, um, uh,
+[00:17:30] 25% were, were at another category within,
+[00:17:34] within the remaining you've got things like treatment,
+[00:17:37] injury claims and, um, other serious injury claims.
+[00:17:40] Can you just say that again?
+[00:17:42] So, so about 4% treatment injury claims,
+[00:17:45] 4% serious injury claims within that.
+[00:17:48] Um, and then the other 25% are made up of, um,
+[00:17:52] the other types of claims.
+[00:17:53] So those are things like, um, oh, actually, sorry.
+[00:17:57] Gradual process is the other small category.
+[00:17:59] I think that's about 2%.
+[00:18:01] Um, so the other kind of claims,
+[00:18:02] so those are late lodged claims or hearing loss claims
+[00:18:05] or other kind of complex, complex claims where we need
+[00:18:08] that time to, to work through things.
+[00:18:11] Mm-hmm. Um, unsurprising, I mean, you know, um, linked to
+[00:18:15] that, uh, we have done, we've been able to do a bit
+[00:18:18] of analysis about, um, gender breakdown.
+[00:18:20] So 70% are are female, um,
+[00:18:26] and, um, the age of those clients looks predominantly,
+[00:18:30] you know, quite a large volume towards the 50
+[00:18:33] to 70, um, range.
+[00:18:36] Um, about, um, uh,
+[00:18:41] what is that 2023 of, of those people are in
+[00:18:43] that higher bracket at the moment, that's their age now.
+[00:18:47] Um, but obviously the, the event, um,
+[00:18:50] may have occurred many years ago, particularly
+[00:18:52] for 4 cents claimants.
+[00:18:55] So those are some sort of basic kind of, um,
+[00:18:57] demographic details that we're able to get from that sample.
+[00:18:59] As I say, it's a very small sample, um,
+[00:19:01] and that kind of profile will change over time.
+[00:19:04] Mm-hmm. What we've seen, particularly in the last year
+[00:19:08] or couple of years, has been, uh,
+[00:19:09] quite a large growth of sensitive claims.
+[00:19:11] Mm-hmm. Generally, um, as there's been a higher profile
+[00:19:14] of attention, you know, with, um, survivors of state abuse
+[00:19:17] and, um, you know, other mechanisms
+[00:19:20] that have really supported people to come forward
+[00:19:22] to, to make these claims.
+[00:19:23] Mm. And of course, um, I think you've had notes that, uh,
+[00:19:27] the, the t in case that went through the court
+[00:19:29] of appeal at the end of 2024 has encouraged a lot of people
+[00:19:32] to come to us to now seek, um, a form
+[00:19:35] of weekly compensation called, um, loss
+[00:19:37] of potential earnings, um, that dates back to, uh,
+[00:19:41] particularly for people that were abused as children.
+[00:19:46] So hopefully that just sort of sets a little bit of context
+[00:19:48] that come Thank you, um,
+[00:19:49] found in the conversation today. So that, that
+[00:19:51] 50, that's 50 of what, what's the Yeah,
+[00:19:55] So I mean, there 37,000 that Ms.
+[00:19:57] D, um, provided, you know, over the last kind
+[00:19:59] of 25, 27 years, I think.
+[00:20:01] Um, this is only, um, over one,
+[00:20:04] just looking back over the last year.
+[00:20:06] Um, but we get about, I think s can confirm,
+[00:20:08] but about 60 to 70 claims like that a month
+[00:20:11] that we do some sort of reimbursement with MSD.
+[00:20:13] So it is a, it is a obviously a point in time. Yeah.
+[00:20:16] Um, and, and a small, a small number.
+[00:20:18] Great. Thank you, Raquel.
+[00:20:20] Thank you so much for trying to at least get a sample.
+[00:20:22] Appreciate it. We've been struggling
+[00:20:24] to get a picture of who it affects.
+[00:20:26] Now for the lay person,
+[00:20:28] would you mind further expanding when you say
+[00:20:32] sensitive claims, I know this is,
+[00:20:34] I know this is quite a delicate issue.
+[00:20:35] Hmm. Would you mind expanding on what kind
+[00:20:40] of issues people may have been facing
+[00:20:42] and would you also expand why often these claims do take
+[00:20:45] quite some time to be basically processed?
+[00:20:49] Yeah. Um, because obviously we know
+[00:20:51] that the longer the claims get take to get processed,
+[00:20:53] the larger the debts are likely to be.
+[00:20:55] Yeah. Um, so if you wouldn't mind expanding on,
+[00:20:58] what are we talking about when you say sensitive claims?
+[00:21:00] Who are we talking about and also why did it take
+[00:21:03] so long? Sure.
+[00:21:04] So, so since the claimants are, um, covered under the act
+[00:21:08] where they, uh, are people who have, um, mental trauma from,
+[00:21:12] um, sexual abuse or other types of, um, sexual crimes
+[00:21:15] that are, um, prescribed in, in the act, um, the,
+[00:21:20] that that trauma can arise, um, many years
+[00:21:24] after the event, typically does the PTD that people or,
+[00:21:27] or other cognitive, um, psychological trauma
+[00:21:31] that people experience can arise many years after the event.
+[00:21:33] Sometimes, you know, uh,
+[00:21:35] people might not be launching a claim for, for decades,
+[00:21:37] in fact, after that event.
+[00:21:39] And that's what can make it quite difficult to, to unravel
+[00:21:42] so that when people have been seeking treatment, um,
+[00:21:47] you know, they'll be working with, with, um, counselors
+[00:21:49] and other and specialists to sort of understand, um,
+[00:21:53] you know, has that, can we first treat you
+[00:21:57] but also make sure that we understand, is that trauma linked
+[00:22:00] to though that event that occurred decades ago?
+[00:22:05] Or, um, are there other things
+[00:22:06] that have happened in your life that, you know, this, um,
+[00:22:09] PTD that you now, or cognitive, um, you know,
+[00:22:11] condition you're, you're displaying mm-hmm.
+[00:22:13] Links to, to other issues Yeah. That you might have. Just
+[00:22:16] A quick follow up, what kind of documentations
+[00:22:18] that people then have to produce?
+[00:22:20] Um, obviously it seems like can be a lengthy process talking
+[00:22:24] to lawyers and sensitive claimants.
+[00:22:26] Um, you know, what documents are people expected to have
+[00:22:29] to provide, um, which can further delay them being able
+[00:22:33] to get the claim?
+[00:22:34] Yeah. Well, there's, there's
+[00:22:35] different parts of the process.
+[00:22:37] So, um, the, the first part
+[00:22:39] of the process is just determining cover, you know,
+[00:22:42] does a person have a, a, um, an injury they can point to
+[00:22:45] that is covered by the scheme?
+[00:22:47] And that's, that's what, you know, a large amount of
+[00:22:50] that first process is, is involved looking at, um,
+[00:22:55] four sensitive payments that the benefit
+[00:22:57] that they do have is that we, during
+[00:22:59] that period will provide them with
+[00:23:01] what we call pre cover support.
+[00:23:02] So they get a number of hours of counseling that a CC, um,
+[00:23:06] pays for them in their early period, um, uh, both
+[00:23:11] through counseling and through other types of, um, of, um,
+[00:23:15] of supports in that period.
+[00:23:18] Can you just expand on what you mean by that early period?
+[00:23:20] What, like, while we
+[00:23:22] Are determined and cover while we are working through
+[00:23:24] that process with, um, with those, uh, those counselors
+[00:23:27] or other, um, medical professionals that they're seeing to,
+[00:23:31] um, to, to work through that process of,
+[00:23:34] of determining cover, once we, once we, um, provide
+[00:23:38] that cover, then, um, as I say, um, you know,
+[00:23:41] people can then, um, also, uh, come to us
+[00:23:45] to seek other entitlements.
+[00:23:48] Um, other than that the, the medical treatment
+[00:23:50] or the counseling, um,
+[00:23:51] and they can include financial, uh,
+[00:23:54] compensation entitlements.
+[00:23:56] And it's at that point where, um,
+[00:23:59] we will be often interfacing with NSD to understand,
+[00:24:02] you know, if you're a beneficiary at that point
+[00:24:03] or have been over that that time.
+[00:24:06] Um, and what we do in the first instance is sort of say,
+[00:24:09] look, you know, um, if we're covering you
+[00:24:11] and you need financial assistance,
+[00:24:13] we will then make an arrangement with NSD to hand
+[00:24:16] that person over to us so that we're paying them forward.
+[00:24:19] The next question is, can we work out whether we, um, uh,
+[00:24:24] you know, how long this, this period has been
+[00:24:26] and what that amount of back payment might be?
+[00:24:28] And that is a process where we are working with NSD to,
+[00:24:32] to determine, you know,
+[00:24:33] the period at which they've been on benefits or inside work
+[00:24:36] or, um, you know, with other kinds of supports.
+[00:24:39] And that's the kind of one of the key focus for
+[00:24:41] what we're talking about today is when we're reimbursing MSD
+[00:24:44] for, for lot for those kind of payments. M
+[00:24:48] Thank you, Mr. Chair.
+[00:24:49] Um, look, I, I'm getting the picture
+[00:24:51] that it's very individualized.
+[00:24:53] There is no template That's right, absolutely.
+[00:24:56] Across all of the clients that you are working with,
+[00:24:58] but given that you are working so intensely
+[00:25:02] with such a large number of people mm-hmm.
+[00:25:04] Mm-hmm. Um, and,
+[00:25:06] and now the hiccup that we've got here with these, you know,
+[00:25:09] the retrospective, can you see the system and,
+[00:25:14] and where some streamlining
+[00:25:17] or some improvements could be made?
+[00:25:20] Yeah. Um, that's a, that's a good question.
+[00:25:23] Um, look, I, I think, um, we are working hard with SD
+[00:25:27] to make sure that we are processing claims and,
+[00:25:30] and working with them too
+[00:25:31] through those things. I'm not looking to
+[00:25:32] Drop anyone in it. Um,
+[00:25:33] No, no, no, no, of course not. Course,
+[00:25:36] It just seems, it just seems
+[00:25:37] to be quite a clunky arrangement in there.
+[00:25:40] Yeah.
+[00:25:41] Um, yeah, look, look, I think, you know, um,
+[00:25:46] we we're working within the, the settings that we,
+[00:25:48] that we've got, um,
+[00:25:50] and, um, in terms of that operational link, you know,
+[00:25:53] we are working closely with MSD to, to, to, to make that
+[00:25:57] as efficient as possible.
+[00:25:59] Um, you know, I might just check in with Ish as
+[00:26:02] to whether there's any other comments from,
+[00:26:05] from you ssh about
+[00:26:08] No, nothing, nothing more to add.
+[00:26:10] Um, other than just confirming that, you know,
+[00:26:12] it is lankey, it's, it's a manual.
+[00:26:14] The way we, the way we gather information from inland
+[00:26:18] revenue, earnings related information from inland revenue
+[00:26:20] and the benefit information from, um, from MSD
+[00:26:25] because of the, the, um, the, just the number
+[00:26:29] of years involved in all of this is very manual.
+[00:26:31] So we request the information manually,
+[00:26:33] we receive the information manually,
+[00:26:36] we do the calculations manually, and then we, you know,
+[00:26:40] and then we, we pay the client, right?
+[00:26:42] So all of that, uh, sending requests manually and receiving
+[00:26:46] and calculating takes, takes time.
+[00:26:49] Okay. So, and just another sub on that.
+[00:26:51] So, um, your comment within the settings that we've got,
+[00:26:55] are there some settings that could be improved
+[00:26:57] and, you know, the committee has looked at the, um,
+[00:27:00] you know, the, the data collection, um, ai.
+[00:27:04] Are there, are there other things that could assist? Mm.
+[00:27:08] Uh, pro probably, uh, I don't,
+[00:27:10] we haven't really looked into,
+[00:27:12] into those things specifically.
+[00:27:13] Um, you know, obviously from our side, from AC side, um,
+[00:27:17] we have done quite a bit of work to improve
+[00:27:19] how we are supporting sensitive claimants.
+[00:27:21] We've introduced a new service at the end of, um, December,
+[00:27:24] uh, 2024, um, which has been embedding over this year.
+[00:27:28] We've, um, markedly increased the number of providers
+[00:27:31] that are, um, working with us to support those clients.
+[00:27:34] But as I say, you know, we're seeing some very high volumes.
+[00:27:37] Um, and so, um, you know, that's a continuing focus for us
+[00:27:41] to make sure that we are getting people the,
+[00:27:43] the right supports at the right time.
+[00:27:45] So Sub material that is, man, what does manually mean?
+[00:27:48] Does that mean physical paperwork or email
+[00:27:51] On, on, on, on paper and send via email?
+[00:27:55] Right. Okay. That I can, I can see the challenge. Yeah.
+[00:27:58] Yeah. And, and just to add to what Brian earlier said,
+[00:28:01] I think, um, we are working very closely with MSD, um,
+[00:28:04] our operational teams are, uh, connected to the volume
+[00:28:07] of requests we're sending through
+[00:28:08] and working together on receiving the information quickly.
+[00:28:12] Um, so, uh, we, we've got, we've got that on, um,
+[00:28:17] underway to make sure that we don't add
+[00:28:19] to the delay ourselves
+[00:28:22] And, And obviously for them, and,
+[00:28:23] and I'm sure they would've commented on this, that, um,
+[00:28:25] you know, if they need to be looking back over 10 years,
+[00:28:29] 20 years worth of records,
+[00:28:30] you know, that's, that's a process.
+[00:28:32] Um, but, um, that, that's quite a process for them
+[00:28:35] to be working through as well
+[00:28:36] to be those, those records as well.
+[00:28:39] Any Question, Ricardo?
+[00:28:41] Thank you very much. Um, so
+[00:28:44] have you received feedback, um, from sensitive claimants
+[00:28:49] that the process can be, I mean, they're no fault
+[00:28:53] of their own or potentially just
+[00:28:55] because of the, the way that things are right now
+[00:28:56] that the process can be retraumatizing,
+[00:29:00] and would you mind expanding on some of the feedback
+[00:29:02] that you've kind of had a little bit around
+[00:29:05] that retraumatizing experience
+[00:29:07] of having to go through the process?
+[00:29:09] Sure, sure. We are, we are really conscious of that,
+[00:29:11] and that was a key part of the, um, design
+[00:29:14] of the new service that we put into place from one December
+[00:29:16] with providers.
+[00:29:17] Mm-hmm. Um, that is a difficult process and mm-hmm.
+[00:29:21] Um, for, for anybody obviously,
+[00:29:22] and you know, our, um, case managers who support, um,
+[00:29:26] these clients working with these providers, you know, they,
+[00:29:29] they are well trained in trauma support Yes.
+[00:29:32] And know, you know, um, how to, how to work
+[00:29:35] through issues carefully with, with people.
+[00:29:37] But yes, of course, it, it is a
+[00:29:39] Difficult process and it's a follow up on that.
+[00:29:41] Would you mind expanding on the type of support that is
+[00:29:45] unlocked by eight months?
+[00:29:46] People get their claims from a CC
+[00:29:48] that perhaps they wouldn't be able to access
+[00:29:51] otherwise through, say, supports from MSD?
+[00:29:55] 'cause I mean, it's not comparing apples with apples, right?
+[00:29:57] Like the, the support you are able to offer the support
+[00:30:00] that say other government agencies may not be able to offer
+[00:30:03] for sensitive claimants or, or other, um, claims.
+[00:30:06] Would you mind expanding on the type of support that only
+[00:30:10] the claim itself can end up unlocking? Mm-hmm.
+[00:30:12] Mm-hmm. Um,
+[00:30:15] I mean, like you say, any a CC claimant, um,
+[00:30:18] who's eligible, who has injury related needs,
+[00:30:21] um, can access treatment.
+[00:30:22] Um, so for sensitive claimants, that's often counseling.
+[00:30:25] Um, and like Brian said, that can be available
+[00:30:27] during the cover assessment process as well.
+[00:30:29] Mm-hmm. Before someone has cover, there's also social,
+[00:30:31] what we call social rehabilitation,
+[00:30:33] which can include things like, um, home help, um,
+[00:30:36] attending care, um, help with transport, um, childcare,
+[00:30:41] those sorts of things as well.
+[00:30:42] And ity does not cover that assistance. Right.
+[00:30:44] It only, you can kind of unlock that assistance itself,
+[00:30:47] But they'll provide some kinds of levels
+[00:30:49] of support to, to some extent.
+[00:30:50] But obviously yes, our entitlements are, you know, um,
+[00:30:54] quite extensive under the act.
+[00:30:55] Yeah. Yeah. Martin, when it was yours,
+[00:30:57] A supplementary Yes.
+[00:30:59] Thank you. Um, Moderna, Moderna did the provider, um,
+[00:31:03] you said more providers.
+[00:31:04] What were the original number of providers
+[00:31:06] and what, what did you end up as an improvement?
+[00:31:09] Mm. Like what are we talking another 21 there?
+[00:31:12] Seven, or I'll
+[00:31:14] Just go back.
+[00:31:15] Um, gosh, uh, yes, I, I'm trying
+[00:31:18] to remember those numbers off the top of my head.
+[00:31:20] I think, um, I, I think I can recall
+[00:31:22] that they were in the region regionally of, um,
+[00:31:27] a a few hundred and we are now sort of expanded that too.
+[00:31:31] Um, a few thousand, um, um,
+[00:31:35] if we can follow up Yeah.
+[00:31:36] Detail if you, if you, if you want that, um, sorry,
+[00:31:39] I don't have that readily on hand,
+[00:31:41] but, um, it was an extensive
+[00:31:42] Right. Increase. Yeah.
+[00:31:43] And, and that, that's an improvement
+[00:31:46] that's working better.
+[00:31:48] That helps, uh, you know, that, so it, it's helpful,
+[00:31:52] it's good for people, it's good for the people in this,
+[00:31:55] in these particular scenario.
+[00:31:57] Absolutely. Yeah. Yeah.
+[00:32:00] Um, I've got two different ones.
+[00:32:02] The first one is really a follow up on this issue
+[00:32:05] of the two different baskets,
+[00:32:08] and I just want to know, um, like if, if we look
+[00:32:12] beyond sensitive claims,
+[00:32:14] and I appreciate that's a very big deal.
+[00:32:17] Mm-hmm. Um, but if you take a claim, like a gradual process,
+[00:32:21] um, claim,
+[00:32:23] and in the situation as I understand it,
+[00:32:26] what you have been doing is you've been paying
+[00:32:30] across the main benefit at the time the claim has reached
+[00:32:33] that is being basically passed on to m and Steve,
+[00:32:38] but there has been no payment beyond that.
+[00:32:41] Um, so all of the things we, we had Hazel Armstrong mm-hmm.
+[00:32:46] In here talking about the port.
+[00:32:47] She's a, um, on the port
+[00:32:50] and those people get rehabilitated
+[00:32:53] with sort of gold standard.
+[00:32:54] They're back to work quickly.
+[00:32:57] If you take a worker like that
+[00:33:00] where there's a potential gradual process injury mm-hmm.
+[00:33:04] How different, how significantly different is
+[00:33:09] what somebody whose claim has been delayed
+[00:33:11] for five years mm-hmm.
+[00:33:13] To what they would've got and what happens.
+[00:33:17] One of the big issues that we've got is
+[00:33:19] how come a CC hasn't been knock
+[00:33:23] for knocking some of that stuff.
+[00:33:24] You see different things that MC have been given,
+[00:33:29] but there's so much less from the look of it than
+[00:33:33] what MC has been given.
+[00:33:35] So how come a CC hasn't been responsible for
+[00:33:41] paying at least the amount it would've likely paid?
+[00:33:45] Now I appreciate, it's really hard to know
+[00:33:48] how much would've been paid, but why is a CC
+[00:33:52] and particularly accredited employers
+[00:33:55] incentivized by a delay?
+[00:33:58] Why are they enriched by that? Mm-hmm.
+[00:34:00] And that's a big question.
+[00:34:03] It it, it is, it is.
+[00:34:04] I, I mean, I guess, um, just for context, it's important
+[00:34:08] to note that, um, there are statutory timeframes
+[00:34:11] that we do have to make decisions, um, within, um,
+[00:34:15] and yes, we can extend some of those timeframes, um,
+[00:34:18] where there are some, some complexities to work through,
+[00:34:21] but, you know, that does put some responsibility on us
+[00:34:23] and the accredited employers to make sure
+[00:34:25] that we're making decisions in a timely way.
+[00:34:29] Um, for, for some of those supports.
+[00:34:33] I mean, you know, you,
+[00:34:34] you mentioned gradual, um, gradual process.
+[00:34:37] Yes. Um, PE people will often be still being
+[00:34:41] supported during that period.
+[00:34:43] For example, if you have a cancer that we are trying
+[00:34:45] to work out, is this a Yeah.
+[00:34:47] Cancer that's from an exposure from an occupational
+[00:34:50] Support from a CC,
+[00:34:51] Um, well, well, you know, in terms of their treatment,
+[00:34:54] of course the, the cancer, you know, service is going
+[00:34:56] to continue to be supporting those
+[00:34:58] people through that process.
+[00:34:59] That's not a, that's not a,
+[00:35:01] and through that time yeah, it's not a
+[00:35:02] process that a c they'll
+[00:35:03] Just get it from the public health system. Well,
+[00:35:05] Well, that's right. As, as,
+[00:35:06] as does a CC, you know, in terms of purchasing
+[00:35:09] that ultimately.
+[00:35:10] So there's not necessarily a gap.
+[00:35:13] I appreciate there, but,
+[00:35:15] but basically what our submitters told us Yeah.
+[00:35:17] In start terms is yeah, there is a significant difference.
+[00:35:20] Sure, sure. They are missing out at every angle
+[00:35:23] and then we're asking them to pay back
+[00:35:25] what they got from M sd.
+[00:35:27] Mm-hmm. That just seems crazy to me.
+[00:35:30] What I would like the second question,
+[00:35:32] and you might not have time to answer it now,
+[00:35:33] but the waiver issue, we've come up with a, an amendment Mm.
+[00:35:37] Um, where we are putting it to the government
+[00:35:40] that they should amend this Lewis.
+[00:35:42] So at least the MSD have a capacity
+[00:35:46] to look at this in terms of equity
+[00:35:49] and work in the same way a CC already do
+[00:35:52] in other situations.
+[00:35:54] Would it be helpful to have you,
+[00:35:57] you use a waiver at the present time in
+[00:35:59] certain circumstances?
+[00:36:01] Would it be h helpful to have similar law?
+[00:36:04] And again, you might not be able
+[00:36:05] to answer this straight away,
+[00:36:07] but, so something that is comparable mm-hmm.
+[00:36:09] So you can work together. Mm-hmm.
+[00:36:11] I mean, I think that focus is obviously more on the
+[00:36:14] SD side in terms of their ability,
+[00:36:15] ability and it's politics too.
+[00:36:17] Exactly. So it's probably
+[00:36:19] not something that would
+[00:36:20] affect us directly. Could you confirm
+[00:36:21] That you do use a waiver in the way that the,
+[00:36:24] um, letter to the minister?
+[00:36:25] Have you seen the letter to the minister? No, I,
+[00:36:27] We Haven't seen that. Perhaps we
+[00:36:28] could provide that
+[00:36:28] and you could confirm that they write
+[00:36:30] and that, that that law is in place and working for you.
+[00:36:35] Mm, we, we, um, we are well over time. Sure.
+[00:36:39] So, uh, look, we, we will, um,
+[00:36:41] Thank you. We're very happy
+[00:36:42] to provide any further information.
+[00:36:43] I, I appreciate that. Thank you so much. Been helpful.
+[00:36:46] Thanks so much. Thank,
+[00:36:52] Observe.

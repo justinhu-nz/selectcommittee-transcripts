@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:53.724365+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1185709694",
+  "title": "vimeo_1185709694",
+  "url": "https://vimeo.com/1185709694",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758257",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 6295.06,
+    "segment_count": 2034,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 04 22 - HE - vimeo_1185709694\\2026 04 22 - HE - vimeo_1185709694.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185709694",
+    "display_id": "1185709694",
+    "title": "2026 04 22 - HE",
+    "description": "Review briefing on the 2024/25 annual review of the Mental Health and Wellbeing Commission\n \nMental Health and Wellbeing Commission\nKaren Orsborn, Chief Executive\nHayden Wano, Board Chair\nDr Barbara Disley, Deputy Board Chair",
+    "webpage_url": "https://vimeo.com/1185709694",
+    "original_url": "https://vimeo.com/1185709694",
+    "upload_date": "20260423",
+    "timestamp": 1776903782,
+    "release_timestamp": 1776903782,
+    "duration": 6296,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2149215204-20adc85b20230ed2860a349cf3294f555281ef0d6ddb24446e3c9feb22b4a31f-d_1920x1080?&r=pad&region=us",
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/296483234.vtt?expires=1778562118&sig=fd4c2b436bfee10e9e206800909f126acca8a5c8&download=auto_generated_captions.vtt"
+  }
+}

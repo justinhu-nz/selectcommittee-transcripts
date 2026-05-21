@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:00.944159+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1170074343",
+  "title": "vimeo_1170074343",
+  "url": "https://vimeo.com/1170074343",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2263.66,
+    "segment_count": 649,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_11 - GA - vimeo_1170074343\\2026_03_11 - GA - vimeo_1170074343.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1170074343",
+    "display_id": "1170074343",
+    "title": "2026/03/11 - GA",
+    "description": "Wednesday 11 March 2026 | Governance and Administration Committee\n\n2024/25 Annual review of Fire and Emergency New Zealand\n\nFire and Emergency New Zealand\n-\u00a0Ken Cooper, National Manager Response Capability\n-\u00a0Jim Stuart-Black, Chief Advisor Asset and Programme Delivery",
+    "webpage_url": "https://vimeo.com/1170074343",
+    "original_url": "https://vimeo.com/1170074343",
+    "upload_date": "20260311",
+    "timestamp": 1773189390,
+    "release_timestamp": 1773189398,
+    "duration": 2280,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2132221314-45f3a3715753fce75d6aaaff999ff8dedb161aa1a796ff0f1d13358e79f270e5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/287302896.vtt?expires=1778505042&sig=4cca6b527cbb49449c49d1930130cdc321a2d53d&download=auto_generated_captions.vtt"
+  }
+}

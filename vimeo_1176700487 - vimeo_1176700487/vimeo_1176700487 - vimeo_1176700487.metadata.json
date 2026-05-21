@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:59.967766+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176700487",
+  "title": "vimeo_1176700487",
+  "url": "https://vimeo.com/1176700487",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2359.66,
+    "segment_count": 803,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_03_25 - GA Part 2 - vimeo_1176700487\\2026_03_25 - GA Part 2 - vimeo_1176700487.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176700487",
+    "display_id": "1176700487",
+    "title": "2026/03/25 - GA Part 2",
+    "description": "Wednesday 25 March 2026 | Governance and Administration Committee\n\nPetition of David Glen on behalf of Cornwall Park Leaseholders Association: Mandatory compensation to lessees for the value of their improvements \n\nCornwall Park Leaseholders Association \n\nDr Peter Cameron, (Chairperson) \nTanja Blinkhorn \nDon Tilbrook \nGautam Jindal \n\nCornwall Park Trust Board \n\nAdrienne Young-Cooper, Chair Cornwall Park Trust Board \nMurray Reade, Chief Executive Cornwall Park Trust \nMartina Llewellyn, Commercial Manager Cornwall Park Trust \nJohn Hannan, Legal Counsel",
+    "webpage_url": "https://vimeo.com/1176700487",
+    "original_url": "https://vimeo.com/1176700487",
+    "upload_date": "20260324",
+    "timestamp": 1774386508,
+    "release_timestamp": 1774386516,
+    "duration": 2360,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2137880357-453e979541ee8b8a5c5a2e00c566128a1f9b8378e1143b52624c580fa1c16d54-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/290185508.vtt?expires=1778505032&sig=695fe1bb60255903c7f3af15594fb66f00d6fd19&download=auto_generated_captions.vtt"
+  }
+}

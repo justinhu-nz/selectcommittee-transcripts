@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:39.865677+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1146407043",
+  "title": "vimeo_1146407043",
+  "url": "https://vimeo.com/1146407043",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2090.78,
+    "segment_count": 536,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2025_12_15 - MA (Part 2) - vimeo_1146407043\\2025_12_15 - MA (Part 2) - vimeo_1146407043.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1146407043",
+    "display_id": "1146407043",
+    "title": "2025/12/15 - MA (Part 2)",
+    "description": "Monday 15 December 2025 | M\u0101ori Affairs Committee\n\nNg\u0101ti R\u0101hiri Tumutumu Claims Settlement Bill\n  Ngati Tamatera Treaty of Waitangi Negotiators\n\nJohn McEnteer\n\n  \n\n Jamie Watson\n\nDaniel Braid\nMichael Barker\nNgati Tumutumu Trust\n\n   \u00a0\n Daniel Braid, Chairperson",
+    "webpage_url": "https://vimeo.com/1146407043",
+    "original_url": "https://vimeo.com/1146407043",
+    "upload_date": "20251214",
+    "timestamp": 1765752946,
+    "release_timestamp": 1765752954,
+    "duration": 2108,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2096356814-86badb4f28b907bc45226609629370abda81ee36fdea06a2e2d05c4435dc2e1d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/272019584.vtt?expires=1778552491&sig=c1fa26b66d6ce358e7f18aa84d7cfe5a3dd4693f&download=auto_generated_captions.vtt"
+  }
+}

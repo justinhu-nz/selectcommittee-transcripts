@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:30.580100+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176756065",
+  "title": "vimeo_1176756065",
+  "url": "https://vimeo.com/1176756065",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758097",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1687.3,
+    "segment_count": 520,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_01 - EW - vimeo_1176756065\\2026_04_01 - EW - vimeo_1176756065.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176756065",
+    "display_id": "1176756065",
+    "title": "2026/04/01 - EW",
+    "description": "Wednesday 1 April 2026 | Education and Workforce Committee\n\nHealth and Safety at Work Amendment Bill\n\nSite Safe New Zealand Inc\n- Brett Murray, Chief Executive\n\nUnite Union\n- Gabriela Murray-Abarca                                                    \n- Shanna Olsen-Reeder, National Secretary\n\nMATES in Construction\n- John Chapman, CEO",
+    "webpage_url": "https://vimeo.com/1176756065",
+    "original_url": "https://vimeo.com/1176756065",
+    "upload_date": "20260331",
+    "timestamp": 1774985676,
+    "release_timestamp": 1774985683,
+    "duration": 1693,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2140747395-1d4916a4c6fdf08d499c25070f44bb8cb43e1fdb7c26ea60e421214433283e5d-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291702512.vtt?expires=1778506148&sig=45b063804bb7a7f45d3de651176312312af0c377&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:17.722980+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1192113652",
+  "title": "vimeo_1192113652",
+  "url": "https://vimeo.com/1192113652",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 14287.35,
+    "segment_count": 3428,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1192113652 - vimeo_1192113652\\vimeo_1192113652 - vimeo_1192113652.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1192113652",
+    "display_id": "1192113652",
+    "title": "2026/05/21 \u2013 TI",
+    "description": "21 May 2026 | Transport and Infrastructure Committee\nLife Jackets for Children and Young Persons Bill\nWater Safety New Zealand\n\nGlen Scanlon, Chief Executive\nAnna Tootil, Chairperson\n\nRecreation Aotearoa\n\nSam Newton, Advocacy Manager\n\nGraeme Edgeler\nKatherine (Katie) McNabb\nNZMarine Industry Association of New Zealand\n\nPeter Busfield, Advocacy Consultant\n\nSocial Justice Aotearoa\n\nJackie Foster, Chief Executive\n\nNick du Preez\nMax Marshall\nNavigation Safety Group \u2013 Harbourmasters\n\nGrant Nalder, Group Convenor\n\nJet Boating New Zealand Inc\n\nKatherine (Katie) McNabb, Representative on behalf of National Safety Officer Paul Vernel\n\nSteven Strong\nPetition of Free Fares NZ: Stop the proposed public transport fare hikes\nFree Fares NZ\n\nPatrick O\u2019Connor, Member \u2013 National Organising Team\nAntonio Salamat, Member \u2013 National Organising Team\nFrances Mounties, Member \u2013 National Organising Team\n\nReview briefing on the 2024/25 annual review of Genesis Energy Limited\nGenesis Energy Limited\n\nBarbara Chapman, Chairperson\nMalcolm Johns, Chief Executive\nMatthew Osborne, Chief Corporate Affairs Officer and Company Secretary",
+    "webpage_url": "https://vimeo.com/1192113652",
+    "original_url": "https://vimeo.com/1192113652",
+    "upload_date": "20260521",
+    "timestamp": 1779324393,
+    "release_timestamp": 1779324412,
+    "duration": 14287,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2159819479-955de332b6513021faef9f09179659b53f186168dc0f5f0e3d75eed6558bc5bb-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

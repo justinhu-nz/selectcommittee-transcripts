@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:14.280834+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159491924",
+  "title": "vimeo_1159491924",
+  "url": "https://vimeo.com/1159491924",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1549.19,
+    "segment_count": 533,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 02 12 Petitions - vimeo_1159491924\\2026 02 12 Petitions - vimeo_1159491924.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159491924",
+    "display_id": "1159491924",
+    "title": "2026 02 12 Petitions",
+    "description": "Petition of Michelle Pyke: Collection of age/gender/ethnicity data of jury panels by Ministry of Justice\n\nMichelle Pyke\n\nMinistry of Justice\n\nLison Harris, Policy Manager, Victims & Harm Reduction, Criminal Justice Unit\n\nOffice of the Chief Justice & Judicial Research Committee\n\nKieron McCarron, Chief Advisor Legal & Policy",
+    "webpage_url": "https://vimeo.com/1159491924",
+    "original_url": "https://vimeo.com/1159491924",
+    "upload_date": "20260212",
+    "timestamp": 1770864539,
+    "release_timestamp": 1770864547,
+    "duration": 1585,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2121123226-aa7fad391ee2b004806a2102a4ff933316d4308c31171d954eed941152504030-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/282306832.vtt?expires=1778504908&sig=cc24b66b00140c4e8d8521e56fd8a9c2789e50af&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:23.707367+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1173884691",
+  "title": "vimeo_1173884691",
+  "url": "https://vimeo.com/1173884691",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758100",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 15168.2,
+    "segment_count": 4262,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_17 ENV (Part 1) - vimeo_1173884691\\2026_03_17 ENV (Part 1) - vimeo_1173884691.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1173884691",
+    "display_id": "1173884691",
+    "title": "2026/03/17 ENV (Part 1)",
+    "description": "Tuesday, 17 March 2026 | Environment Committee\nPlanning Bill; Natural Environment Bill\nCatchment Communities Aotearoa\nBen Ensor, Chair\nStuart MacIntyre, General Manager\nHawkes Bay Regional Planning Committee\nCouncillor Hinewai Ormsby, Co-chairs\nTania Hopmans, Co-chairs\nWater New Zealand\nGillian Blythe, Chief Executive\nHelen Atkins, Barrister and former Past President of Water New Zealand\nUrban Design Forum\nEkin Sakin,\nJade McFarlane,\nGraeme Scott,\nEva Zombori,\nParininihi ki Waitotara\nSarah Mako,\nAlisha Ross\nNew Zealand Sport Fishing Council Inc.\nRowan Ashton, Special Counsel\nHobson's pledge\nDr Don Brash,\nMr Stephen Franks,\nMr Max Pakinga-Barber,\nTe Runanganui o Ngati Porou\nKeita Kohere, Chief Advisor\nTe Tai Kaha\nKingi Smiler, Chair\nLiz Mellish, Deputy Chair, Federation of M\u0101ori Authorities\nDr Mahina-a-rangi Baker, Technical Expert for Te Tai Kaha (Iwi Planner)\nDr Richard Meade, Technical Expert for Te Tai Kaha (Economist)\nAnne Carter, Te Tai Kaha M\u0101ori Collective Secretariat\nPapa Pounamu\nDion Luke, Co-Chair\nNew Zealand Freshwater Sciences Society\nDr Joanne Clapcott, President\nDr Richard Allibone, Vice President\nDr Jennifer Price, Submissions Coordinator\nGeoscience Society of New Zealand\nBruce Hayward, Geoheritage Subcommittee convenor",
+    "webpage_url": "https://vimeo.com/1173884691",
+    "original_url": "https://vimeo.com/1173884691",
+    "upload_date": "20260316",
+    "timestamp": 1773703080,
+    "release_timestamp": 1773703094,
+    "duration": 15168,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2134760500-aaccce1e2c48ab32a6b6e5d7d25f7a87d85b410100479c84970c09cffb719b76-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/288475737.vtt?expires=1778562521&sig=b76f43b1aaa256df3e2dcf58aba7e4bc90e8dd54&download=auto_generated_captions.vtt"
+  }
+}

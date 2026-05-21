@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:16.450745+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1166116910",
+  "title": "vimeo_1166116910",
+  "url": "https://vimeo.com/1166116910",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 8185.1,
+    "segment_count": 3016,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 02 23 FEC - vimeo_1166116910\\2026 02 23 FEC - vimeo_1166116910.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1166116910",
+    "display_id": "1166116910",
+    "title": "2026 02 23 FEC",
+    "description": "Monday 23 February 2026| Finance and Expenditure Committee\nBriefing on the response to the inquiry into banking competition\nThe Treasury\nJo Hughes, Deputy Secretary Economic Policy\nBudget Policy Statement 2026\nThe Royal College of Pathologists of Australasia\nA/Prof Diane Kenwright, RCPA Vice President - New Zealand\nFrances Cox-Wright, RCPA, Policy and Advocacy Manager - New Zealand\nThe Salvation Army\nPaul Barber, Principal Social Policy Analyst,\u00a0\u00a0Social Policy & Parliamentary Unit, The Salvation Army Te Ope Whakaora\nAna Ika, Social Policy Analyst with the Social Policy and Parliamentary Unit\nAdult and Community Education (ACE) Aotearoa\nHannah Pia Baral, CEO, Adult and Community Education (ACE) Aotearoa\nBronwyn Yates, Independent Chair, ACE Sector Steering Group (ASSG)\nCCS Disability Action\nPhoebe Eden-Mann, National Policy Analyst\nKaitiaki Hauora\nDr David Galler, Spokesperson\nGail Duncan, Founding member\nGood Shepherd New Zealand\nBrittany Goodwin, Senior Social Policy and Advocacy Advisor\nMedicines New Zealand\nDr Graeme Jarvis, CEO\nPeace Movement Aotearoa\nEdwina Hughes, Coordinator\nNew Zealand Taxpayers' Union\nJames Ross, Head of Policy and Legislative Affairs\nJordan Williams, Executive Director\nRay Deacon, Economist\nAustin Ellingham-Banks, Policy Adviser\nRetail NZ\nCarolyn Young, Chief Executive\nThe Opportunity Party\nQiulae Wong, Leader\nMana Mokopuna - Children's Commissioner\nDr Claire Achmad, Children's Commissioner",
+    "webpage_url": "https://vimeo.com/1166116910",
+    "original_url": "https://vimeo.com/1166116910",
+    "upload_date": "20260223",
+    "timestamp": 1771820790,
+    "release_timestamp": 1771820802,
+    "duration": 8186,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2125473977-bf023ca5df549c761625f07eda86fcc737d8d4a88d40f4aa84d6e84c09bd25cf-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/284118723.vtt?expires=1778562446&sig=5af4f8b9b722fb1c618a735ff6984c62f606d37c&download=auto_generated_captions.vtt"
+  }
+}

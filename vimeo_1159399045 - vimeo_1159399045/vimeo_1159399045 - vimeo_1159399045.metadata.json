@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:08.155339+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1159399045",
+  "title": "vimeo_1159399045",
+  "url": "https://vimeo.com/1159399045",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2661.64,
+    "segment_count": 1100,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_01_29 - FD (Part 2) - vimeo_1159399045\\2026_01_29 - FD (Part 2) - vimeo_1159399045.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1159399045",
+    "display_id": "1159399045",
+    "title": "2026/01/29 - FD (Part 2)",
+    "description": "Thursday 29 January 2026 | Foreign Affairs, Defence and Trade Committee\n\nBriefing on meetings with representative counterparts and government officials\n\nHearing of evidence:\n\nHon Todd McClay, Minister for Trade and Investment\n\nMinistry of Foreign Affairs and Trade\n Vangelis Vitalis, Deputy Secretary, Trade and Economic",
+    "webpage_url": "https://vimeo.com/1159399045",
+    "original_url": "https://vimeo.com/1159399045",
+    "upload_date": "20260128",
+    "timestamp": 1769638004,
+    "release_timestamp": 1769638011,
+    "duration": 2670,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2113881914-f81e5006c8a5453720d37f70c57f06776f324e8523ac56de8295ad3f87b98b09-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/279419436.vtt?expires=1778506040&sig=05cdbdc179d8f2969a32fedb85daa09ff0d4c224&download=auto_generated_captions.vtt"
+  }
+}

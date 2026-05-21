@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:42:40.858026+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1142780295",
+  "title": "vimeo_1142780295",
+  "url": "https://vimeo.com/1142780295",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758262",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2069.95,
+    "segment_count": 621,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2025_12_03 - MA (Part 5) - vimeo_1142780295\\2025_12_03 - MA (Part 5) - vimeo_1142780295.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1142780295",
+    "display_id": "1142780295",
+    "title": "2025/12/03 - MA (Part 5)",
+    "description": "Wednesday 3 December 2025 | M\u0101ori Affairs Committee\n\nBriefing on Te M\u0101t\u0101wai\n\nTe M\u0101t\u0101wai Poari\n\nBrenda Soutar, Hoa Toihau\nM\u0101tai Smith, Hoa Toihau\nKiwa Hammond, Mema Poari\nRuakiri Fairhall\n\n\nTe M\u0101t\u0101wai Kaimahi\n\nToko Kapea, Chief Executive (Acting)\nKarl Smith, Corporate Services Manager\nBasil Keane, Chief Advisor (Acting)\nMichelle Rikihana-Vieira, Communications Manager\nNate Brabender, Investments Manager\nWiremu Buurman, Principal Advisor\nUrsula Featherston, Senior Strategic Advisor\nNga Peita Hamilton-Katene, Board Secretary",
+    "webpage_url": "https://vimeo.com/1142780295",
+    "original_url": "https://vimeo.com/1142780295",
+    "upload_date": "20251203",
+    "timestamp": 1764736718,
+    "release_timestamp": 1764736726,
+    "duration": 2080,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2091282770-61e6929ec7327a372688686773111439a18cba6fec5c7700953f30b9bd338b7e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/269273174.vtt?expires=1778591088&sig=75908422fa3557b56296a431277467ff88ab160e&download=auto_generated_captions.vtt"
+  }
+}
