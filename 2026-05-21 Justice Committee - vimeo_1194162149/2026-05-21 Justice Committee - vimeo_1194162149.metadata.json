@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:46:59.026646+00:00",
+  "generated_at": "2026-05-21T10:08:07.289632+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1194162149",
   "title": "2026-05-21 Justice Committee",
@@ -7,7 +7,7 @@
   "published_at": "20260521",
   "published_display": "2026-05-21",
   "duration_seconds": 2984,
-  "source_labels": "Vimeo RSS nzparliament",
+  "source_labels": "Vimeo Video 1194162149",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
