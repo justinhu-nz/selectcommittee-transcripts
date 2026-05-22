@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:36.347641+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1179352511",
+  "title": "vimeo_1179352511",
+  "url": "https://vimeo.com/1179352511",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3499.44,
+    "segment_count": 1169,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_02 EDSI [Part 1] - vimeo_1179352511\\2026_04_02 EDSI [Part 1] - vimeo_1179352511.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1179352511",
+    "display_id": "1179352511",
+    "title": "2026/04/02 EDSI [Part 1]",
+    "description": "Thursday 2 April 2026 | Economic Development, Science and Innovation Committee\n\nReview briefing on the 2024/25 annual review of the New Zealand Tourism Board \n\nNew Zealand Tourism Board\n- Rene de Monchy, Chief Executive",
+    "webpage_url": "https://vimeo.com/1179352511",
+    "original_url": "https://vimeo.com/1179352511",
+    "upload_date": "20260401",
+    "timestamp": 1775078324,
+    "release_timestamp": 1775078339,
+    "duration": 3500,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2141218043-0055a6789e5605763ec8b09e1b869a40f4a2c4b70e81cf7de674ad2c1e0049f9-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291965206.vtt?expires=1778506182&sig=4635035d3dafd3a62d7fdcee785616f0b9e8315e&download=auto_generated_captions.vtt"
+  }
+}

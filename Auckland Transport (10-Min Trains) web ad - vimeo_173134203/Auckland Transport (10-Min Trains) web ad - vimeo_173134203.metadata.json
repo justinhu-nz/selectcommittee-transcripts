@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-22T05:45:31.567730+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_173134203",
+  "title": "Auckland Transport (10-Min Trains) web ad",
+  "url": "https://vimeo.com/173134203",
+  "published_at": "20160702",
+  "published_display": "2016-07-02",
+  "duration_seconds": 30,
+  "source_labels": "Vimeo Video 173134203",
+  "transcript": {
+    "source": "whisper",
+    "language": "en",
+    "duration_seconds": 30.016,
+    "segment_count": 6,
+    "source_vtt_path": null
+  }
+}

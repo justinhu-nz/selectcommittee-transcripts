@@ -1,0 +1,925 @@
+Title: vimeo_1192133067
+URL: https://vimeo.com/1192133067
+Published: Unknown
+Duration: 00:00:00
+
+[00:00:12] Just tell me what Silas is.
+[00:00:17] Son Silas.
+[00:00:19] Yeah.
+[00:00:20] His son.
+[00:00:27] Silas.
+[00:00:28] Silas.
+[00:00:28] Yeah.
+[00:00:48] Where'd
+[00:00:55] you see that note?
+[00:00:57] It was in
+[00:00:59] the documents. I don't know what part I saved it on.
+[00:01:02] Kia ora.
+[00:01:03] Kia ora.
+[00:01:26] All right. Welcome, Mr Sims. I'm Greg
+[00:01:30] O'Connor, I'm the chair of the committee, and I'll get the committee
+[00:01:34] to introduce themselves.
+[00:01:36] My name's Greg Lim. I'm an MP from Maungakiekie-Tāmaki.
+[00:01:39] I'm Paulo Garcia, National MP for New Lynn.
+[00:01:43] Kia ora. Celia Wade-Brown, Green List MP.
+[00:01:47] All right. And look, thank you for coming for us.
+[00:01:51] You've
+[00:01:52] come down from Warkworth, have you?
+[00:01:53] Yeah.
+[00:01:54] Yes. And before we start,
+[00:01:57] sympathy on behalf of the committee for the loss of Silas.
+[00:02:01] As we read the papers, I think every one of us could fully
+[00:02:05] understand
+[00:02:07] just how it must feel at the moment.
+[00:02:11] So look, if we could hear from you. We've got 10 minutes.
+[00:02:16] Take your papers as read, but very keen to hear from you.
+[00:02:20] Yep.
+[00:02:21] And leave time for questions if you
+[00:02:24] could.
+[00:02:24] Yep.
+[00:02:26] So thank you for the opportunity to speak today.
+[00:02:29] My name is Benjamin Sims. I'm the
+[00:02:32] petitioner.
+[00:02:33] I'm not a financial expert. I don't work in these industries.
+[00:02:37] I'm here through lived experience.
+[00:02:40] As a programmer, I have over 25 years of experience reviewing
+[00:02:43] requirements, identifying issues, and delivering solutions.
+[00:02:47] I have a deep understanding of the technical side of what I'm proposing.
+[00:02:51] Microphone. Just could-
+[00:02:53] We are-
+[00:02:53] ... you move the microphone a little bit closer towards. Thank you.
+[00:02:57] Sorry to trouble you.
+[00:02:57] We are here today because my son died after he and his mates,
+[00:03:01] all minors with no fake ID, were sold approximately
+[00:03:05] 62 standard drinks of alcohol in the three hours before his death.
+[00:03:09] Silas was not blameless in this, but he was failed by the businesses involved,
+[00:03:14] by the liquor licensing laws, and the banks that handle the payments.
+[00:03:18] I'm here for his younger brother's mates, who at 15 are
+[00:03:22] buying vapes from the local shops.
+[00:03:24] I'm here for all our tamariki who should not be able to buy restricted goods via
+[00:03:28] bank cards, but can with no friction from the banks.
+[00:03:32] Because when it comes to anything else,
+[00:03:34] money laundering, sanctions, fraud, the banks have built
+[00:03:38] sophisticated systems. But for minors buying alcohol, vapes,
+[00:03:42] fireworks, 17-year-olds gambling, any age-restricted
+[00:03:46] product, suddenly we're told the system's very complicated.
+[00:03:51] The committee has my written submission, so I will not repeat it.
+[00:03:54] I want to use my time to respond to the four submissions you have received.
+[00:03:59] I want to start with what the submissions say.
+[00:04:02] MBIE accepts the petition and raises a legitimate policy issue that some
+[00:04:06] forms of transaction blocking are technically feasible,
+[00:04:10] and that policy work will require ministerial direction.
+[00:04:14] The FMA accepts that issues can be examined from a conduct perspective under
+[00:04:17] COFI and points to product design pathways under that regime.
+[00:04:22] The NZBA, while opposing a mandatory regime,
+[00:04:26] confirms that banks already receive merchant category codes
+[00:04:30] for MasterCard and Visa transactions.
+[00:04:33] The Reserve Bank recognizes the importance of this issue.
+[00:04:37] All four submitters accept the problem is real, the technical
+[00:04:41] capability exists.
+[00:04:43] The remaining question is one of policy direction.
+[00:04:47] Square One, a Kiwi youth money app, blocks restricted merchants by
+[00:04:51] honest cards by default. Their own marketing asks, and I quote,
+[00:04:55] "How has no one done this yet?"
+[00:04:58] Revolut applies the same blocks on its under 18-year-old customer accounts,
+[00:05:02] and Xnoord Pay, a benefits platform
+[00:05:06] whose customers include ASB and BNZ,
+[00:05:09] applies category-based controls on payment cards.
+[00:05:13] The architecture is deployed. Question is, when will the major
+[00:05:17] banks implement it?
+[00:05:19] And the banks themselves have shown they can move quickly when there is a will.
+[00:05:24] After a ministerial letter in February '24, the entire
+[00:05:27] industry, all the major banks, rolled out confirmation of
+[00:05:31] payee code across personal banking.
+[00:05:36] Just over a year from ministerial direction to a new control deployed at every
+[00:05:40] major bank in the country. Capability is
+[00:05:44] not the question. The will is.
+[00:05:49] The Banking Association's main objection is that minors will simply use cash.
+[00:05:53] I want to address that briefly.
+[00:05:55] The petition has never claimed to be a final solution.
+[00:05:58] It's one additional layer of friction in a system that currently has none
+[00:06:02] at the payment levelThe Anti-Money Laundering Act
+[00:06:05] 2009 has not eliminated money laundering, yet no one proposes
+[00:06:09] repealing it on that basis.
+[00:06:12] The Banking Association's other objection is that supermarkets and other mixed
+[00:06:16] retailers cannot distinguish between restricted purchases from
+[00:06:20] ordinary ones. This is not a new problem, and the architecture for
+[00:06:24] solving it already exists. Visa's own merchant data standards
+[00:06:27] manuals
+[00:06:29] require service stations to use two different merchant category codes at the same
+[00:06:32] site,
+[00:06:33] one for fuel sold at unattended pumps and another for sales inside the shop.
+[00:06:38] The same pattern was set out in the UK's 2020 Alcohol Change Report
+[00:06:42] as a way to handle alcohol sales at supermarkets,
+[00:06:46] with a till switching to a restricted MCC where an age-restricted item
+[00:06:50] is in the basket.
+[00:06:52] The technology is solved. What is missing is the requirement to apply it to
+[00:06:56] age-restricted purchases.
+[00:06:59] I want to comment briefly on the Reserve Bank's flippant submission because
+[00:07:03] it sits in a different category from the other three.
+[00:07:06] It runs to one page. The central paragraph setting out the
+[00:07:10] bank's jurisdictional position is nearly identical to the one sent to me in
+[00:07:14] December 2025,
+[00:07:16] before my petition was public, before it was delivered to Parliament, before any
+[00:07:20] request to submit had been made.
+[00:07:23] Mm.
+[00:07:23] Its submission acknowledges that merchant classifications already exist, and I
+[00:07:27] quote, "To implement corporate card controls."
+[00:07:31] Same banks, same technology, same payment rails.
+[00:07:35] In use for corporate clients, just not for our kids.
+[00:07:39] Right.
+[00:07:40] It also tells us it does not concern itself with the subject matter of
+[00:07:44] transactions, except in the case of AML/CFT, where Parliament has
+[00:07:48] specifically legislated it must.
+[00:07:50] At the same time, the Reserve Bank currently has a public consultation open,
+[00:07:55] keeping cash local, in which it argues that providing cash services to
+[00:07:58] customers is a part of a bank's social license to operate in New Zealand.
+[00:08:04] When the Reserve Bank wishes to engage with banks
+[00:08:08] to for their customers, it invokes social license.
+[00:08:12] When asked to look at banks knowingly facilitating unlawful transaction,
+[00:08:16] it says it's not its concern.
+[00:08:18] What happened to social license?
+[00:08:22] One more point I want to put to the committee, which has not been raised in any of
+[00:08:26] the submissions before you.
+[00:08:28] Every major New Zealand bank requires the customers in standard terms and
+[00:08:32] conditions to use their accounts for only lawful purposes.
+[00:08:37] ANZ's current terms and conditions, published April 26, state, "You
+[00:08:41] must use any accounts, products, or services for a lawful
+[00:08:45] purpose." The same ANZ terms apply to business accounts.
+[00:08:49] Silas was in breach of his contract when he paid.
+[00:08:52] The businesses that took his payments were in breach of theirs.
+[00:08:58] The banks have sophisticated transaction monitoring systems for fraud and money
+[00:09:01] laundering applied to every account.
+[00:09:04] And looking at my son's transaction history, his spending pattern,
+[00:09:08] no rent, no wages, no bills, small purchases at the dairy,
+[00:09:12] school canteen, McDonald's, would have flagged him to any of these
+[00:09:16] systems as a teenager. The banks have the role.
+[00:09:20] They already scan for transactions. They have the data.
+[00:09:23] They have the technology. They have chosen not to connect them.
+[00:09:28] Before I close, I want to draw the committee's attention to one further matter.
+[00:09:33] Only four other parties have been invited to submit on this petition, various
+[00:09:36] regulators of the financial system and the body representing that industry.
+[00:09:41] But this petition, at its heart, is
+[00:09:44] not a question about financial regulation.
+[00:09:46] There's a question about preventing several hundred children and whether the
+[00:09:50] regulators and financial institutions should continue
+[00:09:54] to look the other way.
+[00:09:56] And on that question, the committee has not heard from any public health body-
+[00:10:00] Mm
+[00:10:00] ... harm reduction organization, youth advocacy group, consumer
+[00:10:04] protection body,
+[00:10:06] the hospitality or retail sectors, or any of the frontline agencies that deal with
+[00:10:09] the consequences when the system fails.
+[00:10:13] I raise this not as a criticism, but to be clear about whose voices have been
+[00:10:16] heard. I have raised this concern with the clerk of the committee, and the
+[00:10:20] committee is aware of this. I only mention it today so it is added to the public
+[00:10:24] record.
+[00:10:26] The only voice the committee will have heard on behalf of the young people for
+[00:10:29] proposed changes intended to protect is
+[00:10:31] mine. I am the parent of one of those
+[00:10:35] young people. Silas is no longer here,
+[00:10:39] so I'm speaking on his behalf
+[00:10:41] and on behalf of the parents
+[00:10:43] who have reached out to me and for the other kids this proposal will help.
+[00:10:48] I would ask the committee to weigh that in balance when considering the submissions
+[00:10:51] before it and when deciding what further evidence might be needed
+[00:10:56] before reporting back to the House.
+[00:10:59] I also want to make one practical offer before I close.
+[00:11:02] There are several ways banks could implement this.
+[00:11:06] I'm not looking for a solution. I'm looking for
+[00:11:09] a will.
+[00:11:10] I will be happy to join a regulator-led working group as an independent voice to
+[00:11:14] help work through this situation.
+[00:11:18] Before I finish, I just want to say something about my family.
+[00:11:21] Our family was the ordinary Kiwi family, two kids, two dogs.
+[00:11:25] We surf, fish, hunt, manage the boys' rugby teams, and play
+[00:11:29] sports.
+[00:11:30] We pay our mortgage. We pay our company and personal taxes, ACC
+[00:11:34] levels, council rates. We register and warrant our cars.
+[00:11:38] We hold up our end of the obligations we have as Kiwis to the government.
+[00:11:43] We are simply asking the government to ensure that the laws that already exist
+[00:11:47] are respected and upheld.
+[00:11:49] If that requires further laws to make those obligations explicit to the
+[00:11:53] regulators and to the industry, then new
+[00:11:56] legislation needs to be enacted.
+[00:11:59] New Zealand has a long history of being world-leading.
+[00:12:03] 1893, we became the first country to give all women the right to vote.
+[00:12:07] 1938, we built one of the first comprehensive social security
+[00:12:11] systems in the world.We're a small country, but we've not been a follower.
+[00:12:17] This petition asks the committee to recommend that New Zealand leads once again, to
+[00:12:21] be the first country to require that payment systems protect our
+[00:12:24] children from purchases that law already says they cannot
+[00:12:28] make.
+[00:12:29] On the night Silas died, they had his age, and they had the merchant category
+[00:12:33] code.
+[00:12:34] They authorized the payment.
+[00:12:38] Thank you, Chair. I'm happy to take any questions
+[00:12:41] you may have.
+[00:12:45] Well, I thank you for a very powerful submission.
+[00:12:48] And can I just say too that the way the committee
+[00:12:52] works, we get information, and that's not the end of
+[00:12:55] anything.
+[00:12:57] What we do is work on the information we get, and then
+[00:13:01] having heard the submissions, we then decide where we'll go and what we need to
+[00:13:05] hear from then. So don't think for a moment this is the end
+[00:13:09] of a process.
+[00:13:10] No.
+[00:13:10] This is part of a process.
+[00:13:12] And of course, hearing from you,
+[00:13:16] initially through your petition and now in person,
+[00:13:20] gives the committee the opportunity then to decide
+[00:13:25] what other, or what direction we'll take or who else we need to hear from.
+[00:13:29] So take that assurance that today is not the end of anything.
+[00:13:33] No.
+[00:13:33] Today is particularly a very strong submission-
+[00:13:37] Mm
+[00:13:38] ... the type that you've made.
+[00:13:39] Mm.
+[00:13:40] So members, questions?
+[00:13:42] No, just Ed, thank you very much. I've sat on
+[00:13:46] this committee for two and a half years now, that's been the most powerful
+[00:13:50] submission heard, so thank you.
+[00:13:52] I'm really keen just to hear why
+[00:13:56] this can't be done. So-
+[00:13:58] One, two last things, which I have cleared.
+[00:14:01] I've asked Anna with,
+[00:14:03] just so I want to know.
+[00:14:08] This is what I saw on my son's
+[00:14:11] statements the day after he died. Like-
+[00:14:17] Yeah
+[00:14:17] ... it's in black and white, the bank's not.
+[00:14:20] It's not some hidden piece of data,
+[00:14:24] it is restricted. It says it. It's restricted.
+[00:14:29] Mm.
+[00:14:32] It is.
+[00:14:33] Thank you very much for,
+[00:14:36] I mean, it must bring the pain up again to
+[00:14:40] talk about it, but thank you very much for
+[00:14:45] trying to step up to help other people.
+[00:14:49] I just wanted to know, this is not preempting whether we'll
+[00:14:53] decide to do it or not, but you
+[00:14:56] mentioned
+[00:14:58] the Public Health Authority. What were the other ones that you thought it would be
+[00:15:02] helpful for us to hear from? And then we can have a think about
+[00:15:05] that.
+[00:15:07] I think
+[00:15:10] definitely the police and the
+[00:15:12] public health authority, they have to deal with--
+[00:15:17] This is not about just about alcohol.
+[00:15:19] It's about,
+[00:15:20] when I referred to flippant for RBNZ,
+[00:15:25] they added in spray paint
+[00:15:28] as a fourth.
+[00:15:29] If that is a restricted item-
+[00:15:31] Yeah
+[00:15:31] ... then it shouldn't be-
+[00:15:33] Or nitrous oxide.
+[00:15:35] Exactly. Like it should-
+[00:15:36] Yeah
+[00:15:37] ... yeah.
+[00:15:40] I just think it needs a broad range and it's not just how much is this going to
+[00:15:43] cost and what's it going to look like to implement.
+[00:15:45] It's like what, apart from the
+[00:15:48] benefits, what are the other benefits?
+[00:15:50] Like it's, was it $9.6 billion the health
+[00:15:55] department estimates alcohol costs New Zealand a year?
+[00:15:59] A road death is, I think the NZTA says like
+[00:16:03] $12.5 million for a road
+[00:16:07] death.
+[00:16:09] New Zealand kids have a,
+[00:16:12] I think 78% are more likely to die in a
+[00:16:16] road death than
+[00:16:19] an adult
+[00:16:22] with drinking involved.
+[00:16:24] Yeah.
+[00:16:27] It
+[00:16:28] doesn't affect one sector. It affects the whole world,
+[00:16:32] well, whole of New Zealand.
+[00:16:35] Thank you.
+[00:16:36] All right. Look, thank you very much, Mr. Giver.
+[00:16:41] Ask the Banking Association,
+[00:16:44] New Zealand Banking Association, just to talk on behalf of the
+[00:16:48] sector, and again, assure you that this is not the end of
+[00:16:52] anything.
+[00:16:52] No.
+[00:16:52] It's very much a part of a process of
+[00:16:56] the committee deciding
+[00:16:59] where they go from here.
+[00:17:00] Thank you.
+[00:17:08] All right. Thank you again. You've heard our introductions.
+[00:17:11] I think we've read your submissions, but very keen to
+[00:17:15] hear from you.
+[00:17:16] Sure. Thank you, Mr. Chair. Tena koutou.
+[00:17:20] I'm Roger Beaumont. I'm the chief executive of the New Zealand Banking
+[00:17:24] Association.
+[00:17:25] And I'm joined today by our policy director, Sam Shute.
+[00:17:30] Thank you to the committee for the opportunity to present on the petition from
+[00:17:34] Ben Sims on payment blocks on age-restricted
+[00:17:38] purchases for under 18-year-olds.
+[00:17:41] Let me start by acknowledging the tragedy
+[00:17:46] of Silas Sims and express,
+[00:17:48] once again, my sympathy to Ben,
+[00:17:52] and his family for their loss. This is a truly
+[00:17:56] tragic situation, and we're very aware of
+[00:18:00] that.
+[00:18:02] There's been a significant amount of engagement with Ben,
+[00:18:06] across the banking sector,
+[00:18:09] since the tragic accident.
+[00:18:11] Both banks, Payments New Zealand, and
+[00:18:15] NZBA have had a large number of meetings and discussions
+[00:18:19] on this topicAs both an industry
+[00:18:22] and individually,
+[00:18:25] banks have given this very complex issue a lot
+[00:18:29] of thought, and we respect Ben's views
+[00:18:32] and his desire to see changes
+[00:18:35] that he hopes would prevent another tragedy like this occurring.
+[00:18:39] You would've read our submission
+[00:18:42] on the topic, which represents the industry's collective views after
+[00:18:46] several months of discussions and engagement with the
+[00:18:50] industry and Mr. Sims.
+[00:18:52] And I'll briefly, just to outline what I think are our key
+[00:18:56] points before opening it up for any questions or discussion.
+[00:19:00] Mm.
+[00:19:01] So the first point is about clear accountability.
+[00:19:05] The accountability for compliance with the law
+[00:19:10] must lie with retailers to ask for age verification.
+[00:19:15] Major retailers such as supermarkets have very strict
+[00:19:19] compliance policies. I'm sure all of us have experienced
+[00:19:22] purchasing alcohol in a supermarket, and the strict protocols even
+[00:19:26] for people like me, who are clearly over the age,
+[00:19:31] have to go through in that circumstance.
+[00:19:35] Retailers are the ones selling the product, and the onus
+[00:19:39] must be on them to verify the age of
+[00:19:43] the purchaser. The sale or-- and supply of
+[00:19:47] alcohol,
+[00:19:48] Improving Alcohol Regulation Amendment Bill is currently before
+[00:19:52] Parliament,
+[00:19:53] and that could provide robust,
+[00:19:57] an opportunity for more robust expectations of retailers
+[00:20:01] in regard to this.
+[00:20:03] Mm.
+[00:20:04] Secondly,
+[00:20:06] effectiveness of the proposal. Look, while we understand Mr.
+[00:20:10] Sims's view,
+[00:20:12] we do not believe that the proposal would be
+[00:20:16] effective in preventing minors from purchasing alcohol.
+[00:20:20] Minors have always been able to find ways to purchase
+[00:20:24] alcohol, and the workarounds for this policy
+[00:20:28] are very easy.
+[00:20:30] If this policy was in place, young people
+[00:20:33] would know their card would be declined,
+[00:20:36] and would either purchase with cash,
+[00:20:39] use someone else's card, or get someone
+[00:20:42] older and of age to purchase the
+[00:20:46] alcohol for them.
+[00:20:49] The third and final point is that, is about next generation
+[00:20:53] payments. So developing a card block
+[00:20:56] system right now is a complex process that
+[00:21:00] we estimate could take several years to implement.
+[00:21:04] With each bank needing to defer other work to
+[00:21:08] develop the functionality to allow that to happen.
+[00:21:12] And this is especially the case for EFTPOS cards, which
+[00:21:16] is a much older system than, for example,
+[00:21:20] credit or debit cards as they currently stand.
+[00:21:25] Payments New Zealand, which is the industry body that
+[00:21:28] runs, in simple terms, the payments system and
+[00:21:32] governs that,
+[00:21:35] they are working
+[00:21:38] on a payments modernization program,
+[00:21:42] Next Gen Payments, which should be able to, once it's in
+[00:21:46] place, more easily implement these
+[00:21:50] sorts of initiatives.
+[00:21:53] The Reserve Bank
+[00:21:55] has taken the lead on the payments modernization
+[00:21:59] initiatives,
+[00:22:00] and that's supported by the Commerce Commission and of course, Payments New
+[00:22:04] Zealand. So the Reserve Bank-led
+[00:22:07] workstream is still relatively new,
+[00:22:12] and there's no current timeline on that initiative.
+[00:22:16] But we believe that is the most appropriate
+[00:22:19] avenue to incorporate this program, if that's
+[00:22:23] what is wanted.
+[00:22:27] So in conclusion, the banking industry absolutely respects
+[00:22:31] the views of Mr. Sims,
+[00:22:33] but we do not believe that a card block would be
+[00:22:37] effective, and there are better ways to prevent minors from purchasing
+[00:22:41] alcohol.
+[00:22:43] So thank you for your consideration, and we're now happy to take questions.
+[00:22:47] All right. Thank you. Just first question.
+[00:22:51] Can I just ask, what percentage,
+[00:22:55] research-wise, of say, younger people now
+[00:22:58] using cards to purchase versus cash?
+[00:23:04] What is the industry
+[00:23:07] sort of knowledge there? Is it anecdotally would be most young
+[00:23:11] people use cards for most purchases.
+[00:23:15] Would that be a fair assumption?
+[00:23:16] Yeah, I think most purchases overall are typically
+[00:23:20] via a card rather than by cash.
+[00:23:23] Correct. But cash is a traditional
+[00:23:27] workaround for people that are wanting to get
+[00:23:30] around rules and restrictions.
+[00:23:32] And increasingly, there's a large number
+[00:23:36] of retail outlets don't take cash.
+[00:23:40] Now, I wonder what-- have you got any research on that
+[00:23:44] as to what percentage of retail outlets
+[00:23:48] now are cashless?
+[00:23:51] I don't have that information to hand. We could come back to you on that, Mr.
+[00:23:55] Chair. But it's a very small percentage of retail outlets
+[00:23:59] that don't take it. It typically tends to be
+[00:24:03] high turnover service retail environments such as cafes,
+[00:24:09] for quite low-value transactions often.
+[00:24:13] But I think I'm not aware of any liquor outlets, for
+[00:24:17] example, that are cashless.
+[00:24:21] Well, thank you.
+[00:24:22] Thank you-
+[00:24:22] Ms. Wade-Brown
+[00:24:24] ... very useful question, so I'll move on to my next one, seeing as you've
+[00:24:28] asked one. Great.
+[00:24:30] The Next Gen Payments work program.
+[00:24:33] Yes.
+[00:24:33] Can you give me some
+[00:24:36] stronger idea of the timeframe of that?
+[00:24:39] No, I simply can't. I'm sorry, Ms. Wade-Brown,
+[00:24:43] because that is a piece of work that was
+[00:24:47] well underway but is now being overseen by the Reserve
+[00:24:51] Bank. So the Reserve Bank are yet to publish
+[00:24:54] their timeframes or
+[00:24:57] any significant detail in terms of how that program of work
+[00:25:01] will look. But needless to say, it's not going to happen
+[00:25:07] in an immediate sense and will take some time to implement.
+[00:25:11] Okay.
+[00:25:13] Excuse me.
+[00:25:15] It was useful. I didn't see in detail the statements, but
+[00:25:19] there were a number of issues that
+[00:25:22] banks
+[00:25:25] do pick up. There are
+[00:25:29] issues when they're trying to help you budget.
+[00:25:33] I believe that they kind of show what categories different transactions
+[00:25:37] came in.
+[00:25:38] Have been somewhat involved in
+[00:25:42] some of the banks with estimating
+[00:25:47] the carbon intensity of their purchases with, used to be
+[00:25:51] Conscious Consumers, I think it's Cogo now.
+[00:25:56] I don't think we could argue that the banks don't know
+[00:26:00] what's being bought, could we?
+[00:26:03] Well, after the fact, they are able to do that analysis in
+[00:26:07] terms of the example that you're talking about, where you do an analysis
+[00:26:11] of the types of spending that you're doing.
+[00:26:13] But that's not necessarily-
+[00:26:16] You could, and I'm not saying you should, but
+[00:26:20] would a possibility be that the card
+[00:26:26] after a purchase that is age restricted,
+[00:26:30] like alcohol for-
+[00:26:32] Yes
+[00:26:32] ... a 15-year-old with a card or a 16-year-old.
+[00:26:37] Would it not be easier,
+[00:26:40] quite possible to block the use of that card?
+[00:26:46] Well, no, because that's
+[00:26:49] something that would need to be built and implemented.
+[00:26:53] So potentially, yes. But if you're talking about
+[00:26:57] the restriction flag that Ben was referring to
+[00:27:01] in Silas's bank statement that came up,
+[00:27:05] that restriction is not flagged at the moment of the
+[00:27:08] transaction. It's only identified when you
+[00:27:12] go into, say, your card
+[00:27:15] statement and click on the link to see what the nature or
+[00:27:19] detail of that transaction was. So-
+[00:27:21] I don't understand that. When you make the
+[00:27:25] transaction, there will be a record that, and it gets
+[00:27:28] all cleared overnight and so on. But there will be
+[00:27:32] information go to the bank about that, because otherwise how would they know?
+[00:27:36] Well, it's known-
+[00:27:38] Sorry, I used to work in banking. It's quite unknown really.
+[00:27:41] Yeah, but it's not able to be currently
+[00:27:44] flagged at the moment of the transaction.
+[00:27:47] It's a descriptor, if you like, of what the transaction is that the
+[00:27:51] customer sees-
+[00:27:52] It's not real time information
+[00:27:52] ... on their statement. It's not, yeah, that's exactly right.
+[00:27:55] So it gets added, what, at the end of the day, or?
+[00:27:58] It would depend on the bank's individual systems, but it's something that's there
+[00:28:02] as a reference point if the customer wants to know more
+[00:28:05] information about a purchase.
+[00:28:09] Now, we're assuming, well, just at the moment
+[00:28:13] we have the opportunity to maybe come back
+[00:28:16] to some...
+[00:28:19] Oh, sorry, Greg, you had a question. I'll give you a go.
+[00:28:23] Yeah, we're digging into the issue arm, Gad, which, I agree with you,
+[00:28:27] obviously there's no silver bullet.
+[00:28:29] No.
+[00:28:29] Appreciate, yeah, that of course.
+[00:28:30] In Silas's case, the retailers were
+[00:28:34] entirely culpable. They broke the law.
+[00:28:39] We're-
+[00:28:39] And were prosecuted.
+[00:28:40] Yeah.
+[00:28:41] Yes.
+[00:28:41] No, they weren't, actually.
+[00:28:43] Retailers weren't prosecuted?
+[00:28:44] They had their license suspended.
+[00:28:47] Their license conditions were-
+[00:28:48] Yeah.
+[00:28:49] Technically, somewhat, they were not prosecuted.
+[00:28:52] Okay. Yeah, so there's-
+[00:28:53] So they lost their trading license and they went on
+[00:28:57] Okay.
+[00:28:59] So essentially what we're looking for is yet another layer, right?
+[00:29:03] Just as a society, we want to put
+[00:29:07] every roadblock that we can
+[00:29:11] in front of young people who haven't yet developed
+[00:29:15] the risk assessment. And we all
+[00:29:19] remember those times.
+[00:29:23] What I think I'm hearing you say is that at the moment, the
+[00:29:27] technology literally doesn't exist-
+[00:29:30] Correct
+[00:29:30] ... for this kind of technology, and I see behind you-
+[00:29:33] Well, well-
+[00:29:33] ... Ben shaking his head. So that's really what I want to get to.
+[00:29:36] Well, it could be implemented, but
+[00:29:39] to do it as an industry-wide initiative, so that you
+[00:29:43] could say that this is rolled out across the industry-
+[00:29:46] Yeah
+[00:29:47] ... that's a massive undertaking and a massive piece of work and
+[00:29:51] a massive reprioritization.
+[00:29:54] And a technical build on... We have 17
+[00:29:58] members in our organization, 17 member banks.
+[00:30:01] Yeah.
+[00:30:01] So a technical rebuild times, well, certainly
+[00:30:04] 13 retail members, so times 13-
+[00:30:07] ... for the individual technical requirements
+[00:30:11] for those banks.
+[00:30:12] Yeah.
+[00:30:13] And what we're saying is that there's a complete revamp happening-
+[00:30:16] Coming, yeah
+[00:30:17] ... of the payment system, which is the next gen that we've referred
+[00:30:21] to, and we think the obvious and logical way to
+[00:30:25] put a capability like this-
+[00:30:27] Yeah
+[00:30:27] ... is into the brief for that new system-
+[00:30:31] Right
+[00:30:31] ... where all those changes could happen collectively.
+[00:30:35] Yeah. And what I heard you say is you don't have a timeframe on that yet.
+[00:30:38] Well, because the timeframe is not in our hands, Greg.
+[00:30:41] It's-
+[00:30:42] You got any sort of, are we talking 12 months, two years?
+[00:30:44] We're talking, no, we're probably talking a few years.
+[00:30:47] Few years.
+[00:30:47] Yeah. Yeah.
+[00:30:49] So then the question, so we're saying that in a few years' time, what Ben's
+[00:30:52] asking for will be able to be done, particularly if it's now flagged up.
+[00:30:56] But what we-
+[00:30:57] Potentially, if it's part of-
+[00:30:59] ... the brief for that new system.
+[00:31:00] Sure. Okay, so that's number one, is we need to make it part of the, well, look
+[00:31:02] into making it part of the brief.
+[00:31:04] Yeah.
+[00:31:04] And then the second thing is just
+[00:31:07] exploring,
+[00:31:08] Ben is saying that he believes that it can be done.
+[00:31:11] You're saying right now, yes, but with significant
+[00:31:15] cost to the industry for it. So that's really the part that's-
+[00:31:18] And look, this is not about cost.
+[00:31:20] This is about the
+[00:31:22] prioritization-And resourcing to implement.
+[00:31:26] Yeah.
+[00:31:26] And actually the
+[00:31:30] effectiveness of what the end result should be.
+[00:31:32] Because remember, at the end of the day, accountability
+[00:31:36] for this lands with the retailer looking in the eyes of the
+[00:31:40] customer-
+[00:31:41] Yeah
+[00:31:41] ... and deciding whether they're going to
+[00:31:44] identify proof of age. That is where the responsibility lies.
+[00:31:49] And so look, this is a really tough
+[00:31:53] conversation. I completely understand that.
+[00:31:55] And if banks could flick a switch and turn this
+[00:31:59] on, I'm sure all our banks would be willing to do that.
+[00:32:03] It's just not that simple.
+[00:32:05] It's a significant technical
+[00:32:08] stack build that takes a huge amount
+[00:32:12] of time and resource, which seems to
+[00:32:16] be a little bit unnecessary
+[00:32:20] when there is a solution coming that can provide that service and a whole
+[00:32:24] lot more.
+[00:32:25] Okay.
+[00:32:26] Oh, it said restricted purchase. So
+[00:32:30] is that standard?
+[00:32:34] So obviously I go into my
+[00:32:37] credit card and look to see what it is, or EFTPOS,
+[00:32:42] it'll come up if I've bought alcohol anywhere, will it always be
+[00:32:45] restricted purchase?
+[00:32:46] No, it won't, because if you've bought alcohol at the supermarket,
+[00:32:50] your groceries are not considered restricted purchases, so it won't come
+[00:32:54] up.
+[00:32:56] A $200 purchase at Woolworths will not come up as a restricted purchase.
+[00:32:59] What if I only went in and bought a bottle of wine?
+[00:33:02] I don't think that would occur either.
+[00:33:04] What products
+[00:33:04] ... because it's the merchant.
+[00:33:06] Yeah.
+[00:33:07] So with Silas's case,
+[00:33:11] they were able to identify that it was restricted purchase because it was at a
+[00:33:14] bottle store?
+[00:33:15] Because that was the-
+[00:33:16] ... yeah, the code that was given to that particular merchant.
+[00:33:19] And is that a decision by the merchant, or is that a
+[00:33:23] decision by the bank?
+[00:33:25] I
+[00:33:26] think that's a decision by the bank.
+[00:33:29] I'd need to check on that.
+[00:33:31] It's through the schemes.
+[00:33:32] It's through-- it's actually-- yes, that's a good point.
+[00:33:34] It's actually through the
+[00:33:37] credit or debit card scheme. So typically, MasterCard or Visa-
+[00:33:41] Yeah
+[00:33:41] ... will determine how that coding works.
+[00:33:44] And is that designed to protect me
+[00:33:48] from anyone knowing that I've been buying booze?
+[00:33:52] Huh.
+[00:33:53] Uh.
+[00:33:53] Or porn, or whatever else the restricted
+[00:33:57] purchase is likely to be. Why is that there?
+[00:34:00] You would have to ask the schemes what
+[00:34:04] their objective is with that.
+[00:34:07] Oh, it's an interesting one.
+[00:34:08] Yeah.
+[00:34:08] I'd be keen to know who determines what's a restricted
+[00:34:12] purchase.
+[00:34:13] And who determines-
+[00:34:15] Like guns, for example. Yeah. Yeah.
+[00:34:18] Would a firearm come up as a restricted purchase for that purpose?
+[00:34:22] Yeah.
+[00:34:22] Because the reason why I just sort of explore this,
+[00:34:26] in my day, and we're talking about the old
+[00:34:29] checks, the good old checks. Because if I ever went
+[00:34:33] in with a check to buy
+[00:34:35] booze-
+[00:34:36] Yes
+[00:34:37] ... or something, the
+[00:34:40] bank would be, well, I mean, to make sure to protect the
+[00:34:44] retailer, to protect themselves from being ripped off by a
+[00:34:48] dud check,
+[00:34:49] is going to
+[00:34:51] make all sorts of requirements, ID, et cetera.
+[00:34:55] Whereas now
+[00:34:58] with a card, while the retailer will be making sure,
+[00:35:02] protecting themselves legally,
+[00:35:05] actually as long as there's enough
+[00:35:08] money and the card goes through, then that's implied that,
+[00:35:12] well, it's not implied, that there is funds there, it will be paid.
+[00:35:16] But once again, the legal responsibility in that
+[00:35:20] moment lies with the retailer to determine that you're
+[00:35:25] of a legal age to purchase what you're purchasing.
+[00:35:28] It's not the financial institution's obligation.
+[00:35:35] And society puts the obligation on the retailer at the
+[00:35:39] moment.
+[00:35:39] Well, the law puts the obligation-
+[00:35:41] The law does, yeah
+[00:35:41] ... on the retailer.
+[00:35:42] And obviously what we're talking about here is the law putting some-
+[00:35:45] Yeah.
+[00:35:47] All right. No, you've clarified some things here.
+[00:35:50] Members, any other questions?
+[00:35:52] Thank you. All right. That's it. There was for the moment.
+[00:35:55] It may well be on our discussion we come back and ask some more questions, I think.
+[00:35:59] And we invite you for anything that you'd like to seek
+[00:36:02] clarification on.
+[00:36:03] It's been a very interesting discussion about this whole where the
+[00:36:08] point of
+[00:36:12] responsibility lies. Yeah.
+[00:36:15] All right. Thank you.
+[00:36:17] Thank you.
+[00:36:17] Thank you all.
+[00:36:17] Thank you committee.
+[00:36:20] Yeah.
+[00:36:20] Yeah. And Mr. Simms, was there anything?
+[00:36:22] I'd just invite you back to the table just to, oh,
+[00:36:26] you did. I noticed you were-
+[00:36:28] I just, yeah
+[00:36:29] ... you were exercising considerable restraint, so I'd-
+[00:36:32] Thank you
+[00:36:32] ... give you the opportunity.
+[00:36:35] I'd just like to point out two things.
+[00:36:37] So the MCC codes are
+[00:36:40] universal around the world. They're not Visa, they're not MasterCard.
+[00:36:44] So these are the codes around restricted purchases, are they?
+[00:36:48] So everything, every-
+[00:36:51] Retailer
+[00:36:51] ... when you use your EFTPOS card anywhere, every single merchant has
+[00:36:55] a MCC code, and so there'll be
+[00:36:59] florists,
+[00:37:02] retail, hardware.
+[00:37:04] And so everybody fits it. So an MCC code's basically an industry code.
+[00:37:07] Classification. It's a classification of your business.
+[00:37:09] Right.
+[00:37:09] Yeah.
+[00:37:11] So that's
+[00:37:12] a point. They're not specific to New Zealand.
+[00:37:14] They don't get made up for New Zealand.
+[00:37:16] Um,
+[00:37:18] and in terms-
+[00:37:18] So what's the
+[00:37:20] relationship between those codes and the restricted purchase codes?
+[00:37:23] Do they come under those codes?Oh, okay.
+[00:37:27] Yeah. So you'll have alcohol
+[00:37:31] outlet, which is known to be restricted.
+[00:37:34] So who-- I think the question is who determines what is a restricted, which of
+[00:37:37] those MCC codes get flagged?
+[00:37:41] They don't... Every,
+[00:37:43] Silas' account is not on my Kiwi Bank one.
+[00:37:47] They don't show them. So you might not see them when you look at
+[00:37:51] your card. Your-
+[00:37:52] Yeah, but on Silas'. So when you went in to dug into Silas'
+[00:37:56] card, this came up as a restricted purchase.
+[00:37:59] What the question I was seeking is that, is that a standard or is that-
+[00:38:03] Yeah, it would be a standard. So if you went to the same shop, you would get
+[00:38:06] restricted purchase.
+[00:38:07] But it's determined by the retailer? By the bank?
+[00:38:11] No, by the
+[00:38:13] acquiring,
+[00:38:15] like Wind Cave or Payment Express, by the
+[00:38:19] merchant-
+[00:38:20] The point of sale
+[00:38:21] ... that does the transaction,
+[00:38:23] the company that does the transaction.
+[00:38:25] Yeah. I'm still not quite understood. So I've got a bottle store.
+[00:38:28] Yeah.
+[00:38:28] Right? And I've-
+[00:38:30] I've
+[00:38:30] ... and next door I've got a dairy.
+[00:38:32] Yeah.
+[00:38:33] Mm-hmm.
+[00:38:33] Which is quite common, actually, so they'll be different businesses.
+[00:38:37] So if I buy a bottle of wine,
+[00:38:41] and then later on it'll come up as restricted purchase, but if I go
+[00:38:45] next door and buy milk and bread-
+[00:38:48] It's a convenience store or whatever the MCC code is-
+[00:38:51] Okay
+[00:38:51] ... is for that.
+[00:38:51] But who determines then-
+[00:38:54] Like the store
+[00:38:55] ... like the, who determines that it'll come up as a
+[00:38:59] restricted purchase?
+[00:39:01] Well, that's tied to the MCC code. So the convenience store,
+[00:39:04] they have a
+[00:39:06] code and a label.
+[00:39:09] Yeah. It's-
+[00:39:10] Yeah. Sorry, I might be being a bit obtuse.
+[00:39:14] I just can't work out that with Silas, you opened his-
+[00:39:18] Yeah
+[00:39:18] ... he, not everyone who made the same
+[00:39:22] purchases at different stores would necessarily have come
+[00:39:26] up with restricted purchase. So point by-
+[00:39:28] Yeah. Every, everybody that-
+[00:39:31] Buys alcohol
+[00:39:32] ... on that store.
+[00:39:33] That retailer is restricted. It's not-
+[00:39:35] Well, at that one or the one, other one down the road.
+[00:39:37] Sure, but it wasn't the connection between, there wasn't anything in the system
+[00:39:40] that was going, "This is a minor."
+[00:39:42] No.
+[00:39:43] Yeah.
+[00:39:43] No, it's a standard.
+[00:39:45] Just a retailer.
+[00:39:45] Yeah.
+[00:39:45] Okay.
+[00:39:46] And the others, so I just might have an answer to the-
+[00:39:49] Sorry, it's just that I think the size of it.
+[00:39:51] Yeah, but it's, it's, uh-
+[00:39:54] Just we just need that in the microphone. Thanks.
+[00:39:57] Just I think, just so I understand. It's complex.
+[00:40:00] It's, yeah, it's the categorizing of the merchant, not the product.
+[00:40:04] Yeah.
+[00:40:04] So if the merchant is a supermarket, and I think
+[00:40:08] the intention of most of this information is sort of data so that they could show
+[00:40:12] back for sales and that sort of stuff.
+[00:40:14] Or as the RBNZ said, for corporate card control.
+[00:40:17] Yeah.
+[00:40:17] So it's the merchant, not the product.
+[00:40:19] Yes. That's the key thing. So that's why
+[00:40:23] Liquorland that only sells alcohol-
+[00:40:26] Yeah
+[00:40:26] ... is flagged as an alcohol retailer and therefore maybe
+[00:40:30] a reason why the restricted bit comes in, whereas a supermarket would not
+[00:40:34] be flagged as, and get that flag because it's a supermarket-
+[00:40:37] Right
+[00:40:37] ... where you can buy a whole bunch of different things. It's not product specific.
+[00:40:41] Okay.
+[00:40:42] Just and I, yeah.
+[00:40:43] But, okay, so then who determines
+[00:40:47] what's in, what's out?
+[00:40:48] In terms of whether it's restricted or not?
+[00:40:51] That's not something up to the bank.
+[00:40:52] Don't know if anyone knows the exact answer on that one.
+[00:40:54] Well, I think that's quite key to-
+[00:40:56] Yeah
+[00:40:56] ... probably quite key to this, finding that out.
+[00:40:59] I think the thing I suggested-
+[00:41:00] Could you come back to it?
+[00:41:01] Okay. Could you come back to us on that and find out who determines that
+[00:41:05] the liquor store is in, but the
+[00:41:10] dairy is not.
+[00:41:12] Oh, yeah. Well, that's the categorization of the-
+[00:41:14] The international
+[00:41:14] ... merchant. So it's because it's a liquor store only selling liquor,
+[00:41:18] basically, that's why it's flagged as that.
+[00:41:19] Well, there'll always be every liquor store, specialist liquor store.
+[00:41:24] Exactly. Specialised.
+[00:41:25] Yeah.
+[00:41:25] Or tobacconist.
+[00:41:26] Yeah. So that's why they're kind of, because there are restrictions around
+[00:41:28] purchases, I think that's why they're flagged like that.
+[00:41:30] Whereas obvious, whereas you're not going to flag a convenience store
+[00:41:34] as a restricted base because they sell majority other things.
+[00:41:38] All right. So if we, because this is important-
+[00:41:40] Yeah
+[00:41:40] ... because if we recommended, so if,
+[00:41:44] Silas had bought his booze at the-
+[00:41:49] Supermarket
+[00:41:50] ... supermarket, it wouldn't have come up.
+[00:41:51] No.
+[00:41:52] As the-
+[00:41:52] No.
+[00:41:52] That sort of-
+[00:41:53] Nothing would
+[00:41:53] No, he wouldn't be able to at the supermarket. Yeah.
+[00:41:56] Yes. Well, exactly. It's a bank, it's having-
+[00:41:58] Yeah
+[00:41:58] ... excellent controls in place.
+[00:41:59] Yeah.
+[00:42:00] Yes.
+[00:42:01] All right.
+[00:42:02] So it would be possible to make...
+[00:42:06] I mean, and again, there is nothing that's going to do 100%, so I'm
+[00:42:10] not saying, but it would be possible to
+[00:42:14] block
+[00:42:16] purchases by an under 18-year-old at
+[00:42:20] a certain category of business rather than what--
+[00:42:24] So-
+[00:42:25] Yeah.
+[00:42:25] Yes
+[00:42:25] ... if a 16-year-old goes and buys a packet of crisps
+[00:42:29] or chippies-
+[00:42:30] Or chips
+[00:42:30] ... at
+[00:42:33] a liquor store, they might be declined.
+[00:42:35] I'm just imagining-
+[00:42:36] Technically it's illegal for them to go into one
+[00:42:39] ... but if they went to a supermarket, it would be fairly tight.
+[00:42:43] And frankly, dairies have been tightened up so much
+[00:42:47] about selling alcohol over the last few years.
+[00:42:50] One of the bigger problems is the fact that there isn't a flag of the age
+[00:42:54] of the person with the card system itself.
+[00:42:57] So that's why a block is- That was the- ... more complex that way ...
+[00:43:00] my second- Yeah, yeah ... second thing I was coming to, like in the payment
+[00:43:04] flow, all the data is known.
+[00:43:07] But not all the pieces of data might be given at each
+[00:43:11] step. But at any point in the payment flow-
+[00:43:16] Mm
+[00:43:16] ... there is all the pieces of data.
+[00:43:18] So all, when it says impossible or it's very, very difficult,
+[00:43:22] all the data's there, they just have to be connected.
+[00:43:26] Yeah.
+[00:43:26] As a programmer-I know that. It's not rocket
+[00:43:30] science.
+[00:43:31] All right. Look,
+[00:43:33] sorry, we've got some other people-
+[00:43:35] We can come back to you
+[00:43:36] But if there's anything else, feel free.
+[00:43:38] If there's anything else you think we should know just before you do finish, we're
+[00:43:42] happy, but we'll just-
+[00:43:44] I'm happy to answer any questions via email or
+[00:43:46] All right. No, this has been...
+[00:43:50] Sorry, if I can just add one point just in terms of that point about the
+[00:43:54] proof of age, just to be really clear.
+[00:43:57] So the age, your age, is not
+[00:44:01] held in the detail of your credit card when you're making a credit card
+[00:44:05] purchase. Your bank knows your date of birth, but that's kept in the
+[00:44:09] customer relationship management, which is a separate
+[00:44:12] system, that that information is not
+[00:44:15] exchanged with your card
+[00:44:19] and certainly not linked at a point of
+[00:44:23] purchase. So,
+[00:44:24] that is the complexity of the various
+[00:44:28] points of information being exchanged with each other.
+[00:44:32] It's not integrated in that sense currently. All right.
+[00:44:35] Look, thank you. And it may well be in our discussions we do decide we do need
+[00:44:39] a little bit more, but this has been a-
+[00:44:41] One tonal extra thing.
+[00:44:44] I would imagine that the
+[00:44:48] bank sensation would've been sitting here in 2005, 2007,
+[00:44:52] arguing exactly the same thing about the AMFL, AML,
+[00:44:56] CFT, counter-terrorism. It's nothing to do with us. We're just handling the money.
+[00:45:00] We shouldn't have to worry about where the money came from.
+[00:45:06] It's the same thing.
+[00:45:07] Point well made. All right, look, thank you very much,
+[00:45:11] everyone.
+[00:45:13] Probably one of our more informative sessions we've
+[00:45:17] had. So we certainly
+[00:45:19] go into our discussions much better informed than we went in.
+[00:45:23] So thank you very much for your flexibility in
+[00:45:27] allowing us to
+[00:45:29] dig deep.
+[00:45:31] Thank you.
+[00:45:31] Thanks a lot.
+[00:45:32] Thanks

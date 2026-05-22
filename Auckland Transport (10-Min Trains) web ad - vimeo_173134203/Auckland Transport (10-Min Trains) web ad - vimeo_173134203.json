@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "duration": 30.016,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "text": "All the Bucklin trains had come a long way since back in the day."
+    },
+    {
+      "start": 6.8,
+      "end": 11.52,
+      "text": "First they went electric and masses of people joined the movement."
+    },
+    {
+      "start": 11.52,
+      "end": 15.6,
+      "text": "Now we're in the midst of the 10-minute train revolution."
+    },
+    {
+      "start": 15.6,
+      "end": 19.68,
+      "text": "Yes, this is our time. Peek time."
+    },
+    {
+      "start": 19.68,
+      "end": 24.16,
+      "text": "Trains every 10 minutes. It's truly liberating."
+    },
+    {
+      "start": 24.16,
+      "end": 30.02,
+      "text": "The 10-minute train revolution. Join the movement."
+    }
+  ]
+}

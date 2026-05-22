@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:01.926531+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1168695757",
+  "title": "vimeo_1168695757",
+  "url": "https://vimeo.com/1168695757",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 5944.59,
+    "segment_count": 2164,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_02_27 GA Subcommittee B [Part 4] - vimeo_1168695757\\2026_02_27 GA Subcommittee B [Part 4] - vimeo_1168695757.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1168695757",
+    "display_id": "1168695757",
+    "title": "2026/02/27 GA Subcommittee B [Part 4]",
+    "description": "Friday 27 February 2026 | Governance and Administration Subcommittee B\n\nEmergency Management Bill (No 2)\n\n\ufeffDisability Connect\n- Mike Potter\n\nAnimal Evac New Zealand\n- Dr Steve Glassey\n\nEarth Sciences New Zealand\n- Graham Leonard\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Andrew Tait\n\nBay of Plenty Emergency Management Group\n- Mayor Faylene Tunui\n\nGeneral Practice New Zealand\n- Justin Butcher, Deputy Chair\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Maura Thompson, CEO\n\nJohn Cruden\n\nRaukawa Charitable Trust\n- Ashanti Neems, National Strategy Manager\n\n\u00c1ine Kelly-Costello\n\nMana Mokopuna - Children's Commission\n- Dr Claire Achmad, Children's Commissioner\n\nRetail NZ\n- Carolyn Young, Chief Executive\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n- Denise Garland, Advocacy, Advice and Communications Manager\n\nTe Tira Whakamataki\n- Simon Lambert, Chief Scientist\n- Tash Wanoa, Hono\n- Hinemoa K\u0101tene",
+    "webpage_url": "https://vimeo.com/1168695757",
+    "original_url": "https://vimeo.com/1168695757",
+    "upload_date": "20260227",
+    "timestamp": 1772163862,
+    "release_timestamp": 1772163870,
+    "duration": 5945,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2128105179-10c01b92fab0fab6d0cc97dd6ebf505308bd840c4ed606c64d3a8871acbfe1cd-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/285060261.vtt?expires=1778505051&sig=18e0975dad999d0d1eb2eb095b32851f426a491d&download=auto_generated_captions.vtt"
+  }
+}

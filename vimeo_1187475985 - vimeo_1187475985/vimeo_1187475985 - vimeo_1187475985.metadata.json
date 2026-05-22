@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-22T05:52:06.290793+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1187475985",
+  "title": "vimeo_1187475985",
+  "url": "https://vimeo.com/1187475985",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758270",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2819.89,
+    "segment_count": 892,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\29_04_2026 - SSC (Part 2) - vimeo_1187475985\\29_04_2026 - SSC (Part 2) - vimeo_1187475985.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1187475985",
+    "display_id": "1187475985",
+    "title": "29/04/2026 - SSC (Part 2)",
+    "description": "Ministry for Pacific Peoples, Long-Term Insights Briefing 2025\nMinistry for Pacific Peoples\nGerardine Clifford-Lidstone, Secretary, Ministry for Pacific Peoples\nBernadette Scanlon, Deputy Secretary, Policy and Insights, Ministry for Pacific Peoples",
+    "webpage_url": "https://vimeo.com/1187475985",
+    "original_url": "https://vimeo.com/1187475985",
+    "upload_date": "20260429",
+    "timestamp": 1777427628,
+    "release_timestamp": 1777427636,
+    "duration": 2824,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2151587141-1ac7566e754c39716e9b7d4a72a3d335d33699ab8c785659346d3d67f839344e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297465525.vtt?expires=1778504957&sig=45b5b0805b7e3f09e5273a0052a02c8312bf5180&download=auto_generated_captions.vtt"
+  }
+}

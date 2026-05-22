@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-05-21T08:43:37.394843+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1178255197",
+  "title": "vimeo_1178255197",
+  "url": "https://vimeo.com/1178255197",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758044",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 7706.49,
+    "segment_count": 2250,
+    "source_vtt_path": "C:\\Users\\Plexi\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_03_30 - EW Subcommittee A [Part 2] - vimeo_1178255197\\2026_03_30 - EW Subcommittee A [Part 2] - vimeo_1178255197.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1178255197",
+    "display_id": "1178255197",
+    "title": "2026/03/30 - EW Subcommittee A [Part 2]",
+    "description": "Monday 30 March 2026 | Education and Workforce subcommittee A\n\nHealth and Safety at Work Amendment Bill\n\nNew Zealand Council of Trade Unions Te Kauae Kaimahi\n- Sandra Grey, President\n- Cory Bourne, Team Leader Policy\n\nCultureshift NZ Ltd\n- Allan Halse, Director\n\nNew Zealand Professional Firefighters Union\n- Wattie Watson, National Secretary\n\nGM Safety Forum\n- Max Riley\n- Rob Mair\n\nHS Education Forum\n- Dave Moore\n- Mia Alunno\n\nJane Peymen\n\nNew Zealand Occupational Hygiene Society (NZOHS)\n- Miriska Gerber, President\n- Nadine Barnard\n\nZoran Rakovic\n\nStand Up youth union movement\n- Xavier Walsh, Co-Convenor\n\nNew Zealand Plant Producers\n- Matthew Dolan\n\nRail Maritime Transport Union\n- Karen Fletcher\n\nLily Hall Butcher\n\nWorkdek NZ Ltd\n- Dave Simmons, Director\n\nNew Zealand Institute of Safety Management (NZISM)\n- Robyn Bennett, Chair\n- Jeff Sissons, CEO\n- Mike Cosman, Law Reform Working Group Chair",
+    "webpage_url": "https://vimeo.com/1178255197",
+    "original_url": "https://vimeo.com/1178255197",
+    "upload_date": "20260329",
+    "timestamp": 1774827278,
+    "release_timestamp": 1774827288,
+    "duration": 7707,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2140247464-263d9266ee86c1e70913e5be6d5821c6b19370efa2bf75a06ffb49888676bfde-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/291233473.vtt?expires=1778562590&sig=e6a4869de9e4f50aa7e63a58db39a2c42a537482&download=auto_generated_captions.vtt"
+  }
+}

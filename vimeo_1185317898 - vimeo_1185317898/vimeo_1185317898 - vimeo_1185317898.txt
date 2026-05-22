@@ -1,0 +1,2276 @@
+Title: vimeo_1185317898
+URL: https://vimeo.com/1185317898
+Published: Unknown
+Duration: 00:00:00
+
+[00:01:50] And Michael Kilkelly joining us.
+[00:01:53] Get set.
+[00:01:54] Karen,
+[00:01:55] we have 10 minutes with you this morning. That includes time for questions.
+[00:01:59] Pass it over to you now.
+[00:02:02] Thank you. Mauri ora koutou.
+[00:02:04] We're both members of the National Employment Law Committee of the New Zealand Law
+[00:02:07] Society, Te Kāhui Ture o Aotearoa.
+[00:02:11] I'm a barrister in Wellington. I've got over 30 years experience in employment
+[00:02:15] law, which covers two Holidays Acts and two decades in large
+[00:02:19] law firms. And Michael is an associate with Meredith Connell in Auckland, and
+[00:02:23] prior to that he was a judge's clerk in the Employment Court in Auckland.
+[00:02:28] The approach taken by the New Zealand Law Society when commenting on proposed
+[00:02:32] legislation is a neutral one in terms of policy.
+[00:02:35] So we're seeking to provide you with feedback on the workability
+[00:02:39] of the legislation, identifying potential issues in drafting.
+[00:02:43] And as lawyers, our natural
+[00:02:46] review mechanism is to think about how we might explain it to our clients.
+[00:02:51] Mm-hmm.
+[00:02:52] Our written submission makes a number of comments that are directed to the
+[00:02:55] predictability and certainty of the proposed legislation, but we'll focus
+[00:02:59] only on three of those points today, and then leave a few minutes
+[00:03:03] for questions from you.
+[00:03:06] So I'll start with the standard hours point that we make in our submission.
+[00:03:10] The bill is premised on standard hours being specified in
+[00:03:14] an employment agreement roster or notional roster, and that's the
+[00:03:17] baseline or foundation for annual leave, public holidays, bereavement
+[00:03:21] leave, sick leave, domestic violence leave, et cetera.
+[00:03:24] So it's really important as a concept in this draft
+[00:03:27] legislation.
+[00:03:29] So just to start with a practical issue.
+[00:03:31] At the moment, standard hours isn't required in
+[00:03:35] employment agreements. The Employment Relations Act brings in more
+[00:03:39] flexibility than that, and it refers to a requirement to
+[00:03:43] include an indication of the arrangements relating to the times the employee is
+[00:03:46] to work. So you see some quite flexible and fluid clauses at the
+[00:03:50] moment in employment agreements.
+[00:03:53] So there's going to be some transition needed if we go with the standard hours
+[00:03:57] notion from what currently is quite flexible and where
+[00:04:01] many employment agreements won't have standard or set hours
+[00:04:05] specified, and it's not quite clear how that transition's going to be
+[00:04:08] addressed.
+[00:04:10] This leads to the second issue about standard hours, which is the bill requires
+[00:04:14] that, but doesn't provide a fallback
+[00:04:17] mechanism if the hours aren't specified in any of those
+[00:04:21] ways. So where the employer and employee simply don't agree and they stick with
+[00:04:25] their current employment agreement, what happens then?
+[00:04:29] The third issue is whether the standard hours truly reflect what the employee
+[00:04:33] works. And I listened earlier this morning to some of the industry submissions,
+[00:04:37] which have explained the implication of that for how
+[00:04:41] the time off part of leave is calculated.
+[00:04:45] For the Law Society, our concern is twofold.
+[00:04:48] First is that the standard hours might not reflect the current reality, but
+[00:04:52] second, the, shall we say, less honorable employers might deliberately
+[00:04:56] set low standard hours knowing that the employees will
+[00:05:00] happily voluntarily work additional hours-
+[00:05:02] Mm-hmm
+[00:05:03] ... in order to boost their pay to that point.
+[00:05:06] But that means they don't have annual leave and the other actual time off
+[00:05:10] entitlements that accrue at the rate that they're actually working.
+[00:05:16] The second point I'm going to touch on is what we colloquially know as
+[00:05:20] time and a half, for payment on public holidays.
+[00:05:24] If I can be frank, the clause relating to that,
+[00:05:27] 124, it's quite long. It has cross-references
+[00:05:31] in itself,
+[00:05:33] and references between some clauses that are quite difficult to follow.
+[00:05:36] It's one of those
+[00:05:38] clauses that you read and you wonder how you might actually explain that to anybody
+[00:05:42] in terms of how it's meant to work. So it is complicated.
+[00:05:45] The second point about it is that there are two
+[00:05:48] mechanisms for the time and a half.
+[00:05:50] So there's one for time,
+[00:05:52] and that's what the employer's required to pay the employee for each hour
+[00:05:56] worked. And then the half has a different calculation,
+[00:06:00] and that's greater of 50% of the employee's ordinary hourly
+[00:06:04] rate and any identifiable amount.
+[00:06:06] So you're doing one calculation for the time and then another one for the half.
+[00:06:09] And I'm by no means a payroll expert, but I think that's going to
+[00:06:13] complicate things as people try to put this in
+[00:06:16] practice.So that,
+[00:06:20] yeah, those calculation parts might not be the same, which risks the
+[00:06:24] calculations being very complex to do.
+[00:06:28] So I'll hand over to Michael now to talk about our final point,
+[00:06:32] which is the remediation issue.
+[00:06:34] Thank you, Karen, and good morning, everyone.
+[00:06:37] So I'm just going to speak to you briefly about the proposed
+[00:06:41] remediation process for outstanding liabilities under the Holidays Act,
+[00:06:45] and those provisions are at Clause 156 in Schedule 3 of the bill.
+[00:06:50] It's proposed that that process will have retrospective effect and could be used to
+[00:06:54] remediate underpayments and payment failures, which, for whatever
+[00:06:58] reason, have occurred up to four years prior to the bill receiving the Royal
+[00:07:02] Assent.
+[00:07:03] We're concerned that the material relating to the bill does not discuss whether the
+[00:07:07] retrospective provisions are appropriate.
+[00:07:10] There does not seem to be any consideration of whether
+[00:07:13] retrospectivity can adversely impact either employers or
+[00:07:17] employees. For example, by reducing or extinguishing some
+[00:07:21] employees' statutory entitlements.
+[00:07:24] Second, whether the extent of the retrospectivity is appropriate or if it
+[00:07:28] requires adjustment,
+[00:07:30] and third, whether this process could upset
+[00:07:33] or lead to relitigation of settled matters.
+[00:07:38] We also have concerns as to whether it is appropriate to prescribe
+[00:07:42] the substantive content
+[00:07:44] of those retrospective provisions through regulations
+[00:07:48] rather than through primary legislation, because regulations would not be
+[00:07:52] subject to the same level of public and parliamentary
+[00:07:55] scrutiny.
+[00:07:57] Those concerns are heightened as the bill does not require the minister to
+[00:08:01] undertake public consultation on the draft
+[00:08:05] regulations in circumstances where statutory entitlements are
+[00:08:08] impacted.
+[00:08:11] Finally, we have concerns about regulations that would specify a
+[00:08:14] minimum amount payable, a term that is
+[00:08:19] in that undefined category that I just spoke about, will be defined through the
+[00:08:22] regulations, because the regulations would not be subject to the same
+[00:08:26] level of parliamentary and public scrutiny.
+[00:08:30] This would mean an employer would not be required to make a remediation payment to
+[00:08:34] an employee whose entitlement is below this threshold.
+[00:08:37] It raises fairness concerns as the threshold could bar an
+[00:08:41] employee from receiving a payment they are otherwise entitled to receive,
+[00:08:45] no matter how small the amount. Those concerns are heightened
+[00:08:49] because we do not know at what level that threshold will be set or how it will be
+[00:08:53] calculated.
+[00:08:54] And a similar concern arises around the concept of reasonable compensation,
+[00:08:59] given that also appears to contemplate something less than their existing
+[00:09:03] statutory entitlements.
+[00:09:05] We advise you to
+[00:09:07] seek advice on those matters and to consider whether amendments are
+[00:09:11] necessary to address those concerns.
+[00:09:14] I'll hand over for questions if there's any time.
+[00:09:16] Thank you very much. We do have a short amount of time,
+[00:09:20] but we do have one question. I was going to say, it doesn't appear we have any.
+[00:09:23] We have a question from Jan Tinetti.
+[00:09:25] Thank you. Thank you, Madam Chair, and thank you very much for your
+[00:09:29] submission.
+[00:09:30] It kind of backs up, in many respects, what some of the
+[00:09:35] industry bodies have been saying, as you said.
+[00:09:38] Just one thing I want to get there, you talked about if there
+[00:09:42] is not so savory employers as such and what
+[00:09:46] they might do in this situation. To put it in simple terms, would
+[00:09:50] that be... And I'm trying to get my head around this too.
+[00:09:54] Does that mean that they could be incentivizing
+[00:09:57] part-time and casualization workers in this particular case
+[00:10:01] because it could mean that they're paying out less in the annual leave?
+[00:10:07] To answer that vaguely, yes, possibly.
+[00:10:10] But also you could have full-time employees
+[00:10:14] who
+[00:10:15] are put on, say, 35 or 30 hours a week.
+[00:10:19] It may be that you're thinking of that as part-time, which is probably right, but
+[00:10:23] work greater hours than that. So they might, say,
+[00:10:27] have the standard hours of 30 or 35 in their agreement, but
+[00:10:31] work much more than that and on a regular basis.
+[00:10:35] And
+[00:10:36] I think there is a possibility of
+[00:10:40] some, and I'm hesitating to use this word, but some abuse of the
+[00:10:44] system,
+[00:10:46] particularly by unscrupulous employers who are trying to limit how
+[00:10:50] much time off people actually have, particularly if they have to bring in
+[00:10:53] replacement employees at a higher cost.
+[00:10:56] Great. Thank you.
+[00:10:57] Thank you for that. And a question from Lawrence Yunane.
+[00:10:59] Thank you, Madam Chair. Just a very quick question regarding the
+[00:11:03] standard hours as well. Do you have any data or
+[00:11:07] what is your understanding of the current average
+[00:11:12] hours that employees actually work a week?
+[00:11:15] And potentially, is it greater than the standard hours that
+[00:11:19] we're seeing now? The reason I ask this question is, we
+[00:11:23] hear anecdotally, but I want to check if there's any data to say that people are
+[00:11:27] working longer and longer hours that are
+[00:11:30] unseen or unaccounted for in their contract.
+[00:11:35] That's not data that the Law Society would hold.
+[00:11:38] So the answer to your question is no, we don't have that data.
+[00:11:42] It might be held by the
+[00:11:44] Victoria University Employment Relations Centre.
+[00:11:47] They do an annual analysis of collective agreements and what provisions are in
+[00:11:51] those. So the data may be somewhere, but it's not held by us, I'm afraid.
+[00:11:55] Thank you. We might look into that. Thank you so much.
+[00:11:59] All right. Thank you very much. We appreciate your participation in the
+[00:12:02] process and your very constructive and helpful submission.
+[00:12:06] So thank you again.
+[00:12:08] Thank you.
+[00:12:08] We'll move on now to of a similar theme, Simpson Grierson.
+[00:12:13] We have Rachel Judge and Mike Mercer joining us.
+[00:12:19] Rachel and Mike, we have 10 minutes with you this morning, and that
+[00:12:23] includes time for questions.
+[00:12:27] Thank you. Tena koutou katoa. I am Rachel Judge, a
+[00:12:31] partner at Simpson Grierson, and I'm presenting with my colleague,
+[00:12:34] Mike Mercer, Senior Associate. We have both been
+[00:12:38] heavily involved in advising on the current Holidays Act and
+[00:12:42] assisting clients through their remediation processes.
+[00:12:46] And we thank you for the opportunity to present our oral submission today on
+[00:12:50] behalf of Simpson Grierson. This submission has been
+[00:12:54] informed by feedback from a number of our clients and
+[00:12:59] also, in line with what Karen's just spoken to, our own
+[00:13:02] observations as lawyers as to where complexities may
+[00:13:06] arise based on the wording of the current bill.
+[00:13:09] At the outset, I do want to note that Simpson Grierson
+[00:13:13] supports the core objectives of the bill.
+[00:13:16] We have been actively advocating for many of these
+[00:13:19] changes for a number of years. In particular, the move to an
+[00:13:23] hours-based accrual model and the simplification of
+[00:13:27] leave payment calculations. That said, there are
+[00:13:31] some aspects of the bill that are likely to pose some compliance
+[00:13:35] issues for employers, and particularly those with
+[00:13:38] complex workforces. So we do consider that there
+[00:13:42] is room for the Bill to potentially include some options to
+[00:13:46] address some of those issues. And we wish to comment on three
+[00:13:50] key issues from our written submissions where we have made
+[00:13:54] recommendations. Those are the notional roster,
+[00:13:58] the mandatory standard hours versus additional
+[00:14:02] hours leave compensation payment approach, which we'll refer to
+[00:14:06] as LCP, and the issue of strike action during the
+[00:14:10] transitional period.
+[00:14:12] So just turning to the notional roster framework to
+[00:14:16] start with. This applies to determine leave
+[00:14:20] entitlements where an employee's standard hours or days
+[00:14:24] of work cannot be readily identified.
+[00:14:27] And while the policy intent is understood, we submit that
+[00:14:31] the framework as drafted may not be workable in
+[00:14:34] practice for many employers. Clause nine, for
+[00:14:38] example, requires that a notional roster is agreed
+[00:14:42] in writing and kept up to date. In workplaces where
+[00:14:46] hours are variable or change frequently, that will be
+[00:14:49] difficult, if not impossible, to apply.
+[00:14:53] The combination of a requirement for agreement and then
+[00:14:56] continual updating risks continuous negotiation,
+[00:15:00] creating significant administrative burden and also
+[00:15:04] employee relations issues flowing from all of that.
+[00:15:09] For large employers, and particularly those with unionized workforces,
+[00:15:12] this is unlikely to be practicable.
+[00:15:15] There is also a level of uncertainty in the role a notional
+[00:15:19] roster is intended to play. Although it's described as
+[00:15:23] notional, the provisions do require it to
+[00:15:26] reflect actual working patterns to a certain extent and to be
+[00:15:30] revised as those patterns change.
+[00:15:33] So this risks blurring the distinction between a genuine
+[00:15:37] notional construct and an operational roster,
+[00:15:41] and in our view, risks undermining the purpose of introducing
+[00:15:45] a simplified mechanism in the first place.
+[00:15:49] We recognize that there is provision at clauses 10 and 11
+[00:15:53] for a labor inspector to determine a notional roster where
+[00:15:56] agreement cannot be reached, but we consider that
+[00:16:00] reliance on labor inspector determinations as the sole fallback
+[00:16:04] is likely to result in increased disputes,
+[00:16:08] delay, and litigation. So on this point, we
+[00:16:12] submit that the framework would be materially improved by
+[00:16:15] introducing an express alternative mechanism
+[00:16:19] where clause nine could be amended to provide that where it is
+[00:16:23] not reasonably practicable for an employer and employee to
+[00:16:27] agree a notional roster. That agreement is not
+[00:16:31] required as a precondition to determining those standard hours for
+[00:16:35] leave purposes. And in line with that, that clause
+[00:16:39] 10 is amended to allow an employer, without labor
+[00:16:43] inspector intervention, to determine a notional
+[00:16:46] roster by applying some form of agreed averaging
+[00:16:50] method. And we're hearing from our clients that if some form of
+[00:16:54] rolling average were applied, such as the 13-week average,
+[00:16:58] that that's something that could be workable for them going forward.
+[00:17:03] Mm-hmm.
+[00:17:03] I'll now hand over to Mike Mercer to discuss the
+[00:17:07] further two points we wanted to raise.
+[00:17:11] Thank you, Rachel, and kia ora koutou katoa.
+[00:17:14] Further, the two points I want to speak to, the first relates to the leave
+[00:17:18] compensation approach, and like our learned friends from the New Zealand Law
+[00:17:22] Society, we address the mechanism for additional hours being
+[00:17:26] paid with via the leave compensation payment.
+[00:17:29] While we understand this is intended to provide certainty and to avoid the
+[00:17:32] accumulation of large leave liabilities, there are circumstances
+[00:17:36] where hours of work will fluctuate and it could create
+[00:17:40] some outcomes for an employer that are not consistent with the Bill and operational
+[00:17:44] difficulties. In particular, the structure of the leave
+[00:17:47] compensation payment will create incentive for employees to
+[00:17:51] favor being paid in a cash loading rather than accruing leave
+[00:17:55] and resist agreement to standard hours.
+[00:17:59] What we're hearing from clients who are really concerned about their ability to
+[00:18:02] agree with standard hours with their employees is that given the
+[00:18:06] attractiveness of leave compensation payment, you could end up
+[00:18:10] in a situation that is different to what was being discussed
+[00:18:14] previously, with actually employees, all time including, who
+[00:18:17] would prefer to end up on low standard hours with large additional
+[00:18:21] hours that would provide the disincentive to them taking sick
+[00:18:25] leave when needed and significantly receive their reduced pay when they do
+[00:18:29] so.The bill doesn't currently allow for alternative approaches
+[00:18:33] that may produce the same or better outcome for employees.
+[00:18:37] In practice, we are hearing from clients who have a strong preference to accrue
+[00:18:41] leave on all hours worked, including additional hours,
+[00:18:45] while others may prefer the pay-as-you-go model of the
+[00:18:48] compensation payment.
+[00:18:50] Either approach would be broadly neutral in effect for employees.
+[00:18:53] They either get leave paid at the time or the ability to take it
+[00:18:57] later. In our view, there is scope to deliver on the intent of the
+[00:19:01] bill while allowing greater flexibility in how leave entitlements are
+[00:19:05] delivered without jeopardizing employee protections or entitlements.
+[00:19:09] We therefore recommend that clauses 129 and
+[00:19:12] 132 of the bill be amended to allow employers, as
+[00:19:16] an alternative to paying leave compensation on additional hours,
+[00:19:20] to accrue leave on all hours worked in addition,
+[00:19:24] including those additional hours at their election.
+[00:19:28] The second point we wish to raise relates to strike action during the
+[00:19:31] transitional period. It is inevitable that there will be areas of
+[00:19:35] disagreement during the transition process, given the new leave framework
+[00:19:39] will require significant changes to existing employment agreements,
+[00:19:43] payroll systems, and operational practices.
+[00:19:46] We are concerned that without clear limits, disputes arising solely from
+[00:19:50] the application of the transitional provisions may become the subject of
+[00:19:54] strike action or lockouts.
+[00:19:56] There is precedent that unions and employees cannot participate in
+[00:20:00] unlawful industrial action, even when it otherwise relates to
+[00:20:04] bargaining, if the issue in dispute arises from a legislatively
+[00:20:08] defined process.
+[00:20:10] By way of example,
+[00:20:12] the Fair Pay Agreements Act in 2022, which has
+[00:20:16] since been repealed, included express restrictions on industrial
+[00:20:20] action in relation to fair pay bargaining.
+[00:20:23] We therefore recommend that the bill be amended to provide that disputes arising
+[00:20:27] solely from the application or operation of the transitional provisions cannot
+[00:20:31] be subject to industrial action during the transitional
+[00:20:34] period. This could be achieved by either adopting a similar
+[00:20:38] approach to that in the former Fair Pay Agreement Act, and in
+[00:20:42] this context, disagreements about the conversion, reconciliation, or technical
+[00:20:46] application of the transition rules should be treated as procedural
+[00:20:50] matters and resolved through interpretation, guidance, or dispute resolution
+[00:20:54] mechanisms by the employment institutions rather than
+[00:20:57] industrial action. Thank you, Madam Chair and members of the Select Committee.
+[00:21:02] We are prepared to take any questions at this time.
+[00:21:05] We have one minute, and it doesn't appear that we do.
+[00:21:08] And can I just say, it is not a reflection of the lack of
+[00:21:11] interest. I have to make that very clear.
+[00:21:13] Very good.
+[00:21:13] You always put forward an incredibly-
+[00:21:15] Very good
+[00:21:15] ... comprehensive and helpful submission.
+[00:21:17] Yeah.
+[00:21:17] And I thank you for that, and I know that our officials would-
+[00:21:20] Excellent. Thank you
+[00:21:20] ... thank you for that, too.
+[00:21:21] Thank you.
+[00:21:21] Very good. Thank you.
+[00:21:23] Thank you.
+[00:21:23] So we'll move on now to our next submitter.
+[00:21:25] Thank you.
+[00:21:26] Thank you. We have Madfly Limited Trading.
+[00:21:29] We have Sheryn Waltu.
+[00:21:31] Hopefully, I'm pronouncing your surname correctly.
+[00:21:34] That's all right.
+[00:21:38] Enterprise and Staffing Innovations New Zealand, if that makes more sense
+[00:21:43] to you.
+[00:21:48] Apologies. Having a few technical issues there. I hope you can hear me.
+[00:21:51] That's okay. Easy. You got-
+[00:21:54] Right. So apologies.
+[00:21:56] EasyNZ, sorry. Let's just get that right. I happen to see in your logo.
+[00:22:00] Sorry. It is actually, it's a trading name of Madfly Limited.
+[00:22:03] So, thank you, Madam Chairman and members of the committee.
+[00:22:06] Thank you for the opportunity to appear here today and to speak on, uh, to EasyNZ's
+[00:22:09] written submission on the Employment Leave Bill.
+[00:22:12] My name is Sheryn Waltu, and I'm the managing director appearing on behalf of
+[00:22:15] Enterprise and Staffing Innovations NZ, otherwise known as EasyNZ.
+[00:22:19] By way of background, EasyNZ provides practical employment relations and
+[00:22:23] HR support to businesses across New Zealand.
+[00:22:26] A big part of our work is helping clients with the operational employment issues
+[00:22:29] that come up every day in real workplaces.
+[00:22:32] Things like leave, payroll, payroll interpretation, rostering process, and
+[00:22:36] documentation. These are matters that can look quite straightforward on paper, but
+[00:22:40] if they're handled incorrectly, they can very quickly turn into disputes.
+[00:22:44] A large proportion of our clients are small to medium-sized businesses.
+[00:22:49] For those businesses, getting employment processes wrong is not just frustrating,
+[00:22:52] it's expensive, distracting, and disruptive.
+[00:22:56] Most do not have in-house legal teams or large HR functions,
+[00:23:00] if at all. They're trying to do the right thing, but they need the law to be clear,
+[00:23:04] and they need it to be workable. When disputes do arise,
+[00:23:08] even a claim with little or no merit can still cost up
+[00:23:12] to $10,000 to defend in cost alone before you
+[00:23:16] factor in management time, stress, and disruption to the business.
+[00:23:19] So from our perspective, clarity in employment legislation really matters.
+[00:23:23] If the law is too technical, too uncertain, or too hard to apply in day-to-day
+[00:23:26] operations, the consequences are very real.
+[00:23:29] With that in mind, our overall position on this is that we support
+[00:23:33] the direction of reform, but we say the bill still needs refinement.
+[00:23:36] We support the objective behind the bill.
+[00:23:39] The current leave framework is too complicated.
+[00:23:41] It's been difficult for employers to understand and difficult for payroll systems
+[00:23:45] to properly apply, and it's led to too many errors and too much
+[00:23:48] uncertainty, so reform is needed.
+[00:23:51] We support the intention of creating a simpler and clearer leave system, but
+[00:23:55] our key message today is that simplification should not come at the cost of
+[00:23:58] fairness, operational workability, or new compliance risks.
+[00:24:02] In our view, the bill makes some very positive changes, but there are still several
+[00:24:06] areas where it needs tightening so it does not simply replace one set of problems
+[00:24:10] with another.
+[00:24:12] So there are parts of the bill that we clearly support.
+[00:24:14] We support pro-rated sick leave accruing from the first day of employment.
+[00:24:17] That's easier to understand, and it better reflects service over time.
+[00:24:21] We support annual leave accruing from day one.
+[00:24:23] That's much easier to explain than the current distinction between accrued leave
+[00:24:27] and annual leave becoming available only after 12 months.
+[00:24:30] And we support clearer rules around public holidays and otherwise working days.
+[00:24:34] Greater clarity in that area should reduce uncertainty and reduce the risk of
+[00:24:38] underpayment issues.So this is not a submission opposing
+[00:24:41] reform, quite the opposite. We support reform.
+[00:24:44] We just want to make sure the reform is genuinely workable in practice.
+[00:24:48] Our biggest concern is the 12.5% leave compensation payment for
+[00:24:52] hours above minimum contracted hours.
+[00:24:55] Mm.
+[00:24:55] This is probably our most significant concern.
+[00:24:58] We're concerned about the proposal to require a leave compensation payment of at
+[00:25:02] least 12.5% for additional hours and casual hours.
+[00:25:05] That may appear simple at a high level, but in practice, it creates real problems
+[00:25:09] for businesses where workers have genuine ongoing employment and regular
+[00:25:12] patterns of work, but may work more than their guaranteed minimum hours.
+[00:25:17] This is a very common arrangement, especially in small to medium businesses.
+[00:25:21] In many cases, businesses will guarantee, for example, 30 hours a week,
+[00:25:25] but regularly offer more. The reason for that is practical.
+[00:25:29] In sectors such as agriculture and construction, the amount of work available
+[00:25:33] is often heavily dependent on weather conditions and changing operational
+[00:25:37] demands. Businesses are trying to provide employees with a reliable
+[00:25:40] minimum, while still retaining the flexibility to offer more hours when
+[00:25:44] conditions allow. So a person may be contracted for 30 hours, but
+[00:25:48] often work 40 when the weather is favorable and work can proceed, and in things
+[00:25:52] like construction, that could actually be even more, so you might work more hours
+[00:25:55] in the summer than you do in the winter.
+[00:25:57] That
+[00:25:59] does not make them casual in the ordinary sense.
+[00:26:02] Our concern is that if every hour above guaranteed minimum automatically attracts a
+[00:26:06] 12.5% leave payment, that creates a number of problems.
+[00:26:10] So it creates more payroll complexity, not less.
+[00:26:14] It increases labor cost immediately.
+[00:26:16] It may reduce the employee's ability to build up meaningful paid leave over time,
+[00:26:20] and it may encourage a system where leave is effectively cashed out as work
+[00:26:24] happens, instead of being preserved as time away from work.
+[00:26:27] From our perspective, that's not just a payroll issue, it's also a wellbeing
+[00:26:31] issue.
+[00:26:32] Mm.
+[00:26:32] So our recommendation is that the bill should draw a clearer distinction between
+[00:26:36] genuine casual work and ordinary additional hours worked in
+[00:26:39] ongoing employment.
+[00:26:42] Where there is a real ongoing employment, there should be a pathway for leave to
+[00:26:45] accrue rather than requiring automatic pay-as-you-go treatment.
+[00:26:50] So the bill also needs to be clearer and more practical, there needs to be more
+[00:26:53] practical treatment of casual employment.
+[00:26:55] Closely linked to the 12.5% leave compensation payment is the question of
+[00:26:59] casual work.
+[00:27:01] One of the real issues for employers is knowing when a worker who starts out as a
+[00:27:04] casual has in reality become regular.
+[00:27:07] Mm.
+[00:27:08] That matters because it affects payroll treatment, leave treatment,
+[00:27:12] legal risks, and fairness. If the bill is going to rely on a separate model
+[00:27:16] for casual employees, then it needs to be much clearer about when
+[00:27:20] someone is genuinely casual and when they're no longer casual.
+[00:27:23] Mm.
+[00:27:23] Otherwise, we're just creating a new uncertainty in place of an old one.
+[00:27:27] So our recommendation is that the bill include either a clearer statutory test
+[00:27:32] or a review point, so that where work becomes regular and predictable, the employee
+[00:27:36] moves into the ordinary accrual work frame or framework,
+[00:27:40] sorry.
+[00:27:41] The bill should also avoid creating unfairness between casual and permanent
+[00:27:44] workers. We're also concerned about parity on this one.
+[00:27:48] If a casual worker receives 12.5% upfront, but a permanent worker
+[00:27:52] accrues leave that only becomes valuable when it's actually taken, then there's a
+[00:27:55] real possibility of inequitable outcomes between different categories
+[00:27:59] of workers.
+[00:28:01] We're not suggesting casual workers should be disadvantaged. That's not our point.
+[00:28:05] Our point is that simplification should still produce fair outcomes
+[00:28:09] across the workforce. The committee should test carefully whether the
+[00:28:13] structure of the bill creates unintended imbalance between workers who may be
+[00:28:16] doing similar work, but under different employment arrangements.
+[00:28:21] So next we have KiwiSaver and commission need to be expressly clarified.
+[00:28:25] We also think the bill should be clearer on some points around the remuneration
+[00:28:29] issues. The first is KiwiSaver. The treatment of KiwiSaver in relation to
+[00:28:33] leave compensation payments should be set out clearly in the legislation.
+[00:28:36] Mm.
+[00:28:37] If it's not, employers and payroll providers will take different approaches, and
+[00:28:41] that inconsistency will create exactly the kind of confusion this reform is trying
+[00:28:45] to fix.
+[00:28:46] The second is commission and non-discretionary incentive payments.
+[00:28:50] A simpler model, sorry, simpler leave model should not result in regular commission
+[00:28:54] income being left out of leave calculations where that income is a normal
+[00:28:58] part of the employee's earnings. If that happens,
+[00:29:02] employees in commission-based or incentive-based roles may end up worse off
+[00:29:06] when taking leave, and that creates a real disincentive to taking leave at all.
+[00:29:12] That would be an unfair outcome and would undermine the broader purpose of leave
+[00:29:15] entitlements. So we say the bill should expressly preserve the inclusion of
+[00:29:19] regular non-discretionary payment and similar payments, or provide a
+[00:29:23] mechanism that properly captures them.
+[00:29:26] The variable hour work is still not fully resolved, especially around
+[00:29:30] day-based leave and notional rosters.
+[00:29:33] Our final point is that the bill does not yet fully resolve the practical issues
+[00:29:37] that arise for workers with variable hours and variable days.
+[00:29:41] Mm.
+[00:29:41] We remain concerned about day-based leave, particularly bereavement leave
+[00:29:45] and family violence leave.
+[00:29:47] Mm.
+[00:29:47] Where people do not work the same pattern each week, there can be uncertainty about
+[00:29:50] what counts as a day, how part days should be treated, and how leave should apply
+[00:29:54] across changing rosters.
+[00:29:56] We're also concerned about notional
+[00:29:58] rosters. At the moment, the bill does not seem to give enough practical certainty
+[00:30:02] about when a notional roster is required, what information is needed to create
+[00:30:06] one, and when it should be reviewed.
+[00:30:08] Without that clarity, there's a real risk of more inconsistency,
+[00:30:12] more confusion, and ultimately more disputes.
+[00:30:15] At the very least, we think that the legislation or supporting regulations
+[00:30:19] should include clearer guidance and practical worked examples
+[00:30:23] before the bill comes into force.
+[00:30:25] So in closing, our message is a straightforward one.
+[00:30:28] We support the goal of this bill. We support day one accrual for
+[00:30:32] sick leave and annual leave, and we support clearer public holiday rules.
+[00:30:36] But we ask the committee to refine the bill so it does not simplify shift
+[00:30:39] complexity from one part of the system to another.
+[00:30:42] Sorry, does not simply shift complexity. Sorry.
+[00:30:46] In particular, we ask the committee to look carefully at the 12.5% leave
+[00:30:49] compensation rule, the treatment of casual work,
+[00:30:53] fairness between casual and permanent workers, KiwiSaver treatment,
+[00:30:57] commissioner and incentive payments, and the practical operation of day-based
+[00:31:01] leave and notional rosters. If these areas are improved, we think the bill
+[00:31:04] will be stronger, fairer, and much more workable in the real world.
+[00:31:08] Thank you for your time, and I'm happy to answer questions if you've got time.
+[00:31:12] Thank you very much, Sherylyn. We do believe-- I think
+[00:31:16] we've run out of time with you, we have, unfortunately.
+[00:31:19] But thank you so much for being part of this process, and I've got to say, a really
+[00:31:22] good submission, really helpful.
+[00:31:25] And I assume-
+[00:31:27] Thank you
+[00:31:28] ... and assure you, sorry, that the
+[00:31:30] officials will be pleased too.
+[00:31:32] Oh, thank you very much.
+[00:31:33] Move on now to Essential HR. Mike Johnson,
+[00:31:38] who I believe is online.
+[00:31:48] Mike, there we are. Wonderful. Oh.
+[00:31:52] I came, and I went.
+[00:31:54] Yes.
+[00:31:55] That was a quick submission. There we go, Mike.
+[00:31:59] Ten minutes for you, includes time for questions, and we'll hand it over to you
+[00:32:02] now.
+[00:32:04] Tena koutou. Good morning. I'm Mike Johnson from Essential
+[00:32:08] HR,
+[00:32:09] and I want to thank you for giving me an opportunity to speak to you all.
+[00:32:14] Madam Chairman, and members of the committee, I'd like to start by saying how
+[00:32:18] impressed I am with the draft legislation.
+[00:32:22] It had a horrible starting place, being the Holidays Act, and so
+[00:32:26] many things to address, and it does,
+[00:32:30] from my point of view, I really sense some positive development moving ahead
+[00:32:34] from the Holidays Act,
+[00:32:36] and a very clear attempt to address a wide range of issues, things like casual
+[00:32:40] staff and the pro-rata-ing of sick leave from day one, dealing
+[00:32:43] with on-call and stuff like that. It's, yeah, raise my hat
+[00:32:47] to you all, and especially as you now try and process
+[00:32:51] everything that's coming at you in this consultation.
+[00:32:54] Now, I speak on behalf of SMEs.
+[00:32:58] I have some four to five hundred whom I provide HR advice to,
+[00:33:02] and I've been pleased that I can already go back to them and
+[00:33:05] confirm for many of them that their concerns will be addressed in the new
+[00:33:09] legislation, and there'll always be some, of course, that are not.
+[00:33:14] There is one, though, in particular, and it's the first and significant issue
+[00:33:17] that I referred to in my written submission,
+[00:33:20] that I want to address today, and I strongly suggest
+[00:33:24] you consider the particular recommendation that I'm going to make.
+[00:33:29] And the reality is that this is all about
+[00:33:32] enabling small businesses to comply with the legislation.
+[00:33:37] So I want you to start by picturing an SME.
+[00:33:41] It may be a small retail outlet, a cafe, a restaurant, roofing
+[00:33:45] contractor. There are any number of them whose workload
+[00:33:49] is dependent on the weather or on a daily varying
+[00:33:53] level of customer demand. We all know them, and these
+[00:33:56] businesses can thrive, but that's especially where staff are
+[00:34:00] working as a team. They dig deep sometimes.
+[00:34:03] They
+[00:34:05] leave early where that benefits the business.
+[00:34:07] They'll work a Saturday to help make up time.
+[00:34:11] And for these and many others, compliance with the Holidays Act was just a
+[00:34:14] nightmare.
+[00:34:15] There was no way a business owner could understand what was needed to comply,
+[00:34:19] so they relied on their payroll provider to do things
+[00:34:23] right. But we all know that at some stage, all payroll
+[00:34:27] systems were non-compliant with the Holidays Act.
+[00:34:31] And yet it was the SME who
+[00:34:34] bore the brunt and the cost of a labor inspector's
+[00:34:38] audit and its resulting penalties,
+[00:34:41] and it just didn't seem right.
+[00:34:44] For example, how many payroll systems that you know, do you think would cope
+[00:34:48] easily with a roster that has somebody working,
+[00:34:52] Wednesday, seven hours, Thursday, 10, Friday, 10,
+[00:34:56] Saturday, 14 and a half, Sunday, two, with
+[00:34:59] sleepovers in between each of them, then three days rest, and then going through
+[00:35:03] the whole thing again. It was a roster that effectively
+[00:35:07] is an eight-day revolving roster, but payroll systems just
+[00:35:11] couldn't cope with it.
+[00:35:12] It was almost not possible to comply
+[00:35:16] with the legislation.
+[00:35:19] We need something similar, something
+[00:35:22] simple rather, not similar, something simple to manage
+[00:35:26] what have become some of the most complex of rosters.
+[00:35:30] And while this bill has gone so far, it can easily go a step
+[00:35:33] further in removing complexity.
+[00:35:37] It's a real challenge when it comes to drafting
+[00:35:40] legislation, I know.
+[00:35:42] And I've just pulled out Section 123 of the bill, Section
+[00:35:46] 2, Subsection 2, where "The employee's leave payment must not be
+[00:35:51] not less than the rate of leave payment for each relevant hour,
+[00:35:55] that the employee takes as a period of leave, or that he does not work on a
+[00:35:59] public holiday that would otherwise be a working day," et cetera.
+[00:36:03] Yet for most business owners, if you present them
+[00:36:07] with that, it's not that
+[00:36:09] it's wrong. It's not. It's correct.
+[00:36:12] But it's just that it leaves them saying, "Eh?"
+[00:36:15] The business owners are never going to get their heads around it.
+[00:36:21] For the SMEs that I had you picturing before, there's no
+[00:36:25] simple standard hours,
+[00:36:28] and the many additional hours may or may not be linked to an
+[00:36:31] availability clause,
+[00:36:33] because for many of them, it's actually just part of their commitment to their
+[00:36:37] jobs.
+[00:36:39] So we need a simpler way to collate dollars for leave payments
+[00:36:43] broadly,
+[00:36:44] and for ease of understanding and to avoid having to
+[00:36:48] rely on the payroll provider for compliance.
+[00:36:51] So please, can we have just a few very simple
+[00:36:55] rules built into this legislation?
+[00:36:58] The first one, for every dollar that you earn-You put
+[00:37:02] aside, or that somebody earns, you put aside another 12 and a half
+[00:37:06] cents for leave, eight and a half probably for annual leave, four for
+[00:37:10] sick leave.
+[00:37:11] For every hour worked, you accrue the 0.0769
+[00:37:15] hours plus 0.0385 hours.
+[00:37:18] For every uncertain otherwise working day, we
+[00:37:22] use the 13
+[00:37:24] weeks. It is great. You've got some very simple stuff already built into the
+[00:37:28] draft legislation. Take it that step further, that all
+[00:37:32] earnings get treated the same way.
+[00:37:35] You don't separate out standard hours from other hours.
+[00:37:39] That everything that relates to hours worked or protection of
+[00:37:43] employment or employment status, leave that with the Employment Relations Act.
+[00:37:48] We don't need to muddy the waters within the Employment
+[00:37:51] Leave Act.
+[00:37:54] And leave it so that payroll providers are doing
+[00:37:58] just that. They're providing a payroll service.
+[00:38:01] I really urge you to press on. Don't
+[00:38:05] allow the tightness of the timeframe to
+[00:38:09] stop you from making that extra change and making it that little
+[00:38:13] bit more simple that employers will be able to comply.
+[00:38:18] Are there any questions?
+[00:38:20] Thank you, Mike. I don't appear to have any questions.
+[00:38:22] Oh, we have one from Pam Shea. Very quickly, Pam.
+[00:38:24] Just very quickly, Mike, thank you so much.
+[00:38:25] When you started your submission, Mike, you sounded like you're fully supportive of
+[00:38:29] this legislation. And then, of course, you want this legislation to go a bit
+[00:38:33] further. Then when I read your first line in your submission, it says that you're
+[00:38:37] neither supporting nor opposing this bill. So why so undecided?
+[00:38:43] Okay. Thank you for pointing that out.
+[00:38:47] I tend to start most of my submissions in that sort of
+[00:38:51] way. On the whole, yes, I'm very supportive of what you're changing.
+[00:38:54] I'd far rather see this go through than it not go through.
+[00:38:58] Mm-hmm.
+[00:38:58] I would love to see, though, that one step more, make it even
+[00:39:02] simpler-
+[00:39:03] Thank-
+[00:39:03] ... make it even easier for small business owners to comply.
+[00:39:09] Can I just say, Mike, thank you. Just to acknowledge the things that we've heard
+[00:39:12] again and again today that are workable and then the things that you think can be
+[00:39:16] improved and how constructive you've been with that.
+[00:39:18] So it's really helpful for our officials, and moving forward as well.
+[00:39:22] So thanks for your time. Thanks for your participation.
+[00:39:25] And we'll now move on to our next submitter.
+[00:39:27] Thanks, Pam.
+[00:39:27] Thank you, Mike.
+[00:39:28] Good luck.
+[00:39:29] Thank you. We now have Paul Mackay from Business New
+[00:39:33] Zealand
+[00:39:38] joining us on Zoom.
+[00:39:41] Paul,
+[00:40:05] can I just check that you're online? Here we are. Wonderful.
+[00:40:09] Yeah. Yeah, yes.
+[00:40:09] Welcome, Paul. We have 10 minutes with you for Business New Zealand, and that
+[00:40:13] includes time for questions. And sorry, we hadn't acknowledged
+[00:40:17] you. We have you, John, as well.
+[00:40:20] John, are you with Business New Zealand or EMA?
+[00:40:24] I'm with the EMA, but we're one of the core members of Business New Zealand, and so
+[00:40:28] I'm just listening in on Paul's submission.
+[00:40:30] Okay, no worries.
+[00:40:32] And then I'll then go on the back, and Paul will do likewise. He'll join us.
+[00:40:35] So we're together.
+[00:40:36] Okay.
+[00:40:37] We're together, yes.
+[00:40:37] Okay.
+[00:40:38] Absolutely.
+[00:40:38] Hence your submissions are one after the other. Right.
+[00:40:40] Yes.
+[00:40:41] So Paul, over to you. You've got 10 minutes, and that includes time for questions.
+[00:40:44] Thank you.
+[00:40:45] Thank you very much, and I welcome this opportunity to talk to
+[00:40:49] the submission. I'm Paul Mackay. I'm the Manager of Employment Relations
+[00:40:53] Policy at Business New Zealand. And I have a history with the Holidays Act going
+[00:40:56] back to 2003, so every review since.
+[00:41:01] We're very pleased to see this bill.
+[00:41:02] It contains essentially the elements that we have always asked for,
+[00:41:06] which is a simplified approach, an hours-based accrual approach.
+[00:41:11] And so therefore, our submission is designed in support
+[00:41:15] of the bill, but to highlight two or three things which we think, like a
+[00:41:19] number of the previous submitters have said, would be
+[00:41:23] different from a simplification.
+[00:41:26] And also to point out some of the issues that might arise if we can't get
+[00:41:29] that kind of simplification. Some of the issues have already been covered, so I
+[00:41:33] won't deal with them in detail,
+[00:41:36] but I will come back to them, but I'd like to spend a little bit of time first on
+[00:41:39] the remediation process.
+[00:41:41] As it's written in the bill, there is a process in the bill that doesn't have the
+[00:41:45] criteria that would allow
+[00:41:49] a decision to be made, and the
+[00:41:52] process doesn't come into effect u-under the
+[00:41:56] bill until the rest of the bill comes into effect, in two years' time,
+[00:42:00] effectively. Whereas the regulations that would give the
+[00:42:04] ammunition, if you like, for the process,
+[00:42:07] will be
+[00:42:09] able to be developed as soon as the bill is passed.
+[00:42:13] That, to us, seems to be an opportunity missed.
+[00:42:16] The remediation process, after all, is about the history.
+[00:42:20] It's about the current act and the pitfalls that have
+[00:42:23] been found in terms of how hard it is to make
+[00:42:27] payments. And the history of the last few years has been full
+[00:42:31] of many thousands of hours, many hundreds of
+[00:42:35] thousands of dollars of cost in terms of remediating and getting agreement to
+[00:42:39] processes. What we would rather see, perhaps, is
+[00:42:42] rather than have a schedule come into effect in two years' time and regulations
+[00:42:46] that can be developed at any time from the date of assent,
+[00:42:50] is to put it all together and say, "Why don't we have the process and the criteria
+[00:42:54] able to be developed together, and as soon as they're available, they can be used?"
+[00:42:58] That would be the first element of our suggestion.
+[00:43:01] But the second is-As it stands in the bill, the
+[00:43:05] process effectively allows the employer to choose to use the
+[00:43:08] process, and without the permission of the employees who would be affected by
+[00:43:12] it.
+[00:43:13] That has some potential ramifications, particularly in relation to
+[00:43:17] the Wages Protection Act, because it seems to us
+[00:43:21] that an employee whose pay has not been correctly determined
+[00:43:25] under the current act is, as it is now, currently entitled
+[00:43:29] to have that put right. And yet the remediation process, as we
+[00:43:33] heard from an earlier submitter, may contain elements
+[00:43:37] that have an averaging or a near enough is good enough
+[00:43:41] answer to it, which may in fact leave that employee short of what they would
+[00:43:45] otherwise get if they were properly remediated under the current act.
+[00:43:49] And there's no mention of the Wages Protection Act
+[00:43:53] in relation to this, so there's a potential
+[00:43:56] point to be checked, and it's up to officials to have
+[00:44:00] a look at that. But we would rather see a process that was developed
+[00:44:04] together in its entirety so that proper consultation could be
+[00:44:08] undertaken over the development of that process and through the regulatory process.
+[00:44:12] And also that the use of it is one that has
+[00:44:16] the employees engaged with it as well, so that they can see that what they're being
+[00:44:20] offered is fair and the whole process comes together as one
+[00:44:24] rather than being in two parts. So that's remediation as far as we're concerned.
+[00:44:28] We think that would benefit. We're also got the issue
+[00:44:32] of, as a number of submitters have made on the
+[00:44:36] leave compensation payment. But first in relation to rosters.
+[00:44:40] As it stands, the bill effectively has a roster that can contain
+[00:44:44] both standard hours and agreed additional hours.
+[00:44:49] With the issues that have been raised around the cost of additional
+[00:44:53] hours and the leave compensation attached to them, we think there's sense,
+[00:44:57] both from a payroll point of view and also a cost and common sense point of view,
+[00:45:01] that a roster is a roster. So anything in a roster would
+[00:45:05] be standard hours, and anything outside a roster would be additional
+[00:45:09] hours.
+[00:45:10] That,
+[00:45:11] I think, goes a long way to addressing some of the concerns that the Law
+[00:45:15] Society and others raised, where the cost of additional hours inside a roster,
+[00:45:19] especially where the rosters are variable, can have quite unforeseen
+[00:45:23] circumstantial consequences for businesses, certainly additional costs, and
+[00:45:27] particularly in relation to small businesses, as we heard with the previous
+[00:45:30] submitter. The variability of costs is one of the things that they confront every
+[00:45:34] day. Simplifying it so that any given roster is
+[00:45:37] known to have a particular cost attached to it would be of
+[00:45:41] a benefit.
+[00:45:43] There are a number of other points in our submission
+[00:45:47] which are
+[00:45:48] written down, so they can be taken as read.
+[00:45:50] I think they're relatively self-explanatory.
+[00:45:52] So I'd rather leave as much time as possible for questions, if that's okay with
+[00:45:56] you.
+[00:45:57] That is wonderful, Paul, and appreciated by our committee.
+[00:45:59] We've got a question first from Jan Tinetti.
+[00:46:01] Thank you, and thank you, Paul. Lovely to see you.
+[00:46:03] And can I also acknowledge the work that you've done in the Holidays Act over the
+[00:46:06] years, and it's been very much appreciated across governments,
+[00:46:10] and very much put into use, I can see in this
+[00:46:14] bill and how it's been written. But I want to go back to that question, and you
+[00:46:18] might have heard my question before when I asked the Law Society.
+[00:46:21] You talk about rosters and using the rosters.
+[00:46:24] One of the reasons why we voted against this bill at the first reading is that we
+[00:46:28] feel that there are people, as it's written at the moment, who would be
+[00:46:31] missing out on their leave allocations.
+[00:46:35] In the way that this bill's written at the moment, would the
+[00:46:39] way that you have written this suggest with the
+[00:46:43] rosters and work that's sitting on roster, would that
+[00:46:46] solve that issue, do you think?
+[00:46:49] It would go a long way towards it, and I think it's actually of a benefit to both
+[00:46:52] employees and employers. First of all, if you add anything
+[00:46:56] in a roster, be they so-called agreed additional hours and standard
+[00:46:59] hours, should attract leave accrual, but not
+[00:47:03] necessarily the extra payment. So there's a benefit to the employee in that
+[00:47:07] they would accrue leave on all of the hours they worked inside their roster,
+[00:47:11] and the benefit to the employer is they're not paying extra costs simply because a
+[00:47:15] portion of that roster is so-called additional hours.
+[00:47:18] So I think it goes a good way to balancing out that issue.
+[00:47:21] I'm certainly not a payroll expert.
+[00:47:24] I don't claim that it will solve all problems, but we think it would go quite a way
+[00:47:27] towards it.
+[00:47:28] No, and I totally get that, but could you explain to
+[00:47:32] me what... So I'm just trying to think of a scenario
+[00:47:36] where you would work outside of a roster.
+[00:47:38] Have you got a scenario where there would be
+[00:47:42] work outside of the roster?
+[00:47:45] There's quite often situations, I'll use a manufacturing example because
+[00:47:49] I've had that kind of experience, where people have a standard roster,
+[00:47:52] their shift roster, if you like.
+[00:47:54] Mm-hmm.
+[00:47:55] But then there are times when, for instance, the mill
+[00:48:00] is shut down for maintenance, and that roster is still working, but then there's
+[00:48:04] a whole lot of other extra work to be done for maintenance.
+[00:48:06] So the people agree that they will add another four or five
+[00:48:09] hours to their normal rostered shift pattern to
+[00:48:14] accommodate that extra work. And that would become their pattern for that period of
+[00:48:18] time, and then they would normally revert back to their normal operational roster.
+[00:48:22] So
+[00:48:23] the way that the bill is cast is that all of those additional hours would attract
+[00:48:26] more money, but they wouldn't attract any more leave.
+[00:48:29] Mm-hmm.
+[00:48:31] So there's a double
+[00:48:33] whammy for both employee and employer in having just
+[00:48:38] the payment for the extra hours and no leave for the
+[00:48:42] employee.
+[00:48:43] It's quite common to have rosters shift around in terms of their
+[00:48:47] variability. Most rosters, I have to say, most rosters are pretty standard.
+[00:48:50] You've got your standard 8-hour roster or your standard 12-hour roster.
+[00:48:53] But overall, there can be many, many occasions when they vary for
+[00:48:57] very good reason, but they're done in a structured way and not
+[00:49:01] the kind of, can you work overtime tomorrow night kind of way, but in the kind of,
+[00:49:05] we've got a big order coming in, we want to put a whole lot of extra
+[00:49:09] shift in or extra hours on shifts for the next period while we get this big
+[00:49:13] order out. That's not an uncommon situation.
+[00:49:16] And we have a question now from Parmjeet Parmar.
+[00:49:19] Thank you so much, Paul, for your submission.
+[00:49:20] So this is about your support in principle for
+[00:49:23] LCP.
+[00:49:25] We have had some submitters this morning who think that it is not a
+[00:49:29] good idea because it actually undermines the core
+[00:49:33] purpose of paid leave, so that paid leave time is time that
+[00:49:37] people should be spending with their family doing other things.
+[00:49:40] So what would you say to those who think that LCP is
+[00:49:44] not a good idea?
+[00:49:46] I've lost you there.
+[00:49:49] You'll have to say it again, Parmjeet.
+[00:49:51] Oh, sorry.
+[00:49:54] Are you there, Paul?
+[00:49:56] He's frozen.
+[00:49:57] Frozen, I think.
+[00:49:58] Mm.
+[00:49:59] Right. John, did you want to be able to answer that question?
+[00:50:03] To be honest, Paul's probably got more technical expertise on that.
+[00:50:07] But I'm happy to start with a bit of talk about the EMA's submission, and
+[00:50:11] Paul, as you were saying-
+[00:50:12] Oh, Paul. No, that's all right
+[00:50:14] I don't know where that went.
+[00:50:15] Paul, we do have one more question after this.
+[00:50:17] If you could answer that quickly, and we'll move on to the next question.
+[00:50:19] That'd be great.
+[00:50:20] Thank you, Paul.
+[00:50:21] Sorry, I missed that piece. For some reason I dropped out and came back again.
+[00:50:25] Yeah. No, we know.
+[00:50:26] Okay. So, because you support LCP in
+[00:50:29] principle, and we have had-
+[00:50:31] Yes, we do. Yes
+[00:50:31] ... some submitters, those who oppose LCP, they say that it
+[00:50:35] actually undermines the whole purpose of paid leave, because paid leave is about
+[00:50:39] people having their own time, time with their family.
+[00:50:41] So what would you say to those-
+[00:50:42] The LCP-
+[00:50:44] Yeah
+[00:50:44] ... LCP is useful in the sense that it deals with the costs
+[00:50:48] of,
+[00:50:49] particularly in the casual work side of things, but having it attached
+[00:50:53] to
+[00:50:55] additional hours inside what you might call standard hours or rosters
+[00:50:59] creates a cost. It is also problematic when it comes to sick leave because
+[00:51:03] additional hours worked are not normally part
+[00:51:07] of something a person would get sick leave for.
+[00:51:09] So we have some concerns, and we've detailed that in our submission in
+[00:51:13] relation to the quantum of the leave compensation payment, but the principle of it
+[00:51:17] we are very supportive of.
+[00:51:19] We have a question from Vanessa Weenink.
+[00:51:21] Thank you very much, Paul. In one of the earlier submissions, there was a
+[00:51:25] statement around the fact that Business New Zealand,
+[00:51:30] CTU, and MB had been working on this for a while,
+[00:51:34] and sort of an implication that what has come out of this process
+[00:51:38] wasn't quite what was expected. How do you react to that?
+[00:51:41] Mm.
+[00:51:42] I think things have moved from time-- We had the review in
+[00:51:46] 2018, which was a consensus-based document with
+[00:51:50] recommendations. That resulted in a shadow or an
+[00:51:53] exposure draft, which we had significant issues with it because it
+[00:51:58] made things much more complicated.
+[00:52:00] The move to an hours-based accrual approach is the single
+[00:52:04] biggest factor that we think which is going to make an improvement in everything.
+[00:52:07] And so we've seen an evolution of this.
+[00:52:10] So,
+[00:52:11] it wasn't what we expected in the first place because that's not what we agreed in
+[00:52:14] 2018, but we've evolved to a point where we're particularly comfortable with the
+[00:52:18] overall direction of this.
+[00:52:20] Marvelous. Thank you.
+[00:52:22] Great. All right. We'll move on now to you again,
+[00:52:26] as the EMA, Employers and Manufacturers Association.
+[00:52:29] So Paul, we have you and
+[00:52:32] I believe John as Allan is unable to
+[00:52:36] join us.
+[00:52:37] So we'll let John start with that.
+[00:52:39] Okay, wonderful.
+[00:52:41] Thank you. So as an introduction, I'm John Fraser McKenzie.
+[00:52:45] I'm the chief executive of the EMA, and I would like to add, in
+[00:52:50] my former career, I worked as both the CFO, CEO, and
+[00:52:53] business owner of businesses with 2,000 employees, 1,000 employees,
+[00:52:57] and as the owner of a business with five employees.
+[00:53:00] So I have been a victim of the current legislation in
+[00:53:04] a number of different guises before.
+[00:53:07] So the EMA, so we're the largest business association in New Zealand.
+[00:53:11] We believe we represent about 20% of the country's
+[00:53:14] workforce across both very large, significant businesses from
+[00:53:18] Foodstuffs and Fonterra, down to very small businesses.
+[00:53:23] We're a national association. We're focused on the
+[00:53:27] commercial heartland of New Zealand, and we've been around for 140
+[00:53:31] years. So in terms of the current
+[00:53:34] discussion, we put our first submission on the current act over eight
+[00:53:38] years ago, so we've been very involved with it, as has Paul and
+[00:53:43] Business New Zealand.
+[00:53:44] So I'd just like to talk to our process of how we've gone about
+[00:53:48] testing and
+[00:53:50] getting some input from members. So we've tested the substance of the
+[00:53:54] bill with more than 600 members across a highly
+[00:53:58] interactive series of roadshows in both
+[00:54:01] Tauranga, Hamilton, Whangarei, and Auckland.
+[00:54:04] And the people who attended those roadshows were payroll and HR
+[00:54:08] specialists, and they really tore apart the fabric of the
+[00:54:12] proposals and applied it to their workplaces.
+[00:54:15] So we had a very interactive process with them, and we fed
+[00:54:19] that feedback back to MB.
+[00:54:22] And so at various points are reflected in the draft bill.
+[00:54:25] So we've had a very thorough interrogation of what's in there.
+[00:54:31] Excuse me. We also had the opportunity to run it past approximately
+[00:54:35] 2,000 of our members at our regular briefing series, which we run across
+[00:54:38] 16 different venues, and
+[00:54:41] that's through the upper North Island that took place at the end of last year.
+[00:54:46] And we've also had some detailed workshops with select
+[00:54:50] members, which range from complex workplaces, supports,
+[00:54:53] distribution centers, retail, and healthcare, and they were
+[00:54:57] also part of some workshops and confidential focus
+[00:55:01] groups with MB. So we've had an extensive engagement with a
+[00:55:05] multitude of businesses, and that's what's informed our submission.
+[00:55:09] We also have internally our own experts in employment law, collective bargaining,
+[00:55:14] and employment relations and who have pulled apart the legislation.
+[00:55:18] So collectively, our internal experts have
+[00:55:22] over 80 years of experience in the field.
+[00:55:25] And again, that's been informative for our
+[00:55:28] submission.We all agree that the legislation is a
+[00:55:32] vast improvement on the current one.
+[00:55:35] It would be a big step forward for business.
+[00:55:37] We strongly support the new bill, and we would
+[00:55:41] like to be given some time to test it and
+[00:55:45] to prove itself,
+[00:55:48] and to make necessary amendments as time goes by.
+[00:55:51] We do need some stability to see how the new legislation plays out,
+[00:55:56] but we do think it's both simpler for employers and employees,
+[00:56:00] and so are very supportive.
+[00:56:03] And as I mentioned before, we do
+[00:56:06] support the changes both reflected by Business NZ
+[00:56:10] and in our submission. And as Paul is more of a technical expert than I
+[00:56:14] am, I think he is on hand to help answer any of your
+[00:56:18] questions on the EMA submission, with which Paul is very familiar.
+[00:56:23] Thank you.
+[00:56:25] Wonderful. Do we have any questions from the committee?
+[00:56:28] It appears not, and as I've said earlier in the day, not a reflection of a lack of
+[00:56:32] interest. You've had a very comprehensive couple of submissions that have been
+[00:56:36] really helpful for us and for our officials.
+[00:56:38] So, thank you for your involvement, and your contribution.
+[00:56:42] Paul, acknowledging you, and your involvement over time as well to get it to where
+[00:56:45] we are.
+[00:56:47] Very much. Thank you.
+[00:56:47] Thank you, Paul. Thank you also to the MB team who've been outstanding.
+[00:56:50] Particularly good. Thank you.
+[00:56:52] Great. Thank you.
+[00:56:54] Okay, we'll move on now to MYOB. Kevin in the room.
+[00:57:05] Welcome. And we have Courtney, Anna-Louise, and Abby with us.
+[00:57:10] Hi.
+[00:57:10] We have 10 minutes with you. That includes time for questions, and it's over to you
+[00:57:13] now, ma'am.
+[00:57:14] Thank you. Thank you to the committee members for hearing from us today.
+[00:57:18] My name is Courtney Sloane, and I'm head of government relations for MYOB across
+[00:57:21] Australia and New Zealand. I'm joined by my colleagues, Anna-Louise Hoffman, who
+[00:57:25] is head of corporate affairs for New Zealand, and Abby Dummer, who is
+[00:57:29] our solutions manager of consulting solutions at MYOB.
+[00:57:33] And she can answer any technical questions you have about our product today.
+[00:57:38] MYOB has been a leading provider of payroll and business management software
+[00:57:42] for local small and midsize businesses for over 30 years.
+[00:57:46] We see firsthand how various legislative settings translate into
+[00:57:49] real-world outcomes for our customers and their employees.
+[00:57:53] Our submission and our comments today reflect our views as a technology provider
+[00:57:57] and center on the clarity both we and our customers need to adhere to the law.
+[00:58:02] Across New Zealand, small and midsize businesses rely on software like ours to
+[00:58:06] interpret and apply the law correctly, and when the rules are complex,
+[00:58:10] the risk of error increases.
+[00:58:12] For many years, employers and employees have faced complexity and
+[00:58:16] uncertainty in how leave entitlements are calculated and applied.
+[00:58:20] In our view, this bill represents a positive step towards a more transparent,
+[00:58:25] consistent, and workable system.
+[00:58:28] In particular, the move to an hours-based accrual model significantly
+[00:58:32] simplifies calculations, improves clarity for
+[00:58:35] employees and employers, and reduces the likelihood of
+[00:58:39] unintentional non-compliance.
+[00:58:42] It is a practical reform that better aligns with how modern workplaces are working
+[00:58:45] today. At the same time, the scale of change required to
+[00:58:49] implement these reforms should not be underestimated.
+[00:58:52] Delivering compliant payroll systems involves product development,
+[00:58:56] extensive testing, customer education, and transition
+[00:59:00] support. This is a multi-phase process that requires careful
+[00:59:04] sequencing across government, software providers, payroll professionals,
+[00:59:08] unions, and employees.
+[00:59:11] While we welcome the proposed transition period, we encourage the committee to
+[00:59:15] carefully consider how that transition is structured.
+[00:59:18] Careful staging within the two-year transition period with clear
+[00:59:22] milestones and an allowance for pilot programs will be critical to
+[00:59:26] reducing any implementation risk and ensuring all parties are
+[00:59:29] ready. Our submission outlines several recommendations we believe would
+[00:59:33] strengthen the bill and support a successful transition for businesses and
+[00:59:37] workers alike, and we welcome your questions today.
+[00:59:40] Wonderful. We have a question from Grant McCallum. Thank you.
+[00:59:42] Yeah. Thank you very much.
+[00:59:44] Earlier, one of the earlier submitters made the comment that the
+[00:59:48] new legislation was being designed
+[00:59:51] more to make it easy for payroll companies to deliver
+[00:59:55] the product, rather than to make it fairer
+[00:59:59] for the workers. That was a direct-
+[01:00:02] Good quote
+[01:00:03] ... quote from an earlier submitter. Any comment to that, please?
+[01:00:06] I think for us, we simply seek clarity, and when
+[01:00:10] there's clarity in the legislation, employees are more likely to
+[01:00:14] receive the entitlements that they're entitled to.
+[01:00:16] Mm-hmm.
+[01:00:16] And employers are more able to understand their obligations.
+[01:00:20] Software is an important part of that because employing businesses rely on
+[01:00:24] software to make sure that they're paying their workers' entitlements correctly.
+[01:00:29] So
+[01:00:30] I wouldn't necessarily agree with the assertion that this is being
+[01:00:34] designed with software in mind.
+[01:00:36] Mm-hmm.
+[01:00:37] However, I would say that having clarity of rules makes it
+[01:00:40] easier for software to help its customers adhere to the
+[01:00:44] law and get workers what they're entitled to.
+[01:00:47] Thank you. We have a question from Tiano Tufuga.
+[01:00:49] Yeah. That transition period,
+[01:00:51] and you said that it'll take structure and
+[01:00:56] milestones and stuff like that.
+[01:00:57] Do you have any specific
+[01:01:01] ideas around what
+[01:01:05] kind of barriers you might see in the way in terms of trying to iron it all out?
+[01:01:09] And will the two years be enough, or is it too short, too long, or whatever?
+[01:01:13] We believe two years is sufficient,
+[01:01:17] just. We require 18 months to build the product, and then
+[01:01:21] a minimum of six months to make sure that our customers are educated and that the
+[01:01:25] resources are available for them to learn about the
+[01:01:29] new system and what their obligations are.
+[01:01:31] In terms of sequencing within that two years, our argument is really
+[01:01:35] about
+[01:01:36] Pointing out that if everyone waits until the end of that two-year
+[01:01:40] period to have all their systems ready and in place,
+[01:01:44] we risk being misaligned. And an example of that is,
+[01:01:48] without the necessary guidance from MBIE, software cannot
+[01:01:52] build the product and code in the rules that the law requires of us.
+[01:01:57] And if the product's not ready, then the customers and employee
+[01:02:00] businesses don't know how to use that new software.
+[01:02:03] So breaking that two-year period up into milestones where
+[01:02:07] MBIE guidance is provided in, say, the first few months, software is
+[01:02:11] ready by 18 months, six-month transition period for educating
+[01:02:15] customers. Did you have anything to add for that, Abby?
+[01:02:18] Not in particular, but definitely the education piece for employees
+[01:02:22] and employers would be relatively huge.
+[01:02:25] Especially things like understanding how to convert their existing leave
+[01:02:28] balances into the new
+[01:02:31] rules. And so we would want to be working through a test-and-learn process for
+[01:02:34] almost all of that two-year period, to work with customers and understand how best
+[01:02:38] to implement that across our customer base.
+[01:02:42] Great. I have a question from Jan Tinetti.
+[01:02:45] Thank you. I want to go to your submission that you talk about
+[01:02:49] Subpart A and the leave compensation payment,
+[01:02:52] and about the clarity that you as a payroll provider
+[01:02:56] would require.
+[01:02:58] Can you talk me through what the difficulties would be as it's
+[01:03:02] for you as a provider now, as it's drafted?
+[01:03:06] What are the difficulties that would be for you
+[01:03:10] that this LCP would create?
+[01:03:13] Do you want to try that one, Kate?
+[01:03:14] Yeah. I think what we need to really consider when we are dealing with these types
+[01:03:18] of calculations is that when we move to notional rosters,
+[01:03:22] standard hours, overtime considerations, et cetera, we need to be really
+[01:03:25] clear in rostering systems and time and attendance systems how employees'
+[01:03:29] rosters are broken down. Taking into consideration, for example, in a
+[01:03:33] rostered day, what portion of that day is part of their standard
+[01:03:37] hours, therefore accruing annual leave, or what portion is an LCP.
+[01:03:41] So we really need some clarity to be sure that we're building out their
+[01:03:45] rostering systems in particular, and understanding and interpreting those hours
+[01:03:49] worked, and whether or not things like an ongoing,
+[01:03:52] regular roster that is, say, pre-planned and approved by the employees every two
+[01:03:56] weeks then becomes a notional roster for the purposes of
+[01:04:00] accruing leave. Or whether a notional roster or standard hours are in
+[01:04:04] place, but an employee may be rostered for a longer period of time
+[01:04:08] due to any other reactive factors that a business may have.
+[01:04:11] So economic factors,
+[01:04:14] peak holiday seasons for retail, for example, all those types of things.
+[01:04:18] So when we get to a variable employee base, it's
+[01:04:21] very important that we're clear on what constitutes standard
+[01:04:25] hours, notional rosters, and the LCP
+[01:04:29] hours as well.
+[01:04:30] So the way that this is drafted at the moment,
+[01:04:33] is there the possibility that this would create greater
+[01:04:37] complexity in this part?
+[01:04:41] I would probably need to look at that in a little more detail, but I think the main
+[01:04:44] thing for a software provider is understanding that clarity
+[01:04:48] around what constitutes a notional roster for those
+[01:04:51] variable workers, how often can that be updated, all of those
+[01:04:55] types of things, so that we can ensure that when rostering systems are in place, is
+[01:04:58] it looking at the actual rosters, notional rosters.
+[01:05:00] So it's really just about being clear on the rules there.
+[01:05:03] That's helpful. Thank you.
+[01:05:04] We have a final question from Grant McCallum.
+[01:05:06] Yeah, just
+[01:05:08] once again, following on from a comment earlier.
+[01:05:10] The
+[01:05:11] problems with the current act, there's been a whole lot of issues
+[01:05:15] and there was a general interpretation challenge for the
+[01:05:19] payroll companies as a whole and led to a whole lot of
+[01:05:23] back pay and legal issues and so forth.
+[01:05:26] Are you confident that this new replacement act is going
+[01:05:30] to be able to alleviate those concerns?
+[01:05:32] You'll be able to deliver a product that's accurate?
+[01:05:35] Do you want to have a-
+[01:05:37] Yeah. Look, I think certainly the simplicity and
+[01:05:41] clarity that
+[01:05:42] we're seeing come through in the current draft bill.
+[01:05:45] And from talking with payroll specialists like Abby and the rest of the team we
+[01:05:49] have back at MYOB, it is certainly more workable, and
+[01:05:53] ultimately that is where we would like to see the bill get to, is
+[01:05:57] that it is workable in the system. There is that room for judgment and
+[01:06:01] interpretation is removed because that has, of course, contributed to a lot of
+[01:06:04] those issues.
+[01:06:07] And that essentially that it's easily applicable for employers and employees
+[01:06:11] as well, so they can get those entitlements.
+[01:06:13] Thank you.
+[01:06:13] And just further to that, Mr.
+[01:06:16] McCallum. Apologies. The guidance that we receive from MBIE
+[01:06:19] early in the process would be critical for getting that clarity of
+[01:06:23] interpretation.
+[01:06:24] They didn't quite get it all right themselves last time.
+[01:06:28] Just wanting to-
+[01:06:29] It's a very complex piece of legislation, that's for sure.
+[01:06:32] Yeah. Thank you.
+[01:06:32] Thank you so much for your contribution to the process.
+[01:06:35] Do appreciate you being here in person. It's refreshing.
+[01:06:37] We're spending a lot of time on screens.
+[01:06:40] And so, yeah, thank you again for being here, and we'll move on now-
+[01:06:44] Thank you
+[01:06:44] ... to-
+[01:06:45] Thanks a lot
+[01:06:45] ... our next speaker, who is online.
+[01:06:50] Guy Van Raaijvis we have from Rostermate.
+[01:07:07] Guy, hopefully we have you online.
+[01:07:14] Hello, hello.
+[01:07:16] Ah, welcome. We have 10 minutes with you this morning.
+[01:07:19] That includes time for questions, and we'll leave it to you to manage your time
+[01:07:23] accordingly, and it's over to you now.
+[01:07:26] Great. Thank you.
+[01:07:27] So, my name is Guy. I'm one of the co-founders
+[01:07:31] of Rostermate, which is one of New Zealand's leading workforce
+[01:07:35] management platforms.We work with businesses across the
+[01:07:39] country in almost every industry, from small family-owned
+[01:07:42] cafes to larger corporations, helping them
+[01:07:46] automate employee scheduling, time tracking, and importantly
+[01:07:50] today, leave management.
+[01:07:53] So leave compliance for us is not just an abstract policy
+[01:07:57] problem. It is something we build, test, and work
+[01:08:00] with every single day.
+[01:08:04] I'm here today because this bill will ultimately be
+[01:08:07] implemented into software systems like RosterMate,
+[01:08:11] and I want to offer my ideas as to how we can go about making sure that this
+[01:08:15] bill works in practice and not just in the law.
+[01:08:21] The old system was broken.
+[01:08:25] It left key terms like reasonable,
+[01:08:29] undefined, and that forced software vendors and
+[01:08:33] employers to make judgment calls,
+[01:08:36] which inevitably led to inconsistency across New Zealand.
+[01:08:41] So it is encouraging to see that this bill is introducing
+[01:08:45] clearer and more structured rules, such as the otherwise working
+[01:08:49] day test.
+[01:08:52] But I believe that there's an opportunity right now to
+[01:08:56] go even further and close the gap
+[01:09:00] between legislation and real-world
+[01:09:03] implementation.
+[01:09:06] And so today, I would like to offer two of my ideas.
+[01:09:11] First, an AI-powered legislative
+[01:09:15] search tool.
+[01:09:17] This would allow anyone to describe a real workplace
+[01:09:21] situation in plain English and be taken
+[01:09:24] directly to the relevant parts of the bill,
+[01:09:28] with those sections clearly highlighted.
+[01:09:32] Importantly, this would not be a chat bot.
+[01:09:35] It would not provide advice or
+[01:09:41] conclusions.
+[01:09:43] Its role would be purely navigational,
+[01:09:46] helping users find the right parts of the legislation quickly and
+[01:09:49] accurately for whatever scenario they have just described.
+[01:09:55] Because I think even with the clearer rules, translating the
+[01:09:59] legislation into real-world scenarios, especially for
+[01:10:03] businesses with variable rosters or non-standard work patterns,
+[01:10:07] will remain challenging.
+[01:10:12] However, where this would become extremely powerful is in the
+[01:10:16] data it generates.
+[01:10:18] Every query could be logged, anonymized, and aggregated
+[01:10:22] to build a real-time picture of where the legislation is causing
+[01:10:26] confusion,
+[01:10:28] where edge cases are emerging, and where further
+[01:10:31] clarification may be needed.
+[01:10:35] Instead of waiting years for compliance failures or
+[01:10:38] remediation claims to reveal these issues, this
+[01:10:42] creates a continuous feedback loop, allowing the legislation to
+[01:10:45] evolve over time, and ambiguity to be
+[01:10:49] progressively reduced.
+[01:10:53] My second proposal is a government-published conformance test suite for
+[01:10:57] payroll and workforce management software.
+[01:11:01] And this is where I feel most strongly about, because it addresses a
+[01:11:05] critical part of the problem that is being overlooked.
+[01:11:10] The majority of businesses in New Zealand do not manage leave manually.
+[01:11:14] They rely on software to do it for them.
+[01:11:18] And when a business adopts one of those systems, they reasonably assume
+[01:11:21] that it is compliant in New Zealand law.
+[01:11:25] But in practice, that assumption is not always correct.
+[01:11:29] Many of the systems used in New Zealand are built for global markets,
+[01:11:33] where New Zealand is treated as an afterthought.
+[01:11:36] And as a result, compliance issues can be baked into the software itself,
+[01:11:41] meaning businesses can be doing the wrong thing without
+[01:11:47] realizing it,
+[01:11:49] simply because they trust the systems they're using.
+[01:11:54] So that is why I believe MBIE should
+[01:11:57] publish a comprehensive conformance test suite for
+[01:12:01] leave management softwares.
+[01:12:05] This would consist of a set of canonical test scenarios,
+[01:12:09] each with clearly defined inputs and exact expected
+[01:12:13] outputs.
+[01:12:14] These scenarios would go well beyond the simple examples and
+[01:12:18] instead cover a full range of real-world complexity.
+[01:12:22] Software providers would be able to run these scenarios against their
+[01:12:26] systems and verify that their calculations produce the correct
+[01:12:29] results. And if they cannot, their system would not be compliant.
+[01:12:35] Over time, I think that this could form the basis of a formal
+[01:12:39] certification process where software used in New Zealand must
+[01:12:43] pass the conformance suite in order to be marked as compliant.
+[01:12:47] Because if we can get this right, it has a powerful effect.
+[01:12:52] Because when the software is correct, the vast majority of New
+[01:12:56] Zealand businesses will be compliant as well.
+[01:13:01] It is critical that software providers are able to translate
+[01:13:05] this legislation into code correctly and that we are all
+[01:13:09] interpreting it the same way.
+[01:13:12] I think a comprehensive test suite covering real-world scenarios
+[01:13:16] is exactly what makes this consistency possible.
+[01:13:21] So New Zealand has an opportunity to do something
+[01:13:25] genuinely world-class here. Not just pass
+[01:13:29] clearer legislation, but build the infrastructure that
+[01:13:32] ensures the legislation actually works in practice,
+[01:13:36] consistently across every business that relies on software to
+[01:13:40] manage their people.And so I urge
+[01:13:44] this committee to think more broadly about how we can
+[01:13:48] ensure this legislation works in the real world
+[01:13:52] by investing in the systems and frameworks that make it easy to
+[01:13:55] understand,
+[01:13:57] consistently applied, and reliably built into the software
+[01:14:01] used by businesses every day.
+[01:14:07] Thank you, Guy. We have time for a couple of quick questions.
+[01:14:09] We have a question from Vanessa Wienek.
+[01:14:11] Thank you, Guy. The AI
+[01:14:16] sort of almost sounds like an AI agent that you described for
+[01:14:20] looking up legislation and describing how it would
+[01:14:24] fit in with certain scenarios. Are you suggesting that that should be
+[01:14:28] provided centrally rather than somebody creating their own agent
+[01:14:32] to interrogate the legislation?
+[01:14:36] I think that should be a part of the website where everyone can
+[01:14:40] publicly go view the bill so that people who, or
+[01:14:44] business owners who are not relying on software would be able to go in and
+[01:14:47] describe their situation, and find the
+[01:14:51] correct relevant information on the bill automatically.
+[01:14:55] But I think the real powerful thing about that is what I described
+[01:14:59] as you get those queries, you get to understand where people are
+[01:15:03] becoming confused, and that really helps in the future
+[01:15:07] amendments to this bill.
+[01:15:09] So what you mean is that it should be paid for
+[01:15:13] publicly rather than somebody having their own AI license and
+[01:15:19] agent that they build themselves.
+[01:15:22] Yes.
+[01:15:23] Okay.
+[01:15:24] Question from Tiano Tuiono.
+[01:15:26] Thank you very much for your presentation.
+[01:15:28] Earlier you were saying that
+[01:15:31] these global software companies sometimes
+[01:15:34] are not aware or have not developed their software with
+[01:15:38] the very specific conditions that we have here in New Zealand, and that can cause
+[01:15:42] issues. Do you have some specific examples of those
+[01:15:46] issues?
+[01:15:48] Yep. I don't want to name names because
+[01:15:52] obviously it's a bad look for businesses.
+[01:15:55] But many of our clients
+[01:15:58] come off global systems onto our system and are
+[01:16:02] surprised when we have different rules about
+[01:16:07] how otherwise working days are currently defined and the difference
+[01:16:10] between
+[01:16:13] their old system to the way that our system works, which
+[01:16:17] is compliant with New Zealand law, the old bill.
+[01:16:22] And so because I see that difference all the time,
+[01:16:27] I know that a lot of global competitors
+[01:16:31] are not compliant.
+[01:16:35] Okay.
+[01:16:37] Thank you. We actually do have time for a very quick question from Jan Tinetti.
+[01:16:41] Thank you. And I just really want to make certain
+[01:16:45] that I've had experience in the past, having lived through
+[01:16:49] a Novo Pay, and that still creates issues for me.
+[01:16:53] Are you saying that
+[01:16:55] these-
+[01:16:56] Flashbacks
+[01:16:57] ... flashbacks.
+[01:16:58] We were waiting to give it a flashback.
+[01:17:00] Waiting to give it a flashback.
+[01:17:01] So are you saying with the consideration given now, if we
+[01:17:05] consider this now, that we could alleviate any
+[01:17:08] possibility of something like that happening in the future?
+[01:17:12] Are you talking about the conformance test suite?
+[01:17:16] Yeah.
+[01:17:17] Yeah. So I think it would become-- well, I think this
+[01:17:21] 24-month period or timeframe, if you could
+[01:17:25] build out a suite that would allow us to essentially
+[01:17:29] make sure and test that every scenario is covered and the
+[01:17:33] software is working correctly,
+[01:17:36] it will make a large majority of the businesses in New Zealand compliant
+[01:17:40] automatically because they're using software, right?
+[01:17:43] And it will kind of wean out the
+[01:17:47] software systems that are not compliant in New Zealand.
+[01:17:50] And then you could essentially say to business owners, "Hey,
+[01:17:54] these are the compliant softwares.
+[01:17:55] If you're using these uncompliant softwares, just so you know,
+[01:17:59] you're being uncompliant."
+[01:18:02] Because I think the issue is that business owners are
+[01:18:05] assuming that their software is compliant with the New Zealand law when
+[01:18:09] in a lot of cases it is not.
+[01:18:12] Right. Thank you very much, Guy. Really appreciate your-
+[01:18:15] Thank you
+[01:18:15] ... innovative and entrepreneurial thinking in this process.
+[01:18:17] It's really helpful for us.
+[01:18:19] Brilliant. Thank you.
+[01:18:21] Thank you. We'll move on now to VUSA.
+[01:18:23] We have Aiden and Lewis in the room. Welcome. Come up to the table.
+[01:18:27] We've got 10 minutes with you. That includes time for questions.
+[01:18:31] And we'll hand it over to you now.
+[01:18:33] Sitting here, me.
+[01:18:37] Thank you very much. „Tena koutou katoa」 to the chair and members of
+[01:18:41] this committee. And we thank the Select Committee for allowing us
+[01:18:45] the opportunity to present on the Employment Labor Bill.
+[01:18:49] We are representing Te Akau Toi, the Victoria University of Wellington Students
+[01:18:52] Association. As VUSA, we represent all toi from our university.
+[01:18:57] So we're making this submission on behalf of over 20,000 students, the
+[01:19:01] vast majority of which are part-time workers and will be affected by the
+[01:19:05] proposed bill. My name is Lewis Collins.
+[01:19:07] I'm the campaigns officer for VUSA, and I'm also joined here by Aiden
+[01:19:11] Donahue, the president of VUSA.
+[01:19:15] So VUSA opposes this bill in its current form fundamentally
+[01:19:19] because it shifts the risk from employers onto workers,
+[01:19:22] particularly with those with insecure and low-hour jobs.
+[01:19:26] Student workers will feel these changes sharply and
+[01:19:30] early. We know that students are already dealing with high
+[01:19:34] rent, food costs, transport costs, and a difficult labor
+[01:19:37] market. More often than not, our student food bank is
+[01:19:41] empty by the end of the week.So many of our tauira
+[01:19:45] rely on part-time and casual work simply to stay enrolled and keep
+[01:19:48] going. When leave protections are weakened, the impact is
+[01:19:52] immediate. There is less income security, less ability to
+[01:19:56] recover when sick, and more pressure to choose work over well-being.
+[01:20:00] We understand the need for clarity and reform in this space, but we do not
+[01:20:04] believe that this should come with a deduction in leave
+[01:20:08] entitlements. So our main concerns, student
+[01:20:11] workers who take more time off due to illness and burnout will lose
+[01:20:15] income.
+[01:20:17] Between us alone, we have a combined experience of nearly a decade in
+[01:20:20] hospitality. Many of our colleagues who were students already worked when they were
+[01:20:23] sick because hours were hard to come by.
+[01:20:26] We are only two examples, but we echo the wider experience of our
+[01:20:30] students.
+[01:20:32] This bill will create an incentive for students to keep working and not take their
+[01:20:35] required sick leave. The COVID pandemic showed us the importance of
+[01:20:39] staying home and recovering, but staying home will become more and
+[01:20:43] more irrational for students.
+[01:20:45] This will also have consequences for businesses, particularly small
+[01:20:49] businesses, that already face staffing pressures and limited
+[01:20:52] capacity to absorb absences. When workers are
+[01:20:56] unable to take proper leave or feel pressured to work while unwell, illness can
+[01:21:00] spread through workplaces and deepen existing shortages.
+[01:21:04] One of our students has told us they're already stretched by university demands
+[01:21:07] alongside paid work, and they're regularly called in to cover extra
+[01:21:11] shifts and have been left managing an entire reception area alone
+[01:21:16] because the rest of the team was sick.
+[01:21:18] So situations like this are not sustainable for workers or employers.
+[01:21:22] This is just one example of many.
+[01:21:25] So burnout, higher staff turnover, reduced service quality, and
+[01:21:29] greater training costs for businesses already operating on tight margins
+[01:21:33] won't be good for anyone, and this is not sustainable.
+[01:21:37] Another point is that our students are leaving the country in record numbers.
+[01:21:41] Many of our graduates are leaving New Zealand because good working opportunities
+[01:21:44] simply do not exist. Students will compare New Zealand wages
+[01:21:48] and conditions with countries like Australia and the United Kingdom.
+[01:21:52] So weaker early career conditions will accelerate this graduate flow.
+[01:21:56] According to Treasury secretary Ian Rennie, he stated that an estimated
+[01:22:00] 20% to 40% of New Zealand graduates were migrating overseas.
+[01:22:04] So a significant share of our qualified young people are leaving during their
+[01:22:08] prime working and earning years, taking their skills, tax
+[01:22:11] contributions, innovation, and future leadership offshore.
+[01:22:15] And the long-term consequences of this will include a reduced skilled
+[01:22:18] workforce, weaker productivity growth, and greater pressure on key
+[01:22:22] sectors already facing shortages.
+[01:22:26] And this will mean fewer graduates investing in the future of Aotearoa New Zealand.
+[01:22:30] So we can see the value in being able to go home early and take specific hours of
+[01:22:34] sick leave to cover the remainder of a shift.
+[01:22:36] However, we strongly recommend parity of leave entitlements with full-time work and
+[01:22:40] for alternative holidays to be accrued on a full day basis.
+[01:22:45] We also want to emphasize the need of a strong definition of standard hours in the
+[01:22:48] bill. We're deeply concerned that this can take the form on following
+[01:22:52] agreed minimum hours rather than the usual or average hours worked in a
+[01:22:56] week, minimizing leave entitlements for workers with flexible
+[01:22:59] rostering.
+[01:23:01] And finally, we want to see protection against breaches to the spirit of the law,
+[01:23:05] especially the proposed changes to entitlements to holiday pay.
+[01:23:09] The requirement that 50% or more of the same day of the week as
+[01:23:13] the public holiday had been worked in the preceding 13 weeks.
+[01:23:16] This threshold is far too easy to circumvent, and workplaces that have flexible
+[01:23:20] hours or days of work, such as in retail or hospitality.
+[01:23:24] Again, we understand the need for clarity for employers.
+[01:23:28] However, this threshold will have the effect of incentivizing unneeded
+[01:23:31] roster rotation to avoid the increased liability of holiday
+[01:23:35] entitlements.
+[01:23:37] The Employment Leave Bill will make it harder for workers to rest, recover, and
+[01:23:41] stay financially afloat. Students do not need more precarity
+[01:23:45] dressed up as efficiency.
+[01:23:47] And ultimately, this will impact our disadvantaged students the most,
+[01:23:51] our Māori students, our Pasifika students, and our disabled tauira.
+[01:23:55] Women make up the majority of our university, and they too will also be
+[01:23:59] impacted.
+[01:24:01] So we urge that either this bill does not go ahead or amendments are made
+[01:24:04] to this bill that target administrative simplicity, protect low-hour
+[01:24:08] workers, and preserve genuine access to leave.
+[01:24:11] "Ma ku te rourou, mau te rourou, ka ora ai te iwi."
+[01:24:15] With my food basket and your food basket, the people will thrive forever.
+[01:24:20] A fair labor market should allow students to work and study and not force
+[01:24:23] them to choose between the two.
+[01:24:25] Excellent submission.
+[01:24:29] Thank you very much. We have a question from Jan Tinetti first.
+[01:24:32] Thank you. Thank you, Lewis, and thanks, Aiden, for coming in.
+[01:24:36] Really good submission. Thank you, because we've heard from other
+[01:24:40] sectors we have... And I want to ask a question about the standard hours, and we've
+[01:24:43] heard from other sectors where that's an impact on
+[01:24:47] them. Can you talk through what the majority
+[01:24:51] of students' work would look like in a week?
+[01:24:54] Is it that they have a small number of hours and then flexible
+[01:24:59] hours on top of that? You talked about one person.
+[01:25:02] Mm.
+[01:25:02] But what does that look like for the majority, would you think?
+[01:25:05] The majority of students, what we see is they'll have an agreed set of minimum
+[01:25:09] hours that they will be guaranteed to receive in a week.
+[01:25:13] So we're looking at fast food places, say McDonald's as the usual current
+[01:25:16] contract format. However, what that really means in practice is, say, you might
+[01:25:20] have six hours agreed minimum, but throughout the majority of your time, you'd be
+[01:25:23] working up to 10 to 20, just wherever you're rostered.
+[01:25:26] We're concerned, as we mentioned, that if we just go by the agreed minimum
+[01:25:30] hours, that that's considered your standard hours.
+[01:25:33] We just want to make sure that it reflects fairly what you actually are doing per
+[01:25:36] week.
+[01:25:36] So this could have, as it's written at the moment, this could have a huge impact
+[01:25:40] On
+[01:25:42] annual leave entitlements for students-
+[01:25:44] Well, if it's only-
+[01:25:45] ... in those situations.
+[01:25:45] Exactly. If it's only based on what your agreed minimum hours is, if you're only
+[01:25:49] getting accrual leave from your minimum, but you are actually working
+[01:25:53] so much more than that, it'd be unfair, and you'd be losing out on a fair bit of
+[01:25:57] leave.
+[01:25:58] Thank you.
+[01:25:58] Mm-hmm.
+[01:25:59] And a question from Teanau Tuiono.
+[01:26:01] Oh, thank you very much, and thank you for your very strong submission.
+[01:26:05] And I agree with what you're saying as well.
+[01:26:08] Just to follow up around your comments that you made around
+[01:26:12] clarity and simplicity, we did have a couple of software people show up
+[01:26:16] as well. And I was wondering,
+[01:26:19] around that
+[01:26:21] clarity and simplicity part,
+[01:26:25] what would your suggestion be to this committee to ensure
+[01:26:29] that we do get that
+[01:26:31] clarity, but we still are able to
+[01:26:35] retain the leave entitlements that you've been talking about?
+[01:26:38] Well, it comes to the idea of, I guess, universalism, where if the leave
+[01:26:41] entitlements are the same across the board, that's less of an explanation between
+[01:26:45] that you have to make to either young workers or new workers and employers as to
+[01:26:48] what each different
+[01:26:52] type of agreement is worth. Ultimately,
+[01:26:55] personally, we do a lot of work with our students to
+[01:26:59] identify what entitlements they have already.
+[01:27:01] By putting in different entitlements depending on your work leave, that only opens
+[01:27:05] up the risk of a misunderstanding or abuse from
+[01:27:09] employers relying on not knowing what your entitlements are.
+[01:27:14] Wonderful. Thank you very much. Really appreciate you being here to be part of this
+[01:27:18] process with us. As I've said to those that have come and joined us in the room,
+[01:27:22] it's nice and refreshing to not be looking at the screen.
+[01:27:24] Mm-hmm.
+[01:27:25] So thank you for coming on down.
+[01:27:27] And we'll move on very soon.
+[01:27:27] Thank you very much.
+[01:27:28] Yeah. Thank you.
+[01:27:28] Awesome. Thank you very much for your time.
+[01:27:32] With that said, we move on now to the Midwifery Employee Representation and
+[01:27:36] Advisory Services, who are online. We have David Munro.
+[01:27:59] Welcome, David. Thank you for joining us.
+[01:28:02] We have 10 minutes with you this morning. That includes time for questions.
+[01:28:06] We'll hand it over to you now.
+[01:28:09] Kia ora. Yeah. Thank you to the committee for the opportunity to
+[01:28:13] submit.
+[01:28:14] You've got our written submission.
+[01:28:17] I realized in preparing for this, I think I'll probably start at the bottom and go
+[01:28:21] back to the top, where I note at the end that
+[01:28:24] the small number of things about this bill that we support could easily be enacted
+[01:28:28] as part of an amendment to the Holidays Act.
+[01:28:32] And having listened to a lot of the submissions today, I think that could be a much
+[01:28:37] simpler way to have tackled what have been identified as the problems.
+[01:28:41] We do, however, start with a congratulation.
+[01:28:44] I haven't actually heard it mentioned today, but the attending to
+[01:28:48] the unintended consequence in the current legislation
+[01:28:52] whereby
+[01:28:54] women, in particular, come back from parental leave to
+[01:28:58] a leave that they may be able to take but which has no value,
+[01:29:02] is a long overdue improvement, and it
+[01:29:06] should've been done as an amendment to the Holidays Act.
+[01:29:09] I should mention that MERAS is the midwives union.
+[01:29:13] 99% of our members are women. Many of them are mothers.
+[01:29:17] And
+[01:29:19] it's a standard piece of advice that we, under the current legislation,
+[01:29:23] give to people is, "Use up your annual leave before you go on parental leave,
+[01:29:27] because it may not have any value to you when you come back," which is
+[01:29:30] completely counterintuitive to the fact that when you come back from parental
+[01:29:34] leave, you may indeed then want
+[01:29:37] to have some paid leave for rest and recreation, which
+[01:29:40] has been pointed out
+[01:29:43] in a number of the submissions, but also just to attend to all the
+[01:29:47] new burdens of parenthood.
+[01:29:51] So a piece of good news there.
+[01:29:54] Mm-hmm.
+[01:29:55] Most of our members work 0.6 or 0.8,
+[01:30:00] and it varies. So
+[01:30:03] we may not be having to give advice about taking your annual leave.
+[01:30:06] I can see that the transition period, which later on we've suggested should
+[01:30:10] be three years. I'm interested that the education sector
+[01:30:14] gets 10. Health is pretty complicated, too.
+[01:30:18] And
+[01:30:21] how that all shakes down would be something that would
+[01:30:25] take time.
+[01:30:27] Other submitters have talked about promoting the casualization.
+[01:30:32] Frankly, permanent part-time work is a real
+[01:30:35] feature of a lot of work in the health sector.
+[01:30:39] And the fact that those rosters move around, I've been interested in the
+[01:30:43] comments about the additional hours that would create the leave
+[01:30:47] compensation payment versus the permanent ones.
+[01:30:51] The incentives are difficult to completely assess at this stage,
+[01:30:55] because we know from a number of our members that
+[01:30:59] some of them want more permanent shifts and currently do casual shifts,
+[01:31:03] and there would be a drive to get that so that you're accumulating
+[01:31:07] leave on those. For others, the preference is
+[01:31:10] to be genuinely casual. You ring up, "No, don't have to
+[01:31:14] come."
+[01:31:16] And the leave compensation payment
+[01:31:20] would be an improvement on the current
+[01:31:24] 8%.
+[01:31:27] Otherwise, the working day, and I've
+[01:31:31] been working with the Holidays Act for many years, including for unions and as
+[01:31:35] a consultant, and
+[01:31:37] trying to work that out has already been the subject of a huge amount of work.
+[01:31:41] Bournemouth Kai was referring to it as well.
+[01:31:44] I think the 7 out of 13 is too
+[01:31:47] onerousIn the health sector, there are a number
+[01:31:52] of formulas written into collective agreements.
+[01:31:55] 5 out of 13 is not uncommon.
+[01:31:58] When I worked as a consultant in the
+[01:32:02] fast food industry, we had a collective agreement where 2 out of
+[01:32:06] 3
+[01:32:07] wound up being the proportion that was
+[01:32:11] deemed to be fair. So we proposed that it
+[01:32:15] should be 4 out of 13 in the previous 13
+[01:32:18] weeks.
+[01:32:22] And the other thing about that too is
+[01:32:24] are perverse incentives, because
+[01:32:28] people will think, "I need to get up to the five in the 13 weeks."
+[01:32:32] And you don't really want people making decisions about taking an extra
+[01:32:36] shift when it may not be in their interests or the interests of the employer
+[01:32:40] simply to meet a threshold which is more onerous than the one
+[01:32:44] that just generally applies in health at the moment.
+[01:32:49] We've made comments
+[01:32:51] about the transition arrangements.
+[01:32:53] Bereavement leave, it's not an opportunity
+[01:32:57] to actually
+[01:32:59] target some of the things that are insufficient of leave in the current act.
+[01:33:04] In collective agreements and in the health sector in particular,
+[01:33:08] the
+[01:33:10] leave available when the circle of life goes wrong, when it can be a partner or
+[01:33:14] a child who dies,
+[01:33:16] is often more than the three days, and it would be a
+[01:33:20] strange situation where that happens to somebody, and they only take three days.
+[01:33:25] And in terms of the other submitters, I've always been a hawk about the fact that
+[01:33:30] I detest the practice of employers who just automatically say, "Oh,
+[01:33:34] do you want to take some annual leave?" And you've run out of sick leave.
+[01:33:37] "Do you want to take some annual leave?" Because I very much support the views that
+[01:33:41] annual leave is for rest and recreation.
+[01:33:43] And if you're on bereavement leave, it's not rest and recreation.
+[01:33:45] If you're on sick leave, it's not rest and recreation.
+[01:33:48] And that's a very strong argument, I think, for improved bereavement leave.
+[01:33:53] We've got collective agreements that includes
+[01:33:57] pet parents.
+[01:33:59] We've suggested here spouse/partner,
+[01:34:02] because as I say, there's an extra layer of
+[01:34:06] trauma and tragedy in that situation because we can all expect to go to our
+[01:34:10] grandparents' funerals. We don't expect to go to our children's funerals.
+[01:34:16] We didn't comment about the
+[01:34:21] sick leave accumulation and the impact that will have
+[01:34:25] on a lot of our members. And we would further submit
+[01:34:29] about an underpinning mechanism.
+[01:34:31] I heard earlier the theoretical example of the person who can take 10 Mondays
+[01:34:35] off.
+[01:34:36] And frankly, that irks
+[01:34:39] union members as well. You're a full-time worker, you can only take two weeks
+[01:34:43] off with your 10-day sick leave. You've got a colleague who's chosen to only work
+[01:34:47] one day, they get 10. But having mentioned that we are
+[01:34:50] predominantly .6.8 membership, that
+[01:34:55] some sort of underpinning in there of at least
+[01:34:59] 24 hours applying regardless of how
+[01:35:03] few the hours might be should be something to consider.
+[01:35:06] But
+[01:35:08] that's probably all I want to say, that the bulk was in the submission, and we
+[01:35:12] support the CTU submission in terms of the problems, and I've made a comment there.
+[01:35:16] There is a lot of drafting work that needs to be done.
+[01:35:19] There are parts that you read, and you sort of struggle
+[01:35:23] to identify the meaning. But I presume
+[01:35:26] in all good pieces of legislation, we're at the beginning of the process, and the
+[01:35:29] improvements will flow.
+[01:35:32] But the final point I think is that it'd be a hell of a lot easier to just
+[01:35:37] do the necessary amendments to the current legislation.
+[01:35:40] Thank you very much, David. We do appreciate your participation in the process and
+[01:35:44] your submission that you've given us today.
+[01:35:48] Thank you.
+[01:35:49] Thanks. Any-
+[01:35:50] Oh, sorry. Did you have a question, Teanau?
+[01:35:52] Was there time for questions here? Yeah.
+[01:35:54] Yeah, there is always time for questions. There's not always questions.
+[01:35:56] But-
+[01:35:57] Yeah
+[01:35:57] ... Teanau, we do have a question from Teanau Tuivai.
+[01:35:59] Yeah. Thank you very much for your comprehensive submission.
+[01:36:03] We heard earlier from the software people that said that they could
+[01:36:07] sort this all out in two years.
+[01:36:10] But you're suggesting three years.
+[01:36:13] Could you explain to the committee why you think we should have that
+[01:36:16] extra year in terms of potential transitional arrangements?
+[01:36:23] Yeah. It's partly in the health sector, and I don't know if this has
+[01:36:27] been mentioned before, and it is
+[01:36:29] another interesting consideration about the holidays legislation,
+[01:36:32] because although it's there for rest and recreation,
+[01:36:37] it's not necessarily always easy to take, and there are huge leave
+[01:36:41] balances. I
+[01:36:43] caught the tail end of Steve Haring's submission earlier.
+[01:36:46] I know that amongst some of the senior members in the health sector, you can have
+[01:36:50] leave balances that wind up at half a year.
+[01:36:54] And
+[01:36:55] they don't get taken for rest and recreation.
+[01:36:57] They wind up being paid out when people change jobs
+[01:37:01] or retire.
+[01:37:03] So it's partly those huge leave balances being there, and
+[01:37:07] it's the technicalities of the software companies I don't think are as
+[01:37:11] important as the relationships. It's a major change to the way
+[01:37:15] the legislation will work, and that changes the relationships between
+[01:37:19] employers and employees, and there's going to be quite a period of
+[01:37:23] time to settle in. As I say, that pattern between
+[01:37:26] works hours that attract leave compensation payment versus hours that are
+[01:37:30] attracting leave,
+[01:37:33] and the way people want to sort that out, the impact that has on rosters,
+[01:37:37] it's not just about the leave that you accumulate or the pay, but how you organize
+[01:37:40] work in the workplace. And our assessment is that there's going to
+[01:37:44] be quite a period of shakedown needed.
+[01:37:48] Thank you, David.
+[01:37:48] Thank you very much, David.
+[01:37:51] Committee, just before we move on, we have a member,
+[01:37:55] Phil Twyford, that wants to acknowledge some guests before they leave.
+[01:37:58] Thanks, Chair. So colleagues, this is a delegation with us who
+[01:38:02] are from
+[01:38:03] Cambodia and Laos, and they are in New Zealand as part of
+[01:38:07] the Young Leaders program. It's like a fellowship program for six
+[01:38:11] months-
+[01:38:11] ... funded through the Ministry of Foreign Affairs and Trade.
+[01:38:13] We're waving, but should we be clapping?
+[01:38:15] Hmm?
+[01:38:15] We're waving, but should we be clapping?
+[01:38:21] Thank you very much for observing our submitting-
+[01:38:26] Exciting, exciting
+[01:38:26] ... submission.
+[01:38:28] It's invigorating.
+[01:38:30] They all want to be MPs now.
+[01:38:34] Right.
+[01:38:36] We will move on now to the Young Workers Resource Center,
+[01:38:40] who we have online, Matariki Roche.
+[01:38:59] Welcome, Matariki. Thank you so much for being with us today.
+[01:39:02] We've got 10 minutes with you. That includes time for questions, and we'll hand
+[01:39:05] over to you now.
+[01:39:07] I'm Matariki Roche .
+[01:39:11] I'm
+[01:39:14] the comms and engagement coordinator at Young Workers Resource Center.
+[01:39:18] We also hosted the wonderful delegation of young leaders from
+[01:39:22] Cambodia and Laos, so big shout-out to them as well for coming along today.
+[01:39:27] Firstly, I just wanted to thank you all for your time, and I'm going to take our
+[01:39:30] submission as
+[01:39:32] read.
+[01:39:33] I've got a couple of other points that I wanted to make just to build off our
+[01:39:36] written submission.
+[01:39:40] Firstly, I just wanted to paint a picture for you actually about the reality of
+[01:39:43] being a young worker at the moment.
+[01:39:46] Young workers are more likely to be in part-time, casual, or irregular
+[01:39:50] work.
+[01:39:51] We're more likely to be working additional hours.
+[01:39:55] Often we feel that we cannot refuse those additional hours for fear
+[01:39:58] of missing out on future shifts, or for the need to
+[01:40:02] catch up to our more experienced coworkers.
+[01:40:06] We have a vulnerability to getting sick.
+[01:40:09] There are often environmental factors,
+[01:40:13] like s****y, damp, crowded housing,
+[01:40:16] that means that we're more vulnerable to getting sick.
+[01:40:20] We have less negotiating power when it comes to negotiating
+[01:40:23] our individual employment agreements.
+[01:40:28] We're more likely to be in low-paid work.
+[01:40:31] We face the financial insecurity and the instability of
+[01:40:35] things like youth rates, training wage, and 90-day trials.
+[01:40:39] And along with that, we're in a time of our lives where
+[01:40:45] the impact and the financial burden of unexpected
+[01:40:49] circumstances hit us harder, and it's harder to absorb that.
+[01:40:53] So, with that in mind,
+[01:40:57] we deeply, deeply oppose the changes to the Holidays
+[01:41:01] Act through this proposed Employment Leave Bill.
+[01:41:06] We believe that the proposed bill will
+[01:41:10] exacerbate those inequalities that young workers already face that I just
+[01:41:14] mentioned.
+[01:41:16] And we know that young workers will be missing out on leave, particularly
+[01:41:20] sick and annual leave, through those additional hours that they work.
+[01:41:26] We also know that they're going to have a harder time negotiating
+[01:41:29] more than the bare minimum because of these changes.
+[01:41:33] Moving from a days or a weeks system to an
+[01:41:36] hourly accrual
+[01:41:39] makes it really hard as a young worker to negotiate that.
+[01:41:42] It's much easier to just say, "Hey, can I have one
+[01:41:47] more day of sick leave added to my contract?" Rather than being like, "Hey, can we
+[01:41:50] change the negotiation from 0.385 to
+[01:41:54] whatever it might be?"
+[01:41:56] So we also know that
+[01:41:59] not only are the minimums going to be reduced, but also the possibility of
+[01:42:03] getting more will also be reduced.
+[01:42:07] We mentioned in our written submission that young workers are often
+[01:42:11] misclassified as casual workers when the reality is that
+[01:42:15] they are part-timers. And we're also really concerned
+[01:42:18] about the pathway forward for those
+[01:42:22] misclassified workers because of this
+[01:42:26] bill.
+[01:42:27] We often tell workers, the young workers that come to us, about the benefits
+[01:42:31] of arguing
+[01:42:33] for a permanent contract, even if they're on low hours.
+[01:42:38] And they have to balance the benefits of that with the immense amount
+[01:42:42] of fear and the very real possibility that they might lose their job or not
+[01:42:46] be offered future shifts if they raise that issue.
+[01:42:50] And now with the leave compensation payment, what we will see is that
+[01:42:54] those extra hours that
+[01:42:57] we often say to employers, "Hey,
+[01:42:59] just put them on a five hour a week contract," even if they're more likely to be
+[01:43:03] doing 10 or 15. If you put them on a permanent contract, you can make those hours
+[01:43:07] lower. And in the current system, their annual and
+[01:43:11] sick leave will still accrue on that.
+[01:43:13] However, in the proposed system, that will no longer happen, and so
+[01:43:17] those benefits of going for that more permanent and secure working
+[01:43:21] agreement is also lowered because of this.
+[01:43:25] We also just frankly believe that
+[01:43:29] no leave entitlements should be reduced because of
+[01:43:33] any proposed bill.
+[01:43:35] We should be improving things as we go along, making our working lives
+[01:43:39] better for the generations coming up beneath us.
+[01:43:42] But this bill does not do that, and
+[01:43:46] we will see that, in fact, leave and general rights of workers,
+[01:43:50] particularly young workers, will be eroded because of
+[01:43:53] this.Young workers also have not been in the
+[01:43:57] position to be able to contribute or have a say in or
+[01:44:01] shape the employment system that we currently exist in.
+[01:44:03] We face all of these inequalities that makes it harder for us
+[01:44:07] to have thriving lives that include work,
+[01:44:11] but we have not been able to have the
+[01:44:15] contribution to shape the system that we're in, whether that's because of
+[01:44:19] the fact that the system changed so drastically before we were born or
+[01:44:23] even just thinking about the workers that have come into the workforce since the
+[01:44:26] last election.
+[01:44:28] But in saying that,
+[01:44:31] that means that you, the committee, actually have the real opportunity to think of
+[01:44:35] young workers and keep us in mind
+[01:44:38] when shaping what our employment system looks like.
+[01:44:42] Just because we haven't had a say doesn't mean that we don't have the option to
+[01:44:46] create something new.
+[01:44:48] And lastly, with that, I would just like to request that the
+[01:44:52] committee supports the pledge proposed by PSA
+[01:44:56] that no
+[01:44:59] entitlements or leave balances are reduced as a result of this bill.
+[01:45:04] We also support the recommendations and the submission made by the CTU as well
+[01:45:08] as PSA Youth. Thank you.
+[01:45:12] Thank you very much. We have our first question from Carl Bates.
+[01:45:15] Thanks very much, Chair. Thank you for your submission.
+[01:45:18] I'm always a bit skeptical when submitters submit
+[01:45:22] on a bill and are essentially of the view that it should entirely be got rid
+[01:45:26] of. So I just want to understand from you if
+[01:45:29] you understand that your young workers
+[01:45:33] also include pregnant young women?
+[01:45:37] Yeah. And if you read our submission, you would see the points that we supported of
+[01:45:41] this bill.
+[01:45:42] Right. So I'm just making sure in your verbal submission, you're
+[01:45:45] reflecting that you're not entirely against this bill, and this
+[01:45:49] bill does improve the outcomes for
+[01:45:53] some workers,
+[01:45:55] not blatant get rid of the whole thing.
+[01:46:00] Like clean-
+[01:46:01] Again, if you read our submission, you would have seen the points that we did
+[01:46:04] support, such as payslips being mandatory,
+[01:46:07] leave being available from day one.
+[01:46:10] Yeah.
+[01:46:10] However,
+[01:46:12] as we said in our submission, we hold the position that
+[01:46:15] improving
+[01:46:17] some parts of our employment system should not come at the cost of
+[01:46:21] reducing leave or reducing those rights for other workers.
+[01:46:24] It doesn't have to be this give some, take some.
+[01:46:27] We should be increasing the benefit for all.
+[01:46:30] No, I appreciate that. I'm just making sure it comes through on the corridor live
+[01:46:33] as well. And the third part of that is, doesn't this actually mean
+[01:46:37] for young casual workers,
+[01:46:40] that they will receive
+[01:46:44] their allowance at the
+[01:46:46] 12.5%, essentially meaning they would be
+[01:46:50] better off than if they just got sick leave when
+[01:46:54] they actually needed it during their casual
+[01:46:57] work?
+[01:46:59] Yes and no.
+[01:47:02] The majority of the young workers on casual agreements that we come through, one,
+[01:47:06] have been in the casual role with regular hours for more than six months.
+[01:47:10] So they do have entitlement to sick leave.
+[01:47:12] And while we definitely
+[01:47:16] support the recognition of the precarity of casual work that the
+[01:47:20] LCP reflects,
+[01:47:22] we also know that it does put
+[01:47:26] those who are misclassified, particularly misclassified, but actually all casual
+[01:47:29] workers, in a precarious issue where
+[01:47:32] if you don't have...
+[01:47:35] That money that you receive from that LCP in your last
+[01:47:39] pay cycle doesn't actually mean a whole heap when you are sick
+[01:47:43] in the current week and you need to take leave, but you then don't have sick
+[01:47:47] leave to take and can't pay your bills that
+[01:47:50] week. So while there is some benefit
+[01:47:53] for that, there is still a cost, and
+[01:47:57] we are still going to see workers either taking unpaid sick leave
+[01:48:02] or, more likely I assume, coming to work sick and
+[01:48:06] spreading their illness around.
+[01:48:09] So just to be clear, rather than trusting that people can
+[01:48:12] manage their own money, and end up
+[01:48:16] with more in the pocket because they receive this entitlement
+[01:48:20] regardless of whether they take sick leave at all during the period, your
+[01:48:24] view is let's not give that to everyone,
+[01:48:27] and let's have a system that says only those that
+[01:48:31] use their sick leave are the ones that get it.
+[01:48:36] I'm not sure if that's exactly what I'm saying.
+[01:48:39] I do think there should be some recognition for the precarious nature of
+[01:48:43] casual work, but I also think all workers should have the protection of sick
+[01:48:47] leave.
+[01:48:49] It's a protection that benefits us all, and it's a safety
+[01:48:53] net that catches us,
+[01:48:55] which is particularly important when young workers are in precarious and vulnerable
+[01:48:59] situations that already have a leaking safety net.
+[01:49:03] Thank you. And a question from Teanaru Tuiono.
+[01:49:05] Kia ora. Tēnā koe Matariki. Me mana kia kaua tō rōpū e
+[01:49:08] pikahia ēna mahi. My
+[01:49:12] questions around,
+[01:49:15] you gave an example where
+[01:49:18] workers will end up having to calculate actually what their leave entitlement
+[01:49:21] will.
+[01:49:23] And
+[01:49:24] for me, that sounded like that would provide less clarity.
+[01:49:27] And so I wanted to just check in with you to make sure that was the point that you
+[01:49:31] were making, because the point of this whole exercise is to make things clearer,
+[01:49:34] and that will make it less clearer for workers.
+[01:49:36] And then I've got a follow-up question from that.
+[01:49:39] Yeah. Kia ora. And tēnā koe hoki.
+[01:49:43] Yeah, 100% there. Essentially, it's going to make things less clear
+[01:49:46] for workers. I've also had conversations where we're
+[01:49:50] supported by solidarity members here at YWCA, and a few of those are employers.
+[01:49:55] A couple of them have reached out to me because they've said, "Oh, we've
+[01:49:59] heard about how this is going to impact young workers, and we want to give our
+[01:50:02] workers, our employees more than the minimum.
+[01:50:05] Can we just give them extra five, 10 days," yada, yada, yada,
+[01:50:08] "or maintain the 10 days?" AndI was like,
+[01:50:13] "Yeah, except you're still going to have to do that conversion." And that was
+[01:50:16] really unclear to them,
+[01:50:18] and these employers, as well as these young workers.
+[01:50:22] There was a lot of
+[01:50:24] confusion, harder to find a pathway forward. It's less clear, in short.
+[01:50:29] And my follow-up question is the comment she made around
+[01:50:33] how
+[01:50:34] people are out there, they're told their casual workers are actually their
+[01:50:37] part-time workers. I wonder if you could give some concrete, specific
+[01:50:40] examples that would make it clearer for the committee.
+[01:50:44] Kia ora. Yeah, for sure.
+[01:50:46] So
+[01:50:48] we had an ice cream worker in one of our workshops a
+[01:50:52] couple of weeks ago, and this young worker had been working at this
+[01:50:56] ice cream shop for, I think it was nearly two and a half
+[01:50:59] years. They worked consistently every Saturday,
+[01:51:03] and
+[01:51:06] those hours would increase during the summer times, as you can imagine.
+[01:51:10] But they'd been working regularly, at least every Saturday, for over two
+[01:51:14] years. They were on a casual agreement.
+[01:51:17] When we described the working patterns, in our workshops, we go through and we talk
+[01:51:21] about employment types, and when we explain what a
+[01:51:24] part-time permanent employee looks like in comparison to a casual worker, this
+[01:51:28] young worker had this penny drop moment of, "Oh,
+[01:51:32] shoot, I'm supposed to be a part-time worker."
+[01:51:35] They were really scared when they learnt that, actually, the reality
+[01:51:39] of that means that their boss can just stop offering them shifts, and that
+[01:51:43] stability that they've gained over the past two years, that reliance on this income
+[01:51:46] would just instantly drop.
+[01:51:50] Sorry-
+[01:51:50] When-
+[01:51:52] Matariki, I must stop you there because we've got to move on to our next
+[01:51:56] submitter. We've gone over time with you, but really appreciate your contribution
+[01:51:59] to the process, and you making yourself available for us today, so
+[01:52:03] thank you.
+[01:52:04] Kia ora.
+[01:52:04] Thanks. Kia ora rā.
+[01:52:07] We move on now to Business South, who we have online.
+[01:52:10] We have Shona Brown, Katerina Slade, and Wilfred
+[01:52:14] Prell.
+[01:52:29] Good afternoon, members of the committee and Chair.
+[01:52:33] I'm Shona Brown, advocacy advisor at Business South,
+[01:52:37] and we are part of the Otago Chamber of Commerce
+[01:52:41] and
+[01:52:42] the shareholder of Business New Zealand.
+[01:52:46] We're presenting around 1,400 businesses across Otago and
+[01:52:50] Southland.
+[01:52:52] The Holidays Act has been a genuine pain point for our members for years,
+[01:52:56] with
+[01:52:57] examples like payroll errors, costly remediation,
+[01:53:01] and real uncertainty about whether they're getting it right.
+[01:53:04] So we would like this reform to succeed and support
+[01:53:08] the direction of the bill.
+[01:53:11] I'm sitting here not as a technical expert.
+[01:53:14] Our role is to bring the lived experience of businesses on the
+[01:53:18] ground, and our submission is built directly from member
+[01:53:21] consultation.
+[01:53:23] We were fortunate to have Minister Van Velden join a members-only
+[01:53:27] webinar only recently to walk through the bill and take
+[01:53:30] questions, which has directly shaped what we've raised in our
+[01:53:34] submission. So rather than speak to the content in our submission,
+[01:53:38] I've brought along a member. I've got Katerina Slade
+[01:53:42] and Wilfred Prell from PurePak.
+[01:53:45] They're based in Cromwell in Central Otago.
+[01:53:48] They're exactly the kind of business this bill needs to work for.
+[01:53:52] They have a seasonal workforce with variable hours and
+[01:53:55] weather-dependent operations.
+[01:53:58] They can speak to both what's working in the bill and where the practical problems
+[01:54:02] sit, and possible solutions. I'd encourage the committee to
+[01:54:06] direct any detailed questions to both of them, as they're
+[01:54:10] far better placed than I am to bring those issues to life.
+[01:54:13] So thank you to the committee for your time, and I'll hand over to Katerina.
+[01:54:20] Thank you, Shona.
+[01:54:22] I'd like to introduce ourselves a little bit further.
+[01:54:25] We're a cherry-growing and pack house business in Cromwell.
+[01:54:29] Our harvest season runs specifically from around...
+[01:54:32] Well, not quite specifically, from the middle of December, and that
+[01:54:36] can shift around within a two-week period due to the high uncertainty of it.
+[01:54:41] The harvest period runs for about six weeks, sometimes seven.
+[01:54:44] We, at peak, employ 250 to
+[01:54:48] 300 people to work both on the picking and harvest side, and in our
+[01:54:52] packing operation.
+[01:54:55] Many of our employees are backpackers on working holiday
+[01:54:59] visas. We've also got a reasonably good cohort of
+[01:55:03] returning semi-retired employees and a
+[01:55:06] few local school kids.
+[01:55:09] We support the bill's direction
+[01:55:12] overall, and there are a lot of great components to it that we
+[01:55:16] definitely agree with.
+[01:55:18] Our verbal submission will pull out the parts that are
+[01:55:22] concerning to us or that we think could be tweaked to work more
+[01:55:26] appropriately for seasonal employment.
+[01:55:34] The
+[01:55:35] first
+[01:55:37] kind of area of concern, I guess, is around the LCP and sick leave.
+[01:55:43] Obviously, if you reverse engineer it, it's based on a 10-day entitlement or the
+[01:55:47] equivalent thereof.
+[01:55:50] Firstly, that increases the cost to employers to the full 10-day
+[01:55:54] entitlement, which is more than what most permanent
+[01:55:57] employees would
+[01:56:00] cost, because many of them don't actually take their full entitlement.
+[01:56:02] It's there if they need it, and so it should be,
+[01:56:07] but it makes it
+[01:56:09] slightly weighted towards a casual.Secondly, and
+[01:56:13] probably most importantly, as a food handling organization where we are
+[01:56:16] processing cherries and there are 70 people kind of
+[01:56:20] coming into contact with the food.
+[01:56:22] Granted, there is a lot of PPE involved.
+[01:56:25] We strongly prefer that sick leave is
+[01:56:29] actually used for genuine illness to prevent people coming to
+[01:56:33] work when they're sick and coming into contact with cherries that are then going
+[01:56:37] out into the world for consumption.
+[01:56:39] So
+[01:56:41] paying out in cash that sick leave removes the incentive for an
+[01:56:45] employee to call in sick on the day when they're genuinely sick.
+[01:56:48] They may feel able to do work, but we still don't want them contaminating the
+[01:56:51] product.
+[01:56:53] So that's why we're against cashing out any kind of sick leave and would prefer
+[01:56:56] it's used.
+[01:57:01] Bereavement leave is another one that we're a little bit
+[01:57:05] worried about the potential for misuse. So...
+[01:57:10] Oh, actually, sorry, I've skipped ahead.
+[01:57:12] Yes. We'll talk about the uncertainty factor in the LCP.
+[01:57:15] So there's a bit of rounding or uncertainty factor woven into that, which
+[01:57:19] we'd just like to
+[01:57:21] raise that as an employer, we equally experience that uncertainty
+[01:57:25] factor. We can offer someone, when they're on a truly casual
+[01:57:29] contract, we offer them a shift, and they don't have to accept it.
+[01:57:32] So that uncertainty is experienced both by the employee because they don't know if
+[01:57:36] they're going to get offered a shift, and by the employer who doesn't know if the
+[01:57:40] employee is going to accept the shift, and we have to build that variability into
+[01:57:44] our business as well. So we don't support there being extra compensation
+[01:57:48] for that.
+[01:57:51] Bereavement leave,
+[01:57:54] particularly in a short employment period, there
+[01:57:58] is not that built-up trust as there is with a longer-term employment arrangement,
+[01:58:03] and it is open to misuse if
+[01:58:07] an employee, two days into their contract, there just needs to be some
+[01:58:10] kind of
+[01:58:13] ability to make a reasonable request to check the evidence so that the integrity of
+[01:58:17] the leave's purpose is protected.
+[01:58:22] The,
+[01:58:25] I guess, largest concern for us is the
+[01:58:29] assessment of an otherwise working day, and we really appreciate
+[01:58:32] the attempt to increase the
+[01:58:37] clarity around that. That is definitely needed.
+[01:58:40] The current
+[01:58:43] legislation and interpretation is a real significant source of
+[01:58:47] friction in our
+[01:58:49] workplace and I think in a lot of seasonal businesses.
+[01:58:52] So definitely can acknowledge and agree that clarity is needed.
+[01:58:57] Where the concern comes from is when we employ someone
+[01:59:01] in the middle of December, right when our harvest period starts for a six-week,
+[01:59:05] seven-week contract.
+[01:59:07] In that period, there's a disproportionate number of public
+[01:59:11] holidays
+[01:59:13] that fall.
+[01:59:15] And under the proposed assessment of looking at up to 13
+[01:59:19] weeks history,
+[01:59:20] but less if less exists,
+[01:59:23] you could end up in a situation where someone has only worked two days
+[01:59:27] in that period, and they decline every other shift that we offer them,
+[01:59:32] and they're entitled to then four days of
+[01:59:35] paid public holiday leave. So
+[01:59:39] yes, it would be very clear on what the entitlement is.
+[01:59:44] But in practicality, it's weighted too far.
+[01:59:47] Equally, on the other foot, the opposite could happen.
+[01:59:50] Someone could work every other day except that Friday and Saturday
+[01:59:53] beforehand and not be entitled to a single public holiday.
+[01:59:57] But they've actually worked more
+[01:59:59] than someone who might be. So
+[02:00:03] it's tricky. I can see it's really tricky.
+[02:00:06] A
+[02:00:10] potential suggestion which we've come up on how to
+[02:00:16] tackle this issue is in the situation where a worker has
+[02:00:20] a really short work history or less than 13
+[02:00:24] weeks,
+[02:00:25] is to assume that over a 12-month period, if they're doing casual work,
+[02:00:31] that they perhaps qualified for half of all the public holidays and
+[02:00:34] include that in the LCP and have no other
+[02:00:38] holiday entitlements.
+[02:00:40] That way, it's
+[02:00:42] clear what the entitlements are. You don't get it, you get an extra piece of
+[02:00:46] payment for the fact that
+[02:00:49] to compensate you for not being able to take the public holidays.
+[02:00:53] And it weights
+[02:00:56] it across the workforce at every time of the year.
+[02:01:00] It's not disproportionately hitting businesses that, like ours, which are
+[02:01:04] forced to harvest our crop during that summer period.
+[02:01:13] I believe that's...
+[02:01:15] Wilfred, did I miss anything?
+[02:01:17] Yeah, we just want the burden of cost to be fair,
+[02:01:22] more equally spread,
+[02:01:25] and to remove in that short term
+[02:01:28] where a really short work period exists,
+[02:01:32] to make it
+[02:01:34] more equitable
+[02:01:36] in a way that keeps the clarity that the bill aims for.
+[02:01:42] That's all I've got for you.
+[02:01:43] Great. Thank you so much. I just want to say I really appreciate the constructive
+[02:01:46] and helpful submission that you provided us, just the
+[02:01:50] detail and
+[02:01:52] live examples are really helpful for us to work through.
+[02:01:54] So thank you for that. And we'll
+[02:01:58] move on now to our final submitter for today,
+[02:02:02] which is Unite Union, Mana Topu, and that is Charlie
+[02:02:06] Williams with us online.
+[02:02:17] Okay.
+[02:02:17] Welcome. We have 10 minutes with you.
+[02:02:20] That includes time for question, and we will leave it to
+[02:02:24] you now.
+[02:02:26] All right. Kia ora koutou. Ko Tali Williams toku ingoa.
+[02:02:29] I'm the Assistant National Secretary of Unite Union, based in Tāmaki
+[02:02:33] Makaurau.
+[02:02:34] Unite Union represents 5,500 members in fast food,
+[02:02:38] hospitality, entertainment, hotels, cinemas, and
+[02:02:42] the call center industries.
+[02:02:45] We are opposing the Employment Leave Bill that would slash the pay
+[02:02:49] and leave entitlements of tens of thousands of working people,
+[02:02:53] mainly lower paid working people who are already struggling through cost of living
+[02:02:57] and the fuel crisis.
+[02:03:00] Under this bill, the work completed outside of contracted hours would
+[02:03:03] no longer accrue sick leave or annual leave, a change that would
+[02:03:07] disproportionately affect part-time and casual workers.
+[02:03:12] These workers are our members in low-paid industries.
+[02:03:15] And further, these workers are already in precarious employment
+[02:03:19] situations. These changes will only make life worse for
+[02:03:23] them. We don't accept that the bill is about simplifying
+[02:03:27] complex law. The findings and recommendations of the Holidays
+[02:03:31] Act Taskforce, which was put in place
+[02:03:34] to address complexities and reduce complexities, has been largely
+[02:03:38] ignored.
+[02:03:39] The exploring of the hours-based accrual system was
+[02:03:42] discontinued by the taskforce partway through when
+[02:03:46] they realized it financially disadvantaged a substantial number
+[02:03:50] of workers compared to the current act.
+[02:03:53] That seems to be no concern to the current government.
+[02:03:57] As an example of affected industries, a substantive number of
+[02:04:01] workers in fast food have a set amount of guaranteed
+[02:04:04] hours, and then hours beyond that are considered
+[02:04:08] additional hours, as defined in the proposed bill.
+[02:04:12] So over a sample of a 13-week period in
+[02:04:15] 2025, to give an example, a third
+[02:04:18] of hours worked over that period were not guaranteed under one
+[02:04:22] main fast food brand that we cover.
+[02:04:26] A worker within this fast food brand worked an average
+[02:04:30] of 36 hours a week. However, only five of
+[02:04:34] those hours were guaranteed, with the others being classed as
+[02:04:37] additional hours.
+[02:04:40] That means under the new bill, this worker would only accrue leave
+[02:04:44] based on her five guaranteed hours,
+[02:04:48] which would be 0.38 of an hour per week
+[02:04:51] accrued. This is unfair and untenable.
+[02:04:56] To get one week's leave, this worker
+[02:04:59] would have to work for two years.
+[02:05:03] This for a worker who averages 36 hours and contributes to our
+[02:05:07] economy, pays her taxes, and so on.
+[02:05:12] The proposed 12% in lieu of leave only confirms the lack of
+[02:05:16] understanding of the hand-to-mouth nature of those working in
+[02:05:19] precarious and low-paid employment.
+[02:05:23] One in such a position cannot afford to put money aside to
+[02:05:26] allow for leave to be taken at a later date.
+[02:05:31] People will invariably need and use the money now, particularly
+[02:05:35] in a cost of living crisis.
+[02:05:37] If you don't have the savings because you're trying to cover weekly
+[02:05:41] costs, you are punished again with not being able to
+[02:05:45] afford to take the leave.
+[02:05:48] Then, of course, there's the reduction to sick leave.
+[02:05:51] The same group of fast food workers that I referred to earlier, under
+[02:05:55] this bill, would accrue sick leave for only two-thirds of the work that they
+[02:05:59] do.
+[02:06:00] Of course, the major issue with less sick leave for these workers
+[02:06:04] is that they will come to work sick because they can't afford to
+[02:06:08] take unpaid leave.
+[02:06:10] This means passing on illness, resulting in more sickness, not
+[02:06:14] only on site with their fellow workers,
+[02:06:18] but the broader community, because these people work with food
+[02:06:22] and prepare and serve food.
+[02:06:25] As we all know and have experienced, people are getting sick longer
+[02:06:30] and more seriously these days with viruses such as COVID, RSV,
+[02:06:34] and so on.
+[02:06:36] We know that under this bill, employers, seeing what seems on the face of
+[02:06:40] it to be a financial advantage, will seek to offer the least amount of
+[02:06:44] guaranteed hours and then simply top up hours as they
+[02:06:48] wish.
+[02:06:50] This means the less they will have to afford for your annual and sick leave.
+[02:06:55] This risk of increased casualization will have a compounding
+[02:06:58] negative effect on the community.
+[02:07:00] Of course, the more precarious the work, the worse off the workers'
+[02:07:04] lives, but also the less resources people have to put back
+[02:07:08] into the economy.
+[02:07:10] Precarious work also results in more exploitation and risk
+[02:07:14] of exploitation as people clamber for the dregs of hours their
+[02:07:18] employer makes available, and those workers feel compromised
+[02:07:22] to raise various workplace concerns,
+[02:07:26] and even
+[02:07:28] a fear of raising serious health and safety risks.
+[02:07:32] These are people already struggling on low wages and low hours during
+[02:07:36] a cost of living crisis.
+[02:07:38] It is shameful that the government is not only refusing to help
+[02:07:42] those most in need, but is actively seeking to legislate to make life
+[02:07:46] tougher for them.
+[02:07:47] Working people deserve holidays and time with their families, and they
+[02:07:51] deserve to take the time off they need when they're sick and when their children
+[02:07:55] are sick.
+[02:07:56] Unite Union strongly opposes this attack on leave entitlements
+[02:08:01] of the most vulnerable workers. Thank you.
+[02:08:04] Thank you very much, Tali. We have our first question from Jan Tinetti.
+[02:08:07] Kia ora, Tali, and thank you very much for your submission this morning,
+[02:08:11] or this afternoon. And can I also say thank you for
+[02:08:15] your, uh
+[02:08:17] Example that you gave, your case study that you titled there
+[02:08:21] SS, I felt that was really, really helpful.
+[02:08:25] When I was going through and we were determining Labor's position on this
+[02:08:29] bill, our key
+[02:08:31] rationale was that nobody would be worse off at the end than at the
+[02:08:35] beginning, and obviously that's not the case.
+[02:08:38] And when I first started, I was told it's only a few workers,
+[02:08:42] but I'm getting the sense that we're talking about a lot of workers
+[02:08:46] here. You say you represent
+[02:08:48] 5,500 workers. How many of them would be in this
+[02:08:52] situation, or roughly how many of them would be in this situation of having
+[02:08:56] guaranteed hours, but then having to work way more hours
+[02:08:59] on their roster?
+[02:09:02] I would say about half, conservatively.
+[02:09:05] Yeah. So it's quite a big amount that we're talking about.
+[02:09:08] And the question that I asked the Law Society before, is there a
+[02:09:12] fear that the way that this is written at the moment
+[02:09:15] incentivizes that to happen more?
+[02:09:19] Yes, absolutely. That is our fear.
+[02:09:21] Yeah. Okay, thank you. And question now from Teanau Tuiono.
+[02:09:25] Kia ora, Tally. Thank you very much for your very clear
+[02:09:29] submission, and with a lot of really useful detail
+[02:09:33] in there.
+[02:09:34] I wanted to come back to your point around the hours accrual system, and
+[02:09:38] you were referencing, I think, the task force in 2018.
+[02:09:40] I wasn't anywhere near Parliament then.
+[02:09:43] I wonder if you could
+[02:09:46] maybe tell us a bit more about the problems with that approach,
+[02:09:50] why it was abandoned, and what that impact of that will be on
+[02:09:54] your members.
+[02:09:54] Can I just, before you do that, Tally, just let you know you've got one minute left
+[02:09:58] in your submission. So if we could make that brief.
+[02:10:02] Okay. Well, in summary, I don't have a
+[02:10:06] whole lot to say on that other than my understanding is
+[02:10:10] that the findings of the task force were that the hours-based accrual system
+[02:10:15] wouldn't work, that it wasn't appropriate for all forms of work,
+[02:10:19] particularly those part-timers and casuals,
+[02:10:22] and therefore, that was abandoned.
+[02:10:25] I don't have any more to say on that.
+[02:10:29] Thank you. I really appreciate your participation in this process, and you making
+[02:10:32] the time to come and join us for our hearings today, Tally.
+[02:10:36] Thank you again.
+[02:10:38] And we'll now move into private session with our
+[02:10:42] officials. Thank you.
