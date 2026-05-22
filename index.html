@@ -682,8 +682,8 @@
               <a href="${escapeHtml(viewerHref)}">Open transcript</a>
               <button class="open-reader" type="button" data-guid="${escapeHtml(meeting.guid)}">Preview here</button>
               ${vimeo}
-              <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
-              <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
+              ${meeting.txtUrl ? `<a href="${escapeHtml(meeting.txtUrl)}">TXT</a>` : ""}
+              ${meeting.vttUrl ? `<a href="${escapeHtml(meeting.vttUrl)}">VTT</a>` : ""}
             </div>
           </article>
         `;
@@ -778,8 +778,8 @@
       els.readerMeta.textContent = `${meeting.date} · ${duration} · ${meeting.committee}${partLabel}`;
       els.readerLinks.innerHTML = `
         ${meeting.vimeoUrl ? `<a href="${escapeHtml(meeting.vimeoUrl)}">Vimeo</a>` : ""}
-        <a href="${escapeHtml(meeting.txtUrl)}">TXT</a>
-        <a href="${escapeHtml(meeting.vttUrl)}">VTT</a>
+        ${meeting.txtUrl ? `<a href="${escapeHtml(meeting.txtUrl)}">TXT</a>` : ""}
+        ${meeting.vttUrl ? `<a href="${escapeHtml(meeting.vttUrl)}">VTT</a>` : ""}
       `;
       els.readerStats.innerHTML = `
         <span class="pill"><strong>${chunks.length}</strong> transcript blocks</span>
