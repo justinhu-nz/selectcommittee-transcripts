@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:24:02.256907+00:00",
+  "generated_at": "2026-05-25T05:55:37.783019+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1193740769",
   "title": "Education and Workforce Committee",
   "url": "https://vimeo.com/1193740769",
-  "published_at": "20260524",
-  "published_display": "2026-05-24",
+  "published_at": "20260525",
+  "published_display": "2026-05-25",
   "duration_seconds": 7173,
   "source_labels": "Parliament Page education-and-workforce",
   "transcript": {
@@ -23,6 +23,7 @@
     "webpage_url": "https://vimeo.com/1193740769",
     "original_url": "https://vimeo.com/1193740769",
     "upload_date": "20260524",
+    "release_date": "20260524",
     "timestamp": 1779663940,
     "release_timestamp": 1779663952,
     "duration": 7173,
