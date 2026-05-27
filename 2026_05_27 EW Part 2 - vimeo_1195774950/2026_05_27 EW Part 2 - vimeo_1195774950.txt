@@ -1,0 +1,432 @@
+Title: 2026/05/27 EW Part 2
+URL: https://vimeo.com/1195774950
+Published: 2026-05-27
+Duration: 00:19:21
+
+[00:00:15] Welcome.
+[00:00:16] Thank you.
+[00:00:17] We are in public session for our hearing with Education Payroll.
+[00:00:20] Welcome to the committee. We've heard from you before, but there's probably new
+[00:00:24] members and new members of your team, so please do introduce yourselves.
+[00:00:27] We'll have a short introduction from you, a couple of minutes, highlight
+[00:00:31] anything you'd like to draw our attention to, and then we'll open for questions.
+[00:00:34] Over to you.
+[00:00:35] Thank you very much. Thank you for
+[00:00:38] giving us the opportunity to be here with you today.
+[00:00:41] I will just start with some introductions. So I'm Naomi Ferguson.
+[00:00:44] I am the chair of the board of Education Payroll Limited.
+[00:00:48] This is Lara Ariel, who is our chief executive, and
+[00:00:52] Gerard Aberdeen, who is the hotu digital and technology.
+[00:00:58] Just a reminder, our purpose is quite simply to ensure that the
+[00:01:02] teachers and support staff in New Zealand state schools
+[00:01:06] are paid on time and the right amount.
+[00:01:10] In 2024-25, we made some 2.7
+[00:01:14] million payments to 102,000 teachers and support staff,
+[00:01:18] totaling $7.7 billion each year. So
+[00:01:22] we're quite a small organization, but the work that we do is really important
+[00:01:26] and the throughput is significant.
+[00:01:30] So effectively, we think we have two categories of work.
+[00:01:32] One is supporting the delivery of that payroll,
+[00:01:36] and that's our core service. And we also, of course, maintain the
+[00:01:40] payroll technology that allows us to ensure that
+[00:01:44] that payroll is delivered and within there to
+[00:01:47] support the customization that's required
+[00:01:52] in order to meet the education sector collectives.
+[00:01:57] In terms of our performance for the year, it's there in the annual report.
+[00:02:00] There are just two areas of improvement that I'd like to highlight.
+[00:02:04] Our customer satisfaction reached
+[00:02:06] 87.43%, which is the highest level since
+[00:02:10] 2016, and I'm pleased to say that's continued through into this year.
+[00:02:14] Mm-hmm.
+[00:02:15] And we also made a significant improvement to our
+[00:02:19] performance with regard to salary assessment.
+[00:02:22] If you will remember, 2023-24, we had some
+[00:02:26] significant challenges in that area.
+[00:02:27] We were able to recover that. And last year, whilst we
+[00:02:31] didn't meet the 100% target, we achieved 99.34.
+[00:02:36] So
+[00:02:37] got that back on track, basically, for our teachers and school
+[00:02:41] administrators.
+[00:02:43] There are some measures that still continue to be challenging, for example,
+[00:02:47] overpayments.
+[00:02:49] And as I've explained before, some of those are not actually very good
+[00:02:52] measures of EPL's performance. We don't control some of the
+[00:02:56] levers to manage overpayments. They're controlled by the ministry or by schools.
+[00:03:01] So we continue to push the ministry on two aspects to
+[00:03:05] that. Firstly, ensuring that collectively we do pull the
+[00:03:09] levers that can be pulled. And secondly, thinking about
+[00:03:13] refining the measures so that they more accurately reflect EPL's
+[00:03:16] performance and that that can be seen clearly.
+[00:03:20] We've continued to implement changes that came through as a result
+[00:03:24] of earlier collective bargaining,
+[00:03:27] and have been able to do that. Though, as I've
+[00:03:31] previously advised the committee,
+[00:03:33] our current core payroll system
+[00:03:36] in the payroll engine is aging.
+[00:03:40] And we have signaled through to the ministry and ministers
+[00:03:44] that we believe it is time to start to plan
+[00:03:48] for an upgrade to that core system.
+[00:03:52] It continues to increase in risk as it gets
+[00:03:56] older and the costs of maintaining it and making changes will only
+[00:04:00] increase. So we're working with the ministry to explore the options to
+[00:04:04] upgrade that core. We won't be replacing EdPay, which
+[00:04:08] is the front-end system that our school administrators and
+[00:04:11] principals use, the subject of investment from around
+[00:04:15] 2016, and it's really contributed to that level of
+[00:04:19] customer satisfaction and comfort.
+[00:04:21] So it's about rewiring the house behind the scenes.
+[00:04:24] Kitchen stays in place, meals get delivered as they're expected to,
+[00:04:29] but a bit of rewiring needed, and we're working through those options.
+[00:04:32] And you'll see some of that when you see our 2025-26
+[00:04:36] annual report and the work we're doing in that space.
+[00:04:39] I'd just like to finish by thanking those that actually make the
+[00:04:42] payroll happen. That's the staff at EPL,
+[00:04:46] and it's also the school administrators and principals.
+[00:04:49] And collectively, they deal with all the things that come up in people's lives,
+[00:04:53] all of the changes that are needed, all of the implementations of
+[00:04:57] collectives and ensuring that we've got the right information, and we could not do
+[00:05:01] the job we do without them all. So I would just like on record to have that
+[00:05:04] thanks to them noted.
+[00:05:06] Finally, that's all I wanted to say.
+[00:05:08] Look forward to answering your questions.
+[00:05:10] Thank you for the time to make a few comments.
+[00:05:12] Wonderful, and thank you for the introduction.
+[00:05:14] We have our first question from Lawrence Wan.
+[00:05:16] Thank you, Chair. Thank you so much for coming.
+[00:05:20] You kind of touched on what I was going to ask anyway.
+[00:05:22] I want to check in terms of any of the new system you're developing, because we
+[00:05:25] know there are some issues a few years ago with holiday pay and all of those.
+[00:05:28] Mm-hmm. Mm-hmm.
+[00:05:29] How would EdPay address the increasing complexity,
+[00:05:33] both in terms of where the funding comes from, the fact that schools themselves
+[00:05:37] are funded differently than they report to you, and you have to administer
+[00:05:42] the payment itself out to different people.
+[00:05:44] People have different start and end date.
+[00:05:46] Permanent teachers are usually very structured, but if you have
+[00:05:50] potential changes, let's say, with support staff or teacher aides that are attached
+[00:05:54] to a student through ORS funding-
+[00:05:55] Mm-hmm
+[00:05:56] ... how do you track the complexity, particularly when it comes to support staff
+[00:06:01] payment?
+[00:06:03] Yeah. So I guess our role in the system is simply to take the
+[00:06:06] information from schools and then calculate
+[00:06:10] the correct amount of pay and ensure it's paid.
+[00:06:15] So some of the work, for example, with regard to
+[00:06:19] Holidays Act compliance, that's actually being run by
+[00:06:23] the ministry as a project to correct all of that, and then
+[00:06:27] they'll simply send us a file with the adjustments that need to be made
+[00:06:31] to the pay run.
+[00:06:34] So we have, in some ways, quite a narrow role in that
+[00:06:38] whole system.
+[00:06:40] And a lot of the engagement with schools in relation to something like holiday pay
+[00:06:44] is actually through the ministry. I'm not sure if that's helping.
+[00:06:47] Yeah, and I guess also,
+[00:06:50] in terms of the administration component of it, when you do
+[00:06:53] pay for the staff, and this might be quite a basic question.
+[00:06:57] I want to check, do you also deal with things like subsidies and et
+[00:07:01] cetera as well? Or that also goes through the school?
+[00:07:04] No. If it's a payroll subsidy,
+[00:07:08] one that's being paid as rather-
+[00:07:11] An allowance
+[00:07:11] ... an allowance.
+[00:07:12] Yes.
+[00:07:13] So like fuel subsidies-
+[00:07:14] Yes
+[00:07:15] ... and et cetera.
+[00:07:15] Yes. So we made the changes to
+[00:07:18] the recent fuel allowance. Yeah.
+[00:07:21] Okay.
+[00:07:22] Right. Next question from Pam Sheet Palmer.
+[00:07:25] Oh, you didn't... Okay. That's right. Vanessa Winning.
+[00:07:27] Okay. Thank you very much. So
+[00:07:31] you've signaled some potential risk-
+[00:07:34] Mm-hmm
+[00:07:34] ... in terms of the
+[00:07:36] systems that you-
+[00:07:37] Mm-hmm
+[00:07:37] ... use.
+[00:07:37] Mm-hmm.
+[00:07:40] What are those risks and
+[00:07:42] what kind of level
+[00:07:46] of risk are we talking about? What's the urgency behind those
+[00:07:49] changes?
+[00:07:51] So we have a core engine that is
+[00:07:54] now
+[00:07:57] 15 years old, I think. Effectively, implemented in
+[00:08:01] 2012. So it's starting to age.
+[00:08:03] Mm-hmm.
+[00:08:05] It is also heavily customized because of the
+[00:08:09] nature of schools' payroll. And so what we are seeing
+[00:08:13] and what we are signaling is both because of that aging and because of the level of
+[00:08:16] complexity that's there,
+[00:08:19] and the level of our skill to be able to maintain that, then
+[00:08:23] there are risks.
+[00:08:25] It's urgent in the sense that we know that to
+[00:08:29] change it will take a period of
+[00:08:33] five to seven years. You need to plan these things.
+[00:08:36] There's a lot of work you want to do before you start to make the changes.
+[00:08:40] Then you will
+[00:08:42] So against that, it's urgent that we are doing the work that we're doing
+[00:08:46] now. This year, for example, we've done a proof of concept to help develop
+[00:08:50] what that pathway forward is.
+[00:08:53] Because over that period, that risk would become more pertinent.
+[00:08:57] At the moment, we have a lot of good
+[00:09:01] control in place to manage those risks, but
+[00:09:06] they will continue to, the older the system gets, the riskier it
+[00:09:09] gets.
+[00:09:10] So it sounds as though you're already planning for potential
+[00:09:14] changes and-
+[00:09:15] Yes
+[00:09:15] ... doing the work-
+[00:09:16] Yes
+[00:09:16] ... of the change management process.
+[00:09:18] So you're not waiting for it to-
+[00:09:20] No
+[00:09:20] ... all collapse before-
+[00:09:21] Absolutely not.
+[00:09:21] Absolutely not. Good. That's reassuring. Thank you.
+[00:09:23] So we've been doing work this year, as I say, on a proof of concept, on an
+[00:09:27] indicative business case, and developing that through to go through
+[00:09:32] processes with the shareholding ministers and with the
+[00:09:35] ministry around replacing it. As I say, it is about thinking
+[00:09:39] about replacing that back-end core, that investment in the front end will
+[00:09:43] also help us with change management going forward.
+[00:09:47] As we remember,
+[00:09:49] whenever we last changed this, the
+[00:09:53] changes really impacted school administrators.
+[00:09:55] Their jobs-
+[00:09:56] Mm-hmm
+[00:09:57] ... were quite, they had to learn quite a lot of new stuff.
+[00:10:00] And that was part of the challenge with what was going on.
+[00:10:04] Our plan is to replace that behind the scenes and keep
+[00:10:08] their processes very much as they are.
+[00:10:10] Mm-hmm.
+[00:10:11] On that, you mentioned that in your introductory, and just to build on this
+[00:10:14] point.
+[00:10:15] Is it necessary for you to change the front end and you're just not because-
+[00:10:19] No
+[00:10:20] ... that's sort of set in the way of-
+[00:10:21] Yeah
+[00:10:21] ... the system working?
+[00:10:22] No, we don't. That was put in in 2016.
+[00:10:25] Yeah.
+[00:10:25] It's working really well.
+[00:10:26] It's an investment the government has already paid for.
+[00:10:30] We want to sweat that asset.
+[00:10:31] Great, yeah. Just trying to confirm that you're not-
+[00:10:34] No
+[00:10:34] ... doing the back-end rewiring to try and cover for-
+[00:10:37] No
+[00:10:37] ... the front-end stuff-
+[00:10:38] No
+[00:10:38] ... not able to be changed.
+[00:10:39] It's actually that the front end allows us to do the rewiring-
+[00:10:42] Great
+[00:10:42] ... without triggering some of the change management issues that could be present
+[00:10:45] if we
+[00:10:47] had to also think about that.
+[00:10:49] Okay.
+[00:10:50] Next question from Lawrence.
+[00:10:51] Thank you, Madam Chair. I've got two questions, and this relates to your
+[00:10:55] annual report, and I want to pick up on pages
+[00:10:59] seven and eight.
+[00:11:01] I'm going to start out with a question on seven.
+[00:11:02] This is to do with the cost of schools' payroll service per school
+[00:11:07] employee paid.
+[00:11:08] Mm-hmm.
+[00:11:08] Can I just check, is that the cost to...
+[00:11:11] First question, cost to EdPay, how much it is, or this is how
+[00:11:15] much the school are paying you?
+[00:11:17] No, it's the cost, it's our operating cost.
+[00:11:20] It's your operating cost.
+[00:11:21] Schools don't pay us.
+[00:11:22] Okay, cool. Just checking, just for that clarification.
+[00:11:25] Yeah.
+[00:11:26] Changes from 2024 to 2025, that's not
+[00:11:30] simply a CPI adjustment. That's a 30% increase
+[00:11:34] from 250 to 328.
+[00:11:38] But you mentioned it hasn't been adjusted since 2016, but the actual
+[00:11:42] cost in 2023, 2024 was even higher at 344.
+[00:11:46] Could you just walk the select committee through on-
+[00:11:48] Yeah, sure
+[00:11:49] ... that number?
+[00:11:50] So the middle column is actually the performance standard.
+[00:11:53] Okay.
+[00:11:54] So that was set in the Master Services Agreement in
+[00:11:58] 2016/17 between the
+[00:12:02] ministry and Education Payroll Limited.So that's our
+[00:12:05] target, if you like.
+[00:12:07] Yeah.
+[00:12:07] It hasn't been adjusted by CPI.
+[00:12:10] Okay.
+[00:12:10] If it was, then it would be more like 330.
+[00:12:12] So that's an actual figure that was set-
+[00:12:14] Yeah
+[00:12:14] ... in the performance agreement in 2016-
+[00:12:18] Yeah
+[00:12:18] ... not adjusted. In 2023/24, our
+[00:12:22] costs were the 344, and actually in
+[00:12:26] 24/25 we were able to reduce those to 328.
+[00:12:31] And
+[00:12:32] with that then, is that the intention with any kind of master
+[00:12:36] agreement that they're now going to be a more flexible rather than a this is the
+[00:12:40] exact amount, that there's going to be a more of a flexible amount that
+[00:12:44] can be adjusted with CPI?
+[00:12:46] We're looking to the Master Services Agreement
+[00:12:50] is up for renewal ahead of the
+[00:12:53] '27 year, and I think we're looking to do a couple of things in there.
+[00:12:57] One, to again think about actually what's the appropriate way
+[00:13:01] to
+[00:13:04] benchmark our costs or have a cost that is benchmarkable.
+[00:13:08] EPL do some functions that in many
+[00:13:11] organizations would actually be functions of an HR department.
+[00:13:14] Because schools don't have an HR department-
+[00:13:17] Mm-hmm
+[00:13:17] ... we kind of cover that ground. So we may look at the format of it,
+[00:13:21] but I think the other thing is to look at it being adjusted for CPI
+[00:13:25] because after 10 years, it's
+[00:13:28] pretty meaningless if you've had the same figure in place
+[00:13:32] over that period.
+[00:13:34] Madam Chair, that's okay, if I can continue.
+[00:13:36] So then my next question is on page eight when it comes to overpayment.
+[00:13:39] Mm-hmm.
+[00:13:41] I'm particularly interested in point A when you're talking about some of
+[00:13:45] them you have been working with
+[00:13:47] ministry to write off some of the-
+[00:13:49] Mm-hmm
+[00:13:50] ... bad debt or aged debt.
+[00:13:52] But you also mentioned of the 3.1 million currently that is
+[00:13:55] overpayment debt, 1.7 is from the ministry.
+[00:13:58] For the 1.4 that's from the school's Ops fund-
+[00:14:01] Mm-hmm
+[00:14:01] ... are you able to, working with schools, to write off some of the aged debt or
+[00:14:05] the 1.4 million is do schools still have to find some way
+[00:14:09] of paying it off via the Ops fund?
+[00:14:11] One, two. We are working with-
+[00:14:14] Okay
+[00:14:14] ... the Office of the Auditor General who does the school audit work.
+[00:14:17] Yeah.
+[00:14:18] Because that debt will sit on each
+[00:14:22] individual school's balance sheet.
+[00:14:23] Yeah.
+[00:14:23] So, it's a matter of working with schools and their boards to
+[00:14:28] be able to go through a process of writing that debt off.
+[00:14:31] Okay.
+[00:14:31] Yeah.
+[00:14:31] And sorry, final question on this, Madam Chair.
+[00:14:35] For both the ministry,
+[00:14:38] the overpayment debt, and also for school overpayment payment debt, what are the
+[00:14:42] main reason that
+[00:14:45] that debt existed and that you have the aged debt in the first place?
+[00:14:49] One, two.
+[00:14:50] So we track
+[00:14:52] payroll errors and make sure that we know what the source of those errors are.
+[00:14:57] Sometimes that will be information that is incorrectly
+[00:15:00] provided by schools, or it might be that we get late
+[00:15:04] advice of a termination or a change to someone's employment conditions.
+[00:15:08] So that can create
+[00:15:10] payments.
+[00:15:11] So there's errors on behalf of our payroll advisors.
+[00:15:16] I guess from our perspective,
+[00:15:20] we need to have a process in place to quickly identify where payroll
+[00:15:24] errors have been made because the sooner we identify them, the
+[00:15:28] easier it is to correct them.
+[00:15:30] Yeah.
+[00:15:30] And you can contact the employee and then go through the appropriate
+[00:15:34] process to have that debt repaid.
+[00:15:37] Yeah.
+[00:15:38] Once it gets old, it's much harder to recover.
+[00:15:41] And
+[00:15:43] we have to go through quite a structured process
+[00:15:47] with the school and with their employees to ensure that we can
+[00:15:51] work that through. So it's really critical that education payroll, from our
+[00:15:54] perspective, is onto those overpayments really
+[00:15:58] quickly, and that's the bit that we can control.
+[00:16:00] Cool. And I think your
+[00:16:02] point nine also lays out really clearly the proportionality of
+[00:16:06] the aged debt.
+[00:16:07] So that's very helpful to know that figure. Thank you.
+[00:16:10] Thank you.
+[00:16:11] It's just a curiosity question from me because-
+[00:16:13] Yeah
+[00:16:13] ... we've got Gerard here from technology company.
+[00:16:16] He's ours.
+[00:16:17] Yeah? Okay. So you're internal?
+[00:16:20] Yes.
+[00:16:20] Yes.
+[00:16:21] Right. That just says here, Hotu Digital and Technology-
+[00:16:24] That's just your-
+[00:16:25] .. assumes a separate business
+[00:16:26] ... description.
+[00:16:26] Right.
+[00:16:26] Your title.
+[00:16:27] Okay. So can I just ask, in terms of the technical
+[00:16:30] capability, you've talked about obviously the front end's been in since 2016.
+[00:16:34] What requirement
+[00:16:35] does the interface schools, the administrative staff within schools and
+[00:16:39] education payroll in terms of ongoing training and support when there's staff
+[00:16:42] turnover and input to the system and things like that?
+[00:16:47] So you're thinking in terms of our role with school administrators-
+[00:16:50] ... to help them keep up to date with changes?
+[00:16:53] Yep.
+[00:16:53] There is a-
+[00:16:55] Oh, and sorry, and in reverse, changes within faculty
+[00:16:58] within schools and their training requirements.
+[00:17:01] Mm-hmm.
+[00:17:01] Not necessarily changes you're making.
+[00:17:04] Okay.
+[00:17:05] So we do have
+[00:17:07] regular engagement into schools in the form of newsletters and things where we
+[00:17:11] are providing information that way through.
+[00:17:14] Changes that would happen at their perspective, we would be
+[00:17:18] told via the ministry really.
+[00:17:20] Yep.
+[00:17:21] So they're the bridge from us to schools.
+[00:17:24] So if there are changes to curriculum that then change
+[00:17:28] alliances, the ministry will let us know that in
+[00:17:32] time for us to code it in.
+[00:17:34] Yeah.
+[00:17:35] Sorry. And to perhaps reclarify, I think what I'm trying to ascertain
+[00:17:39] is, is there a portion of the work within your team, both
+[00:17:43] technically and non-technically, in terms of engagement with new
+[00:17:46] staff, training them or are they doing that internally at a school level
+[00:17:51] when there's new onboarding person that's having to deal with that interface that
+[00:17:54] you're talking about, that front of house?
+[00:17:56] It would be dealt with by the school.
+[00:17:57] Yeah.
+[00:17:58] But again, there's
+[00:18:01] products that we have in terms of
+[00:18:04] newsletters and things that could be helped.
+[00:18:07] And then a lot of our frontline staff, we have
+[00:18:11] a number of people who are the engagement point for a school administrator if
+[00:18:15] they've got a query or if they're struggling.
+[00:18:17] Yeah. Great.
+[00:18:17] And a lot of that would be help and assistance and-
+[00:18:21] Bit of a help desk.
+[00:18:22] We have on our website for a new school administrator-
+[00:18:25] Mm-hmm
+[00:18:26] ... we have quite a
+[00:18:26] good
+[00:18:30] structure to support people when they need to be onboarded.
+[00:18:34] Yeah.
+[00:18:34] And then we have school account administrators-
+[00:18:37] Right
+[00:18:38] ... who they can call that can guide them through.
+[00:18:40] But what's on the website is quite comprehensive and supports them again.
+[00:18:44] So effectively, you made a very efficient digitized system
+[00:18:47] that allows someone to onboard at any time of the-
+[00:18:51] Yes
+[00:18:51] ... school cycle.
+[00:18:52] Wonderful.
+[00:18:53] Yeah.
+[00:18:53] Great. Well, we've exhausted our list of questions, so there we go.
+[00:18:57] Yeah.
+[00:18:57] Thank you very much for making yourselves available for us today.
+[00:19:01] Absolutely.
+[00:19:01] And if there's any follow-up questions from the committee, you'll hear from our
+[00:19:04] secretariat. But really appreciate your time
+[00:19:08] today.
+[00:19:09] Thank you.
+[00:19:09] We appreciate your support.
+[00:19:11] Thank you.
+[00:19:12] Thanks.

@@ -1,0 +1,1939 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1340.92,
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 1.66,
+      "text": "We can see and hear you."
+    },
+    {
+      "start": 6.66,
+      "end": 7.96,
+      "text": "Welcome, Susan"
+    },
+    {
+      "start": 9.16,
+      "end": 11.62,
+      "text": "and Nikki. Do we also have Christine?"
+    },
+    {
+      "start": 13.46,
+      "end": 15.2,
+      "text": "Christine should be joining shortly."
+    },
+    {
+      "start": 16.08,
+      "end": 18.62,
+      "text": "Excellent. Well, welcome to the Health Select Committee."
+    },
+    {
+      "start": 18.86,
+      "end": 21.04,
+      "text": "We have received written"
+    },
+    {
+      "start": 22.58,
+      "end": 26.18,
+      "text": "information that you have provided to the committee."
+    },
+    {
+      "start": 26.66,
+      "end": 30.6,
+      "text": "We do have you here for 10 minutes that maybe you can talk the committee"
+    },
+    {
+      "start": 30.64,
+      "end": 34.48,
+      "text": "through the information that you've given or if there's any other information you'd"
+    },
+    {
+      "start": 34.52,
+      "end": 37.56,
+      "text": "like to add. So I'll hand that time over to you now."
+    },
+    {
+      "start": 38.34,
+      "end": 39.24,
+      "text": "Welcome, Christine."
+    },
+    {
+      "start": 40.36,
+      "end": 40.84,
+      "text": "Thank you."
+    },
+    {
+      "start": 42.04,
+      "end": 42.62,
+      "text": "Good morning."
+    },
+    {
+      "start": 44.7,
+      "end": 47.34,
+      "text": "Thank you for the opportunity to speak about Health New Zealand's approach to"
+    },
+    {
+      "start": 47.36,
+      "end": 51.1,
+      "text": "reducing meningitis risk and the impact, particularly meningococcal"
+    },
+    {
+      "start": 51.12,
+      "end": 52.36,
+      "text": "disease meningitis."
+    },
+    {
+      "start": 53.38,
+      "end": 54.98,
+      "text": "I have here with me today,"
+    },
+    {
+      "start": 55.8,
+      "end": 58.65,
+      "text": "Nikki Canterbury, National"
+    },
+    {
+      "start": 58.7,
+      "end": 62.46,
+      "text": "Director, Immunization of the National Public Health"
+    },
+    {
+      "start": 62.54,
+      "end": 65.64,
+      "text": "Service. I myself am Dr. Christine McIntosh."
+    },
+    {
+      "start": 65.68,
+      "end": 67.07,
+      "text": "I'm the Clinical Director of"
+    },
+    {
+      "start": 67.9,
+      "end": 71.68,
+      "text": "Prevention, Immunization in the National Public Health Service, and I have Dr."
+    },
+    {
+      "start": 71.88,
+      "end": 73.13,
+      "text": "Susan Jack with me today,"
+    },
+    {
+      "start": 74.04,
+      "end": 77.75,
+      "text": "National Clinical Director in Protection in the National Public Health Service."
+    },
+    {
+      "start": 79.18,
+      "end": 82.92,
+      "text": "Health New Zealand acknowledges the important work of the Meningitis Foundation and"
+    },
+    {
+      "start": 82.94,
+      "end": 86.2,
+      "text": "their aim to prevent meningitis and its impacts, and"
+    },
+    {
+      "start": 87.96,
+      "end": 91.06,
+      "text": "we recognize the foundation has recently presented to the committee."
+    },
+    {
+      "start": 92.24,
+      "end": 95.61,
+      "text": "Health New Zealand's strategy is an integrated public health approach, combining"
+    },
+    {
+      "start": 95.62,
+      "end": 99.13,
+      "text": "immunization, multiple access points, and targeted promotion,"
+    },
+    {
+      "start": 99.52,
+      "end": 101.28,
+      "text": "surveillance, and rapid response."
+    },
+    {
+      "start": 102.12,
+      "end": 105.42,
+      "text": "I'm going to hand over to Dr. Susan Jack to describe the surveillance and rapid"
+    },
+    {
+      "start": 105.46,
+      "end": 109.26,
+      "text": "response part of meningococcal disease, and then I'll discuss prevention through"
+    },
+    {
+      "start": 109.3,
+      "end": 111.46,
+      "text": "immunization. Over to you, Susan."
+    },
+    {
+      "start": 112.76,
+      "end": 116.58,
+      "text": "Thanks, Christine. So I know Meningitis Foundation"
+    },
+    {
+      "start": 116.64,
+      "end": 120.58,
+      "text": "have done a really great job at presenting about meningococcal disease, which,"
+    },
+    {
+      "start": 120.62,
+      "end": 124.04,
+      "text": "as you know, can present very suddenly and get worse"
+    },
+    {
+      "start": 124.68,
+      "end": 125.38,
+      "text": "very quickly."
+    },
+    {
+      "start": 126.24,
+      "end": 129.98,
+      "text": "Survivors, in addition, may experience major complications,"
+    },
+    {
+      "start": 130.04,
+      "end": 133.02,
+      "text": "including brain injury, hearing loss, or limb"
+    },
+    {
+      "start": 133.12,
+      "end": 136.76,
+      "text": "amputations, and it altogether has very significant"
+    },
+    {
+      "start": 136.82,
+      "end": 139.48,
+      "text": "impacts for individuals and families."
+    },
+    {
+      "start": 140.44,
+      "end": 144.24,
+      "text": "Meningococcal disease is caused by Neisseria meningitidis."
+    },
+    {
+      "start": 144.46,
+      "end": 148.2,
+      "text": "It's a bacteria, and in New Zealand, the key serogroups"
+    },
+    {
+      "start": 148.42,
+      "end": 152.16,
+      "text": "are groups B and W. And the data that we"
+    },
+    {
+      "start": 152.22,
+      "end": 155.6,
+      "text": "have shared in our submission shows a clear"
+    },
+    {
+      "start": 155.7,
+      "end": 159.62,
+      "text": "dominance of group B in both cases and deaths."
+    },
+    {
+      "start": 160.74,
+      "end": 164.44,
+      "text": "The risk for meningococcal invasive disease is not evenly"
+    },
+    {
+      "start": 164.52,
+      "end": 168.4,
+      "text": "distributed, so we have the highest incidence occurring in infants and"
+    },
+    {
+      "start": 168.48,
+      "end": 172.4,
+      "text": "children under five, and then again, another increase"
+    },
+    {
+      "start": 172.44,
+      "end": 176.36,
+      "text": "in adolescents and young adults, especially those aged 15"
+    },
+    {
+      "start": 176.42,
+      "end": 180.12,
+      "text": "to 19, where it's linked to close"
+    },
+    {
+      "start": 180.26,
+      "end": 184.06,
+      "text": "and prolonged contact. And as part of this"
+    },
+    {
+      "start": 184.1,
+      "end": 186.24,
+      "text": "close living settings are a key risk"
+    },
+    {
+      "start": 187.42,
+      "end": 190.95,
+      "text": "context. So we're talking about boarding schools, university halls of"
+    },
+    {
+      "start": 191.04,
+      "end": 194.23,
+      "text": "residence, military barracks, prisons, and other"
+    },
+    {
+      "start": 194.26,
+      "end": 197.12,
+      "text": "institutional or group living environments."
+    },
+    {
+      "start": 198.6,
+      "end": 202.26,
+      "text": "The greatest burden of disease falls on M\u0101ori, particularly"
+    },
+    {
+      "start": 202.32,
+      "end": 206.14,
+      "text": "infants under one, and also on Pacific peoples, and"
+    },
+    {
+      "start": 206.2,
+      "end": 210.06,
+      "text": "both these groups experience higher incidence of invasive"
+    },
+    {
+      "start": 210.12,
+      "end": 213.72,
+      "text": "meningococcal disease. In 2025, you'll see"
+    },
+    {
+      "start": 213.88,
+      "end": 217.58,
+      "text": "from our notes that over half of the cases occurred amongst"
+    },
+    {
+      "start": 217.62,
+      "end": 221.38,
+      "text": "M\u0101ori and Pacific peoples, and so therefore, these are the groups"
+    },
+    {
+      "start": 221.48,
+      "end": 222.76,
+      "text": "with greatest need."
+    },
+    {
+      "start": 224.16,
+      "end": 227.64,
+      "text": "So, as I said, meningococcal group B has been the dominant"
+    },
+    {
+      "start": 228.02,
+      "end": 231.02,
+      "text": "cause in recent years, and it also causes"
+    },
+    {
+      "start": 231.56,
+      "end": 235.18,
+      "text": "seasonal peaks in winter months, and this informs our planning and"
+    },
+    {
+      "start": 235.26,
+      "end": 236.32,
+      "text": "prevention efforts."
+    },
+    {
+      "start": 237.6,
+      "end": 241.17,
+      "text": "So alongside vaccination, strong surveillance and"
+    },
+    {
+      "start": 241.24,
+      "end": 244.74,
+      "text": "response systems are essential. Invasive"
+    },
+    {
+      "start": 244.88,
+      "end": 248.32,
+      "text": "meningococcal disease is legally notifiable, so this means"
+    },
+    {
+      "start": 248.36,
+      "end": 252.2,
+      "text": "clinicians must notify urgently when a case is suspected."
+    },
+    {
+      "start": 252.76,
+      "end": 255.62,
+      "text": "So this is without waiting even for lab confirmation."
+    },
+    {
+      "start": 255.66,
+      "end": 258.56,
+      "text": "They must inform us. Once notified,"
+    },
+    {
+      "start": 259.56,
+      "end": 263.16,
+      "text": "so notified to medical officers of health in our public health services,"
+    },
+    {
+      "start": 263.64,
+      "end": 267.08,
+      "text": "the public health services undertake urgent contact tracing"
+    },
+    {
+      "start": 267.72,
+      "end": 271.4,
+      "text": "and then provide clearance antibiotics to those who are deemed"
+    },
+    {
+      "start": 271.46,
+      "end": 275.3,
+      "text": "close contacts, and this is to reduce the risk of further"
+    },
+    {
+      "start": 275.4,
+      "end": 276.16,
+      "text": "transmission."
+    },
+    {
+      "start": 277.1,
+      "end": 280.34,
+      "text": "Our health practitioners are supported by national guidance to"
+    },
+    {
+      "start": 280.52,
+      "end": 284.23,
+      "text": "standardize notification and management across the country."
+    },
+    {
+      "start": 284.92,
+      "end": 288.81,
+      "text": "And this is one of those diseases where clinicians are very aware, and they"
+    },
+    {
+      "start": 288.86,
+      "end": 292.72,
+      "text": "do notify us urgently, and it's a rapid response"
+    },
+    {
+      "start": 292.98,
+      "end": 294.98,
+      "text": "that comes from the public health services."
+    },
+    {
+      "start": 295.86,
+      "end": 299.77,
+      "text": "At a national level, PHS Science, formerly ESR, monitors"
+    },
+    {
+      "start": 299.92,
+      "end": 303.56,
+      "text": "trends and also looks to identify"
+    },
+    {
+      "start": 303.6,
+      "end": 307.32,
+      "text": "potential geographic clusters. And if one of these clusters"
+    },
+    {
+      "start": 307.36,
+      "end": 310.82,
+      "text": "emerge, then they alert the local public health services,"
+    },
+    {
+      "start": 311.26,
+      "end": 314.8,
+      "text": "and we do follow up to see if there is a cluster or an outbreak happening."
+    },
+    {
+      "start": 315.7,
+      "end": 319.66,
+      "text": "I'm just going to hand back now to Christine to talk about the vaccinations."
+    },
+    {
+      "start": 321.66,
+      "end": 322.36,
+      "text": "Thanks, Susan."
+    },
+    {
+      "start": 323.68,
+      "end": 327.4,
+      "text": "As the committee are aware, Pharmac is the agency responsible for determining which"
+    },
+    {
+      "start": 327.48,
+      "end": 331.0,
+      "text": "vaccines will be funded and the criteria for accessing these."
+    },
+    {
+      "start": 331.54,
+      "end": 335.07,
+      "text": "As you know, Health New Zealand is responsible for implementing the immunization"
+    },
+    {
+      "start": 335.16,
+      "end": 338.98,
+      "text": "schedule, and we work very hard to maximize the uptake"
+    },
+    {
+      "start": 339.02,
+      "end": 342.62,
+      "text": "amongst eligible groups in ensuring really timely,"
+    },
+    {
+      "start": 343.22,
+      "end": 346.92,
+      "text": "easy access to vaccination. The key priority is"
+    },
+    {
+      "start": 346.96,
+      "end": 350.84,
+      "text": "achieving high immunization coverage, particularly among the populations"
+    },
+    {
+      "start": 350.9,
+      "end": 352.48,
+      "text": "with the greatest health need."
+    },
+    {
+      "start": 353.5,
+      "end": 357.42,
+      "text": "There are three vaccine types on the National Immunization Schedule,"
+    },
+    {
+      "start": 357.44,
+      "end": 360.9,
+      "text": "which protect against the causes of meningitis, including"
+    },
+    {
+      "start": 360.92,
+      "end": 364.84,
+      "text": "pneumococcal and Haemophilus influenzae, but today we'll focus on the"
+    },
+    {
+      "start": 364.88,
+      "end": 368.46,
+      "text": "meningococcal vaccines because we believe that's the focus of the Meningitis"
+    },
+    {
+      "start": 368.5,
+      "end": 372.18,
+      "text": "Foundation and this situation.There are two"
+    },
+    {
+      "start": 372.24,
+      "end": 376.08,
+      "text": "meningococcal vaccines, one called MenB, and the brand"
+    },
+    {
+      "start": 376.16,
+      "end": 378.41,
+      "text": "name for that at the moment is Bexsero, and"
+    },
+    {
+      "start": 378.72,
+      "end": 382.16,
+      "text": "MenACWY. Menquadfi is the"
+    },
+    {
+      "start": 382.56,
+      "end": 386.22,
+      "text": "brand name for that at the moment. And these are funded for"
+    },
+    {
+      "start": 386.4,
+      "end": 390.16,
+      "text": "very specific groups. MenB has been funded since"
+    },
+    {
+      "start": 390.34,
+      "end": 394.24,
+      "text": "2023. It's funded for all children under the age of five,"
+    },
+    {
+      "start": 394.28,
+      "end": 397.76,
+      "text": "and it's scheduled at 3 months, 5 months, and 12 months of age."
+    },
+    {
+      "start": 398.36,
+      "end": 401.7,
+      "text": "And there is funded catch-up for children under the age of five."
+    },
+    {
+      "start": 402.7,
+      "end": 405.52,
+      "text": "It's also funded for two doses for 13 to"
+    },
+    {
+      "start": 405.74,
+      "end": 409.32,
+      "text": "25-year-olds who are entering or living in close contact"
+    },
+    {
+      "start": 409.38,
+      "end": 411.82,
+      "text": "settings that Susan has already described."
+    },
+    {
+      "start": 412.79,
+      "end": 416.75,
+      "text": "The other vaccine, MenACWY, has been funded for one dose"
+    },
+    {
+      "start": 416.78,
+      "end": 420.74,
+      "text": "since 2019. It's funded for the same adolescent and young adult"
+    },
+    {
+      "start": 420.8,
+      "end": 422.72,
+      "text": "group as the MenB immunization"
+    },
+    {
+      "start": 423.58,
+      "end": 427.52,
+      "text": "and the 13 to 25-year-old age group, and in"
+    },
+    {
+      "start": 427.56,
+      "end": 430.06,
+      "text": "the same eligible close-living situations."
+    },
+    {
+      "start": 430.7,
+      "end": 434.64,
+      "text": "Both MenB and MenACWY are also funded for people"
+    },
+    {
+      "start": 434.68,
+      "end": 438.44,
+      "text": "at increased clinical risk because of underlying health conditions"
+    },
+    {
+      "start": 438.52,
+      "end": 441.34,
+      "text": "or when they are a close contact of a confirmed case."
+    },
+    {
+      "start": 443.52,
+      "end": 446.88,
+      "text": "With regards to access and uptake of the vaccination,"
+    },
+    {
+      "start": 447.42,
+      "end": 450.48,
+      "text": "general practice remains the primary delivery channel for"
+    },
+    {
+      "start": 450.84,
+      "end": 454.76,
+      "text": "vaccinations for meningococcal vaccines, with outreach"
+    },
+    {
+      "start": 454.8,
+      "end": 458.42,
+      "text": "immunization services, including the Hauora M\u0101ori partners and Pacific"
+    },
+    {
+      "start": 458.5,
+      "end": 462.24,
+      "text": "providers, supporting reach into communities with high need."
+    },
+    {
+      "start": 464.38,
+      "end": 466.98,
+      "text": "Delivery settings have expanded to reduce barriers,"
+    },
+    {
+      "start": 467.84,
+      "end": 471.78,
+      "text": "and this has occurred particularly in the last three to four years with"
+    },
+    {
+      "start": 471.92,
+      "end": 475.68,
+      "text": "Well Child Tamariki Ora services including Wh\u0101nau \u0100tina Plunket,"
+    },
+    {
+      "start": 475.84,
+      "end": 479.76,
+      "text": "midwives, particularly for the younger age groups and in"
+    },
+    {
+      "start": 479.82,
+      "end": 483.27,
+      "text": "our older age group eligibility, youth health services and tertiary"
+    },
+    {
+      "start": 483.34,
+      "end": 485.84,
+      "text": "education health providers increasing access."
+    },
+    {
+      "start": 486.76,
+      "end": 490.7,
+      "text": "In addition, since 2024, community pharmacies"
+    },
+    {
+      "start": 490.72,
+      "end": 494.62,
+      "text": "have also been able to order and administer meningococcal vaccines, and"
+    },
+    {
+      "start": 494.66,
+      "end": 498.61,
+      "text": "we now have 475 pharmacies across the country currently able"
+    },
+    {
+      "start": 498.66,
+      "end": 500.86,
+      "text": "to offer funded meningococcal vaccination."
+    },
+    {
+      "start": 502.02,
+      "end": 504.4,
+      "text": "Consumer access to immunization"
+    },
+    {
+      "start": 506.18,
+      "end": 510.11,
+      "text": "is supported through Book my Vaccine, through the Vaccination Helpline, and"
+    },
+    {
+      "start": 510.24,
+      "end": 513.78,
+      "text": "access to immunization records through My Health Records."
+    },
+    {
+      "start": 513.85,
+      "end": 517.73,
+      "text": "So people have much better visibility of their own immunization"
+    },
+    {
+      "start": 517.78,
+      "end": 518.42,
+      "text": "records now."
+    },
+    {
+      "start": 519.63,
+      "end": 523.52,
+      "text": "The coverage is improving, as you can see from the submission, but gaps"
+    },
+    {
+      "start": 523.56,
+      "end": 527.3,
+      "text": "do remain in populations experiencing the higher burden of disease."
+    },
+    {
+      "start": 527.74,
+      "end": 531.02,
+      "text": "In particular, we draw your attention, as Susan has, to the"
+    },
+    {
+      "start": 531.1,
+      "end": 533.97,
+      "text": "MenB vaccination with full"
+    },
+    {
+      "start": 534.06,
+      "end": 537.92,
+      "text": "immunization at one year of age, 72% for all"
+    },
+    {
+      "start": 538.1,
+      "end": 541.78,
+      "text": "ethnicities, but 58% for M\u0101ori and 69% for"
+    },
+    {
+      "start": 541.8,
+      "end": 545.62,
+      "text": "Pacific people. It's really important to stress that the timeliness of those"
+    },
+    {
+      "start": 545.66,
+      "end": 548.77,
+      "text": "vaccines in the first year of life are really, really important because that is-"
+    },
+    {
+      "start": 548.78,
+      "end": 550.66,
+      "text": "Christine, sorry, I don't want to interrupt."
+    },
+    {
+      "start": 550.7,
+      "end": 552.69,
+      "text": "We are running out of time, and we have got-"
+    },
+    {
+      "start": 553.26,
+      "end": 555.98,
+      "text": "we have got indication of some questions from the committee."
+    },
+    {
+      "start": 556.06,
+      "end": 559.66,
+      "text": "So is there any other key points left that you would like to"
+    },
+    {
+      "start": 559.7,
+      "end": 560.12,
+      "text": "raise?"
+    },
+    {
+      "start": 560.48,
+      "end": 564.47,
+      "text": "Yes, I'd just like to raise that we have increased"
+    },
+    {
+      "start": 564.52,
+      "end": 568.36,
+      "text": "our promotion efforts since 2023, working quite extensively with"
+    },
+    {
+      "start": 568.42,
+      "end": 572.34,
+      "text": "schools and boarding facilities and tertiary education, and also that"
+    },
+    {
+      "start": 572.48,
+      "end": 576.36,
+      "text": "we are partnered with the Meningitis Foundation, particularly during Meningitis"
+    },
+    {
+      "start": 576.42,
+      "end": 579.8,
+      "text": "Campaign Week, to really support increasing"
+    },
+    {
+      "start": 579.88,
+      "end": 581.97,
+      "text": "awareness of the meningitis vaccines."
+    },
+    {
+      "start": 582.74,
+      "end": 584.66,
+      "text": "So thank you to the committee for hearing"
+    },
+    {
+      "start": 587.92,
+      "end": 591.24,
+      "text": "from us this morning and for taking our submission."
+    },
+    {
+      "start": 591.3,
+      "end": 591.49,
+      "text": "Excellent."
+    },
+    {
+      "start": 591.54,
+      "end": 593.14,
+      "text": "Happy to have any questions."
+    },
+    {
+      "start": 593.18,
+      "end": 593.55,
+      "text": "Right."
+    },
+    {
+      "start": 594.42,
+      "end": 598.02,
+      "text": "With the committee's forbearance, I'd just like to draw out some points, maybe over"
+    },
+    {
+      "start": 598.06,
+      "end": 598.84,
+      "text": "a few questions."
+    },
+    {
+      "start": 599.74,
+      "end": 603.16,
+      "text": "Is it correct that the duration of action of these"
+    },
+    {
+      "start": 603.2,
+      "end": 606.18,
+      "text": "vaccines is approximately five years?"
+    },
+    {
+      "start": 609.38,
+      "end": 612.69,
+      "text": "Do you want me to take that, Christine? Yeah. So, Dr."
+    },
+    {
+      "start": 612.88,
+      "end": 616.62,
+      "text": "Farrell, that is correct for the MenACWY, and"
+    },
+    {
+      "start": 616.72,
+      "end": 620.28,
+      "text": "for the MenB, it's actually shorter than that, two or three"
+    },
+    {
+      "start": 620.32,
+      "end": 623.4,
+      "text": "years best coverage. So"
+    },
+    {
+      "start": 624.4,
+      "end": 628.22,
+      "text": "yeah, the timing of the vaccinations are timed for the"
+    },
+    {
+      "start": 628.26,
+      "end": 630.86,
+      "text": "greatest need, greatest risk"
+    },
+    {
+      "start": 631.04,
+      "end": 632.42,
+      "text": "time."
+    },
+    {
+      "start": 633.6,
+      "end": 635.98,
+      "text": "We have heard about"
+    },
+    {
+      "start": 638.1,
+      "end": 638.62,
+      "text": "tragic"
+    },
+    {
+      "start": 639.94,
+      "end": 643.22,
+      "text": "impacts of meningococcal disease on the committee."
+    },
+    {
+      "start": 644.38,
+      "end": 648.33,
+      "text": "Can you design a schedule that is practical"
+    },
+    {
+      "start": 648.6,
+      "end": 652.02,
+      "text": "that could prevent all cases of meningococcal disease?"
+    },
+    {
+      "start": 653.02,
+      "end": 654.38,
+      "text": "If not, why not?"
+    },
+    {
+      "start": 659.06,
+      "end": 662.98,
+      "text": "So as you know, it's actually a rare disease, so"
+    },
+    {
+      "start": 663.12,
+      "end": 664.4,
+      "text": "you do need to have"
+    },
+    {
+      "start": 665.44,
+      "end": 668.52,
+      "text": "really great coverage if you're going to protect every single case."
+    },
+    {
+      "start": 669.26,
+      "end": 673.16,
+      "text": "So by the vaccination schedule for protecting our"
+    },
+    {
+      "start": 673.56,
+      "end": 676.56,
+      "text": "young children, our under fives,"
+    },
+    {
+      "start": 677.62,
+      "end": 681.5,
+      "text": "that is the routine schedule, so that is one that we're"
+    },
+    {
+      "start": 681.56,
+      "end": 683.98,
+      "text": "absolutely putting a lot of focus on."
+    },
+    {
+      "start": 684.02,
+      "end": 687.4,
+      "text": "For the adolescents, it is trickier because at the moment,"
+    },
+    {
+      "start": 688.2,
+      "end": 691.04,
+      "text": "it is funded for those going into"
+    },
+    {
+      "start": 691.3,
+      "end": 694.92,
+      "text": "residential boarding facilities or halls of"
+    },
+    {
+      "start": 694.96,
+      "end": 695.66,
+      "text": "residence."
+    },
+    {
+      "start": 696.48,
+      "end": 700.4,
+      "text": "And so a lot of effort has gone into promotion of that, but"
+    },
+    {
+      "start": 700.44,
+      "end": 704.32,
+      "text": "we realize that's less than full coverage at this point,"
+    },
+    {
+      "start": 704.36,
+      "end": 706.08,
+      "text": "and we'll continue working on that."
+    },
+    {
+      "start": 706.88,
+      "end": 707.02,
+      "text": "Mm."
+    },
+    {
+      "start": 707.68,
+      "end": 711.48,
+      "text": "Excellent. Thank you. We have reached time, so thank you very much for"
+    },
+    {
+      "start": 711.88,
+      "end": 713.76,
+      "text": "both your written and oral submission."
+    },
+    {
+      "start": 714.34,
+      "end": 717.28,
+      "text": "We really appreciate the evidence and expertise you've brought to the matter."
+    },
+    {
+      "start": 717.52,
+      "end": 717.84,
+      "text": "Thank you."
+    },
+    {
+      "start": 719.6,
+      "end": 723.4,
+      "text": "We now will move to the Immunization Advisory Centre, and I"
+    },
+    {
+      "start": 723.48,
+      "end": 725.14,
+      "text": "do believe they're with us in person."
+    },
+    {
+      "start": 726.38,
+      "end": 726.86,
+      "text": "Excellent."
+    },
+    {
+      "start": 739.37,
+      "end": 739.63,
+      "text": "Okay."
+    },
+    {
+      "start": 741.35,
+      "end": 743.53,
+      "text": "I think Nicole's gone to the washroom."
+    },
+    {
+      "start": 743.59,
+      "end": 744.15,
+      "text": "She'll be back in-"
+    },
+    {
+      "start": 744.57,
+      "end": 745.77,
+      "text": "Right. That makes sense"
+    },
+    {
+      "start": 746.11,
+      "end": 746.83,
+      "text": "... but she's here."
+    },
+    {
+      "start": 748.51,
+      "end": 751.08,
+      "text": "But if you want to do that, I've got you. So, okay."
+    },
+    {
+      "start": 751.09,
+      "end": 753.66,
+      "text": "I'll do it with that."
+    },
+    {
+      "start": 755.17,
+      "end": 812.23,
+      "text": "To"
+    },
+    {
+      "start": 817.49,
+      "end": 820.89,
+      "text": "cause meningitis or septicaemia. That is extremely rare."
+    },
+    {
+      "start": 820.95,
+      "end": 824.9,
+      "text": "Carriage is common. The people who are most affected in our country are"
+    },
+    {
+      "start": 824.95,
+      "end": 828.73,
+      "text": "young infants. The second highest risk group is teenagers and young"
+    },
+    {
+      "start": 828.79,
+      "end": 831.07,
+      "text": "adults, but it goes across the whole population."
+    },
+    {
+      "start": 831.63,
+      "end": 833.91,
+      "text": "There are particular groups who are at higher risk."
+    },
+    {
+      "start": 834.55,
+      "end": 838.23,
+      "text": "Those where it seems to get easier from the back of the"
+    },
+    {
+      "start": 838.29,
+      "end": 839.39,
+      "text": "throat into the body,"
+    },
+    {
+      "start": 840.43,
+      "end": 842.64,
+      "text": "close contact, crowded households."
+    },
+    {
+      "start": 843.09,
+      "end": 846.81,
+      "text": "As you would expect, it's higher in crowded households, M\u0101ori and Pasifika"
+    },
+    {
+      "start": 846.91,
+      "end": 850.71,
+      "text": "people have higher rates. There are two vaccines available."
+    },
+    {
+      "start": 850.73,
+      "end": 852.49,
+      "text": "Both are very effective in New Zealand."
+    },
+    {
+      "start": 853.05,
+      "end": 856.39,
+      "text": "One is for B, and one is for four other serotypes called"
+    },
+    {
+      "start": 856.45,
+      "end": 857.13,
+      "text": "ACWY."
+    },
+    {
+      "start": 858.39,
+      "end": 861.89,
+      "text": "Currently, in New Zealand, serotypes, 75% are B,"
+    },
+    {
+      "start": 862.53,
+      "end": 866.05,
+      "text": "and about a quarter are within the other vaccine."
+    },
+    {
+      "start": 866.74,
+      "end": 870.67,
+      "text": "Serotypes change over time. New Zealand's had a higher"
+    },
+    {
+      "start": 870.71,
+      "end": 873.53,
+      "text": "rate of meningococcal disease prior to COVID."
+    },
+    {
+      "start": 874.17,
+      "end": 877.73,
+      "text": "Because of the reduction in respiratory illnesses at COVID time,"
+    },
+    {
+      "start": 878.45,
+      "end": 881.75,
+      "text": "when we shut our borders, we also had a secondary reduction in bacterial"
+    },
+    {
+      "start": 881.79,
+      "end": 885.35,
+      "text": "infections. So the COVID epidemiology now is"
+    },
+    {
+      "start": 885.39,
+      "end": 889.05,
+      "text": "expected to change in the next few years. So we need to be ready for that."
+    },
+    {
+      "start": 889.49,
+      "end": 893.15,
+      "text": "So even though we're 75% B, the other strains are important."
+    },
+    {
+      "start": 893.75,
+      "end": 895.15,
+      "text": "That's a very quick overview."
+    },
+    {
+      "start": 896.09,
+      "end": 899.71,
+      "text": "So current New Zealand situation is that we offer the B"
+    },
+    {
+      "start": 899.77,
+      "end": 902.77,
+      "text": "vaccine to our infant program. We offer"
+    },
+    {
+      "start": 903.87,
+      "end": 907.61,
+      "text": "the B and the quadrivalent to our teenagers,"
+    },
+    {
+      "start": 908.11,
+      "end": 911.9,
+      "text": "our young adults in high-risk situations, in crowded situations,"
+    },
+    {
+      "start": 912.45,
+      "end": 915.37,
+      "text": "going to universities, boarding schools,"
+    },
+    {
+      "start": 915.73,
+      "end": 919.51,
+      "text": "military, prisons, youth offending, where they're in crowded"
+    },
+    {
+      "start": 919.57,
+      "end": 923.25,
+      "text": "situations. We don't know how well that strategy is working."
+    },
+    {
+      "start": 923.45,
+      "end": 926.01,
+      "text": "Usually, targeted strategies aren't highly effective."
+    },
+    {
+      "start": 926.81,
+      "end": 930.13,
+      "text": "Could we do better? I'm not going to carefully go through all our"
+    },
+    {
+      "start": 930.17,
+      "end": 933.87,
+      "text": "recommendations due to time. I'm going to really hit the nail."
+    },
+    {
+      "start": 933.93,
+      "end": 936.87,
+      "text": "So firstly, we could do better with our infant program."
+    },
+    {
+      "start": 937.23,
+      "end": 939.97,
+      "text": "I'm sure everybody in this room knows that we could do better."
+    },
+    {
+      "start": 940.43,
+      "end": 944.35,
+      "text": "One thing we are not doing currently with Becsero is delivering it at six"
+    },
+    {
+      "start": 944.39,
+      "end": 947.49,
+      "text": "weeks of age. We're delivering it after the first dose."
+    },
+    {
+      "start": 947.51,
+      "end": 951.41,
+      "text": "So that would be a reasonably easy win to reduce the delivery of the"
+    },
+    {
+      "start": 951.45,
+      "end": 955.25,
+      "text": "first stage to tie it in with the first immunization event, then to"
+    },
+    {
+      "start": 955.29,
+      "end": 959.19,
+      "text": "ensure all infants are enrolled effectively with primary care and found."
+    },
+    {
+      "start": 959.6,
+      "end": 963.45,
+      "text": "So that's part of the strategy for improving the infant program."
+    },
+    {
+      "start": 964.71,
+      "end": 967.05,
+      "text": "Can we improve the high-risk program?"
+    },
+    {
+      "start": 967.55,
+      "end": 971.45,
+      "text": "That's to high-risk medical conditions, and that's to teenagers and young"
+    },
+    {
+      "start": 971.49,
+      "end": 973.81,
+      "text": "adults in crowded conditions. We can."
+    },
+    {
+      "start": 973.85,
+      "end": 977.65,
+      "text": "We have a range of recommendations within our written submission."
+    },
+    {
+      "start": 977.69,
+      "end": 981.15,
+      "text": "We can do better. Could we deliver a universal"
+    },
+    {
+      "start": 981.23,
+      "end": 983.01,
+      "text": "program? It is possible."
+    },
+    {
+      "start": 983.95,
+      "end": 987.53,
+      "text": "Other equivalent countries are currently delivering, particularly the"
+    },
+    {
+      "start": 987.57,
+      "end": 990.91,
+      "text": "quadrivalent. Many countries are doing that to infants."
+    },
+    {
+      "start": 991.43,
+      "end": 995.29,
+      "text": "I would suggest as the epidemiology changes, we'll need to be delivering a"
+    },
+    {
+      "start": 995.33,
+      "end": 998.65,
+      "text": "quadrivalent infant program because they're the highest risk."
+    },
+    {
+      "start": 999.25,
+      "end": 1003.07,
+      "text": "Teenagers and young adults, yes, you could do a universal program."
+    },
+    {
+      "start": 1003.43,
+      "end": 1006.69,
+      "text": "It's complex. These vaccines need boosting."
+    },
+    {
+      "start": 1006.87,
+      "end": 1009.87,
+      "text": "They only last three to five years, so we don't want to give it too early."
+    },
+    {
+      "start": 1010.27,
+      "end": 1010.63,
+      "text": "So our"
+    },
+    {
+      "start": 1011.43,
+      "end": 1014.95,
+      "text": "current program is intermediate schools is too early."
+    },
+    {
+      "start": 1015.37,
+      "end": 1018.77,
+      "text": "We would need a high school-based program to be able to deliver"
+    },
+    {
+      "start": 1018.79,
+      "end": 1022.63,
+      "text": "effectively, or you'd need to boost, all of which would cost a lot of"
+    },
+    {
+      "start": 1022.67,
+      "end": 1023.31,
+      "text": "resources,"
+    },
+    {
+      "start": 1024.19,
+      "end": 1027.91,
+      "text": "but it's possible. Australia currently is the only comparable country."
+    },
+    {
+      "start": 1028.01,
+      "end": 1030.81,
+      "text": "South Australia delivers a B program in adolescence."
+    },
+    {
+      "start": 1031.37,
+      "end": 1034.27,
+      "text": "We're still waiting for the evaluation of how effective that is."
+    },
+    {
+      "start": 1034.67,
+      "end": 1036.45,
+      "text": "So it is possible, a universal program,"
+    },
+    {
+      "start": 1037.43,
+      "end": 1041.18,
+      "text": "but it's tricky. So what I wanted to finish with is actually New"
+    },
+    {
+      "start": 1041.25,
+      "end": 1045.02,
+      "text": "Zealand has a couple of really high needs other vaccines."
+    },
+    {
+      "start": 1045.17,
+      "end": 1049.12,
+      "text": "I'm going to use this opportunity to push for infant RSV, that"
+    },
+    {
+      "start": 1049.17,
+      "end": 1053.13,
+      "text": "many of you know that. It causes up to 50%, if not more,"
+    },
+    {
+      "start": 1053.65,
+      "end": 1056.49,
+      "text": "of our infant winter respiratory admissions."
+    },
+    {
+      "start": 1056.79,
+      "end": 1060.47,
+      "text": "We're just about to hit into there. I'm a frontline healthcare professional."
+    },
+    {
+      "start": 1060.53,
+      "end": 1064.09,
+      "text": "We will get slammed this winter, every winter, by RSV."
+    },
+    {
+      "start": 1064.61,
+      "end": 1067.93,
+      "text": "There is effective, established vaccines or"
+    },
+    {
+      "start": 1068.05,
+      "end": 1072.03,
+      "text": "immunotherapeutics to reduce the burden of RSV in infancy"
+    },
+    {
+      "start": 1072.07,
+      "end": 1075.25,
+      "text": "that most other comparable countries plus have introduced."
+    },
+    {
+      "start": 1075.67,
+      "end": 1079.57,
+      "text": "We need that now. My second plea, because I'm taking the moment, the"
+    },
+    {
+      "start": 1079.63,
+      "end": 1082.31,
+      "text": "shingles vaccine in the slightly more mature ages."
+    },
+    {
+      "start": 1082.45,
+      "end": 1082.65,
+      "text": "Yeah."
+    },
+    {
+      "start": 1082.69,
+      "end": 1086.33,
+      "text": "We only get the shingles vaccine to 65 years of age,"
+    },
+    {
+      "start": 1086.59,
+      "end": 1088.6,
+      "text": "full stop, just in that one year."
+    },
+    {
+      "start": 1088.67,
+      "end": 1092.55,
+      "text": "What we know is a considerable burden of shingles in adults from"
+    },
+    {
+      "start": 1092.71,
+      "end": 1096.65,
+      "text": "65 years and up. We have an aging population like myself."
+    },
+    {
+      "start": 1096.91,
+      "end": 1097.05,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1097.35,
+      "end": 1100.27,
+      "text": "We have lots and lots of what we would call immunosenescence."
+    },
+    {
+      "start": 1100.65,
+      "end": 1103.13,
+      "text": "We have lots of people with significant medical problems."
+    },
+    {
+      "start": 1103.17,
+      "end": 1106.22,
+      "text": "Shingles is a huge burden, and New Zealand is falling"
+    },
+    {
+      "start": 1106.23,
+      "end": 1109.25,
+      "text": "behind similar countries for these important"
+    },
+    {
+      "start": 1109.29,
+      "end": 1113.19,
+      "text": "vaccines that we are currently not getting, even though I celebrate the"
+    },
+    {
+      "start": 1113.23,
+      "end": 1116.63,
+      "text": "changes to the flu program this year. So if you could allow that for her."
+    },
+    {
+      "start": 1117.45,
+      "end": 1117.93,
+      "text": "Sum it up?"
+    },
+    {
+      "start": 1119.83,
+      "end": 1121.61,
+      "text": "Do we have any questions from the committee?"
+    },
+    {
+      "start": 1121.71,
+      "end": 1122.95,
+      "text": "Yes. Please"
+    },
+    {
+      "start": 1124.28,
+      "end": 1125.68,
+      "text": "Thanks for your comments about"
+    },
+    {
+      "start": 1127.14,
+      "end": 1130.8,
+      "text": "the possibility of a universal vaccine for"
+    },
+    {
+      "start": 1130.86,
+      "end": 1133.48,
+      "text": "adolescents, which is currently targeted."
+    },
+    {
+      "start": 1133.52,
+      "end": 1137.42,
+      "text": "That is in line with the submission that we received, your"
+    },
+    {
+      "start": 1137.44,
+      "end": 1139.36,
+      "text": "written from the Meningitis Foundation."
+    },
+    {
+      "start": 1139.86,
+      "end": 1141.86,
+      "text": "And that written submission"
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.98,
+      "text": "says that improving coverage for the currently"
+    },
+    {
+      "start": 1147.2,
+      "end": 1149.42,
+      "text": "eligible groups should be the priority."
+    },
+    {
+      "start": 1149.48,
+      "end": 1149.74,
+      "text": "Yes."
+    },
+    {
+      "start": 1149.96,
+      "end": 1153.31,
+      "text": "Help me explain why you've said that priority,"
+    },
+    {
+      "start": 1154.06,
+      "end": 1157.74,
+      "text": "and we're both aware that Pharmac makes these"
+    },
+    {
+      "start": 1157.8,
+      "end": 1159.2,
+      "text": "cost-benefit decisions."
+    },
+    {
+      "start": 1159.7,
+      "end": 1163.14,
+      "text": "Trying to bring new people into eligibility when you've already"
+    },
+    {
+      "start": 1163.2,
+      "end": 1166.84,
+      "text": "picked the lowest-hanging fruit in terms of the"
+    },
+    {
+      "start": 1166.9,
+      "end": 1170.56,
+      "text": "highest-risk groups, does that mean that you're"
+    },
+    {
+      "start": 1170.6,
+      "end": 1173.6,
+      "text": "dealing with more and more people to"
+    },
+    {
+      "start": 1173.64,
+      "end": 1177.4,
+      "text": "vaccinate for fewer and fewer cases prevented as you"
+    },
+    {
+      "start": 1177.46,
+      "end": 1179.66,
+      "text": "move outside the highest-risk groups?"
+    },
+    {
+      "start": 1180.08,
+      "end": 1182.4,
+      "text": "Universal programs are always the most effective."
+    },
+    {
+      "start": 1182.84,
+      "end": 1185.54,
+      "text": "School-based universal program would be ideal."
+    },
+    {
+      "start": 1185.58,
+      "end": 1189.22,
+      "text": "So a school-based adolescent, high school-based 15 or"
+    },
+    {
+      "start": 1189.26,
+      "end": 1193.16,
+      "text": "16-year-olds universal program would be the best to reduce the"
+    },
+    {
+      "start": 1193.2,
+      "end": 1196.4,
+      "text": "burden of meningococcal in adolescents and young adults."
+    },
+    {
+      "start": 1196.58,
+      "end": 1196.82,
+      "text": "It's"
+    },
+    {
+      "start": 1197.82,
+      "end": 1200.24,
+      "text": "a horrible disease, but it's relatively rare."
+    },
+    {
+      "start": 1200.32,
+      "end": 1200.33,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1200.76,
+      "end": 1203.44,
+      "text": "So I think you'll find the cost benefit doesn't stack up."
+    },
+    {
+      "start": 1203.52,
+      "end": 1207.12,
+      "text": "That is the best answer. As a medic, I'd say, \"Yes, please, I would like a"
+    },
+    {
+      "start": 1207.18,
+      "end": 1209.3,
+      "text": "universal adolescent high school-based program.\""
+    },
+    {
+      "start": 1209.66,
+      "end": 1213.12,
+      "text": "Okay. And the reason why you took the opportunity to mention those two other"
+    },
+    {
+      "start": 1213.18,
+      "end": 1213.94,
+      "text": "vaccines is,"
+    },
+    {
+      "start": 1215.34,
+      "end": 1219.0,
+      "text": "you have a sense that those will be better cost benefit than"
+    },
+    {
+      "start": 1219.96,
+      "end": 1221.68,
+      "text": "wider eligibility to meningococcal?"
+    },
+    {
+      "start": 1221.98,
+      "end": 1225.79,
+      "text": "That is correct. I believe they will be better cost benefit for the benefit of our"
+    },
+    {
+      "start": 1225.84,
+      "end": 1229.56,
+      "text": "community. Now, I do recognize that this is a horrendous disease with"
+    },
+    {
+      "start": 1229.62,
+      "end": 1232.08,
+      "text": "terrible outcomes, but it is rare."
+    },
+    {
+      "start": 1232.78,
+      "end": 1236.66,
+      "text": "So we could improve the current highly targeted program."
+    },
+    {
+      "start": 1236.71,
+      "end": 1240.52,
+      "text": "Now, I do have to say that highly targeted programs are always hard to"
+    },
+    {
+      "start": 1240.56,
+      "end": 1243.72,
+      "text": "improve, particularly in this age group. Let's be realistic."
+    },
+    {
+      "start": 1244.24,
+      "end": 1248.13,
+      "text": "We've all had adolescents and young adults, and some of this is lifestyle, so it's"
+    },
+    {
+      "start": 1248.18,
+      "end": 1249.0,
+      "text": "a tricky one."
+    },
+    {
+      "start": 1249.02,
+      "end": 1250.32,
+      "text": "Yeah. One more question from Rachel."
+    },
+    {
+      "start": 1250.36,
+      "end": 1250.7,
+      "text": "Go for it."
+    },
+    {
+      "start": 1250.76,
+      "end": 1251.36,
+      "text": "Thank you."
+    },
+    {
+      "start": 1251.44,
+      "end": 1253.47,
+      "text": "All right. wrap. Awesome. Thank you."
+    },
+    {
+      "start": 1253.54,
+      "end": 1255.9,
+      "text": "We heard a very distressing-"
+    },
+    {
+      "start": 1256.06,
+      "end": 1256.15,
+      "text": "Yes"
+    },
+    {
+      "start": 1256.16,
+      "end": 1259.14,
+      "text": "... experience of a woman in her 30s with"
+    },
+    {
+      "start": 1260.2,
+      "end": 1261.16,
+      "text": "severe meningococcal-"
+    },
+    {
+      "start": 1261.42,
+      "end": 1261.6,
+      "text": "Yeah"
+    },
+    {
+      "start": 1261.61,
+      "end": 1264.26,
+      "text": "... disease and permanent complications as a-"
+    },
+    {
+      "start": 1264.87,
+      "end": 1268.18,
+      "text": "... result. Because the"
+    },
+    {
+      "start": 1268.58,
+      "end": 1272.34,
+      "text": "duration of action of these vaccines are five years, can you ever"
+    },
+    {
+      "start": 1272.38,
+      "end": 1276.34,
+      "text": "imagine a time that we're able to prevent across the lifespan"
+    },
+    {
+      "start": 1276.41,
+      "end": 1277.55,
+      "text": "of a meningococcal disease?"
+    },
+    {
+      "start": 1277.59,
+      "end": 1281.21,
+      "text": "That's what we hoped for. We hoped we would get herd immunity like we have with"
+    },
+    {
+      "start": 1281.28,
+      "end": 1285.08,
+      "text": "other vaccines. Now, at this stage, there is no clear evidence for"
+    },
+    {
+      "start": 1285.16,
+      "end": 1288.62,
+      "text": "B of herd immunity, so that's why we haven't got a magic"
+    },
+    {
+      "start": 1288.68,
+      "end": 1292.56,
+      "text": "vaccine for that woman. There is herd immunity with the C,"
+    },
+    {
+      "start": 1292.92,
+      "end": 1296.74,
+      "text": "but the most common type at the moment in the vaccine we have, B,"
+    },
+    {
+      "start": 1296.76,
+      "end": 1300.14,
+      "text": "does not appear to have herd immunity, and that's the recent South Australian"
+    },
+    {
+      "start": 1300.2,
+      "end": 1302.04,
+      "text": "evidence. So that's why it's hard."
+    },
+    {
+      "start": 1302.08,
+      "end": 1304.89,
+      "text": "The other thing we should be looking at much harder is why that woman, why"
+    },
+    {
+      "start": 1304.98,
+      "end": 1308.84,
+      "text": "particular people, does it cross into the brain?"
+    },
+    {
+      "start": 1308.9,
+      "end": 1312.88,
+      "text": "Now, the other thing I would say is respiratory viruses usually come before"
+    },
+    {
+      "start": 1312.92,
+      "end": 1316.44,
+      "text": "meningococcal. So focusing on respiratory virus"
+    },
+    {
+      "start": 1316.52,
+      "end": 1320.18,
+      "text": "reduction will help reduce meningococcal because we"
+    },
+    {
+      "start": 1320.26,
+      "end": 1323.86,
+      "text": "cannot, with the universal vaccination program, prevent all meningococcal."
+    },
+    {
+      "start": 1325.18,
+      "end": 1328.4,
+      "text": "Excellent. Thank you very much. And that's unfortunately probably where we have to"
+    },
+    {
+      "start": 1328.48,
+      "end": 1331.06,
+      "text": "end. I thought that was a very clear presentation, so thank you."
+    },
+    {
+      "start": 1331.08,
+      "end": 1331.35,
+      "text": "Very clear."
+    },
+    {
+      "start": 1331.4,
+      "end": 1331.78,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 1331.82,
+      "end": 1334.64,
+      "text": "Happy to have any more questions that we can help you with, Kevin."
+    },
+    {
+      "start": 1334.72,
+      "end": 1335.54,
+      "text": "Thanks for your time."
+    },
+    {
+      "start": 1335.64,
+      "end": 1335.96,
+      "text": "Thank you."
+    },
+    {
+      "start": 1336.14,
+      "end": 1336.25,
+      "text": "Thanks."
+    },
+    {
+      "start": 1336.3,
+      "end": 1339.78,
+      "text": "Thank you very much. We now have reached 8:55,"
+    },
+    {
+      "start": 1340.46,
+      "end": 1340.92,
+      "text": "so we will-"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 05 27 - HE - vimeo_1195757022\\2026 05 27 - HE - vimeo_1195757022.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1195757022",
+    "display_id": "1195757022",
+    "title": "2026 05 27 - HE",
+    "description": "27 May 2026 | Health Committee\n\nBriefing from the Meningitis Foundation New Zealand\nHealth New Zealand\u2014Te Whatu Ora\n\tDr Christine McIntosh, National Clinical Director Immunisation\n\tNikki Canter-Burgoyne, Director NPHS Immunisation\n\tDr Susan Jack, National Clinical Director Protection\nImmunisation Advisory Centre\n\tProfessor Nikki Turner, Principal Medical Advisor\n\tDr Philip Shirley, GP and Public Health Medicine Registrar",
+    "webpage_url": "https://vimeo.com/1195757022",
+    "original_url": "https://vimeo.com/1195757022",
+    "upload_date": "20260526",
+    "release_date": "20260526",
+    "timestamp": 1779829234,
+    "release_timestamp": 1779829243,
+    "duration": 1370,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2161766830-5fefc43de45aa74a35f2d12facc01c88ade00f8db70b425a220aa6e992ee35b5-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}
