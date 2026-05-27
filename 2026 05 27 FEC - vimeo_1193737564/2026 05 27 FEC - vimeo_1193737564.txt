@@ -1,0 +1,580 @@
+Title: 2026 05 27 FEC
+URL: https://vimeo.com/1193737564
+Published: 2026-05-27
+Duration: 00:32:25
+
+[00:00:00] You're
+[00:00:23] going to read it out,
+[00:00:25] which is hard to follow.
+[00:00:30] Good morning.
+[00:00:32] Sarah?
+[00:00:34] That's correct.
+[00:00:35] Oh, I have got the right one.
+[00:00:38] Are you from Webb Henderson, and possibly joined by Antonia?
+[00:00:41] That's right.
+[00:00:42] Fantastic. Welcome. We're in your hands for
+[00:00:46] the next 15... Is it 15 minutes we've got?
+[00:00:49] 10 minutes, sorry, but please leave some room for questions.
+[00:00:54] Yeah. Chair Perrett, thank you. And I'm not sure if you also have
+[00:00:57] Antonia on. She's joining from a different location, but
+[00:01:01] perhaps I can do the introduction.
+[00:01:03] That was our plan anyway, and if you need to join her, you can do that later.
+[00:01:06] She's online now.
+[00:01:08] Brilliant. Thank you. So thank you for your time on this important
+[00:01:12] bill. As you'll all be aware, competition is the engine room for
+[00:01:16] productivity, and that's why in Australia, the ACCC is
+[00:01:20] accountable directly to the Treasurer.
+[00:01:23] And in the same vein, I think it's really important and apt that this
+[00:01:26] committee is tasked with considering how best to improve the Commission and
+[00:01:30] its performance. So,
+[00:01:33] as noted, I'm Sarah Keane, I'm a partner at Webb Henderson.
+[00:01:36] We're a Trans-Tasman competition, consumer, corporate, and technology
+[00:01:40] market leader. So we act for clients including the
+[00:01:43] ACCC and ASIC in Australia, as
+[00:01:47] well as major corporates in New Zealand, as well as challengers.
+[00:01:52] So I've been doing competition law for 30 years in New Zealand, Europe,
+[00:01:57] Trans-Atlantic competition law, as well as consumer regulatory law.
+[00:02:00] I'm also, from a governance perspective, a former partnership chair of a
+[00:02:04] major law firm and for the last seven years, a director and now chair on
+[00:02:08] the board of a platform-based leadership development company based
+[00:02:12] in the US and New Zealand and Australia, and we serve clients
+[00:02:16] like Workday and Salesforce and Target and the New Zealand Fonterra and Sport New
+[00:02:20] Zealand.
+[00:02:21] And that gives me access to how a step change in leadership can
+[00:02:25] develop capability, including future-focused capability,
+[00:02:29] for example, dealing with mixed teams of AI, agentic, and human workforces.
+[00:02:33] So I bring those perspectives to these comments today.
+[00:02:36] I'm joined by Antonia Horrocks, who's a consultant at Webb Henderson, probably the
+[00:02:40] most qualified person, actually, for the topic at hand.
+[00:02:43] She's been in private practice in New Zealand and London for 12 years.
+[00:02:47] She spent four years at the UK authority, the Competition Commission,
+[00:02:52] during a transition from a separate agency to a panel
+[00:02:55] structure within a wider agency, so quite apt for what you're looking at today,
+[00:03:00] and she's also spent seven years as General Manager of Competition, so
+[00:03:03] responsible for enforcement, at the Commerce Commission.
+[00:03:07] So Antonia's going to address a central issue in this reform, which is
+[00:03:10] why there's not more competition enforcement and how to
+[00:03:14] turn the dial on that.
+[00:03:17] We, of course, participated in the Rebstock Review
+[00:03:21] and agree with the observations of Dame Paula in that
+[00:03:25] report, particularly that the Commerce
+[00:03:29] Commission is a well-regarded agency and,
+[00:03:33] unfortunately, its ability to be targeted
+[00:03:37] and
+[00:03:39] basically its model is unfit for purpose and has really hindered its
+[00:03:42] ability to develop clear priorities, delegate work, and
+[00:03:46] to allow for outside-in perspectives.
+[00:03:50] So we'd welcome the proposed changes which allow the
+[00:03:54] Commission to delegate, because expertise is
+[00:03:57] absolutely critical to efficient triaging of complaints,
+[00:04:02] targeted investigations, and effective and successful
+[00:04:06] prosecutions.
+[00:04:08] We do have a real concern, however, about the two-tier
+[00:04:11] decision-making and the call-in powers.
+[00:04:14] To understand why, it's actually quite helpful to sort of step
+[00:04:18] back and think about all of the functions of the Commission, and the
+[00:04:22] way I think about it often is as a traffic light,
+[00:04:26] so red, orange, green. Red, the Commission is an
+[00:04:29] enforcer. They are actually acting effectively like the police, and they have the
+[00:04:33] power to prosecute criminal charges in both the
+[00:04:36] consumer and competition
+[00:04:39] framework. They are not decision-makers,
+[00:04:43] and so they
+[00:04:45] have to defer to the courts for
+[00:04:48] enforcement, basically.
+[00:04:50] The second layer is orange, and that's clearances and
+[00:04:54] authorizations. There, the Commission is the decision-maker, so it's got these
+[00:04:58] sort of bifurcative functions. When the Commission is the
+[00:05:01] decision-maker, it's making a decision about whether parties are
+[00:05:05] permitted to proceed when they come to the Commission
+[00:05:08] voluntarily for permission to do so in an area
+[00:05:12] where otherwise they would fall into the red zone, right?
+[00:05:16] And then the final function of the Commission is green, and this is like the
+[00:05:19] regulatory structures, where there's broken markets, and the
+[00:05:23] Commission effectively has to step in, in place of a broken market
+[00:05:28] and make decisions about how companies can price, earn a reasonable return on their
+[00:05:31] assets. So this is like airports and gas pipelines and that sort of thing.
+[00:05:36] The real problem with when the Commission doesn't have clear strategic
+[00:05:40] focus or priorities is they blur these functions.
+[00:05:44] So they try to behave like a policeman in the green
+[00:05:47] area, or they sort of transfer through their decision-making
+[00:05:51] function into their red functions, and it becomes
+[00:05:55] basically a sort of convoluted mess of the Commission
+[00:05:58] effectively acting in a potentially quite
+[00:06:01] authoritarian way and can sometimes
+[00:06:06] come across as
+[00:06:08] bullying. So-The
+[00:06:12] example that we picked up on in the
+[00:06:16] submission was this need for a de minimis regime, which sort of
+[00:06:20] highlights part of this dynamic commission sort of being perceived as beating
+[00:06:24] up on the little guy a bit.
+[00:06:27] But it sort of plays into this mixed dynamics where the
+[00:06:31] commission has pressure to deliver outcomes, and it can get a win
+[00:06:35] against a party that doesn't have the same resources to fight a government
+[00:06:39] agency.
+[00:06:40] Obviously, that's cost-effective and works well for the commission, but the
+[00:06:44] amount of commerce that's affected is tiny in comparison
+[00:06:48] to the taxpayer cost of the resources expended.
+[00:06:52] And so in New Zealand, we're an outlier internationally in
+[00:06:56] prosecuting small businesses in narrow markets,
+[00:07:00] and we see a real opportunity for something like an effective
+[00:07:03] board to have the perspective to direct
+[00:07:07] resources where they make the most difference to the most
+[00:07:10] consumers.
+[00:07:12] And you'll be familiar with the board structure.
+[00:07:14] In private practice, boards set priorities to maximize
+[00:07:18] shareholder return. They deal with reputation, they
+[00:07:22] deal with social license,
+[00:07:25] but they don't craft specific initiatives.
+[00:07:27] They don't implement the functions of the business, and they often
+[00:07:31] rarely have the CEO as a formal member of the board.
+[00:07:34] And Sarah.
+[00:07:35] Yeah.
+[00:07:36] We've only got about three minutes left, so I'm just wondering if you want to make
+[00:07:39] some final points.
+[00:07:41] That is actually the final point that I was going to make, that the
+[00:07:45] board structure in a traditional corporate framework
+[00:07:49] is actually apt also for the commission. I'll hand over to Antonia now.
+[00:07:54] Good morning, everyone. Thank you for this opportunity.
+[00:07:57] I'll be brief and leave hopefully room for some questions.
+[00:08:00] Thank you all for the opportunity to present today.
+[00:08:02] I'm pretty passionate about competition and its role in growing
+[00:08:06] a productive, future-focused, long-term economy for New Zealand.
+[00:08:11] The aim of the reform of the bill of the commission itself is for more
+[00:08:15] competition enforcement in New Zealand.
+[00:08:17] The OECD report last week called for this, but three changes are
+[00:08:21] needed to ensure the bill doesn't embed the status quo,
+[00:08:25] which is a hierarchical, regulatory-focused, siloed commission, as
+[00:08:29] called out in the Florida Red Stock report, with great intent, wonderful
+[00:08:33] people, but slow processes, very small
+[00:08:35] proportions of technical expertise, the legal
+[00:08:39] economic
+[00:08:40] expertise required to deliver something like a monopolization
+[00:08:44] investigation into large business up against people like Sarah,
+[00:08:48] you need a real technical skill set there, and with the right type of
+[00:08:52] appetite for high-risk, large-scale cases.
+[00:08:56] The call and power from the regulatory committee to the board should be removed,
+[00:09:01] as should the two-tier voting structure.
+[00:09:03] Plenty of highly rated global agencies, and I've worked with many and in a number,
+[00:09:08] make complex competition assessments daily without
+[00:09:12] these overly complex bureaucratic legislative structures.
+[00:09:16] Efficiency, expertise, and outcomes in our
+[00:09:20] markets need to be prioritized.
+[00:09:22] Embedding the specialist commissioner role, again, by a new
+[00:09:26] name, probably also won't support that.
+[00:09:30] The second change is that the list of new functions in Section 11
+[00:09:35] has a rationale in historical case law,
+[00:09:38] but it needs review to ensure that a new board
+[00:09:42] will prioritize the things that only the commission can do,
+[00:09:46] which is competition enforcement,
+[00:09:49] and to ensure that it knows it can actually remove anti-competitive
+[00:09:53] regulation, as has already been called out in all the commission's prime market
+[00:09:57] studies,
+[00:09:58] or issues that hinder competitive neutrality rather than
+[00:10:02] just adding regulation. And it's the adding regulation that has
+[00:10:06] led the commission to be unable to really focus on these critical
+[00:10:10] things
+[00:10:11] that only it can do. There's a lot more I could say, but I'm going to leave it
+[00:10:15] there so you've got some time for questions.
+[00:10:17] One thing I would just note is when the CMA was set up, and I was
+[00:10:20] there, it pulled from overseas specialists for its board
+[00:10:24] in order to ensure people that had real regulatory
+[00:10:28] expertise of chairing, leading other agencies, the Netherlands, the
+[00:10:32] US, were sitting on that board and trying to understand how
+[00:10:36] you run a really efficient regulator.
+[00:10:38] Commission's got great people from staff to commissioners, but some of that
+[00:10:42] outside-in perspective on how to do competition enforcement is really
+[00:10:46] needed.
+[00:10:47] Thank you.
+[00:10:47] Thank you. We've got time for one question from Dr. David Wilson.
+[00:10:51] Can you elucidate on call-in powers, your point around call-in powers?
+[00:10:55] So in the proposed statute, there is an
+[00:10:59] idea of setting up these regulatory committees that will make the tricky decisions,
+[00:11:03] mergers, enforcement,
+[00:11:06] and that those will have a panel member.
+[00:11:08] But if the board doesn't like what the panel is doing or is
+[00:11:12] concerned that it doesn't have the technical expertise, it will call in
+[00:11:16] that matter and give it another layer of review.
+[00:11:20] Look, the question I've been asked most, both when I was at the commission by
+[00:11:24] Sarah, by every other private practitioner, is why don't we do more competition
+[00:11:27] enforcement in New Zealand? It's already a really hierarchical
+[00:11:31] organization in terms of the layers and the formalism of what
+[00:11:35] happens to get a case through. This will just add another
+[00:11:39] layer or two.
+[00:11:41] Thank you both for your contribution this morning and insights.
+[00:11:44] Really appreciate that experience and the process.
+[00:11:48] Thank you. Thanks.
+[00:11:49] Thanks, Sarah. Thanks, Antonia.
+[00:11:52] Good morning, Carolyn. We've got you from Retail NZ.
+[00:11:56] Are you by yourself this morning?
+[00:11:58] Yes, I am. Unfortunately, Denise is on a plane, and I'm in Australia, so we're
+[00:12:02] not able to have a question and counter.
+[00:12:04] But I appreciate being able to reschedule us from the other day.
+[00:12:07] Sure. We've got you for 10 minutes. Paper report is read.
+[00:12:10] Please save some time for questions.
+[00:12:12] For sure. Look,
+[00:12:14] thank you very much for your time. I'm the chief executive at Retail NZ.
+[00:12:18] I'll keep it relatively brief.
+[00:12:21] We consult with our members through this, and members are supportive of the work
+[00:12:25] that the Commerce Commission does.
+[00:12:27] They play an important role, and we believe that these changes should
+[00:12:30] take
+[00:12:32] the opportunity that we need to improve transparency and
+[00:12:35] efficiency through the work that the Commerce Commission does to both
+[00:12:39] business and consumers.
+[00:12:42] We do have a couple of concerns. One of them would be around
+[00:12:46] the Clause 11,
+[00:12:49] 1 where it talks about any matter, that the
+[00:12:52] Commerce Commission can look at any matter.
+[00:12:54] That would seem to expand the horizon of what the
+[00:12:58] Commerce Commission currently does, and so we would have some caution around that
+[00:13:02] and recommend some specific functions that are actually
+[00:13:06] specified within the act rather than have any matter, because that's not the role
+[00:13:10] of the Commission. We think
+[00:13:14] that there should be something included around e-commerce.
+[00:13:18] That's an evolving space, and that probably needs to have some
+[00:13:21] thought around how that would be framed in order to
+[00:13:26] navigate today and tomorrow. Do you know what I mean?
+[00:13:29] So that the
+[00:13:33] e-side of things keeps evolving and moving, so we think that we need to be
+[00:13:37] thinking about the future. We really recommend a
+[00:13:42] review period, and that we're agile to respond to changes that
+[00:13:46] needed to be made if this isn't rolling through as
+[00:13:49] anticipated. We do believe that the governance is the best structure
+[00:13:53] and are supportive of the proposed new board.
+[00:13:56] Cautious around how appointments will be made.
+[00:13:59] It's really important to ensure that those appointments are independent, they're
+[00:14:02] not politically aligned, and that they have sustainability over
+[00:14:06] terms of government.
+[00:14:10] In most boards, there's a situation where you'll have potentially
+[00:14:15] people that have sector knowledge and people that are independent, and I think
+[00:14:18] ensuring that you continue to have that is going to be important.
+[00:14:21] And our members have called out having someone on the board
+[00:14:25] that has
+[00:14:26] competition law expertise. And if you don't have that, maybe having a clause
+[00:14:30] that enables the board to second someone in for specific
+[00:14:34] purposes. If you don't have that written in, then the ability to second someone is
+[00:14:38] quite difficult.
+[00:14:40] In terms of the regulatory committees, we're supportive of the proposal,
+[00:14:45] and we think that having a committee with different expertise undertaking the
+[00:14:49] work can allow for a more robust and examination analysis.
+[00:14:53] And the idea of a charter would be something that we would
+[00:14:57] consider would be a good thing. And lastly, just the phasing out of the
+[00:15:01] telecommunications and grocery is something that
+[00:15:04] our members support.
+[00:15:07] They'd be the key things from our perspective,
+[00:15:10] but happy to take any questions. I am without
+[00:15:13] Denise today, so I'll do the best I can because she was
+[00:15:17] the lead point on this one.
+[00:15:20] Very good. Thanks, Carolyn. First question is from Avina Williams.
+[00:15:23] Sure, Carolyn. I am so delighted you are here because the committee has heard from
+[00:15:27] a number of submitters, many very top of the town,
+[00:15:31] often represented by their lawyers, who have come along and made a submission
+[00:15:35] around the interests of the larger entities in the
+[00:15:39] environment. But you are one of the only voices who is representing a range,
+[00:15:42] including thousands of small businesses, so thank you for submitting.
+[00:15:46] The point about secondments is one that I completely agree with
+[00:15:50] you on. But can I get you to reflect on, we have heard
+[00:15:54] time and time again that inside out governance is going to be the thing that
+[00:15:57] improves this, and I think that's right, but don't we end up then with
+[00:16:01] a situation where directors with experience in large retailers
+[00:16:05] and
+[00:16:06] the oligopoly players that are keeping out small businesses are going to be the
+[00:16:10] ones who are appointed? Inevitably, these directors have links to each other.
+[00:16:14] That's just how our market works, and in some respect, it does still work.
+[00:16:17] But how is New Zealand going to get this right?
+[00:16:19] We're a small pool of director talent anyway.
+[00:16:22] Carolyn, how are we going to get the voice of small businesses around the table if
+[00:16:26] this is the model that we're using?
+[00:16:28] Yeah, and that's why we need to really think about how will we appoint people, and
+[00:16:32] will we be able to reach out to some of those entrepreneurial
+[00:16:35] businesses that have one or two or three stores that we would shoulder
+[00:16:39] tap in terms of these spaces? We do need to think outside of the box, or else we're
+[00:16:43] going to end up with the same space.
+[00:16:45] And
+[00:16:46] I think the one other thing I would probably say is that, we really appreciate the
+[00:16:50] work the Commerce Commission does, but they can be quite glacial in their speed,
+[00:16:55] and maybe a governance board would help that move along.
+[00:16:58] And if you have some representation from some
+[00:17:01] entrepreneurs and some smaller business
+[00:17:04] background, they're more likely to move at pace,
+[00:17:08] and which would probably put a little bit of pressure on for a different
+[00:17:14] outcome and different perspective. And so we'd have to be really thoughtful.
+[00:17:17] As you say, if you just tap on the shoulder of the same people that you've already
+[00:17:21] got within an organization, you're going to end up with the same outcomes.
+[00:17:24] We need to be thinking differently to ensure that we get the best outcome.
+[00:17:28] Can I test your thinking around named commissioners?
+[00:17:32] This is one area of
+[00:17:34] long expertise in the sector that we're talking about that can
+[00:17:38] represent the interests of all players in the industry rather than just the big end
+[00:17:41] of town.
+[00:17:43] I take your point that your members don't support that, but how then do we make
+[00:17:46] sure that small entrants in those sectors have their
+[00:17:50] interests within the larger system
+[00:17:54] top of mind? I think that you're identifying resourcing
+[00:17:57] concerns more than necessarily who is named and who has the right job.
+[00:18:07] I think the governance structure needs to ensure that you've got the right people,
+[00:18:11] one, in governance, that they actually have front of mind what their role is to
+[00:18:15] achieve, that they're not the running of the business, but they're questioning how
+[00:18:18] that is run, and that they're really clear on what needs to happen.
+[00:18:22] So if you're thinking in the grocery sector, a Moore Wilsons of the world or a
+[00:18:25] Farrow of the world have as much opportunity as a Foodstuffs or a
+[00:18:29] Woolworths, and making sure that
+[00:18:31] their position in that sector is not compromised by
+[00:18:36] just
+[00:18:37] size alone. That it needs to be able to be seen that they
+[00:18:41] have a fair,
+[00:18:44] I'm in Australia, a fair suck of the seed, that they can actually have a crack at
+[00:18:47] it.
+[00:18:48] So I think thinking about those sorts of things will be important, and the
+[00:18:52] Commerce Commission should always be thinking about the wider range of
+[00:18:56] spaces and how that's fulfilled. And also thinking
+[00:19:01] more diversity. If you think about grocery, we need to think about suppliers.
+[00:19:04] The suppliers, we've got a duopoly in the supply side, which
+[00:19:08] that's as much an issue as it is in terms of having a
+[00:19:12] duopoly on the grocery side.
+[00:19:16] Thanks, Carolyn. Question from myself.
+[00:19:19] In point 18 of your report, you talk about the timeliness, which you've
+[00:19:23] just sort of gone over in part of Anna's question,
+[00:19:27] but also about how the charter's an opportunity to improve that transparency of
+[00:19:31] the decision-making. How or what do you think that could be
+[00:19:34] improved?
+[00:19:36] Can I give you a quick example? And
+[00:19:40] I see the ministers there. We're coming in to see them shortly.
+[00:19:43] So the gift card, changes to the gift card regime, we had some
+[00:19:47] members reach out to us about the interpretation of the bill as
+[00:19:51] we were getting sort of within six months.
+[00:19:53] They'd gone and got legal advice, and their lawyers said, "It's too difficult
+[00:19:57] to interpret because it's not clear enough." We went to the Commerce
+[00:20:01] Commission. It took five months for the Commerce Commission to come back to us with
+[00:20:04] a decision around how they were going to interpret the bill, and we found out a
+[00:20:07] week before the bill was enacted, and we don't know
+[00:20:11] how they made the decision that they did.
+[00:20:14] And the decision that they made is contrary to the legal advice that a number
+[00:20:18] of our members received. And so there's no recourse.
+[00:20:22] They've just made a decision. There's no ability to understand how they got to that
+[00:20:26] point so that it would help businesses in the future to understand how to
+[00:20:30] respond to these things. So there does need to be a bit more
+[00:20:33] transparency and a bit more speed to action.
+[00:20:37] Yeah, fantastic. That's a great example.
+[00:20:40] That appears to be the end of our questions.
+[00:20:42] Thank you for your
+[00:20:44] submission today. Do make sure you come home from Australia.
+[00:20:48] Yes, I will indeed. It's wet and gloomy here.
+[00:20:52] Oh, it's sunshine here. It's beautiful.
+[00:20:55] Thanks, Carolyn.
+[00:20:55] No worries. Thanks.
+[00:20:57] Thank you.
+[00:20:57] Yeah, have a good day.
+[00:20:58] See you.
+[00:21:00] Good morning, Ben.
+[00:21:02] Good morning.
+[00:21:03] Well, we've got you for 10 minutes also.
+[00:21:06] But as you can see, please save some time for questions.
+[00:21:09] Definitely.
+[00:21:10] And anybody that wants to interrupt me
+[00:21:13] in my opening remarks, feel absolutely free.
+[00:21:15] So I'm a barrister. I've spent half my career working for the
+[00:21:19] Commission and half in private practice working for, against,
+[00:21:23] beside the Commission. And so I
+[00:21:27] bring a staff perspective into it and have seen it.
+[00:21:29] I've worked with Dame Paula Rebstock, who I deeply admire, and
+[00:21:33] I highly commend her report. Everybody I've talked to that worked there
+[00:21:37] said they read it, and they nodded along.
+[00:21:40] So that's certainly going to take it from that perspective,
+[00:21:44] and it certainly provides a strong basis for reform of the Commission.
+[00:21:48] So I've got three areas I just wanted to talk to you about.
+[00:21:51] The first is the question of delegation, and I heard the comment
+[00:21:54] about the Commission moving at a glacial pace.
+[00:21:59] If you look through the report, one of the comments that's made by Dame Paula and
+[00:22:03] the reviewers is that the levels of delegation are a major
+[00:22:07] drag on efficiency at the Commission and out of step with
+[00:22:10] comparative organizations in New Zealand and elsewhere.
+[00:22:14] Now, the bill doesn't really address this.
+[00:22:16] It's something that's going to be left to the board.
+[00:22:19] But I would encourage you to think about whether there are things that
+[00:22:23] the Select Committee can change in the legislation to encourage the agency going
+[00:22:27] forward to really use those qualified staff as a way of
+[00:22:30] moving faster. COVID was a fascinating time to
+[00:22:34] be working at the Commission because, in part, there was a lot of things that
+[00:22:38] needed to be done quickly. The governance said, "These are the objectives that need
+[00:22:42] to be achieved. Go do those." And the staff did, and they reported
+[00:22:46] back, and there was accountability, and it worked the way that governance might
+[00:22:50] be expected to work all the time. So in terms of ways you could
+[00:22:54] promote that, obviously, there can be declaratory statements in the act, but one
+[00:22:58] might be to provide some protection if delegations go
+[00:23:02] wrong. One reason people don't want to delegate is if they get the delegations
+[00:23:05] wrong, a decision gets set aside that causes a lot of
+[00:23:09] uncertainty for business, for those that rely on the Commission's decision.
+[00:23:14] Second thing I'd highlight is the importance of
+[00:23:18] having clear objectives for the Commission.
+[00:23:20] I would detect that there are times when politicians and the public get
+[00:23:23] frustrated with the Commission because there's a mismatch between their
+[00:23:27] expectations of what the Commission should do and what the Commission
+[00:23:31] actually does. And one of the reasons is there's a whole lot of functions that the
+[00:23:34] Commission doesn't actually have that people think they probably should.
+[00:23:38] And I would suggest that there's a really good set that are in there in
+[00:23:42] the bill now. Some people have queried, "Oh, what about
+[00:23:46] this?" There was a mention of any matter or issuing warnings or public
+[00:23:49] comment. If you compare that with the FMA, most of those provisions have
+[00:23:53] been, I'm not saying they've been copied, but they're very closely similar to
+[00:23:57] other regulators and probably not of big concern.
+[00:24:01] But if you know Dr Eric Crampton, one of his frustrations with the
+[00:24:04] Commission repeatedly is, "Why isn't it stopping government from doing this?
+[00:24:08] Why isn't it writing a report on why government's limiting competition?"
+[00:24:12] And I've got a lot of sympathy for that.
+[00:24:15] Advocating with government to stop limiting competition
+[00:24:18] deliberately or inadvertently or whatever,
+[00:24:21] that is a really important function, but it's not in this list of
+[00:24:25] functions here.So if I was going to add one thing to that function
+[00:24:29] list, it would be for
+[00:24:31] the commission to be a voice for competition with government.
+[00:24:34] And sometimes that will mean being independent and disagreeing with government,
+[00:24:38] but that's the role.
+[00:24:40] The final point I just want to highlight is the importance of
+[00:24:44] independence and expertise, and you've probably heard this from other submitters.
+[00:24:48] But we are looking to adopt, in part,
+[00:24:52] an approach from the United Kingdom, where we're tinkering with the fundamentals of
+[00:24:56] the commission by adding the panel and adding a board
+[00:24:59] structure. And
+[00:25:02] there may or may not be efficiencies that are derived from that, time
+[00:25:06] will tell. Certainly, the United Kingdom is looking to move away from that
+[00:25:10] model to some extent.
+[00:25:12] But if we lose the independence and expertise of the commission at any point, then
+[00:25:16] all the gains that will be made will be for naught.
+[00:25:20] I've identified a number of areas in my submission where that can be
+[00:25:24] improved. The
+[00:25:26] appointments to regulatory committees should be a thing that
+[00:25:30] the board is required to publish and the process that they follow for
+[00:25:34] making and changing appointments.
+[00:25:36] It's not clear to me why some commissioners are appointed and dismissed by the
+[00:25:39] Governor General and others by the minister.
+[00:25:41] That might well give people a false sense that some people are more able
+[00:25:45] to be influenced than others.
+[00:25:48] There's no independent obligation on the regulatory committee members to be
+[00:25:51] independent. And if we want staff or externals to be appointed to
+[00:25:55] that, we don't want them feeling that
+[00:25:57] pressure might be put on them to do anything other than what they think is the best
+[00:26:01] outcome.
+[00:26:03] So I think I could see some fingers going that suggest questions, so I'll leave it
+[00:26:07] there and happy to answer any questions.
+[00:26:09] Thanks. Our first question from Dan Bidois.
+[00:26:11] Thanks, Mr Chair. Thanks, Ben. Really good to have an insider
+[00:26:15] perspective from the commission.
+[00:26:17] So thank you for your submission and for your recommendations.
+[00:26:20] Most of your recommendations kind of signal to me it's just
+[00:26:23] about clarifying roles and
+[00:26:26] responsibilities across the commission.
+[00:26:29] Give us a sense of what it was like when you were there around, is
+[00:26:33] the left hand talking to the right hand today? Is there silos?
+[00:26:38] Are you sort of confident that if we adopt some of your
+[00:26:42] recommendations that the new structure will be much
+[00:26:46] more
+[00:26:47] streamlined and
+[00:26:51] singularly focused with everybody kind of knowing
+[00:26:55] what their role is in the organization?
+[00:26:58] So starting with the question of silos.
+[00:27:00] I think the commission has been more siloed in the past, and that
+[00:27:04] changed particularly sort of about 2018,
+[00:27:07] '19 onwards. That was a deliberate separation of the
+[00:27:11] regulatory and the enforcement functions.
+[00:27:14] And I'm reasonably confident that that is an issue that's kind of a bit behind
+[00:27:18] the commission. Left hand talking to the right hand.
+[00:27:21] Generally, I think the problem might be too much talking between the two hands
+[00:27:25] and not enough hands doing things within the commission.
+[00:27:30] The
+[00:27:32] idea that the commission moves glacially is often because it is doing a lot of
+[00:27:36] consultation, a lot of drafting, a lot of written communication of a very high
+[00:27:40] quality,
+[00:27:41] and that shouldn't be discouraged.
+[00:27:43] But I don't think internal communication is going to
+[00:27:47] be diminished by what's being proposed here.
+[00:27:51] Great.
+[00:27:51] I should say a lot of the recommendations that I have made
+[00:27:55] suggested really move us away from the idea that we would,
+[00:28:00] expertise and independence in particular are maintained by having good
+[00:28:04] people. Good people are important, but good structures mean that
+[00:28:09] you don't have to rely just on
+[00:28:11] whether the right candidates have always been appointed.
+[00:28:13] Great. Thank you.
+[00:28:15] Thanks. Elena Williams.
+[00:28:17] Ben, agree with your point about good people and just thinking
+[00:28:20] through,
+[00:28:22] how do we make sure that we're getting to the right solution for the
+[00:28:26] problem that I think everybody agrees that everybody wants the commission to do
+[00:28:30] more, especially on the enforcement side?
+[00:28:33] We got to the end of the market studies process under the last government, say, and
+[00:28:36] that team's pretty tooled up and had a lot of expertise that are now gone,
+[00:28:40] essentially.
+[00:28:42] Maybe I could ask you this in a different way. You're a barrister.
+[00:28:44] Why does the Commerce Commission, and why has it, for a very long time, not taken a
+[00:28:48] section
+[00:28:49] 36 prosecution?
+[00:28:51] Look, there's a lot tied up in that, and I should say I do act for the commission
+[00:28:54] on a Section 36 prosecution, so I will-
+[00:28:57] Yeah
+[00:28:57] ... talk about it at a very high level.
+[00:29:00] For a long time, the law was very unfavorable to the commission, and if you want to
+[00:29:04] take $5 million and put it in a pile and burn it, failing,
+[00:29:08] you need to have a really good justification to the public as to
+[00:29:12] why these were really important issues to do it.
+[00:29:15] And the commissioners at the time obviously felt that they did not have cases
+[00:29:19] where they were getting enough squeeze,
+[00:29:22] enough juice from the lemon.
+[00:29:24] And you're happy to go back to the drama market study, right?
+[00:29:26] So what is the
+[00:29:29] thing that was missing? Was it temperature? Was it penalties?
+[00:29:33] I think we're getting to the point now where it maybe wasn't structure, is my
+[00:29:37] question.
+[00:29:38] Look, I think the
+[00:29:41] law change in 2023 to change to an SLC test for
+[00:29:45] the Section 36, the monopolization provision,
+[00:29:48] that removed kind of the main legal obstacle.
+[00:29:53] When the law changes, it doesn't usually
+[00:29:56] change retrospectively, so there's naturally a time period for
+[00:30:00] something to occur under the new law, be detected, be investigated,
+[00:30:04] and be prosecuted. And the commission will be looking for,
+[00:30:08] as any regulator would, good cases to bring under the new
+[00:30:12] law because you don't want a bad precedent
+[00:30:15] to then set you on 20 years of
+[00:30:18] bad cases. So,
+[00:30:20] the commission gets direction from the minister as to the minister's
+[00:30:24] priorities,
+[00:30:26] and whether it's a board or a panel, those sort of
+[00:30:30] things will, with resource, with clear directions, and with the right law,
+[00:30:34] then that will be important.
+[00:30:36] The one thing I would say is if you're trying to assess does the law need to
+[00:30:39] change, having those functions sections set out really
+[00:30:43] well does enable you to say, "Well, is there something missing here?
+[00:30:46] We've got a function here. We're not getting an outcome." You can test a proposed
+[00:30:50] power. If someone wants digital markets reform, how does that fit against
+[00:30:54] those functions and expectations we have?
+[00:30:56] Final question from Dr. David.
+[00:30:58] Ben, thank you very much for your submissions. Very good.
+[00:31:01] You obviously ride across both private and public sector governance.
+[00:31:06] I enjoyed part of that, especially your contribution around
+[00:31:10] regulatory committees remaining independent.
+[00:31:14] Interested in your comment around guaranteeing the involvement of the chief
+[00:31:17] commissioner in appointments to the regulatory committee and
+[00:31:21] how you maintain that good independence and governance,
+[00:31:25] because that's absolutely vital in this working.
+[00:31:28] So I haven't practiced in the UK, but my understanding is over there, the
+[00:31:31] equivalent of the chief commissioner either makes appointments
+[00:31:35] or at the very least recommends to the board. I think it is makes the appointments.
+[00:31:39] So
+[00:31:40] by having the chief commissioner select who it is, on one hand, they
+[00:31:44] can have that soft management of who's got capacity, who's got the skills, et
+[00:31:48] cetera.
+[00:31:48] Yeah.
+[00:31:48] But also if there is concern about independence,
+[00:31:52] a board might well disagree with the recommendation for good reason.
+[00:31:57] That increases the transparency
+[00:32:00] around any, gives people confidence that there isn't any
+[00:32:04] skullduggery about making sure the right people were selected to get the right
+[00:32:08] specific outcome on the matter.
+[00:32:10] Thank you
+[00:32:11] very much.
+[00:32:11] Thanks, Ben. Thanks for coming in.
+[00:32:13] Thanks very much.
+[00:32:13] Appreciate it. Thank you, everyone.
+[00:32:20] We're going to now move into private. So thank you.
