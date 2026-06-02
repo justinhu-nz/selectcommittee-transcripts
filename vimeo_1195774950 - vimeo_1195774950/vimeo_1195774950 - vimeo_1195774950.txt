@@ -1,7 +1,7 @@
 Title: vimeo_1195774950
 URL: https://vimeo.com/1195774950
-Published: 2026-05-27
-Duration: 00:19:21
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:15] Welcome.
 [00:00:16] Thank you.
