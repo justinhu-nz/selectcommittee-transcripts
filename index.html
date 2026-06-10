@@ -42,8 +42,8 @@
 
     .topbar {
       display: grid;
-      gap: 14px;
-      padding: 24px 0 18px;
+      gap: 22px;
+      padding: 54px 0 42px;
     }
 
     h1 {
@@ -62,20 +62,31 @@
 
     .controls {
       display: grid;
-      grid-template-columns: minmax(220px, 1fr) minmax(160px, 260px) minmax(140px, 190px);
-      gap: 10px;
-      padding: 18px 0 20px;
+      grid-template-columns: repeat(2, minmax(180px, 260px));
+      gap: 12px;
+      padding: 8px 0 4px;
     }
 
     input, select {
       width: 100%;
-      min-height: 42px;
+      min-height: 46px;
       border: 1px solid var(--line);
       border-radius: 6px;
-      padding: 9px 11px;
+      padding: 10px 12px;
       font: inherit;
       color: var(--ink);
       background: #fff;
+    }
+
+    #search {
+      grid-column: 1 / -1;
+      min-height: 62px;
+      max-width: 860px;
+      border: 2px solid var(--blue);
+      border-radius: 8px;
+      padding: 16px 18px;
+      font-size: 1.14rem;
+      box-shadow: 0 10px 28px rgba(27, 95, 158, 0.13);
     }
 
     input:focus, select:focus {
@@ -83,7 +94,7 @@
       border-color: var(--blue);
     }
 
-    main { padding: 22px 0 44px; }
+    main { padding: 30px 0 44px; }
 
     .summary, .reader-stats {
       display: flex;
@@ -325,7 +336,9 @@
 
     @media (max-width: 760px) {
       .wrap { width: min(100% - 22px, 1180px); }
+      .topbar { padding: 38px 0 30px; }
       .controls, .reader-tools, .match-button, .transcript-row { grid-template-columns: 1fr; }
+      #search { min-height: 58px; font-size: 1.04rem; }
       .meeting { padding: 14px; }
       .reader-file-links { justify-content: start; }
     }
