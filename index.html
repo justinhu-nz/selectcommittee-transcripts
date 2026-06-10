@@ -235,6 +235,66 @@
       color: var(--muted);
     }
 
+    .pagination {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      margin: 18px 0;
+    }
+
+    .pagination[hidden] { display: none; }
+
+    .page-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      min-height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 4px 10px;
+      color: var(--blue);
+      background: #fff;
+      font: inherit;
+      font-size: 0.95rem;
+      cursor: pointer;
+    }
+
+    .page-btn:hover:not([disabled]):not(.is-current) {
+      border-color: var(--blue);
+      background: var(--soft-blue);
+    }
+
+    .page-btn.is-current {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fff;
+      font-weight: 700;
+      cursor: default;
+    }
+
+    .page-btn[disabled] {
+      color: var(--muted);
+      background: var(--bg);
+      cursor: default;
+      opacity: 0.6;
+    }
+
+    .page-ellipsis {
+      padding: 0 4px;
+      color: var(--muted);
+    }
+
+    .page-info {
+      flex-basis: 100%;
+      text-align: center;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
     body.reader-open { overflow: hidden; }
 
     .reader-backdrop {
@@ -375,7 +435,9 @@
 
   <main class="wrap">
     <div class="summary" id="summary">Loading site data...</div>
+    <nav class="pagination" id="paginationTop" aria-label="Meeting pages" hidden></nav>
     <section class="meetings" id="meetings" aria-live="polite"></section>
+    <nav class="pagination" id="paginationBottom" aria-label="Meeting pages" hidden></nav>
     <div class="empty" id="empty">No meetings match the current filters.</div>
   </main>
 
@@ -401,12 +463,15 @@
   </div>
 
   <script>
+    const PAGE_SIZE = 100;
+
     const state = {
       manifest: null,
       data: null,
       query: "",
       committee: "",
       month: "",
+      page: 1,
       transcriptMatches: null,
       searchSnippets: new Map(),
       transcriptStatus: "",
@@ -427,6 +492,8 @@
       month: document.getElementById("month"),
       summary: document.getElementById("summary"),
       meetings: document.getElementById("meetings"),
+      paginationTop: document.getElementById("paginationTop"),
+      paginationBottom: document.getElementById("paginationBottom"),
       empty: document.getElementById("empty"),
       readerBackdrop: document.getElementById("readerBackdrop"),
       readerTitle: document.getElementById("readerTitle"),
@@ -668,10 +735,98 @@
       `;
     };
 
+    const readPageFromUrl = () => {
+      const raw = parseInt(new URLSearchParams(location.search).get("page"), 10);
+      return Number.isFinite(raw) && raw > 0 ? raw : 1;
+    };
+
+    const writePageToUrl = (page, replace) => {
+      const url = new URL(location.href);
+      if (page > 1) {
+        url.searchParams.set("page", String(page));
+      } else {
+        url.searchParams.delete("page");
+      }
+      history[replace ? "replaceState" : "pushState"](null, "", url);
+    };
+
+    const totalPages = (count) => Math.max(1, Math.ceil(count / PAGE_SIZE));
+
+    const pageWindow = (current, total) => {
+      const pages = new Set([1, total, current, current - 1, current + 1, current - 2, current + 2]);
+      const sorted = [...pages].filter((page) => page >= 1 && page <= total).sort((a, b) => a - b);
+      const result = [];
+      let previous = 0;
+      for (const page of sorted) {
+        if (previous && page - previous > 1) result.push("ellipsis");
+        result.push(page);
+        previous = page;
+      }
+      return result;
+    };
+
+    const currentPageMeetings = (meetings) => {
+      const start = (state.page - 1) * PAGE_SIZE;
+      return meetings.slice(start, start + PAGE_SIZE);
+    };
+
+    const renderPagination = (filteredCount) => {
+      const total = totalPages(filteredCount);
+      if (total <= 1) {
+        els.paginationTop.hidden = true;
+        els.paginationBottom.hidden = true;
+        els.paginationTop.innerHTML = "";
+        els.paginationBottom.innerHTML = "";
+        return;
+      }
+
+      const current = state.page;
+      const navButton = (label, page, { disabled = false, isCurrent = false, aria = "" } = {}) => {
+        if (disabled) {
+          return `<button class="page-btn" type="button" disabled${aria ? ` aria-label="${aria}"` : ""}>${label}</button>`;
+        }
+        return `<button class="page-btn${isCurrent ? " is-current" : ""}" type="button" data-page="${page}"${isCurrent ? ' aria-current="page"' : ""}${aria ? ` aria-label="${aria}"` : ""}>${label}</button>`;
+      };
+
+      const numbers = pageWindow(current, total).map((entry) =>
+        entry === "ellipsis"
+          ? `<span class="page-ellipsis" aria-hidden="true">…</span>`
+          : navButton(String(entry), entry, { isCurrent: entry === current, aria: `Page ${entry}` })
+      ).join("");
+
+      const start = (current - 1) * PAGE_SIZE + 1;
+      const end = Math.min(filteredCount, current * PAGE_SIZE);
+      const markup = `
+        ${navButton("« First", 1, { disabled: current === 1, aria: "First page" })}
+        ${navButton("‹ Prev", current - 1, { disabled: current === 1, aria: "Previous page" })}
+        ${numbers}
+        ${navButton("Next ›", current + 1, { disabled: current === total, aria: "Next page" })}
+        ${navButton("Last »", total, { disabled: current === total, aria: "Last page" })}
+        <span class="page-info">Page ${current} of ${total} · showing ${start}–${end} of ${filteredCount}</span>
+      `;
+      els.paginationTop.innerHTML = markup;
+      els.paginationBottom.innerHTML = markup;
+      els.paginationTop.hidden = false;
+      els.paginationBottom.hidden = false;
+    };
+
+    const goToPage = (page) => {
+      state.page = page;
+      writePageToUrl(page, false);
+      render();
+      els.meetings.scrollIntoView({ block: "start", behavior: "smooth" });
+      if (state.transcriptMatches) {
+        loadTranscriptSearchSnippets(state.searchRun, normalize(state.query).trim());
+      }
+    };
+
     const render = () => {
       if (!state.data) return;
       const query = normalize(state.query).trim();
       const meetings = filteredMeetings();
+      const total = totalPages(meetings.length);
+      state.page = Math.min(Math.max(1, state.page), total);
+      const pageItems = currentPageMeetings(meetings);
       const transcriptPill = state.transcriptStatus ? `<span class="pill">${escapeHtml(state.transcriptStatus)}</span>` : "";
       els.summary.innerHTML = `
         <span class="pill"><strong>${meetings.length}</strong> shown</span>
@@ -681,7 +836,7 @@
       `;
 
       els.empty.style.display = meetings.length ? "none" : "block";
-      els.meetings.innerHTML = meetings.map((meeting) => {
+      els.meetings.innerHTML = pageItems.map((meeting) => {
         const transcriptMatch = state.transcriptMatches?.get(meeting.guid);
         const snippetState = transcriptMatch ? state.searchSnippets.get(meeting.guid) : null;
         const duration = meeting.durationMinutes ? `${meeting.durationMinutes} min` : "Duration unknown";
@@ -711,6 +866,8 @@
           </article>
         `;
       }).join("");
+
+      renderPagination(meetings.length);
     };
 
     const loadTranscript = async (meeting) => {
@@ -755,7 +912,7 @@
 
     const loadTranscriptSearchSnippets = async (run, query) => {
       if (!state.transcriptMatches || !state.data) return;
-      const matchedMeetings = filteredMeetings()
+      const matchedMeetings = currentPageMeetings(filteredMeetings())
         .filter((meeting) => state.transcriptMatches.has(meeting.guid));
       if (!matchedMeetings.length) return;
 
@@ -862,17 +1019,41 @@
       state.query = event.target.value;
       state.transcriptMatches = null;
       state.searchSnippets = new Map();
+      state.page = 1;
+      writePageToUrl(1, true);
       scheduleGlobalSearch();
     });
 
     els.committee.addEventListener("change", (event) => {
       state.committee = event.target.value;
+      state.page = 1;
+      writePageToUrl(1, true);
       render();
     });
 
     els.month.addEventListener("change", (event) => {
       state.month = event.target.value;
+      state.page = 1;
+      writePageToUrl(1, true);
       render();
+    });
+
+    const handlePaginationClick = (event) => {
+      const button = event.target.closest(".page-btn[data-page]");
+      if (!button) return;
+      const page = parseInt(button.dataset.page, 10);
+      if (Number.isFinite(page) && page !== state.page) goToPage(page);
+    };
+
+    els.paginationTop.addEventListener("click", handlePaginationClick);
+    els.paginationBottom.addEventListener("click", handlePaginationClick);
+
+    window.addEventListener("popstate", () => {
+      state.page = readPageFromUrl();
+      render();
+      if (state.transcriptMatches) {
+        loadTranscriptSearchSnippets(state.searchRun, normalize(state.query).trim());
+      }
     });
 
     els.meetings.addEventListener("click", (event) => {
@@ -918,6 +1099,7 @@
         state.data = await fetchJson(manifest.siteDataUrl);
         document.title = manifest.siteTitle || document.title;
         populateFilters();
+        state.page = readPageFromUrl();
         render();
       })
       .catch((error) => {
