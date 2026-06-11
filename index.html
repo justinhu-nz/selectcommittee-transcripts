@@ -435,7 +435,6 @@
 
   <main class="wrap">
     <div class="summary" id="summary">Loading site data...</div>
-    <nav class="pagination" id="paginationTop" aria-label="Meeting pages" hidden></nav>
     <section class="meetings" id="meetings" aria-live="polite"></section>
     <nav class="pagination" id="paginationBottom" aria-label="Meeting pages" hidden></nav>
     <div class="empty" id="empty">No meetings match the current filters.</div>
@@ -492,7 +491,6 @@
       month: document.getElementById("month"),
       summary: document.getElementById("summary"),
       meetings: document.getElementById("meetings"),
-      paginationTop: document.getElementById("paginationTop"),
       paginationBottom: document.getElementById("paginationBottom"),
       empty: document.getElementById("empty"),
       readerBackdrop: document.getElementById("readerBackdrop"),
@@ -773,9 +771,7 @@
     const renderPagination = (filteredCount) => {
       const total = totalPages(filteredCount);
       if (total <= 1) {
-        els.paginationTop.hidden = true;
         els.paginationBottom.hidden = true;
-        els.paginationTop.innerHTML = "";
         els.paginationBottom.innerHTML = "";
         return;
       }
@@ -804,17 +800,17 @@
         ${navButton("Last »", total, { disabled: current === total, aria: "Last page" })}
         <span class="page-info">Page ${current} of ${total} · showing ${start}–${end} of ${filteredCount}</span>
       `;
-      els.paginationTop.innerHTML = markup;
       els.paginationBottom.innerHTML = markup;
-      els.paginationTop.hidden = false;
       els.paginationBottom.hidden = false;
     };
 
-    const goToPage = (page) => {
+    const goToPage = (page, scrollToMeetings = false) => {
       state.page = page;
       writePageToUrl(page, false);
       render();
-      els.meetings.scrollIntoView({ block: "start", behavior: "smooth" });
+      if (scrollToMeetings) {
+        els.meetings.scrollIntoView({ block: "start" });
+      }
       if (state.transcriptMatches) {
         loadTranscriptSearchSnippets(state.searchRun, normalize(state.query).trim());
       }
@@ -1042,10 +1038,9 @@
       const button = event.target.closest(".page-btn[data-page]");
       if (!button) return;
       const page = parseInt(button.dataset.page, 10);
-      if (Number.isFinite(page) && page !== state.page) goToPage(page);
+      if (Number.isFinite(page) && page !== state.page) goToPage(page, true);
     };
 
-    els.paginationTop.addEventListener("click", handlePaginationClick);
     els.paginationBottom.addEventListener("click", handlePaginationClick);
 
     window.addEventListener("popstate", () => {
