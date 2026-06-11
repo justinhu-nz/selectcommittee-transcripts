@@ -139,7 +139,7 @@
       bottom: 0;
       display: flex;
       align-items: center;
-      color: #96a7b8;
+      color: #bec9d4;
       font-size: 1.04rem;
       pointer-events: none;
       white-space: nowrap;
@@ -157,7 +157,7 @@
       width: 2px;
       height: 18px;
       margin-left: 2px;
-      background: #96a7b8;
+      background: #bec9d4;
       border-radius: 999px;
       animation: search-cursor-blink 1s step-end infinite;
     }
@@ -610,12 +610,84 @@
     const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     const tokenRegex = /[\p{L}\p{N}]{3,}/gu;
     const stopWords = new Set(["the", "and", "for", "that", "this", "with", "from", "you", "your", "are", "was", "were", "have", "has", "had", "not", "but", "they", "them", "their", "there", "then", "than", "would", "could", "should", "about", "into", "onto", "our", "can", "will", "just", "all", "any", "who", "what", "when", "where", "why", "how"]);
-    const defaultSearchSuggestions = [
-      "Justice Committee",
-      "Finance and Expenditure",
-      "annual review",
-      "petition hearing"
+    const rawSearchSuggestions = [
+      "air new zealand",
+      "city rail link",
+      "infracom",
+      "unions",
+      "metservice",
+      "treasury",
+      "city rail link",
+      "nzsis",
+      "gcsb",
+      "mfat",
+      "msd",
+      "farmgate",
+      "law commission",
+      "city rail link",
+      "kordia",
+      "tvnz",
+      "local government",
+      "infrastructure pipeline",
+      "insulation",
+      "earthquake strengthening",
+      "treaty rights",
+      "ministry of transport",
+      "infrastructure commission",
+      "roads",
+      "house prices",
+      "first home grants",
+      "kiwisaver withdrawal",
+      "bright line test",
+      "interest deductibility",
+      "rental warrant of fitness",
+      "tenancy tribunal",
+      "bond lodgement",
+      "emergency housing",
+      "homelessness",
+      "community housing",
+      "supermarket duopoly",
+      "employment court",
+      "te reo",
+      "mana motuhake",
+      "roger douglas",
+      "geoff palmer",
+      "predator free",
+      "fisheries",
+      "carbon credits",
+      "pharmac",
+      "three waters",
+      "fibre",
+      "asbestos",
+      "conservation",
+      "environment",
+      "mbie",
+      "mcert",
+      "zespri",
+      "meridian",
+      "fishing quota",
+      "covid-19",
+      "data sovereignty",
+      "cybersecurity",
+      "new zealand green investment finance limited",
+      "gst",
+      "state highways",
+      "nzus",
+      "cemeteries",
+      "auckland council",
+      "auckland transport",
+      "metlink",
+      "trains",
+      "buses",
+      "ferries"
     ];
+    const normalizeSearchSuggestion = (value) => {
+      const suggestion = collapseWhitespace(String(value || "").toLowerCase().replace(/[.,]+$/g, ""));
+      return suggestion.length >= 4 && suggestion.length <= 25 ? suggestion : "";
+    };
+    const defaultSearchSuggestions = [...new Set(rawSearchSuggestions
+      .map(normalizeSearchSuggestion)
+      .filter(Boolean))];
     let searchSuggestionWords = [...defaultSearchSuggestions];
     let searchSuggestionWordIndex = 0;
     let searchSuggestionCharacterIndex = 0;
@@ -812,28 +884,37 @@
         return;
       }
 
-      const suggestions = [];
-      const addSuggestion = (value) => {
-        const suggestion = collapseWhitespace(value);
-        if (!suggestion || suggestion.length < 4) return;
-        if (suggestions.some((item) => item.localeCompare(suggestion, undefined, { sensitivity: "accent" }) === 0)) return;
-        suggestions.push(suggestion);
+      const curated = [...defaultSearchSuggestions];
+      const seen = new Set(curated);
+      const meetingSuggestions = [];
+      const addMeetingSuggestion = (value) => {
+        const suggestion = normalizeSearchSuggestion(value);
+        if (!suggestion || seen.has(suggestion)) return;
+        seen.add(suggestion);
+        meetingSuggestions.push(suggestion);
       };
 
       for (const meeting of state.data.meetings) {
-        addSuggestion(meeting.committee);
-        addSuggestion(meeting.topic);
-        if (suggestions.length >= 8) break;
+        addMeetingSuggestion(meeting.committee);
+        addMeetingSuggestion(meeting.topic);
+        if (meetingSuggestions.length >= 12) break;
       }
 
-      for (const fallback of defaultSearchSuggestions) {
-        addSuggestion(fallback);
+      const mixed = [];
+      const mixedSeen = new Set();
+      const addMixedSuggestion = (value) => {
+        if (!value || mixedSeen.has(value)) return;
+        mixedSeen.add(value);
+        mixed.push(value);
+      };
+
+      const maxLength = Math.max(curated.length, meetingSuggestions.length);
+      for (let index = 0; index < maxLength; index++) {
+        addMixedSuggestion(curated[index]);
+        addMixedSuggestion(meetingSuggestions[index]);
       }
 
-      searchSuggestionWords = suggestions.slice(0, 8);
-      if (!searchSuggestionWords.length) {
-        searchSuggestionWords = [...defaultSearchSuggestions];
-      }
+      searchSuggestionWords = mixed.length ? mixed : [...defaultSearchSuggestions];
     };
 
     const tickSearchPlaceholder = () => {
