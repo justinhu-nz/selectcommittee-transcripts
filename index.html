@@ -87,20 +87,93 @@
       background: #fff;
     }
 
-    #search {
+    .search-shell {
       grid-column: 1 / -1;
+      position: relative;
+      display: flex;
+      align-items: center;
+      gap: 12px;
       min-height: 62px;
       max-width: 860px;
       border: 2px solid var(--blue);
       border-radius: 8px;
-      padding: 16px 18px;
-      font-size: 1.14rem;
+      padding: 0 18px;
+      background: #fff;
       box-shadow: 0 10px 28px rgba(27, 95, 158, 0.13);
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .search-shell:hover .search-placeholder,
+    .search-shell:focus-within .search-placeholder,
+    .search-shell.has-value .search-placeholder {
+      opacity: 0;
+    }
+
+    .search-shell:focus-within {
+      border-color: #154d80;
+      box-shadow: 0 12px 30px rgba(27, 95, 158, 0.18);
+    }
+
+    .search-icon {
+      flex-shrink: 0;
+      color: #87a4bf;
+    }
+
+    #search {
+      flex: 1;
+      min-height: 58px;
+      border: 0;
+      padding: 0;
+      font-size: 1.14rem;
+      background: transparent;
+      position: relative;
+      z-index: 1;
+      box-shadow: none;
+    }
+
+    .search-placeholder {
+      position: absolute;
+      left: 48px;
+      right: 18px;
+      top: 0;
+      bottom: 0;
+      display: flex;
+      align-items: center;
+      color: #96a7b8;
+      font-size: 1.04rem;
+      pointer-events: none;
+      white-space: nowrap;
+      overflow: hidden;
+      transition: opacity 0.15s ease;
+    }
+
+    .search-placeholder-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .search-cursor {
+      display: inline-block;
+      width: 2px;
+      height: 18px;
+      margin-left: 2px;
+      background: #96a7b8;
+      border-radius: 999px;
+      animation: search-cursor-blink 1s step-end infinite;
+    }
+
+    @keyframes search-cursor-blink {
+      50% { opacity: 0; }
     }
 
     input:focus, select:focus {
       outline: 3px solid var(--soft-blue);
       border-color: var(--blue);
+    }
+
+    #search:focus {
+      outline: none;
+      border-color: transparent;
     }
 
     main { padding: 30px 0 44px; }
@@ -407,7 +480,15 @@
       .wrap { width: min(100% - 22px, 1180px); }
       .topbar { padding: 38px 0 30px; }
       .controls, .reader-tools, .match-button, .transcript-row { grid-template-columns: 1fr; }
-      #search { min-height: 58px; font-size: 1.04rem; }
+      .search-shell {
+        min-height: 58px;
+        padding: 0 14px;
+      }
+      #search { min-height: 54px; font-size: 1.04rem; }
+      .search-placeholder {
+        left: 44px;
+        font-size: 0.98rem;
+      }
       .meeting { padding: 14px; }
       .reader-file-links { justify-content: start; }
     }
@@ -422,7 +503,17 @@
       </div>
       <div class="controls" role="search">
         <p class="search-prompt">Start here with a search...</p>
-        <input id="search" type="search" autocomplete="off" placeholder="Search title, committee, date, transcript">
+        <label class="search-shell" for="search">
+          <svg class="search-icon" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7.5"></circle>
+            <line x1="20" y1="20" x2="16.5" y2="16.5"></line>
+          </svg>
+          <input id="search" type="search" autocomplete="off" aria-label="Search transcripts">
+          <div class="search-placeholder" id="searchPlaceholder">
+            <span class="search-placeholder-text" id="searchPlaceholderText"></span>
+            <span class="search-cursor" aria-hidden="true"></span>
+          </div>
+        </label>
         <select id="committee" aria-label="Committee filter">
           <option value="">All committees</option>
         </select>
@@ -493,6 +584,9 @@
       meetings: document.getElementById("meetings"),
       paginationBottom: document.getElementById("paginationBottom"),
       empty: document.getElementById("empty"),
+      searchShell: document.querySelector(".search-shell"),
+      searchPlaceholder: document.getElementById("searchPlaceholder"),
+      searchPlaceholderText: document.getElementById("searchPlaceholderText"),
       readerBackdrop: document.getElementById("readerBackdrop"),
       readerTitle: document.getElementById("readerTitle"),
       readerMeta: document.getElementById("readerMeta"),
@@ -516,6 +610,17 @@
     const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     const tokenRegex = /[\p{L}\p{N}]{3,}/gu;
     const stopWords = new Set(["the", "and", "for", "that", "this", "with", "from", "you", "your", "are", "was", "were", "have", "has", "had", "not", "but", "they", "them", "their", "there", "then", "than", "would", "could", "should", "about", "into", "onto", "our", "can", "will", "just", "all", "any", "who", "what", "when", "where", "why", "how"]);
+    const defaultSearchSuggestions = [
+      "Justice Committee",
+      "Finance and Expenditure",
+      "annual review",
+      "petition hearing"
+    ];
+    let searchSuggestionWords = [...defaultSearchSuggestions];
+    let searchSuggestionWordIndex = 0;
+    let searchSuggestionCharacterIndex = 0;
+    let searchSuggestionDeleting = false;
+    let searchSuggestionTimer = null;
 
     const fetchJson = async (url, options = {}) => {
       const response = await fetch(url, options);
@@ -695,6 +800,82 @@
         option.textContent = displayMonth(month);
         els.month.appendChild(option);
       }
+    };
+
+    const setSearchPlaceholderVisibility = () => {
+      els.searchShell.classList.toggle("has-value", !!els.search.value);
+    };
+
+    const buildSearchSuggestions = () => {
+      if (!state.data?.meetings?.length) {
+        searchSuggestionWords = [...defaultSearchSuggestions];
+        return;
+      }
+
+      const suggestions = [];
+      const addSuggestion = (value) => {
+        const suggestion = collapseWhitespace(value);
+        if (!suggestion || suggestion.length < 4) return;
+        if (suggestions.some((item) => item.localeCompare(suggestion, undefined, { sensitivity: "accent" }) === 0)) return;
+        suggestions.push(suggestion);
+      };
+
+      for (const meeting of state.data.meetings) {
+        addSuggestion(meeting.committee);
+        addSuggestion(meeting.topic);
+        if (suggestions.length >= 8) break;
+      }
+
+      for (const fallback of defaultSearchSuggestions) {
+        addSuggestion(fallback);
+      }
+
+      searchSuggestionWords = suggestions.slice(0, 8);
+      if (!searchSuggestionWords.length) {
+        searchSuggestionWords = [...defaultSearchSuggestions];
+      }
+    };
+
+    const tickSearchPlaceholder = () => {
+      const words = searchSuggestionWords.length ? searchSuggestionWords : defaultSearchSuggestions;
+      const word = words[searchSuggestionWordIndex % words.length] || "";
+
+      if (!searchSuggestionDeleting) {
+        searchSuggestionCharacterIndex = Math.min(searchSuggestionCharacterIndex + 1, word.length);
+        els.searchPlaceholderText.textContent = word.slice(0, searchSuggestionCharacterIndex);
+        if (searchSuggestionCharacterIndex >= word.length) {
+          searchSuggestionTimer = window.setTimeout(() => {
+            searchSuggestionDeleting = true;
+            tickSearchPlaceholder();
+          }, 1250);
+          return;
+        }
+
+        searchSuggestionTimer = window.setTimeout(tickSearchPlaceholder, 42 + Math.random() * 32);
+        return;
+      }
+
+      searchSuggestionCharacterIndex = Math.max(searchSuggestionCharacterIndex - 1, 0);
+      els.searchPlaceholderText.textContent = word.slice(0, searchSuggestionCharacterIndex);
+      if (searchSuggestionCharacterIndex <= 0) {
+        searchSuggestionDeleting = false;
+        searchSuggestionWordIndex = (searchSuggestionWordIndex + 1) % words.length;
+        searchSuggestionTimer = window.setTimeout(tickSearchPlaceholder, 220);
+        return;
+      }
+
+      searchSuggestionTimer = window.setTimeout(tickSearchPlaceholder, 22 + Math.random() * 18);
+    };
+
+    const startSearchPlaceholder = () => {
+      if (searchSuggestionTimer) {
+        window.clearTimeout(searchSuggestionTimer);
+      }
+      searchSuggestionWordIndex = 0;
+      searchSuggestionCharacterIndex = 0;
+      searchSuggestionDeleting = false;
+      els.searchPlaceholderText.textContent = "";
+      tickSearchPlaceholder();
     };
 
     const renderTranscriptSnippets = (transcriptMatch, snippetState, query) => {
@@ -1017,6 +1198,7 @@
       state.searchSnippets = new Map();
       state.page = 1;
       writePageToUrl(1, true);
+      setSearchPlaceholderVisibility();
       scheduleGlobalSearch();
     });
 
@@ -1094,6 +1276,9 @@
         state.data = await fetchJson(manifest.siteDataUrl);
         document.title = manifest.siteTitle || document.title;
         populateFilters();
+        buildSearchSuggestions();
+        setSearchPlaceholderVisibility();
+        startSearchPlaceholder();
         state.page = readPageFromUrl();
         render();
       })
