@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T02:06:10.885666+00:00",
+  "generated_at": "2026-06-12T09:25:23.827015+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1196109834",
   "title": "2026-05-28 2026 05 28 FEC",
@@ -7,7 +7,7 @@
   "published_at": "20260528",
   "published_display": "2026-05-28",
   "duration_seconds": 3236,
-  "source_labels": "Parliament Page finance-and-expenditure, Vimeo Showcase 10758103",
+  "source_labels": "Parliament Page finance-and-expenditure",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

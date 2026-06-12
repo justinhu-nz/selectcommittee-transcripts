@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-10T02:06:56.591592+00:00",
+  "generated_at": "2026-06-12T09:26:16.283957+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1195825108",
   "title": "vimeo_1195825108",
   "url": "https://vimeo.com/1195825108",
-  "published_at": "20260603",
-  "published_display": "2026-06-03",
-  "duration_seconds": 2775,
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
   "source_labels": "Vimeo Showcase 10758255",
   "transcript": {
     "source": "vimeo_vtt",
