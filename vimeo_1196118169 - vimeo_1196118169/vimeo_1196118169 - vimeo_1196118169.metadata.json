@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-15T01:26:08.376177+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1196118169",
+  "title": "vimeo_1196118169",
+  "url": "https://vimeo.com/1196118169",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758261",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 14315.82,
+    "segment_count": 4092,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1196118169 - vimeo_1196118169\\vimeo_1196118169 - vimeo_1196118169.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1196118169",
+    "display_id": "1196118169",
+    "title": "Justice Committee",
+    "webpage_url": "https://vimeo.com/1196118169",
+    "original_url": "https://vimeo.com/1196118169",
+    "upload_date": "20260612",
+    "release_date": "20260612",
+    "timestamp": 1781224641,
+    "release_timestamp": 1781224657,
+    "duration": 14329,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2162149305-f7b8b5ce8f7023d4eb2a19ef468cc0ce538ecf8fc4b93cb718c64b65b4318c6a-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

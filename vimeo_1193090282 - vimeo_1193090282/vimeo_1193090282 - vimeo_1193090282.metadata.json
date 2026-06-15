@@ -1,36 +1,18 @@
-﻿{
-    "generated_at":  "2026-06-12T09:25:59.748998+00:00",
-    "provider":  "vimeo",
-    "media_id":  "vimeo_1193090282",
-    "title":  "2026-05-18 Primary Production Committee",
-    "url":  "https://vimeo.com/1193090282",
-    "published_at":  "20260518",
-    "published_display":  "2026-05-18",
-    "duration_seconds":  14649,
-    "source_labels":  "Vimeo Video 1193090282",
-    "transcript":  {
-                       "source":  "whisper",
-                       "language":  "mi",
-                       "duration_seconds":  14648.768,
-                       "segment_count":  2658,
-                       "source_vtt_path":  null
-                   },
-    "source_metadata":  {
-                            "provider":  "vimeo",
-                            "id":  "1193090282",
-                            "display_id":  "1193090282",
-                            "title":  "Primary Production Committee",
-                            "description":  "Fisheries Amendment Bill\n\nBay of Islands Maritime Park Inc\nVictoria Froude\nWellington Community Justice Project\nConnor Shephard\nPirirakau Tribal Authority - Incorporated\nHeta Gardiner\nPelco NZ Ltd\nDenham Cook, Science Advisor\nAndrew Rolleston, Managing Director\nMaureen Rolleston, Regulatory Manager\nSteve Keeves, Operations Manager\nAnimal Justice Auckland\nDr Michael Morris\nNew Zealand Law Society Te Kahui Ture o Aotearoa\nGareth Richards\nTe Kotahitanga o Te Arawa Waka Fisheries Trust\nNicole Pakau\nRoku Mihinui\nSeaeagle Fishing Limited\nSamuel Gilbert Penwarden\nNZ Federation of Commercial Fishermen\nDouglas Saunders-Loder\nInstitute of Marine Science, University of Auckland\nProfessor Conrad Pilditch, Head of the Institute of Marine Science at University of Auckland\nProfessor Elizabeth Macpherson, University of Canterbury\nTe Runanga o Ngati Ruanui Trust\nGraham Young\nSTET Limited\nShaun Lee\nNgati Manuhiri Settlement Trust\nNicola MacDonald\nTangimoana pest control\nBen Kemp\nEnvironment and Conservation Organisations of NZ Inc\nBarry Weeber\nRNZSPCA\nDr Arnja Dale, Chief Scientific Officer\nDr Christine Sumner, Senior Scientific Officer\nChief Ombudsman\nJohn Allen, Chief Ombudsman\nNew Zealand Sport Fishing Council, LegaSea, NZ Angling and Casting, NZ Underwater\nScott Macindoe, President, New Zealand Sport Fishing Council, LegaSea support crew\nRowan Ashton, Legal counsel to the New Zealand Sport Fishing Council and joint parties\nLegaSea\nKatie Goodwin, Marine science and Communications.\nTrish Rea, LegaSea Communications lead, Advocacy lead\n\nStreamed on May 18, 2026 at 5:09 pm NZST",
-                            "webpage_url":  "https://vimeo.com/1193090282",
-                            "original_url":  "https://vimeo.com/1193090282",
-                            "upload_date":  "20260518",
-                            "timestamp":  1779080940,
-                            "release_timestamp":  1779080940,
-                            "duration":  14649,
-                            "uploader":  "New Zealand Parliament",
-                            "uploader_id":  "nzparliament",
-                            "uploader_url":  "https://vimeo.com/nzparliament",
-                            "extractor":  "vimeo",
-                            "extractor_key":  "Vimeo"
-                        }
+{
+  "generated_at": "2026-06-15T01:26:01.113579+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1193090282",
+  "title": "vimeo_1193090282",
+  "url": "https://vimeo.com/1193090282",
+  "published_at": "20260518",
+  "published_display": "2026-05-18",
+  "duration_seconds": 14649,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 14648.768,
+    "segment_count": 2707,
+    "source_vtt_path": null
+  }
 }
