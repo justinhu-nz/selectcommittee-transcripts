@@ -1,7 +1,7 @@
 Title: vimeo_1200646608
 URL: https://vimeo.com/1200646608
-Published: 2026-06-12
-Duration: 00:29:05
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:00] How are you?
 [00:00:00] Nice to have you with us this afternoon.

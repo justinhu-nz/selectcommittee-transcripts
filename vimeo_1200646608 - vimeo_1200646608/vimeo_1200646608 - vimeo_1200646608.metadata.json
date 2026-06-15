@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-15T09:52:59.846680+00:00",
+  "generated_at": "2026-06-15T12:10:47.327073+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1200646608",
   "title": "vimeo_1200646608",
   "url": "https://vimeo.com/1200646608",
-  "published_at": "20260612",
-  "published_display": "2026-06-12",
-  "duration_seconds": 1745,
-  "source_labels": "Parliament Page justice, Vimeo Showcase 10758261, Vimeo RSS nzparliament",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758261",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
