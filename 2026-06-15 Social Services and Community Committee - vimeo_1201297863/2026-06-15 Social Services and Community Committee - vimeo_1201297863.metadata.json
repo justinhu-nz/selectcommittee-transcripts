@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-15T05:38:13.973270+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1201297863",
+  "title": "2026-06-15 Social Services and Community Committee",
+  "url": "https://vimeo.com/1201297863",
+  "published_at": "20260615",
+  "published_display": "2026-06-15",
+  "duration_seconds": 2143,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2131.52,
+    "segment_count": 686,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026-06-15 Social Services and Community Committee - vimeo_1201297863\\2026-06-15 Social Services and Community Committee - vimeo_1201297863.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1201297863",
+    "display_id": "1201297863",
+    "title": "Social Services and Community Committee",
+    "webpage_url": "https://vimeo.com/1201297863",
+    "original_url": "https://vimeo.com/1201297863",
+    "upload_date": "20260615",
+    "release_date": "20260615",
+    "timestamp": 1781500150,
+    "release_timestamp": 1781500160,
+    "duration": 2143,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2168609354-7f40fcc8c75ddbfaac4ad1746d2eaa4fd3ceae51a01008f8f0737c53f3335eac-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}
