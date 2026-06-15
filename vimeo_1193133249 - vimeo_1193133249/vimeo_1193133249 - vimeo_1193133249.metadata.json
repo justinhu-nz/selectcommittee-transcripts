@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-06-15T03:27:36.287136+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1193133249",
+  "title": "vimeo_1193133249",
+  "url": "https://vimeo.com/1193133249",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758268",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2658.64,
+    "segment_count": 834,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1193133249 - vimeo_1193133249\\vimeo_1193133249 - vimeo_1193133249.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1193133249",
+    "display_id": "1193133249",
+    "title": "Primary Production Committee",
+    "webpage_url": "https://vimeo.com/1193133249",
+    "original_url": "https://vimeo.com/1193133249",
+    "upload_date": "20260520",
+    "timestamp": 1779314157,
+    "release_timestamp": 1779314164,
+    "duration": 2716,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2158535689-0629b803f4001d6df0459b4dddcfe4781d766db7877dc36d4aa448f4b96e60c3-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}
