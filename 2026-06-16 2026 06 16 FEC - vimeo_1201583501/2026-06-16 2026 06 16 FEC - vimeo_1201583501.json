@@ -1,0 +1,4548 @@
+{
+  "language": "en-x-autogen",
+  "duration": 2381.75,
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.02,
+      "text": "Fair enough."
+    },
+    {
+      "start": 24.15,
+      "end": 25.82,
+      "text": "Mr Robertson, you're all by yourself."
+    },
+    {
+      "start": 26.04,
+      "end": 26.74,
+      "text": "I am by myself."
+    },
+    {
+      "start": 26.94,
+      "end": 27.52,
+      "text": "You're welcome."
+    },
+    {
+      "start": 27.94,
+      "end": 27.95,
+      "text": "Although I've got a-"
+    },
+    {
+      "start": 27.96,
+      "end": 30.38,
+      "text": "The others are hiding. You're welcome to phone a friend if you need."
+    },
+    {
+      "start": 32.34,
+      "end": 33.36,
+      "text": "All right. We're in your hands."
+    },
+    {
+      "start": 33.66,
+      "end": 33.94,
+      "text": "Great."
+    },
+    {
+      "start": 34.84,
+      "end": 38.44,
+      "text": "So I thought I'd just kick off with just a few comments about the"
+    },
+    {
+      "start": 38.52,
+      "end": 40.68,
+      "text": "SEPs, Supplementary Estimates document."
+    },
+    {
+      "start": 40.74,
+      "end": 44.26,
+      "text": "So my name's Bonar Robertson, I'm a principal advisor in the budget team,"
+    },
+    {
+      "start": 44.7,
+      "end": 45.34,
+      "text": "at the Treasury."
+    },
+    {
+      "start": 46.24,
+      "end": 47.64,
+      "text": "And then I have got a"
+    },
+    {
+      "start": 48.54,
+      "end": 52.3,
+      "text": "range of senior finance people from across the"
+    },
+    {
+      "start": 52.32,
+      "end": 52.68,
+      "text": "public"
+    },
+    {
+      "start": 53.6,
+      "end": 56.8,
+      "text": "sector who are here to help answer questions on the supplementary estimate."
+    },
+    {
+      "start": 56.88,
+      "end": 57.02,
+      "text": "So,"
+    },
+    {
+      "start": 58.06,
+      "end": 60.64,
+      "text": "I will get them to come forward as you have your questions."
+    },
+    {
+      "start": 62.26,
+      "end": 65.32,
+      "text": "So we're here to discuss the supplementary estimates for the year ending 30 June"
+    },
+    {
+      "start": 65.46,
+      "end": 68.54,
+      "text": "2026. It is a large document,"
+    },
+    {
+      "start": 69.58,
+      "end": 72.86,
+      "text": "but I hope that we can support you in your role in understanding and scrutinizing"
+    },
+    {
+      "start": 72.9,
+      "end": 73.66,
+      "text": "the document today."
+    },
+    {
+      "start": 74.84,
+      "end": 78.24,
+      "text": "So I'm just going to quickly cover off what the supplementary estimates are, key"
+    },
+    {
+      "start": 78.28,
+      "end": 81.27,
+      "text": "things to look out for, and what our briefing does before we get into"
+    },
+    {
+      "start": 81.28,
+      "end": 84.92,
+      "text": "questions. So the supplementary estimates"
+    },
+    {
+      "start": 84.98,
+      "end": 88.7,
+      "text": "provide details of changes to appropriations since the"
+    },
+    {
+      "start": 88.76,
+      "end": 92.16,
+      "text": "estimates for '25/26 were finalized through budget"
+    },
+    {
+      "start": 92.28,
+      "end": 93.1,
+      "text": "2025."
+    },
+    {
+      "start": 93.92,
+      "end": 97.63,
+      "text": "The document is organized into different votes by alphabetical order, and"
+    },
+    {
+      "start": 97.68,
+      "end": 101.52,
+      "text": "within each vote there are tables summarizing changes to budget"
+    },
+    {
+      "start": 101.56,
+      "end": 105.25,
+      "text": "amounts, followed by detailed supporting information for"
+    },
+    {
+      "start": 105.25,
+      "end": 107.27,
+      "text": "appropriations where there have been changes."
+    },
+    {
+      "start": 108.59,
+      "end": 112.44,
+      "text": "So the supporting information included for each appropriation will depend"
+    },
+    {
+      "start": 112.5,
+      "end": 116.12,
+      "text": "on what has changed, with the three most common changes being,"
+    },
+    {
+      "start": 116.86,
+      "end": 120.54,
+      "text": "firstly, where there are changes to the amount of an existing appropriation."
+    },
+    {
+      "start": 121.36,
+      "end": 124.86,
+      "text": "So where there's a change in the amount, the supporting information will include a"
+    },
+    {
+      "start": 124.88,
+      "end": 127.15,
+      "text": "written explanation for the reason for the change."
+    },
+    {
+      "start": 128.06,
+      "end": 131.46,
+      "text": "The second change is where there are changes to performance"
+    },
+    {
+      "start": 131.5,
+      "end": 134.3,
+      "text": "information for existing appropriations."
+    },
+    {
+      "start": 135.1,
+      "end": 138.96,
+      "text": "So this might include removing or changing the wording or targets for"
+    },
+    {
+      "start": 139.0,
+      "end": 142.84,
+      "text": "existing performance measures or introducing new performance measures for"
+    },
+    {
+      "start": 142.88,
+      "end": 144.22,
+      "text": "those appropriations."
+    },
+    {
+      "start": 145.3,
+      "end": 148.68,
+      "text": "And those changes are reflected in the supporting information for the"
+    },
+    {
+      "start": 148.72,
+      "end": 149.52,
+      "text": "appropriation."
+    },
+    {
+      "start": 150.68,
+      "end": 154.08,
+      "text": "The third main change you'll see is where there is an entirely new"
+    },
+    {
+      "start": 154.1,
+      "end": 156.56,
+      "text": "appropriation that has been introduced during the year."
+    },
+    {
+      "start": 157.38,
+      "end": 161.32,
+      "text": "So in this case, you'll be able to find the same level of information you would"
+    },
+    {
+      "start": 161.34,
+      "end": 163.36,
+      "text": "expect to see in an estimates document."
+    },
+    {
+      "start": 163.9,
+      "end": 167.22,
+      "text": "So that includes the scope, what is intended to be achieved with the"
+    },
+    {
+      "start": 167.24,
+      "end": 169.6,
+      "text": "appropriation, performance information,"
+    },
+    {
+      "start": 170.8,
+      "end": 173.75,
+      "text": "and who will report on what will be achieved with the appropriation."
+    },
+    {
+      "start": 175.2,
+      "end": 178.76,
+      "text": "So where there's been no changes to an appropriation since the last"
+    },
+    {
+      "start": 178.82,
+      "end": 182.5,
+      "text": "estimates, there will be no supporting information provided, as the"
+    },
+    {
+      "start": 182.64,
+      "end": 186.4,
+      "text": "25/26 estimates still provide the most relevant and"
+    },
+    {
+      "start": 186.46,
+      "end": 187.53,
+      "text": "up-to-date information."
+    },
+    {
+      "start": 189.1,
+      "end": 192.49,
+      "text": "So just quickly on the briefing that we have provided the committee."
+    },
+    {
+      "start": 193.06,
+      "end": 196.3,
+      "text": "So the purpose of this is just to pull out the significant changes."
+    },
+    {
+      "start": 196.74,
+      "end": 200.71,
+      "text": "Obviously it's 920 pages, so just trying to pull out the big changes and"
+    },
+    {
+      "start": 200.72,
+      "end": 204.58,
+      "text": "draw those to your attention. And includes reference to where you can see"
+    },
+    {
+      "start": 204.64,
+      "end": 206.0,
+      "text": "them within the document."
+    },
+    {
+      "start": 209.68,
+      "end": 211.12,
+      "text": "That's kind of the end of my opening comments."
+    },
+    {
+      "start": 211.16,
+      "end": 213.52,
+      "text": "So happy to basically get into questions."
+    },
+    {
+      "start": 213.78,
+      "end": 216.88,
+      "text": "We can get the experts in the room to come up and help answer those as well."
+    },
+    {
+      "start": 217.26,
+      "end": 220.56,
+      "text": "Thanks, Bonar. All right. We've got questions from Deborah."
+    },
+    {
+      "start": 220.9,
+      "end": 222.36,
+      "text": "Right. I have quite a number."
+    },
+    {
+      "start": 223.58,
+      "end": 225.08,
+      "text": "There's quite a lot of interesting stuff in here."
+    },
+    {
+      "start": 225.14,
+      "end": 227.66,
+      "text": "Look, what I want to start with is the"
+    },
+    {
+      "start": 228.42,
+      "end": 229.16,
+      "text": "changes"
+    },
+    {
+      "start": 230.1,
+      "end": 234.02,
+      "text": "on... Now I'm using the Treasury's document here because it's the easiest"
+    },
+    {
+      "start": 234.06,
+      "end": 234.94,
+      "text": "one for us to follow."
+    },
+    {
+      "start": 235.76,
+      "end": 237.78,
+      "text": "It's the revenue impairment of debt,"
+    },
+    {
+      "start": 238.76,
+      "end": 241.48,
+      "text": "that's sitting on page 10 of the Treasury document."
+    },
+    {
+      "start": 241.5,
+      "end": 243.76,
+      "text": "So it's impairment of debt and debt write-offs."
+    },
+    {
+      "start": 244.34,
+      "end": 247.48,
+      "text": "So, it's an increase of $480 million."
+    },
+    {
+      "start": 247.54,
+      "end": 251.22,
+      "text": "So that seems to be an anticipation of more"
+    },
+    {
+      "start": 251.24,
+      "end": 254.94,
+      "text": "debt being written off. And I want to link that"
+    },
+    {
+      "start": 255.02,
+      "end": 257.38,
+      "text": "to the increase in the"
+    },
+    {
+      "start": 258.36,
+      "end": 262.3,
+      "text": "emergency benefit of $127"
+    },
+    {
+      "start": 262.34,
+      "end": 266.12,
+      "text": "million. So these to me both point to"
+    },
+    {
+      "start": 266.14,
+      "end": 269.04,
+      "text": "revised forecasts based on what?"
+    },
+    {
+      "start": 270.32,
+      "end": 271.5,
+      "text": "Maybe ask Rachel to come"
+    },
+    {
+      "start": 272.56,
+      "end": 273.06,
+      "text": "up."
+    },
+    {
+      "start": 275.46,
+      "end": 277.02,
+      "text": "Kia ora. Rachel Parker, Inland Revenue."
+    },
+    {
+      "start": 277.68,
+      "end": 279.08,
+      "text": "I can answer the first part of your question."
+    },
+    {
+      "start": 279.28,
+      "end": 281.74,
+      "text": "I might need somebody to answer the second part."
+    },
+    {
+      "start": 282.42,
+      "end": 285.95,
+      "text": "But in just in terms of the impairment of debt and debt write-off, the vast"
+    },
+    {
+      "start": 286.02,
+      "end": 289.48,
+      "text": "majority of that increase there is actually a technical"
+    },
+    {
+      "start": 289.5,
+      "end": 292.78,
+      "text": "buffer. It's for appropriation management purposes."
+    },
+    {
+      "start": 292.88,
+      "end": 296.84,
+      "text": "So $450 million of the increase you see there is actually"
+    },
+    {
+      "start": 297.18,
+      "end": 300.5,
+      "text": "to manage the appropriation and avoid or reduce the"
+    },
+    {
+      "start": 300.54,
+      "end": 301.32,
+      "text": "risk"
+    },
+    {
+      "start": 302.32,
+      "end": 306.24,
+      "text": "of a breach of appropriation. That is, we've always got that buffer."
+    },
+    {
+      "start": 306.62,
+      "end": 309.84,
+      "text": "A significant amount of our debt arises in the last three months of the year,"
+    },
+    {
+      "start": 310.68,
+      "end": 314.62,
+      "text": "when we have two major tax dates. And due to the uncertainty in the current"
+    },
+    {
+      "start": 314.66,
+      "end": 318.22,
+      "text": "environment, we increased that buffer this year to cover that."
+    },
+    {
+      "start": 318.28,
+      "end": 321.3,
+      "text": "So our forecast is actually $1.5 billion."
+    },
+    {
+      "start": 321.56,
+      "end": 321.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 321.78,
+      "end": 324.24,
+      "text": "And the remainder is appropriation management."
+    },
+    {
+      "start": 324.3,
+      "end": 326.76,
+      "text": "So I totally get the technical nature of that change."
+    },
+    {
+      "start": 326.86,
+      "end": 326.87,
+      "text": "Yeah."
+    },
+    {
+      "start": 326.88,
+      "end": 330.66,
+      "text": "But ordinarily that technical, that's quite an increase to that buffer."
+    },
+    {
+      "start": 330.86,
+      "end": 331.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 331.06,
+      "end": 334.68,
+      "text": "So what's the underlying conditions that have led you to increase the buffer by"
+    },
+    {
+      "start": 334.7,
+      "end": 335.18,
+      "text": "that much?"
+    },
+    {
+      "start": 335.62,
+      "end": 337.74,
+      "text": "So at the time that we set the"
+    },
+    {
+      "start": 338.68,
+      "end": 341.14,
+      "text": "supplementary estimates for this year, and at the time we were doing our last"
+    },
+    {
+      "start": 341.18,
+      "end": 341.68,
+      "text": "forecast,"
+    },
+    {
+      "start": 342.63,
+      "end": 346.23,
+      "text": "the Middle East had just kicked off, and we were uncertain as to what the impact of"
+    },
+    {
+      "start": 346.28,
+      "end": 350.15,
+      "text": "that on taxpayers' ability to pay in the last three months of the year"
+    },
+    {
+      "start": 350.16,
+      "end": 353.68,
+      "text": "would be. So that gave us an increase from what we've previously put in there as a"
+    },
+    {
+      "start": 353.7,
+      "end": 354.0,
+      "text": "buffer."
+    },
+    {
+      "start": 354.82,
+      "end": 358.2,
+      "text": "Okay. So part of it is due to the situation in the Middle East."
+    },
+    {
+      "start": 358.22,
+      "end": 359.74,
+      "text": "Were there any other factors going into that?"
+    },
+    {
+      "start": 359.78,
+      "end": 360.66,
+      "text": "That was largely the"
+    },
+    {
+      "start": 362.66,
+      "end": 365.56,
+      "text": "uncertainty that was put into there to increase it from the buffer we had last"
+    },
+    {
+      "start": 365.58,
+      "end": 365.72,
+      "text": "year."
+    },
+    {
+      "start": 365.76,
+      "end": 367.56,
+      "text": "Yeah. How's that panning out so far? Do you know?"
+    },
+    {
+      "start": 368.04,
+      "end": 372.0,
+      "text": "At the moment, our valuation is done after year-end, so we don't actually know the"
+    },
+    {
+      "start": 372.04,
+      "end": 372.78,
+      "text": "value of the"
+    },
+    {
+      "start": 373.68,
+      "end": 377.64,
+      "text": "impact on impairment till after year-end, but debt at the moment is, we're not"
+    },
+    {
+      "start": 377.72,
+      "end": 378.86,
+      "text": "seeing that come through at the moment."
+    },
+    {
+      "start": 379.4,
+      "end": 380.92,
+      "text": "Right. So hopefully we're not going to need that."
+    },
+    {
+      "start": 381.08,
+      "end": 381.48,
+      "text": "Hopefully."
+    },
+    {
+      "start": 381.72,
+      "end": 383.01,
+      "text": "Okay. We'll see how that goes, but thank you for that."
+    },
+    {
+      "start": 383.02,
+      "end": 384.24,
+      "text": "We'll see. Yeah, as I say-"
+    },
+    {
+      "start": 384.26,
+      "end": 384.32,
+      "text": "Yeah"
+    },
+    {
+      "start": 384.33,
+      "end": 385.54,
+      "text": "... it's after year end available."
+    },
+    {
+      "start": 385.88,
+      "end": 388.39,
+      "text": "But if we could go to the emergency benefit increase."
+    },
+    {
+      "start": 388.52,
+      "end": 388.74,
+      "text": "Yes."
+    },
+    {
+      "start": 388.78,
+      "end": 390.82,
+      "text": "That's a lot of increase in the emergency benefit."
+    },
+    {
+      "start": 390.84,
+      "end": 391.64,
+      "text": "Who have we got here for-"
+    },
+    {
+      "start": 392.32,
+      "end": 392.94,
+      "text": "Got Brad."
+    },
+    {
+      "start": 395.22,
+      "end": 396.96,
+      "text": "MSD."
+    },
+    {
+      "start": 399.12,
+      "end": 400.31,
+      "text": "Just introduce yourselves."
+    },
+    {
+      "start": 401.16,
+      "end": 403.18,
+      "text": "Yeah, morning. I'm Brad Young, CFO from MSD."
+    },
+    {
+      "start": 403.92,
+      "end": 406.18,
+      "text": "Morning, Peter Moorer, from MSD as well."
+    },
+    {
+      "start": 406.22,
+      "end": 407.66,
+      "text": "Yep."
+    },
+    {
+      "start": 407.74,
+      "end": 411.48,
+      "text": "So that's a substantial increase in the amount of the emergency benefit,"
+    },
+    {
+      "start": 412.46,
+      "end": 414.58,
+      "text": "a higher number of people than previously forecast."
+    },
+    {
+      "start": 414.64,
+      "end": 416.16,
+      "text": "Why did you have to change that forecast?"
+    },
+    {
+      "start": 417.94,
+      "end": 419.64,
+      "text": "So the forecast for"
+    },
+    {
+      "start": 420.74,
+      "end": 424.5,
+      "text": "benefit recipients is based on unemployment forecasts that come through"
+    },
+    {
+      "start": 424.56,
+      "end": 428.32,
+      "text": "from the Treasury. So the number of people that will be on the benefit has"
+    },
+    {
+      "start": 428.34,
+      "end": 431.72,
+      "text": "increased through the year and it"
+    },
+    {
+      "start": 431.8,
+      "end": 434.86,
+      "text": "will be higher than we forecast last year."
+    },
+    {
+      "start": 436.24,
+      "end": 437.98,
+      "text": "So why has that forecast changed?"
+    },
+    {
+      "start": 439.08,
+      "end": 441.68,
+      "text": "So I need to get behind-- I mean, that's the signal to us-"
+    },
+    {
+      "start": 441.71,
+      "end": 443.29,
+      "text": "... is the increase in the number of emergency benefits."
+    },
+    {
+      "start": 443.52,
+      "end": 445.96,
+      "text": "But what's the economic conditions underpinning that?"
+    },
+    {
+      "start": 446.04,
+      "end": 448.19,
+      "text": "Yeah. It is quite a complicated forecasting model."
+    },
+    {
+      "start": 448.22,
+      "end": 451.8,
+      "text": "It's probably better if we respond in writing, because I just don't want to"
+    },
+    {
+      "start": 451.84,
+      "end": 454.02,
+      "text": "mislead the committee on that."
+    },
+    {
+      "start": 454.06,
+      "end": 456.96,
+      "text": "So you can't tell me what the economic conditions are that relate to the"
+    },
+    {
+      "start": 458.5,
+      "end": 460.18,
+      "text": "increase in the number of emergency benefits?"
+    },
+    {
+      "start": 461.6,
+      "end": 464.04,
+      "text": "We get the macroeconomic conditions from the Treasury"
+    },
+    {
+      "start": 464.84,
+      "end": 466.58,
+      "text": "that we use to factor in our forecast."
+    },
+    {
+      "start": 466.72,
+      "end": 468.64,
+      "text": "Do we have someone from Treasury here who can answer that?"
+    },
+    {
+      "start": 469.5,
+      "end": 470.22,
+      "text": "Not a"
+    },
+    {
+      "start": 471.04,
+      "end": 473.36,
+      "text": "macroeconomic expert in terms of the forecasting."
+    },
+    {
+      "start": 474.44,
+      "end": 478.02,
+      "text": "It just seems very odd that Treasury"
+    },
+    {
+      "start": 478.48,
+      "end": 480.12,
+      "text": "does a lot of forecasting work,"
+    },
+    {
+      "start": 481.74,
+      "end": 484.59,
+      "text": "and you would've thought that a year ago they could look at what was going on in"
+    },
+    {
+      "start": 484.62,
+      "end": 487.88,
+      "text": "the economy and have a reasonable stab at what was going to be needed."
+    },
+    {
+      "start": 489.06,
+      "end": 492.68,
+      "text": "So if I go to, again, this is the Treasury's report, and if I go to"
+    },
+    {
+      "start": 492.76,
+      "end": 493.24,
+      "text": "page"
+    },
+    {
+      "start": 495.22,
+      "end": 495.84,
+      "text": "16"
+    },
+    {
+      "start": 496.66,
+      "end": 497.41,
+      "text": "of"
+    },
+    {
+      "start": 498.32,
+      "end": 501.98,
+      "text": "Treasury's report, and it says, \"Accommodation assistance is going up by"
+    },
+    {
+      "start": 502.18,
+      "end": 503.06,
+      "text": "72 million,"
+    },
+    {
+      "start": 504.04,
+      "end": 507.08,
+      "text": "super by 85 million.\" It's very odd that that couldn't have been predicted."
+    },
+    {
+      "start": 507.26,
+      "end": 507.37,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 507.98,
+      "end": 510.52,
+      "text": "Social development, sole parent support up by 86 million."
+    },
+    {
+      "start": 510.98,
+      "end": 513.48,
+      "text": "Students' allowances up by 41 million."
+    },
+    {
+      "start": 513.96,
+      "end": 517.68,
+      "text": "Again, odd, that shouldn't have been predicted, because we normally"
+    },
+    {
+      "start": 517.74,
+      "end": 519.66,
+      "text": "anticipate that education is counter-cyclical."
+    },
+    {
+      "start": 520.18,
+      "end": 520.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 520.8,
+      "end": 523.9,
+      "text": "The support of living payment has gone up by 70 million."
+    },
+    {
+      "start": 524.44,
+      "end": 526.68,
+      "text": "The winter energy payment up by 24 million."
+    },
+    {
+      "start": 526.78,
+      "end": 529.92,
+      "text": "I'm assuming that's linked to the increase in the number of beneficiaries full"
+    },
+    {
+      "start": 529.98,
+      "end": 530.24,
+      "text": "stop."
+    },
+    {
+      "start": 530.26,
+      "end": 530.54,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 531.46,
+      "end": 534.92,
+      "text": "And debt write-downs is 64 million. These are all increases."
+    },
+    {
+      "start": 535.82,
+      "end": 539.68,
+      "text": "Why, a year ago, was Treasury unable, using its"
+    },
+    {
+      "start": 539.76,
+      "end": 543.3,
+      "text": "reading of economic conditions, to understand that there would be"
+    },
+    {
+      "start": 543.4,
+      "end": 545.88,
+      "text": "significantly increased expenditure on benefits?"
+    },
+    {
+      "start": 547.72,
+      "end": 548.88,
+      "text": "Happy to respond in writing."
+    },
+    {
+      "start": 548.92,
+      "end": 550.46,
+      "text": "I think there's two separate parts."
+    },
+    {
+      "start": 550.5,
+      "end": 554.43,
+      "text": "There's the macroeconomic story that we'd have to respond to in"
+    },
+    {
+      "start": 554.44,
+      "end": 557.8,
+      "text": "writing. Equally, there is also, as Rachel explained, for the"
+    },
+    {
+      "start": 557.84,
+      "end": 561.68,
+      "text": "IR debt write-downs, there is an add-on to benefits"
+    },
+    {
+      "start": 562.38,
+      "end": 566.12,
+      "text": "at the supplementary estimates time to manage our appropriation risk."
+    },
+    {
+      "start": 566.2,
+      "end": 568.58,
+      "text": "Sure. That's the technical stuff. I'm actually trying to get at the macro."
+    },
+    {
+      "start": 568.89,
+      "end": 569.35,
+      "text": "I get the technical-"
+    },
+    {
+      "start": 569.38,
+      "end": 572.0,
+      "text": "And that is a large reason for the increase."
+    },
+    {
+      "start": 572.3,
+      "end": 572.3,
+      "text": "It's a large-"
+    },
+    {
+      "start": 572.34,
+      "end": 572.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 573.62,
+      "end": 573.83,
+      "text": "The technical-"
+    },
+    {
+      "start": 573.9,
+      "end": 577.68,
+      "text": "Sorry. With these, a lot of the increase is due to the appropriation"
+    },
+    {
+      "start": 577.74,
+      "end": 580.98,
+      "text": "buffers used to manage the risk of unappropriated expenditure."
+    },
+    {
+      "start": 581.08,
+      "end": 581.54,
+      "text": "Sure. But we-"
+    },
+    {
+      "start": 581.64,
+      "end": 581.73,
+      "text": "Yeah"
+    },
+    {
+      "start": 581.9,
+      "end": 583.26,
+      "text": "... ideally we shouldn't need that."
+    },
+    {
+      "start": 583.3,
+      "end": 583.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 583.94,
+      "end": 586.67,
+      "text": "That's quite a significant increase in the appropriation."
+    },
+    {
+      "start": 586.68,
+      "end": 590.42,
+      "text": "So it says that something is going on in the macroeconomics that Treasury didn't"
+    },
+    {
+      "start": 590.44,
+      "end": 591.32,
+      "text": "predict a year ago."
+    },
+    {
+      "start": 592.38,
+      "end": 596.32,
+      "text": "Well, there has been, obviously, the Middle East crisis since we"
+    },
+    {
+      "start": 596.62,
+      "end": 597.02,
+      "text": "did that."
+    },
+    {
+      "start": 597.05,
+      "end": 601.01,
+      "text": "But that's quite recent. I think Treasury needs to come back"
+    },
+    {
+      "start": 601.01,
+      "end": 601.86,
+      "text": "to us and explain-"
+    },
+    {
+      "start": 601.87,
+      "end": 604.18,
+      "text": "... why they couldn't forecast this a year ago."
+    },
+    {
+      "start": 604.24,
+      "end": 606.98,
+      "text": "And an aside from, because it's not just the Middle East impact."
+    },
+    {
+      "start": 607.1,
+      "end": 608.16,
+      "text": "I have a supplement."
+    },
+    {
+      "start": 608.66,
+      "end": 609.32,
+      "text": "I have a supplement."
+    },
+    {
+      "start": 609.48,
+      "end": 609.7,
+      "text": "Good."
+    },
+    {
+      "start": 610.4,
+      "end": 610.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 611.4,
+      "end": 611.93,
+      "text": "Thank you."
+    },
+    {
+      "start": 612.82,
+      "end": 615.68,
+      "text": "Look, I just really want to reiterate that."
+    },
+    {
+      "start": 616.16,
+      "end": 618.98,
+      "text": "There's a number of things that we'll get into in terms of"
+    },
+    {
+      "start": 620.26,
+      "end": 624.14,
+      "text": "the shifting across MYAs in this as"
+    },
+    {
+      "start": 624.2,
+      "end": 628.04,
+      "text": "well. But really do need some reassurance that this"
+    },
+    {
+      "start": 628.12,
+      "end": 631.86,
+      "text": "is not simply parking fiscal risk off the books,"
+    },
+    {
+      "start": 632.42,
+      "end": 632.87,
+      "text": "these buff-"
+    },
+    {
+      "start": 634.24,
+      "end": 638.15,
+      "text": "very much what it looks like. These are incredibly large buffers,"
+    },
+    {
+      "start": 638.2,
+      "end": 641.96,
+      "text": "so it's increased by $480 million to $2"
+    },
+    {
+      "start": 641.98,
+      "end": 645.3,
+      "text": "billion, this buffer. That's an exceptionally large"
+    },
+    {
+      "start": 645.34,
+      "end": 649.08,
+      "text": "buffer. So I'm somewhat surprised that we can't get some"
+    },
+    {
+      "start": 649.28,
+      "end": 653.26,
+      "text": "answers in this very technical part of the hearing around"
+    },
+    {
+      "start": 653.32,
+      "end": 655.6,
+      "text": "this to the questions that Deborah's posed"
+    },
+    {
+      "start": 656.6,
+      "end": 659.28,
+      "text": "around that. So maybe if we go through each of the votes-"
+    },
+    {
+      "start": 659.46,
+      "end": 659.73,
+      "text": "Yeah. I think we need to"
+    },
+    {
+      "start": 659.73,
+      "end": 660.64,
+      "text": "... in some detail."
+    },
+    {
+      "start": 660.74,
+      "end": 660.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 661.18,
+      "end": 663.23,
+      "text": "I think that's probably the best way to do it."
+    },
+    {
+      "start": 663.24,
+      "end": 664.52,
+      "text": "Yeah. We've just got a supplementary from Todd."
+    },
+    {
+      "start": 664.98,
+      "end": 666.0,
+      "text": "I wonder if we just do that, and we-"
+    },
+    {
+      "start": 666.06,
+      "end": 667.92,
+      "text": "Just so I'm crystal clear for the,"
+    },
+    {
+      "start": 669.24,
+      "end": 672.6,
+      "text": "Ministry of Social Development folk, your models though, were based on the"
+    },
+    {
+      "start": 672.74,
+      "end": 674.84,
+      "text": "information you're provided from Treasury."
+    },
+    {
+      "start": 675.18,
+      "end": 675.19,
+      "text": "Yes."
+    },
+    {
+      "start": 675.2,
+      "end": 675.74,
+      "text": "That's correct?"
+    },
+    {
+      "start": 675.96,
+      "end": 676.38,
+      "text": "Yes."
+    },
+    {
+      "start": 676.72,
+      "end": 677.97,
+      "text": "That's the one I'm worried about, the technical stuff."
+    },
+    {
+      "start": 678.04,
+      "end": 681.33,
+      "text": "No, I'm just getting them because-- I'm not saying your line of questionings"
+    },
+    {
+      "start": 681.4,
+      "end": 685.28,
+      "text": "aren't, but just so everyone's crystal clear, particularly those online, that"
+    },
+    {
+      "start": 685.4,
+      "end": 687.56,
+      "text": "MSD are using numbers supplied to them by Treasury."
+    },
+    {
+      "start": 688.28,
+      "end": 690.91,
+      "text": "And obviously we need to have a discussion about Treasury's numbers, but that's a"
+    },
+    {
+      "start": 691.04,
+      "end": 692.26,
+      "text": "separate... Yeah."
+    },
+    {
+      "start": 692.36,
+      "end": 692.46,
+      "text": "Sure."
+    },
+    {
+      "start": 692.92,
+      "end": 693.28,
+      "text": "Great."
+    },
+    {
+      "start": 693.7,
+      "end": 694.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 694.58,
+      "end": 695.18,
+      "text": "Meagan, back to you."
+    },
+    {
+      "start": 695.28,
+      "end": 699.0,
+      "text": "Okay. So if we have a look at the impairment of debt relating to"
+    },
+    {
+      "start": 699.04,
+      "end": 699.92,
+      "text": "student loans,"
+    },
+    {
+      "start": 701.14,
+      "end": 704.48,
+      "text": "that includes a $245 million buffer."
+    },
+    {
+      "start": 704.74,
+      "end": 705.71,
+      "text": "Sorry, what page are you on, Meagan?"
+    },
+    {
+      "start": 706.48,
+      "end": 708.9,
+      "text": "I'm sorry, this is just my-- I've made myself a oops."
+    },
+    {
+      "start": 709.68,
+      "end": 710.22,
+      "text": "It will be in"
+    },
+    {
+      "start": 711.24,
+      "end": 712.38,
+      "text": "education on that."
+    },
+    {
+      "start": 713.42,
+      "end": 716.78,
+      "text": "Why is there such a large contingency for student loan"
+    },
+    {
+      "start": 717.02,
+      "end": 719.0,
+      "text": "losses that's been factored in there?"
+    },
+    {
+      "start": 720.8,
+      "end": 721.9,
+      "text": "Revenue actually."
+    },
+    {
+      "start": 730.36,
+      "end": 731.08,
+      "text": "So again-"
+    },
+    {
+      "start": 731.38,
+      "end": 732.66,
+      "text": "A living loan"
+    },
+    {
+      "start": 732.88,
+      "end": 736.7,
+      "text": "... this is based on preparation, and it's an appropriation management, as you"
+    },
+    {
+      "start": 736.74,
+      "end": 739.12,
+      "text": "say. We don't get the valuation till after year-end"
+    },
+    {
+      "start": 739.57,
+      "end": 742.89,
+      "text": "We have an interim valuation. This was performed as at December."
+    },
+    {
+      "start": 743.03,
+      "end": 746.03,
+      "text": "Since December, obviously, the economy has moved a lot."
+    },
+    {
+      "start": 746.07,
+      "end": 749.42,
+      "text": "It is not unusual for us to see movements in either direction from the interim"
+    },
+    {
+      "start": 749.55,
+      "end": 752.21,
+      "text": "valuation to the year-end valuation."
+    },
+    {
+      "start": 752.71,
+      "end": 756.27,
+      "text": "And so this has, again, been increased this year because of the uncertainty at the"
+    },
+    {
+      "start": 756.31,
+      "end": 759.03,
+      "text": "time that this was put in place, just around particularly"
+    },
+    {
+      "start": 759.93,
+      "end": 762.81,
+      "text": "overseas payments and people paying those back."
+    },
+    {
+      "start": 763.49,
+      "end": 764.97,
+      "text": "So it's all overseas?"
+    },
+    {
+      "start": 765.01,
+      "end": 767.01,
+      "text": "It's not all overseas, but it was largely around-"
+    },
+    {
+      "start": 767.04,
+      "end": 769.91,
+      "text": "... a mix of both, but it was just around repayments coming back."
+    },
+    {
+      "start": 769.93,
+      "end": 773.84,
+      "text": "And as I say, it's not unusual for us to see movements between the interim and the"
+    },
+    {
+      "start": 773.91,
+      "end": 774.85,
+      "text": "year-end. So-"
+    },
+    {
+      "start": 775.04,
+      "end": 776.75,
+      "text": "So is some of that fewer"
+    },
+    {
+      "start": 777.97,
+      "end": 781.8,
+      "text": "student loan holders in employment and making their payments?"
+    },
+    {
+      "start": 781.87,
+      "end": 785.14,
+      "text": "That was the concern at the time, because as I say, this was done before the Middle"
+    },
+    {
+      "start": 785.21,
+      "end": 788.97,
+      "text": "East even kicked off, and it was uncertain as to what the extent of the"
+    },
+    {
+      "start": 789.01,
+      "end": 789.75,
+      "text": "impact would be."
+    },
+    {
+      "start": 791.05,
+      "end": 794.93,
+      "text": "What I think would be really useful is for the committee to see"
+    },
+    {
+      "start": 795.47,
+      "end": 798.19,
+      "text": "the modeling that sits behind that in terms of"
+    },
+    {
+      "start": 798.95,
+      "end": 801.29,
+      "text": "the breakdown of the"
+    },
+    {
+      "start": 802.23,
+      "end": 806.05,
+      "text": "forecasts around it in both wages and employment, I"
+    },
+    {
+      "start": 806.13,
+      "end": 809.23,
+      "text": "guess, as what goes into that of student loan holders."
+    },
+    {
+      "start": 809.99,
+      "end": 810.86,
+      "text": "A written response, yeah."
+    },
+    {
+      "start": 811.25,
+      "end": 813.83,
+      "text": "In terms of a written response, that would be very useful."
+    },
+    {
+      "start": 814.23,
+      "end": 815.43,
+      "text": "Okay. Can I carry on?"
+    },
+    {
+      "start": 815.65,
+      "end": 815.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 816.03,
+      "end": 817.64,
+      "text": "I can start going vote page by page."
+    },
+    {
+      "start": 817.81,
+      "end": 818.05,
+      "text": "Page."
+    },
+    {
+      "start": 818.69,
+      "end": 818.85,
+      "text": "Yeah."
+    },
+    {
+      "start": 818.89,
+      "end": 821.13,
+      "text": "So I just want to look at the disability support services."
+    },
+    {
+      "start": 821.15,
+      "end": 824.37,
+      "text": "This is on page two of Treasury's report."
+    },
+    {
+      "start": 825.03,
+      "end": 828.93,
+      "text": "And one of the changes there is"
+    },
+    {
+      "start": 828.95,
+      "end": 832.47,
+      "text": "a decrease of 200 million in disability support services"
+    },
+    {
+      "start": 832.87,
+      "end": 836.47,
+      "text": "due to the return of underspends. Which underspends were they?"
+    },
+    {
+      "start": 836.66,
+      "end": 849.41,
+      "text": "So"
+    },
+    {
+      "start": 849.47,
+      "end": 853.07,
+      "text": "it's 200 million of underspends in disability support services, so 200 million that"
+    },
+    {
+      "start": 853.17,
+      "end": 854.47,
+      "text": "hasn't gone to people who need it."
+    },
+    {
+      "start": 855.47,
+      "end": 858.25,
+      "text": "So can I just bring a bit of context first?"
+    },
+    {
+      "start": 858.35,
+      "end": 862.22,
+      "text": "So in budget '24 and budget '25 for disability support services,"
+    },
+    {
+      "start": 862.77,
+      "end": 866.53,
+      "text": "the government has invested quite a bit of funding in disability support,"
+    },
+    {
+      "start": 866.83,
+      "end": 869.54,
+      "text": "1.1 billion in budget '24 over five years."
+    },
+    {
+      "start": 869.55,
+      "end": 869.96,
+      "text": "So what's the"
+    },
+    {
+      "start": 871.35,
+      "end": 871.87,
+      "text": "200 million?"
+    },
+    {
+      "start": 872.21,
+      "end": 874.19,
+      "text": "The $200 million is funding. It"
+    },
+    {
+      "start": 874.33,
+      "end": 878.23,
+      "text": "is an underspend, it is"
+    },
+    {
+      "start": 878.27,
+      "end": 881.55,
+      "text": "savings that has been returned to the center."
+    },
+    {
+      "start": 881.67,
+      "end": 882.77,
+      "text": "What was it for?"
+    },
+    {
+      "start": 883.55,
+      "end": 886.29,
+      "text": "So it is for disability support services."
+    },
+    {
+      "start": 886.33,
+      "end": 887.96,
+      "text": "But specifically, what parts of dis-"
+    },
+    {
+      "start": 889.27,
+      "end": 893.13,
+      "text": "So I can't-- We can provide a written response in terms of detail,"
+    },
+    {
+      "start": 893.31,
+      "end": 895.52,
+      "text": "specifically which type of services within"
+    },
+    {
+      "start": 896.43,
+      "end": 897.03,
+      "text": "disability."
+    },
+    {
+      "start": 898.45,
+      "end": 902.27,
+      "text": "All right. So I think our disability community wants to know because there's a lot"
+    },
+    {
+      "start": 902.29,
+      "end": 903.77,
+      "text": "of people who's really struggling there. But yeah."
+    },
+    {
+      "start": 903.97,
+      "end": 904.85,
+      "text": "Sorry, do you have a supplement, Megan?"
+    },
+    {
+      "start": 905.29,
+      "end": 906.69,
+      "text": "Just going through the vote."
+    },
+    {
+      "start": 906.72,
+      "end": 907.05,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 907.11,
+      "end": 907.67,
+      "text": "You keep going."
+    },
+    {
+      "start": 907.85,
+      "end": 908.09,
+      "text": "Sorry."
+    },
+    {
+      "start": 908.42,
+      "end": 908.88,
+      "text": "Oh, okay. I want to go to-"
+    },
+    {
+      "start": 908.93,
+      "end": 910.43,
+      "text": "Sorry, I just had a quick supplement, Deborah."
+    },
+    {
+      "start": 911.65,
+      "end": 913.67,
+      "text": "You were going to say the budget '24 and '25."
+    },
+    {
+      "start": 913.97,
+      "end": 915.84,
+      "text": "Were you trying to say that there was,"
+    },
+    {
+      "start": 916.73,
+      "end": 919.25,
+      "text": "well, an allocation and it was overcooked or?"
+    },
+    {
+      "start": 919.61,
+      "end": 922.79,
+      "text": "No, there's been significant investment in disability support services-"
+    },
+    {
+      "start": 923.11,
+      "end": 923.29,
+      "text": "Yes"
+    },
+    {
+      "start": 923.31,
+      "end": 924.87,
+      "text": "... through budget '24 and '25."
+    },
+    {
+      "start": 924.99,
+      "end": 925.25,
+      "text": "Yes."
+    },
+    {
+      "start": 925.89,
+      "end": 926.9,
+      "text": "In budget '24,"
+    },
+    {
+      "start": 927.73,
+      "end": 930.27,
+      "text": "1.1 billion was invested over five years."
+    },
+    {
+      "start": 930.41,
+      "end": 930.71,
+      "text": "Yes."
+    },
+    {
+      "start": 930.77,
+      "end": 931.71,
+      "text": "And in budget '25,"
+    },
+    {
+      "start": 932.53,
+      "end": 935.05,
+      "text": "sorry, one billion was invested over four years."
+    },
+    {
+      "start": 935.09,
+      "end": 935.61,
+      "text": "So it's a cut."
+    },
+    {
+      "start": 935.63,
+      "end": 938.03,
+      "text": "So that's additional funding."
+    },
+    {
+      "start": 938.04,
+      "end": 941.9,
+      "text": "So that was potentially an over-allocation in those budgets, is that"
+    },
+    {
+      "start": 941.91,
+      "end": 942.23,
+      "text": "what you're saying?"
+    },
+    {
+      "start": 942.81,
+      "end": 943.37,
+      "text": "It's a cut."
+    },
+    {
+      "start": 943.91,
+      "end": 946.34,
+      "text": "I don't want to say that. It's just an investment by the government."
+    },
+    {
+      "start": 946.34,
+      "end": 947.02,
+      "text": "That's what I heard."
+    },
+    {
+      "start": 947.07,
+      "end": 949.59,
+      "text": "So I want to go to climate next. Do you want to go, Megan?"
+    },
+    {
+      "start": 949.65,
+      "end": 951.49,
+      "text": "Okay. You do climate."
+    },
+    {
+      "start": 951.65,
+      "end": 952.69,
+      "text": "Okay. So I'll just now go to-"
+    },
+    {
+      "start": 953.45,
+      "end": 953.53,
+      "text": "Yeah"
+    },
+    {
+      "start": 953.57,
+      "end": 956.53,
+      "text": "... climate. So it's sitting in environment."
+    },
+    {
+      "start": 956.57,
+      "end": 957.55,
+      "text": "This is on page"
+    },
+    {
+      "start": 958.49,
+      "end": 961.97,
+      "text": "six and seven of the Treasury report."
+    },
+    {
+      "start": 962.37,
+      "end": 965.91,
+      "text": "So we know that-- Have we got someone here who understands the ETS?"
+    },
+    {
+      "start": 966.52,
+      "end": 968.53,
+      "text": "We don't have an environment person here, sorry."
+    },
+    {
+      "start": 969.43,
+      "end": 969.66,
+      "text": "That would-"
+    },
+    {
+      "start": 969.73,
+      "end": 972.08,
+      "text": "All right. So what we've got is we've got"
+    },
+    {
+      "start": 973.37,
+      "end": 977.27,
+      "text": "the ETS, as we know, is down at quite a low price level, so obviously that"
+    },
+    {
+      "start": 977.33,
+      "end": 980.97,
+      "text": "means that the government allocation in there is changing around."
+    },
+    {
+      "start": 981.43,
+      "end": 985.31,
+      "text": "What I'm interested in, though, is in the increase in the number of units forecast"
+    },
+    {
+      "start": 985.35,
+      "end": 988.95,
+      "text": "for the post-1989 forestry sector due to additional"
+    },
+    {
+      "start": 989.07,
+      "end": 991.83,
+      "text": "forest being registered in the emissions trading scheme."
+    },
+    {
+      "start": 992.25,
+      "end": 994.47,
+      "text": "Do we know how much additional forest went into the ETS?"
+    },
+    {
+      "start": 995.27,
+      "end": 996.92,
+      "text": "I don't have that detail, but we can provide that information."
+    },
+    {
+      "start": 996.95,
+      "end": 1000.45,
+      "text": "Do we know how we can predict how much forestry is coming into the ETS over the"
+    },
+    {
+      "start": 1000.49,
+      "end": 1001.25,
+      "text": "next few years?"
+    },
+    {
+      "start": 1002.07,
+      "end": 1004.7,
+      "text": "We can ask the Ministry for the Environment for that information."
+    },
+    {
+      "start": 1004.75,
+      "end": 1007.45,
+      "text": "Okay. It's just that that's going to create considerable uncertainty"
+    },
+    {
+      "start": 1008.55,
+      "end": 1012.23,
+      "text": "around the ETS, and the ETS figure is so low it's hardly"
+    },
+    {
+      "start": 1012.31,
+      "end": 1015.29,
+      "text": "driving change in the sector. So this is a bit worrying."
+    },
+    {
+      "start": 1016.29,
+      "end": 1018.49,
+      "text": "We can provide those in a response."
+    },
+    {
+      "start": 1018.67,
+      "end": 1019.73,
+      "text": "Okay. All right. Thank you."
+    },
+    {
+      "start": 1020.57,
+      "end": 1022.09,
+      "text": "Julianne Genter, did you want to jump on there?"
+    },
+    {
+      "start": 1022.75,
+      "end": 1024.69,
+      "text": "Yeah, sure. I had some questions about"
+    },
+    {
+      "start": 1026.15,
+      "end": 1029.51,
+      "text": "in the vote transport and the multi-year appropriations."
+    },
+    {
+      "start": 1029.55,
+      "end": 1029.99,
+      "text": "Sure."
+    },
+    {
+      "start": 1032.29,
+      "end": 1034.83,
+      "text": "And the first one was about the"
+    },
+    {
+      "start": 1036.81,
+      "end": 1040.53,
+      "text": "increase of 200, is that 239?"
+    },
+    {
+      "start": 1043.83,
+      "end": 1046.03,
+      "text": "So up to 4.5 billion in"
+    },
+    {
+      "start": 1046.87,
+      "end": 1050.17,
+      "text": "Crown funding for transport projects."
+    },
+    {
+      "start": 1050.89,
+      "end": 1051.05,
+      "text": "In"
+    },
+    {
+      "start": 1052.93,
+      "end": 1056.87,
+      "text": "the notes here, it says that there was a transfer from a program,"
+    },
+    {
+      "start": 1057.11,
+      "end": 1058.89,
+      "text": "an underspending the capital,"
+    },
+    {
+      "start": 1060.11,
+      "end": 1061.95,
+      "text": "Crown funding for transport projects capital,"
+    },
+    {
+      "start": 1063.39,
+      "end": 1065.63,
+      "text": "capital investment package, and I was just wondering if"
+    },
+    {
+      "start": 1067.17,
+      "end": 1069.29,
+      "text": "you could speak to the detail of what that was."
+    },
+    {
+      "start": 1071.29,
+      "end": 1073.87,
+      "text": "David Kidman, CFO, Ministry of Transport."
+    },
+    {
+      "start": 1074.81,
+      "end": 1077.81,
+      "text": "So the 262 million increase there is about"
+    },
+    {
+      "start": 1077.99,
+      "end": 1081.3,
+      "text": "50/50 transfer of unspent funding from"
+    },
+    {
+      "start": 1081.33,
+      "end": 1082.69,
+      "text": "previous-"
+    },
+    {
+      "start": 1082.73,
+      "end": 1083.15,
+      "text": "Multi-year"
+    },
+    {
+      "start": 1083.19,
+      "end": 1083.64,
+      "text": "... projects."
+    },
+    {
+      "start": 1083.95,
+      "end": 1087.55,
+      "text": "Yeah. But I mean, I was just wondering, the capital investment package,"
+    },
+    {
+      "start": 1088.73,
+      "end": 1089.31,
+      "text": "what was that?"
+    },
+    {
+      "start": 1089.81,
+      "end": 1093.73,
+      "text": "This is a range of projects, such as the RONS and"
+    },
+    {
+      "start": 1094.87,
+      "end": 1098.63,
+      "text": "the recently announced State Highway 2 Drury, where the Crown"
+    },
+    {
+      "start": 1098.69,
+      "end": 1100.23,
+      "text": "funds, in addition to the usual"
+    },
+    {
+      "start": 1101.09,
+      "end": 1103.55,
+      "text": "funding through the National Land Transport Fund."
+    },
+    {
+      "start": 1104.63,
+      "end": 1107.23,
+      "text": "Across the $4 billion, the-"
+    },
+    {
+      "start": 1108.28,
+      "end": 1108.58,
+      "text": "The"
+    },
+    {
+      "start": 1110.72,
+      "end": 1114.42,
+      "text": "underspend from the prior years as it rolls, we roll the"
+    },
+    {
+      "start": 1114.44,
+      "end": 1118.36,
+      "text": "appropriation this year into a new out year, which just"
+    },
+    {
+      "start": 1118.42,
+      "end": 1121.3,
+      "text": "brings in more of the out years funding into this number."
+    },
+    {
+      "start": 1121.38,
+      "end": 1124.3,
+      "text": "So it doesn't represent an underspend in itself."
+    },
+    {
+      "start": 1124.34,
+      "end": 1128.26,
+      "text": "But within that there are other differences, such as"
+    },
+    {
+      "start": 1129.12,
+      "end": 1133.08,
+      "text": "property acquisitions that are slower than they expected, or consenting"
+    },
+    {
+      "start": 1133.12,
+      "end": 1134.82,
+      "text": "that is slower, or weather delays."
+    },
+    {
+      "start": 1135.2,
+      "end": 1138.0,
+      "text": "In the context of the wider fund, it's not a huge number-"
+    },
+    {
+      "start": 1138.09,
+      "end": 1141.86,
+      "text": "... but NZTA do have the detail and they'll be in later this week."
+    },
+    {
+      "start": 1142.14,
+      "end": 1142.7,
+      "text": "And so this is"
+    },
+    {
+      "start": 1145.14,
+      "end": 1147.26,
+      "text": "not a loan that will be paid back from the NLTF."
+    },
+    {
+      "start": 1147.3,
+      "end": 1147.84,
+      "text": "This is like"
+    },
+    {
+      "start": 1148.8,
+      "end": 1149.64,
+      "text": "a grant of-"
+    },
+    {
+      "start": 1149.7,
+      "end": 1151.29,
+      "text": "Yeah, this is a specific crown funding-"
+    },
+    {
+      "start": 1151.31,
+      "end": 1151.63,
+      "text": "Four and a half million-"
+    },
+    {
+      "start": 1151.68,
+      "end": 1152.36,
+      "text": "Over and above"
+    },
+    {
+      "start": 1152.37,
+      "end": 1153.18,
+      "text": "... for five years"
+    },
+    {
+      "start": 1154.32,
+      "end": 1156.37,
+      "text": "to supplement the NLTF."
+    },
+    {
+      "start": 1156.62,
+      "end": 1156.86,
+      "text": "Yes."
+    },
+    {
+      "start": 1157.34,
+      "end": 1158.08,
+      "text": "Until the end's finished."
+    },
+    {
+      "start": 1158.2,
+      "end": 1161.86,
+      "text": "Okay. Can I ask another question just while I'm here about the Chatham"
+    },
+    {
+      "start": 1161.9,
+      "end": 1163.72,
+      "text": "Islands replacement ship?"
+    },
+    {
+      "start": 1164.2,
+      "end": 1165.89,
+      "text": "Should we, I'm s- oh, it's transport. Later, yeah."
+    },
+    {
+      "start": 1165.9,
+      "end": 1166.94,
+      "text": "It's still transport, yeah."
+    },
+    {
+      "start": 1167.1,
+      "end": 1167.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 1168.88,
+      "end": 1172.06,
+      "text": "I was just wondering because originally, I think the original"
+    },
+    {
+      "start": 1172.1,
+      "end": 1172.98,
+      "text": "appropriation"
+    },
+    {
+      "start": 1175.04,
+      "end": 1175.54,
+      "text": "was"
+    },
+    {
+      "start": 1177.32,
+      "end": 1181.24,
+      "text": "to actually buy a ship, and now it's switching"
+    },
+    {
+      "start": 1181.36,
+      "end": 1184.32,
+      "text": "to a payment for shipping services."
+    },
+    {
+      "start": 1184.76,
+      "end": 1185.72,
+      "text": "Does that change"
+    },
+    {
+      "start": 1186.64,
+      "end": 1189.7,
+      "text": "how it's considered? I don't know."
+    },
+    {
+      "start": 1189.76,
+      "end": 1193.64,
+      "text": "Was it always OpEx, or was it CapEx initially, and does it"
+    },
+    {
+      "start": 1193.68,
+      "end": 1194.04,
+      "text": "matter?"
+    },
+    {
+      "start": 1195.58,
+      "end": 1197.86,
+      "text": "This is all OpEx. Is this the Chathams inquiry?"
+    },
+    {
+      "start": 1197.9,
+      "end": 1198.69,
+      "text": "Yeah. The Chathams, yeah."
+    },
+    {
+      "start": 1198.69,
+      "end": 1202.26,
+      "text": "I didn't hear you earlier. Yes. So with the new boat,"
+    },
+    {
+      "start": 1202.74,
+      "end": 1205.64,
+      "text": "the Crown is supporting the provider to-"
+    },
+    {
+      "start": 1205.72,
+      "end": 1206.07,
+      "text": "Yes. Yeah. Right"
+    },
+    {
+      "start": 1206.07,
+      "end": 1210.06,
+      "text": "... purchase that, and that is operating funding from our perspective,"
+    },
+    {
+      "start": 1210.1,
+      "end": 1212.68,
+      "text": "although it becomes a service concession arrangement."
+    },
+    {
+      "start": 1212.98,
+      "end": 1213.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 1213.42,
+      "end": 1214.02,
+      "text": "And,"
+    },
+    {
+      "start": 1216.42,
+      "end": 1218.66,
+      "text": "therefore an asset does appear on our books."
+    },
+    {
+      "start": 1219.64,
+      "end": 1221.62,
+      "text": "Okay. But the original appropriation"
+    },
+    {
+      "start": 1223.42,
+      "end": 1226.22,
+      "text": "goes back to 2022. Is that right?"
+    },
+    {
+      "start": 1226.26,
+      "end": 1226.27,
+      "text": "Yes."
+    },
+    {
+      "start": 1226.28,
+      "end": 1226.66,
+      "text": "Is that when?"
+    },
+    {
+      "start": 1226.74,
+      "end": 1227.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 1227.18,
+      "end": 1228.45,
+      "text": "Yeah. And"
+    },
+    {
+      "start": 1229.38,
+      "end": 1231.05,
+      "text": "so far it looks like"
+    },
+    {
+      "start": 1232.78,
+      "end": 1236.48,
+      "text": "quite a bit has been spent, like almost half of the original"
+    },
+    {
+      "start": 1236.52,
+      "end": 1239.74,
+      "text": "appropriation in this financial year."
+    },
+    {
+      "start": 1239.76,
+      "end": 1243.72,
+      "text": "And then the estimate for the next year is 3 million left, and there's"
+    },
+    {
+      "start": 1243.76,
+      "end": 1247.2,
+      "text": "only 8 million left. Is there any detail about like,"
+    },
+    {
+      "start": 1247.68,
+      "end": 1250.66,
+      "text": "because the concession is going to go on for-"
+    },
+    {
+      "start": 1251.54,
+      "end": 1251.55,
+      "text": "20 years"
+    },
+    {
+      "start": 1251.55,
+      "end": 1252.26,
+      "text": "... is it 10 years?"
+    },
+    {
+      "start": 1253.36,
+      "end": 1254.06,
+      "text": "Only 10 years?"
+    },
+    {
+      "start": 1254.4,
+      "end": 1254.55,
+      "text": "20 years."
+    },
+    {
+      "start": 1254.55,
+      "end": 1255.41,
+      "text": "20, yeah."
+    },
+    {
+      "start": 1255.41,
+      "end": 1258.34,
+      "text": "20 years. 20 years of that."
+    },
+    {
+      "start": 1258.44,
+      "end": 1262.42,
+      "text": "So this is the purchase phase where the funding's provided to"
+    },
+    {
+      "start": 1262.74,
+      "end": 1262.88,
+      "text": "the"
+    },
+    {
+      "start": 1264.7,
+      "end": 1266.5,
+      "text": "partnership who are procuring the vessel."
+    },
+    {
+      "start": 1266.72,
+      "end": 1268.16,
+      "text": "And then there's operating costs-"
+    },
+    {
+      "start": 1268.4,
+      "end": 1272.36,
+      "text": "... in addition to that across the period, and the amortization"
+    },
+    {
+      "start": 1272.6,
+      "end": 1274.48,
+      "text": "of the service concession asset. So"
+    },
+    {
+      "start": 1275.5,
+      "end": 1277.78,
+      "text": "we would expect spending to be upfront-"
+    },
+    {
+      "start": 1278.22,
+      "end": 1278.42,
+      "text": "Okay"
+    },
+    {
+      "start": 1278.44,
+      "end": 1278.91,
+      "text": "... in this arrangement."
+    },
+    {
+      "start": 1278.96,
+      "end": 1280.44,
+      "text": "Right. Ah, so it's upfront spending."
+    },
+    {
+      "start": 1280.48,
+      "end": 1280.49,
+      "text": "Mm."
+    },
+    {
+      "start": 1281.7,
+      "end": 1282.96,
+      "text": "Okay, cool. Thanks."
+    },
+    {
+      "start": 1283.36,
+      "end": 1287.12,
+      "text": "So a couple of things on theme, I guess, of boats and things."
+    },
+    {
+      "start": 1288.24,
+      "end": 1290.84,
+      "text": "So looking at page seven of Treasury's report,"
+    },
+    {
+      "start": 1291.9,
+      "end": 1295.8,
+      "text": "the appropriation for an equity injection to Ferry"
+    },
+    {
+      "start": 1295.9,
+      "end": 1298.18,
+      "text": "Holdings Limited to replace the Cook Straits ferry."
+    },
+    {
+      "start": 1298.7,
+      "end": 1301.4,
+      "text": "So this is more money going into the Cook Straits ferry."
+    },
+    {
+      "start": 1301.82,
+      "end": 1305.8,
+      "text": "That's in addition to the cancellation fee that was paid."
+    },
+    {
+      "start": 1307.3,
+      "end": 1308.48,
+      "text": "Do you want me to ask"
+    },
+    {
+      "start": 1309.42,
+      "end": 1309.7,
+      "text": "John?"
+    },
+    {
+      "start": 1311.92,
+      "end": 1312.38,
+      "text": "What page?"
+    },
+    {
+      "start": 1313.52,
+      "end": 1314.32,
+      "text": "Seven of Treasury's"
+    },
+    {
+      "start": 1314.36,
+      "end": 1318.66,
+      "text": "report."
+    },
+    {
+      "start": 1318.72,
+      "end": 1320.34,
+      "text": "Hi, John Tumath from Treasury."
+    },
+    {
+      "start": 1321.14,
+      "end": 1323.23,
+      "text": "Yes, this is the appropriation for the"
+    },
+    {
+      "start": 1324.12,
+      "end": 1325.54,
+      "text": "procurement of the new ferries."
+    },
+    {
+      "start": 1326.3,
+      "end": 1326.56,
+      "text": "Right."
+    },
+    {
+      "start": 1326.66,
+      "end": 1329.5,
+      "text": "So this is the allocation from the"
+    },
+    {
+      "start": 1330.98,
+      "end": 1334.06,
+      "text": "budgeted TAD contingency into Vote Finance for the"
+    },
+    {
+      "start": 1336.84,
+      "end": 1340.44,
+      "text": "portion of the ferries that have been through ministerial"
+    },
+    {
+      "start": 1340.5,
+      "end": 1340.98,
+      "text": "decisions."
+    },
+    {
+      "start": 1341.04,
+      "end": 1343.62,
+      "text": "Right. So it was in the TAD contingency last time around."
+    },
+    {
+      "start": 1343.68,
+      "end": 1344.0,
+      "text": "It's just-"
+    },
+    {
+      "start": 1344.21,
+      "end": 1344.88,
+      "text": "So in the budget-"
+    },
+    {
+      "start": 1345.18,
+      "end": 1345.3,
+      "text": "Mm"
+    },
+    {
+      "start": 1345.92,
+      "end": 1348.0,
+      "text": "... in Budget '25-"
+    },
+    {
+      "start": 1348.32,
+      "end": 1348.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 1348.98,
+      "end": 1352.44,
+      "text": "... the full ferry, 1.7 billion, was in the estimates."
+    },
+    {
+      "start": 1352.62,
+      "end": 1352.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 1352.78,
+      "end": 1353.33,
+      "text": "Now it's been"
+    },
+    {
+      "start": 1354.34,
+      "end": 1357.02,
+      "text": "cascaded down to Vote Finance, a portion of it-"
+    },
+    {
+      "start": 1357.18,
+      "end": 1357.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 1357.43,
+      "end": 1359.16,
+      "text": "... for the management of that release."
+    },
+    {
+      "start": 1359.18,
+      "end": 1361.52,
+      "text": "Has there been-- All right. So I'll have to go and have a look."
+    },
+    {
+      "start": 1361.58,
+      "end": 1364.39,
+      "text": "Has there been any increase to what's gone in-- I'll have to go and look at the"
+    },
+    {
+      "start": 1364.4,
+      "end": 1364.66,
+      "text": "budget."
+    },
+    {
+      "start": 1364.68,
+      "end": 1364.69,
+      "text": "No."
+    },
+    {
+      "start": 1364.72,
+      "end": 1365.04,
+      "text": "Right. Okay."
+    },
+    {
+      "start": 1365.06,
+      "end": 1366.48,
+      "text": "This is a portion of the original."
+    },
+    {
+      "start": 1366.78,
+      "end": 1370.62,
+      "text": "Right. Okay, thank you. But also just sitting in, again, in"
+    },
+    {
+      "start": 1370.66,
+      "end": 1374.56,
+      "text": "this vaguely transport space, and sorry, I'm not quite sure who's going to answer"
+    },
+    {
+      "start": 1374.62,
+      "end": 1376.96,
+      "text": "this one, it might be Treasury or somewhere."
+    },
+    {
+      "start": 1377.04,
+      "end": 1380.75,
+      "text": "So sitting on page 19 of the Treasury"
+    },
+    {
+      "start": 1380.86,
+      "end": 1382.8,
+      "text": "report, it's Business Science and Innovation."
+    },
+    {
+      "start": 1383.36,
+      "end": 1384.02,
+      "text": "It's a"
+    },
+    {
+      "start": 1386.9,
+      "end": 1389.24,
+      "text": "decrease of $70 million"
+    },
+    {
+      "start": 1391.22,
+      "end": 1392.56,
+      "text": "for the"
+    },
+    {
+      "start": 1393.44,
+      "end": 1397.22,
+      "text": "vehicle charging hubs program. But it says it's"
+    },
+    {
+      "start": 1397.23,
+      "end": 1401.08,
+      "text": "decreased by 70"
+    },
+    {
+      "start": 1401.12,
+      "end": 1404.55,
+      "text": "million because there was a cabinet decision to transfer the remaining"
+    },
+    {
+      "start": 1404.66,
+      "end": 1407.97,
+      "text": "problem to the National Infrastructure Funding and"
+    },
+    {
+      "start": 1408.06,
+      "end": 1409.84,
+      "text": "Financing Limited. So"
+    },
+    {
+      "start": 1410.66,
+      "end": 1414.1,
+      "text": "that's the decrease side, but I couldn't quite see where the increase side of it"
+    },
+    {
+      "start": 1414.14,
+      "end": 1418.03,
+      "text": "went, because it was a decrease that I'm not quite sure if"
+    },
+    {
+      "start": 1418.06,
+      "end": 1419.32,
+      "text": "I'm on the right track. Yeah."
+    },
+    {
+      "start": 1419.38,
+      "end": 1420.64,
+      "text": "Yeah, I think you're on the right page. Yeah."
+    },
+    {
+      "start": 1420.8,
+      "end": 1423.96,
+      "text": "Palolo Lava, Jason Tulima, Director of Finance and Performance from MB."
+    },
+    {
+      "start": 1424.98,
+      "end": 1428.58,
+      "text": "So of that 70 million, what you're looking for is the detail, where the"
+    },
+    {
+      "start": 1428.62,
+      "end": 1432.56,
+      "text": "increases went. So the reprioritized funding went to Solar for"
+    },
+    {
+      "start": 1432.64,
+      "end": 1434.54,
+      "text": "Schools, the LNG procurement."
+    },
+    {
+      "start": 1435.78,
+      "end": 1439.62,
+      "text": "There was some funding for grants to support energy infrastructure investments,"
+    },
+    {
+      "start": 1440.22,
+      "end": 1443.68,
+      "text": "offshore renewables, and consumer data rights."
+    },
+    {
+      "start": 1445.18,
+      "end": 1446.68,
+      "text": "Some state sector-"
+    },
+    {
+      "start": 1446.96,
+      "end": 1449.22,
+      "text": "So it's straightly 70 million out of the vehicle-"
+    },
+    {
+      "start": 1449.52,
+      "end": 1452.42,
+      "text": "It's reprioritized within that kind of space."
+    },
+    {
+      "start": 1453.0,
+      "end": 1453.18,
+      "text": "Yeah"
+    },
+    {
+      "start": 1454.68,
+      "end": 1456.3,
+      "text": "This is really interesting because"
+    },
+    {
+      "start": 1457.12,
+      "end": 1460.78,
+      "text": "politically it's tricky because it was a major campaign"
+    },
+    {
+      "start": 1460.88,
+      "end": 1464.46,
+      "text": "promise last time around. So now we're saying that that money is no"
+    },
+    {
+      "start": 1464.6,
+      "end": 1467.56,
+      "text": "longer available for vehicle charging hubs."
+    },
+    {
+      "start": 1467.6,
+      "end": 1471.34,
+      "text": "It's gone to the variety of other worthy endeavors as well, but it's not there for"
+    },
+    {
+      "start": 1471.38,
+      "end": 1472.26,
+      "text": "vehicle charging hubs."
+    },
+    {
+      "start": 1475.09,
+      "end": 1477.33,
+      "text": "Yeah. It's been reprioritized, yeah."
+    },
+    {
+      "start": 1477.85,
+      "end": 1481.63,
+      "text": "Okay. So that's been reprioritized into other"
+    },
+    {
+      "start": 1481.71,
+      "end": 1483.56,
+      "text": "energy efficiency and the like measures-"
+    },
+    {
+      "start": 1483.61,
+      "end": 1483.62,
+      "text": "Yeah"
+    },
+    {
+      "start": 1483.62,
+      "end": 1486.61,
+      "text": "... and all those sorts of things. But I want to be really clear, it's not"
+    },
+    {
+      "start": 1486.65,
+      "end": 1488.11,
+      "text": "available for the vehicle charging hubs."
+    },
+    {
+      "start": 1488.17,
+      "end": 1490.11,
+      "text": "Yeah. I can confirm that in writing."
+    },
+    {
+      "start": 1490.19,
+      "end": 1492.64,
+      "text": "No, that's okay. I'll take your word for it. I totally take your word for it."
+    },
+    {
+      "start": 1492.64,
+      "end": 1493.95,
+      "text": "I just want to have that. Okay, thank you."
+    },
+    {
+      "start": 1494.06,
+      "end": 1496.95,
+      "text": "Can I just supplement Deborah?"
+    },
+    {
+      "start": 1497.15,
+      "end": 1497.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 1497.21,
+      "end": 1498.21,
+      "text": "Just before you leave."
+    },
+    {
+      "start": 1498.29,
+      "end": 1498.59,
+      "text": "Oh."
+    },
+    {
+      "start": 1498.63,
+      "end": 1499.81,
+      "text": "So there was a transfer,"
+    },
+    {
+      "start": 1501.31,
+      "end": 1504.95,
+      "text": "and it went to NIFCO, which is essentially an"
+    },
+    {
+      "start": 1505.01,
+      "end": 1505.83,
+      "text": "off-balance sheet."
+    },
+    {
+      "start": 1506.19,
+      "end": 1506.22,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1506.47,
+      "end": 1510.25,
+      "text": "So that Crown charging commitment could now"
+    },
+    {
+      "start": 1510.29,
+      "end": 1511.87,
+      "text": "continue, but just under a different entity-"
+    },
+    {
+      "start": 1511.93,
+      "end": 1512.2,
+      "text": "Yeah"
+    },
+    {
+      "start": 1512.23,
+      "end": 1513.04,
+      "text": "... which sits off Crown balance sheet."
+    },
+    {
+      "start": 1513.05,
+      "end": 1513.29,
+      "text": "Is that-"
+    },
+    {
+      "start": 1513.33,
+      "end": 1515.09,
+      "text": "Yeah. It might be a different thing that we're talking about."
+    },
+    {
+      "start": 1515.19,
+      "end": 1518.23,
+      "text": "I think we might be talking about two different appropriations here."
+    },
+    {
+      "start": 1518.28,
+      "end": 1518.35,
+      "text": "Yes."
+    },
+    {
+      "start": 1518.37,
+      "end": 1518.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 1518.38,
+      "end": 1520.47,
+      "text": "So there's one on page-"
+    },
+    {
+      "start": 1521.57,
+      "end": 1521.89,
+      "text": "16"
+    },
+    {
+      "start": 1521.9,
+      "end": 1524.91,
+      "text": "... 17, which I think is what Jason was talking about there-"
+    },
+    {
+      "start": 1524.92,
+      "end": 1525.36,
+      "text": "Which is the energy reprioritization"
+    },
+    {
+      "start": 1525.36,
+      "end": 1525.65,
+      "text": "... which is the reprioritization."
+    },
+    {
+      "start": 1525.81,
+      "end": 1526.59,
+      "text": "Yeah, that's straightforward."
+    },
+    {
+      "start": 1526.73,
+      "end": 1527.69,
+      "text": "19 is the one."
+    },
+    {
+      "start": 1527.77,
+      "end": 1527.78,
+      "text": "19."
+    },
+    {
+      "start": 1527.79,
+      "end": 1531.07,
+      "text": "And then 19, there was $70 million transferred into"
+    },
+    {
+      "start": 1532.73,
+      "end": 1533.31,
+      "text": "NIFCO."
+    },
+    {
+      "start": 1533.45,
+      "end": 1535.57,
+      "text": "Yeah, it's been transferred into EK and NIFCO. Yeah."
+    },
+    {
+      "start": 1535.61,
+      "end": 1535.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 1536.23,
+      "end": 1538.51,
+      "text": "So it's just disappeared into the... I mean, I shouldn't say disappeared."
+    },
+    {
+      "start": 1538.55,
+      "end": 1541.45,
+      "text": "It's been transferred into it. But how do we keep track of what's happening to it"
+    },
+    {
+      "start": 1541.51,
+      "end": 1541.85,
+      "text": "within"
+    },
+    {
+      "start": 1543.07,
+      "end": 1544.69,
+      "text": "NIFCO?"
+    },
+    {
+      "start": 1545.89,
+      "end": 1547.27,
+      "text": "Probably..."
+    },
+    {
+      "start": 1547.63,
+      "end": 1549.77,
+      "text": "Okay. Do we have any way of keeping track of that-"
+    },
+    {
+      "start": 1550.11,
+      "end": 1550.21,
+      "text": "Yeah"
+    },
+    {
+      "start": 1550.23,
+      "end": 1550.77,
+      "text": "... $70 million?"
+    },
+    {
+      "start": 1551.09,
+      "end": 1552.83,
+      "text": "Because it's off-balance sheet. Yeah."
+    },
+    {
+      "start": 1554.25,
+      "end": 1557.22,
+      "text": "I don't know if it's off-balance sheet. We can follow that one up and provide that."
+    },
+    {
+      "start": 1557.23,
+      "end": 1557.9,
+      "text": "That'd be great. Thank you."
+    },
+    {
+      "start": 1557.93,
+      "end": 1559.71,
+      "text": "Yeah. To show you where that's gone."
+    },
+    {
+      "start": 1560.05,
+      "end": 1560.13,
+      "text": "Megan."
+    },
+    {
+      "start": 1560.17,
+      "end": 1561.4,
+      "text": "If you're still going on transport, yeah."
+    },
+    {
+      "start": 1561.43,
+      "end": 1564.36,
+      "text": "No, no, I just want to make sure we can track that somehow-"
+    },
+    {
+      "start": 1564.41,
+      "end": 1564.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 1564.42,
+      "end": 1565.02,
+      "text": "... what's happened to it."
+    },
+    {
+      "start": 1565.91,
+      "end": 1568.97,
+      "text": "Well, yes, they provide reports annually."
+    },
+    {
+      "start": 1572.65,
+      "end": 1573.78,
+      "text": "Yeah. It's just we can't ask-"
+    },
+    {
+      "start": 1573.85,
+      "end": 1574.66,
+      "text": "We can't see it. We can't-"
+    },
+    {
+      "start": 1574.69,
+      "end": 1576.25,
+      "text": "We can't ask questions about it, Todd."
+    },
+    {
+      "start": 1576.29,
+      "end": 1576.81,
+      "text": "Well, we can."
+    },
+    {
+      "start": 1576.88,
+      "end": 1577.38,
+      "text": "In this."
+    },
+    {
+      "start": 1577.53,
+      "end": 1578.18,
+      "text": "Not in this, no."
+    },
+    {
+      "start": 1578.27,
+      "end": 1579.23,
+      "text": "In the way we would."
+    },
+    {
+      "start": 1579.57,
+      "end": 1580.47,
+      "text": "Okay. Look, thank you."
+    },
+    {
+      "start": 1580.65,
+      "end": 1582.07,
+      "text": "Thank you. So education."
+    },
+    {
+      "start": 1584.41,
+      "end": 1584.77,
+      "text": "Great."
+    },
+    {
+      "start": 1586.11,
+      "end": 1589.81,
+      "text": "So the school property"
+    },
+    {
+      "start": 1590.11,
+      "end": 1593.49,
+      "text": "portfolio management appropriation is cut by"
+    },
+    {
+      "start": 1593.5,
+      "end": 1596.75,
+      "text": "$236.382 million."
+    },
+    {
+      "start": 1597.23,
+      "end": 1597.41,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1598.87,
+      "end": 1602.39,
+      "text": "And that's due to revaluation impacts, capital charge adjustments, and multiple"
+    },
+    {
+      "start": 1602.43,
+      "end": 1606.13,
+      "text": "transfers and reprofilings. So how"
+    },
+    {
+      "start": 1606.23,
+      "end": 1609.99,
+      "text": "many property projects have been delayed or downscaled as a result,"
+    },
+    {
+      "start": 1610.15,
+      "end": 1611.15,
+      "text": "and in which regions?"
+    },
+    {
+      "start": 1611.81,
+      "end": 1613.81,
+      "text": "So Kevin Martin from Ministry of Education."
+    },
+    {
+      "start": 1613.89,
+      "end": 1617.62,
+      "text": "So this is a technical accounting adjustment based on the book value of the assets"
+    },
+    {
+      "start": 1617.65,
+      "end": 1618.87,
+      "text": "that reduced by $2 billion."
+    },
+    {
+      "start": 1618.93,
+      "end": 1621.71,
+      "text": "So it doesn't impact on any existing projects."
+    },
+    {
+      "start": 1621.77,
+      "end": 1624.15,
+      "text": "It's existing schools, what their book value was."
+    },
+    {
+      "start": 1624.39,
+      "end": 1625.11,
+      "text": "Okay. So-"
+    },
+    {
+      "start": 1625.13,
+      "end": 1627.97,
+      "text": "So it's the capital charge and depreciation impact of that"
+    },
+    {
+      "start": 1627.99,
+      "end": 1631.43,
+      "text": "... can you talk us through the change in"
+    },
+    {
+      "start": 1631.49,
+      "end": 1635.43,
+      "text": "methodology around the depreciation and capital charge in there"
+    },
+    {
+      "start": 1636.09,
+      "end": 1640.05,
+      "text": "so that we can see that that isn't just an accounting change"
+    },
+    {
+      "start": 1640.09,
+      "end": 1640.71,
+      "text": "to mask-"
+    },
+    {
+      "start": 1641.15,
+      "end": 1642.68,
+      "text": "We can provide that to you, yeah. It's-"
+    },
+    {
+      "start": 1642.71,
+      "end": 1644.13,
+      "text": "Can you just talk us through that now?"
+    },
+    {
+      "start": 1644.19,
+      "end": 1646.44,
+      "text": "Yeah. So it's basically called optimized depreciation"
+    },
+    {
+      "start": 1647.75,
+      "end": 1651.65,
+      "text": "revaluation. So it looks at what a current school is now in its"
+    },
+    {
+      "start": 1651.69,
+      "end": 1655.57,
+      "text": "current state, if that was, say, to be destroyed by fire, what it would cost"
+    },
+    {
+      "start": 1655.63,
+      "end": 1658.99,
+      "text": "to rebuild using current technology, current processes,"
+    },
+    {
+      "start": 1659.53,
+      "end": 1663.25,
+      "text": "current methodologies. So it's not a replacement in"
+    },
+    {
+      "start": 1663.29,
+      "end": 1667.01,
+      "text": "terms of like for like as such. So it's what that would cost in terms of"
+    },
+    {
+      "start": 1667.13,
+      "end": 1669.35,
+      "text": "cash flow out, if you like, to replace a school."
+    },
+    {
+      "start": 1670.41,
+      "end": 1670.53,
+      "text": "So-"
+    },
+    {
+      "start": 1670.83,
+      "end": 1674.73,
+      "text": "As we've got better with technology and using modular classrooms, those sorts of"
+    },
+    {
+      "start": 1674.77,
+      "end": 1678.29,
+      "text": "things, the actual cost to replace a school if it was destroyed"
+    },
+    {
+      "start": 1678.73,
+      "end": 1680.75,
+      "text": "has actually reduced over the last couple of years."
+    },
+    {
+      "start": 1681.03,
+      "end": 1683.77,
+      "text": "And so this is across the entire property portfolio?"
+    },
+    {
+      "start": 1683.79,
+      "end": 1687.63,
+      "text": "Across the portfolio, yeah. And phased in different ways, but that's part of the"
+    },
+    {
+      "start": 1687.67,
+      "end": 1691.1,
+      "text": "annual valuation that's done. Our annual report's got the details around that."
+    },
+    {
+      "start": 1691.19,
+      "end": 1692.83,
+      "text": "What do you mean phased in different ways?"
+    },
+    {
+      "start": 1693.75,
+      "end": 1694.35,
+      "text": "In terms of the"
+    },
+    {
+      "start": 1695.33,
+      "end": 1699.07,
+      "text": "valuations. So as new schools come on board, then they're valued on that same"
+    },
+    {
+      "start": 1699.13,
+      "end": 1700.19,
+      "text": "basis as well. So-"
+    },
+    {
+      "start": 1701.41,
+      "end": 1704.21,
+      "text": "Even if they're not built using modular classrooms."
+    },
+    {
+      "start": 1704.25,
+      "end": 1705.65,
+      "text": "So every school-"
+    },
+    {
+      "start": 1705.81,
+      "end": 1706.04,
+      "text": "Every school"
+    },
+    {
+      "start": 1706.04,
+      "end": 1706.1,
+      "text": "... is now valued-"
+    },
+    {
+      "start": 1706.1,
+      "end": 1708.28,
+      "text": "Every school is valued on the same basis, yeah. Is what I mean, yeah."
+    },
+    {
+      "start": 1708.31,
+      "end": 1712.09,
+      "text": "Right. Just so I am going to be very parochial for a moment"
+    },
+    {
+      "start": 1712.15,
+      "end": 1714.29,
+      "text": "because there's some delayed projects"
+    },
+    {
+      "start": 1715.17,
+      "end": 1718.55,
+      "text": "within here, too. For example, there's $12 million"
+    },
+    {
+      "start": 1719.07,
+      "end": 1722.61,
+      "text": "has been carried forward because of delays in the Christchurch"
+    },
+    {
+      "start": 1722.69,
+      "end": 1723.77,
+      "text": "schools rebuild."
+    },
+    {
+      "start": 1724.97,
+      "end": 1726.15,
+      "text": "What schools are they?"
+    },
+    {
+      "start": 1727.01,
+      "end": 1727.83,
+      "text": "Or what projects?"
+    },
+    {
+      "start": 1728.13,
+      "end": 1729.67,
+      "text": "I'd need to come back with that. I don't have it in front of me."
+    },
+    {
+      "start": 1730.09,
+      "end": 1731.07,
+      "text": "Can we have a breakdown?"
+    },
+    {
+      "start": 1731.13,
+      "end": 1731.68,
+      "text": "Sure. Yeah."
+    },
+    {
+      "start": 1731.69,
+      "end": 1735.23,
+      "text": "Can we, on that, because there's quite a bit of"
+    },
+    {
+      "start": 1735.59,
+      "end": 1736.19,
+      "text": "funding that's"
+    },
+    {
+      "start": 1737.19,
+      "end": 1739.03,
+      "text": "being transferred into outyears-"
+    },
+    {
+      "start": 1739.27,
+      "end": 1739.45,
+      "text": "Yes"
+    },
+    {
+      "start": 1739.51,
+      "end": 1741.63,
+      "text": "... because of delayed projects,"
+    },
+    {
+      "start": 1742.47,
+      "end": 1746.35,
+      "text": "can we have a breakdown of all the projects that are"
+    },
+    {
+      "start": 1746.41,
+      "end": 1747.11,
+      "text": "part of that"
+    },
+    {
+      "start": 1748.33,
+      "end": 1752.09,
+      "text": "funding being carried forward, i.e., they're delayed and haven't been delivered"
+    },
+    {
+      "start": 1752.13,
+      "end": 1752.45,
+      "text": "within-"
+    },
+    {
+      "start": 1752.99,
+      "end": 1753.13,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 1753.14,
+      "end": 1755.67,
+      "text": "... the original timeframe that they were budgeted for?"
+    },
+    {
+      "start": 1756.25,
+      "end": 1758.55,
+      "text": "So if we can have a breakdown of that by school."
+    },
+    {
+      "start": 1758.83,
+      "end": 1759.25,
+      "text": "Sure."
+    },
+    {
+      "start": 1759.69,
+      "end": 1762.05,
+      "text": "And with it by region as well."
+    },
+    {
+      "start": 1764.23,
+      "end": 1768.09,
+      "text": "Just in terms of the... I think"
+    },
+    {
+      "start": 1768.45,
+      "end": 1770.52,
+      "text": "that's all. Have you got anything on the depreciation, Deb?"
+    },
+    {
+      "start": 1770.59,
+      "end": 1770.6,
+      "text": "No."
+    },
+    {
+      "start": 1770.69,
+      "end": 1772.06,
+      "text": "I know you love to discuss depreciation."
+    },
+    {
+      "start": 1772.25,
+      "end": 1773.71,
+      "text": "No. I thought you were having more fun with it than me."
+    },
+    {
+      "start": 1774.99,
+      "end": 1775.15,
+      "text": "Well."
+    },
+    {
+      "start": 1775.19,
+      "end": 1777.51,
+      "text": "Okay. We'll come back to other things. But thank you for that."
+    },
+    {
+      "start": 1779.63,
+      "end": 1782.24,
+      "text": "I've got more. Oh, sorry, not education. Different."
+    },
+    {
+      "start": 1782.33,
+      "end": 1782.57,
+      "text": "Okay. Go bigger."
+    },
+    {
+      "start": 1782.67,
+      "end": 1783.41,
+      "text": "Different."
+    },
+    {
+      "start": 1784.39,
+      "end": 1788.17,
+      "text": "I just want to go to, and I'm not quite sure what's going"
+    },
+    {
+      "start": 1788.23,
+      "end": 1791.59,
+      "text": "on here. It's labor market from page nine of the Treasury"
+    },
+    {
+      "start": 1791.69,
+      "end": 1792.25,
+      "text": "report,"
+    },
+    {
+      "start": 1793.25,
+      "end": 1795.81,
+      "text": "and workplace relation safety, and"
+    },
+    {
+      "start": 1797.13,
+      "end": 1800.05,
+      "text": "an appropriation that has decreased by $100 million."
+    },
+    {
+      "start": 1801.27,
+      "end": 1804.49,
+      "text": "It's due to the creation of new multi-category appropriation to support the"
+    },
+    {
+      "start": 1804.53,
+      "end": 1807.17,
+      "text": "government's health and safety work reform program,"
+    },
+    {
+      "start": 1808.13,
+      "end": 1811.12,
+      "text": "enhancing ministers' visibility of spending and performance, and"
+    },
+    {
+      "start": 1811.91,
+      "end": 1815.33,
+      "text": "enhancing ministers' ability to shift funding as priorities change."
+    },
+    {
+      "start": 1817.97,
+      "end": 1821.79,
+      "text": "So it just sounds like giving ministers more scope to shift money around."
+    },
+    {
+      "start": 1821.85,
+      "end": 1822.41,
+      "text": "Is that right?"
+    },
+    {
+      "start": 1823.71,
+      "end": 1827.04,
+      "text": "No. So we moved from an annual appropriation to a"
+    },
+    {
+      "start": 1827.07,
+      "end": 1830.84,
+      "text": "multi-category appropriation to help differentiate WorkSafe's"
+    },
+    {
+      "start": 1831.09,
+      "end": 1832.64,
+      "text": "spending against specific outcomes."
+    },
+    {
+      "start": 1833.57,
+      "end": 1836.62,
+      "text": "So the change occurred at OBU, and therefore some funding remained within the older"
+    },
+    {
+      "start": 1836.67,
+      "end": 1837.23,
+      "text": "appropriation,"
+    },
+    {
+      "start": 1838.09,
+      "end": 1839.95,
+      "text": "while the receipt moved to the new appropriation."
+    },
+    {
+      "start": 1840.05,
+      "end": 1842.98,
+      "text": "It's fiscally neutral, but it was more towards"
+    },
+    {
+      "start": 1843.17,
+      "end": 1845.61,
+      "text": "giving more transparency around the outcomes."
+    },
+    {
+      "start": 1845.9,
+      "end": 1848.55,
+      "text": "So I totally agree that it's fiscally neutral. That's not the problem."
+    },
+    {
+      "start": 1849.11,
+      "end": 1852.49,
+      "text": "Enhancing ministers' ability to shift funding as priorities change"
+    },
+    {
+      "start": 1854.42,
+      "end": 1857.66,
+      "text": "So what authority do ministers then need to shift funding around?"
+    },
+    {
+      "start": 1858.96,
+      "end": 1861.4,
+      "text": "So multi-category appropriation,"
+    },
+    {
+      "start": 1862.22,
+      "end": 1862.82,
+      "text": "obviously"
+    },
+    {
+      "start": 1863.7,
+      "end": 1866.62,
+      "text": "what the total appropriation is the authority."
+    },
+    {
+      "start": 1866.78,
+      "end": 1866.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 1866.79,
+      "end": 1867.2,
+      "text": "And then"
+    },
+    {
+      "start": 1868.38,
+      "end": 1871.22,
+      "text": "there is flexibility to move within categories of that"
+    },
+    {
+      "start": 1872.16,
+      "end": 1876.08,
+      "text": "appropriation, that multi-category appropriation, to reflect maybe"
+    },
+    {
+      "start": 1876.1,
+      "end": 1877.46,
+      "text": "putting funding in a slightly different..."
+    },
+    {
+      "start": 1877.82,
+      "end": 1881.0,
+      "text": "So you're still contributing to the overarching scope and purpose."
+    },
+    {
+      "start": 1881.04,
+      "end": 1882.4,
+      "text": "You can't do it outside of that."
+    },
+    {
+      "start": 1882.63,
+      "end": 1882.78,
+      "text": "Sure."
+    },
+    {
+      "start": 1882.88,
+      "end": 1884.46,
+      "text": "So it still needs to be for workplace"
+    },
+    {
+      "start": 1885.94,
+      "end": 1886.74,
+      "text": "health and safety."
+    },
+    {
+      "start": 1886.92,
+      "end": 1886.99,
+      "text": "Mm."
+    },
+    {
+      "start": 1887.78,
+      "end": 1889.55,
+      "text": "But it provides that flexibility,"
+    },
+    {
+      "start": 1890.64,
+      "end": 1894.13,
+      "text": "and actually transparency on what activities are"
+    },
+    {
+      "start": 1894.24,
+      "end": 1897.66,
+      "text": "actually that funding's being spent on, because it breaks it down into those"
+    },
+    {
+      "start": 1897.7,
+      "end": 1898.46,
+      "text": "different categories."
+    },
+    {
+      "start": 1898.82,
+      "end": 1902.3,
+      "text": "I just guess that in terms of Parliament's ability to scrutinize"
+    },
+    {
+      "start": 1903.04,
+      "end": 1906.84,
+      "text": "ministers' plans, and then the way departments actually"
+    },
+    {
+      "start": 1906.88,
+      "end": 1910.76,
+      "text": "deliver them, if you've got enhancing a minister's ability to shift"
+    },
+    {
+      "start": 1910.78,
+      "end": 1914.26,
+      "text": "funding around, it means that up in advance we don't get much."
+    },
+    {
+      "start": 1914.46,
+      "end": 1917.72,
+      "text": "We're sort of a little bit left to what the minister wants to do."
+    },
+    {
+      "start": 1917.76,
+      "end": 1920.22,
+      "text": "Now, this is an exaggeration I know, but what the minister wants to do on a"
+    },
+    {
+      "start": 1920.26,
+      "end": 1924.24,
+      "text": "particular day, instead of Parliament having had the opportunity to"
+    },
+    {
+      "start": 1924.32,
+      "end": 1927.58,
+      "text": "scrutinize what's going on. I get that it's within an appropriation, but it's-"
+    },
+    {
+      "start": 1928.08,
+      "end": 1928.41,
+      "text": "I guess, yeah"
+    },
+    {
+      "start": 1928.41,
+      "end": 1931.68,
+      "text": "... sounds an awful lot like ministers having quite a bit of almost operational"
+    },
+    {
+      "start": 1931.74,
+      "end": 1932.32,
+      "text": "control there."
+    },
+    {
+      "start": 1933.46,
+      "end": 1935.4,
+      "text": "They're able to direct their departments"
+    },
+    {
+      "start": 1936.48,
+      "end": 1940.46,
+      "text": "on funding things. I think with this one"
+    },
+    {
+      "start": 1940.6,
+      "end": 1941.2,
+      "text": "too, you're going from"
+    },
+    {
+      "start": 1942.18,
+      "end": 1944.44,
+      "text": "just annual appropriation where it's all just in one-"
+    },
+    {
+      "start": 1944.66,
+      "end": 1944.76,
+      "text": "Mm"
+    },
+    {
+      "start": 1944.9,
+      "end": 1948.4,
+      "text": "... to an appropriation that has different categories underneath that."
+    },
+    {
+      "start": 1948.42,
+      "end": 1950.02,
+      "text": "And I think that probably enhances"
+    },
+    {
+      "start": 1951.08,
+      "end": 1953.83,
+      "text": "Parliament's ability to see what that's actually being spent on, rather than it"
+    },
+    {
+      "start": 1953.84,
+      "end": 1954.24,
+      "text": "just being-"
+    },
+    {
+      "start": 1954.66,
+      "end": 1954.84,
+      "text": "Sure"
+    },
+    {
+      "start": 1954.86,
+      "end": 1956.35,
+      "text": "... 100 million sitting in one appropriation."
+    },
+    {
+      "start": 1956.44,
+      "end": 1957.96,
+      "text": "You've got 100 million spread over"
+    },
+    {
+      "start": 1959.06,
+      "end": 1961.16,
+      "text": "more clear categories of spend."
+    },
+    {
+      "start": 1961.54,
+      "end": 1961.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 1961.74,
+      "end": 1965.2,
+      "text": "No, I'm just feeling antsy when it says enhancing minister's ability to shift"
+    },
+    {
+      "start": 1965.26,
+      "end": 1965.95,
+      "text": "funding. You go, \"What?\""
+    },
+    {
+      "start": 1966.86,
+      "end": 1970.74,
+      "text": "Okay. I want to go to, this is just a minor one."
+    },
+    {
+      "start": 1973.58,
+      "end": 1973.96,
+      "text": "Thank you."
+    },
+    {
+      "start": 1975.06,
+      "end": 1978.34,
+      "text": "Biosecurity. This is on page"
+    },
+    {
+      "start": 1978.56,
+      "end": 1979.72,
+      "text": "14 of"
+    },
+    {
+      "start": 1982.18,
+      "end": 1985.88,
+      "text": "Treasury's report, an increase of 60 million"
+    },
+    {
+      "start": 1985.94,
+      "end": 1989.48,
+      "text": "into biosecurity. Was that the hornets, was it, or?"
+    },
+    {
+      "start": 1991.04,
+      "end": 1991.58,
+      "text": "Mm."
+    },
+    {
+      "start": 1991.82,
+      "end": 1992.32,
+      "text": "Does anyone know?"
+    },
+    {
+      "start": 1992.78,
+      "end": 1993.34,
+      "text": "Sorry. Just-"
+    },
+    {
+      "start": 1993.52,
+      "end": 1994.03,
+      "text": "Yeah, that's okay."
+    },
+    {
+      "start": 1994.12,
+      "end": 1997.74,
+      "text": "But I'm afraid I don't have anyone from MPI here"
+    },
+    {
+      "start": 1997.78,
+      "end": 1998.38,
+      "text": "today."
+    },
+    {
+      "start": 2005.05,
+      "end": 2008.58,
+      "text": "There's a large number of reasons for the change on page"
+    },
+    {
+      "start": 2008.6,
+      "end": 2010.64,
+      "text": "25 of the supplementary estimates."
+    },
+    {
+      "start": 2011.06,
+      "end": 2011.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 2011.42,
+      "end": 2011.5,
+      "text": "The"
+    },
+    {
+      "start": 2013.2,
+      "end": 2017.18,
+      "text": "largest increase is under spends from the previous year coming into"
+    },
+    {
+      "start": 2017.22,
+      "end": 2017.66,
+      "text": "this year."
+    },
+    {
+      "start": 2019.64,
+      "end": 2019.94,
+      "text": "Sure."
+    },
+    {
+      "start": 2020.4,
+      "end": 2023.9,
+      "text": "And there was a transfer to fund Mycoplasma"
+    },
+    {
+      "start": 2024.0,
+      "end": 2026.46,
+      "text": "bovis compensation payments of 13 million."
+    },
+    {
+      "start": 2026.68,
+      "end": 2027.63,
+      "text": "Okay. So-"
+    },
+    {
+      "start": 2027.74,
+      "end": 2029.88,
+      "text": "And then there is also 10 million for the hornets."
+    },
+    {
+      "start": 2029.98,
+      "end": 2030.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 2030.12,
+      "end": 2032.08,
+      "text": "So those are your main, those are your big changes there."
+    },
+    {
+      "start": 2032.11,
+      "end": 2033.48,
+      "text": "Yeah. No worries."
+    },
+    {
+      "start": 2035.58,
+      "end": 2038.89,
+      "text": "I think I am just... Oh, no, the other thing,"
+    },
+    {
+      "start": 2039.78,
+      "end": 2043.54,
+      "text": "and the last one I wanted to do is, and I'm sorry this is a tax"
+    },
+    {
+      "start": 2043.6,
+      "end": 2043.82,
+      "text": "one,"
+    },
+    {
+      "start": 2044.7,
+      "end": 2048.54,
+      "text": "or maybe it's the R&D tax credit. So again,"
+    },
+    {
+      "start": 2048.58,
+      "end": 2050.88,
+      "text": "it's page 16 of Treasury's report."
+    },
+    {
+      "start": 2050.92,
+      "end": 2051.92,
+      "text": "We're looking at revenue,"
+    },
+    {
+      "start": 2052.94,
+      "end": 2054.76,
+      "text": "the R&D tax incentive. So,"
+    },
+    {
+      "start": 2056.08,
+      "end": 2057.9,
+      "text": "that's the appropriation, so it's the revenue vote,"
+    },
+    {
+      "start": 2058.98,
+      "end": 2062.54,
+      "text": "and it's a decrease in 25 million"
+    },
+    {
+      "start": 2062.78,
+      "end": 2066.46,
+      "text": "in the funding available for the"
+    },
+    {
+      "start": 2066.58,
+      "end": 2069.97,
+      "text": "R&D tax credit. Now that R&D tax credit, it's not"
+    },
+    {
+      "start": 2071.9,
+      "end": 2074.82,
+      "text": "capped, is it? People have to spend money."
+    },
+    {
+      "start": 2074.9,
+      "end": 2077.86,
+      "text": "But why is that down by 25 million? Do we know?"
+    },
+    {
+      "start": 2079.6,
+      "end": 2079.98,
+      "text": "Thank you."
+    },
+    {
+      "start": 2083.48,
+      "end": 2083.78,
+      "text": "It's"
+    },
+    {
+      "start": 2084.76,
+      "end": 2088.5,
+      "text": "down based on the forecast expenditure from the R&D"
+    },
+    {
+      "start": 2088.54,
+      "end": 2092.43,
+      "text": "survey, the latest R&D tax survey, and also"
+    },
+    {
+      "start": 2092.54,
+      "end": 2093.56,
+      "text": "changes to the GDP."
+    },
+    {
+      "start": 2095.32,
+      "end": 2099.26,
+      "text": "Mm. So you're predicting that as part of economic conditions, spending on R&D"
+    },
+    {
+      "start": 2099.3,
+      "end": 2102.78,
+      "text": "is decreasing, therefore the amount of tax credit being claimed is decreasing."
+    },
+    {
+      "start": 2103.2,
+      "end": 2103.44,
+      "text": "Okay."
+    },
+    {
+      "start": 2103.6,
+      "end": 2103.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 2103.98,
+      "end": 2104.28,
+      "text": "Thank you."
+    },
+    {
+      "start": 2105.8,
+      "end": 2106.34,
+      "text": "Matt Regan."
+    },
+    {
+      "start": 2106.88,
+      "end": 2110.68,
+      "text": "Sorry, just sort of taking it up a level here really,"
+    },
+    {
+      "start": 2110.76,
+      "end": 2114.54,
+      "text": "there's a trend in the estimates that really"
+    },
+    {
+      "start": 2114.58,
+      "end": 2118.02,
+      "text": "does show delays in delivery across a number of"
+    },
+    {
+      "start": 2118.04,
+      "end": 2121.36,
+      "text": "projects. There's slippage into out years and money being"
+    },
+    {
+      "start": 2121.38,
+      "end": 2125.19,
+      "text": "deferred into out years. For example, we've got the Regional"
+    },
+    {
+      "start": 2125.22,
+      "end": 2128.24,
+      "text": "Infrastructure Fund, 257 million, Rail,"
+    },
+    {
+      "start": 2128.5,
+      "end": 2132.26,
+      "text": "203 million. What I talked about within the schools"
+    },
+    {
+      "start": 2133.64,
+      "end": 2135.84,
+      "text": "budget, there's nearly a billion..."
+    },
+    {
+      "start": 2136.0,
+      "end": 2139.54,
+      "text": "Well, that's getting close to $700 million,"
+    },
+    {
+      "start": 2140.0,
+      "end": 2142.63,
+      "text": "just in those three that I've rattled off."
+    },
+    {
+      "start": 2142.94,
+      "end": 2146.72,
+      "text": "So how is Treasury tracking these delays and"
+    },
+    {
+      "start": 2146.84,
+      "end": 2150.12,
+      "text": "slippage across all of the votes, and do you"
+    },
+    {
+      "start": 2151.28,
+      "end": 2155.08,
+      "text": "maintain a consolidated register of delayed projects"
+    },
+    {
+      "start": 2155.34,
+      "end": 2158.6,
+      "text": "and the associated fiscals around those deferrals?"
+    },
+    {
+      "start": 2159.72,
+      "end": 2163.62,
+      "text": "Yeah. We can probably provide a more fulsome written response, but we do"
+    },
+    {
+      "start": 2163.7,
+      "end": 2164.12,
+      "text": "have"
+    },
+    {
+      "start": 2165.36,
+      "end": 2165.9,
+      "text": "our"
+    },
+    {
+      "start": 2166.92,
+      "end": 2167.54,
+      "text": "quarterly"
+    },
+    {
+      "start": 2168.88,
+      "end": 2172.78,
+      "text": "reporting on our significant investments through our"
+    },
+    {
+      "start": 2172.82,
+      "end": 2174.22,
+      "text": "investment management system,"
+    },
+    {
+      "start": 2175.16,
+      "end": 2177.02,
+      "text": "that is reported through to"
+    },
+    {
+      "start": 2178.08,
+      "end": 2179.72,
+      "text": "ministers and is made publicly available."
+    },
+    {
+      "start": 2179.78,
+      "end": 2182.6,
+      "text": "So that's on the larger projects,"
+    },
+    {
+      "start": 2183.68,
+      "end": 2187.32,
+      "text": "in terms of how those are tracking, and the risks."
+    },
+    {
+      "start": 2188.28,
+      "end": 2191.72,
+      "text": "So that's the main way, is through that investment reporting that we gather"
+    },
+    {
+      "start": 2191.76,
+      "end": 2193.06,
+      "text": "that information."
+    },
+    {
+      "start": 2193.92,
+      "end": 2194.7,
+      "text": "Great. So just-"
+    },
+    {
+      "start": 2194.84,
+      "end": 2194.85,
+      "text": "Yeah"
+    },
+    {
+      "start": 2194.85,
+      "end": 2195.94,
+      "text": "... in terms of"
+    },
+    {
+      "start": 2196.76,
+      "end": 2199.06,
+      "text": "questions we'll put to Treasury for our team."
+    },
+    {
+      "start": 2202.08,
+      "end": 2206.04,
+      "text": "Obviously in writing, can we have a breakdown of all the"
+    },
+    {
+      "start": 2206.14,
+      "end": 2209.64,
+      "text": "project deferrals that are contained in these"
+    },
+    {
+      "start": 2209.88,
+      "end": 2211.96,
+      "text": "supplementary estimates,"
+    },
+    {
+      "start": 2213.1,
+      "end": 2214.24,
+      "text": "and broken down by region?"
+    },
+    {
+      "start": 2217.35,
+      "end": 2219.15,
+      "text": "I mean, obviously there's got to be a threshold."
+    },
+    {
+      "start": 2219.21,
+      "end": 2220.31,
+      "text": "Yeah. We'll just, yeah."
+    },
+    {
+      "start": 2220.35,
+      "end": 2221.0,
+      "text": "Yeah. But-"
+    },
+    {
+      "start": 2221.17,
+      "end": 2223.17,
+      "text": "It'll need to be based on the information that we have on-"
+    },
+    {
+      "start": 2223.21,
+      "end": 2223.93,
+      "text": "Absolutely"
+    },
+    {
+      "start": 2224.03,
+      "end": 2225.29,
+      "text": "... on these projects."
+    },
+    {
+      "start": 2225.71,
+      "end": 2226.26,
+      "text": "Yeah. Ab-"
+    },
+    {
+      "start": 2226.26,
+      "end": 2229.99,
+      "text": "A lot of these smaller stuff is held within agencies in terms of managing the"
+    },
+    {
+      "start": 2230.07,
+      "end": 2230.61,
+      "text": "projects."
+    },
+    {
+      "start": 2230.67,
+      "end": 2233.87,
+      "text": "So how does Treasury monitor that? We're having all these delays."
+    },
+    {
+      "start": 2234.43,
+      "end": 2238.39,
+      "text": "There looks to be just over a billion dollars"
+    },
+    {
+      "start": 2238.45,
+      "end": 2242.11,
+      "text": "worth of delayed projects sitting within these estimates, at a"
+    },
+    {
+      "start": 2242.19,
+      "end": 2245.4,
+      "text": "very conservative estimate. So is Treasury"
+    },
+    {
+      "start": 2245.51,
+      "end": 2249.35,
+      "text": "tracking that and working with agencies around"
+    },
+    {
+      "start": 2249.51,
+      "end": 2252.55,
+      "text": "what the cost of these delayed projects are?"
+    },
+    {
+      "start": 2253.31,
+      "end": 2254.43,
+      "text": "For the significant"
+    },
+    {
+      "start": 2257.35,
+      "end": 2259.21,
+      "text": "investments, we have that central tracking."
+    },
+    {
+      "start": 2260.11,
+      "end": 2261.31,
+      "text": "In terms of"
+    },
+    {
+      "start": 2263.19,
+      "end": 2267.15,
+      "text": "other delays that flow through into appropriations, we provide advice to"
+    },
+    {
+      "start": 2267.21,
+      "end": 2269.81,
+      "text": "the minister when we do baseline updates,"
+    },
+    {
+      "start": 2270.63,
+      "end": 2270.85,
+      "text": "which"
+    },
+    {
+      "start": 2271.67,
+      "end": 2274.25,
+      "text": "provide... If there's delays, they need to"
+    },
+    {
+      "start": 2275.31,
+      "end": 2279.15,
+      "text": "request transfers into future years, which require"
+    },
+    {
+      "start": 2279.17,
+      "end": 2281.41,
+      "text": "them to explain why there is the delay,"
+    },
+    {
+      "start": 2282.45,
+      "end": 2285.99,
+      "text": "why it's caused outside of department's control in order to transfer that funding."
+    },
+    {
+      "start": 2286.05,
+      "end": 2289.91,
+      "text": "So we have those processes as well that help understand where those delays are."
+    },
+    {
+      "start": 2290.31,
+      "end": 2291.37,
+      "text": "So for the"
+    },
+    {
+      "start": 2292.49,
+      "end": 2293.71,
+      "text": "larger delays-"
+    },
+    {
+      "start": 2293.93,
+      "end": 2293.94,
+      "text": "Mm"
+    },
+    {
+      "start": 2293.94,
+      "end": 2296.97,
+      "text": "... and we can see, and I'm not talking about individual projects, I'm talking"
+    },
+    {
+      "start": 2297.01,
+      "end": 2300.43,
+      "text": "about votes. So if we have a look at regional"
+    },
+    {
+      "start": 2300.49,
+      "end": 2304.19,
+      "text": "infrastructure funds, schools, these things that we're talking"
+    },
+    {
+      "start": 2304.25,
+      "end": 2304.73,
+      "text": "about,"
+    },
+    {
+      "start": 2306.33,
+      "end": 2309.65,
+      "text": "was advice given to departments on what the fiscal"
+    },
+    {
+      "start": 2310.19,
+      "end": 2314.09,
+      "text": "impact, obviously nothing's cheaper to build than it is today,"
+    },
+    {
+      "start": 2315.11,
+      "end": 2319.03,
+      "text": "in terms of deferring those into the out years, what the cost implications"
+    },
+    {
+      "start": 2319.37,
+      "end": 2322.89,
+      "text": "and the potential cost blowouts could be by the delay in the"
+    },
+    {
+      "start": 2322.97,
+      "end": 2323.57,
+      "text": "projects?"
+    },
+    {
+      "start": 2324.71,
+      "end": 2327.57,
+      "text": "I don't think that Treasury's provided that sort of advice."
+    },
+    {
+      "start": 2328.51,
+      "end": 2329.85,
+      "text": "So that would be agencies that would be-"
+    },
+    {
+      "start": 2329.87,
+      "end": 2329.98,
+      "text": "Yeah"
+    },
+    {
+      "start": 2329.98,
+      "end": 2330.72,
+      "text": "... giving that to their-"
+    },
+    {
+      "start": 2331.05,
+      "end": 2331.15,
+      "text": "Yeah"
+    },
+    {
+      "start": 2331.69,
+      "end": 2333.85,
+      "text": "... their... Okay, thank you. And just one small one."
+    },
+    {
+      "start": 2334.71,
+      "end": 2335.07,
+      "text": "There's"
+    },
+    {
+      "start": 2336.39,
+      "end": 2337.37,
+      "text": "a small cut,"
+    },
+    {
+      "start": 2338.21,
+      "end": 2342.19,
+      "text": "but it's death by a thousand of cuts really, for the Warmer Kiwi"
+    },
+    {
+      "start": 2342.27,
+      "end": 2346.09,
+      "text": "Homes project. There's a further $8.5 million that's been"
+    },
+    {
+      "start": 2346.13,
+      "end": 2350.07,
+      "text": "taken out of money to insulate New Zealanders' homes, to"
+    },
+    {
+      "start": 2350.13,
+      "end": 2351.09,
+      "text": "keep them warm in winter."
+    },
+    {
+      "start": 2352.67,
+      "end": 2355.05,
+      "text": "Are you able to tell us how many"
+    },
+    {
+      "start": 2355.09,
+      "end": 2358.87,
+      "text": "home insulations that would've been?"
+    },
+    {
+      "start": 2362.01,
+      "end": 2363.75,
+      "text": "I will have to provide that in writing."
+    },
+    {
+      "start": 2363.81,
+      "end": 2364.05,
+      "text": "Okay."
+    },
+    {
+      "start": 2364.15,
+      "end": 2364.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 2364.23,
+      "end": 2368.13,
+      "text": "I can ask at the energy estimate, too. Okay. Thank you."
+    },
+    {
+      "start": 2368.89,
+      "end": 2369.41,
+      "text": "Fantastic."
+    },
+    {
+      "start": 2369.89,
+      "end": 2371.98,
+      "text": "Members, it appears to be no more questions."
+    },
+    {
+      "start": 2373.31,
+      "end": 2374.11,
+      "text": "Thank you, officials."
+    },
+    {
+      "start": 2374.27,
+      "end": 2374.32,
+      "text": "Thanks."
+    },
+    {
+      "start": 2374.32,
+      "end": 2377.81,
+      "text": "It's quite a broad area you have to cover, so I appreciate you coming in."
+    },
+    {
+      "start": 2378.03,
+      "end": 2378.51,
+      "text": "Mm."
+    },
+    {
+      "start": 2378.99,
+      "end": 2379.49,
+      "text": "Thank you."
+    },
+    {
+      "start": 2381.2,
+      "end": 2381.75,
+      "text": "Thank you. Can you just do it for me"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026-06-16 2026 06 16 FEC - vimeo_1201583501\\2026-06-16 2026 06 16 FEC - vimeo_1201583501.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1201583501",
+    "display_id": "1201583501",
+    "title": "Finance and Expenditure Committee",
+    "webpage_url": "https://vimeo.com/1201583501",
+    "original_url": "https://vimeo.com/1201583501",
+    "upload_date": "20260615",
+    "release_date": "20260615",
+    "timestamp": 1781564083,
+    "release_timestamp": 1781564093,
+    "duration": 2382,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2168960723-d5a06c9f7e6982cce9a439bebb3fc9a11951f235a478741a80fdc42c477d33a4-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

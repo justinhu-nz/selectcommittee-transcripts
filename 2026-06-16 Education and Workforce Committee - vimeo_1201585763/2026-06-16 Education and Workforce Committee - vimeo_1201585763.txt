@@ -1,0 +1,1382 @@
+Title: 2026-06-16 Education and Workforce Committee
+URL: https://vimeo.com/1201585763
+Published: 2026-06-16
+Duration: 01:33:18
+
+[00:00:00] I'm not going to talk about this, seriously.
+[00:00:05] Let me see Patrick.
+[00:00:07] Oh, yeah.
+[00:00:10] Oh.
+[00:00:13] Mm-mm.
+[00:00:15] You are really twisting something.
+[00:00:17] Yeah.
+[00:00:19] Well, me, you're too.
+[00:00:21] I'm just kidding.
+[00:00:26] Good morning.
+[00:00:30] Good morning.
+[00:00:33] All right.
+[00:00:38] We are here this morning in live public session
+[00:00:42] for the Estimates for Vote Labour Market,
+[00:00:45] in which we are hearing from the Minister of Education.
+[00:00:47] Thank you, Minister, for being here
+[00:00:49] and for all your officials as well.
+[00:00:51] Immigration, did I not say that?
+[00:00:53] Oh, did I? Oh, there you go. Sorry.
+[00:00:55] I already said a couple of words
+[00:00:57] around the wrong way earlier, so nothing special.
+[00:00:59] Minister of Immigration,
+[00:01:01] thank you very much for being here.
+[00:01:03] We have an hour with you this morning.
+[00:01:05] We're open to introductory remarks,
+[00:01:07] which we understand is a little extra to discuss,
+[00:01:09] and so we'll hand it over to you now,
+[00:01:11] and then we'll open for questions after that.
+[00:01:13] Well, thank you very much for the opportunity
+[00:01:15] to speak to you about Budget 2026
+[00:01:17] in the Immigration Portfolio.
+[00:01:19] I'm joined today by Nick Blakely,
+[00:01:21] Chief Executive of Embate.
+[00:01:23] As the committee have already been advised,
+[00:01:25] my opening remarks will be slightly longer than usual,
+[00:01:27] as there is a significant matter
+[00:01:29] regarding the scrapping of Immigrations
+[00:01:31] biometric capability upgrade project
+[00:01:33] that I want to bring to your attention.
+[00:01:35] This is a matter that I consider to be very serious,
+[00:01:37] and that requires substantive explanation,
+[00:01:39] both from myself and from Enby.
+[00:01:41] And as such, I'm going to focus my opening remarks on this,
+[00:01:43] and I'll leave it to the committee
+[00:01:45] to ask any other questions I would like about
+[00:01:47] other decisions in Budget 2026,
+[00:01:49] if you'd like to.
+[00:01:51] I'm also tabling with the committee right now
+[00:01:53] a review of the project that is being
+[00:01:55] publicly released now.
+[00:01:57] The BCU project
+[00:01:59] .
+[00:02:00] by Metropathically Upratox School at BCU from now on began in 2018 to upgrade and future-proof
+[00:02:06] immigration New Zealand's identity management systems, with a business case approved by
+[00:02:10] NB in 2019. Estimated whole-of-life costs were $19.49 million, seemingly at this point
+[00:02:18] with no ministerial oversight or sign-off of that $19 million. The project encountered
+[00:02:24] challenges almost immediately. Critical decisions were made at pace without proper analysis
+[00:02:29] due diligence. In the very early stages, there were already delays, unclear requirements,
+[00:02:34] rushed decisions, no proper governance and persistent disagreements. In 2020, the very
+[00:02:40] critical decision was made by NB to significantly change the scope of the project to also
+[00:02:46] include a workflow flow solution. So essentially taking it off the shelf solution and incorporating
+[00:02:52] it together with a workflow solution, drastically changing the scope of the project. It
+[00:02:56] significantly increased the complexity and the cost of the project, and it was done without
+[00:03:01] proper analysis, interrogation, or importantly ministerial engagement oversight or approval.
+[00:03:09] These flawed foundations led to ongoing delivery issues, extensive customization,
+[00:03:13] and a near constant stream of change requests. In total, more than 170 changes were raised,
+[00:03:20] signalling deep structural issues with the project. Major change requests significantly
+[00:03:25] altered scope, budget, timelines, and yet lacked analysis required to support these decisions.
+[00:03:30] Ministerial oversight was extremely limited, with most significant decisions being made
+[00:03:36] internally within NB. In November 2021, Minister Farfoy and the Minister of Finance,
+[00:03:44] Grant Robertson, noted the whole of life costs had increased to over $30 million, just noted.
+[00:03:50] Then in July 2023, Minister Little approved the increase to whole of life costs from the
+[00:03:55] project from $30 million to $35 million, from the limited information available to
+[00:04:00] me, it appears envy deliberately withheld information from those ministers and did not seek ministerial
+[00:04:05] approval for whole-of-life cost increases when it was required throughout the project.
+[00:04:10] It is also not clear what questions previous ministers asked about the project on going
+[00:04:14] delays and escalating costs or what information they received. Then just a month later,
+[00:04:20] in August 2023, Minister Little declined to go to Cabinet seeking another whole-of-life
+[00:04:25] increase to $40 million. In March 2024, officials recommended that I go to Cabinet seeking to
+[00:04:33] increase the whole-of-life costs again without telling me that Minister Little had previously
+[00:04:36] declined. Alongside this, importantly, they advised me that the project has undertaken
+[00:04:42] three independent quality assurance reviews, IQAs I'll call them. This last one being in
+[00:04:48] September 2023. The latest IQA confirmed the project approach was sound and robust.
+[00:04:54] The build was achievable and the risk management practice is effective. The project has implemented
+[00:04:59] the IQA recommendations and continually looks for opportunities to improve.
+[00:05:05] I wasn't satisfied with the advice that I'd received and so I asked a number of questions,
+[00:05:08] including seeking more information and asking for the IQA itself. It was at this point
+[00:05:14] it became apparent to me that there were not only serious issues with the project,
+[00:05:17] but what I had been advised about the IQA was complete fiction. Far from being sound and
+[00:05:22] robust, achievable and effective, what the September 2023 IQA actually said was,
+[00:05:28] given the project's poor delivery history, its ability, inability to meet agreed milestones,
+[00:05:32] we have doubts as to whether the project will in fact deliver at all.
+[00:05:36] And we question its continuation. I was, as I'm sure that you can appreciate,
+[00:05:41] furious, at being provided with advice that was diametrically opposed to the
+[00:05:44] truth on such a critical project. However, I was also advised that ending the project
+[00:05:48] would mean writing off $31 million of investment as well as exposing us to risks
+[00:05:53] around the current system failing, and that the project was able to be delivered in just a few
+[00:05:58] months. A range of...
+[00:06:00] significant interventions at this point were made, including an investigation by the chief
+[00:06:04] executive of MB. Another IQA was commissioned, which returned an updated status possible.
+[00:06:11] And I directed that an independent technology transformation expert be brought on the project
+[00:06:15] to advise me directly. The chief executive of MB decided with those interventions in
+[00:06:21] place alongside strength and governance to continue with the project given how advanced
+[00:06:25] it was and that they expected to be able to go live within a couple of months,
+[00:06:30] a few months, sorry. I was also advised that MB would be able to keep within its
+[00:06:34] originally within its whole of life set cost of 35 million. The project then made progress
+[00:06:42] through the remainder of 2024 and 2025. We received regular updates on the progress
+[00:06:46] from both MB and our independent advisor. And then in late 2025, as the project entered
+[00:06:52] user acceptance testing, performance testing and system integration testing,
+[00:06:56] problems compounded with more defects being created than were being resolved.
+[00:07:00] And ultimately, the decision was made by the MB acting chief executive in November 25.
+[00:07:04] The project was irrefutable, could not go live and needed to be ended. So after seven years
+[00:07:10] and $30 million, Budget 26 contains a repayable funding package that provides up to $31.2 million
+[00:07:16] to write off the project, a similar amount to what I was advised in March 2024.
+[00:07:21] Those costs well over the next few years have to be met by future users of the immigration system.
+[00:07:26] And it is totally unacceptable to me as a minister that after seven years,
+[00:07:29] MB somehow spent tens of millions of dollars. Not only do we have nothing to show for it,
+[00:07:34] but we are now in a position of having to maintain the existing aging infrastructure
+[00:07:38] while a new solution is sought. I have more to say, including about the subsequent review
+[00:07:42] and its damning findings that you now have. But I'm aware that the committee has already
+[00:07:46] given me an extended time, which I'm grateful for. And we can cover that in questions.
+[00:07:51] First question from Phil Twyford.
+[00:07:54] Minister, what is your view of MB's conduct through
+[00:08:00] throughout this episode, and what do you intend to do about it?
+[00:08:07] My view from what I have, the information that I have available, is that the report is very
+[00:08:13] clear that ministers were not given full information, that in cases we were misled, that people
+[00:08:21] were removed from the project when they asked questions about its viability.
+[00:08:28] And that the whole of life costs were not, they did not put to ministers to get proper
+[00:08:35] approval, and information wasn't given to ministers.
+[00:08:40] There's one more, the trifecta for me is people were moved sideways, ministers were misled
+[00:08:46] or given poor information, but there was a third thing that will come to me in a moment.
+[00:08:56] I have spoken to the Public Service Commissioner on Friday.
+[00:09:04] I've written to him, and I've asked him to undertake a review that he has agreed to,
+[00:09:11] an integrity review, the terms of reference we provided to my office in the coming days.
+[00:09:19] And I understand that MB will also be undertaking their own internal reviews as well,
+[00:09:25] which Nick can speak to.
+[00:09:27] Do you have a view about how high this conduct went in the management hierarchy of MB?
+[00:09:36] I don't, I'm not going to get into that, because I think that in the fullness of time
+[00:09:40] the report will show us that.
+[00:09:45] I remember the third thing, it's the trifecta.
+[00:09:47] Firstly, ministers were misled, secondly, people were moved from the project
+[00:09:52] when they raised concerns, and thirdly, and this is quite serious,
+[00:09:57] creative accounting practices have been undertaken to keep...
+[00:10:00] costs of the project below cabinet's mandated limit. Those are extraordinarily serious findings
+[00:10:07] of the report. They raise more questions than they answer, which is why I've asked Sir Brian to undertake
+[00:10:13] a review. Can I make a few comments? Thank you. I'm extremely disappointed that it's taken seven
+[00:10:22] years and $33 million and we have not delivered it. That's unacceptable. I found the review a
+[00:10:28] very difficult read. It finds serious failings and serious concerns about integrity, which the
+[00:10:34] minister has raised. It does find that ultimately it was the correct decision to terminate the project,
+[00:10:40] but that it could have happened much earlier. I take accountability for that is on behalf of
+[00:10:47] the department over a long period of time and I'm committed to learning from this and implementing
+[00:10:52] change. There are a number of actions underway. The first is Sir Brian's review into the integrity
+[00:11:00] issues raised by this. He will look into that. On the back of that, I will undertake employment
+[00:11:08] investigations if that's appropriate on the basis of what that integrity review finds.
+[00:11:13] I'm also taking a stocktake of all of our major technology projects to be assured that the
+[00:11:19] governance and process failings that were evident in this review are not to be repeated in any of
+[00:11:25] our other projects. I will also be strengthening our overall processes and getting independent
+[00:11:30] assurance that those processes are now adequate. One of the other major immigration projects
+[00:11:36] is the Future Services project and Sir Brian and the PSC will also be doing an assurance review
+[00:11:42] of that project. We're taking action to learn the lessons for this and to rectify things for the
+[00:11:51] future. I've already apologized to the ministers and I would apologize to New Zealanders who expect
+[00:12:00] this project. So minister you've you've alluded to the fact that because of the
+[00:12:07] immigration system and particularly tax payers as well will have to pick up the
+[00:12:11] tab 33 million dollars of waste of expenditure. Are there any other
+[00:12:18] implications for users of the immigration system in terms of operational
+[00:12:23] benefits the fact that the planned benefits of the upgrade won't be
+[00:12:29] whether the expected time frame. Yes and I can get officials to talk in more detail
+[00:12:35] but at a very high level we've made sure that the existing technology is able to
+[00:12:42] be maintained. When we officials are at the moment working on what is what a new
+[00:12:49] solution is that they're going to be providing information to me in the near
+[00:12:53] future and at that point we will take further decisions on what more we need
+[00:12:58] to do to stabilise the existing technology but the advice that I've got is
+[00:13:02] at the moment the technology is stable and we likely will have to upgrade it
+[00:13:07] somewhat depending on depending on the solution that we choose for the upgrade
+[00:13:11] we may have to do a little bit more maintenance on it to make sure that
+[00:13:15] it is stable because it is a very core part of our system. And do you have a
+[00:13:19] plan to replace the upgrade project with a new project to deliver what
+[00:13:25] was hoped for? Yeah I can talk to that. So yes the same issues that were the
+[00:13:30] rationale for undertaking this project still exists in that our existing
+[00:13:34] biometric capability is old it is on systems that need upgrading so that
+[00:13:43] still exists that's in place today it is still working it will need some
+[00:13:47] additional investment over the coming years for it to keep going but
+[00:13:50] there is still a case for having a more modern platform and that is the
+[00:13:55] work that we are now undertaking that will be reporting to ministers in the
+[00:13:58] next few months on.
+[00:14:00] You've given us a damning indictment of the conduct of even senior public servants in the MB.
+[00:14:13] What questions are you asking about the behaviour and conduct of your officials outside of this project?
+[00:14:22] If this behaviour has been demonstrated in relation to one IT project,
+[00:14:26] what confidence do you have that these behaviours are not taking place in others?
+[00:14:32] Well, you may well remember Minister Andrew Little going down to the tiles
+[00:14:36] and asking for an investigation in the dying days of the previous Labour Government
+[00:14:40] on immigration because he wasn't getting the information that he needed
+[00:14:43] and that led to the best work review, which again was very damning.
+[00:14:47] And at that point, when I became the Minister, I said we've got a relationship to repair
+[00:14:53] and my confidence at this point is low and we're going to need to repair that over the next few years.
+[00:14:58] And at that point was very clear, bring out everything that I need to see
+[00:15:04] and we've done some great work over the last couple of years.
+[00:15:07] But I am at a point now where that feels like it's been completely undone and undermined
+[00:15:11] because of this that was not raised with me, even though we were unpicking it
+[00:15:17] and finding out bits and pieces along the way it was never fully disclosed.
+[00:15:21] And also the fact that this report, you'll note, was dated two months ago
+[00:15:26] and I received it on Friday.
+[00:15:28] So those behaviours are seemingly still there and that's why I want a full investigation
+[00:15:35] because while we've done a huge amount of great work in the policy space
+[00:15:38] over the last couple of years, my confidence has been knocked again,
+[00:15:42] which is very unfortunate.
+[00:15:44] So you've asked the Public Service Commission to do an investigation
+[00:15:48] but what are you going to do about your department?
+[00:15:53] Well, I can ask for the investigation and wait for the outcome of that
+[00:15:58] but in the meantime, Nick has...
+[00:16:00] has assured me that he's doing his part as well.
+[00:16:03] And I've already insisted that we
+[00:16:07] are doing an overview of the current IT project
+[00:16:10] upgrade, which is the R-Future Systems, which you'll know,
+[00:16:12] and love is adept, moving things on to that
+[00:16:15] to make sure that that business case is where it needs to be,
+[00:16:19] that we're getting the outcomes that we expected
+[00:16:22] and that that project is delivering as expected.
+[00:16:24] So my key concerns lie in the IT space,
+[00:16:27] which is why I've asked for a full update of what's
+[00:16:31] going on in those spaces as well.
+[00:16:33] But we're talking about behaviors in relation to an IT project,
+[00:16:37] but are you confident those same behaviors aren't
+[00:16:39] being exhibited in the policy advice you're
+[00:16:43] getting about compliance and enforcement,
+[00:16:46] about the issuing of visas, about the humanitarian side
+[00:16:50] of the department's work?
+[00:16:51] I mean, the advice that I've been getting
+[00:16:56] from policy, I've been confident in.
+[00:16:59] We've done a huge amount of good work over the last few years,
+[00:17:02] and you see that from the turnaround of migrant
+[00:17:04] exploitation, of numbers, of skills.
+[00:17:08] And I'm very happy with that work.
+[00:17:09] However, there is certainly a side in NB.
+[00:17:12] And remembering that this IT department
+[00:17:14] sits outside of immigration itself
+[00:17:17] in the wider NB environment.
+[00:17:19] And this is something that none of my DCEs
+[00:17:23] had a direct line of sight over.
+[00:17:25] And that's part of the problem.
+[00:17:27] But the advice I've been getting on policy
+[00:17:29] relating to our work program over the last two years,
+[00:17:31] I've been very satisfied with.
+[00:17:34] OK, thank you.
+[00:17:35] Because I take integrity very seriously,
+[00:17:39] and that's why I welcome the public service commissioners
+[00:17:42] review.
+[00:17:43] I see expectations with my team.
+[00:17:45] This is not where we should be as a department.
+[00:17:49] And so I will be doing everything
+[00:17:50] I can to give a fair statement.
+[00:17:52] A supplementary question.
+[00:17:53] Thanks, here.
+[00:17:54] I've got a couple of clarifying questions coming out of what?
+[00:17:59] I'm pretty upright.
+[00:18:00] just situations being read.
+[00:18:02] Am I correct in understanding that the $31.2 million,
+[00:18:06] I think I heard that's getting written off,
+[00:18:09] is approximately where the cost was at when you became
+[00:18:13] the minister?
+[00:18:15] The advice I received on the 28th of March
+[00:18:18] was that that would be the write-off cost.
+[00:18:21] But to be honest with you, I think
+[00:18:23] there is lots of questions to be asked
+[00:18:25] around the actual costs of this project
+[00:18:28] because of the report and its claims
+[00:18:30] around creative accounting.
+[00:18:32] So I think there'll be a lot to be dug out.
+[00:18:34] Obviously, ministers, you have to go on the advice
+[00:18:37] that they're given.
+[00:18:38] The 28th of March sent a $31 million write-off cost,
+[00:18:42] which is significant, especially given
+[00:18:44] where it was so close to the end of the project.
+[00:18:48] But yes, those two figures are very similar.
+[00:18:50] There was a number of things that Enby
+[00:18:52] were doing in the background to recover.
+[00:18:54] They were getting clawing back funds from the vendor
+[00:19:02] and assuring me they could work within the whole of life
+[00:19:06] costs that had already been set.
+[00:19:08] On page 18, I've just quickly read this report.
+[00:19:11] It says that with some staff characterizing
+[00:19:14] financial management practices as creative accounting,
+[00:19:18] largely driven by efforts to avoid exceeding
+[00:19:23] the cabinet-level funding threshold.
+[00:19:26] That's a pretty outrageous statement to make in a report.
+[00:19:31] As the minister, how does that make you feel
+[00:19:35] about the department's performance?
+[00:19:37] Well, this is almost as bad as it gets,
+[00:19:39] avoiding cabinet scrutiny.
+[00:19:42] There is more to this, though, and uncovering
+[00:19:43] all of the documents that previous ministers signed out
+[00:19:46] when it came to whole of life costs, it was minimal.
+[00:19:49] There was only two signouts by ministers
+[00:19:52] across the life of the project when it went from $19 million
+[00:19:54] to $35 million eventually.
+[00:19:57] There was only two signouts.
+[00:19:59] And it's supposed to be.
+[00:20:00] to be signed out every time that goes, the whole of life cost goes up as far as I've been advised
+[00:20:05] and that seemingly did not happen and even when it did happen the advice was very minimal and I'll
+[00:20:13] give you an example of one of those where Minister Farf always signed out a piece of paper that that's
+[00:20:17] how big it is, it's a pamphlet, it doesn't provide any of the advice and I've not seen
+[00:20:22] any other advice that's been able to be provided to me that was received by either him or the
+[00:20:29] Minister of Finance so the advice was very scant it did not lay out the history of the
+[00:20:36] project or the increase in costs and actually by the time it seems from what I can see the only
+[00:20:42] I'm only going on the information I've got by the time they were asked to to sign out an approval
+[00:20:46] to go over 20 million dollars a whole of life cost it had already gone to 30 million so there's
+[00:20:51] there is a whole lot of things that needs to be looked into because I don't think that ministers
+[00:20:56] were getting the information and the advice that they should have got when making these decisions
+[00:21:01] I will certainly be asking more questions to the department later but a question for you
+[00:21:08] how do you think Merlin, the physiotherapist and woman who bring in physios from overseas or Patrick
+[00:21:15] who's bringing in IRC workers for forestry or Neil and Harah who's bringing in Filipinos as
+[00:21:21] managers are going to feel when they understand that they're going to be paying not only for the
+[00:21:28] past project on those visa costs but the next one and as much as Nick I respect the fact that you've
+[00:21:34] acknowledged that you're not happy with this has it actually been worked out as a what it's going
+[00:21:39] to cost per person what this is actually costing every one of those visa holders in the future
+[00:21:45] to pay for this mistake look no it hasn't we haven't got to that stage yet in fact we haven't
+[00:21:51] actually done the write-off as yet and I think there will be more to come out of this actual
+[00:21:57] costs and of course we don't know what the future
+[00:22:00] an IT solution will look like at this point or what the costs will be of
+[00:22:04] maintaining the current biometric capability system, but it certainly is a
+[00:22:10] very difficult pill to swallow that those costs will be borne by future users
+[00:22:15] of the system, as I said in my opening speech.
+[00:22:18] Supplementary, Ricardo.
+[00:22:20] Yeah, just good a few questions. Thank you.
+[00:22:21] On page 17, the report notes that the cybersecurity risks were significant.
+[00:22:25] Were you at any point being made aware that there were high cybersecurity
+[00:22:29] risks attached to this project?
+[00:22:32] Well, the whole point of the project is to avoid those.
+[00:22:35] And one of the things that we were advised in early 2024 was the fact
+[00:22:41] that if we didn't complete the project, then those risks would be born.
+[00:22:46] And that's quite a serious thing, not only the right of the $31 million,
+[00:22:49] but also the fact that we had a legacy system that at the time
+[00:22:53] we were told was at serious risk and those and those would be the implications.
+[00:22:58] But I mean, what does it say that in this project with NEC, like there were
+[00:23:03] a lot of cybersecurity risks that were significant according to the report
+[00:23:07] and you were kept out of the loop when it's something that could massively
+[00:23:12] impact people's rights to privacy or information?
+[00:23:17] Does it does it not raise significant concerns that there were
+[00:23:20] cybersecurity risks attached to this project and you were not made aware of those?
+[00:23:23] There's lots of concerns.
+[00:23:24] I'll probably get into respect to this because it's quite technical if that's OK.
+[00:23:27] Yeah, just to clarify, this was of the potential solution.
+[00:23:30] So it was never put into practice.
+[00:23:32] So the concerns were about this, the work that was being done on the project
+[00:23:38] so that they were never exposed into individuals and our existing system is still in place.
+[00:23:45] And can I just ask what communications did NB or yourself minister have
+[00:23:50] with any migration five partners in relationship to, for example,
+[00:23:54] this project or the issues that have arisen since the report and what feedback have you received?
+[00:24:00] if, you know, I have other migration five countries had similar issues with this company or with
+[00:24:04] trying to update the systems, which would be able to align any sort of communications you've
+[00:24:09] had with the partners that would have been part of the secure real time platform information
+[00:24:15] sharing network.
+[00:24:16] So I'm not sure about M5 communication over the period of us, we can get back to that.
+[00:24:24] On the, I may just say something about the vendor and the nature of this project, there
+[00:24:29] were there were two main parts to the project.
+[00:24:32] There was a core functionality around image matching, essentially, so you are an intensity
+[00:24:41] matching.
+[00:24:42] And then there's how you then, the workflow was the minister mentioned at the start about
+[00:24:46] how you integrate that into these systems and the core functionality, you know, any
+[00:24:51] C would be regarded as global best practice.
+[00:24:54] They're actually that functionalities of the core of our existing system.
+[00:24:59] It's also, I believe, in DIAs, all of government solution, social recognition as a service.
+[00:25:05] So what was unique about this was building, asking the vendor to build that referral
+[00:25:11] that was, I understand, unique at the time.
+[00:25:13] And that was, as the minister said, the core mistake early on was to go down that
+[00:25:19] route.
+[00:25:20] So just to distinguish between the core technology that NEC holds versus this
+[00:25:25] particular workflow that was being developed.
+[00:25:27] So a very succinct supplementary, Vanessa, thank you, minister.
+[00:25:32] Yeah, have you any concerns in this project about fraud?
+[00:25:37] Is there any potential for that given that one of the project costs, as said, create
+[00:25:43] accounting.
+[00:25:44] So inconsistent financial reporting, make it a definitive view of actual
+[00:25:50] expenditure and movements of 4.44 million transferring between.
+[00:25:56] Are you confident that there has been no fraud in this?
+[00:26:00] Look, I can't speak to Ford, the PSC will do their investigation, but from the information
+[00:26:07] that I've been provided, what I can tell so far, and I still don't have a full picture,
+[00:26:12] and from what I've been told, things were done that required cabinet oversight in order
+[00:26:19] to keep it away from Cabinet.
+[00:26:20] So splitting the project into two parts again and keeping it like that, a required cabinet
+[00:26:26] oversight.
+[00:26:27] But for some reason, that decision was taken by the government's body overseeing
+[00:26:31] the project and kept away from ministers.
+[00:26:32] So all I can go by is the report that I received literally a couple of days ago
+[00:26:41] before you have now seen it, but this is part of the investigation that the PSC
+[00:26:45] will need to undertake.
+[00:26:46] OK, quickly grant.
+[00:26:48] Thank you.
+[00:26:49] Thank you.
+[00:26:50] It's a very confusing situation.
+[00:26:52] But then I'm just, what surprises me is that at no point within the ministry itself,
+[00:26:57] envy itself, that there was not a big red flags coming up to the senior management
+[00:27:02] level, particularly this project, it's seven years, it seems to be an ardent
+[00:27:05] long time to work through a project of this sort of nature.
+[00:27:10] Any comment on that?
+[00:27:11] I mean, I think this is where the review finds the serious failings in the
+[00:27:14] oversight and governance, that it didn't have the sufficient oversight.
+[00:27:18] In fact, decisions went around governance.
+[00:27:21] There wasn't sufficient reporting to ministers.
+[00:27:23] That wasn't even always correct when it did hurt to ministers.
+[00:27:28] So it's those systems and processes that were not in place, were not adhered to.
+[00:27:33] That is the review find that behind the failings.
+[00:27:37] Thank you.
+[00:27:37] I have a final supplement.
+[00:27:39] Thank you.
+[00:27:39] Since this finding, are there any other technology project systems and
+[00:27:43] processes that are being red flagged?
+[00:27:46] So we have a number of technology programs.
+[00:27:51] There is, I do recall, one of them not in the immigration space is subject to
+[00:28:00] examination at the moment about that one's on track. But that is why I want to leave an overall
+[00:28:04] stock take of all of the projects. Do they have the appropriate governance oversight,
+[00:28:09] reporting some ministers, if there are any concerns, we flag those up.
+[00:28:14] So for stock take, how far back is it going to look at?
+[00:28:17] That's the current project, all of the current in-train technology projects.
+[00:28:22] Okay, just before we move on, Ricardo.
+[00:28:25] Yeah, the reporters are pretty damning on any see the company.
+[00:28:29] And just from a quick search, it seems like it's used by several other countries.
+[00:28:35] Do you have any concerns based on the experience that in behind with this company that, you know,
+[00:28:43] this being used by other countries, which we have information sharing regimes with that
+[00:28:48] risks attached with us sharing information with countries that
+[00:28:52] have an alignment with a company that has had a multitude of issues with its ability to,
+[00:28:59] you know, deploy this kind of technology issues with cybersecurity.
+[00:29:03] And do you not have any concerns about the fact that other countries that we share information
+[00:29:08] with are using NEC as well? I'll start with high level and I'll get Nick to expand.
+[00:29:15] But if we had stuck with the original scope of buying the off the shelf project product,
+[00:29:22] it's very likely that none of this would have happened.
+[00:29:25] The core critical problem was in 2020 when MB took the decision to turn what was an off the shelf
+[00:29:32] perfectly usable IT system and merge it with a workflow system that had not been done before.
+[00:29:40] So the advice that I've received is that it is used by us, it's used by other countries
+[00:29:47] and we'll have to continue to use it. The critical failure was that merging that in hindsight
+[00:29:55] should never have happened. And that's what caused all of the potential problems, which is why we
+[00:30:00] we couldn't integrate it at the end and why it eventually
+[00:30:02] wasn't able to be integrated with the system.
+[00:30:04] Had it been integrated into the system,
+[00:30:07] then you would have seen some of those issues.
+[00:30:09] Yeah, it goes back to the best two parts.
+[00:30:13] Is the core technology, the ability
+[00:30:14] to do the facial matching, that's
+[00:30:16] what's used around the world.
+[00:30:19] It was this workflow path, and that's
+[00:30:21] where the cyber security issues come from,
+[00:30:23] because they come from interface with the rest
+[00:30:27] of the world.
+[00:30:27] Would you mind just expanding on exactly why
+[00:30:29] the relationship between immigration in New Zealand
+[00:30:31] and NEC was strained?
+[00:30:34] The bottom page forward just has a line on that,
+[00:30:36] but that seems quite serious, that not only was that a lot of this
+[00:30:39] was kept from the ministers, but that even throughout the
+[00:30:43] relationship between Ayn said and NEC was not good.
+[00:30:47] Do you mind just broadening what issues immigration in New
+[00:30:50] Zealand encountered in dealing with the company?
+[00:30:53] Yeah, I think this goes back to the
+[00:30:57] setting what the project was not set up well.
+[00:31:00] And so then what needed to happen
+[00:31:01] was a number of changes through the process.
+[00:31:05] It wasn't clear on the requirements at the start.
+[00:31:07] Again, there were a few thoughts about that.
+[00:31:09] And all of those things meant for a strange relationship,
+[00:31:12] because you're constantly changing what's required
+[00:31:14] and renegotiating.
+[00:31:16] It's those sorts of things all along the way,
+[00:31:21] trying to resolve those defects, perhaps differences
+[00:31:24] of view about how best to resolve those.
+[00:31:27] I'm not close to all the ins and outs,
+[00:31:28] but it's those types of things made for a very challenging
+[00:31:30] relationship.
+[00:31:31] As you saw, as I mentioned when I started this,
+[00:31:34] over 117 change requests does not make for a great relationship
+[00:31:40] or a stable project.
+[00:31:42] But I think that the key thing that the report finds
+[00:31:45] was around right at the very beginning,
+[00:31:49] the business case, lacked the detailed analysis
+[00:31:53] and required to make support decision making.
+[00:31:56] It lacked due diligence, market testing,
+[00:31:58] and despite the scale of complexity of the project.
+[00:32:00] So you can see that right from the business case, not being set up well, and then that
+[00:32:08] massive change of scope in 2020, essentially, of the Shelf Act and merged it with the workflow
+[00:32:14] system was a critical failure.
+[00:32:17] Before we move on, can I just ask why was the Minister not aware of the report for two
+[00:32:21] and a half months?
+[00:32:22] That's the one thing that's sticking out that hasn't been answered for me.
+[00:32:25] So that's on us. We received the report, and my focus actually at the time was fully
+[00:32:32] on the fuel response. The team at the time decided that it would be better to have a
+[00:32:37] response to the report at the same time reporting to Ministers. That was the wrong call, but
+[00:32:43] that's why that was made, and it took too long to get through.
+[00:32:46] Can I just note, though, in that preceding two months, there was no response provided.
+[00:32:50] Yeah, we've noted that.
+[00:32:52] Right. Next primary, new topic.
+[00:32:54] Thank you.
+[00:32:56] Two years ago, Minister, you substantially increased immigration fees.
+[00:33:00] Dumbled, doubled many of them, which was a big shock to many users of the immigration
+[00:33:07] system, but it was done on the basis that the system should be financially sustainable
+[00:33:11] and largely funded by its users. Less than two years later, the budget provides $31.2
+[00:33:17] million of ground support and access to an $84 million contingency.
+[00:33:22] What are the principal reasons that the system is currently not financially
+[00:33:27] self-sustaining? Were visa revenues low as an expected expenditure higher than expected?
+[00:33:33] The advice that I've received, and I'll get officials to come and speak to this as well,
+[00:33:38] the main contributing factor is the volume of the AEW visa was far, far lower than they predicted
+[00:33:49] over that time. They lower expected volumes. They also failed to take into
+[00:34:00] account the products that we don't charge for because of bilateral relationships or you'll know
+[00:34:05] you'll be aware of them as to why there's many of them and potentially a bit of an over-optimism
+[00:34:11] of what the visa volumes would be but I have been assured and I've been driving this myself to
+[00:34:18] ensure that we are improving our productivity and I've been advised that their internal budgets
+[00:34:25] have had good cost controls. It's not usual for a minister to get involved in operations
+[00:34:31] but when I discovered that, for example, the Christchurch branch had very low productivity
+[00:34:37] in terms of their job check, for example, they're processing on average of one a day or something
+[00:34:41] similar whereas Auckland were doing four a day, immediately ensured that that was dealt with
+[00:34:49] and so the systems and processes in immigration now are much different making sure we're improving
+[00:34:54] productivity. So while we've had declining numbers of visas over this difficult fiscal period
+[00:35:02] the team have been making sure that we are improving productivity and output so that
+[00:35:07] we are competitive. The issues lie with reduced numbers of visas and also which we probably
+[00:35:15] should have expected before we made the change. We had a massive surge, you may remember, in
+[00:35:20] visitor visa applications so a whole lot of visa applications massive surge took us a while to get
+[00:35:25] through but then obviously didn't see the benefits of those increases so the team have gone away
+[00:35:33] and ensured that they're on top of those now for the next review. Would you agree that it amounts
+[00:35:37] to a pretty significant failure of forecasting and if so what are you doing about improving
+[00:35:45] the department's financial forecasting? Well yes it is a failure and I think they will admit that
+[00:35:51] themselves and we've made sure that in the upcoming fee and levy review that all of the
+[00:35:57] things that were not calculated correctly will be
+[00:36:00] dealt with. I would say though that it is like Treasury encounter occasionally it is very difficult
+[00:36:07] to predict the future in terms of visa volumes. They do their very best. I don't think we definitely
+[00:36:14] didn't get it right. Could we have done better? Absolutely, but there is an element of crystal
+[00:36:18] ballgazing when it comes to visa volumes but I know that the team have gone away and worked
+[00:36:23] on what went wrong last time to make sure that that's moved out. So who do you expect to
+[00:36:27] ultimately bear the cost of restoring the immigration visa memorandum account? Employers,
+[00:36:33] migrants or taxpayers? Well it'll be the future users of the immigration system because we are a
+[00:36:39] self funding immigration system and those costs will be borne by future users of the immigration
+[00:36:47] system. So in saying that are you signalling hefty future increases in visa fees and levies to be
+[00:36:55] paid by migrants and employers over the next year or two? Not necessarily and this is outside of my
+[00:37:02] expertise and I can get the team come up and talk about it but we are of course forecasting
+[00:37:08] higher visa volumes and you may remember in 2021 when a similar write-off or similar loan
+[00:37:15] was done in terms of a write-off. It only accounted for part of the deficit of the two accounts.
+[00:37:22] The remaining balance of those accounts was borne by future visa holders and an increased
+[00:37:28] number of people coming through the system and that's what you will see here as visa numbers
+[00:37:33] pick up and we can already see that they're doing that that will also help. Do you have a plan to
+[00:37:38] restore the immigration system to a fully sustainable cost recovery basis? Yes we do
+[00:37:44] and that will be borne out by the future fee and levy review of course it's 100%
+[00:37:49] the fee and levy review that's coming up and the work that we're doing to improve our productivity
+[00:37:55] and that's what part of the big part of our future services moving everything on to a depth to get those
+[00:38:00] that productivity up and we saw that when we put the PRV visa on to ADEPT. We had huge increases
+[00:38:08] in productivity so that will be part of it but also making sure that we're staying on top of
+[00:38:14] productivity of our different offices and the team are doing a really good job of that.
+[00:38:20] Another supplementary, oh no, supplementary, Ricardo Menendez.
+[00:38:24] Yeah, thank you. You mentioned that there's a few
+[00:38:26] levers that could be used to our guests boost a dollar figure including higher intake of migrants
+[00:38:33] or higher fees. How are you hoping to address leveraging of a higher intake of migrants
+[00:38:42] to make up for this and where do you hope this would come from if part of the forecasting was wrong
+[00:38:48] and one of the solutions is to just have more migrants. Have you done any work to consider
+[00:38:53] where that revenue would be coming from? Well, can I bring my officials up?
+[00:38:59] It's less about deciding to have more migrants and more about what will the likely volumes be
+[00:39:04] in going forward. So making the system add up is a combination of the price, the visa fee,
+[00:39:12] the volume coming in and then the costs of the system and what the minister said is we need
+[00:39:18] to get better at our forecasting on the volumes and as the economy recovers, you would expect volumes
+[00:39:24] to be increasing and we need to not overestimate that which is what happened last time. We took too
+[00:39:29] much account of the recent surge at the time of the AWV visas and overestimated what was coming.
+[00:39:36] So we need to be careful and as the minister said, we've been strengthening some of the
+[00:39:39] how we do our forecasting. So that's the volumes and then the cost control is how do we
+[00:39:44] so our appropriation is not materially increasing over the coming years. We've been
+[00:39:49] keeping that constant as we look for these positive improvements. So we do as much cost
+[00:39:54] control as we can. We do our best forecasting on the dams, then the last part dams.
+[00:40:00] for what happens on price and over what timeframe
+[00:40:02] to be able to get back to a sustainable level.
+[00:40:05] Just got a different point of question.
+[00:40:07] Oh, okay, I have, yeah, okay.
+[00:40:10] Okay, just on page 180 of the vote labor
+[00:40:13] on the, facing some of your goals,
+[00:40:16] you have a new measure now on
+[00:40:19] that's replacing the number of people liable
+[00:40:20] for deportation who were deported
+[00:40:22] or departed voluntarily after compliance activity.
+[00:40:26] You've increased that number to 2,000
+[00:40:28] added status regularization.
+[00:40:30] Yes.
+[00:40:31] Would you, would you mind outlining
+[00:40:33] whether you, what the breakdown of those are
+[00:40:37] and whether that extra 500 would come
+[00:40:39] from status regularization
+[00:40:41] or, you know, what's it just mostly
+[00:40:43] a higher number of deportations that you're aiming for?
+[00:40:45] I will talk at a high level
+[00:40:47] and I've got Steve here who can talk to the detail.
+[00:40:50] In the past, the 1500 figure only included deportations
+[00:40:54] either forced deportations, people self-deporting
+[00:40:57] or voluntary removal, there's three different categories.
+[00:41:01] And part of our work is not only to deport people
+[00:41:05] but it's to regularize them as well,
+[00:41:08] which means, hey, you know,
+[00:41:10] have you put in a section 61?
+[00:41:11] Have you tried this route to try and get them back?
+[00:41:14] Especially if they've been here a really long time
+[00:41:16] they've stayed a long time
+[00:41:17] to try and get them back on a pathway of being here legally.
+[00:41:21] And that is a big part of our work
+[00:41:22] and it's never been reflected in those numbers.
+[00:41:24] And so increasing that to 2,000
+[00:41:26] to take account of the fact that
+[00:41:28] that is quite a big part of our work
+[00:41:29] and also to celebrate the fact that, yes,
+[00:41:31] we are getting people off being here illegally
+[00:41:34] and onto valid visas is important.
+[00:41:37] However, and I'll get Steve to talk to the detail,
+[00:41:40] but I do also want to state that it is my intention
+[00:41:43] and I've made it clear that when it is time to leave,
+[00:41:46] it is time to leave.
+[00:41:47] And we have increased our deportations year on year
+[00:41:50] on year, people who, and we always start
+[00:41:54] with our top priority and our priorities haven't changed.
+[00:41:56] Our top priority is those people
+[00:41:57] who have undertaken illegal activity.
+[00:42:00] so our criminals, then going down to people with character issues and then it goes down a scale
+[00:42:06] and predominantly the people that we deport, the people who are undertaken criminal activity,
+[00:42:11] Steve can talk to more of that and that is really important to ensure the integrity of the immigration
+[00:42:16] system and I stand by that and I'm really proud of the fact that actually we have been able to
+[00:42:20] deport more people over the last few years given that they are still working really very
+[00:42:24] much at the top of that priority scale. I'll get Steve to talk more about your question about
+[00:42:28] the breakdowns. Yes, thank you. We've tested that for a couple of years with sort of some business
+[00:42:37] measures so for the, I don't have the exact figures but I can give you a pretty good approximation,
+[00:42:43] so last financial year the measure was, we achieved about 2,200 what I would call resolutions,
+[00:42:55] I think about 1,200 of those would have been deportations and the other 1,200 were regularisations
+[00:43:03] and I, as the minister said, it's a legitimate part of compliance work to get people to comply
+[00:43:10] and complying can include getting back on track and regaining a lawful status so they,
+[00:43:19] another way of putting it I guess is that those people who were unlawful are now lawful
+[00:43:22] so they have complied. Just, the minister mentioned that, you know, immigration in New Zealand may offer
+[00:43:29] people a pathway to regularise themselves, how much are you practically offering those pathways
+[00:43:33] or, you know, if they're petitioning no data, do you actually practically ever
+[00:43:38] offer those routes to people? So the compliance officer's practice is to
+[00:43:43] case manage individuals and part of that is quite an extensive understanding of the
+[00:43:50] personal circumstances of the person, so when a compliance officer has done it,
+[00:43:55] for example, a humanitarian interview or they've had an opportunity to engage.
+[00:44:00] with the client, they may invite that person to apply for Section 61.
+[00:44:07] You know often that's happening because my experience with constituents is that
+[00:44:10] that has not been the case, that most of the time people are just being basically asked to arrange
+[00:44:18] a way to go back home, not to actually have the compliance officer offer sort of like a
+[00:44:23] Section 61 route or to guide them that they can go to the Minister.
+[00:44:27] How often are you actually offering those regularization pathways because I'm assuming
+[00:44:31] the numbers that you have lying around the breakdown will come from people going to
+[00:44:33] lawyers, to MPs, to other parts of the sort of immigration ecosystem but not so much
+[00:44:39] immigration in New Zealand actually offering those regularization pathways.
+[00:44:43] That's quite a lot of detail but I'll go back to the statistic of half of the people that we engage
+[00:44:49] with get back onto a compliant pathway regularization and that is as a result of the case
+[00:44:56] management of the compliance officers. Okay, cool. We have a supplementary from Pamje
+[00:45:01] and we'll move on to this. So the investment targeting overstay is here and the estimated
+[00:45:07] number that is known to us is around 21,000. So I want to know how are you planning to measure
+[00:45:14] success. So are we, we should be looking forward to seeing the number coming down
+[00:45:19] in how many years, what's going to look like. Can I make an opening statement before I hand over
+[00:45:24] to Steve? We have a historic problem. When the borders reopened the best review lays this out.
+[00:45:36] We had, I mean I said at the time in opposition our borders were compromised. We weren't properly
+[00:45:42] verifying documents or applying the proper risk management practices and at that time
+[00:45:48] we had lots, thousands of people into the country, many of which who are still here,
+[00:45:55] who are coming up to the end of their maximum continuous state and may already have
+[00:46:00] become illegal or who will shortly be.
+[00:46:02] So we have quite a big historic issue
+[00:46:07] that is coming upon us.
+[00:46:09] I'm aware of it, Steve's aware of it,
+[00:46:12] but I just wanted to make the point
+[00:46:14] before we go into that detail,
+[00:46:16] that not only are we dealing with people
+[00:46:17] who may have been here for a very long time,
+[00:46:20] but we're also dealing with people
+[00:46:21] who came in during a period of time after COVID
+[00:46:25] and after the borders reopened,
+[00:46:27] that I am expecting that we will have to intervene.
+[00:46:34] So to answer your question
+[00:46:35] around the immigration unlawful list,
+[00:46:37] the list itself is used for a number of purposes,
+[00:46:40] but it's not, we don't use it to determine who we deport.
+[00:46:44] It's used to understand statistical analysis
+[00:46:48] and to help policy development.
+[00:46:50] It is based on a number of data sets
+[00:46:52] and we're constantly working to refine those data sets
+[00:46:56] and to answer your question,
+[00:46:59] do we want to come down?
+[00:47:00] Of course we do, yeah.
+[00:47:01] It's used, it's an estimate,
+[00:47:04] but as a measure of success,
+[00:47:06] I would expect it to reduce over time.
+[00:47:09] Okay, thank you.
+[00:47:10] New primary fill, Twyford.
+[00:47:12] I'm keen to know the latest numbers
+[00:47:15] on the amount invested.
+[00:47:20] How much of that has been invested so far
+[00:47:23] has gone into vehicles like managed funds,
+[00:47:26] private credit listed entities, bonds
+[00:47:28] and equivalent structures?
+[00:47:33] You can start up, I'll just need to write.
+[00:47:35] Yeah, as at 31 March,
+[00:47:39] there's 1.48 billion actually committed.
+[00:47:44] Yep, a further 2.2 in the pipeline,
+[00:47:47] but of that 1.48 billion that is committed,
+[00:47:51] the split between growth and balance
+[00:47:53] is 982 million for growth and 492 for balanced.
+[00:48:00] within growth around overall managed funds is $725 million and then there are various sub-categories
+[00:48:09] of that. How much directly invested in New Zealand businesses? $20 million of the $982
+[00:48:16] million in direct investments. Okay. Can I make a point here? Because I know
+[00:48:22] where you're going Phil. All of this money is flowing down into New Zealand businesses while
+[00:48:31] a large chunk of it is going into private credit. We keep a very, very close eye. We are
+[00:48:36] re-accrediting businesses funds every three months to make sure it's being deployed. We're
+[00:48:43] watching where it's being deployed and there are many companies who do not want to give away
+[00:48:48] equity. In fact, I was down in Dunedin with one United Machinists recently where they had
+[00:48:52] investment from private credit. Family business do not want to give away equity and need a line
+[00:48:58] of credit that is flexible that allows them not only to purchase the technology that they want,
+[00:49:04] but also to send their people offshore to do professional learning and development,
+[00:49:08] to do marketing, which they would never get from the bank. So while you're asking a question
+[00:49:12] about flowing directly into businesses, all of these funds are flowing into businesses.
+[00:49:17] So off the $725 million I think that you said have gone into a range of different vehicles.
+[00:49:24] Of that money, how much has that has actually been invested through credit or equity
+[00:49:31] and it's not sitting in those vehicles? Well, as I've just said earlier to you,
+[00:49:36] we do a check every three months to make sure that money is being deployed.
+[00:49:42] So we've got a really careful balance because if we say to companies you need to deploy it
+[00:49:47] immediately, they'll make poor decisions. So there is always a flow of money that's sitting
+[00:49:52] waiting to be deployed, but we go and check all of these funds every three months to ensure that
+[00:49:58] they are deploying and when
+[00:50:00] they are not, they're out. So I think it's two. How much has it gone out?
+[00:50:07] You're checking every few months, you must know how much has gone out and how much is
+[00:50:11] still wet. I've got an update from Inves New Zealand. Remember, I'm not responsible for
+[00:50:17] Inves New Zealand, but they update me. So they've just gone out and done their re-accreditation
+[00:50:22] and they're about to come back to me next month to let me know what the state of play
+[00:50:28] is at the moment. But the money is flowing constantly in and out, but I'm
+[00:50:32] going to get Stacey to come up because Stacey is our resident expert and sits
+[00:50:36] across the top of this. She'll be able to explain more about it. It's not as simple
+[00:50:40] as being able to go this much is sitting here and this much is out because
+[00:50:43] it's a constant flow, but I'll let you explain it. Yeah, I don't have the exact
+[00:50:47] figures of how much has been deployed and what is sitting in cash, but we'll
+[00:50:53] just reiterate what the minister has said. You don't need to reiterate it, but
+[00:50:57] my question is if you're checking every few months about how much money has gone
+[00:51:03] out either in form of credit or equity to New Zealand businesses, you must know
+[00:51:08] at any one point in time. Well, we'll be able to tell you next week.
+[00:51:11] Why don't you know now? Isn't that important information? Yeah, I just don't
+[00:51:15] have the figures to very quick to want to generate headlines about four
+[00:51:19] billion dollars has been committed and pipeline funds, but you can't tell
+[00:51:24] the committee. You can't tell Parliament how much of it is actually
+[00:51:27] we can tell you the old fill will tell you the old figure and we'll be able
+[00:51:31] to tell you the new figure next week. But I am confident because I made
+[00:51:35] the checks be every three months rather than what did we start out every
+[00:51:39] six every three months. And people are being having their accreditation
+[00:51:44] revoked when they are not deploying and we're doing it quickly. So they
+[00:51:48] know, but it is always that balance to make sure we're not on top of
+[00:51:51] them too much and saying, hey, you've got to deploy immediately because
+[00:51:54] they will make bad decisions and bring the entire thing into
+[00:51:56] disrepute. But from the information that we've been given
+[00:52:00] Every time I get updated, every three months,
+[00:52:02] money is being deployed.
+[00:52:03] And if it is not, people are being budgeted out.
+[00:52:05] Next week, we'll be able to provide this committee
+[00:52:08] with the up-to-date figures of deployment.
+[00:52:11] OK, but at the moment, what you've told us
+[00:52:13] is that of $1.48 billion committed,
+[00:52:18] $20 million has been directly invested
+[00:52:21] in New Zealand businesses.
+[00:52:23] And you can't currently tell us
+[00:52:25] how much has been deployed of the $725 million
+[00:52:29] that has gone to a range of different financial vehicles.
+[00:52:32] We'll get that information to you.
+[00:52:33] There will be the vast majority, but yes, we can get that.
+[00:52:35] Most of it will have gone out.
+[00:52:37] All right, I'll look forward to seeing that.
+[00:52:38] But like I say, we keep on top of it,
+[00:52:41] and all of that money is flowing through
+[00:52:42] into New Zealand businesses.
+[00:52:44] Would you agree that if money is sitting around for a year
+[00:52:46] in a vehicle, which has been,
+[00:52:48] there have been news reports that that has actually happened,
+[00:52:51] that is a big chunk of the three-year period
+[00:52:54] that these funds are committed?
+[00:52:56] Well, it's important here at this point
+[00:52:57] to make the point that the previous settings,
+[00:53:00] you could have your money sitting in cash
+[00:53:03] for 75% of the time,
+[00:53:06] but it only had to be fully invested
+[00:53:07] for one year of those four years.
+[00:53:09] We changed that.
+[00:53:10] We had to discuss your scheme.
+[00:53:11] I know, but I'm just making the point
+[00:53:13] that we wanted money to be deployed as soon as possible.
+[00:53:16] It was not acceptable to me
+[00:53:18] that under the previous settings,
+[00:53:19] that you only had to have your money
+[00:53:21] fully deployed for one year.
+[00:53:22] That was not acceptable.
+[00:53:23] So we've moved it right back to the start
+[00:53:25] and said the clock starts ticking straight away,
+[00:53:29] but that has been part of the success of this,
+[00:53:33] not only that, but some of the other system changes as well.
+[00:53:37] It is phenomenally successful.
+[00:53:39] I mean, there's over $4 billion of investment
+[00:53:41] that has flowed into the country because of this.
+[00:53:44] A lot of it's still waiting to be deployed
+[00:53:46] because we're going through the application process.
+[00:53:51] But the one point.
+[00:53:53] All right.
+[00:53:54] All right.
+[00:53:55] That's been deployed already as significant.
+[00:53:57] Well, we look forward to seeing the number that's actually...
+[00:54:00] On that point you made about money that's sitting around for a year, I'll get you to
+[00:54:05] speak to that more broadly because wherever we see that happening, we take immediate action
+[00:54:11] and you'll remember dims.
+[00:54:14] We closed down dims immediately.
+[00:54:16] We gave the bad actors plenty of warning and when they did not comply, I made a decision
+[00:54:23] and they were told the next day that it was over.
+[00:54:26] We're taking a very hard-line approach to anybody who is trying to get around the system
+[00:54:32] and sit on cash and that's evident by the fact that we're checking every three months
+[00:54:36] and if money is not being deployed, we are taking people's accreditation away to ensure
+[00:54:41] the integrity of the system but it is a very careful balance to make sure we're not pushing
+[00:54:45] them to deploy too quickly, giving them a reasonable time.
+[00:54:49] How long is it acceptable for money to sit around and not be deployed in your view?
+[00:54:56] So what invest NZ does is ask for managed funds around what is their pipeline.
+[00:55:03] So the money coming in, have they got a plan to match that pipeline?
+[00:55:08] If they don't then discussions they had between those managed funds and the options are
+[00:55:13] to suspend or revoke them from the list.
+[00:55:17] So they would expect to see firstly that pipeline and then a change in deployment
+[00:55:23] every three months.
+[00:55:26] So that's discussed.
+[00:55:28] We have a monthly meeting with Minister Stanford and invest NZ so it's actively being monitored
+[00:55:35] and the more information we get then we can take that to provide advice in terms of should
+[00:55:41] the settings change to ensure that money is going and meeting the intent of this visa.
+[00:55:47] We have a review.
+[00:55:48] It was supposed to be an 18 month review and I pulled it forward to a 12 month review
+[00:55:52] coming up to make sure that we stay on top of all of these issues, the integrity of the
+[00:55:57] system and making sure that money is being deployed.
+[00:56:00] is my top priority which is why I meet with invest New Zealand officials every month to
+[00:56:04] understand or as often as I can to understand money to be deployed and take very quick
+[00:56:09] decisions and at the time for the people who were involved in DIMMS, pretty unpopular
+[00:56:15] decision for them but maintaining the integrity of the system and making sure money is being
+[00:56:19] deployed is my top priority.
+[00:56:20] We have a very quick supplementary from Grant and Karl who have got to move on to our
+[00:56:24] final primary.
+[00:56:25] Thank you. When you set up the activist plus scheme or readjusted it, you
+[00:56:30] would have had expectations of how you know what levels of success would look
+[00:56:34] like. How do they compare with we have actually gone?
+[00:56:38] It has exceeded what we expected. I think I remember saying we wanted about 200.
+[00:56:43] We expected to see 200 applications in the first year and I think we blew past
+[00:56:47] 600. That is good but it also creates challenges for us as well.
+[00:56:54] Recently we made some announcements around adding philanthropy and with this
+[00:56:59] 12-month review we will be looking at what else we need to do to ensure that
+[00:57:03] there are enough acceptable investments in growth to make sure that there are
+[00:57:07] plenty of opportunities for this $4 billion that is coming down at us.
+[00:57:14] Of course not all that $4 billion is going into growth but we're keeping a very
+[00:57:18] close eye on it. We keep a very close eye on all of those managed funds and where
+[00:57:24] they are deploying to. It has been really good to see that we have had a
+[00:57:28] number of infrastructure funds pop up that are now investing in things like
+[00:57:37] aged care and student accommodation which is new and some of the private
+[00:57:40] credit is now going into infrastructure as well. As it matures, that
+[00:57:47] is why I am a bit nervous to make too many changes and muck around with it when it
+[00:57:51] is still maturing and we are starting to see different things come online.
+[00:57:55] We saw a very early start people were very nervous about direct
+[00:57:58] investments in private equity but that has
+[00:58:00] people are starting to take more risks.
+[00:58:02] So I am a little bit nervous about touching it too much,
+[00:58:06] just while it is still maturing,
+[00:58:07] but we're seeing some really incredible outcomes
+[00:58:09] and businesses that are being able to expand and grow
+[00:58:12] and have new export markets and do marketing
+[00:58:15] and all sorts of things with funds
+[00:58:16] that they wouldn't have had otherwise.
+[00:58:18] And private credit, especially in New Zealand,
+[00:58:20] was very immature and it is now being able to mature.
+[00:58:23] And we are keeping a very close eye
+[00:58:25] on exactly where it's all going
+[00:58:27] to make sure it's doing what it should be.
+[00:58:29] Just the private credit area is an area
+[00:58:32] that has been, that growth capital
+[00:58:35] has been underdone part of the capital market.
+[00:58:37] So actually, this is quite a positive sign
+[00:58:39] to see that that's growing.
+[00:58:40] There's actually 96 million in venture capital.
+[00:58:42] That's an area that's a key part of the early stage
+[00:58:45] as well, so there's some very promising signs.
+[00:58:46] Okay, final step from Carl and then final question.
+[00:58:48] So minister, just to be clear,
+[00:58:51] where people are not following the rules,
+[00:58:53] you are revoking those visas.
+[00:58:54] So there is that accountability.
+[00:58:57] This goes back to compliance.
+[00:58:59] I can get Steve back.
+[00:59:01] In this budget, you will see there was funds set aside
+[00:59:04] for more compliance.
+[00:59:06] Predominantly, that compliance is around
+[00:59:11] for practices by employers.
+[00:59:14] We have a huge list that we struggle to get to
+[00:59:18] with the current teams.
+[00:59:20] And this introduces three new teams,
+[00:59:22] which will allow us to do a lot more of the investigations
+[00:59:25] and the compliance and issuing of infringement notices
+[00:59:28] to ensure that we have good behavior of our employers,
+[00:59:32] but also obviously in doing that work,
+[00:59:37] people who are working illegally
+[00:59:39] because they've been allowed to
+[00:59:40] by the business who's employing them, well, slash doubt.
+[00:59:43] But ultimately this funding is to ensure
+[00:59:46] that the integrity of the system
+[00:59:47] is maintained via the employer.
+[00:59:50] Come on.
+[00:59:51] Final question from Ricardo.
+[00:59:53] What preparations, if any,
+[00:59:55] is your office making to deal with the increased number?
+[01:00:00] of ministerial intervention requests that will will likely come as a result of the enhanced
+[01:00:06] risk management amendment bill due to people not being able to go to the IPT.
+[01:00:10] Well, some of the many of those people still will be able to remember we talked about the fact
+[01:00:14] that a lot of those people will be given one day visas to be able to access the IPT. So
+[01:00:20] a large portion of those will actually still end up in the IPT, especially those people who are
+[01:00:26] very long, long-term overstages, a bank chunk of those. I can get the officials to talk more to
+[01:00:32] this, but whenever we see volumes increase in ministerials, we increase the resource available
+[01:00:39] through our delegated decision makers. So there's a range of things that can happen.
+[01:00:43] So you're not expecting to change any of your processes in your office on how you handle
+[01:00:47] ministerial intervention requests as a result of the bill?
+[01:00:50] I don't deal with ministerial intervention requests.
+[01:00:52] Well, your associates work, yeah. Okay, we'll just then move on to who we have next,
+[01:00:58] and we've actually come to the end of our time. Wonderful. Thank you very much,
+[01:01:02] minister and to the officials. I appreciate your participation. We have the associate minister
+[01:01:07] next. I'm assuming most of the officials will be here, but I'll let you reset as you
+[01:01:22] go.
+[01:02:01] Good morning, welcome, Casey, the Associate Minister for Immigration.
+[01:02:12] We have you here for 40 minutes, and to the officials who have already been with us.
+[01:02:18] Thank you for staying on.
+[01:02:20] We have it with 40 minutes, my calculation, about two minutes for introductory remarks.
+[01:02:26] We'll leave that to you and then we'll go to questions after that.
+[01:02:29] Thank you.
+[01:02:30] Good morning, Chair and Minister of the Committee.
+[01:02:33] As Associate Minister of Immigration, I'm responsible for our refugee program and for the work combating,
+[01:02:38] trafficking and persons.
+[01:02:39] I'm just going to make some brief comments.
+[01:02:42] The nature of forced displacement and migration continues to evolve, with record numbers of
+[01:02:46] people worldwide seeking safety and better opportunities.
+[01:02:50] As global responses change, New Zealand is now the third largest resettlement country
+[01:02:55] after Canada and Australia have been menstruating sustained leadership in an increasingly uncertain
+[01:03:00] international environment.
+[01:03:01] I'd like to stress that that isn't the third largest per capita, with the global system
+[01:03:07] under strain.
+[01:03:08] New Zealand continues to meet its resettlement commitments, and we take the third largest
+[01:03:11] number of UNHCR refugees.
+[01:03:16] Our approach remains rooted in our values of fairness, dignity and support for those
+[01:03:20] in need.
+[01:03:21] If we review our strategies and programs from the refugee quota program, family support and
+[01:03:25] our work with asylum seekers and victims of trafficking, we reaffirm the dedication to
+[01:03:30] providing pathways for protection and integration.
+[01:03:34] New Zealand maintains a strong and long-standing relationship with the UNHCR, working together
+[01:03:38] to support and protect the rights and wellbeing of refugees and displaced populations
+[01:03:44] globally.
+[01:03:45] I'm pleased that INZ has met the annual target of proving 600 people under the Refugee
+[01:03:51] Family Support Programme and the Refugee Quota Programme, reaching the on-track
+[01:03:56] to meeting the 1500.
+[01:03:58] I'm also pleased to inform you of
+[01:04:00] progress made of those individuals who have been waiting in the Tier 2 registration queue.
+[01:04:05] As at May 2025, there was 3,737 people in the Tier 2 registration queue. As at the same
+[01:04:12] date this year, the number has dropped to 2,180. Finally, as you know in December 2025,
+[01:04:18] the government released the new All of Government Transnational Serious and Organised Crime
+[01:04:23] Strategy and Action Plan. This aims to create a more cohesive response to transnational
+[01:04:27] Serious Organised Crime. One of the actions in the strategy pertains to trafficking in
+[01:04:32] persons with INZ leading the development of a standalone Trafficking in Persons National
+[01:04:36] Action Plan. This plan will provide a prioritised and coordinated multi-agency
+[01:04:41] approach to enhancing New Zealand's response to trafficking. Thank you.
+[01:04:44] Thank you very much. We have a first question from Phil Twyford.
+[01:04:47] Good morning Minister. I wanted to ask you about the Refugee Family Support
+[01:04:52] category. The Immigration New Zealand's Refugee Survey makes it very clear that
+[01:04:58] family connections are among the strongest determinants of successful refugee
+[01:05:04] settlement points made very clearly in the report. In light of that, it's good
+[01:05:11] to hear that progress has been made on working through the pool of registrations
+[01:05:16] for the Refugee Family Support category. Of the reduction from, you noted, from
+[01:05:22] 3,725 down to 2,180 in the pool, how many of those were registrations that were
+[01:05:31] cleared because people had aged out or moved to Australia? How much of
+[01:05:37] that reduction is due to people who have been processed, their registrations
+[01:05:42] have been processed and have led to sponsorships? Yeah, and I will confirm
+[01:05:45] that the sponsor is no longer eligible to be a sponsor. There's been a range
+[01:05:52] of things that have impacted on that total number. I would refer to the fact
+[01:05:57] that we've had 80...
+[01:06:00] registrations which is 316 people have resulted in an invitation to apply to apply 36 registrations
+[01:06:07] which is 185 people were declined and I might return to officials around their numbers of
+[01:06:14] sitting outside of that. So yes tier 2s do have a reasonably high decline rate
+[01:06:19] and when we assess that sponsor for eligibility it's around half of registrations and a quarter
+[01:06:23] of applications when they get through to RTA. There are lots of reasons why as you say some
+[01:06:29] of them why they don't meet instructions any longer sometimes they no longer live in New Zealand
+[01:06:35] sometimes they don't meet the criteria to have lived here in the last three years and sometimes
+[01:06:40] their dependence the people they want to sponsor have aged out. So just want to be clear.
+[01:06:45] Just a quick clarification how many were aged out proportion-wise? So you didn't mention that sorry?
+[01:06:51] I'm not sure exactly but I think it's around 20% but I'd have to check.
+[01:06:56] Yeah so I think it's 1,545 is the reduction if my math is right. How many of those of those of that
+[01:07:05] 1,545 are progressing through the system when the distribution is being processed and how many
+[01:07:11] lead to actual sponsorships? So the actual 60 there was 15 applications which represents 60 people
+[01:07:20] were approved and there's 88 registrations representing 316 people of results and invitations
+[01:07:29] to apply. Okay right thank you. Based on that experience over the last year do you have
+[01:07:35] a better sense than you did a year ago of the waiting time the average waiting time for people
+[01:07:42] in the pool of registrations? I think the challenge is even those that have been invited
+[01:07:46] to apply we still estimate about three years to work through those invitations to apply so
+[01:07:55] we still believe there's a number of years to work through that's why we're
+[01:08:00] still not reopening the category. So three years to process from when they're invited to apply.
+[01:08:10] Then these people have been waiting for how many years on average?
+[01:08:15] The queue isn't, the people in the queue were pulling at the moment were waiting for nine years.
+[01:08:18] For nine years. When he said in teen when it was last open. Right. But there's two things that
+[01:08:23] that will determine the timing. So one is how many tier ones come in because that's perpetually open
+[01:08:30] and we we have to prioritize those because they're people with no immediate family in New Zealand.
+[01:08:34] And the second one is the conversion rate. So we we put out the first large tranche of ITAs
+[01:08:40] invitations to apply for tier two in September last year and they have 12 months. So we won't
+[01:08:45] know until September how many of those are lapsing and how many are converting into
+[01:08:49] residence applications. So that's there's quite a lot of uncertainty in our forecast.
+[01:08:54] So so given your refugee report really underlined how critical family connections are for successful
+[01:09:02] settlement. Have you asked for advice on what it would take to clear the backlog
+[01:09:11] within a reasonable timeframe and reopen tier two for registrations?
+[01:09:16] It is actually beyond that. I've actually it is part of the Immigration New Zealand's policy work
+[01:09:22] to actually review the policy positions on this. So it is in this year's policy work program for
+[01:09:28] Immigration New Zealand to actually look at this whole system because as you say this category
+[01:09:34] isn't I don't think it's fit for purpose. Yeah. And I think it's one something we've
+[01:09:40] been grappling with for a long time and given exactly that point that we are trying to
+[01:09:46] optimise the settlement and settle as well as possible. I think this this program and those waiting
+[01:09:53] and because we've had people waiting so long. Yeah. You don't want to open it to new people until
+[01:09:58] they're waiting.
+[01:10:00] has been worked through. So this is why Immigration New Zealand, we have committed that to the policy
+[01:10:05] work to be undertaken this year. And Minister, so for that policy work, are you considering both
+[01:10:13] options that might accelerate and expand the opportunities for settlement under tier two,
+[01:10:19] as well as options that might truncate it and reduce options for settlement?
+[01:10:25] Well, I think the first principle basis is that exactly as you said, we want people to have the
+[01:10:30] best outcomes for settlement in New Zealand and we know that family is an important part of that.
+[01:10:36] I don't want to predeterminate or direct where this policy work may take us, but as I've said
+[01:10:43] previously in this committee, I think it's really unfair to have this system where people are
+[01:10:49] waiting so many years on the hope. And given that we've, you know, this is the first time
+[01:10:54] we've had a big tranche. So I think that's the whole process around what is the best way to support
+[01:11:02] family unification within the program that we've got. I accept that you agree it's important,
+[01:11:09] but you could make a failing or problematic policy less problematic in a policy sense
+[01:11:17] by truncating and reducing the opportunities. Or you could resource it up and expand it and
+[01:11:23] make those opportunities more accessible or create more opportunities. Both are logically possible,
+[01:11:28] right? Yeah, exactly. Both are logically possible.
+[01:11:31] Well, I mean, those both options, one has significant budget implications. So I think they
+[01:11:38] are presentable as one of those options, but it is again, you know, what is the commitment
+[01:11:45] that we can make as a government to expanding this program and what is the sacrifices you make
+[01:11:50] to achieve that? So I'm not preempting anything around what is the position,
+[01:11:56] but as a policy development process, of course, we've costings attached.
+[01:12:00] both programs. So I'm not saying one or the other, I'm just saying that we need to work through
+[01:12:05] the policy settings in this space.
+[01:12:08] Are you finally on this? Are you expecting to have policies that might make its way to cabinet
+[01:12:12] before the end of the year?
+[01:12:14] Not within this term, no.
+[01:12:15] Thank you.
+[01:12:17] Ricardo Menendez-Bach.
+[01:12:18] Yeah, thank you. Minister, when you mentioned that these would have significant budget
+[01:12:22] implications, have you actually explored these budget implications? So obviously,
+[01:12:29] we're not the wiser of how much money would need to be put into it.
+[01:12:33] It would be impossible to explore budget obligations when we don't have policy
+[01:12:38] settings to explore. It would be, we have to have policy settings around
+[01:12:42] waters that we're trying to achieve, and then that is costed, but we're not at that stage yet.
+[01:12:47] Councillor Humfryes.
+[01:12:50] Thank you. The community refugee sponsorship scheme. Has cabinet made a decision on the
+[01:12:58] long-term future of the forwards program?
+[01:13:01] No, there's no decisions as yet. We are progressing, as I've said last time, to get to that point.
+[01:13:07] I'm looking forward to taking a paper to cabinet to get that through,
+[01:13:12] but no decisions have been made and no cabinet paper has been put forward as yet.
+[01:13:15] So the contract for Host International, who have oversight of the program,
+[01:13:19] runs out I think in September. Has MV assessed the risk and the potential cost of lost
+[01:13:27] expertise within the program? There's 28 participating community groups who have
+[01:13:31] now been left hanging for a year with no certainty of funding or support.
+[01:13:36] Are you concerned that you're going to lose people's, you're going to lose momentum,
+[01:13:40] but you're going to lose those capability and commitment to the program?
+[01:13:43] Yeah, and that is, I mean, we have maintained engagement with the sector,
+[01:13:48] and INZ has been maintaining engagement, but until I have
+[01:13:52] a cabinet decision about the direction of travel, yeah, that is, but we are confident that
+[01:14:00] the number of people that have been engaged in the trial program continue to be advocating
+[01:14:05] for the program and I'm confident that they will continue to be available once we've made
+[01:14:09] cabinet decisions.
+[01:14:10] Are you thinking you'll go to cabinet this year, in the next four years?
+[01:14:14] Oh yes, definitely.
+[01:14:15] And within this month I'm hoping to get through cabinet within this month and be able to make
+[01:14:21] some announcements once.
+[01:14:22] Thank you.
+[01:14:23] Yeah, the question's been this.
+[01:14:26] Yeah, something else, do you want to go?
+[01:14:28] Bye bye.
+[01:14:29] Bye bye.
+[01:14:30] I'll try to.
+[01:14:31] Radio New Zealand reported recently that around 20 asylum seekers have been detained in corrections
+[01:14:37] facilities.
+[01:14:41] Since January 2024, how many asylum seekers have been physically accommodated in corrections
+[01:14:47] facilities?
+[01:14:48] I think I'll have to refer to officials for the number.
+[01:14:52] I can tell you that since the decision making, the freedom of movement decision making panel
+[01:14:59] was established in 2022 that 21 individuals have claimed asylum while already subject
+[01:15:06] to warrants of commitment with one individual claiming asylum during the process of obtaining
+[01:15:10] a warrant.
+[01:15:11] So where a claimant is in detention under a warrant of commitment, when they claim asylum
+[01:15:16] the panel's in principle decision in all cases is to have them released on conditions.
+[01:15:21] However in some cases this kind of occur immediately because we have to find them suitable
+[01:15:24] housing for which they can be released.
+[01:15:27] So we try and do that as soon as possible.
+[01:15:29] I know that doesn't quite answer your question in terms of the timing, but.
+[01:15:33] So since 2022, 21 individuals applied for asylum while they were already subject to a warrant
+[01:15:42] of commitment.
+[01:15:43] That's right.
+[01:15:45] What kind of warrant of commitment and for example would they have been subject
+[01:15:48] to?
+[01:15:50] I don't have that data, I'm afraid.
+[01:15:52] But an immigration related warrant.
+[01:16:00] Okay, so the decision-making panel decided that asylum seekers should not be detained.
+[01:16:13] At what length of time were these 21 individuals held?
+[01:16:17] How long were they held in prison before?
+[01:16:21] I think the specificity of that data would have to come back to you and WPQ.
+[01:16:28] We don't have it at hand.
+[01:16:29] I don't have all the data for all 21.
+[01:16:31] Did I hear correctly that the incentive of the policy would be to have people released as soon as possible?
+[01:16:40] Yes, and I think there were some changes to the Immigration Act this February
+[01:16:45] to improve protections for people that have claimed refugee or protected person status
+[01:16:49] and are subject to a warrant of commitment.
+[01:16:52] So I think this was recommended in the KCW.
+[01:16:57] So it has bespoke settings for the detention of asylum claimants
+[01:17:02] and tries to take account of their particular vulnerabilities.
+[01:17:05] So during this period, my right is thinking that there have been no detention of asylum seekers
+[01:17:19] in corrections facilities unless they were already subject to a pre-existing warrant of commitment.
+[01:17:25] That's my understanding.
+[01:17:26] OK. What are the circumstances where one of these 21 asylum seekers,
+[01:17:33] what justification would there have been to keep them in prison?
+[01:17:38] It's just a case of finding them accommodation that they can move to
+[01:17:41] so we can't let them out to make them homeless.
+[01:17:44] So that's the consideration.
+[01:17:46] We try and do it as fast as possible,
+[01:17:47] but it depends a little bit about where in the country they are.
+[01:17:50] If they're in Auckland, it's quite a lot easier.
+[01:17:51] We have a...
+[01:17:52] So do you think it's likely that it would be a few days
+[01:17:56] or are we talking weeks or months that they would have been detained in corrections?
+[01:18:00] I'd say a few days to two weeks, but not longer, typically.
+[01:18:03] It's certainly something we've had to do.
+[01:18:06] And we can come back with the data for the next time.
+[01:18:08] We'll ask that you, through the chair,
+[01:18:10] that you would bring the committee a breakdown of,
+[01:18:15] obviously, anonymised data of those 21 individuals.
+[01:18:18] Certainly.
+[01:18:18] How long, how many days they would tell them corrections
+[01:18:21] for some of these, and what the justifications were.
+[01:18:27] Right?
+[01:18:28] Yep.
+[01:18:30] Right.
+[01:18:31] Oh, it appears we have no further questions.
+[01:18:33] Yeah, I do.
+[01:18:34] You do?
+[01:18:35] Oh, there we go.
+[01:18:35] OK, Phil, you keep going.
+[01:18:36] Yeah.
+[01:18:37] So, Minister, in your opening remarks,
+[01:18:39] you talked about what's been a pretty extraordinary deterioration
+[01:18:46] internationally in the way that countries
+[01:18:48] approach forced displacement.
+[01:18:50] The kind of bizarre outcome that New Zealand is now
+[01:18:53] the third largest re-severment country, which
+[01:18:57] never believed that five years ago or ten years ago.
+[01:19:03] And I just, my question is really whether you or members
+[01:19:07] of the department have what about what needs to change,
+[01:19:11] given that the international environment's been deteriorating
+[01:19:15] so sharply, the 1951 Convention is sort of more or less
+[01:19:22] falling apart before our eyes.
+[01:19:24] And yet there's not quite a record.
+[01:19:27] There's been a slight reduction in the number of people displaced
+[01:19:29] globally, but it's still in the region of, you know,
+[01:19:31] between 110 and 120 million people.
+[01:19:36] How should a country like New Zealand be responding to this
+[01:19:40] kind of crisis?
+[01:19:42] It was actually, I had the privilege of visiting Geneva
+[01:19:45] and visiting UNHCR and Red Cross earlier this year,
+[01:19:49] I think it was.
+[01:19:51] And I think that there is, you know, in my discussions with
+[01:19:55] UNHCR and you probably all have found it, there is huge work
+[01:19:59] that can...
+[01:20:00] be done to strengthen countries to allow people to remain or return. I think that that's a pathway
+[01:20:06] of work that is important in this space. From my discussions with UNHCA and Red Cross, the
+[01:20:17] economic component of those refugees, so it's moving because they can't grow food, etc.,
+[01:20:22] those sort of components is a significant issue. So I think the more we can do around our
+[01:20:30] leaning into stabilising these environments so that people aren't forced to leave. I think there is
+[01:20:38] work in that space that will continue to be very important. I think the companion pathway work,
+[01:20:45] which has now talked about cause, a number of countries are working on those companion pathways,
+[01:20:50] those other options, so skill migration and those sort of beyond the refugee placement
+[01:20:58] program, those other opportunities, workforce mobility, that sort of activity. So there is a
+[01:21:06] range of things that I know and it is a reality. I don't think there's one fix, but I think that
+[01:21:16] focusing on strengthening those vulnerable economies and those vulnerable places will
+[01:21:21] help to some extent. The other discussion in this has not been sort of policy work or anything,
+[01:21:28] but one of the discussions that I thought was really useful was actually talking about
+[01:21:33] those that are working in this space, particularly in the UNHCA and Red Cross environment, is that
+[01:21:39] rather than everybody crossing over each other and everybody doing a little bit in the same place,
+[01:21:45] is actually dividing up our responses. So different agencies in different countries focus
+[01:21:52] on specific areas rather than us all doing a little bit in one place. There was some sort of
+[01:22:00] dialogue around that, which I think makes some sense around actually, you know, who's going
+[01:22:04] to do what and what area, rather than us all going to one place and doing a lot and then
+[01:22:09] moving to another place, you know, actually sharing that. And that came from the Red Cross
+[01:22:14] initiatives in that space. So there is, you know, I think dialogue to have in that
+[01:22:18] area.
+[01:22:19] Have you asked for any advice on complementary pathways, so labour market mobility or education
+[01:22:25] as a way of...
+[01:22:26] At this point, I'm really focused on getting the cause decisions through. And
+[01:22:31] that is, you know, the first cab off the rank. I think that that is the priority for
+[01:22:36] us to give stability in that space. Then moving forward. And this is where,
+[01:22:41] although it's not relevant, but this is where I feel very strongly around the
+[01:22:45] work we're doing in Trafficking because, you know, this displaced community
+[01:22:50] becomes the most vulnerable and the most exposed to that kind of criminal
+[01:22:54] activity. So that becomes, you know, the next piece of work that I'm really
+[01:23:00] focused on.
+[01:23:01] It's up to me, Troy.
+[01:23:02] It's just the new primary. Yeah, go for it.
+[01:23:05] What evidential basis do you have that there's a systemic issue with asylum
+[01:23:09] seekers using official media or media attention to increase their grounds,
+[01:23:14] their refugee status grounds in a way that is bad-faced?
+[01:23:18] I'm sorry. Can you clarify the question?
+[01:23:22] What evidential basis do you have that asylum seekers at a system level are
+[01:23:26] using social media or media attention to increase their chances of becoming
+[01:23:31] refugees in a way that it is bad-faith? And, you know, have you had...
+[01:23:35] Do officials have any sort of evidential basis for this?
+[01:23:38] We certainly see it occurring in individual cases. I don't know if we
+[01:23:42] collect that data or think about it as system level, but it's just part of
+[01:23:44] the modern world.
+[01:23:45] Do you know?
+[01:23:47] You reasonably, in some basis of claim, yep, depends if they are pursuing a
+[01:23:52] claim on the basis of persecution for political beliefs. I'll often use
+[01:23:56] Facebook posts or pictures themselves at rallies.
+[01:23:59] How do you assess?
+[01:24:00] whether that's bad faith or otherwise?
+[01:24:02] It's just part of the overall credibility assessment.
+[01:24:04] And it's a really helpful point in time
+[01:24:06] about where they were and what they were doing.
+[01:24:08] But it's treated no differently really
+[01:24:11] to other pieces of evidence.
+[01:24:13] Do you not see the case?
+[01:24:15] I mean, like, treating it as bad faith or otherwise
+[01:24:18] is a relatively subjective test.
+[01:24:21] Do you have any concerns that with the current, well,
+[01:24:25] does the minister or officials have concerns?
+[01:24:28] The rhetoric that's coming out from the government
+[01:24:31] around people using social media to disabilize,
+[01:24:35] perhaps, persecution and with the changes that are incoming,
+[01:24:39] that that could deter asylum seekers from actually just
+[01:24:43] speaking out about the persecution that they experience?
+[01:24:46] I mean, there's no evidence of a rejection in claims
+[01:24:49] that the claim numbers continue to increase.
+[01:24:51] I don't think there's been.
+[01:24:54] I've seen no evidence.
+[01:24:55] For post changes to basically penalize, effectively,
+[01:25:00] asylum seekers who are using social media or media
+[01:25:03] attention to increase the number of cases?
+[01:25:05] I mean, I would dispute that the process,
+[01:25:07] the individual process, apply to each individual case.
+[01:25:10] There is no blanket decision-making based on,
+[01:25:14] and as has been said, each case is taken
+[01:25:17] on its individual merits.
+[01:25:18] And it will be looked at that I would refute
+[01:25:23] that that is an evidence of bad faith,
+[01:25:26] that they are being penalized for having
+[01:25:29] a social media platform.
+[01:25:31] OK, your primary fail, Twyford.
+[01:25:34] So there's been an ongoing debate over the last few years
+[01:25:37] about how New Zealand can respond best
+[01:25:40] to humanitarian emergencies and war.
+[01:25:45] And most recently, I think, around Gaza,
+[01:25:51] and your government has pretty steadfastly
+[01:25:55] refused to consider a special humanitarian visa for the families
+[01:25:59] of New Zealand.
+[01:26:00] those who were trapped in the war zone.
+[01:26:04] Is there any process in place, or have you
+[01:26:06] sought the advice, about how these crises should be treated
+[01:26:11] in terms of a kind of rational and fair decision making
+[01:26:15] around how New Zealand might respond to give refuge
+[01:26:21] to families of New Zealanders who are brought up
+[01:26:24] in those crises?
+[01:26:25] Well, the system that we have around UNHCR referrals,
+[01:26:29] I think, has steadfastened an anchor
+[01:26:31] of the refugee asylum process, of the refugee claim process.
+[01:26:36] What I think we've seen is that bespoke systems
+[01:26:40] or bespoke responses are problematic.
+[01:26:44] They have created unintended consequences and issues
+[01:26:48] when we have tried to do those.
+[01:26:50] I think the responses that we have had
+[01:26:53] have been fair and reasonable.
+[01:26:55] And that response that may sound good in theory,
+[01:27:00] like we still have the same issues of how do we get people out,
+[01:27:03] even if we've created it, all of those sort of processes.
+[01:27:07] So no, I haven't sought specific advice.
+[01:27:09] I think that what we have done and how
+[01:27:10] we respond within the framework we have has been effective.
+[01:27:15] And that bespoke response is problematic.
+[01:27:20] That doesn't constrain any future government
+[01:27:22] to looking at different initiatives.
+[01:27:25] How are they problematic?
+[01:27:27] In what way?
+[01:27:28] So the Liffey talked about the Afghani refugee program
+[01:27:32] that created, it was a long, slow process.
+[01:27:36] It did effectively circumvented other people in the program,
+[01:27:40] so those that were, because it was part of the 1500 quota.
+[01:27:45] No, it was over and above.
+[01:27:48] Above the 1500, oh, sorry.
+[01:27:49] It was completely different.
+[01:27:51] But this is the part that we were still dealing
+[01:27:54] and we have been dealing recently with the family
+[01:27:57] reunification process within that space.
+[01:28:00] I just believe that within our quota program there is systems that do support that and
+[01:28:07] creating those bespoke initiatives.
+[01:28:10] It does create resourcing, it does create, we have a very good and well-respected refugee
+[01:28:17] program and that's where we're committed to.
+[01:28:19] But put our quota program have led to any kind of meaningful response to the hundreds
+[01:28:26] of Afghans who had worked with New Zealand Defence Forces and were
+[01:28:29] exquisitely vulnerable to the Taliban and needed to be evacuated within a short
+[01:28:35] period of time.
+[01:28:36] It couldn't have, could it?
+[01:28:38] Well, I mean, I'm not questioning...
+[01:28:41] They weren't refugees, they weren't registered with UNHCR.
+[01:28:43] But you're asking about how the refugee program, you're wanting bespoke
+[01:28:48] initiatives around other and I'm just saying I haven't looked at those
+[01:28:51] initiatives.
+[01:28:52] We are working on our meeting our quota program and the companion pathways.
+[01:28:57] Sure.
+[01:28:58] So you're not in favour of bespoke responses to crises?
+[01:29:02] And every crisis will be taken on its individual circumstances.
+[01:29:05] But I support the decisions that we made at that time.
+[01:29:12] Supplementary Rachel Boyack.
+[01:29:14] So you said there were unintended consequences.
+[01:29:16] I mean, one of the bespoke responses was around Ukraine.
+[01:29:20] Do you see there were unintended consequences from that?
+[01:29:24] So you repeat the question, sorry?
+[01:29:26] Well, you said there were unintended consequences from bespoke
+[01:29:29] arrangements.
+[01:29:30] And one of the bespoke arrangements was the Ukraine visa.
+[01:29:32] So are you suggesting there have been some negative unintended
+[01:29:35] consequences from that visa?
+[01:29:37] No, I'm just saying there are unintended consequences when you do
+[01:29:40] responses in that nature.
+[01:29:42] I guess we're just asking what they are.
+[01:29:44] What are those unintended consequences?
+[01:29:46] I wasn't talking about specific issues.
+[01:29:48] I'm just saying there are unintended consequences when you
+[01:29:50] create bespoke initiatives.
+[01:29:52] There is a programme of work that has to be done to deliver it.
+[01:29:54] And there are unintended consequences such as the
+[01:29:56] allocation of resource and capability into dealing
+[01:29:58] with those responses.
+[01:30:00] was a new primary. I do have a new primary. Yeah. Yeah. Oh, you go first. Yeah. Okay, cool. Just on
+[01:30:06] page 181 of the labor market. I noted that you basically removed the measure of percentage of
+[01:30:14] recent migrants who feel that UCLN is their home. And the reason given to this was that
+[01:30:21] that it was removed due to the degree of influence that NBA accepts for the source of the survey,
+[01:30:25] which might expand on that. And, you know, we were placing this measure with something else.
+[01:30:31] This is under settlement and integration of refugees and other migrants
+[01:30:35] on those sort of lines. Do you want to comment on that while you remove this
+[01:30:40] measure and what influences NBA exerting over the survey? Can you just repeat the measure, please?
+[01:30:45] Yeah. So you have a measure that's been removed and that's the percentage of recent migrants
+[01:30:49] who feel that UCLN is their home. On note 10 of both labor market, it notes that this was
+[01:30:55] removed due to the influence that NBA exerts over the results of the survey.
+[01:31:02] This does not leave me any why server, what exactly was happening with an NBA that was
+[01:31:08] influencing the results of the survey it was creating? So I don't know the answer,
+[01:31:12] but why don't we come back to you with something? My guess will be when you look at these
+[01:31:16] measures, it's always a trade-off between the end outcome that you're trying to achieve
+[01:31:19] and the thing that you can actually influence. So we can ensure that while refugees are going
+[01:31:26] through the Māori centre that they are well looked after and that they first...
+[01:31:30] Yeah, it would remind me in writing maybe giving us like why this measure was removed
+[01:31:34] and what influence. You know, there's like a very specific line in the labor market that says
+[01:31:39] that due to the degree of influence that NBA exerts over it.
+[01:31:42] It's low influence, because it's really about how other New Zealanders will end up
+[01:31:47] treating them as well. That's what it means, I think, but we will come back to you.
+[01:31:50] Yeah, I think that is the response. It was to do with what could NBA do differently to make people
+[01:31:57] because it is, you know, the response is about...
+[01:32:00] whether they have made friends or those sort of things,
+[01:32:04] which is not so there is influence around housing,
+[01:32:07] there is influence around access to employment,
+[01:32:09] there is influence around.
+[01:32:11] So those were the, and because English language
+[01:32:15] was one of those considerations.
+[01:32:18] Okay.
+[01:32:18] Madam Chair.
+[01:32:19] Yes.
+[01:32:20] It's not a question.
+[01:32:21] Ah!
+[01:32:22] Just on our discussion before about detention
+[01:32:24] in asylum seekers,
+[01:32:25] Steve just noted that actually some of those
+[01:32:28] may actually have been incarcerated.
+[01:32:29] So it may not just be a simple matter of a few days.
+[01:32:32] All goes to the point that we will come back
+[01:32:34] to the committee with the data on that.
+[01:32:36] Thank you very much.
+[01:32:37] Appreciate it.
+[01:32:38] Thank you all for being available to us this morning
+[01:32:40] and part of this process.
+[01:32:42] We appreciate it.
+[01:32:43] And we'll have follow-up questions
+[01:32:45] whether they're, you know, from the committee as a whole
+[01:32:48] as we've discussed those or individuals
+[01:32:51] from parties and members.
+[01:32:52] Thank you.
