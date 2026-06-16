@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T06:26:40.106733+00:00",
+  "generated_at": "2026-06-16T06:35:36.444780+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1179379299",
   "title": "2026-04-02 2026/04/02 - EN (Part 3)",
@@ -7,7 +7,7 @@
   "published_at": "20260402",
   "published_display": "2026-04-02",
   "duration_seconds": 5292,
-  "source_labels": "Parliament Page environment, Vimeo Showcase 10758100",
+  "source_labels": "Parliament Page environment",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

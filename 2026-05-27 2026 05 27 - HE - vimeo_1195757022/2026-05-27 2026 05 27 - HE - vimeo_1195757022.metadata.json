@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T06:26:23.093264+00:00",
+  "generated_at": "2026-06-16T06:35:17.720550+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1195757022",
   "title": "2026-05-27 2026 05 27 - HE",
@@ -7,7 +7,7 @@
   "published_at": "20260527",
   "published_display": "2026-05-27",
   "duration_seconds": 1370,
-  "source_labels": "Parliament Page health, Vimeo Showcase 10758257",
+  "source_labels": "Parliament Page health",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

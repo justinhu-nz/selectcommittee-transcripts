@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T06:29:14.158759+00:00",
+  "generated_at": "2026-06-16T06:35:41.108726+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1201585763",
   "title": "2026-06-16 2026/06/16 - EW (Part 2)",
@@ -7,7 +7,7 @@
   "published_at": "20260616",
   "published_display": "2026-06-16",
   "duration_seconds": 5598,
-  "source_labels": "Vimeo Video 1201585763",
+  "source_labels": "Parliament Page education-and-workforce",
   "transcript": {
     "source": "whisper",
     "language": "en",
