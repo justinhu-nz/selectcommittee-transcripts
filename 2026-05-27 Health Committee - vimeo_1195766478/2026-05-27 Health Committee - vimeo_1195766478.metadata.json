@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-16T06:28:53.052186+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1195766478",
+  "title": "2026-05-27 Health Committee",
+  "url": "https://vimeo.com/1195766478",
+  "published_at": "20260527",
+  "published_display": "2026-05-27",
+  "duration_seconds": 1362,
+  "source_labels": "Vimeo Video 1195766478",
+  "transcript": {
+    "source": "whisper",
+    "language": "en",
+    "duration_seconds": 1361.7493125,
+    "segment_count": 0,
+    "source_vtt_path": null
+  }
+}
