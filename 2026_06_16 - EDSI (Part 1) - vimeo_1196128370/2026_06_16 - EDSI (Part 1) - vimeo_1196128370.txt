@@ -1,0 +1,1062 @@
+Title: 2026/06/16 - EDSI (Part 1)
+URL: https://vimeo.com/1196128370
+Published: 2026-06-16
+Duration: 00:50:44
+
+[00:00:00] 30 seconds for everybody to settle.
+[00:00:09] Thank you, Minister. We have one hour with you.
+[00:00:11] And so if you would like to start with some opening remarks, keeping them
+[00:00:15] brief, approximately three minutes.
+[00:00:18] Thank you.
+[00:00:20] Three minutes?
+[00:00:21] Three minutes.
+[00:00:22] Well, you can take less if you want.
+[00:00:23] Madam Chair,
+[00:00:25] I will do my introduction. So,
+[00:00:30] thank you very much for the opportunity to come before the committee and answer
+[00:00:34] some questions. We're
+[00:00:37] talking about communications.
+[00:00:42] Well, it says here media and communications, but we handled media yesterday, didn't
+[00:00:45] we?
+[00:00:45] Yeah.
+[00:00:46] This is communications.
+[00:00:47] Just communications.
+[00:00:47] Yeah.
+[00:00:47] Yeah.
+[00:00:48] Good.
+[00:00:50] So,
+[00:00:52] if we
+[00:00:55] step back and sort of look at infrastructure in New Zealand in general,
+[00:00:59] I think it's a fair
+[00:01:01] conclusion to draw that
+[00:01:04] our telecommunications infrastructure is,
+[00:01:08] I think, arguably our best or we're
+[00:01:12] best placed as a country in comparison with roads,
+[00:01:16] water, everything else.
+[00:01:19] And so that's a great thing. Partly as a result of the
+[00:01:23] efforts of private companies over a long period of time and
+[00:01:26] investment.
+[00:01:28] Partly because of the John Key-led
+[00:01:32] government's investment in ultra-fast broadband.
+[00:01:35] And as a result of that, New Zealand has
+[00:01:40] average broadband speeds above the
+[00:01:44] OECD average. And it's one of the few areas that we beat Australia
+[00:01:48] and Ireland and the United Kingdom in terms of average
+[00:01:52] broadband speed. So that's
+[00:01:54] a great
+[00:01:56] place to
+[00:01:58] rest on.
+[00:01:59] Well, not to rest on, a great place to be.
+[00:02:02] Fiber now reaches 88% of New Zealand's population.
+[00:02:06] And we've, over the last few years, invested 770 million
+[00:02:10] into rural connectivity,
+[00:02:13] in programs such as the Rural Broadband Initiative and the black spots, and we've
+[00:02:17] got people here that can talk about details if
+[00:02:20] required. So I suppose our primary goal then is,
+[00:02:28] when we think of where should we spend our next dollar on infrastructure in the
+[00:02:31] country, there are some other areas that are more
+[00:02:35] pressing.
+[00:02:36] But we need to ensure that our regulatory settings are tip-top
+[00:02:40] so that we don't fall off the pace and that we
+[00:02:44] build on the strong foundations that we have.
+[00:02:48] And so, we're making sure they've got the right incentives to support commercial
+[00:02:51] investment in telco markets,
+[00:02:55] removing unnecessary regulatory barriers and also providing for access to
+[00:02:59] the radio spectrum. We've got a couple of bills before you that you've
+[00:03:02] been considering. I just want to thank you for your
+[00:03:06] conduct there.
+[00:03:08] I don't know why I've been limited to three minutes because there's so much I want
+[00:03:11] to say, but- ... I'm happy to sort of move on to questions
+[00:03:15] at any point.
+[00:03:16] Thank you. We go to Ruben Davidson first.
+[00:03:19] Thank you, and thank you for being back again this afternoon, Minister, to
+[00:03:23] answer a slightly different train of questions.
+[00:03:26] Thank you.
+[00:03:27] Luckily, we've got lots, so we should be able to keep you busy for the balance of
+[00:03:31] 57 minutes.
+[00:03:32] Good.
+[00:03:34] You're responsible for just under $41 million in revenue
+[00:03:37] from the sale of license rights to use radio spectrum, cost
+[00:03:41] '26, '27.
+[00:03:43] Yep.
+[00:03:44] How is that spectrum allocation expected to develop over the coming
+[00:03:48] years? And how do you think you'll ensure that the
+[00:03:51] spectrum is allocated in a way that promotes competition and supports
+[00:03:55] new entrants
+[00:03:57] rather than just entrenching existing operators?
+[00:04:03] Are you talking in terms of
+[00:04:06] telecommunications spectrum or radio?
+[00:04:09] No, radio spectrum.
+[00:04:10] Radio spectrum. Well, when I first sort of came
+[00:04:15] into the role, there was a strong desire across the
+[00:04:18] industry to get some certainty for the existing sort of levels of
+[00:04:22] spectrum, and
+[00:04:25] because it's very necessary for long-term investments.
+[00:04:28] And so we went through a process and we've
+[00:04:33] announced
+[00:04:35] that, and there's work to be done and we're
+[00:04:38] charging a lower... Well, there was a discussion around pricing,
+[00:04:43] and we reached an agreement on that, and so that has the ability
+[00:04:47] to provide options for people to carry on their work.
+[00:04:50] In terms of the ability for new people to come and
+[00:04:53] access spectrum,
+[00:04:56] that can be done, of course, through the purchasing of existing rights, but
+[00:04:59] also through the auction process.
+[00:05:01] I don't know if there's any more detail you want to add to that.
+[00:05:03] Sure. Kia ora koutou. James Hartley-
+[00:05:06] Oh, sorry
+[00:05:07] ... from MBIE.
+[00:05:08] Sorry.
+[00:05:08] Sorry, just introducing myself. Grant Mitchell from NIFA as well.
+[00:05:11] And a very substantial MB team available.
+[00:05:13] Well, not that substantial, actually.
+[00:05:15] So,
+[00:05:16] maybe if I can just elaborate on that spectrum detail.
+[00:05:21] So I think there's a number of work streams on spectrum
+[00:05:24] of note for the committee. So,
+[00:05:27] one aspect is renewals of spectrum used for existing uses.
+[00:05:31] So that's where there are incumbents in the spectrum.
+[00:05:35] So what we weigh up
+[00:05:37] when we decide how to reallocate that spectrum is
+[00:05:40] just being fair to incumbents, whilst also trying to encourage
+[00:05:44] competition innovation as well.
+[00:05:47] So that's one aspect. There's also an ongoing program of releasing
+[00:05:52] new bands of spectrum into new uses.
+[00:05:55] So oftentimes you'll have an old use of spectrum that maybe some technology's died
+[00:05:58] or
+[00:05:59] things have moved on, and so we'll release new spectrum.
+[00:06:02] So
+[00:06:03] for example-
+[00:06:05] We're shortly going to be consulting with some spectrum
+[00:06:09] and the sort of lower 5G band effectively, which will probably be
+[00:06:13] available for WISPs and maybe private networks, which is a new kind of innovative
+[00:06:16] use of spectrum.
+[00:06:19] Obviously, satellites are
+[00:06:22] relatively new technology and
+[00:06:25] we've been doing a bit of work on releasing spectrum for that new technology as
+[00:06:29] well, which will be challenging for some incumbents as well in terms of the
+[00:06:32] competition in the market.
+[00:06:35] So
+[00:06:36] always balancing up incumbents
+[00:06:40] versus the new competition with an ongoing program of
+[00:06:44] spectrum.
+[00:06:45] Excellent. Thank you.
+[00:06:47] Yeah. Supplementary, Kushla.
+[00:06:49] Kia ora koutou. That said, one of the glaring figures is
+[00:06:53] the reduction in funding allocation for Maori spectrum.
+[00:06:57] Given that you're talking about growth,
+[00:07:02] has there been any consideration about, is the idea that what it is
+[00:07:06] now is what it will always be?
+[00:07:08] Has any thought given to how that could grow, particularly
+[00:07:12] given that
+[00:07:13] Maori broadcasting, a lot of iwi radio, for example, is highly non-commercial, not
+[00:07:17] for lack of trying, but for the regions and the access to advertising income, et
+[00:07:21] cetera, that they have. So has any thought been given about how
+[00:07:25] they can grow and expand?
+[00:07:28] There's a technical financial question in there which-
+[00:07:31] Yes
+[00:07:31] ... shall I answer then-
+[00:07:33] Please
+[00:07:33] ... I guess more?
+[00:07:35] So in terms of, you talked about the reduction in income.
+[00:07:38] So I think what that's referring to is,
+[00:07:41] you should be aware,
+[00:07:42] Credit Maori signed an MoU a few years ago on spectrum allocation,
+[00:07:46] and that committed a range of funding for a number
+[00:07:50] of different streams
+[00:07:52] over, I think, a four or five-year period.
+[00:07:54] So I think there's one tranche of that funding left, and that's why it's dropping
+[00:07:58] off. So
+[00:07:59] I think that drop-off you're seeing is the fulfillment of that MoU commitment.
+[00:08:03] I think it was around overall package of about $70 million
+[00:08:06] over a four or five-year period. So I think that explains the kind of
+[00:08:10] technical financial drop. I think you've got a broader policy question as
+[00:08:14] well.
+[00:08:15] Yeah, about growth. Yeah, growth.
+[00:08:16] Well, and the only point I'd make about that is, yep,
+[00:08:19] it was part of a period when money was
+[00:08:24] apparently freely available,
+[00:08:26] and is one of the reasons why, as we approach this
+[00:08:29] budget at the moment as a nation, we still,
+[00:08:33] notwithstanding all our savings efforts, are running at an $11
+[00:08:37] billion deficit this year.
+[00:08:41] And we inherited very substantial deficits two years ago.
+[00:08:44] And we're doing everything
+[00:08:46] we can to get back to surplus in
+[00:08:50] two to three years' time. And that requires some tough decisions.
+[00:08:54] So not everything that was funded during the
+[00:08:58] Jacinda Ardern,
+[00:09:01] Willie Jackson period necessarily can carry on at the
+[00:09:05] same levels because what we were doing there was
+[00:09:09] unsustainable.
+[00:09:11] So yep, there's lots of elements there that we could talk about.
+[00:09:15] Yeah, I guess to clarify, so we're talking about new technologies, growing
+[00:09:19] spectrum, continuing to sell it.
+[00:09:22] Without the capacity, what considerations are there so
+[00:09:26] that Maori broadcasting can participate in this growth
+[00:09:30] in these new technologies?
+[00:09:32] Well,
+[00:09:33] I
+[00:09:34] think that's probably an area
+[00:09:37] that my colleague Tama Potaka, in terms of who's responsible for Kara
+[00:09:41] Maori and the funding that goes to Maori broadcasting, which
+[00:09:44] is substantial, continues to be substantial.
+[00:09:48] But that's a sort of broader decision around it in terms of getting allocation
+[00:09:52] to spectrum to do that. They have
+[00:09:56] that. They also
+[00:09:58] go through online and they have various opportunities there.
+[00:10:01] But they have access to the spectrum that they need there.
+[00:10:07] I want to pick up on a point. In your
+[00:10:11] opening remarks, you talked about
+[00:10:13] connectivity and the network that we have across New Zealand, and you
+[00:10:16] referenced Prime Minister John Key in leading the
+[00:10:20] way and getting that work started.
+[00:10:23] We've invested $770 million since
+[00:10:27] 2011 in that, in rural connectivity programs
+[00:10:30] specifically.
+[00:10:32] And that's expected to be substantially complete in the next two
+[00:10:36] years.
+[00:10:38] I'm wondering if you can provide some objective, measurable
+[00:10:41] data around coverage speeds and around
+[00:10:45] reliability that can demonstrate the
+[00:10:49] improvement that you will attribute to that investment.
+[00:10:53] But what I want to know is,
+[00:10:55] I want to see that without the impact of Haleos factored into
+[00:10:59] that. So based on the
+[00:11:02] infrastructure without Haleos operating.
+[00:11:06] Well,
+[00:11:07] I don't have that list on the exact
+[00:11:11] speeds in every particular town of the city.
+[00:11:16] Obviously, just for people tuning in,
+[00:11:19] those who are not interested in the soccer who are tuning into this
+[00:11:23] will remember,
+[00:11:27] as a country, we're rather blessed in the sense that 88% of New
+[00:11:30] Zealanders have access to fiber, which is the gold standard, fast,
+[00:11:35] great.
+[00:11:36] And with each sort of extra percentage of the population that you try and
+[00:11:40] extend fiber to because of the distances in rural New Zealand
+[00:11:44] becomes exponentially more expensive, and so there's a sort of a
+[00:11:48] limit to how far you can press that.
+[00:11:51] Then on top of that, there's
+[00:11:56] opportunities through cellular networks and
+[00:12:00] WISP opportunities and also the old use of copper.
+[00:12:04] And so we were putting extra resources into that, and we can give
+[00:12:08] an update to that. And
+[00:12:12] we've
+[00:12:13] been doing that for a decade or so.
+[00:12:15] And then,
+[00:12:17] in the meantime, at the lower
+[00:12:20] orbit
+[00:12:21] Satellites have become
+[00:12:23] available with Starlink, and which ended up
+[00:12:26] providing real very good access to
+[00:12:32] connectivity in the most remote spots.
+[00:12:34] And so that's sort of changed the game somewhat.
+[00:12:37] And so
+[00:12:39] before we keep on plowing more and more money into that
+[00:12:43] expansion of the rural broadband network, I think it's a very
+[00:12:47] sensible thing to stand back and take stock because people now have more options.
+[00:12:51] But you can perhaps give them an update on some of the
+[00:12:55] figures.
+[00:12:56] Well, if you look on where there is fiber, the average speeds are
+[00:13:00] just a bit below 500 megabits per second. So it's very fast.
+[00:13:03] Globally, you can buy up to a gigabit.
+[00:13:05] If you really want, you can buy up to eight gigabits.
+[00:13:08] That's across 412 towns in New Zealand, so right down to
+[00:13:12] very small towns, like 50 people. So yeah, a very, very good service.
+[00:13:16] Then if you go into the rural areas,
+[00:13:19] New Zealand at the moment, mobile voice coverage, so it
+[00:13:23] covers
+[00:13:25] everybody except for about 0.3% of population can access mobile voice
+[00:13:29] coverage in New Zealand. For 111,
+[00:13:32] another 0.3% of those can only access it from one carrier.
+[00:13:35] So very high mobile voice, and that's measured by where people actually live.
+[00:13:41] If you look at the state highways, which are quite important,
+[00:13:44] throughout New Zealand, that they effectively, how we define a mobile black
+[00:13:48] spot is can you get service from any carrier?
+[00:13:50] Because 111 and the broadcasts, civil defense alerts
+[00:13:54] go across all networks. So that's quite important to understand.
+[00:13:58] So
+[00:13:59] effectively, when some people say they're in a black spot, it's usually because one
+[00:14:03] commercial operator they're on might not cover that area.
+[00:14:07] So there's about 4.6% of state highways that don't have that at the moment, and
+[00:14:11] they are very remote areas. So it's quite a
+[00:14:14] small percentage that we actually
+[00:14:18] don't have covered now, and
+[00:14:20] of those are covered is about a little under 3% that only have one operator.
+[00:14:24] So sometimes you might be driving along and you're with Spark or One and the call
+[00:14:28] drops.
+[00:14:29] That's probably largely because they don't have the overlapping coverage.
+[00:14:34] And the way why we really understand this now, because emergency services for our
+[00:14:38] public safety network initiative, they have dual roaming between the two
+[00:14:41] major carriers, which is One and Spark, and an average police
+[00:14:45] officer in a month will have 23 roaming incidents.
+[00:14:49] So there's about 400,000 to 500,000 roaming instances between the emergency
+[00:14:53] services, and we've got about 27,000 on that network.
+[00:14:56] So it tells you that the commercial networks don't necessarily overlap.
+[00:15:00] But as far as we're concerned at the government, the most important thing is can
+[00:15:04] people access 111? Can you get a broadcast cell alert to know to
+[00:15:07] evacuate? And they are the main important things there.
+[00:15:10] And on the rural sort of area, we currently have all of our eyes
+[00:15:14] effectively connected to broadband.
+[00:15:16] We've upgraded services to about 86,000
+[00:15:20] rural households that had very poor coverage.
+[00:15:23] So they're getting a terrestrially, a minimum of 25, many of them up to 50,
+[00:15:28] and we upgraded capacity to about another 70,000 as well.
+[00:15:31] And there's currently a total of about 578
+[00:15:35] mobile towers rurally being deployed that has all three carriers, and that's going
+[00:15:39] up to about 597, and that includes places as remote as
+[00:15:43] the Chatham Islands.
+[00:15:45] Past very quite remote places as well.
+[00:15:49] And the challenge is now because we've put so much mobile out there, in the West
+[00:15:53] Coast before we started, there were like five mobile towers.
+[00:15:55] Now there's lots of them. People notice the black spots more because they get used
+[00:15:58] to it more. So they notice there's a little 500 meter or a kilometer thing, and
+[00:16:02] they complain. But you can't literally get coverage 100% everywhere, particularly
+[00:16:06] in New Zealand. But I think, having-
+[00:16:08] Well, there is a prospect in a couple of years-
+[00:16:10] Yeah, with the satellite
+[00:16:11] ... with the satellite where, unless you're caving-
+[00:16:14] Yes
+[00:16:15] ... you will have.
+[00:16:16] That's right. So between those technologies, having
+[00:16:20] traveled recently, we do have very good mobile service compared to some of our
+[00:16:24] Western counterparts, I have to say, and
+[00:16:27] spectacular
+[00:16:29] fiber broadband.
+[00:16:31] Yes.
+[00:16:31] We are very lucky.
+[00:16:32] Yeah.
+[00:16:34] So that
+[00:16:35] 12% figure that you talked about, 88% coverage, that means
+[00:16:39] there's 12% not.
+[00:16:40] Yes.
+[00:16:41] So-
+[00:16:42] That's right. That's with the fiber.
+[00:16:43] Yeah.
+[00:16:44] Without them.
+[00:16:44] So is that a
+[00:16:45] wait for
+[00:16:47] other providers, or is that a commitment to getting fiber to them at some
+[00:16:51] stage, or is that a-
+[00:16:52] Well, look,
+[00:16:56] to the extent that
+[00:16:58] there are new subdivisions in urban areas, then there'll be a commercial
+[00:17:02] rationale for doing that.
+[00:17:04] Then
+[00:17:05] it will happen. But as we get into the more remote
+[00:17:09] areas,
+[00:17:12] the
+[00:17:13] obvious sort of weighing up that we're doing as government is
+[00:17:17] in terms of the
+[00:17:21] priority listing for the next dollar to be spent on infrastructure in the broadest
+[00:17:25] sense.
+[00:17:27] As I said, we've got real pressures in a lot of areas.
+[00:17:31] And it gets exponentially more expensive
+[00:17:34] with fiber the further you go into
+[00:17:37] rural areas.
+[00:17:38] And
+[00:17:40] as is obvious for everybody to see at the moment, the technology
+[00:17:43] is providing other solutions
+[00:17:46] through satellites, and also cellular connectivity,
+[00:17:50] which may be a more efficient way of doing it.
+[00:17:52] And so, we don't have plans at the moment
+[00:17:56] for government-funded expansion of
+[00:17:58] the fiber.
+[00:18:02] So that's where it is at the moment.
+[00:18:04] Mm-hmm.
+[00:18:04] There are some private providers who actually are building things to small little
+[00:18:08] centers like Primo and Taranaki-
+[00:18:10] Yeah. Yeah. Well, it makes sense
+[00:18:12] ... and other places, and they're doing that themselves at quite a low cost.
+[00:18:14] But when you've got a, average household has about an 18 to 20 meter
+[00:18:18] frontage in an urban area. Some of them are less than that.
+[00:18:20] In a rural Where a farm could have a five-kilometer frontage.
+[00:18:23] So, the cost to deploy five Ks versus 80 meters
+[00:18:27] is, you literally just do the maths, it's very expensive.
+[00:18:31] Yeah.
+[00:18:32] And you don't really get the trade-off benefit compared to the satellite, which can
+[00:18:35] do about 150 megabits per second easily on satellite.
+[00:18:39] So that infrastructure's great, right, for 88% of the
+[00:18:43] country at the moment with-
+[00:18:45] Mm-hmm
+[00:18:46] ... with the climate being what it is and everything behaving itself.
+[00:18:49] Mm-hmm.
+[00:18:50] But we're seeing an increasing trend of things not behaving
+[00:18:53] themselves as far as the weather's concerned, and we know we've got a rather
+[00:18:57] large fault line running through,
+[00:19:00] well, most of the country.
+[00:19:02] What's the modeling, what's the planning in place for
+[00:19:06] an unwanted but potential natural hazard or event that's
+[00:19:10] hugely disruptive to the fiber network?
+[00:19:13] So what's the plan to build back, or the modeling to build back, and what's
+[00:19:17] the interim plan?
+[00:19:20] Well,
+[00:19:21] there's been some ongoing and continued
+[00:19:25] investment in
+[00:19:27] battery storage for the cellular network
+[00:19:31] in the regions there. We can go through the details of that if you'd like.
+[00:19:36] I'm more meaning just in relation to the fiber network.
+[00:19:38] Well, on the fiber network, um.
+[00:19:42] Wonder if time Graham might be able to talk to you in terms of
+[00:19:45] procurement, I suppose, because- Well, the fiber network,
+[00:19:49] A, they're all owned by private providers, right?
+[00:19:51] So they'll have their own insurance arrangements.
+[00:19:53] But if you actually look at the Christchurch earthquake that happened quite a few
+[00:19:57] years ago, there was a fiber network in Christchurch, and the fiber
+[00:20:01] actually still operated quite well.
+[00:20:02] It's quite flexible because it all sits in a little tube, so it can take quite a
+[00:20:06] bit of movement. You will get breakages and things like that, but the whole
+[00:20:10] thing won't disappear.
+[00:20:12] And the Christchurch earthquake, which I visited post-earthquake to look at the
+[00:20:15] network, was actually in quite good shape.
+[00:20:18] So it's not like a water network or anything like that.
+[00:20:21] It actually is quite flexible. Some of the network's on poles, so obviously if the
+[00:20:24] pole goes down, they have to put it back up again and things like that.
+[00:20:27] But the private operators, that's what their job is. They do that.
+[00:20:30] They have to look after the network. We're not self-insuring.
+[00:20:33] We're not insuring their network.
+[00:20:34] They insure that with private insurers or take their own
+[00:20:38] cover.
+[00:20:38] Yeah. And there hasn't been any work to collate
+[00:20:42] or liaise with those private providers to see what plans they've got
+[00:20:46] in place, given the importance of that infrastructure?
+[00:20:50] Well,
+[00:20:51] look, I'm sure it's part of the
+[00:20:55] normal expectations of
+[00:20:58] them for their customers.
+[00:21:00] And what we focus on is some of the allied
+[00:21:04] areas, such as the cellphone networks, and some battery
+[00:21:09] storage there. Of course, satellite changes
+[00:21:12] the situation again. And over the next few years,
+[00:21:17] as the increasing uptake of
+[00:21:21] that and the linking with the cellular network, the
+[00:21:25] most important thing I think people will be thinking about in terms of
+[00:21:29] emergencies in the future is having a torch, but also having a power bank
+[00:21:33] available, because as long as you've got power on your cellphone,
+[00:21:37] there will be real opportunities for connectivity through satellites.
+[00:21:41] And so, I think
+[00:21:43] when it comes to responding to natural disasters,
+[00:21:49] technology is providing hugely
+[00:21:53] beneficial opportunities for us to be able to cope and respond.
+[00:21:56] Mm-hmm. I could just add as well, I think in some of the previous Crown
+[00:22:00] investments into fiber network,
+[00:22:03] we have deliberately
+[00:22:05] closed some loops and networks to make sure that, if one point in the
+[00:22:09] circuit is broken, there's another
+[00:22:12] pathway in.
+[00:22:14] Graham and his team have been quite active in that regard
+[00:22:18] in the past as well.
+[00:22:20] All right. Kushna.
+[00:22:22] You mentioned marae connectivity.
+[00:22:24] Yep.
+[00:22:24] You know, 98%'s great.
+[00:22:26] Mm-hmm.
+[00:22:27] How many marae does the 2% represent, and is the goal 100?
+[00:22:31] Particularly given
+[00:22:34] how widely celebrated marae have been as response hubs, resilience
+[00:22:38] hubs for everyone.
+[00:22:39] The 98%
+[00:22:41] is not good enough for the-
+[00:22:43] Well, not if you need to, you've been evacuated from your house.
+[00:22:46] My understanding is that all marae that wanted to be connected-
+[00:22:50] All marae that want to be connected are connected or in the process of.
+[00:22:53] Those 2% are generally- The last ones are being connected.
+[00:22:55] Some just didn't want to be connected.
+[00:22:58] But, you know, we- Old school ... we basically found most of them.
+[00:23:01] There were a few in some of the areas that we were in where they didn't want to
+[00:23:05] work with TPK for some reason, Tukui, so we went in there directly
+[00:23:09] through the iwi and iwi-affiliated tribes to actually get them connected
+[00:23:13] in the Tairāwhiti, for example.
+[00:23:15] Yeah.
+[00:23:15] And now they're all connected. So
+[00:23:18] it's actually quite hard to find some that aren't connected, but that's a voluntary
+[00:23:21] choice of theirs.
+[00:23:23] We can't make them be connected. But there's currently 682
+[00:23:27] connected, and when we finish the refurbishments, it'll be
+[00:23:30] 698. Because we're also, through other programs, we're rebuilding
+[00:23:34] seven marae that were devastated through the cyclone as well.
+[00:23:37] So obviously they are not connected at the moment. They will be connected.
+[00:23:40] And there's some others who are doing refurbishments and things like that,
+[00:23:44] which we're just waiting for them to be connected.
+[00:23:46] Can you tell us why some people didn't want to join?
+[00:23:50] Well, you can speculate on that, but it's something about Big Brother and all that
+[00:23:53] sort of stuff.
+[00:23:54] Oh, okay.
+[00:23:54] Which is unfounded of course, but there was some of that sort of stuff going on.
+[00:23:58] Yeah. But it was very small.
+[00:24:00] Mm-hmm.
+[00:24:00] Yeah, literally very small. Of course, that was during the period of the previous
+[00:24:03] government. Yes, that's right.
+[00:24:05] I think they didn't want to be connected to the podium of truth. That's right.
+[00:24:09] And, um. But as you know, all the ones that have been connected have been using it,
+[00:24:12] and they find
+[00:24:14] it highly beneficial. And we've used it to connect the water treatment plants as
+[00:24:18] well, so they can be remote controlled as well.
+[00:24:20] Mm-hmm.
+[00:24:21] We can really-
+[00:24:22] So, yeah. Rugan, again. Yeah.
+[00:24:24] A new primary here really, but it picks up on some of the themes we've already
+[00:24:28] discussed, but it also explores the theme that you've referenced today and
+[00:24:32] yesterday around a single source.
+[00:24:35] Yeah.
+[00:24:35] And that is around the-
+[00:24:39] You've talked about earlier the ability for, in an emergency response
+[00:24:43] environment, for us to rely heavily on low Earth orbit tech,
+[00:24:47] which currently means relying on one supplier,
+[00:24:51] potentially another, but that
+[00:24:54] hasn't eventuated yet. It's forecast to start
+[00:24:59] any day, but depending on who you talk to.
+[00:25:03] I guess the question here is,
+[00:25:06] to what extent are you tracking the share of
+[00:25:10] connectivity that depends entirely on Starlink, and that's
+[00:25:13] including through domestic providers?
+[00:25:16] Well, I
+[00:25:17] don't think we would be relying entirely on that other than to
+[00:25:21] say we've got a very strong fiber network.
+[00:25:24] We've got very strong mobile networks, and
+[00:25:28] a certain number of those
+[00:25:32] critical towers in places that are prone to natural disasters, having better
+[00:25:36] battery storage. And then on top of that, you do have the
+[00:25:39] satellite option. So,
+[00:25:42] I think that's a good foundation
+[00:25:45] on which to build. But we continue to make investments, as I say, in
+[00:25:49] the batteries
+[00:25:52] for extra storage. I think there's some recent
+[00:25:56] examples where that's extended the life of the tower
+[00:25:59] substantially to 19 hours, and in sometimes
+[00:26:03] cases getting through
+[00:26:05] without going down. So, it's
+[00:26:09] using different tools available.
+[00:26:11] But the fundamental point is, of course, to the extent to which you
+[00:26:15] can...
+[00:26:16] It depends what natural disaster you're talking about, of course.
+[00:26:19] Yeah.
+[00:26:19] If you're talking about a solar storm, then maybe the satellites might not be the
+[00:26:22] best ones.
+[00:26:23] Yeah. The natural disasters I've lived through certainly took longer than 19 hours
+[00:26:27] to recover from.
+[00:26:27] That's because battery programs are fully rolled out at this stage.
+[00:26:31] Yeah, sorry.
+[00:26:32] We're putting
+[00:26:34] additional batteries into key cell sites to give them a target 24-hour
+[00:26:37] resilience.
+[00:26:38] Yeah.
+[00:26:39] So if there's an event, people can call 111, they can get the
+[00:26:42] emergency cell broadcast if they've got to evacuate, if you think about the
+[00:26:45] cyclones, or they can call their families.
+[00:26:48] After that, the mobile operators can react and put gen sets in
+[00:26:52] and things like that to keep them going longer.
+[00:26:54] But the critical-
+[00:26:55] Gen set?
+[00:26:56] Generators.
+[00:26:56] Generators.
+[00:26:57] Generators, yes.
+[00:26:58] That's what the people do.
+[00:26:59] That's right.
+[00:27:01] Generators.
+[00:27:01] You're watching the soccer.
+[00:27:03] And in relation to how many people are connected to cell, the Commerce Commission
+[00:27:06] does do reporting on about how many people are connected by technology.
+[00:27:10] Yeah.
+[00:27:10] And it's on their website.
+[00:27:12] So the stat I've seen is 40% of our landmass is
+[00:27:16] through LEOs, so through low Earth orbit for
+[00:27:20] that connectivity.
+[00:27:21] So that's a single operator providing coverage for 40% of
+[00:27:26] that service.
+[00:27:28] Of landmass.
+[00:27:29] Yeah.
+[00:27:30] Not of-
+[00:27:31] Well, considering that-
+[00:27:33] Individual providers
+[00:27:33] ... considering that 33% of our landmass is in the Docker State and those
+[00:27:37] hills-
+[00:27:37] Oh
+[00:27:38] ... that's plausible. Yes, we don't have broadband right through the Docker
+[00:27:42] State. But there's, I mean, we're-
+[00:27:43] That's right.
+[00:27:44] Are you comfortable with that situation in New Zealand where we have a single
+[00:27:48] provider?
+[00:27:48] Well, what would your alternative be?
+[00:27:50] Are you suggesting that the government-
+[00:27:51] Well, I'm asking you. You're the minister.
+[00:27:52] We don't have any plans to set up our own satellite company, government-owned, at
+[00:27:56] this stage. But
+[00:27:59] we're obviously hopeful that there will be, and there is talk of competition,
+[00:28:03] and that would, of course, be most welcome.
+[00:28:05] But
+[00:28:07] I suppose where we'll be getting most of the competition is between the various
+[00:28:10] different
+[00:28:12] technologies available in New Zealand.
+[00:28:14] But
+[00:28:16] for a very long period of time, people in those remote areas had no choices
+[00:28:20] and no options. And so the good news is that we're having more and more
+[00:28:24] options. And we need to because, a modern dynamic
+[00:28:28] economy,
+[00:28:30] access to good
+[00:28:32] connectivity is critical.
+[00:28:33] They do have access to voice calling. As I said, I think like 0.3% do not.
+[00:28:37] Yeah.
+[00:28:38] Yeah.
+[00:28:38] And I think when you look at it, a satellite-
+[00:28:39] That's the population rather than-
+[00:28:41] That's right
+[00:28:41] ... the square rate.
+[00:28:42] That's right. And when you-
+[00:28:42] You're talking about the square rate.
+[00:28:43] And I think
+[00:28:45] satellite covers 100% of the country.
+[00:28:47] There's about 36%, roughly, that we don't have terrestrial mobile coverage on.
+[00:28:51] But obviously, that includes farms and
+[00:28:54] Southern Alps, Fiordland, all that-
+[00:28:57] Yes
+[00:28:57] ... vast amount of land which we're not really going to cover.
+[00:29:00] But increasingly-
+[00:29:01] Mm
+[00:29:02] ... increasingly that rural connectivity,
+[00:29:06] or the lack of rural connectivity, or the fact that there is a reliance on one
+[00:29:10] operator for that rural connectivity has an impact, right?
+[00:29:13] Because field days last week, we see in all of the
+[00:29:16] conversations we have with our rural sector, an increased use of tech
+[00:29:20] in those environments.
+[00:29:22] Yes.
+[00:29:22] Mm.
+[00:29:23] And potentially, either a lack of connectivity or a
+[00:29:26] reliance on one provider for that connectivity.
+[00:29:29] Yeah, but I think the point we're making for the vast majority
+[00:29:32] of the farmed area, you've got access
+[00:29:36] to,
+[00:29:38] as well as cellular tech connectivity at the moment, still some of them got access
+[00:29:42] to copper, but there's cellular, there's WISP, and there's
+[00:29:45] satellites. And hopefully, there'll be more competition amongst the satellites.
+[00:29:49] So,
+[00:29:50] I think the opportunities for choice are much better than they've ever been
+[00:29:54] before.
+[00:29:56] And that's why, in essence, what we're trying to do as governments to
+[00:30:00] make sure our regulations are
+[00:30:02] well designed so as to maximize
+[00:30:06] private sector investment to improve that over time,
+[00:30:10] which is what we're seeing.
+[00:30:12] So you don't have any concerns for that single operator model, which is what we've
+[00:30:16] got currently. You don't have any concerns around sovereignty?
+[00:30:19] Well, obviously, I'd like to see more competition and
+[00:30:23] we'd be welcoming that.
+[00:30:25] So that's different to being comfortable with the current situation.
+[00:30:28] You can want more competition, but do you think-
+[00:30:30] I'm never comfortable. We're always looking for more things, and we're always
+[00:30:33] looking to reach higher and to do better.
+[00:30:36] You're not looking for more investment in this portfolio by the look of it
+[00:30:40] Well,
+[00:30:42] we are continuing to make some investments in terms
+[00:30:46] of emergency responses. But the period of
+[00:30:50] very substantial government investment in the ultra-fast broadband
+[00:30:54] and the rural connectivity has
+[00:30:58] come to an end for the time being. And obviously, future governments will make
+[00:31:02] future decisions about
+[00:31:04] when and where it's appropriate to pick up that level of
+[00:31:08] investment. The point I'm making, which I think is
+[00:31:12] a pragmatic and sensible one, is given the dramatic
+[00:31:16] changes in technological options that have opened up in the last
+[00:31:20] few years, it is worth taking a stop before making major
+[00:31:24] new investments in the other choices
+[00:31:28] available,
+[00:31:29] as we see what we hope we'll see, continuing more competition
+[00:31:33] developing.
+[00:31:35] Good. All right. I'll jump in here now.
+[00:31:37] So while you guys are thinking of more questions.
+[00:31:40] The $4 million in the budget, Minister, that is to lift resilience of
+[00:31:44] cellular towers. Is it just to cope with natural disasters, which you have
+[00:31:48] talked about before, or is there something about the condition
+[00:31:52] of these cellular towers that we should be aware of where that money is going
+[00:31:55] to go?
+[00:31:57] It's all power resilience. It's batteries, effectively.
+[00:32:00] Yeah. That's it. That's the-
+[00:32:01] And the government also has got 2.4 million in this
+[00:32:05] year's allocation that's-
+[00:32:07] Yeah, four million. That's what I'm asking. Yeah.
+[00:32:09] The four million-
+[00:32:09] So 6.4 in total.
+[00:32:11] Okay.
+[00:32:12] Yeah.
+[00:32:12] So
+[00:32:13] is there a particular region that requires most investment from that?
+[00:32:18] The approach that's been taken is we look at the towers, the mobile towers, that
+[00:32:23] frequently have power outages.
+[00:32:25] So you can pick regions like Northland, Eastland,
+[00:32:29] areas like-
+[00:32:30] East Cape
+[00:32:31] ... East Cape, things like that, and then focusing on the mobile towers that
+[00:32:34] actually cover population within those remote
+[00:32:38] locations, and then putting the batteries into those.
+[00:32:40] So it's about 350 that we're targeting, and some of those
+[00:32:44] we've already got underway at the moment as well.
+[00:32:46] So we already have-
+[00:32:47] Okay
+[00:32:48] a number already actually deployed out there as well.
+[00:32:51] So will that funding be sufficient?
+[00:32:54] Pardon?
+[00:32:54] Will that funding be sufficient for all these towers?
+[00:32:57] It's the contribution that we're making at the moment.
+[00:33:00] And
+[00:33:01] like I say,
+[00:33:03] future governments will make future decisions about further
+[00:33:07] investments.
+[00:33:07] And we've got some co-funding from the sector on this last round, so the sector's
+[00:33:11] actually putting in 50% funding.
+[00:33:13] So, we got about 100 covered at the moment.
+[00:33:16] So you think about isolated places like, you remember Rissington during the cyclone
+[00:33:20] was isolated. Its cell tower went down. People didn't know what was happening.
+[00:33:23] So that's now got 24-hour support.
+[00:33:25] So in that event, the residents can call, they can get emergency services,
+[00:33:29] they can get emergency service alerts and things like that.
+[00:33:34] Okay.
+[00:33:34] Quite a few to the East Coast. Napier, Taihape, Road Arrow all getting better
+[00:33:37] resilience towers because that's unfortunately where there was life lost there
+[00:33:40] during the event as well. So that's the sort of prioritization.
+[00:33:44] We're seeing technology
+[00:33:46] start to solve this problem more and more as well with the directed device from
+[00:33:50] satellites. So I think some networks you can already text
+[00:33:54] when you're outside cellphone coverage or in disasters, and
+[00:33:57] networks have plans to roll out voice to phone
+[00:34:01] coverage from satellites
+[00:34:03] over the next couple of years. So I think in terms of natural
+[00:34:07] disaster recovery, that's a real game changer.
+[00:34:10] 350 is a lot, because you've got to remember, there's a lot of mobile towers in New
+[00:34:13] Zealand, but they duplicate themselves.
+[00:34:15] So we're only focusing on non-duplicated towers.
+[00:34:18] Okay.
+[00:34:19] So, it's a lot. It's about a third of the unique mobile towers
+[00:34:23] in New Zealand. So it's a lot.
+[00:34:25] That's a lot. Dr. David Wilson.
+[00:34:27] Just in terms of terrestrial fiber, subsidy cable
+[00:34:30] between North Island and South Island is one, as I understand. Is that correct?
+[00:34:36] I think there might be-
+[00:34:37] There's two.
+[00:34:38] There's a couple. One goes off the west coast as well.
+[00:34:40] One goes across, right, and then there's the ones that the Transpower has under
+[00:34:44] with the power cables.
+[00:34:45] Okay. That gives me some more confidence.
+[00:34:47] Yeah.
+[00:34:47] Because I'm a bit worried that if they were going to cut the power cable-
+[00:34:49] Yeah
+[00:34:49] ... between us and the South Island.
+[00:34:50] That's right. And I think there's more than one Transpower cable off the top of my
+[00:34:54] head.
+[00:34:54] Yeah. That's good to know. Thank you.
+[00:34:56] All right. We go back to Ruben Davidson.
+[00:34:58] Thank you.
+[00:35:00] I've got a relatively technical question here.
+[00:35:03] It's not actually. Yep.
+[00:35:05] Pardon?
+[00:35:05] A relatively technical question here, so I'm going to read a large part of it.
+[00:35:12] The country's primary export industries now depend on connectivity that runs
+[00:35:16] through a single foreign provider,
+[00:35:19] on terms that can be changed without notice that no New Zealand authority can
+[00:35:22] compel. A recent industry commissioned report, this is the Flint
+[00:35:26] Global March 2026, paragraph
+[00:35:30] 53, identifies national security or digital
+[00:35:34] sovereignty considerations as risks of satellite-based
+[00:35:38] networks. The analysis to quantify that exposure has not been
+[00:35:42] done,
+[00:35:43] and the situation is now forming faster than the absence of analysis
+[00:35:47] can be corrected. Is that of concern to you? Do you think it should be?
+[00:35:53] Well,
+[00:35:55] I think what we've seen over the last few years is
+[00:35:59] a global provider come in and offer a service that
+[00:36:04] is of great value to a number of New Zealanders who have
+[00:36:08] purchased it. Nobody's forced them to do it.
+[00:36:09] They've done it because it's better than anything they've had available to
+[00:36:13] them
+[00:36:14] at that point. And so, I would have thought that's a good thing, and
+[00:36:18] not something that we want to get in the way of.
+[00:36:22] Yes, it's not something that New Zealand owns or controls,
+[00:36:26] so that is a difference.
+[00:36:28] But again, I put to you what is
+[00:36:31] your suggestion? We're not
+[00:36:34] proposing for a New Zealand government entity to
+[00:36:38] start their own satellite network.
+[00:36:41] So we could regulate,
+[00:36:43] and there are elements that can be considered there, but obviously
+[00:36:47] we want to be careful about doing that because we want to ensure that New
+[00:36:51] Zealanders continue to have access to
+[00:36:54] this game-changing technology.
+[00:36:57] And there's been a lot of discussions about a second
+[00:37:01] provider entering the field, and that would be welcome.
+[00:37:05] But
+[00:37:07] fundamentally what's happened is that-
+[00:37:10] A company has come along offering a new service, using a new technology that
+[00:37:14] a lot of New Zealanders are using, and it's providing much better connectivity than
+[00:37:18] they've ever had in the past. And I think that's a good thing.
+[00:37:23] So there's nothing else that you think you need to do in that space, too?
+[00:37:27] Well, we look at the system as a whole.
+[00:37:31] And we want to ensure that New Zealanders have access to the best
+[00:37:35] connectivity.
+[00:37:36] And ultimately,
+[00:37:39] as I said at the start, we've 88% of New Zealanders having access to
+[00:37:43] fiber, which is the gold standard in terms of speed
+[00:37:47] of
+[00:37:49] downloading and uploading.
+[00:37:51] Then that's great, and we want to continue to build on that.
+[00:37:55] Right. We have supplementary from Dr. Vanessa Wiening.
+[00:37:58] Thank you, Minister. Do you think it's the role of the government
+[00:38:02] to provide all of the funding and support
+[00:38:06] for the infrastructure, or do you think there's other ways that it can be achieved?
+[00:38:10] Well,
+[00:38:11] no.
+[00:38:12] Obviously,
+[00:38:15] the majority of investment in telecom's infrastructure
+[00:38:19] has been done through the private sector, and we've got three
+[00:38:23] cellular companies and a number of other companies involved in
+[00:38:27] fiber and
+[00:38:30] whisper, the
+[00:38:33] internet-based,
+[00:38:34] Wi-Fi based internet. And so,
+[00:38:37] and many other areas. And, so the primary sort
+[00:38:41] of public focus is to ensure that the regulatory settings are
+[00:38:45] encouraging of continued investment.
+[00:38:48] And that's good. And if you were to contrast that with many other areas of
+[00:38:51] investment, some of which are dominated more by local
+[00:38:55] government or central government, I think this is an area that has done very well.
+[00:38:59] And I think the private sector engagement in that is a big part of it.
+[00:39:02] And so, Minister, do you think that what the sector has been asking for has
+[00:39:06] been more of that regulatory relief and to
+[00:39:10] make sure that those requirements are fixed
+[00:39:14] and are favorable rather than necessarily looking what the funding
+[00:39:17] allocations are?
+[00:39:18] Yeah. Well, the regulatory tension that we often face is,
+[00:39:25] particularly in the allocation of spectrum and things like that-
+[00:39:27] Mm
+[00:39:27] ... is to ensure that investments
+[00:39:31] have been made are not unduly
+[00:39:36] affected by
+[00:39:40] subsequent decisions. And so there's investment certainty.
+[00:39:44] But we're also concerned that we want to see plenty of competition and new entrants
+[00:39:48] coming into the field, and so we balance those two things.
+[00:39:51] Okay.
+[00:39:51] There's also been,
+[00:39:53] I think obviously we keep a pretty close eye on the regulatory system.
+[00:39:55] Mm-hmm.
+[00:39:55] I think there have been a couple of bills through this committee-
+[00:39:58] Yeah
+[00:39:59] ... recently as well, which I think we reported back over the last couple of
+[00:40:02] months.
+[00:40:02] Mm-hmm.
+[00:40:03] Which make a handful of regulatory-
+[00:40:05] Yeah
+[00:40:06] ... tweaks and changes.
+[00:40:07] Mm-hmm.
+[00:40:08] And I want to thank the committee for their-
+[00:40:09] Oh, yeah. I was going to like-
+[00:40:11] ... for their-
+[00:40:11] ... giving you both a nice for that
+[00:40:12] ... contribution.
+[00:40:13] It's been a real pleasure.
+[00:40:15] Yeah.
+[00:40:16] Dr. Hamish Campbell.
+[00:40:17] Yes, and actually it's probably led on to probably what my primary question was
+[00:40:21] going to be is, Minister, what's your approach to the
+[00:40:24] telecommunications regulations, which will create a more
+[00:40:27] competitive and resilient digital environment that will support
+[00:40:31] economic growth and innovation for businesses and households in
+[00:40:35] New Zealand?
+[00:40:36] Yes. Well,
+[00:40:37] what
+[00:40:41] we try aspire to achieve is a measure of
+[00:40:44] regulatory certainty,
+[00:40:47] and then regulatory
+[00:40:51] restraint.
+[00:40:52] And so a big part of the wider government effort in terms of
+[00:40:57] RMA reform,
+[00:40:59] and this thing called Neststep,
+[00:41:02] which is the rules in relation to putting up cellphone towers.
+[00:41:07] All of that we consider in the light of trying to make it easier for
+[00:41:10] people to do things, and less expensive
+[00:41:14] in a regulatory sense, while always preserving the
+[00:41:19] rights of New Zealanders to have a say on what goes on in their broader
+[00:41:23] environment within reasonable bounds.
+[00:41:25] And so, we're trying to get that setting right.
+[00:41:28] We've got the
+[00:41:30] Telecommunications Commissioner who acts as a sort of a watch which
+[00:41:34] is, and that process through the Commerce Commissioner has been subject of some
+[00:41:38] reform, but we think is good sound framework in place.
+[00:41:42] And then
+[00:41:45] over the last few years, the government has
+[00:41:48] taken a role in investing in the rollout of the ultra-fast broadband and
+[00:41:51] rural broadband initiatives. But
+[00:41:55] fundamentally,
+[00:41:57] it's very much a private sector-based
+[00:42:00] sector. And the good news is that people continue to
+[00:42:04] invest significantly in New Zealand,
+[00:42:07] and we want to keep it that way.
+[00:42:09] Great. Hoover Anderson.
+[00:42:11] Thank you. One of the areas that is often overlooked and
+[00:42:16] in this part of the examination is
+[00:42:19] the funding and services for deaf, hearing impaired, and speech impaired people.
+[00:42:24] And I see
+[00:42:26] that that's forecast to decrease going
+[00:42:29] into '26, '27. But I'm also
+[00:42:34] conscious that there's a
+[00:42:37] tender process underway currently for New Zealand Relay Services.
+[00:42:41] And there's been, as you're probably aware, some concern around
+[00:42:45] the lack of communication and pace,
+[00:42:49] or not the lack of pace, but the pace of that consultation process,
+[00:42:53] particularly given the stakeholders who may want to engage with it.
+[00:42:57] And I'm just curious as to whether you've had those concerns
+[00:43:01] raised as I have, and what, if anything, you're prepared to do to ensure
+[00:43:05] that there's a quality consultation process that happens there, and
+[00:43:09] that the stakeholders that should be involved are able to be engaged with.
+[00:43:14] Well, the short answer is yes, I have heard those concerns raised.
+[00:43:17] And James might be able to-
+[00:43:20] Yeah, sure
+[00:43:20] ... put more detail on that.
+[00:43:22] A few answers just on the funding decrease.
+[00:43:26] That's really a consequence of the timing of the procurement project, so the
+[00:43:29] sequencing of when the spin happens.
+[00:43:31] So it's not a reduction in the funding on the service or the quality of the
+[00:43:35] service.
+[00:43:37] We take that feedback
+[00:43:41] from the sector extremely seriously.
+[00:43:44] We're very conscious about who we're providing the service for, and we want to make
+[00:43:48] sure we get that consultation right with those community members.
+[00:43:52] So,
+[00:43:54] yes, we will be working closely with them to, yeah, address their
+[00:43:58] concerns.
+[00:43:59] So is that an extra effort or is that an
+[00:44:02] extension to the consultation window?
+[00:44:05] I think there'll be an extra effort.
+[00:44:10] I think there's plenty of time in this process to do more engagement.
+[00:44:15] But we want to make sure we hear directly from the community as well.
+[00:44:18] So we'll be reaching out to them.
+[00:44:20] Sure. And how's that come about, given that you've spoken about the
+[00:44:24] fact that you are really conscious of that community, and given that they do
+[00:44:27] have additional challenges with engaging with a lot of
+[00:44:31] government process and official process?
+[00:44:34] How's that eventuated in this event?
+[00:44:40] I'm not completely sure.
+[00:44:42] I
+[00:44:46] guess from here we can say we will make sure we will engage with the community
+[00:44:50] fully,
+[00:44:51] and yeah, address their concerns.
+[00:44:54] Sure. And Minister, specifically, I'm curious what you might be able to do
+[00:44:58] to
+[00:44:59] rectify the issues that have arisen through this process.
+[00:45:03] Well, look, I've got every confidence
+[00:45:07] in the ministry's processes here.
+[00:45:09] But it sounds like the feedback I have is people feel like they're being
+[00:45:13] rushed.
+[00:45:14] And
+[00:45:16] so the first step, of course, is just to ...
+[00:45:20] One of the good things about being in New Zealand is it's a relatively small place,
+[00:45:23] and people can have direct conversations, and
+[00:45:27] see
+[00:45:29] what we can agree. And if we need to
+[00:45:33] change the way we're doing it, we can consider that.
+[00:45:36] But I'm sure we'll find a way through.
+[00:45:38] So would you consider an extension to the consultation window?
+[00:45:41] Well,
+[00:45:44] yes, I will consider it. I'm not going to
+[00:45:47] commit to it because we've also got
+[00:45:50] things that people are waiting on.
+[00:45:52] But
+[00:45:53] we can take some time to look through that if we can.
+[00:45:58] Good. Looks like, yep.
+[00:46:01] Oh, Ruben Nevinson, more questions?
+[00:46:02] Yeah.
+[00:46:02] On this primary, is it?
+[00:46:04] Oh, well-
+[00:46:04] We still have time. Yep.
+[00:46:05] Can be.
+[00:46:05] Let's carry on.
+[00:46:06] We've got so much time and so much we-
+[00:46:07] Oh, come on. Come on. Yeah. Thank you.
+[00:46:08] There's pages here we haven't got through yet.
+[00:46:10] Yeah. Quickly.
+[00:46:12] I'm interested in the
+[00:46:16] AM frequency
+[00:46:18] and the,
+[00:46:21] well, I guess as an opening question, what you see as the future of the AM
+[00:46:23] frequency in New Zealand.
+[00:46:27] Well,
+[00:46:31] it still carries on doing its thing.
+[00:46:33] We had up in Auckland, there were two big masts and
+[00:46:37] now there's going to be one big mast.
+[00:46:39] And still there are people who tune in, and
+[00:46:43] it still has a place.
+[00:46:45] Not perhaps as much as it used to. I don't know about you, but I tend to listen to
+[00:46:49] things on my phone through
+[00:46:52] the internet rather than through a Wi-Fi.
+[00:46:54] And a lot of people through AM or FM, but people in their cars
+[00:46:58] often obviously still do. So it still has a place.
+[00:47:02] Particularly in emergencies and for resilience.
+[00:47:06] Yes.
+[00:47:08] So
+[00:47:10] any thoughts on that? You're saying it still has a
+[00:47:14] place. That doesn't determine whether you think you need to continue investment
+[00:47:18] in that infrastructure to ensure it's available as a resilience tool.
+[00:47:21] Well,
+[00:47:22] there's
+[00:47:26] one step
+[00:47:28] removed, but Radio New Zealand have invested in
+[00:47:31] putting in a very substantial new tower in Auckland.
+[00:47:35] So
+[00:47:36] they obviously see the
+[00:47:38] value in doing that,
+[00:47:40] and I support that.
+[00:47:44] Just with regards to those radio towers in Auckland that have come down.
+[00:47:48] Yes.
+[00:47:48] They obviously had a large footprint, much larger than the tower at the ground
+[00:47:52] level. So there's a part-
+[00:47:54] There was the wires. There were sort of wires coming out.
+[00:47:56] Yes, there... Well, hopefully. Otherwise, the function would've been somewhat
+[00:47:59] compromised.
+[00:48:00] Yes.
+[00:48:01] But they did sit on about seven hectares of land.
+[00:48:05] Yes.
+[00:48:08] What are the plans for that piece of land?
+[00:48:10] Well, that's a
+[00:48:11] matter that
+[00:48:14] RNZ are
+[00:48:16] working through. And
+[00:48:19] so they're still keeping one.
+[00:48:21] Where the second one was will become available, and my understanding that
+[00:48:25] arrangements have been made for that to
+[00:48:29] be
+[00:48:30] used. I'm just not quite sure what is publicly available or not, actually.
+[00:48:33] I might just need to check that before I
+[00:48:35] speak about it. But it'll
+[00:48:38] continue to serve a useful purpose.
+[00:48:40] So if the disposal or sale of that land generated revenue-
+[00:48:44] Yes
+[00:48:45] ... for the property owner-
+[00:48:46] Yes
+[00:48:47] ... the landowner-
+[00:48:47] Yes
+[00:48:48] ... Radio New Zealand in this instance.
+[00:48:49] Yes.
+[00:48:50] That would look to me like a
+[00:48:52] sizable
+[00:48:54] piece of funding that could be reinvested back into a potentially
+[00:48:57] under-resourced state broadcaster.
+[00:48:59] Well,
+[00:49:00] if any money was realized, well, then there would naturally be a
+[00:49:04] discussion between the broadcaster and the
+[00:49:08] government about what should stay with the broadcaster and what should
+[00:49:12] come back to the people of New Zealand.
+[00:49:15] And there would be that discussion.
+[00:49:18] Sure. So you're open to some or all of those funds going directly back into Radio
+[00:49:22] Well, it's not just a matter of me being open to it, it is also a matter of the
+[00:49:25] Minister of Finance being into it as well.
+[00:49:28] And so, we'll be having those discussions.
+[00:49:30] Oh, okay. But you're not ruling out that some or all of those funds could go back
+[00:49:34] to Radio New Zealand?
+[00:49:35] I'm not ruling anything in or out.
+[00:49:39] Well, I can rule out not all of it being kept by
+[00:49:43] a particular broadcaster. Yes, I could rule that out.
+[00:49:45] But certainly, there's a discussion to be had about
+[00:49:52] exactly what happens with the proceeds.
+[00:49:54] Okay. So looks like that's all. Thank you so much,
+[00:49:58] Minister. There might be some written questions, follow-up questions.
+[00:50:01] Thank you so much.
+[00:50:01] Thank you, everyone.
+[00:50:02] Thank you.
