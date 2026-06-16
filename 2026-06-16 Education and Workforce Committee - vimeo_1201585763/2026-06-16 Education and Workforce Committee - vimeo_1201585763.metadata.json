@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-16T00:54:08.243519+00:00",
+  "generated_at": "2026-06-16T01:56:26.652791+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1201585763",
-  "title": "Education and Workforce Committee",
+  "title": "2026-06-16 Education and Workforce Committee",
   "url": "https://vimeo.com/1201585763",
   "published_at": "20260616",
   "published_display": "2026-06-16",
   "duration_seconds": 5598,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page education-and-workforce",
+  "source_labels": "Vimeo RSS nzparliament",
   "transcript": {
     "source": "whisper",
     "language": "en",
