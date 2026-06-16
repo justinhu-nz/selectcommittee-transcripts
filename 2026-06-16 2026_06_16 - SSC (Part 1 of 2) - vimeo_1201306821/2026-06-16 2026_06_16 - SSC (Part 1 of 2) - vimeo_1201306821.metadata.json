@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T06:22:58.769002+00:00",
+  "generated_at": "2026-06-16T06:29:23.268392+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1201306821",
   "title": "2026-06-16 2026/06/16 - SSC (Part 1 of 2)",
@@ -7,7 +7,7 @@
   "published_at": "20260616",
   "published_display": "2026-06-16",
   "duration_seconds": 5009,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758270, Vimeo Video 1201306821",
+  "source_labels": "Vimeo Video 1201306821",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
