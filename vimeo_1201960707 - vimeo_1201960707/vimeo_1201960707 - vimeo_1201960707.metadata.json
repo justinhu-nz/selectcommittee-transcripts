@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-17T01:26:27.099296+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1201960707",
+  "title": "vimeo_1201960707",
+  "url": "https://vimeo.com/1201960707",
+  "published_at": "20260617",
+  "published_display": "2026-06-17",
+  "duration_seconds": 3429,
+  "source_labels": "Parliament Page finance-and-expenditure, Vimeo Showcase 10758103",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3428.36,
+    "segment_count": 1236,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1201960707 - vimeo_1201960707\\vimeo_1201960707 - vimeo_1201960707.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1201960707",
+    "display_id": "1201960707",
+    "title": "Finance and Expenditure Committee",
+    "webpage_url": "https://vimeo.com/1201960707",
+    "original_url": "https://vimeo.com/1201960707",
+    "upload_date": "20260617",
+    "release_date": "20260617",
+    "timestamp": 1781656388,
+    "release_timestamp": 1781656401,
+    "duration": 3429,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2169439753-786c8b2f165596127603888efe73a40186b5aa049b14a813eba360d8feb5614e-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

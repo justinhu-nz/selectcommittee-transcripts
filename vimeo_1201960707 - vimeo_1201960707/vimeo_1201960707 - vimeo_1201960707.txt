@@ -1,0 +1,1241 @@
+Title: vimeo_1201960707
+URL: https://vimeo.com/1201960707
+Published: 2026-06-17
+Duration: 00:57:09
+
+[00:00:00] And in, BHFU, we'd assumed a GP of about
+[00:00:03] 0.4. I think our latest estimate is about 0.8, which is-
+[00:00:08] Okay ... if anything, slightly below the number of the market- Yeah ...
+[00:00:12] economists are- Thank you ... sorry, for the
+[00:00:15] March quarter.
+[00:00:17] We've also had some fiscal information out for
+[00:00:21] the month of April,
+[00:00:24] which is slightly ahead of our budget forecasts.
+[00:00:27] And obviously the most significant factor is
+[00:00:31] the
+[00:00:33] trend of oil prices in recent weeks, whereas at least
+[00:00:36] as of this morning, the futures curve is, if anything,
+[00:00:40] below what we're assuming in
+[00:00:43] the budget. So, as I said in the session with the
+[00:00:47] minister, we're broadly comfortable
+[00:00:51] still with
+[00:00:52] the trajectory of our forecasts. As I said, we still see
+[00:00:57] very significant risks. The Middle East is not a more
+[00:01:01] stable place than it was a few months ago.
+[00:01:05] We have to see how
+[00:01:08] the peace deal plays out. And
+[00:01:12] we have to see how long it takes for infrastructure in the Gulf to
+[00:01:16] return, supply chains to adjust,
+[00:01:21] and all of those things. So, we are certainly not
+[00:01:24] complacent about the risks around our
+[00:01:28] forecasts. The point I would make in terms
+[00:01:32] of the fiscals,
+[00:01:34] broadly,
+[00:01:36] the story is one that we've talked to the committee about before, that we have
+[00:01:41] a pretty large deficit at the moment.
+[00:01:44] If you look in international terms, it's
+[00:01:46] as I think Standard & Poor's said in their budget commentary,
+[00:01:51] the only AAA-rated country at the moment that has a bigger deficit than New Zealand
+[00:01:54] is the United States.
+[00:01:57] Obviously, the current government has a track towards that
+[00:02:01] deficit closing over the
+[00:02:04] forecast period, and the underlying dynamics of that are still in
+[00:02:08] place.
+[00:02:09] One of the things that I've been keen since I've come back into the role is
+[00:02:13] to give anyone who looks at our forecast more information
+[00:02:17] around the risks around any set of forecasts, because there are
+[00:02:20] always lots of risks. And
+[00:02:24] in
+[00:02:25] the last set of forecasts, we updated the quantification of
+[00:02:29] specific fiscal risks.
+[00:02:31] In this update,
+[00:02:34] we've introduced a new sort of statistical
+[00:02:37] and quantification of the risks around our forecast over the
+[00:02:41] projection period that I think is really helpful.
+[00:02:44] So we look at the errors in our forecasts over the last 20
+[00:02:48] years, and if you put them through a normal distribution, what does that imply
+[00:02:51] about the potential range of outcomes over the three or four years?
+[00:02:55] So, while we have a
+[00:02:59] surplus and a track over the forecast period,
+[00:03:02] the probability is we've got about a 50, 60% chance
+[00:03:06] of achieving that
+[00:03:09] on the basis of previous
+[00:03:13] errors.
+[00:03:14] Similarly, there are risks both upwards, upside and downside, quite
+[00:03:18] significantly around our debt track.
+[00:03:20] So I think the point I'm making is that when you look out three, four years,
+[00:03:25] particularly in the context of the shock-prone world that we're
+[00:03:28] increasingly seeing as our base case,
+[00:03:32] whoever is making fiscal decisions is going to have to think about those
+[00:03:35] decisions in the context of an outlook that could change quite
+[00:03:39] materially
+[00:03:40] in the coming years. And then finally,
+[00:03:43] as we've talked about in the session with the minister, I think we've enhanced our
+[00:03:47] disclosures around
+[00:03:49] potential costs of NDC, around offshore purchasing with the
+[00:03:53] note that we released recently. So I see that as part of
+[00:03:58] Treasury's job in terms of our being politically impartial, but
+[00:04:02] giving parties around the table information on
+[00:04:06] which they can inform the debate. So I'll
+[00:04:10] just leave it there, Mr. Chairman- Thank you.
+[00:04:11] I'm going to kick off with- And open to the committee's questions ...
+[00:04:13] Chloe Swarbrick. Thank you.
+[00:04:14] Thank you, and thank you as well for that note on the NDC potential
+[00:04:18] liability crystallizing. I know that we'll probably debate about the terminology,
+[00:04:20] but thank you for that work.
+[00:04:23] I just wanted to ask about the LNG facility services.
+[00:04:27] So what kind of assumptions did you make as
+[00:04:30] Treasury in your fiscals with regard to the LNG import facility and
+[00:04:34] those budget line that's associated
+[00:04:37] for it?
+[00:04:39] So our forecasts-
+[00:04:44] Yeah. So,
+[00:04:46] sorry. The forecasts basically include an expense
+[00:04:50] for the facility and a corresponding revenue.
+[00:04:53] So the assumption is that the expense will be recovered through
+[00:04:57] revenue.
+[00:04:58] Mm-hmm.
+[00:04:58] And basically, both of those match up.
+[00:05:01] So overall, it's, I suppose, fiscally neutral to the operating
+[00:05:05] balance.
+[00:05:06] Okay. Obviously, we now have subsequent to earlier this month, Minister
+[00:05:10] Brown stating that it will no longer be funded through a levy, which
+[00:05:14] now leaves it really unclear as to how cost recovery will work, and there
+[00:05:18] seems to be quite a substantive risk that these costs will then be borne by the
+[00:05:22] Crown.
+[00:05:23] How is this possibly being budgeted for?
+[00:05:26] Is this effectively what you were trying to allude to in your fiscal risk piece?
+[00:05:29] Yeah. No, I think what we've included in our
+[00:05:33] forecast has been accompanied with a specific fiscal risk.
+[00:05:36] So again, as the scheme is designed
+[00:05:40] and decisions around the scheme, there could be potential impacts which will differ
+[00:05:44] to what we've factored into our forecast.
+[00:05:46] So the government intends to sign the contracts for this LNG import facility,
+[00:05:50] but there's no provision for contingency or contingency for it in this
+[00:05:54] budget. How can the government proceed with signing contracts in that case?
+[00:05:58] Well, I suppose that's a choice for the government around if there is a fiscal
+[00:06:02] cost that does- Uh, pan out.
+[00:06:05] Mm-hmm
+[00:06:05] There's choices around how that is managed.
+[00:06:07] So,
+[00:06:09] there's choices around funding from the budget-
+[00:06:12] Mm-hmm
+[00:06:13] ... um, sorry, the Budget '27 allowance.
+[00:06:16] Mm-hmm.
+[00:06:16] There's a budget, sorry, between budget contingency, so there's kind of
+[00:06:19] choices there, um, to provide funding if, you know, if,
+[00:06:24] if the situation occurs where there is a fiscal cost from the
+[00:06:28] facility. That's correct. I mean, got to come back to certainly the gov-
+[00:06:32] government's current intention though is that that is not going to be
+[00:06:36] funded from the budget.
+[00:06:38] Okay. Has there been therefore absolutely no indication, no request
+[00:06:42] for, uh, advice on the potential reallocation of the billion odd
+[00:06:46] dollars for the fossil fuel kind of response contingencies for that to be
+[00:06:49] reallocated into the LNG import facility?
+[00:06:52] No, we've not given any advice on that, no.
+[00:06:54] Has there been any other instance that you can think of, particularly, Ian, uh,
+[00:06:58] in your time in this role, where there has been a government move ahead with
+[00:07:01] contracting a huge piece of infrastructure to the tune of a billion
+[00:07:05] plus dollars without any idea of how it's going to pay for it?
+[00:07:09] Well, I think, I think ...
+[00:07:14] way, and has a series of milestones
+[00:07:18] there where it will, um, confirm, you know, the,
+[00:07:23] the pun- the funding options, you know, uh, around the time of
+[00:07:26] procurement.
+[00:07:28] So it's not the intention of the government to proceed with this
+[00:07:32] without scrapping down how it will be funded.
+[00:07:34] Okay. I hope that we see that materialize.
+[00:07:36] Um, so we've had two significant LNG price spikes in the last five
+[00:07:40] years. Has Treasury modeled the economic consequences for our
+[00:07:44] country if we inevitably get more future disruptions that spike
+[00:07:48] our electricity and gas prices under this-
+[00:07:50] Yeah
+[00:07:50] ... LNG import facility scenario?
+[00:07:52] I don't, I don't believe that we have, uh, I mean, we can,
+[00:07:56] we can confirm that in writing, but I don't believe that we've done modeling
+[00:08:00] around, um, risk modeling around the, the
+[00:08:05] LNG and, uh, I'm not sure whether MB-
+[00:08:08] Mm
+[00:08:08] ... has. That would be a good question to give-
+[00:08:10] But you could confirm that relying on imported energy makes, uh,
+[00:08:14] maintaining price stability harder?
+[00:08:17] Uh, no, I wouldn't, I wouldn't go that far.
+[00:08:19] Okay. Um, has the government, are you aware of, or have you been asked to provide
+[00:08:23] any modeling on the government providing any form of financial guarantees,
+[00:08:26] indemnities, or similar for the LNG, uh, terminal operator?
+[00:08:30] For example, I'm talking about harm to community and port workers' safety or
+[00:08:34] environmental damage that results, uh, from the government's decision to legislate
+[00:08:38] over the normal consenting processes.
+[00:08:40] We, we haven't been. Um, it's, it's important to remember
+[00:08:44] that MB is the lead agency around the
+[00:08:47] procurement, so some of those issues I, I would pick up with them.
+[00:08:51] But certainly Treasury hasn't provided advice as, as far as I'm aware.
+[00:08:54] You, you haven't been asked to run over the figures from MB on any of these issues?
+[00:08:58] Well, I mean, we, we, we are obviously, um,
+[00:09:01] working with MB in terms of the financial implications.
+[00:09:04] But in terms of the de- detailed issues that you're raising, Chloe, I don't, I
+[00:09:07] don't believe that we've been asked for p- particular advice.
+[00:09:11] Interesting.
+[00:09:11] Thanks. We've got a supplementary from Megan Woods.
+[00:09:14] Thank you. So Concept Consulting, um, has some analysis
+[00:09:18] out, um, that shows, um, if the LNG
+[00:09:21] terminal goes ahead, eventually gas consumption will be
+[00:09:25] supplied predominantly from overseas gas rather than New Zealand fields,
+[00:09:29] because it will extend the use case-
+[00:09:32] Mm-hmm
+[00:09:32] ... around the infrastructure. And they're saying that will have an adverse effect
+[00:09:35] on New Zealand's balance of payments, increasing it by around
+[00:09:39] 4% of '25, 2025's deficit
+[00:09:42] relative to the option where consumers transition to renewable electricity and
+[00:09:46] biomass. Which makes sense. You're, you're paying other
+[00:09:50] countries, uh, for molecules rather than producing electrons
+[00:09:54] here in New Zealand and creating jobs.
+[00:09:57] Has MB,
+[00:09:58] um, asked for any input for, from you
+[00:10:03] around the balance of payments impacts of progressing with
+[00:10:07] the LNG terminal?
+[00:10:09] I, I have, I have not, um... I don't
+[00:10:13] believe that's the case. Um, I'm happy to confirm that in writing, but I-
+[00:10:16] I could definitely-
+[00:10:17] Yeah.
+[00:10:18] Definitely.
+[00:10:18] I'm happy to. I don't think it's the case.
+[00:10:20] All right. We've got a new primary from Barbara Edmonds.
+[00:10:23] Thank you. Just, um, looking at the statement of actual contingent liabilities and
+[00:10:26] assets on page 21. Um, there's a note around
+[00:10:30] inter-segment eliminations, and it refers to uncalled
+[00:10:34] capital, the Ferry Holdings Limited, is that right?
+[00:10:37] Just checking.
+[00:10:38] Yep.
+[00:10:38] Yeah, that's right.
+[00:10:39] Yeah. Can you just, um, just
+[00:10:41] take me through
+[00:10:43] what that un-, uh, what the, what the
+[00:10:47] uncalled capital is for in relation to Ferry Holdings?
+[00:10:50] Is it the actual ships themselves, or is it the
+[00:10:54] corresponding infrastructure? Can you provide, and provide a breakdown of that,
+[00:10:58] please?
+[00:11:00] If not, I could-
+[00:11:00] Well, in terms, in terms of breakdown, we can do that in-
+[00:11:03] In writing
+[00:11:04] ... in writing.
+[00:11:04] Do you-
+[00:11:04] I think, um, like the uncalled capital is basically, uh, the
+[00:11:08] amount of shares that could be called from, um, from,
+[00:11:12] uh, Ferry Holdings. So-
+[00:11:13] Do you want to come forward? Sorry, just in case someone needs to pick it up.
+[00:11:16] Yeah. So, sorry, the, the, the amount dis-
+[00:11:19] disclosed, uh, in that statement basically reflects to the uncalled
+[00:11:23] shares, uh, that Kiwi, or sorry, that Ferry Holdings,
+[00:11:27] uh, uh, are able to call and the Crown provide capital to that.
+[00:11:30] It doesn't reflect, um, the, the amount which is
+[00:11:34] relating to-
+[00:11:36] The cost of capital
+[00:11:36] ... uh, the, the ships versus in- the infrastructure around it.
+[00:11:38] So it's not directly related to that.
+[00:11:41] Okay. It's just uncalled shares.
+[00:11:42] So, uh, yeah. So it's basically the amount the Crown has, I suppose, committed to
+[00:11:46] provide to Ferry Holdings.
+[00:11:48] 'Cause it's quite a big
+[00:11:51] figure.
+[00:11:51] Mm-hmm.
+[00:11:52] Yes. Mm-hmm.
+[00:11:52] It's a significant change.
+[00:11:54] Yep.
+[00:11:55] Yeah.
+[00:11:55] Yes.
+[00:11:56] Why so big?
+[00:11:58] Well, so, so basic-
+[00:11:59] I mean, such a, such a significant shift from 39, negative 39 to, uh, 1.1 billion.
+[00:12:03] Yeah. Uh, and, and that's basically related to the timing of when, um,
+[00:12:07] when, um, the, the announcements around, uh, the procurement
+[00:12:10] happened.
+[00:12:11] Mm-hmm
+[00:12:12] So watch us. We can come back to you with the timing, but I think it was around
+[00:12:15] November where the announcements were made-
+[00:12:18] Yeah
+[00:12:19] ... last year.
+[00:12:19] Thank you.
+[00:12:20] Supplementary, Chloe?
+[00:12:22] No. That's it for that one.
+[00:12:23] But for primaries, please.
+[00:12:24] Thank you. Dr David Olsen.
+[00:12:26] Yeah. Look, thank you again for outlining the way that
+[00:12:30] you're looking at risks, projected risks, and looking them through a range to
+[00:12:34] upside and downside. That's really good to hear.
+[00:12:38] My first question is,
+[00:12:41] do you foresee, given that new way of looking at forecasts,
+[00:12:45] continued volatility? Because you looked back 20 years, correct?
+[00:12:49] And it's not like we haven't had volatility in the last 20 years.
+[00:12:52] Is it more of the same, or has it increased?
+[00:12:55] Oh, I think our view is
+[00:13:00] that the likelihood is we will see increased volatility,
+[00:13:04] and that comes from a number of sources.
+[00:13:08] What's happened in the Gulf is just one example
+[00:13:12] of the geopolitical volatility that
+[00:13:16] we all live with. And unfortunately-
+[00:13:18] Yeah
+[00:13:18] ... we don't see that changing anytime soon.
+[00:13:22] So-
+[00:13:23] There are then
+[00:13:24] other kinds of
+[00:13:27] shocks that can induce volatility.
+[00:13:31] Some of those are enduring. New Zealand, unlike many countries,
+[00:13:35] has a risk of a significant biosecurity shock.
+[00:13:38] We have more risk around seismicity than certainly most developed
+[00:13:42] countries. We have risks around the
+[00:13:46] increased
+[00:13:48] incidents of various climatic-related
+[00:13:51] risks. Now, some of those might be more locally based, but some of them could be-
+[00:13:55] Mm-hmm
+[00:13:56] ... more national.
+[00:14:00] We've talked a little bit, I think, and when the minister was here about we
+[00:14:03] certainly see,
+[00:14:05] given the
+[00:14:07] state of equity markets internationally, the risks
+[00:14:11] of
+[00:14:13] financial shocks and we do see
+[00:14:17] countries are more interconnected.
+[00:14:20] International bond markets are interconnected.
+[00:14:23] So the likelihood of what happens overseas transmitting
+[00:14:27] itself to the New Zealand economy in some way, I think
+[00:14:30] it's as high as it's ever been, if not
+[00:14:33] higher.
+[00:14:34] So supplementary, it's that you would see that a solid position in net
+[00:14:38] core crown debt improving that will give us that headroom
+[00:14:43] to-
+[00:14:43] Look, it's one of the-
+[00:14:44] ... manage those risks.
+[00:14:44] Look, I think it's one of the
+[00:14:47] lenses that you're increasingly seeing through Treasury
+[00:14:51] advice to the government is the concept of resilience.
+[00:14:55] So we can't wish away
+[00:14:58] these sources of volatility. What we can do is think about how does
+[00:15:02] the New Zealand economy best position.
+[00:15:05] Now, some of this is what I call macro resilience, so that's those settings around
+[00:15:09] monetary and fiscal policy. Some of it will be more what you might call
+[00:15:13] micro resilience, a bit about how do particular markets and economy,
+[00:15:17] are they set up so that they are more resilient to various kinds of
+[00:15:22] shocks. And I think the fuel crisis that we've just been
+[00:15:26] through is an image of that.
+[00:15:30] So,
+[00:15:31] we're forecasting trade surplus or current account surplus in
+[00:15:35] 2028, if I remember rightly. And then anything-
+[00:15:37] Not a current account surplus. We have-
+[00:15:40] Okay. Just trade
+[00:15:40] ... we have deficits right
+[00:15:42] through.
+[00:15:42] That's right. Yeah, you're correct.
+[00:15:45] But that is actually a key part for us, isn't it?
+[00:15:47] Understanding that kind of trade surplus resilience in that picture.
+[00:15:51] That's right. And that's where the fiscal story is also important.
+[00:15:55] So one of the reasons why we have a current account
+[00:15:59] deficit is it reflects the underlying savings and investment
+[00:16:03] balances in the economy, and the fact that government went from being a
+[00:16:07] consistent saver into the economy
+[00:16:10] versus being a consistent dissaver in the economy is one of the
+[00:16:14] reasons why that current account remains in deficit.
+[00:16:18] And that is certainly an issue that rating agencies, for example,
+[00:16:22] look at when they're making their judgment about our rating.
+[00:16:26] Thank you.
+[00:16:27] Dr Deborah Russell.
+[00:16:28] Oh, thank you. I want to ask some stuff around the reporting around climate.
+[00:16:32] So,
+[00:16:33] this is always the best session of the year, actually, when we get to have this
+[00:16:35] sort of discussion about the budget with our-
+[00:16:37] Hell yeah.
+[00:16:38] I really enjoy it.
+[00:16:40] Recognize it's not a bad session.
+[00:16:43] Tells you a lot about the state of our democracy.
+[00:16:45] Yeah, it does. So I'm just looking at the Beppu in and on page
+[00:16:49] 80, you've got a discussion of the accounting treatment
+[00:16:53] of
+[00:16:55] New Zealand's NDCs. That's kind of interesting,
+[00:16:59] because last year, so this discussion, a very similar note
+[00:17:03] was in the financials-
+[00:17:04] Correct
+[00:17:05] ... for the year to June '25.
+[00:17:07] Mm-hmm.
+[00:17:08] And,
+[00:17:09] last year the discussion of the budget was why we're not
+[00:17:13] recognizing this liability yet. So quite a discussion about
+[00:17:17] the levels of which you might recognize risk.
+[00:17:20] But sitting in last year's Beppu is just a minor
+[00:17:24] note about,
+[00:17:26] or it's not minor, it's a note about a risk, but there's nothing like this
+[00:17:29] discussion sitting in last year's Beppu, and it's not sitting in...
+[00:17:33] I had to really track it down to see where it was reported.
+[00:17:34] So this is kind of a little bit novel, pulling this statement of this
+[00:17:38] accounting policy through into this year's Beppu.
+[00:17:41] And to me, I guess I'm looking for the thinking behind it as to
+[00:17:45] why you're pulling it into this kind of prominence,
+[00:17:49] in terms of the actual risk. You've got virtually the same statement in the
+[00:17:54] statement of non-specified risk or something like that sitting up the front.
+[00:17:57] So what's the thinking there about pulling this particular-
+[00:18:00] Well, I think
+[00:18:01] there's
+[00:18:03] a couple of things-
+[00:18:04] Yeah
+[00:18:04] ... Deborah. If I go back to where I started as more
+[00:18:08] generally we're seeking to lift the overall
+[00:18:12] quality of the risk analysis-
+[00:18:15] Mm-hmm
+[00:18:15] ... in our documents.
+[00:18:16] Mm.
+[00:18:16] So that's actually probably the biggest part of the story.
+[00:18:19] So if you think from that- What are the risks that you would put some
+[00:18:23] attention to? And this is clearly one of them.
+[00:18:26] There clearly are
+[00:18:28] a group of pretty serious individuals and groups out there
+[00:18:32] who have some quite strong views-
+[00:18:34] McInnes Institute
+[00:18:35] ... around, and so I respect those.
+[00:18:38] We
+[00:18:39] respectfully disagree with perhaps the solution, but I think fundamentally,
+[00:18:43] we
+[00:18:45] want to be clear about why we think the way we do.
+[00:18:49] And I link that to, it's not in the BFU, but it's in the technical
+[00:18:53] notes that we put around, but NDC is actually the key point here is
+[00:18:57] around, I think it's not so much the liability issue
+[00:19:01] or not, it's how do we provide all people who are
+[00:19:05] interested in this issue with information that can inform the public debate,
+[00:19:09] and we've done that through the mechanism of the technical
+[00:19:13] note that we released last week.
+[00:19:16] Yeah.
+[00:19:16] So I think that's the thinking as opposed to anything that has substantively
+[00:19:20] changed in the way we're thinking about this.
+[00:19:22] Thinking the technical note, that was the supplementary information.
+[00:19:26] Was it on the budget-
+[00:19:27] No, no, this is the note that went out on the Treasury website-
+[00:19:31] Oh, right. Last week
+[00:19:32] ... last week. Yeah.
+[00:19:33] $5 billion potentially.
+[00:19:34] Oh, that one. Yeah.
+[00:19:35] That one. That note.
+[00:19:38] I know about that.
+[00:19:39] I guess
+[00:19:41] the other thing that I'm finding
+[00:19:43] interesting in this space, and you were here for the discussion we had with the
+[00:19:47] Minister of Finance about whether we meet our NDCs
+[00:19:50] by offshore purchases or whether we do it by
+[00:19:56] onshore action.
+[00:19:58] And our analysis has been that a lot of the onshore action
+[00:20:02] isn't happening. So it's a little bit hard to quantify what's going on here.
+[00:20:06] So,
+[00:20:08] they're neither promising to buy offshore, nor are they actually
+[00:20:11] undertaking action to reduce our climate emissions.
+[00:20:13] So that kind of liability is building up as well.
+[00:20:16] And I'm wondering how you might start reflecting that or how you might start
+[00:20:20] thinking about that or start reflecting that in
+[00:20:24] your budget documents and accounting documents.
+[00:20:27] Well, clearly, I think,
+[00:20:30] given where we're at at the moment and we're talking a bit about a period that-
+[00:20:33] Yeah
+[00:20:34] ... finishes in 2030, so there's still
+[00:20:37] some way away. We have another parliament to essentially go
+[00:20:41] through.
+[00:20:43] There will be a series of both. What we stress in the technical
+[00:20:47] note we put out last week is look, there's still high levels of
+[00:20:51] uncertainty, both in terms of
+[00:20:53] what will be achieved in terms of
+[00:20:56] domestic mitigation,
+[00:20:58] the issues about costs of any offshore purchasing, the
+[00:21:02] institutional arrangements around that.
+[00:21:04] So there's a lot that we don't know at the moment,
+[00:21:08] and I think over the next few years, you'll begin to see
+[00:21:11] more clarity-
+[00:21:12] Mm
+[00:21:13] ... around that based on both whoever in government and
+[00:21:17] the decisions that they make and what happens in the international
+[00:21:21] community. So I'm pretty sure as we move through the next parliament,
+[00:21:25] you will see an evolution of how those issues are
+[00:21:29] reflected through the suite of documentation that we
+[00:21:33] provide in budget.
+[00:21:35] So just another couple of questions following along in this climate space.
+[00:21:38] One is, I guess,
+[00:21:41] at the beginning of this parliament, we heard a lot of...
+[00:21:45] Well, I'll avoid the use of rhetoric.
+[00:21:47] I'll use the word discussion about fiscal cliffs.
+[00:21:52] So this was time-limited funding, which funding was there on a time-limited
+[00:21:56] basis, and it was claimed that the current government had been
+[00:22:00] left with a real fiscal liability.
+[00:22:03] So
+[00:22:05] obviously we don't agree with that analysis because we felt as though we had
+[00:22:08] signaled those things. But equally, by not grappling with
+[00:22:11] this $5 billion or so now-
+[00:22:14] Mm-hmm
+[00:22:15] ... is the current government leaving quite
+[00:22:18] an issue to the next government coming in?
+[00:22:22] Which may be them or it may be us, and we're quite worried. Yeah.
+[00:22:25] Yeah.
+[00:22:26] Part of it is if you think about at least what
+[00:22:30] our note prompted last week is we are having that conversation, right?
+[00:22:35] And
+[00:22:36] different parties have clearly different views, and we'll see how that
+[00:22:40] plays out. But I think our role at the moment is obviously we faithfully,
+[00:22:45] as we would with any government-
+[00:22:46] Yeah
+[00:22:47] reflect their intentions. We have a wider stewardship role
+[00:22:51] around looking at the sorts of risks that any New Zealand government might
+[00:22:55] face, and we have done that in this case,
+[00:22:59] because we think it is an issue that whoever is in government after the election
+[00:23:03] will have to grapple with in some form.
+[00:23:05] Mm-hmm. Yeah. Okay, last, well, shifting to adaptation
+[00:23:09] policy, so it's climate related.
+[00:23:12] This is in last year's BFU
+[00:23:16] on page 77. We had a note about adaptation policy
+[00:23:22] changes, because the government had signaled its intent to
+[00:23:26] develop
+[00:23:27] a climate adaptation framework, which could create
+[00:23:31] funding decisions, so on.
+[00:23:34] I hunted, but I couldn't find a similar note in this year's BFU,
+[00:23:38] but that might just be because I didn't search hard enough or Google well enough.
+[00:23:42] Does anyone know where it is? Stuart, have you got...
+[00:23:46] Sorry, it's in last-
+[00:23:48] Let's come back to you on that one.
+[00:23:50] Yeah.
+[00:23:50] I-
+[00:23:51] Well, I don't know the answer, but that will be connected to the way we've
+[00:23:55] tried to streamline the fiscal risks.
+[00:23:59] Right.
+[00:24:00] And so-
+[00:24:01] Yeah. So the unchanged risks weren't in this year's BFU, and I couldn't
+[00:24:05] actually-
+[00:24:06] They're in the supplementary information
+[00:24:08] And I couldn't find this particular one in the supplementary information, but I
+[00:24:11] might have missed it. I did try, but I might have missed it.
+[00:24:13] Okay. Well, we can-
+[00:24:14] Yeah
+[00:24:14] ... anyway, we can pick that up in a-
+[00:24:15] Great. Thank you
+[00:24:16] ... further question, Deborah.
+[00:24:17] We've got a supplementary from Chloe and then Todd on the same-
+[00:24:20] Yeah. It was just to explore, if I may, this year, potentially a few
+[00:24:24] subs, but it is very much inquisitorial on this point of the NDC.
+[00:24:28] We've had much back and forth on this over the years.
+[00:24:31] Again, thank you very much for the present last week.
+[00:24:34] So I just wanted to confirm the basic calculus,
+[00:24:38] which is that if we are to take it, and I understand that this is where there
+[00:24:42] is some technical nuance with regard to Treasury's unwillingness to
+[00:24:46] recognize this as a constructive liability on the books.
+[00:24:49] But if we are to say, look, government is absolutely committed to making this
+[00:24:52] happen to the effect that it then can materialize effectively as a constructive
+[00:24:55] liability or however you would want to represent it.
+[00:24:58] The basic calculus, therefore, would become that
+[00:25:02] every reduction in domestic climate action, so
+[00:25:06] increase in our domestic climate-changing emissions, would therefore result
+[00:25:10] in an increase in us needing to buy offshore mitigation.
+[00:25:14] That logic still holds because it obviously was also underlying your analysis in
+[00:25:18] 2022 with MFE.
+[00:25:21] Yes.
+[00:25:21] So just,
+[00:25:23] I missed the front part of your question.
+[00:25:25] Our nationally determined contribution-
+[00:25:27] Yeah
+[00:25:27] ... in the Paris Agreement requires us to meet a national
+[00:25:31] determined contribution. That's our budget, effectively, and we can do that either
+[00:25:34] domestically or internationally.
+[00:25:36] So if it goes down domestically, therefore our obligation goes up internationally,
+[00:25:40] if we are to take for granted that the commitment holds.
+[00:25:44] Yeah. I think it's not quite as straightforward as that, and some
+[00:25:48] of that gets to some of the issues that the minister was talking about,
+[00:25:52] about
+[00:25:54] at the end of NDC1,
+[00:25:58] what
+[00:26:00] the agreed arrangements will be across countries within the
+[00:26:03] context of Paris.
+[00:26:07] And that's still a little unclear.
+[00:26:11] It feels as though what's being implied there is the
+[00:26:15] potential that other countries, a la what we're already seeing explicitly with the
+[00:26:19] likes of the United States and other far-right political party leaders across
+[00:26:23] particularly Europe, indicating that they want to see their respective countries
+[00:26:26] pull out of the Paris Agreement. If I'm to read between the lines, are you
+[00:26:29] effectively talking about that? Or can you-
+[00:26:31] No, no, no. And I think, and certainly,
+[00:26:36] our understanding is what the minister said, this government has
+[00:26:40] no intentions of moving out of Paris.
+[00:26:42] I think the issue is one about how countries,
+[00:26:46] given that there will be
+[00:26:49] the likelihood of a number of advanced economies who will not meet-
+[00:26:52] Mm-hmm
+[00:26:52] ... their NDC1.
+[00:26:54] How do they coordinate themselves?
+[00:26:56] How that will play out internationally.
+[00:26:58] Mm-hmm.
+[00:26:59] And there are a range of scenarios there, and I think there is still
+[00:27:03] a lot of uncertainty. And so coming back to the question that you raised, I think
+[00:27:06] that's why at the moment
+[00:27:08] it's a little too mechanical to say, well, you
+[00:27:12] do
+[00:27:13] more or less on domestic mitigation, and that will flow
+[00:27:17] through ergo into automatically more or less in terms of
+[00:27:21] offshore purchasing.
+[00:27:22] Because of the fact, on your analysis, the
+[00:27:26] context is capable of changing-
+[00:27:29] Absolutely
+[00:27:30] ... by the issue of other countries not potentially meeting their obligations-
+[00:27:33] Or the-
+[00:27:33] ... and therefore this international agreement falling apart.
+[00:27:35] Yeah. Now, I wouldn't say... Well, obviously the falling apart,
+[00:27:39] there's a scenario there that's not the one I'm focusing on.
+[00:27:43] It's more within the context of Paris among those countries that continue to
+[00:27:46] be part of Paris, how they will
+[00:27:50] agree to manage
+[00:27:54] it.
+[00:27:54] Hmm. And obviously the rationale that you've given in the past as to why
+[00:27:58] you don't consider this to be crystallizing as a constructive liability
+[00:28:02] is that the current government doesn't have a plan to
+[00:28:06] effectively meet that. Is not budgeting for it.
+[00:28:08] So the minister consistently, and the Prime Minister consistently saying this is a
+[00:28:11] commitment, doesn't constitute enough of a commitment for
+[00:28:15] Treasury to need to see it represented as a constructive liability.
+[00:28:18] So what, I know we've again gone back and forth on this, but you've gone away and
+[00:28:22] you've done a huge amount of work in the intervening year.
+[00:28:25] What criteria would enable this to then be construed as a constructive
+[00:28:29] liability? So I guess the point that I'm getting at is I just want us
+[00:28:33] to have sensible economic planning because I don't understand-
+[00:28:36] Yeah
+[00:28:36] ... how we can be saying across parties that we have a commitment that we're not
+[00:28:39] budgeting nor planning for, that we risk crystallizing in 2030-
+[00:28:43] Right
+[00:28:43] ... potentially to the tune of billions of dollars.
+[00:28:46] So I think, you want to talk a bit about the various kind of tests
+[00:28:50] that we would be looking at to
+[00:28:53] treat this as a liability? You want to talk about that, Jacqui?
+[00:28:59] So yes, under accounting standards, there are tests that need to be met,
+[00:29:04] to recognize an expense or a forecast expense in the
+[00:29:07] accounts. At the moment, we review that every time we produce a product
+[00:29:11] and see if those thresholds have been met or not.
+[00:29:15] At the moment, we're saying they still have not been met.
+[00:29:17] With any policy announcement or any statements that the government says, we
+[00:29:21] will relook at that each time we produce one of our documents.
+[00:29:25] So for sake of argument, what would need to change from a Minister of
+[00:29:29] Finance, a Prime Minister, every minister of this government saying that they're
+[00:29:32] committed to meeting the NDCs, albeit some grudgingly, I'm sure.
+[00:29:35] But saying that we're going to meet it,
+[00:29:38] what has to change? Because in the past you've told me that it's to do with them
+[00:29:41] actually budgeting for it, but therein kind of lies the irony of the thing, right?
+[00:29:45] That they have to budget for it in order for us to then be able to say that that is
+[00:29:48] a liability-
+[00:29:49] Mm-hmm
+[00:29:49] ... whereas right now they're not budgeting for it, so it's not a constructive
+[00:29:51] liability.
+[00:29:53] So I think there's a--
+[00:29:55] I can't give you a, it's exactly this thing or this thing.
+[00:29:58] There will be a number of circumstances and statements made by any government-
+[00:30:02] Mm-hmm
+[00:30:02] ... which we will look at in terms of does that tip you further along the,
+[00:30:06] we're actually obligating ourselves to do a specific thing which would make us
+[00:30:10] review what is a liability.
+[00:30:11] Yeah, so if we talk a hypothetical where Minister Swarbrick
+[00:30:15] said-
+[00:30:15] Thank you so much.
+[00:30:18] New Zealand is committing to, these are our plans for-
+[00:30:21] Mm-hmm
+[00:30:22] ... offshore mitigation. If we don't do
+[00:30:25] the domestic side, and we're going to do it through these kinds of mechanisms-
+[00:30:29] Mm-hmm
+[00:30:29] ... it's really concrete. It's very unequivocal.
+[00:30:33] It's getting below that sort of very general- ...
+[00:30:36] statement, those would be the sorts that we would be looking at.
+[00:30:40] Yeah. But I guess-
+[00:30:40] And I think the other point I want to come back to is,
+[00:30:44] at the end of the day, the party who is actually most important here in terms of
+[00:30:48] liability is not us, it's the Auditor General, right?
+[00:30:50] Mm. Mm.
+[00:30:51] Now, obviously, we work closely with them.
+[00:30:55] But it's not only going to be if the treatment changes in our
+[00:30:59] accounts, it's not just going to be because we change.
+[00:31:02] Mm.
+[00:31:02] It will need to be because of the general changes.
+[00:31:04] I mean, we could f**k it ad nauseam about technical accounting standards and
+[00:31:07] externalities, but-
+[00:31:08] A- a- absolutely.
+[00:31:09] Which is part of why, I suppose,
+[00:31:13] why I've tried to reframe this a little bit about the inf- because
+[00:31:17] actually the information that is in-
+[00:31:19] Yeah
+[00:31:19] ... the public domain around these issues, because I don't think
+[00:31:22] necessarily having it as a liability, I suppose I'm
+[00:31:26] less convinced it's going to change
+[00:31:29] behavior.
+[00:31:30] Yeah.
+[00:31:30] What I think is more is the general information around there.
+[00:31:33] I guess, just as my final point on this, if I may, just to be really, really
+[00:31:37] clear, there is a potential, per the work that you have
+[00:31:40] obviously done, regardless of whatever the government of the day does.
+[00:31:43] There is, and I hear you in terms of the ambiguity of all of the different
+[00:31:46] variables and what other jurisdictions do.
+[00:31:48] Mm-hmm.
+[00:31:48] But there is a potential that this liability or whatever we
+[00:31:52] want to call it, crystallizes in 2030 to the
+[00:31:56] tune of us having to pay potentially billions of dollars for offshore mitigation.
+[00:32:00] There is a potential that that occurs.
+[00:32:03] There is a
+[00:32:05] potential.
+[00:32:05] Yeah. Thank you.
+[00:32:07] Thank you. And you'll have the opportunity with Minister Watts at 1:30, I'm sure,
+[00:32:10] to take this.
+[00:32:11] He doesn't really answer those questions.
+[00:32:14] All right. Is that right?
+[00:32:16] Well, not in-
+[00:32:16] Revenue
+[00:32:17] ... not in revenue.
+[00:32:17] I will be asking about the UTS, though.
+[00:32:19] Did you mean constructive liability or contingent-
+[00:32:21] Constructive liability
+[00:32:22] ... constructive liability.
+[00:32:22] Contruction liability.
+[00:32:23] That's definitely different.
+[00:32:24] It's a new term for me. Thank you.
+[00:32:26] I've got hearing-
+[00:32:27] Oh, well, just to kind of close this up because-
+[00:32:30] Yeah
+[00:32:30] ... and just so we're clear. Yeah, there is no constructive liability around-
+[00:32:34] No
+[00:32:34] ... the NDC today.
+[00:32:35] That's right.
+[00:32:35] Auditor General agrees with your-
+[00:32:36] Absolutely
+[00:32:36] ... analysis, that's great.
+[00:32:38] We've-
+[00:32:38] And then I just want to, and again, I don't want to, obviously Deborah, Dr.
+[00:32:42] Deborah Russell raised some other issues around, and we'll
+[00:32:46] just use the term fiscal cliff, and I understand.
+[00:32:49] But that was quite different because those were actual programs that
+[00:32:53] were in the budget and budgeted for, and so quite a different
+[00:32:57] situation to what we're discussing here.
+[00:32:59] Yeah, I think if I look, I think if I could keep going back to,
+[00:33:04] without getting to the political debate-
+[00:33:05] Yeah
+[00:33:05] ... there's a whole range of uncertainties that
+[00:33:09] governments are going to be dealing with.
+[00:33:11] Now, some of them are in the time-limited funding-
+[00:33:13] Yes
+[00:33:14] ... category. I think one of the things that I have been
+[00:33:17] reasonably consistent with this committee is saying,
+[00:33:20] that the next term of government,
+[00:33:23] there will be some really big decisions taken by whoever is in government that will
+[00:33:27] shape the trajectory around-
+[00:33:30] Absolutely
+[00:33:31] ... fiscal path in the 2030s. So the issue we've been talking about with
+[00:33:35] Powee is one.
+[00:33:37] The renewal of the maritime fleet in the context of DCP is going to
+[00:33:41] be one of the biggest-
+[00:33:42] Mm-hmm
+[00:33:42] ... decisions any New Zealand government takes in the
+[00:33:46] next decade in terms of a fiscal
+[00:33:49] sense. It's really big. There are big issues that we've highlighted in
+[00:33:53] fiscal risks about the funding of the National Land
+[00:33:57] Transport Fund, where we've gone from essentially a fully funded fund,
+[00:34:01] pre-COVID, to a fund that's now only half funded
+[00:34:04] by Fed and RUC. Those
+[00:34:08] are the really big,
+[00:34:11] and then obviously you've got the bigger demographic issues like
+[00:34:14] health, super, et cetera.
+[00:34:18] The fiscal challenges that any New Zealand government's going to face over the
+[00:34:22] next three to five years and the decisions that they take
+[00:34:25] will very much determine what that trajectory looks like as we go
+[00:34:29] into the 2030s. No pressure.
+[00:34:34] Thank you.
+[00:34:35] No pressure.
+[00:34:36] I'll go to now a new primary with Dan Goodwill.
+[00:34:39] Thanks, Mr. Chair. Thanks, Ian, to you and your team.
+[00:34:43] Just turning to my favorite table in the BeFu- ...
+[00:34:46] which is the economic forecast table 1.2.
+[00:34:49] Ooh.
+[00:34:50] Not necessarily the
+[00:34:52] time series that the minister likes, but
+[00:34:56] I know there's a lot of assumptions in here, so a range
+[00:35:00] of commentators who have different views on some of those assumptions.
+[00:35:04] But I'm just trying to reconcile
+[00:35:07] inflation forecasts for table 1.2-
+[00:35:11] Yep
+[00:35:12] ... to the inflation forecast in table 4.2,
+[00:35:15] page 81. The CPI,
+[00:35:19] they're different, and I'm just keen to understand why they're
+[00:35:23] different, because I guess I'm really keen to see
+[00:35:28] what is the CPI that you're using to forecast
+[00:35:32] expenses and revenue increases
+[00:35:35] for this coming year and the next few years.
+[00:35:41] I did notice they were different, so I was just keen to see why they're different
+[00:35:44] or if I missed something. And then, more
+[00:35:48] importantly, what's the correct
+[00:35:51] CPI
+[00:35:54] that we're using to forecast expenses and revenue?
+[00:36:00] So they're both based on the same CPI forecast.
+[00:36:03] They expressed the rates of growth of inflation in different
+[00:36:07] ways. So in the table 1.2, it is the way
+[00:36:10] which we typically see the CPI released by Stats New Zealand.
+[00:36:14] That's saying how much higher is a price level in a particular quarter than the
+[00:36:17] same quarter a year ago.
+[00:36:19] Yeah.
+[00:36:20] On the latter table, it is an average of prices over that year
+[00:36:23] versus the previous year. So it's just a different way of calculating the growth
+[00:36:27] rate.
+[00:36:29] So yeah,
+[00:36:31] but the
+[00:36:32] same price levels and price numbers underpin both calculations.
+[00:36:35] So just-
+[00:36:36] But one's an annual percentage as an average.
+[00:36:38] So they're
+[00:36:40] different ways which you can measure it.
+[00:36:42] Okay.
+[00:36:42] One's a sort of point.
+[00:36:43] Yeah.
+[00:36:43] One point compared to a year ago, and the other is averaging the year versus the
+[00:36:47] previous year.
+[00:36:48] One's June to June.
+[00:36:49] Yep.
+[00:36:50] One's June quarter to June quarter.
+[00:36:52] Quarter to previous quarter. Yeah.
+[00:36:52] The other, that's the first table?
+[00:36:54] Yeah.
+[00:36:54] That's table 1.2.
+[00:36:56] Yes.
+[00:36:56] Yeah.
+[00:36:56] The second table is the average over that June year versus the
+[00:37:00] previous June year.
+[00:37:01] And so when we're forecasting expenses and revenue, are we
+[00:37:05] using the average-
+[00:37:07] Yes
+[00:37:07] ... year or the
+[00:37:08] Yeah. So that's more relevant when we move to the June year
+[00:37:12] formulation-
+[00:37:13] Okay
+[00:37:13] ... of expenses and revenue.
+[00:37:14] Okay. No, that's helpful. Thank you.
+[00:37:16] Are you
+[00:37:18] Peter, are you?
+[00:37:19] Yes. Peter Nelson.
+[00:37:20] Peter, yeah. Thank you, Peter.
+[00:37:22] The other thing is just, Minister mentioned around oil
+[00:37:26] prices that we're looking at that at the moment.
+[00:37:28] So just clarifying for you, central forecast for
+[00:37:32] this coming year,
+[00:37:34] what's track of oil prices? I guess m-many of us want to
+[00:37:38] know if oil prices are where they are now, is that good for the
+[00:37:42] government books?
+[00:37:45] Are we on track for the central forecast?
+[00:37:49] Because, I guess, we're not seeing any real
+[00:37:52] movement in the Strait of Hormuz, it's all just-
+[00:37:57] Yeah
+[00:37:58] ... I guess speculative price declines.
+[00:38:01] Mm.
+[00:38:01] If there are still no real movement in the strait, but the
+[00:38:05] prices are still low,
+[00:38:08] what's that going to mean for-
+[00:38:11] Well, I think, and Peter can comment in a second about where we're at in terms
+[00:38:14] of current prices versus to what we've got in BFU.
+[00:38:18] But I think
+[00:38:19] what you'll see
+[00:38:23] increasingly in markets is markets will tend to, like they always
+[00:38:26] do, look ahead. So they'll be looking ahead about on the
+[00:38:31] assumption that the strait does indeed open-
+[00:38:33] Yes
+[00:38:33] ... and production gets underway.
+[00:38:36] That will actually be factored into price.
+[00:38:38] At the same point, we know that there is going to be a time
+[00:38:42] where traffic through the strait will continue to be reduced compared
+[00:38:46] to pre-war levels.
+[00:38:49] We know we're in an environment where stocks globally are being run down
+[00:38:52] significantly, and at some point there are limits to how much
+[00:38:56] that can occur. That's why I think you'll continue to see
+[00:39:01] we're not complacent that prices will-
+[00:39:03] Mm
+[00:39:03] ... will actually kind of follow down neatly.
+[00:39:07] I think you'll see at times those competing pressures
+[00:39:11] reflecting through in both ups and downs-
+[00:39:13] Mm
+[00:39:14] ... in oil prices, even if the trajectory broadly
+[00:39:18] follows what you're seeing in the oil futures market.
+[00:39:21] Right.
+[00:39:22] Peter, do you want to, in terms of current forecast?
+[00:39:24] Yeah. Obviously, oil markets have moved a lot over the last few days.
+[00:39:28] At the time of the BFU, we did note that oil prices were above our
+[00:39:32] assumptions that we'd made-
+[00:39:34] Mm
+[00:39:34] ... when we finalized the forecast.
+[00:39:36] But things have changed quite dramatically, and so oil prices are now currently,
+[00:39:40] and the futures are currently trading below what we've assumed in the Budget update
+[00:39:44] by several dollars at various points.
+[00:39:48] There is the risk. We need to see that be realized in terms of actual prices
+[00:39:52] paid in the future and flow through to pump prices.
+[00:39:55] But yeah, at the moment, that risk has shifted quite considerably, I guess, over
+[00:39:59] the last few days and with the positive developments.
+[00:40:01] And just to clarify, so what's the average rate of oil price that we've
+[00:40:05] assumed in the central forecast?
+[00:40:08] Well, they varied. Obviously, we had them peaking and then
+[00:40:12] falling over time. So they peaked at
+[00:40:15] $138 during the month of April
+[00:40:19] and fell progressively over. We had them falling back to
+[00:40:23] about $74
+[00:40:25] over time, by the end of the year, being sort of around that $80, $82
+[00:40:29] mark.
+[00:40:31] Right now, people are predicting sort of prices closer to sort of 70,
+[00:40:35] 77, 76, 75 at the end of the year. So a few dollars below what
+[00:40:39] we'd assumed.
+[00:40:40] Okay. Thank you, Peter.
+[00:40:42] Dr Megan Woods.
+[00:40:43] No, I'm actually going to ask him one a little bit.
+[00:40:46] Okay, right. Thanks.
+[00:40:46] Thank you. Just want to ask a number of questions around pay equity.
+[00:40:50] Mm-hmm.
+[00:40:51] Since the proactive release that was done in July last year
+[00:40:55] '25, have there been any revisions to the advice that's been
+[00:40:59] redacted?
+[00:41:00] If not, can you provide any updates, whether it's written or
+[00:41:04] otherwise?
+[00:41:06] So we keep the discussion
+[00:41:11] constantly under review about what's in the public interest and what isn't to
+[00:41:14] disclose. But where we've landed even just as of yesterday is
+[00:41:17] that it's still appropriate to withhold the
+[00:41:21] contingency that has been put aside for Crown
+[00:41:25] funded pay equity, on the grounds of preserving the government's
+[00:41:28] negotiating position, and that's consistent with what we've done for the
+[00:41:32] last number of years across governments in terms of pay
+[00:41:35] negotiations, is making sure that those figures are
+[00:41:39] accounted for in the books, but not in a way that the counterparty to negotiations,
+[00:41:43] i.e. the people bringing the claim, can understand where the government's
+[00:41:47] at in terms of how much money it has available.
+[00:41:50] Have you had any new claims, the new-
+[00:41:53] Not that we're-
+[00:41:54] No
+[00:41:56] early pre-initiative discussions with any of the pay
+[00:41:59] equity sectors?
+[00:42:01] Not that I'm aware of, but to the extent that they're Crown funded,
+[00:42:04] that's a question more for the Public Service Commission than us, but not
+[00:42:08] that's come to our radar.
+[00:42:10] So you're still withholding the information because it's the way it's previously
+[00:42:13] treated, but you've had no new claims?
+[00:42:16] Yes, that's correct.
+[00:42:18] So
+[00:42:20] going through then again through the contingency.
+[00:42:24] The decision last year, I understood, was to get rid of
+[00:42:28] the-
+[00:42:30] The funded sector
+[00:42:33] ... funded sector-
+[00:42:33] ... pay equity.
+[00:42:34] Yes.
+[00:42:34] Subsume it into the public sector pay equity as a-
+[00:42:38] No.
+[00:42:38] No, no, no.
+[00:42:39] No. So as I understand it was,
+[00:42:42] there are two parts. So for the Crown as employer-
+[00:42:45] Yep
+[00:42:46] ... there continues to be a contingency-
+[00:42:49] Yep
+[00:42:49] ... that is reflected in the forecasts.
+[00:42:52] So within the BFU forecast, for Crown as employer,
+[00:42:57] that's in our forecasts.
+[00:42:58] But the specific number is withheld.
+[00:42:59] Is this part of the allowance?
+[00:43:01] Sorry?
+[00:43:02] It's part of the budget allowance?
+[00:43:04] No. It's in the forecasts. It's
+[00:43:08] built into the forecast, but it's not part of the 2.4
+[00:43:12] or whatever.
+[00:43:14] With respect to essentially
+[00:43:17] non-government employers
+[00:43:21] who were significantly
+[00:43:24] funded by the Crown,
+[00:43:27] so ECE, care and support, et cetera.
+[00:43:31] A decision was taken by the government last year
+[00:43:35] to essentially
+[00:43:37] consider any Crown funding with respect to those
+[00:43:41] settlements to be addressed on a case-by-case
+[00:43:45] basis as part of budget
+[00:43:48] allowances.
+[00:43:52] So to give you an example.
+[00:43:53] Yeah, no.
+[00:43:55] Is that clear? So that's the
+[00:43:57] distinction. So Crown as employer, still in the forecast, and
+[00:44:01] it need to be clear, it's Crown as employer using the current
+[00:44:05] sort of
+[00:44:06] frame as opposed to the pre-2025 frame.
+[00:44:10] But that's in the forecast. It's not in budget allowances, but essentially there's
+[00:44:14] no
+[00:44:15] claims as part of the budget
+[00:44:19] allowance. Okay?
+[00:44:21] So let's step through that. The
+[00:44:25] budget allowance this year was 2.1, and I think in the next forecast period
+[00:44:28] it's 2.1 or 2.4.
+[00:44:30] Yeah, 2.4.
+[00:44:31] Just people were both confused over that one.
+[00:44:33] It's a case-by-case basis. There is no TAG contingency,
+[00:44:38] and it's basically because they haven't applied, there is actually
+[00:44:42] nothing to support
+[00:44:45] any future government, whether it's this government or when we
+[00:44:49] come in in November.
+[00:44:51] No support, no contingency
+[00:44:54] whatsoever for that
+[00:44:57] funded sector pay claims.
+[00:45:01] Yeah, but the funded sector, you said-
+[00:45:04] That's correct.
+[00:45:05] None at all.
+[00:45:06] No, that's correct.
+[00:45:07] Wow. So we'll add that to another fiscal risk.
+[00:45:10] All right, so we've got a new primary from Chloe.
+[00:45:12] Cool.
+[00:45:12] Chloe, go on.
+[00:45:13] So I'm just asking about
+[00:45:17] page 64 of the FU. You're referring to the kind of
+[00:45:21] transformation plan which we were talking about in the previous hearing,
+[00:45:25] the 8,700 odd public sector jobs that the Minister of
+[00:45:28] Finance has announced will be cut across the public
+[00:45:32] sector. And you say, and I quote, "Delivering these baseline reductions will
+[00:45:36] require organizational change across the public sector, changes to programs and
+[00:45:39] transformation and how the public sector delivers services.
+[00:45:42] They may take longer than anticipated to implement and/or may not
+[00:45:46] eventuate in full." However, for the most part, you have
+[00:45:49] reflected some quite substantial
+[00:45:52] reductions in cost to the tunes of hundreds of millions of dollars, particularly
+[00:45:56] eventuating in the latter part of the forecast period.
+[00:45:59] Could you run us through the assumptions that you have made about how these
+[00:46:03] cuts will materialize?
+[00:46:05] Well, I think
+[00:46:06] what we're taking is...
+[00:46:09] Well, I think first point is in terms of the cabinet decision
+[00:46:13] around the baseline reductions, that is reflected
+[00:46:17] through in our forecasts.
+[00:46:22] Because this is a
+[00:46:24] set of reductions that go over essentially three years, it's
+[00:46:28] not surprising that at an agency basis,
+[00:46:33] how that is going to be delivered in each year is
+[00:46:36] still not established, because it was only determined as part
+[00:46:40] of this budget.
+[00:46:42] So what the risks is trying to highlight is
+[00:46:46] because not every detail has been worked through how each agency
+[00:46:50] is going to do that, there is a risk at some point that either the
+[00:46:54] profile doesn't quite match
+[00:46:57] the funding reduction or there are some issues that government will
+[00:47:01] have to reconsider. From talking to my colleagues across the public service,
+[00:47:06] I'd say there's a range of
+[00:47:09] situations. I think there are some agencies that are quite well-placed, who have
+[00:47:13] a good sense about how they are going to achieve these
+[00:47:17] reductions,
+[00:47:19] through to agencies where essentially ministers,
+[00:47:23] they're much less clear in an organizational sense and ministers
+[00:47:27] are essentially going to be asked to be making some policy choices
+[00:47:31] as well.
+[00:47:32] Yeah. As you kind of outline in that very answer, we don't have
+[00:47:35] clarity as to how these savings will actually be achieved, what the
+[00:47:39] actual game plan is. I guess what I'm really trying to get at
+[00:47:43] here is, given that you have represented these
+[00:47:46] ostensible savings in the budget,
+[00:47:49] what methodology are you actually using in order to
+[00:47:53] assess these savings are realistically deliverable before fiscally
+[00:47:57] forecasting them?
+[00:47:58] Well, what we do, and look, this is not
+[00:48:02] particular to this case, is we reflect in our
+[00:48:06] forecast what cabinet determines.
+[00:48:08] Yeah.
+[00:48:09] Cabinet has determined a set of baseline reductions,
+[00:48:13] just as previous governments have
+[00:48:16] built in baseline reductions, and that's in our
+[00:48:20] forecasts.
+[00:48:20] Mm-hmm.
+[00:48:21] And I think part of, if I step back,
+[00:48:23] there'll be different views across this
+[00:48:27] committee about whether people
+[00:48:31] like the
+[00:48:33] spending profile. But I think one of the things that we think
+[00:48:37] is positive is at least agencies have a
+[00:48:39] funding path to plan to. And
+[00:48:44] that's reflected in the forecast. So that gives them a good base to plan.
+[00:48:49] What comes with that, though, is whether it was 255
+[00:48:53] or a different number, is there's some uncertainty about how they will live
+[00:48:56] within whatever cap-
+[00:48:59] The, the government establishes.
+[00:49:02] But from our perspective,
+[00:49:05] we reflect what cabinet has decided.
+[00:49:07] Yeah. I hear that cabinet has made this decision, but you guys obviously are
+[00:49:11] supposed to run the ruler over that.
+[00:49:13] And my understanding, based on your own BFU at page 38, you said that
+[00:49:17] a portion of the required baseline savings, quote, "Have not been reflected in
+[00:49:20] agency baselines yet, with specific areas of these savings still to be identified."
+[00:49:24] Yep.
+[00:49:25] So you have agencies and departments that are saying, "We don't know how we're
+[00:49:27] going to meet this thing," yet you guys are still reflecting that in terms of
+[00:49:30] savings. And again, I'm not having a go at anyone.
+[00:49:32] I'm just really trying to understand the assumptions here.
+[00:49:34] I suppose what I'm saying is-
+[00:49:35] Because the assumptions again-
+[00:49:36] ... I think you're not wrong to say, look, there's uncertainty
+[00:49:40] in every agency about how they'll do that.
+[00:49:43] What I'm saying is there's a range of levels of confidence about that.
+[00:49:47] But also I'm saying it's not
+[00:49:51] surprising that if you actually look out and say, "Here's a funding track over
+[00:49:55] three years," of course, you're not going to have the
+[00:49:59] answers to what that's all going to look like in your organization in three years'
+[00:50:02] time. That is going to evolve and iterate both on
+[00:50:06] decisions that the agency itself will take, but also
+[00:50:10] what happens in the wider system.
+[00:50:11] Yeah. This one, though, is quite different to most other change program.
+[00:50:15] We're not just looking at cutting jobs, we're also looking at some quite heroic
+[00:50:19] assumptions from the minister with regards to the efficiency and capacity gains
+[00:50:22] that we could have with AI, which again, you yourself in BFU note are
+[00:50:26] uncertain at page 15.
+[00:50:28] So I guess then, how have you actually factored in that very
+[00:50:31] uncertainty around the modeling of being able to maintain the
+[00:50:35] capacity of the public sector despite these 8,700
+[00:50:39] public sector cuts, and obviously the experience that we're seeing overseas right
+[00:50:42] now with different governments and corporations backing down from
+[00:50:46] the heroic assumptions that they had made about rolling out AI?
+[00:50:49] Well, I think the AI one is a separate issue.
+[00:50:52] I think how we're handling it is what
+[00:50:56] you're pointing to. What we've said is we've been very explicit about the
+[00:51:00] risk, right? That there's a decision there, there's a
+[00:51:04] risk. Future updates will handle this
+[00:51:07] as progressively we get more information, as governments make
+[00:51:11] decisions through B27, B28.
+[00:51:15] That's how that will work, right?
+[00:51:17] Yeah. I hear you in terms of being able to point to just noting a
+[00:51:21] paragraph on the risk. But I guess the point that I'm getting at is that we
+[00:51:25] currently have a Minister of Finance that is pointing to Treasury's forecast
+[00:51:29] baking in the effect of the cuts that she has announced as
+[00:51:32] legitimizing her position, which does inherently make this political.
+[00:51:36] And that's why I'm trying to get to the assumptions that have been made by Treasury
+[00:51:39] to that effect. Because I don't think that having a paragraph on the
+[00:51:43] ambiguity of the risk,
+[00:51:46] gives the kind of counterbalance or the equivalence or the
+[00:51:50] balance effectively and transparency and accountability necessary to also then
+[00:51:53] simultaneously say, "These are forecasted cuts.
+[00:51:57] These are forecasted spending reductions on the other side of the ledger," if you
+[00:52:01] understand what I'm saying.
+[00:52:02] Yeah. I think what I would say is,
+[00:52:05] in any budget,
+[00:52:08] governments take decisions on both spending and savings,
+[00:52:12] where over a forecast period, there's quite a lot of uncertainty.
+[00:52:15] Mm-hmm.
+[00:52:16] And so I don't necessarily... You're focusing on this
+[00:52:19] particular area, and I think you're right to say there's a particular
+[00:52:23] set of risks.
+[00:52:24] Mm-hmm.
+[00:52:24] No disagreement.
+[00:52:27] But that inherently is the nature
+[00:52:30] of
+[00:52:32] budgeting. At the end of the day, any government in New Zealand
+[00:52:35] has the right through Cabinet to make policy decisions that
+[00:52:39] have fiscal implications.
+[00:52:41] Mm-hmm.
+[00:52:42] And it's not our job to, in a sense, second
+[00:52:46] guess and say, "Well, you'll never do that, Minister, so we won't put that in," or,
+[00:52:49] "That will never work out." It's we're transparent about what are the
+[00:52:53] decisions that government does reflect in the forecasts.
+[00:52:57] Any government then has to justify the merits or otherwise
+[00:53:01] of that view, and our job is to ensure that that information is
+[00:53:05] as transparent as possible.
+[00:53:07] I think that's a good segue to Dr. Deborah.
+[00:53:10] One final, if I may?
+[00:53:11] There's been quite a lot of time.
+[00:53:12] Okay. I was just hoping for one final to close that out, but-
+[00:53:15] All right. We're just about out of time.
+[00:53:17] Yeah, we are. And it's actually a follow on the
+[00:53:21] previous issue around pay equity and back to the climate one, and it's about
+[00:53:24] when the liabilities get recognized.
+[00:53:27] So I'm just wondering about the pay equity one.
+[00:53:29] So the trigger
+[00:53:31] for recognizing a pay equity claim in the
+[00:53:35] budget or wherever it's going to, would that be the lodging of a claim?
+[00:53:40] Is that enough to trigger a liability?
+[00:53:42] Well, look, remember the-
+[00:53:44] Or not a liability, a contingent liability.
+[00:53:46] No, no.
+[00:53:46] Yeah.
+[00:53:47] But remember there are
+[00:53:50] the two streams. So there's the Crown as employer stream.
+[00:53:53] Yep.
+[00:53:53] Right?
+[00:53:54] Yep.
+[00:53:54] So,
+[00:53:55] at any one time, through other agencies, we are aware
+[00:54:00] of discussions between those-
+[00:54:02] Sure
+[00:54:02] ... agencies and unions-
+[00:54:03] But-
+[00:54:03] ... about a pay equity claim. Every time we do a
+[00:54:07] forecast-
+[00:54:08] That gets taken in, no worries.
+[00:54:09] That's right.
+[00:54:10] Yes.
+[00:54:10] And it's
+[00:54:11] important because
+[00:54:15] that contingency that we disclose, it is still significant.
+[00:54:18] The second part-
+[00:54:20] ... is around the
+[00:54:23] funded sector.
+[00:54:24] Yeah.
+[00:54:25] And that is
+[00:54:29] a case where
+[00:54:32] I think the current government has said the way they want
+[00:54:36] to address this is case by case.
+[00:54:38] Yeah.
+[00:54:40] And
+[00:54:42] they will want to handle that as one of the many
+[00:54:46] issues that competes for the budget allowance.
+[00:54:49] So it's not, if you like, ring-fenced.
+[00:54:53] Sure. But there's
+[00:54:56] a legal process around pay equity claims, including
+[00:55:00] the pay equity claims from the funded sector.
+[00:55:01] Yeah, that's right. But-
+[00:55:02] So if someone lodges a claim, do you then have to go
+[00:55:06] through some kind of assessment of the claim before you advise it?
+[00:55:09] No, it's not,
+[00:55:11] because essentially, in that case, the Crown is not a party-
+[00:55:14] To the claim, what
+[00:55:17] essentially-
+[00:55:17] Yeah
+[00:55:17] ... what cabinet would have to agree.
+[00:55:19] Let's take a-
+[00:55:22] Still hypothetical
+[00:55:22] ... hypothetical. Say ECE teachers, right?
+[00:55:25] Well, let's say that-
+[00:55:26] Most ECE teachers are employed by-
+[00:55:29] The childcare center
+[00:55:30] ... private.
+[00:55:30] Yeah.
+[00:55:30] Yeah, most of them private. So government will have to take a view
+[00:55:34] about, okay, if there is a pay equity claim that's agreed between
+[00:55:38] unions and ECE-
+[00:55:40] Yeah
+[00:55:40] ... employers, what is the Crown's view on that?
+[00:55:44] Is the Crown happy to have the cost
+[00:55:48] implications of that flow through into the
+[00:55:51] payments that essentially parents make to ECE centers
+[00:55:55] or does the Crown take a view, "No, no, we're going to
+[00:55:59] subsidize that." There's then a choice for the Crown about how much to do that.
+[00:56:06] That I think is the-
+[00:56:08] Yeah. I'm just trying to think where it would sit in those risks and things like
+[00:56:12] that, and it's sort of-
+[00:56:13] Well, I think-
+[00:56:14] Yeah
+[00:56:16] in that case, I think it would be
+[00:56:22] reflected in a general sense in the specific
+[00:56:26] fiscal risks.
+[00:56:28] Yep.
+[00:56:29] Right.
+[00:56:29] Okay. It's a-
+[00:56:30] But it wouldn't be qualified, no
+[00:56:31] You wouldn't quantify it because you couldn't quantify it.
+[00:56:34] But you might have to reflect it in the...
+[00:56:37] Yeah.
+[00:56:37] Yep, okay. Thank you.
+[00:56:40] It's just at what point it becomes concrete enough to start. Yeah. Yep. Thank you.
+[00:56:44] Well, you start crystallizing in the process.
+[00:56:46] Yep. Mm-hmm.
+[00:56:47] I think that brings us to the conclusions of our hearing
+[00:56:51] with the Treasury. Thank you so much for your time.
+[00:56:52] Yeah, thank you.
+[00:56:52] It's been a big session for you.
+[00:56:54] Yeah. Thank you.
+[00:56:55] Thanks everyone.
+[00:56:56] It's been slightly theory.
+[00:56:58] And members, we're back at 1:30 with Geo and then
+[00:57:02] bigger ones.
+[00:57:03] Thank you.
+[00:57:04] Yeah.
+[00:57:04] Didn't he
+[00:57:05] get removed from the full trolley?
+[00:57:07] He should probably-
+[00:57:07] Reprioritized
