@@ -1,0 +1,1379 @@
+Title: vimeo_1201963246
+URL: https://vimeo.com/1201963246
+Published: 2026-06-17
+Duration: 01:09:17
+
+[00:00:29] So welcome to Governance and Administration.
+[00:00:32] We have till five minutes past two with you this
+[00:00:36] afternoon in your roles as Public Service and Digitizing
+[00:00:40] Government Minister.
+[00:00:42] If you want to start with a short intro, then I will
+[00:00:46] hand over to you and then open up for questions.
+[00:00:48] Well, thank you, Madam Chair, and I just want to start by,
+[00:00:54] modding,
+[00:00:55] Sharon Roche, the
+[00:00:58] Public Service Commissioner, and the various colleagues that we have
+[00:01:01] across
+[00:01:04] background
+[00:01:06] for coming along. Thank the committee for its work and,
+[00:01:10] look,
+[00:01:11] and for those tuning in,
+[00:01:15] globally, to this live broadcast.
+[00:01:19] What we're doing here is we've got the budget announced a couple of weeks
+[00:01:22] ago, where we're--
+[00:01:26] It's worth just remembering that, notwithstanding
+[00:01:30] how many savings that have been made in that budget, we're still running a deficit
+[00:01:34] of about over $11 billion in the year going forward, which
+[00:01:38] is an unsustainable situation for our country, and that's why we've
+[00:01:42] got a trajectory down to, back to surplus in two or three
+[00:01:46] years,
+[00:01:47] so that we're not asking the future generations to pay for what we're doing.
+[00:01:52] And a big part of that
+[00:01:54] is ensuring that our public service is efficient
+[00:01:58] in what it does. And
+[00:02:01] we had a period where there was a
+[00:02:04] big increase in spending
+[00:02:06] on the core public service and a whole lot of other things across government.
+[00:02:10] Big increase in hiring.
+[00:02:13] And so we've indicated as part of the budget that we want to,
+[00:02:19] return some of those figures. So there was 47,000
+[00:02:23] core public servants in 2017. When we came back six
+[00:02:27] years later into government, that number had gone
+[00:02:32] to sixty-three. It was still rising and, soon after we
+[00:02:36] were in office, it crested at 64, 65.
+[00:02:41] And that was an unsustainable increase, frankly.
+[00:02:45] And we've set a goal of restore-- returning that back to 55,000, which is
+[00:02:49] more in line with historic averages, around 1% of the population.
+[00:02:53] So,
+[00:02:54] that's an important part of what we're doing.
+[00:02:55] We're also looking for efficiencies across the public
+[00:02:59] sector. In the meantime,
+[00:03:04] at the same time, we're very determined.
+[00:03:06] New Zealand, I think, can be rightfully proud of its overall
+[00:03:12] democratic and public service setup.
+[00:03:15] Public service satisfaction levels, actually,
+[00:03:19] according to the Kiwi's count results, eight out of 10
+[00:03:23] people were satisfied with their most recent interaction with the public service.
+[00:03:26] So I think there's much that we can be proud of and build on.
+[00:03:31] Also, we still have challenges, particularly in the digital space.
+[00:03:34] And obviously, there's been a lot of interest in the last day or
+[00:03:38] two around one example of that.
+[00:03:41] So,
+[00:03:43] we-- I think the next few years are a period where we'll be
+[00:03:47] looking for improved efficiencies.
+[00:03:50] We'll be looking for the use of new technology to deliver
+[00:03:54] better outcomes for New Zealanders, which is what we're all on about.
+[00:03:58] Solving some of the problems that we've struggled to deal with over many decades.
+[00:04:02] But also, harnessing the power of technology to make it
+[00:04:06] easier for people to interact with the government and get on with their lives, and
+[00:04:09] get answers to the questions that they're looking for.
+[00:04:11] So that's by way of introduction.
+[00:04:13] Thank you.
+[00:04:14] And happy to answer any questions on these topics.
+[00:04:16] Thank you. And I've already got a list started, and the first person on that list
+[00:04:19] is Camilla Belich.
+[00:04:21] Thank you, Madam Chair, and thank you,
+[00:04:24] Minister. I just have a question around your overall
+[00:04:28] stewardship of these public service cuts that
+[00:04:32] have been announced in the budget.
+[00:04:34] There seems to be, from the questions that we've been able to ask
+[00:04:38] prior to this hearing, through written questions and pre-hearing questions, that
+[00:04:42] no analysis has taken place as to what
+[00:04:45] jobs would be cut as a result of your decision
+[00:04:49] to decrease the public service workforce.
+[00:04:52] So I want to ask you what services and what
+[00:04:56] functions that the New Zealand Public Service is currently undertaking will
+[00:05:00] not be undertaken as a result of these cuts that you have
+[00:05:03] made overall to the public.
+[00:05:05] Well, I suppose an interesting start-- place to start was I'd be interested to
+[00:05:09] see the analysis and, research that was done
+[00:05:13] before the previous government determined to massively increase the size of the
+[00:05:17] public service and go on a hiring spree over a period of three to five years.
+[00:05:21] This is about your budget.
+[00:05:22] And so, what we inherited was, a greatly
+[00:05:26] expanded
+[00:05:28] volume of people working in the public service.
+[00:05:32] Big increase from, like I say, 47,000, way up to
+[00:05:36] 63, 64, depending on the time that you count.
+[00:05:40] And so,
+[00:05:42] we didn't need to do a detailed analysis
+[00:05:45] of particular issues. What we needed to say was,
+[00:05:50] broadly speaking, how has the country managed these things over a
+[00:05:53] long period of time? And a good place to start would be get-- to get back
+[00:05:57] to that historic average, and that would take us back to about
+[00:06:01] 55,000. Now, the individual ministries
+[00:06:05] that we might be dealing with-
+[00:06:07] Are then given the task of
+[00:06:10] asking, how can you make that work?
+[00:06:13] And I've got every confidence, because most of those ministries could
+[00:06:17] make it work in 2017 with far fewer workers delivering a good service,
+[00:06:21] and they can do it again
+[00:06:23] if we give them the right encouragement and guidance.
+[00:06:26] So the answer to that question is that you don't know what services and what
+[00:06:31] jobs will be cut as a result of these.
+[00:06:32] Well, it's not that I don't know, it's just, that is-
+[00:06:35] Well, what is the answer then?
+[00:06:36] Well, that will be worked through by each individual chief executive in
+[00:06:40] each department over the next few months.
+[00:06:43] And I've got every confidence they'll be able to do that.
+[00:06:45] I don't know whether the commissioner wants to add anything on that.
+[00:06:48] Yeah, that's correct. The government's been very clear on its targets.
+[00:06:51] Chief executives are working through how to give effect to those, and those
+[00:06:54] decisions will be made by cabinet in the next three to four months.
+[00:06:59] You got another sup?
+[00:07:00] Um-
+[00:07:01] Because I've got Fran. So Fran, sup.
+[00:07:05] That 1%, that's based on the historical average of
+[00:07:09] the public service, right? But that's only been since the 1990s, is
+[00:07:13] that correct?
+[00:07:15] Well,
+[00:07:16] if you want to go back to the 1850s, it might be relevant,
+[00:07:20] but not necessarily.
+[00:07:22] I'm talking of modern times.
+[00:07:23] Sure.
+[00:07:24] And one of the things that the Prime Minister has held as an example
+[00:07:28] of the public service that we should be aspiring to is Singapore.
+[00:07:31] Do you agree with that?
+[00:07:33] Yes, he refers to Singapore from time to time.
+[00:07:36] Are you aware that Singapore's percentage of the core public service as a
+[00:07:39] percentage of the population is actually 1.4%?
+[00:07:44] Well, that may well be the case, but, what is the point you're making?
+[00:07:48] Well, the point is that 1% is an arbitrary target.
+[00:07:51] If we're actually wanting to have a Singaporean-style public service, perhaps we
+[00:07:55] should start by emulating what they're actually doing on the ground there.
+[00:07:58] Well, I'm sure if the Greens had an opportunity, it would be 2%.
+[00:08:01] But that's very much-
+[00:08:02] Let's hope.
+[00:08:03] But yes, very much the approach.
+[00:08:05] There we go. That's Green policy.
+[00:08:06] Do I hear 2.5?
+[00:08:08] So,
+[00:08:09] yes, look, I think
+[00:08:12] the simple point that we are making, and I think it's one that most New Zealanders
+[00:08:16] can understand, is
+[00:08:18] as a country over an extended period of time,
+[00:08:22] we've been able to manage with a public service of a particular
+[00:08:25] size.
+[00:08:27] And
+[00:08:28] if over a period of six years of a labor government it massively increased,
+[00:08:34] which was obvious to everybody-
+[00:08:35] Huge
+[00:08:35] ... the public went up by around 30%.
+[00:08:38] Then
+[00:08:40] at the same time, by the way, that
+[00:08:44] spending on consultants massively increased as well.
+[00:08:48] So not only were they hiring many more people, they were also
+[00:08:51] maxing the credit card on consultants at the same time.
+[00:08:55] And outcomes in terms of attendance at school and
+[00:08:59] accessibility to justice, a whole bunch of things were getting worse.
+[00:09:02] Then we've got to do something differently.
+[00:09:04] And so that's why this government is determined to bring some
+[00:09:09] focus and efficiency back to the broader system.
+[00:09:11] Final sup.
+[00:09:12] Final sup, yeah.
+[00:09:12] And final question. To myself, supplementary question.
+[00:09:15] Will you make the same promise that the then Minister of Public Services did-
+[00:09:19] Oh
+[00:09:19] ... to not cut any frontline services?
+[00:09:23] Yes, our focus is not on frontline services.
+[00:09:27] And
+[00:09:28] so, this doesn't relate to police, and people
+[00:09:32] such as that.
+[00:09:34] But there are, of course, broader discussions about how we can do things more
+[00:09:38] efficiently in a whole host of areas.
+[00:09:40] But our focus is particularly on the
+[00:09:44] administrative side and looking for opportunities.
+[00:09:47] Which is not to denigrate the work of the
+[00:09:51] administrators in our government department.
+[00:09:53] I'm not one that believes that only frontline services
+[00:09:57] are worthy. It is just more a question of the fact that
+[00:10:01] if you're dealing with
+[00:10:04] particularly
+[00:10:05] finance, HR, and all those various capacities of property
+[00:10:09] administration that support public services.
+[00:10:13] There are real opportunities between government departments to work
+[00:10:17] together more effectively to get better results,
+[00:10:21] and that is the starting point.
+[00:10:23] Okay. I've got a sup from Tim and then one from Camilla.
+[00:10:27] Thank you. In the context of the questions that have been asked about
+[00:10:31] public service workforce numbers
+[00:10:34] dating back to the 1990s,
+[00:10:37] I just want to make sure I understand.
+[00:10:38] So the target number, which you've said is roughly 55,000, which is the
+[00:10:42] long-term average.
+[00:10:43] Mm-hmm.
+[00:10:44] How does that put us relative to where it was, say, at the start of the last
+[00:10:47] government, 2017, 2018? Is that a cut from there?
+[00:10:51] Yeah, broadly in the same category.
+[00:10:53] Category.
+[00:10:54] 47,000. There's been a significant increase in population since 2017,
+[00:10:59] and 55 is broadly in that sort of category.
+[00:11:02] Okay, so it's more public servants, but it's similar percentage.
+[00:11:04] Yes.
+[00:11:05] And so there was obviously a big spike in the number of public servants, though,
+[00:11:09] during that term-
+[00:11:10] Yes
+[00:11:10] ... that government.
+[00:11:13] Of all the new services that those new public servants provided,
+[00:11:19] because the question was what services are being cut, I assume that massive spike,
+[00:11:23] 18,000 new public servants, 40% increase, came with
+[00:11:27] a 40% increase in services that were provided.
+[00:11:30] Are those on the chopping block?
+[00:11:32] Sadly, that wasn't the case.
+[00:11:35] And so,
+[00:11:36] the government of the day through budgets decided to do some
+[00:11:40] extra things which needed extra people to deliver them.
+[00:11:46] But it can't always just be a ratchet, where you just keep
+[00:11:50] on going only over one way, going up.
+[00:11:52] Because ultimately,
+[00:11:54] it has to be paid for. And, I started with the context, and the context
+[00:11:58] is notwithstanding the
+[00:12:02] Savings that we've made already as a government in the last two years, we're still
+[00:12:05] borrowing $11 billion in this year.
+[00:12:07] So we still have a real job to do as a country, to live within our
+[00:12:10] means. And that's why-- It would be great to turn up
+[00:12:14] here as the minister, and obviously, I'm the arts minister, and two days ago
+[00:12:18] turned up to select committee. It would be great to come in with a big
+[00:12:22] surplus under my belt and be able to spend lots of money, and that would make life
+[00:12:25] very easy as
+[00:12:27] a minister. But it's not something I've ever experienced.
+[00:12:30] When we tend to come into government as a center-right
+[00:12:34] government, we always come in facing very significant deficits and a real job to
+[00:12:38] do to turn that around. So that's what we're doing.
+[00:12:40] And so, one part of that
+[00:12:43] broader exercise is ensuring that our core public service is
+[00:12:47] back down to
+[00:12:49] historic levels.
+[00:12:50] Sup from Camilla.
+[00:12:52] Minister, you said that this wouldn't be affecting frontline
+[00:12:56] services, but your own budget documents state that although
+[00:13:00] the baseline reductions will exclude ōranga tamariki, law and order, health,
+[00:13:03] education, defense, and intelligence services.
+[00:13:05] In the footnote, it states
+[00:13:09] that those core public service departments will still be part of the reduction
+[00:13:13] of full-time equivalence. So what frontline roles
+[00:13:17] are safe from these budget cuts?
+[00:13:19] Well,
+[00:13:21] that'll be something that each chief executive will work through because every
+[00:13:24] government department has
+[00:13:26] a mix of frontline services and
+[00:13:32] back office. And the distinction between the two is not
+[00:13:36] always perfectly clear cut.
+[00:13:38] And so they'll be working their way through it with a goal of reducing the
+[00:13:42] overall head count. And I've got every confidence they'll be
+[00:13:46] able to do that. And of course, our starting proposition
+[00:13:50] is
+[00:13:51] that we want to continue to improve services
+[00:13:55] to New Zealanders,
+[00:13:57] in all the various areas that we deal with.
+[00:14:00] And we're confident and some people say, "Well, how can you
+[00:14:03] possibly do that with fewer people?" And that is the very
+[00:14:07] essence of productivity improvements, which is what we desperately need
+[00:14:11] as a country. And so
+[00:14:14] doing things better,
+[00:14:16] through skill, through the use of technology, through the way
+[00:14:20] that we structure things a- as a government.
+[00:14:23] We've inherited, what is it, 39 government departments.
+[00:14:26] It's not set in stone that we have to have it that way, each in a little
+[00:14:30] silo doing their own things.
+[00:14:33] We can look at those structures, and
+[00:14:36] we're very confident there will be better ways of doing things.
+[00:14:38] So, that's the broad challenge that they face.
+[00:14:40] So I'm not going to have an endless argument about this
+[00:14:44] person here and that person there and who's going to happen there, because that's
+[00:14:48] the process that we're going through over the next three months.
+[00:14:50] But we're very confident that the outcome will be good.
+[00:14:53] But you said a few minutes ago that this would not affect frontline
+[00:14:57] services.
+[00:14:58] Mm-hmm.
+[00:14:58] So that was incorrect, wasn't it?
+[00:15:00] No, it's not incorrect.
+[00:15:00] From what you've just said.
+[00:15:01] No, it's not incorrect because-
+[00:15:01] Because you can't name a single frontline service that is going to be safe from
+[00:15:04] these cuts.
+[00:15:05] Well, we've already outlined that we won't be making changes to
+[00:15:10] police numbers, for example-
+[00:15:11] But what is considered law and order in your budget document?
+[00:15:15] Well,
+[00:15:16] there is very large departments,
+[00:15:20] in all those areas, in justice and corrections and so forth, who all got very
+[00:15:24] large
+[00:15:25] administrative functions and offices that can be included in all
+[00:15:29] this.
+[00:15:30] So you guarantee there'll be no reduction in police officer numbers?
+[00:15:33] Well, the actual-
+[00:15:34] That's one area that you can-
+[00:15:34] The police officers have been excluded from this. Yes, absolutely.
+[00:15:38] Okay, and final sup from Andy.
+[00:15:41] Yeah, just wanted to-- So we've gone up from 47
+[00:15:44] to 64, 65-ish.
+[00:15:47] Yep.
+[00:15:47] Aiming to be back at 55. Where are we at at the moment
+[00:15:50] as the first-
+[00:15:51] We're at about 63, something like that.
+[00:15:53] 63, so which-
+[00:15:53] And it just emphasizes the diff- difficulty of the task.
+[00:15:56] Yeah.
+[00:15:57] Of course, we've made some
+[00:16:00] reductions, but at the same time we've been increasing, particularly, some of our
+[00:16:03] frontline services in the last two years, such as corrections officers
+[00:16:07] and police. Well, police are not included in the count, but corrections officers
+[00:16:11] are.
+[00:16:12] So
+[00:16:14] there's been some reduction, but also some expansion.
+[00:16:18] Yeah. And look, my other area of question related to that, because there's been a
+[00:16:20] number of questions here, which were asked about what loss of
+[00:16:24] service has there been as a result of the
+[00:16:27] cut of 2,000 so far.
+[00:16:30] But are we measuring the services that we expect well enough?
+[00:16:34] This is probably a cross-system question.
+[00:16:36] Are we measuring the
+[00:16:38] quality of the services that are delivered by the state sector as a whole-
+[00:16:42] Well-
+[00:16:42] ... well enough-
+[00:16:43] Yeah
+[00:16:43] ... so as we can actually say, "Actually, no, they've got better here, here, here,
+[00:16:47] here, and here."
+[00:16:48] Well-
+[00:16:48] "And these are the numbers to show it."
+[00:16:49] Yeah. Well, of course, the government has some core
+[00:16:53] targets-
+[00:16:54] I'm aware of those
+[00:16:55] ... that it set, which we're making excellent progress on.
+[00:16:58] And one I can point to is attendance at school, which
+[00:17:02] is a fundamental thing that you would think if you've got lots of extra people,
+[00:17:04] you'd get better outcomes in terms of some basics.
+[00:17:08] Remember, this is a government that's about fixing the basics and building the
+[00:17:11] future. One of the most basic things to do is ensure that kids are at school.
+[00:17:16] And we had a huge increase in people working for the Ministry of Education,
+[00:17:20] and
+[00:17:22] we were going backwards on attendance.
+[00:17:24] Since then, we've managed to turn that around significantly. That's one.
+[00:17:28] Immunization rates, one dear to the-
+[00:17:30] So-
+[00:17:31] ... hearts of my colleagues, is another one.
+[00:17:33] So I could-
+[00:17:34] So I'm aware of those, really. They're the big ones.
+[00:17:36] But there's a lot of government-
+[00:17:37] Well, it's worth repetition.
+[00:17:38] There's a lot of government agencies which aren't directly contributing to those
+[00:17:41] big ones, or don't appear to be directly contributing.
+[00:17:43] They will all have some form of outcome measures.
+[00:17:45] Yeah.
+[00:17:45] My question really is, are those measures clear enough to show us actually what
+[00:17:49] we're getting for the money that is invested in them, and are they clear
+[00:17:53] enough also to show that we are making progress or not making progress as a result
+[00:17:56] of any changes that are being made?
+[00:17:58] Uh-
+[00:17:59] For those agencies.
+[00:18:00] Well, that, of course, is part of the-
+[00:18:04] Uh, a very function of this committee and other committees in terms of the
+[00:18:08] annual reporting and each department and Crown entity
+[00:18:12] has performance measures. I personally think there's room for
+[00:18:16] improvement in a number of them, but they're pretty useful devices.
+[00:18:20] But I don't know if the commissioner wanted to comment on that.
+[00:18:23] Yeah, look, and Auditor-General's on public record, I think some
+[00:18:26] of the measurement of outcomes, there's room for improvement.
+[00:18:29] Agree with the minister, but if we look at the anecdotal evidence, based
+[00:18:33] on our research, people are happy with the services they receive.
+[00:18:37] That does not mean we couldn't improve.
+[00:18:40] Okay. Harmry now from Fact.
+[00:18:43] Yeah, thank you.
+[00:18:44] In February, the then Chief Digital Officer, Paul James, said that
+[00:18:48] because they didn't have evidence about what could be achieved from
+[00:18:52] AI in the public service, that it was very hard to
+[00:18:55] forecast how much it would save.
+[00:18:57] What's changed since then that has given the government confidence to bank around
+[00:19:01] $2.4 billion of savings from essentially
+[00:19:04] replacing public service workers with AI?
+[00:19:07] Well, so I don't like to be unkind, but
+[00:19:10] your question grossly misunderstands the government
+[00:19:14] position and misrepresents it. We're not saying that
+[00:19:18] all the savings and all the staff reductions
+[00:19:22] are simply a function of being replaced by AI.
+[00:19:26] That's one element. The use of technology in the broader sense is one element.
+[00:19:31] Another element would be the structure of the public service
+[00:19:34] and sharing services more effectively.
+[00:19:37] One of the big challenges we have across public services is sharing
+[00:19:41] information between agencies,
+[00:19:44] and
+[00:19:46] that causes a whole lot of
+[00:19:49] problems for the customers, but also for the government in delivering
+[00:19:53] better outcomes,
+[00:19:55] and takes up an enormous amount of resource and time dealing with that.
+[00:19:58] And so,
+[00:20:00] being better at doing that, for example, is one way that we can get
+[00:20:04] better outcomes as well. So,
+[00:20:09] I think
+[00:20:12] most people can intuitively understand
+[00:20:15] that we are
+[00:20:17] living through
+[00:20:21] a revolution in terms of technology,
+[00:20:26] and
+[00:20:27] we're still in the middle of it. We don't know where it's going to end, and
+[00:20:30] it'll continue to evolve over the
+[00:20:34] next few years. But the ability
+[00:20:37] to
+[00:20:39] use technology, and
+[00:20:42] AI, and the various agents available
+[00:20:46] to solve problems that were
+[00:20:52] just overwhelming,
+[00:20:54] such as, just to give one example,
+[00:20:57] there's all these different legacy
+[00:21:01] information systems and data collections across government.
+[00:21:05] And if you're trying to create
+[00:21:08] new ones, it's a massive challenge at every turn.
+[00:21:13] The latest AI models can
+[00:21:17] get all that information from all these different systems and put it together and
+[00:21:21] solve problems in a much more efficient way than
+[00:21:25] having to recreate all the systems on their own.
+[00:21:28] So I think there is huge opportunities.
+[00:21:30] It's very exciting, and we want to make sure that
+[00:21:34] New Zealand is
+[00:21:36] making the most of it, and particularly our public servant is making the most of
+[00:21:40] it. I
+[00:21:43] beg the goodwill of the Chair, just going on a little bit long here, but
+[00:21:48] one of the observations I often make is if you
+[00:21:52] talk to the chief executive of
+[00:21:55] a private sector communications company, for example, one of
+[00:21:59] our telcos, and ask them what are they most worried about,
+[00:22:04] and I've had those conversations, they've said, well, AI.
+[00:22:06] And I say, well, what are you worried about?
+[00:22:08] I'm worried, actually, that my competitors will figure out how to use
+[00:22:12] this technology before I do or more quickly than I do, and I will
+[00:22:16] lose competitiveness and go broke.
+[00:22:18] Obviously, we don't have that dynamic- ...
+[00:22:21] in the public service because the IRD doesn't have competition
+[00:22:25] for its tax collecting. But so
+[00:22:29] our challenge, our technical challenge as a government is how do we get that level
+[00:22:32] of urgency in adopting the new technology that's
+[00:22:35] available.
+[00:22:37] All right. Thank you, Chair, and thank you, Minister.
+[00:22:39] You've asserted that $2.4 billion will come from
+[00:22:42] AI. Can you tell me what percentage of that $2.4 billion
+[00:22:46] will come from the use of AI?
+[00:22:48] No.
+[00:22:49] We didn't
+[00:22:51] come up and say we're going to get $750 from here and $1,000 from
+[00:22:54] here.
+[00:22:56] What was said is an overall expectation of savings through
+[00:23:00] efficiency, and as I said, there's a combination of elements that will lead to
+[00:23:03] that, but we haven't
+[00:23:06] divided it up by one and the other.
+[00:23:08] Right. So you don't actually have any evidence that the greater uptake of AI will
+[00:23:11] then lead to the savings that you've forecast?
+[00:23:14] Well,
+[00:23:15] I think the evidence is all around us in terms of what's going on in the
+[00:23:19] rest of the world and the globe in terms of people making use of new
+[00:23:23] technology, and our expectation is that the New Zealand Public Service will,
+[00:23:27] as everybody else's, and that will provide some opportunities.
+[00:23:31] But not on its own, but as part of much broader efforts that we're
+[00:23:35] engaging in.
+[00:23:37] Minister, I appreciate you say that the evidence is out there, but you've not
+[00:23:39] given any assurance that you've actually found a single
+[00:23:43] saving from AI. So you can appreciate why we're a little bit cynical on this side,
+[00:23:47] right?
+[00:23:47] Well,
+[00:23:48] the commissioner might have a couple of examples, you want to?
+[00:23:52] AI is just part of the solution. I think, first the
+[00:23:55] $2.4 billion is a treasury number, but we stand behind the
+[00:23:59] opportunity that by
+[00:24:01] reducing the number of agencies-
+[00:24:04] By simplifying our processes, by getting rid of duplication, we have
+[00:24:08] got good evidence that there are savings to be made with no
+[00:24:12] reduction in quality or productivity.
+[00:24:14] AI will actually help us, but it's not the only
+[00:24:18] thing.
+[00:24:19] Right. But let me then be explicit as my-
+[00:24:21] Absolutely
+[00:24:21] ... final supplementary.
+[00:24:22] But there's not currently a single dollar that's been forecast as a
+[00:24:26] result of savings in AI as part of the budget that's been backed in,
+[00:24:30] independently, just AI. It's part of-
+[00:24:32] Well, as I've said,
+[00:24:35] it's part of a number of things that we'll be doing in order to realize
+[00:24:38] savings.
+[00:24:40] Right. Melissa? Ah, thank you.
+[00:24:43] Since we're talking about AI and technology, I just want to talk about the
+[00:24:48] biggest new appropriation, which is the $50.1 million
+[00:24:52] for the new Government Digital Delivery Agency.
+[00:24:55] It's earmarked specifically for delivering and regulating digital
+[00:24:59] services for New Zealanders. How do you actually see that
+[00:25:03] agency, GDDA, transforming the public
+[00:25:07] sector?
+[00:25:08] Well,
+[00:25:10] of course, that's a new
+[00:25:13] sum for the Public Service Commission that's been transferred across from
+[00:25:18] where it was before, in DIA.
+[00:25:22] And,
+[00:25:23] so
+[00:25:25] look, the opportunity is ... And I
+[00:25:30] think people will be conscious of this, in terms of
+[00:25:34] we've got 37 or 39 different government departments.
+[00:25:38] There has been a tendency over the years for
+[00:25:44] everyone doing their own thing,
+[00:25:47] and when it comes to procurement of IT technology.
+[00:25:51] And in terms of capital expenditure and ongoing expenditure, it is a
+[00:25:55] very significant part of government spending.
+[00:25:59] And
+[00:26:01] we can point to some excellent examples where it's gone well.
+[00:26:04] And we often hear of the IRD transformation project.
+[00:26:08] Our company's office does a ... They've done a very
+[00:26:12] successful digitization program.
+[00:26:14] You can point to Landonline and all the cadastral maps and things, which has
+[00:26:18] gone extremely smoothly.
+[00:26:21] People, when they arrive offshore, they don't have to fill out the handwritten
+[00:26:24] domestic cards. So that's been done online, and that's gone well and smoothly.
+[00:26:28] So
+[00:26:29] we can point to some successful examples.
+[00:26:31] Unfortunately, we can also point to some- ...
+[00:26:34] less successful examples.
+[00:26:36] Yes.
+[00:26:36] He's being very polite.
+[00:26:39] Going back a long way. And so,
+[00:26:45] as well as the big failures,
+[00:26:49] I think there's also just a more
+[00:26:52] broad
+[00:26:54] gap between modern expectations about what is possible with
+[00:26:58] technology, and what we're actually seeing.
+[00:27:01] And just in simple terms of New Zealanders having to give their basic information
+[00:27:05] time and time again over to different groups,
+[00:27:09] and repeat themselves. So, the purpose of the
+[00:27:12] GDDA is to
+[00:27:15] get some
+[00:27:16] greater discipline and consistency across the public service in terms of
+[00:27:20] investment, some interoperability to insist upon it not going off
+[00:27:24] in different directions.
+[00:27:26] And
+[00:27:28] also helping with the overall procurement.
+[00:27:30] Now,
+[00:27:31] and it's obviously just been moved into the public service six months ago.
+[00:27:36] And we've very high hopes and aspirations for it being an
+[00:27:40] increasingly significant and successful part of the broader government sector.
+[00:27:44] I don't know whether you wanted to add anything there. Yeah.
+[00:27:46] The GDDA coming into the Public Service Commission reflects
+[00:27:50] the fact that we believe
+[00:27:52] a more rapid adoption of technology is key to us being
+[00:27:56] able to meet the performance targets that New Zealanders can legitimately
+[00:27:59] expect. I think it's been a really positive move.
+[00:28:03] We need a much stronger center, and GDDA will be that center,
+[00:28:07] and some decision rights have been taken from individual
+[00:28:11] departments back. And we need, I think that also is a
+[00:28:14] positive sign that we need to think more about systems from
+[00:28:18] a system perspective in the services to taxpayers as opposed to
+[00:28:22] an individual silo.
+[00:28:25] Supplementary on that.
+[00:28:27] With that said, the government Chief Digital Officer has always been
+[00:28:31] the chief executive of DIA.
+[00:28:34] That now transfers to you now as the
+[00:28:38] functional chief executive of the GDDA.
+[00:28:41] How do you think that role,
+[00:28:44] the impact, or that role actually has on the
+[00:28:48] digital space for government and
+[00:28:51] is it likely to improve? What do you actually see the role
+[00:28:55] now? How do you see the role now?
+[00:28:57] Unequivocally will improve. The commissioner
+[00:29:01] sets a lot of the standards, sets the example
+[00:29:05] across the system. So it's not going to be forever,
+[00:29:09] but actually it reflects the transition as it comes into the
+[00:29:13] commission. We do need a reset of GDDA, as the minister
+[00:29:17] said.
+[00:29:18] Ultimately, we'll have to go through some form of
+[00:29:22] what is the steady state for that. The next few months are really important for
+[00:29:26] us as we prepare to give effect to the government's
+[00:29:30] objectives around a better public service.
+[00:29:32] So it will be closely linked to me in the meantime.
+[00:29:36] I want to move to Camilla because she's moving out shortly, so she's got
+[00:29:40] a primary-
+[00:29:41] I've got a question around the Public Service Commission.
+[00:29:45] So we've talked about the overall budget reductions that you've had and the
+[00:29:48] different roles. But we have an example here with the Public Service
+[00:29:52] Commission, in terms of their
+[00:29:56] particular
+[00:29:58] reductions that they're having in the budget.
+[00:29:59] So in response to written questions, the commission
+[00:30:03] stated that they will face a financial
+[00:30:06] sustainability risk arising from the savings of
+[00:30:10] 2%, 5%, and then a further 5% in '28, '29
+[00:30:14] And also that it may affect the commission's ability to
+[00:30:17] sustain delivery and lead system improvement.
+[00:30:21] So that's an example, as you said, of
+[00:30:25] a commission, a government agency that is reducing or looking to
+[00:30:29] reduce
+[00:30:30] what they do as a result of these budget cuts.
+[00:30:34] And you can see that even though in this budget,
+[00:30:38] and in
+[00:30:40] the decisions that the government has recently made, the Public Service Commission
+[00:30:43] has been asked to do more. They are saying that because of these budget
+[00:30:47] cuts, they will
+[00:30:49] probably not be able to do their current role.
+[00:30:51] So in terms of that example, Minister, does that mean that
+[00:30:55] the entire 2.4 billion of
+[00:30:59] savings is just a fantasy and that New
+[00:31:03] Zealanders are going to face either a
+[00:31:06] significant
+[00:31:08] failure in that to reduce the budget to meet your
+[00:31:12] surplus
+[00:31:14] target, or they're going to face significant
+[00:31:17] reduction in the
+[00:31:21] services that the public service currently provides?
+[00:31:26] Well, no.
+[00:31:29] Those savings we will be capturing,
+[00:31:33] unlike your friend and predecessor, Grant
+[00:31:37] Robertson, who used to promise-
+[00:31:37] We're not talking about the last government.
+[00:31:38] Well, he used to promise X and deliver Y time and time again.
+[00:31:42] And what we've demonstrated since being in government is that we
+[00:31:46] stick to the plans that we have, and we get on with it.
+[00:31:49] So we've got every-
+[00:31:51] So what is the plan?
+[00:31:51] We've got every confidence-
+[00:31:52] What are you going to cut?
+[00:31:54] So the basic sort of proposition that-
+[00:31:55] Answer what you're going to cut
+[00:31:56] ... the basic proposition you'd hear from, a first
+[00:32:00] response from a lot of
+[00:32:03] departments will be, "Oh, this will be very hard."
+[00:32:07] Now, in the past,
+[00:32:09] particularly with, dare I say, other parties in charge, they'd say,
+[00:32:13] "Oh, yes. Well, it probably is too hard," and, "Yes, we'll give you some extra
+[00:32:16] money, and everybody will be happy." And that is why we've ended
+[00:32:20] up with the big blowout in spending across the public sector and
+[00:32:24] the big blowout in hiring.
+[00:32:27] But we're different. And so the second question is, well, yes, I know it's going to
+[00:32:30] be hard, but how are you going to do it?
+[00:32:33] And that's the difference fundamentally between us and
+[00:32:37] your side of the house. And so we're determined to find those savings.
+[00:32:41] So yes, it's not easy. Of course it's not easy.
+[00:32:44] And, I'm sure Mr. Roche would-- well, no, he's
+[00:32:49] determined. And he's looking for every opportunity
+[00:32:54] to deliver better service and find productivity gains.
+[00:32:57] But, so we keep pushing and say, "Okay, so how are we going to do things
+[00:33:01] differently?" I think it is correct to say,
+[00:33:04] if we carry on exactly as we are,
+[00:33:08] and you cut our funding, we're going to not be able to do everything that we used
+[00:33:12] to do. And I think that's an obvious statement.
+[00:33:14] But of course, the obvious response to that is, well, actually, we can't carry on
+[00:33:18] doing things exactly as they are. We're going to have to think really
+[00:33:21] hard about how we're going to share services with this group or that group.
+[00:33:25] How we're going to restructure our systems to do things differently.
+[00:33:29] How we're going to use technology to do things differently.
+[00:33:31] And those are the fundamental discussions that each minister has
+[00:33:35] with each chief executive in each department.
+[00:33:38] And they're gritty conversations.
+[00:33:40] They're difficult conversations, but the ones that we need to do on behalf of all
+[00:33:43] New Zealanders.
+[00:33:44] Just have a sip. If we can move to Sir Brian, who I don't
+[00:33:48] think shuns away from hard things.
+[00:33:50] Yes.
+[00:33:50] So I know that he will
+[00:33:52] be addressing this, but how are you going to, as public service
+[00:33:56] commissioner, actually implement the reductions to
+[00:34:00] your own budget, plus do the additional work
+[00:34:04] that the government has asked you to do since you have been public service
+[00:34:08] commissioner?
+[00:34:09] I'll just work through that in the normal way.
+[00:34:11] It's no different to a household that's under cost pressure.
+[00:34:14] I've been told I-
+[00:34:15] Well, it is a little bit different to a household that's under cost pressure
+[00:34:17] because you're in charge of the entire public service of this country, so the
+[00:34:20] stakes are probably a bit higher.
+[00:34:21] I understand that on a daily basis.
+[00:34:25] I will do what I need to do to keep the commission
+[00:34:29] performing to the highest standards possible.
+[00:34:32] When and if I feel I can't do that, then I will have a grown-up
+[00:34:36] conversation with my minister, and we'll reach an agreement on what
+[00:34:40] gets traded. We are not at that point yet.
+[00:34:43] The comments that you've made are the comments that everyone makes when
+[00:34:47] they're told you've got less money.
+[00:34:49] The first instinct is, actually, this is inconvenient, and it's
+[00:34:53] hard. Yeah, I'm just being really transparent.
+[00:34:55] This is not going to be easy, but we have to do it because we
+[00:34:59] are living in an environment where what we're doing
+[00:35:03] is unsustainable. It's very clear it's
+[00:35:06] unsustainable, and I and the other chief executives want to take the
+[00:35:10] opportunity to reinvent the way we do our work.
+[00:35:14] And it's great that we've now got that opportunity through the mandate the
+[00:35:17] government's given us.
+[00:35:18] I just have a final line of questioning
+[00:35:21] for Sir Brian, if possible. The, Madam Chair, the
+[00:35:26] Public Service Commission undertook a review into
+[00:35:30] spending into Facebook advertising-
+[00:35:33] Yep
+[00:35:34] ... around bargaining.
+[00:35:35] Yep.
+[00:35:36] That review, I understand, was completed in draft
+[00:35:39] form in April this year and
+[00:35:43] was provided
+[00:35:45] to the commission.
+[00:35:47] And I understand also that that review has cost
+[00:35:50] around $37,000.
+[00:35:52] Correct.
+[00:35:53] Where is that review?
+[00:35:55] And why has it cost so much money? And when will it be released
+[00:35:59] publicly?
+[00:36:01] It is near complete, and I apologize to the committee.
+[00:36:04] It's taken longer than we would've wanted, but the reason I
+[00:36:08] commissioned the review is I felt that there were lessons for us to learn,
+[00:36:12] and there have been, and there are. So we're working through that.
+[00:36:16] I hope to have it finalized in the next week.
+[00:36:18] Then it will go to the Auditor-General, and then it'll become public.
+[00:36:21] It's likely to cost more than $37,000, but it's a very
+[00:36:25] important principle, and I know that's a really hard story, but we set the
+[00:36:29] standard, and we have to maintain those.
+[00:36:31] So as I've said to the committee last time, I believe
+[00:36:35] those sorts of social media things are part of our operating environment, and I
+[00:36:39] want to make sure that we're getting it right.
+[00:36:41] And what lessons have you learned?
+[00:36:44] Well,
+[00:36:45] the main lesson is to proceed with caution. That's what we did.
+[00:36:48] We've never been cavalier on this point.
+[00:36:50] Irrespective of how people have interpreted it, I want an independent report
+[00:36:55] to give me
+[00:36:57] a clear objective
+[00:36:59] based on their judgment and evidence of what we could have done better.
+[00:37:04] Okay. Sup from Fran.
+[00:37:06] Thank you, Chair.
+[00:37:07] So who was actually responsible for
+[00:37:10] giving the order to have those ads?
+[00:37:12] Was it you or the then public services minister?
+[00:37:15] It was certainly not anything to do with the minister.
+[00:37:19] It was within the commission, so I am ultimately responsible and
+[00:37:23] accountable.
+[00:37:23] So it was you who made the decision to launch those ads?
+[00:37:27] I didn't say that.
+[00:37:28] I said somebody in the commission, a member of my staff.
+[00:37:32] This is not a fault finding. I am not hunting my staff.
+[00:37:36] I'm, as an organization, saying, "What could we have learnt about this and
+[00:37:40] what could we do better?" I'm accountable for that.
+[00:37:42] So there was no direction from the Minister of Public Services at the time?
+[00:37:46] It was-
+[00:37:46] None whatsoever. It had nothing to do with the Beehive.
+[00:37:51] That was our decision.
+[00:37:53] Okay. Primary from Andy.
+[00:37:55] Yeah. It was an issue which we were exploring this morning,
+[00:37:59] and we've been exploring. We're doing an inquiry into the Fire and Emergency New
+[00:38:03] Zealand, and one of the components of that is the oversight of Fire and
+[00:38:07] Emergency by DIA. And what became apparent, in fact, we had that
+[00:38:10] explicitly said to us this morning by the Minister
+[00:38:14] of Internal Affairs, was that initially a lot of the
+[00:38:18] feedback that was given by the department to
+[00:38:21] the minister was essentially cut and paste from
+[00:38:24] FENZ. They hadn't really applied a lot of analysis at all to what was going
+[00:38:28] on, or scrutiny to what was going on.
+[00:38:30] And that obviously raises a question across the whole system.
+[00:38:33] We've got a lot of Crown agencies which are monitored by various government
+[00:38:37] agencies, is to how well that is done across the system and
+[00:38:41] whether it can be improved. Now, quite clearly DIA said, "Yes, we need to improve,"
+[00:38:45] but I'm asking that question now, not for DIA specifically, but across the system,
+[00:38:49] is how well are we doing the monitoring, or government departments and
+[00:38:53] ministries doing the monitoring of the agencies which report to them?
+[00:38:57] Well,
+[00:38:58] I'll make some introductory comments.
+[00:39:02] When we talk about fixing the basics,
+[00:39:05] in the public sector sense, this is one of those
+[00:39:09] core areas. The government,
+[00:39:12] across
+[00:39:14] many, many agencies, commission
+[00:39:16] projects
+[00:39:19] or services from
+[00:39:23] a wide range, whether it's in Justice
+[00:39:26] and
+[00:39:27] MSD and DIA, many of them. And
+[00:39:32] I don't think historically we've been
+[00:39:36] good enough generally, there's variations, some better than others,
+[00:39:40] at ensuring that we're getting the very best outcomes and benefit
+[00:39:44] for that investment.
+[00:39:46] Obviously, each entity, such as DIA in that case, is responsible
+[00:39:50] for that and is accountable for that, and that's what your
+[00:39:54] scrutiny process was about this morning and that's absolutely appropriate.
+[00:39:58] In terms of the overall
+[00:40:02] effectiveness, I think when we
+[00:40:06] are confronted with the task of finding the 5% plus 5%
+[00:40:10] savings in the next two years,
+[00:40:14] a big part of that, I think, is going to be essentially that very question,
+[00:40:18] how do we ensure that the contracts that we're making
+[00:40:21] are better scrutinized, better organized,
+[00:40:26] better
+[00:40:28] maintained,
+[00:40:30] and held to account? So very much part of what we
+[00:40:34] need to do.
+[00:40:35] That's good on contracts. Here I wasn't saying so much about the contracts, but
+[00:40:38] actually the monitoring of Crown agencies. So FENZ obviously is Crown agency.
+[00:40:42] We expect it to deliver some stuff.
+[00:40:44] But yeah.
+[00:40:44] Yes.
+[00:40:44] But yeah. So that was the issue I was particularly raising.
+[00:40:50] There's certainly room for improvement.
+[00:40:52] I think across the public sector,
+[00:40:56] a lot of these Crown entities, Crown agencies, actually deliver services directly
+[00:41:00] to the public. I think our monitoring regimes tend to be
+[00:41:03] backward-looking, and
+[00:41:06] often after the event, which is really unhelpful.
+[00:41:10] So we are doing quite a bit of work with Treasury on how we might
+[00:41:14] refresh the whole monitoring and relationship.
+[00:41:17] But there are challenges because there's always an asymmetry of information between
+[00:41:21] the entity and the monitor.
+[00:41:23] And that's partly the issue.
+[00:41:24] That's part of the issue, but the use of technology and stronger
+[00:41:27] relationships and more transparency, I think will help
+[00:41:31] significantly.
+[00:41:32] So just to finish that off, as you go through that
+[00:41:36] process of reviewing and improving that process-
+[00:41:39] Yeah
+[00:41:39] ... how will we actually see that being, you will actually say it up in lights,
+[00:41:43] "This is what we're
+[00:41:45] now doing. This is what's changed, and this is how
+[00:41:47] we're going to hold these agencies better to account."
+[00:41:52] We haven't finished the work yet, so I can't answer that-
+[00:41:54] Yeah
+[00:41:54] ... with the authority I would like.
+[00:41:55] But I do think that we have to get a better model.
+[00:41:58] Not all Crown entities are the same.
+[00:42:00] There's five or six of them which are very critical.
+[00:42:03] NZTA comes to mind, Health New Zealand.
+[00:42:06] The way we deal with them should be different to some smaller
+[00:42:10] thing.
+[00:42:11] And at the moment, I think we have a one size fits all. That is not useful.
+[00:42:15] So watch this space.
+[00:42:16] Okay.
+[00:42:17] But ultimately, the measure that really counts is the
+[00:42:20] outcomes that we're seeking as a government, whether it's-
+[00:42:24] Uh, um-
+[00:42:25] Yeah
+[00:42:25] ... more immunizations or, more attendance at school, all those
+[00:42:29] basic things.
+[00:42:31] And so that's
+[00:42:32] what we're fundamentally looking for.
+[00:42:34] And in each instance, there's clarity about what we're wanting to achieve
+[00:42:38] and what we expect to get for the money invested.
+[00:42:41] And that's the most fundamental-
+[00:42:42] I think the point was that it was an agency which wasn't delivering.
+[00:42:45] Yeah.
+[00:42:45] Still isn't,
+[00:42:46] and hasn't been being held to account properly, and that's the issue.
+[00:42:48] Right. Can we move now to a primary from Tim? Thanks.
+[00:42:52] Oh, thank you, Chair. I
+[00:42:56] guess there's been a lot of discussion around
+[00:42:58] public service headcounts and,
+[00:43:02] heard from you the need to sort of drive productivity and efficiency as
+[00:43:06] part of where we're going. I just wanted to clarify, because in an earlier
+[00:43:09] question, someone referred to police officers.
+[00:43:12] So when we consider public service headcount, how many
+[00:43:16] police officers are included in that?
+[00:43:19] Well, police are-
+[00:43:20] Outside
+[00:43:21] ... they're outside the police-
+[00:43:22] Police are outside. It doesn't include police officers.
+[00:43:24] So they're not part of that at all.
+[00:43:26] No.
+[00:43:26] They're completely separate.
+[00:43:27] Right.
+[00:43:27] How many nurses would be included in there?
+[00:43:29] Well, the nurses are outside it as well.
+[00:43:30] How many teachers?
+[00:43:31] They're outside.
+[00:43:32] What about Defense Force?
+[00:43:34] They're outside as well, isn't it?
+[00:43:35] Right. So all of those things, we have tens of thousands of people working for
+[00:43:39] the Crown-
+[00:43:39] Yes
+[00:43:39] ... are actually not even part of this discussion, are they?
+[00:43:43] No.
+[00:43:43] Okay. So,
+[00:43:45] given we're talking predominantly about people that work in office buildings and
+[00:43:49] places like Wellington,
+[00:43:51] what is being done, though, because as part of this, you've said you do want to see
+[00:43:54] a reduced headcount. What is being done to lift
+[00:43:58] productivity and efficiency so that we're seeing good
+[00:44:01] outcomes despite an adjustment in the numbers?
+[00:44:05] Well, that's the primary goal of the
+[00:44:09] reforms that we're undertaking. And so,
+[00:44:14] when we talk about transforming the public service-
+[00:44:17] ... it's about
+[00:44:20] delivering a public service that
+[00:44:23] delivers better value for money for New Zealanders, but also delivers better
+[00:44:27] services for New Zealanders. And that's the
+[00:44:31] goal because I think, as I said when I started talking about
+[00:44:35] the surveys indicating that out of 10 people are
+[00:44:39] satisfied with their most recent interaction with the public service.
+[00:44:42] So that's a good foundation.
+[00:44:45] But
+[00:44:48] expectations continue to rise. People expect things to be easier,
+[00:44:53] not harder.
+[00:44:54] And so, we want to deliver those better services.
+[00:44:57] What role does AI have in this space?
+[00:45:00] Well,
+[00:45:01] potentially significant. And
+[00:45:05] I think everybody and
+[00:45:07] people in their own household are sort of harnessing the
+[00:45:11] technology in various ways. But big
+[00:45:15] entities, particularly in the crunching of data and
+[00:45:19] information, whether it's
+[00:45:21] financial data or understanding
+[00:45:24] the behaviors of very large numbers of people and their
+[00:45:28] interactions, the ability of AI
+[00:45:32] to
+[00:45:33] better analyze that and use that information more effectively is
+[00:45:37] colossal. And so, that's a real opportunity for us.
+[00:45:42] So,
+[00:45:44] I think what we've set
+[00:45:47] is a
+[00:45:49] challenge to the sector. You used to be able to do it with X number of people,
+[00:45:53] and deliver good services in 2017.
+[00:45:56] Yes, we had a big blowout over six years.
+[00:45:59] Those numbers have grown substantially.
+[00:46:01] We now need to get it back to a more reasonable level.
+[00:46:05] And how are you going to do that? And
+[00:46:08] it's always easier to go up than it is to go down.
+[00:46:11] And so, that's where the big challenge lies, and that's what we're doing at the
+[00:46:15] moment.
+[00:46:15] There's a sup from Frank.
+[00:46:16] Thank you. Minister, are you
+[00:46:20] aware what risks has
+[00:46:24] emerged from the recent action of the Trump administration towards
+[00:46:28] Anthropic and stopping the state-of-the-art model Fable 5
+[00:46:32] from essentially continuing its public release?
+[00:46:35] What lessons have you learned from that?
+[00:46:38] Well,
+[00:46:39] the lessons that I learn are that-
+[00:46:44] Is that-
+[00:46:44] ... state the obvious, one needs to be cautious in the development,
+[00:46:48] in the use of the very, very latest
+[00:46:52] technology.
+[00:46:54] I don't think we're sort of at that state at the moment.
+[00:46:57] We're several rungs back, and we need to...
+[00:47:01] I think we've got a real opportunity to get-
+[00:47:03] Just one second
+[00:47:04] ... closer to the latest technology available to us.
+[00:47:07] So,
+[00:47:09] every advance in technology brings
+[00:47:13] significant benefits and also risks.
+[00:47:16] If you go back through history, that is demonstrably the case, and it
+[00:47:20] will be the case in the future.
+[00:47:23] And so, as you develop new opportunities,
+[00:47:26] you have to respond.
+[00:47:28] So every day we have discussions about,
+[00:47:32] in the context of the justice portfolio and the courts,
+[00:47:35] people,
+[00:47:37] ordinary New Zealanders, are using AI to come up
+[00:47:40] with
+[00:47:42] claims or self-representation,
+[00:47:44] delivering large volumes of material.
+[00:47:47] So, the people are using it, and the system needs to respond,
+[00:47:50] otherwise it will become overwhelmed and able to respond in an effective way.
+[00:47:54] So, I don't think there's an option of just saying, "Here's this new thing over
+[00:47:58] here. We don't need it. We're not going to engage with it.
+[00:48:00] We're just going to carry on as we were."
+[00:48:05] I don't think would be a sensible approach at all.
+[00:48:07] So will preference be given to local models as opposed to
+[00:48:10] overseas-based models in AI development in New Zealand?
+[00:48:14] Look, as a general rule,
+[00:48:16] we're an open trading country, and we don't typically
+[00:48:22] have special rules for local developers.
+[00:48:26] But we also- Obviously mindful of the fact that
+[00:48:30] locally developed things can, if they deliver the best outcome,
+[00:48:34] should be available to be used. But we don't sort of cut ourselves off as a small
+[00:48:38] country from the best global technology that's on offer,
+[00:48:43] thinking that we're going to create everything for ourselves.
+[00:48:45] So there's a combination, but yes, where it makes sense to use locally
+[00:48:49] developed things,
+[00:48:51] I'm sure each ministry will make those decisions on a sensible
+[00:48:55] basis.
+[00:48:56] Okay, I've got a sup from Ruben.
+[00:48:59] Thank you, Minister, for your answers so far on AI.
+[00:49:02] The ones around using
+[00:49:06] international tech primarily for AI
+[00:49:09] raises the question of who owns and controls the data, people's data,
+[00:49:14] that would be used to train, operate or improve those government AI
+[00:49:17] systems.
+[00:49:19] And what, if any, protections you think need to be put in place for that?
+[00:49:25] Well, yes, they are basic sort of questions, are
+[00:49:28] fundamental questions that every country is grappling with
+[00:49:33] at the moment. And
+[00:49:38] of course, in terms of the rules around
+[00:49:42] privacy and data
+[00:49:45] security,
+[00:49:47] we have many laws and rules in place currently,
+[00:49:51] and their effectiveness and appropriateness for the new technologies that are
+[00:49:55] coming through is something that's always
+[00:49:57] up for review. The question about
+[00:50:02] what some people talk about data sovereignty and
+[00:50:08] the ability to have
+[00:50:10] data physically in New Zealand
+[00:50:14] is one element of that, and we see some data centers being built and we are
+[00:50:18] hopeful through our general approach to getting things done
+[00:50:22] in this country with RMA reform and fast track and various other things,
+[00:50:26] we'll have the opportunity to do more of that.
+[00:50:29] There's a separate discussion around, but also having data centers with the
+[00:50:32] capability to do
+[00:50:36] generative AI,
+[00:50:37] and
+[00:50:39] again, physically within our borders, and that's an interesting discussion.
+[00:50:42] And
+[00:50:43] there's much to be considered in that space as well.
+[00:50:45] And so we're very alive to those issues and considering.
+[00:50:48] I don't know if there's anything you wanted to add on that.
+[00:50:50] No, not really, other than just to reinforce the point.
+[00:50:52] I think a lot of public administration systems are thinking through
+[00:50:55] very carefully what that means and what level of control they need to have and how
+[00:50:59] they might secure it.
+[00:51:01] Sure. So just to join a few things up.
+[00:51:04] At the beginning, you haven't
+[00:51:08] indicated that you've really made an assessment on
+[00:51:11] how AI adoption on public sector employment job reductions is going to come into
+[00:51:15] force. You
+[00:51:17] can't articulate to us a specific plan about how that's going to impact.
+[00:51:22] You've then also-
+[00:51:22] Well, I wouldn't characterize it that way.
+[00:51:24] That's your
+[00:51:26] Well, there were some pretty specific questions around that.
+[00:51:28] And-
+[00:51:28] It's your cynical reading of the situation, which is what you'd expect.
+[00:51:32] Accurately.
+[00:51:33] Well, cynical or otherwise, that's my reading of the situation.
+[00:51:36] Yes.
+[00:51:36] You then went on to talk about
+[00:51:39] the ability for AI to collate or draw on data
+[00:51:43] from multiple public service agencies.
+[00:51:46] So to be able to draw information from a number of sources.
+[00:51:49] And you've then in your most recent answer, talked about being hopeful
+[00:51:53] that there might be a system in place to make sure that's safe.
+[00:51:57] Do you think that's
+[00:51:59] appropriate?
+[00:52:00] Again-
+[00:52:00] Do you think people can feel confident with that?
+[00:52:01] Again, that's a very warped summary of the discussion.
+[00:52:05] What I would say is that we,
+[00:52:08] like every country in the world, is grappling with the
+[00:52:13] possibilities,
+[00:52:14] and also the natural risks that are
+[00:52:18] involved in the new technology that comes along.
+[00:52:21] And we're not putting our head in the sand and just thinking nothing will happen.
+[00:52:25] We're embracing those opportunities and we're very alive to, and
+[00:52:29] considering very carefully, the implications in terms
+[00:52:33] of data security,
+[00:52:36] and
+[00:52:38] privacy, and all those
+[00:52:41] related issues. But we're also mindful of the fact
+[00:52:46] that there are many problems right across the public
+[00:52:50] sector that continue to
+[00:52:52] bedevil us as a country,
+[00:52:55] in terms of getting better outcomes, in terms of
+[00:53:01] justice and
+[00:53:04] rehabilitation, and social security, a whole bunch of areas,
+[00:53:08] where getting access to timely information
+[00:53:12] is one of the core problems that we face.
+[00:53:14] So, we've got an opportunity here to do things better.
+[00:53:17] Okay. Final sup.
+[00:53:18] Sure. So then
+[00:53:20] if we trust you on that and it all pans out perfectly fine
+[00:53:24] and rolls out smoothly, who ultimately would be accountable
+[00:53:29] if an AI decision caused harm to a citizen?
+[00:53:32] Would that be the agency, the vendor, the official, or would it be the minister?
+[00:53:38] Well,
+[00:53:41] I'm not quite
+[00:53:44] sure what you're sort of talking about. Ultimately accountability for...
+[00:53:50] If you're suggesting that we're going to make AIs,
+[00:53:53] turn judges into AI creatures and their decisions will be one that
+[00:53:57] are responsible, that's not on the government agenda.
+[00:54:00] What typically
+[00:54:02] AI is being used for is to
+[00:54:05] gather and make use of data and
+[00:54:10] information, and to present that in a way that is more useful for
+[00:54:13] people rather than necessarily making decisions that
+[00:54:17] directly affect the lives of New Zealanders.
+[00:54:19] But,
+[00:54:20] again, the commissioner might have something to say on that.
+[00:54:22] Yeah, look, I don't think we're at the point that of the scenario you've got, but
+[00:54:26] basically if the person who made that decision would
+[00:54:30] retain the accountability. Ministers don't make many decisions, and
+[00:54:34] at that level, that tends to be a chief executive.
+[00:54:38] Okay, thank you. Primary from Frank.
+[00:54:40] Thank you, Chair. I want to turn to something mentioned at the start around
+[00:54:44] how you were going to meet
+[00:54:46] the target savings, and one of the ideas you raised was
+[00:54:50] mergers in government, department mergers, and consolidation of the public
+[00:54:54] sector more generally. I want to ask, Minister, at what stage are
+[00:54:58] ministries at with the potential merger proposals, and what stage is
+[00:55:01] your thinking about the scale for mergers?
+[00:55:04] Is every single agency on the table, are there some that are not,
+[00:55:08] definitely going to not be merged?
+[00:55:09] Would be useful to get some idea of your thinking, Minister.
+[00:55:13] Well,
+[00:55:16] certainly no decisions have been made, but
+[00:55:20] we're very alive to the possibility of doing things
+[00:55:23] differently. It's not sort of set in stone
+[00:55:27] why you should necessarily have 39 departments
+[00:55:31] and X number of Crown entities. They've grown up and
+[00:55:35] for historic reasons,
+[00:55:37] and other countries
+[00:55:39] cut the cake in different ways.
+[00:55:42] And so you would have heard the Prime Minister speak often
+[00:55:46] of other countries that seem to manage with a
+[00:55:50] smaller number of entities, and
+[00:55:54] Ireland and Singapore and
+[00:55:56] New South Wales and others spring to mind in that context.
+[00:56:00] And so, we're at the moment
+[00:56:04] working through different options, and
+[00:56:08] we'll have something to say about that in due course, but we haven't made any
+[00:56:11] decisions yet.
+[00:56:13] Are some-
+[00:56:13] I'd welcome
+[00:56:15] your suggestions and the suggestions of the committee.
+[00:56:18] Are some of the things you're looking at, for example, include looking at pulling
+[00:56:22] functions like HR, payroll, or IT fully from across the public
+[00:56:26] service into a more centralized model?
+[00:56:28] Are you focusing on scaling up mergers like that of GCSB and SIS?
+[00:56:32] And if it's the latter, can you give an example of the sort of agencies
+[00:56:36] that might have natural complementary-
+[00:56:40] Well, all of those things are being considered.
+[00:56:43] But I'm not going to
+[00:56:46] start speculating as to exactly which and what
+[00:56:50] would be a natural fit. I'm sure a lot of people can come up with their own
+[00:56:55] suggestions, but I don't think it'll be helpful for me just to start speculating
+[00:56:59] because I think it's better to go through it in a considered and
+[00:57:03] structured way. Because
+[00:57:05] there are real implications for the many thousands of people who are working in
+[00:57:09] those organizations.
+[00:57:11] So is there any agency that's not currently being considered as
+[00:57:15] part of a merger, as part of the future process, that you're sort of ruling out?
+[00:57:18] We haven't ruled anything in or out at the moment.
+[00:57:20] Okay.
+[00:57:22] Primary from Ruben.
+[00:57:23] Minister, this isn't the first time we've caught up this week on a number of
+[00:57:27] different portfolios.
+[00:57:29] Good to see you again.
+[00:57:29] It's great to see you again, and I'm sorry that you missed the soccer yesterday.
+[00:57:34] One of the questions I talked to you about earlier in the week, and it's as
+[00:57:37] relevant in this portfolio as any, and particularly given the
+[00:57:41] comments you've made about needing to have gritty and hard conversations with CEs,
+[00:57:46] is the
+[00:57:48] issue that we talked about where you've discussed
+[00:57:51] having
+[00:57:53] phone calls randomly where you'll put people on the spot
+[00:57:56] and
+[00:57:57] drill them for information or ask them questions.
+[00:58:00] But not keep any record notes, recordings of those
+[00:58:03] conversations. In the context of some of the issues we've talked about
+[00:58:07] today and the ramifications of some of the decisions that have been
+[00:58:11] made by these people, particularly in the area of significant job
+[00:58:14] losses, cost savings, and the rollout of AI,
+[00:58:18] is that a behavior that you think is sustainable?
+[00:58:22] Well,
+[00:58:23] we've got to operate in a
+[00:58:27] way that is
+[00:58:30] manageable. The member seems to think that on a Saturday afternoon when
+[00:58:34] I'm walking my dog,
+[00:58:36] and I'm talking to a chairperson about what's going on
+[00:58:40] in the sector, I should have a notebook beside me and be scribbling away, while I
+[00:58:44] do it, and I just don't. And
+[00:58:47] he can criticize me and if
+[00:58:50] the people of New Zealand bless him with the opportunity to do the same job, I'll
+[00:58:53] be interested to see how assiduous he is in
+[00:58:57] terms of writing down every conversation, and every thought
+[00:59:01] that he's had, because technically that could be available as well.
+[00:59:04] So I don't-- I do what is practical.
+[00:59:07] And so what we try and achieve and what we're clear about and
+[00:59:11] open about in government is our decision-making,
+[00:59:14] our cabinet papers, and all the material that
+[00:59:18] leads to that so that people can have a good, clear idea
+[00:59:22] about the rationale and the logic and the advice that we've received, and
+[00:59:26] I think that's
+[00:59:28] reasonable.
+[00:59:29] And do you got a sup, Ruben? No. Frank's got a sup. All right.
+[00:59:33] Minister, are you aware that the Public Service Commission has a mandate to ensure
+[00:59:37] good record keeping across the public service and has issued guidance through the
+[00:59:41] code of conduct for the public service, and information gathered in public
+[00:59:45] trust guidance? Are you confident you've complied with the same standards
+[00:59:49] that the Public Service Commission has issued for its employees?
+[00:59:53] Yes, I do my best.
+[00:59:54] You do your best, but are you confident that if a public servant were to do what
+[00:59:58] you do, that they would not get in trouble with their employer?
+[01:00:02] Well, I can't speak for every employer and what their expectations
+[01:00:06] are. And so,
+[01:00:09] I think you'll find
+[01:00:11] that
+[01:00:12] if you were to talk to-- The free flow of information and
+[01:00:16] frank and honest conversations, regular conversations and information gathering,
+[01:00:21] when
+[01:00:22] I'm talking to my chief executives on a regular
+[01:00:26] basis and I'm asking them,
+[01:00:28] "What's going on in the sector? What have you heard?"
+[01:00:31] I don't think I necessarily need to be writing down everything, and
+[01:00:35] it's just a waste of time.
+[01:00:38] So just to be explicit, you'd be comfortable for chief executives
+[01:00:42] to be having Off the record, off light calls with any CRAN
+[01:00:46] boards that they might report to and not take any notes or minutes from that.
+[01:00:49] Oh, look, it's for chief executives to follow the
+[01:00:52] appropriate rules, and I expect them to follow the appropriate rules.
+[01:00:56] Is it you, Andy, for the primary?
+[01:00:58] Yeah, look, I just have one question.
+[01:00:59] Are we the same as the last two, which were identical, or are we going to...
+[01:01:02] This is a primary from Andy.
+[01:01:04] Oh, okay.
+[01:01:04] Sorry.
+[01:01:05] Oh, just we're repeating the same questions over this side.
+[01:01:07] Oh, well, I'm going to ask the same question, so don't worry about that.
+[01:01:09] Can we move on because I'm running out of time?
+[01:01:12] Just a question. Obviously, this is very, very immediate current.
+[01:01:15] So the situation which we heard announced yesterday,
+[01:01:19] in terms of the
+[01:01:20] MB, the
+[01:01:22] information technology
+[01:01:24] system such as it is, that was theoretically being developed.
+[01:01:29] The inquiry that you are looking into, it looks as though it's very much
+[01:01:33] focused on cultural side of things,
+[01:01:37] and what's gone on there.
+[01:01:40] Are there any sort of,
+[01:01:43] without prejudicing the inquiry, any particular things that you are...
+[01:01:48] When you see what's happened, that you are concerned about across the system as a
+[01:01:52] whole, or you think this is just an isolated situation where
+[01:01:57] obviously something went badly awry, and people obviously thought it was okay to do
+[01:02:00] something badly awry?
+[01:02:01] You might want to try.
+[01:02:05] I think it's
+[01:02:06] an isolated incident, but it has occurred. We've had a report.
+[01:02:11] That report raised a number of issues.
+[01:02:13] I felt
+[01:02:15] we needed to undertake an investigation.
+[01:02:18] That investigation is under with my statutory powers, which gives
+[01:02:22] it certain standing. I think that's important.
+[01:02:25] We need to get the evidence to determine the substance of the
+[01:02:29] issues raised, and I want to do that as quickly as possible
+[01:02:33] because this has raised doubts
+[01:02:37] across the public sector about whether we're capable of being relied upon.
+[01:02:41] As I've said publicly, it's an intolerable position when our integrity is
+[01:02:45] questioned and when confidence and trust cannot be given.
+[01:02:48] So we have a task ahead. I feel really confident that we can
+[01:02:52] get there, but I can't just whitewash this away and go,
+[01:02:56] "Oh, like it didn't happen." So let's get the evidence, and let's work out
+[01:03:00] what next for us.
+[01:03:02] Certainly, ministers are taking the whole situation extremely seriously.
+[01:03:07] And we're certainly not at all content with
+[01:03:11] the example,
+[01:03:13] and we want to get a thorough review of it to
+[01:03:17] make sure that we've learnt all the lessons that we need to, that people are held
+[01:03:20] accountable,
+[01:03:21] and
+[01:03:23] that we have a broader sense of things.
+[01:03:24] Exactly.
+[01:03:25] And in that conversation or that piece of work,
+[01:03:28] the point that you made, Brian, about the integrity and the people's trust
+[01:03:32] and confidence in the public sector as a whole,
+[01:03:35] there are some things in this process that you hope will give people
+[01:03:39] assurance around that.
+[01:03:41] Yeah. I
+[01:03:43] believe people have that assurance now, but we've now had a blemish, which has
+[01:03:46] given rise to a question.
+[01:03:47] Yes.
+[01:03:48] We have to answer it as soon as we can.
+[01:03:50] I hope to have the terms of reference and the person or
+[01:03:54] people who are going to do the review announced in the next few days, which should
+[01:03:57] give people confidence.
+[01:03:59] A couple of subs, one from Fran.
+[01:04:01] Yeah. I've got a couple of questions around the remit of the review,
+[01:04:06] Sir Raj. The first is, is it in the limit of your
+[01:04:10] statutory powers to be able to lay criminal charges at the end of the review?
+[01:04:13] Is that a potential outcome from this?
+[01:04:16] The second is, are you also examining at which
+[01:04:19] stage ministers were told information that they could have
+[01:04:23] potentially done more, or is it purely around
+[01:04:27] what the public servants could have done better?
+[01:04:29] Or are you also looking at the potential for ministerial responsibility here?
+[01:04:33] The focus is to address the issues that have been raised in the
+[01:04:37] report.
+[01:04:39] I'm not going to constrain it at this point.
+[01:04:41] I think we should actually just see what comes out.
+[01:04:44] But it's no secret within the public sector that this
+[01:04:48] project had been in a level of complexity and
+[01:04:51] distress. There have been two previous ministers who had
+[01:04:55] significant concerns. So when you read that
+[01:04:59] people have been manipulating rules and been
+[01:05:03] altogether too cute on the exercise of judgment, that's completely
+[01:05:06] unacceptable. It is not the way the public service in New Zealand
+[01:05:10] operates, and we have to hold people to account.
+[01:05:13] Rupert.
+[01:05:14] There are a number of other major IT changes underway at the
+[01:05:18] moment. Ministry of Social Development or
+[01:05:20] Mm-hmm.
+[01:05:22] So given the context of a review
+[01:05:24] happening over there, what are you doing immediately to address those other
+[01:05:28] projects in train? What controls have you got in place there?
+[01:05:31] I'm just working through that with...
+[01:05:34] This was a complicated IT project.
+[01:05:37] We have a number of complicated IT projects.
+[01:05:40] This had warning signs I need to systemize why weren't they
+[01:05:44] acted on. And so once again, I don't want to sort
+[01:05:48] of overreact, but nor do I want to look like it's
+[01:05:51] okay. It's not okay. So we will learn from
+[01:05:55] this mistake, and we will make sure that it is
+[01:05:59] not repeated.
+[01:06:01] So will you be making adjustments to the governance or
+[01:06:05] controls you've got in place over the other projects?
+[01:06:08] I would think so, but we haven't done the work yet, and I don't want to get
+[01:06:12] ahead of the work. But there's no point, as it were,
+[01:06:16] having these experiences and not learning from them.
+[01:06:19] We need to learn from them, and we need to implement
+[01:06:23] it across the whole of the public sector so that we can avoid this
+[01:06:27] happening again.
+[01:06:28] Okay, and Ruben, you've got a primary.
+[01:06:30] I do, yes.
+[01:06:32] This is sort of around pay equity and
+[01:06:36] how it's accounted for for each public sector
+[01:06:40] area.
+[01:06:41] So whether that's baselines or budget allowances, is there a
+[01:06:44] specific line item for
+[01:06:48] particular areas?
+[01:06:51] I might just turn to- I might just Turn, might just give details of
+[01:06:55] that.
+[01:07:00] So each... Morning. Afternoon, sorry.
+[01:07:04] Each agency is responsible for their own
+[01:07:08] pay equity claims when they come in.
+[01:07:10] And looking at that, there is some provision that Treasury makes for
+[01:07:14] funding where that is necessary. But primarily, it's covered by each
+[01:07:19] agency's baseline.
+[01:07:21] Thank you.
+[01:07:22] Fran?
+[01:07:23] But I would just say on the pay equity, of course, this government made
+[01:07:27] changes to the legislation, which were opposed by other parties.
+[01:07:31] And
+[01:07:33] if that was to be unwound, the consequences run to
+[01:07:36] many, many billions of dollars. And so,
+[01:07:39] an honest conversation needs to be had about how that's going to be funded.
+[01:07:44] Fran.
+[01:07:44] Is this mic primary?
+[01:07:45] Yes.
+[01:07:46] I'm curious about the new hat you're wearing, Mr. Roche.
+[01:07:49] Sorry, Sir Roche, around the-
+[01:07:52] ... Government Digital Delivery Agency.
+[01:07:54] Yeah.
+[01:07:55] Is it intended that your chief executive role there is permanent, or are you going
+[01:07:59] to be looking for a replacement?
+[01:08:02] At some point when, and I think this is a matter of public record,
+[01:08:05] when GCDO
+[01:08:10] came to Public Service Commission, I just wanted to have an independent
+[01:08:14] review that is near completion. When it's done, I'll
+[01:08:17] consider the management and leadership roles going forward.
+[01:08:21] I'm not there yet.
+[01:08:22] Right. And can you
+[01:08:25] elaborate on what role the
+[01:08:28] GD, GC-
+[01:08:30] GDDA
+[01:08:31] ... GDDA will play in that digital transformation plan?
+[01:08:34] What sort of things will it do?
+[01:08:36] It will be the system leader.
+[01:08:39] And the system needs that. Interestingly enough,
+[01:08:43] the mandate for GDDA was changed by Cabinet, so it's
+[01:08:47] got more force. The system itself, the chief
+[01:08:50] executives are looking for leadership in this matter.
+[01:08:53] So actually, it's a great opportunity for us to do things better,
+[01:08:57] be more efficient, save money, and get better quality outcomes.
+[01:09:02] Okay.
+[01:09:02] Very good.
+[01:09:03] I don't have anybody else on my list, so I think that brings us to the
+[01:09:07] end.
+[01:09:07] Thank you very much.
+[01:09:08] Thank you very much.
+[01:09:10] Okay.
