@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-28T08:44:22.748861+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1176781676",
+  "title": "vimeo_1176781676",
+  "url": "https://vimeo.com/1176781676",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10828818",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3105.9,
+    "segment_count": 989,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026_04_22 Regs review - vimeo_1176781676\\2026_04_22 Regs review - vimeo_1176781676.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1176781676",
+    "display_id": "1176781676",
+    "title": "2026/04/22 Regs review",
+    "description": "Briefing on cost-recovery instruments made under section 130 of the Health Practitioners Competence Assurance Act 2003\n\nMedical Council of New Zealand\nJoan Simeon, Chief Executive\nCullum Mangin, Chief Financial Officer\nChristine Anderson, Registrar\n\nChinese Medicine Council\nLindsey Pine, Registrar/General Manager\nMing-chun Wu, Deputy Chair\n\nPhysiotherapy Board\nJames Dunne, Registrar\nJeanette Woltman-Black, Chief Executive\n\nThe Medical Sciences Council of New Zealand\nDr Susan Calvert, Chief Executive\nHamish McDouall, Registrar\n\nDental Council\nMarie MacKay, Chief Executive\n\nParamedic Council\nJacquelyn Manley, Chief Executive/Registrar\nBrendan Harris, Member",
+    "webpage_url": "https://vimeo.com/1176781676",
+    "original_url": "https://vimeo.com/1176781676",
+    "upload_date": "20260422",
+    "timestamp": 1776832139,
+    "release_timestamp": 1776832147,
+    "duration": 3106,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2148790836-0071b61dea8b78677469c4f4f559bbaddddc6e1a1bc6b3c8fac972a40687cda8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/295961502.vtt?expires=1778501493&sig=099ba52e14f06178d9800552d33c63d94cf16766&download=auto_generated_captions.vtt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-28T08:45:02.883643+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1201652578",
+  "title": "vimeo_1201652578",
+  "url": "https://vimeo.com/1201652578",
+  "published_at": "20260618",
+  "published_display": "2026-06-18",
+  "duration_seconds": 234,
+  "source_labels": "Parliament Page foreign-affairs-defence-and-trade, Vimeo Showcase 10758106",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 228.66,
+    "segment_count": 82,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1201652578 - vimeo_1201652578\\vimeo_1201652578 - vimeo_1201652578.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1201652578",
+    "display_id": "1201652578",
+    "title": "Foreign Affairs, Defence and Trade Committee",
+    "webpage_url": "https://vimeo.com/1201652578",
+    "original_url": "https://vimeo.com/1201652578",
+    "upload_date": "20260617",
+    "release_date": "20260617",
+    "timestamp": 1781730693,
+    "release_timestamp": 1781730698,
+    "duration": 234,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2169043799-3886fb8afba0c2d391df9eb4700ddee9921c86b17e580d1440e3827af69ff419-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

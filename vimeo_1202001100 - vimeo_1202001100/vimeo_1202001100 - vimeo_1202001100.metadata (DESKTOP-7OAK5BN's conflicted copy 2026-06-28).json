@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-28T08:44:56.619991+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1202001100",
+  "title": "vimeo_1202001100",
+  "url": "https://vimeo.com/1202001100",
+  "published_at": "20260617",
+  "published_display": "2026-06-17",
+  "duration_seconds": 3294,
+  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758255",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3292.22,
+    "segment_count": 1030,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1202001100 - vimeo_1202001100\\vimeo_1202001100 - vimeo_1202001100.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1202001100",
+    "display_id": "1202001100",
+    "title": "Governance and Administration Committee",
+    "webpage_url": "https://vimeo.com/1202001100",
+    "original_url": "https://vimeo.com/1202001100",
+    "upload_date": "20260617",
+    "release_date": "20260617",
+    "timestamp": 1781671605,
+    "release_timestamp": 1781671648,
+    "duration": 3294,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2169495173-eeb6972075274f671d11d3d39be04c087d1da9f5b615c28f9692af22bdd64bb8-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

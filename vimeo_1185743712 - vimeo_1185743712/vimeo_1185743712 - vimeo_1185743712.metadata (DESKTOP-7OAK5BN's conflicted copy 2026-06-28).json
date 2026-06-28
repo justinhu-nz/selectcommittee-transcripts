@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-28T08:44:27.162063+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1185743712",
+  "title": "vimeo_1185743712",
+  "url": "https://vimeo.com/1185743712",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758263",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 1577.3,
+    "segment_count": 504,
+    "source_vtt_path": "C:\\Users\\Plexi\\Documents\\Vibes\\Select Committee Transcripts\\2026 04 30 Petitions - vimeo_1185743712\\2026 04 30 Petitions - vimeo_1185743712.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1185743712",
+    "display_id": "1185743712",
+    "title": "2026 04 30 Petitions",
+    "description": "Petition of Mackenzie Dowell: Require plain English allergen labelling on beauty and cosmetic products\n\nMackenzie Dowell\n\nEnvironmental Protection Authority\n\nDr Shaun Presow, Manager, Hazardous Substances Reassessments",
+    "webpage_url": "https://vimeo.com/1185743712",
+    "original_url": "https://vimeo.com/1185743712",
+    "upload_date": "20260430",
+    "timestamp": 1777520748,
+    "release_timestamp": 1777520759,
+    "duration": 1578,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2152479008-b2136aeda7ccad117227bc83019bfb615ca5146c924f56267e80beb4cf4ec0aa-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "human",
+    "caption_url": "https://captions.cloud.vimeo.com/captions/297757314.vtt?expires=1778501530&sig=20cf56a431e65772102d4642025944f00e9cad60&download=auto_generated_captions.vtt"
+  }
+}
