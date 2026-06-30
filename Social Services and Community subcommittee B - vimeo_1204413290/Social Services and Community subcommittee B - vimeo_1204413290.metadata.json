@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-30T09:54:20.663584+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1204413290",
+  "title": "Social Services and Community subcommittee B",
+  "url": "https://vimeo.com/1204413290",
+  "published_at": "20260630",
+  "published_display": "2026-06-30",
+  "duration_seconds": 11486,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 11484.8,
+    "segment_count": 2965,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\Social Services and Community subcommittee B - vimeo_1204413290\\Social Services and Community subcommittee B - vimeo_1204413290.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1204413290",
+    "display_id": "1204413290",
+    "title": "Social Services and Community subcommittee B",
+    "webpage_url": "https://vimeo.com/1204413290",
+    "original_url": "https://vimeo.com/1204413290",
+    "upload_date": "20260630",
+    "release_date": "20260630",
+    "timestamp": 1782802927,
+    "release_timestamp": 1782802941,
+    "duration": 11486,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2172736055-21f64adaaba638f2fc59b72072ac2f21be2653e41b4607210935f4bae24ed1be-d_1920x1080?&r=pad&region=us",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}
