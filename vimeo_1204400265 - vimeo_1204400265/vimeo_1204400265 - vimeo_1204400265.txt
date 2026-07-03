@@ -1,0 +1,764 @@
+Title: vimeo_1204400265
+URL: https://vimeo.com/1204400265
+Published: 2026-07-02
+Duration: 00:40:12
+
+[00:00:00] Privacy Commissioner coming in.
+[00:00:02] Okay.
+[00:00:02] Online.
+[00:00:02] Yeah.
+[00:00:02] Right. Right. So look, you're welcome to come to the table
+[00:00:07] now. Thank you. So then we'll hear from our petitioner.
+[00:00:09] Make it easier when we're replying.
+[00:00:12] Right. Do we have
+[00:00:15] Mr. Feldmann?
+[00:00:17] Ms.
+[00:00:18] Oh, sorry. Ms. Feldmann. So my apologies.
+[00:00:23] Yes, I'm here.
+[00:00:25] Yes. Right, so I'm Greg O'Connor, the chair of the committee.
+[00:00:28] We'll just get ourselves to introduce ourselves.
+[00:00:30] To my right, my-
+[00:00:31] I'm, so I'm Greg Fleming, the deputy chair of the committee.
+[00:00:34] I'm Andrew Bailey.
+[00:00:37] Kia ora, I'm Cindy Wade-Brown, Green List MP.
+[00:00:40] All right. So thank you. Now you can take your submission as read.
+[00:00:44] We have 10 minutes. Obviously, feel free to speak to it,
+[00:00:48] your points, but it would be good if you could leave time for questions.
+[00:00:51] We also have the officials from the Ministry of Justice at the
+[00:00:55] table. We'll be going to them afterwards
+[00:00:59] for their oversight. So welcome.
+[00:01:03] That's great. Thank you. Thank you for having the opportunity to speak
+[00:01:07] today.
+[00:01:08] As you know, my name is Katja Feldmann.
+[00:01:10] I'm a cybersecurity, governance, risk, and assurance professional
+[00:01:14] with over 13 years of experience working across
+[00:01:18] public and private sector organizations in New Zealand and
+[00:01:21] internationally.
+[00:01:24] The reason I launched this petition is simple.
+[00:01:27] As New Zealanders, we increasingly trust organizations with our most
+[00:01:32] sensitive information, yet the consequences for failing to protect
+[00:01:35] that information are often limited.
+[00:01:39] My petition is not about punishing organizations that experience
+[00:01:42] genuine cyber attacks, even if they take reasonable
+[00:01:46] precautions. It's more about ensuring that there are adequate
+[00:01:50] consequences where organizations fail to take reasonable steps
+[00:01:54] to protect personal information or repeatedly neglect their
+[00:01:58] privacy obligations.
+[00:02:03] All right. So that's
+[00:02:05] sums up-
+[00:02:05] Yeah
+[00:02:05] ... nice summary. And
+[00:02:09] nothing else from -- Okay. Questions, members, then?
+[00:02:13] I've taken the submission as read.
+[00:02:16] I'm keen to get into the conversation with you.
+[00:02:18] What's the, yeah-
+[00:02:19] Yeah. Well, what we can do, so-
+[00:02:21] I did have a question.
+[00:02:23] Thank you, Katja.
+[00:02:25] You've listed the different penalties in different countries and
+[00:02:28] showing that we're
+[00:02:30] quite
+[00:02:32] minimal.
+[00:02:34] Have you seen evidence that those,
+[00:02:39] which sort of penalty at what sort of level actually makes the
+[00:02:43] difference in prevention? Because it's prevention we want,
+[00:02:47] not so much the slapping of the wrist afterwards.
+[00:02:50] That's right. Unfortunately, I guess once the penalties are apply,
+[00:02:54] you know, like if you were doing well in prevention, then you wouldn't get the
+[00:02:58] penalty in the first place. There is a website which, I
+[00:03:02] think it's called GDPR Tracker, that shows the different penalties
+[00:03:06] for different organizations, including private and public
+[00:03:10] sector. Sometimes you see a school, and then they get a very small penalty because
+[00:03:14] they're a school, they're obviously teachers and educational professionals,
+[00:03:18] so-
+[00:03:19] Wow
+[00:03:19] ... it's quite a different
+[00:03:21] approach. So I think the smaller penalties
+[00:03:25] are probably good for encouraging
+[00:03:29] prevention and then the larger penalties when
+[00:03:32] repeatedly, and this is what we have seen, I think, with the Privacy
+[00:03:36] Commissioner, is where there repeatedly there are complaints, yet not much
+[00:03:40] is done to actually prevent further damages there.
+[00:03:44] Thank you.
+[00:03:45] Can I just, through you, Chair?
+[00:03:47] Yeah. Mr. Bailey.
+[00:03:50] Can I just ask a few questions?
+[00:03:53] I was the minister for stopping scams, so I sort of had
+[00:03:57] quite an interest in this.
+[00:04:00] So there's two sides to the coin, and I
+[00:04:04] wanted to understand your fundamental proposition before we jumped into the
+[00:04:08] penalties. But so of course, there's two sides.
+[00:04:11] One is we have a lot of personal scams
+[00:04:15] that occur because people are not good with
+[00:04:19] passwords or all that type of scams, right?
+[00:04:23] Yeah.
+[00:04:24] The other thing is what we did and what I started was we're putting in
+[00:04:28] place
+[00:04:30] arrangements between the banks,
+[00:04:32] then
+[00:04:34] the telcos, and then there has been agreement with the
+[00:04:39] Meta and the main digital providers.
+[00:04:43] Although that's probably more work to go in that field.
+[00:04:46] So
+[00:04:47] you're
+[00:04:49] talking about scams, but I presume you're not talking about the
+[00:04:52] personal, you're talking about
+[00:04:55] the large-scale
+[00:04:58] transfer of information, but it's occurred under
+[00:05:02] an illegal process, and you'll know where
+[00:05:06] most of these scams originate from
+[00:05:09] as much as I do.
+[00:05:10] So are you dealing with those industrial
+[00:05:14] leakages like we've had the, are you talking about the Hamilton Waikato
+[00:05:18] University?
+[00:05:19] How do you differentiate between all the other scams?
+[00:05:23] We lose billions of dollars a year from personal scams.
+[00:05:28] Sometimes,
+[00:05:30] misinformation
+[00:05:32] gets leaked but doesn't actually result in financial harm, might result in
+[00:05:35] emotional harm. So what I'm trying to understand for you is what your proposition
+[00:05:39] is.
+[00:05:41] I think essentially my proposition is probably having a look at
+[00:05:45] the Privacy Act as a whole and seeing how it
+[00:05:49] ties back to other legislation. Thinking like,
+[00:05:53] if you look at the Health and Safety Act, for example, before that was
+[00:05:56] tied to personal liability of directors of
+[00:06:00] companies. It also was not
+[00:06:04] always taken as seriously because- There's
+[00:06:08] sort of two layers to it. So if you look at,
+[00:06:11] I don't know if you've read recently, Booking.com had a big data breach, right?
+[00:06:15] So everyone that uses Booking.com, which is almost there's a lot of New
+[00:06:19] Zealanders, no doubt, that use it.
+[00:06:21] Booking.com failed to adequately protect
+[00:06:26] the information of their users, and then they get a
+[00:06:29] scam. So as the end user, like me opening that email, the
+[00:06:33] more organizations fail to protect that information,
+[00:06:37] and it leaks out to more different parties.
+[00:06:40] You just spread the attacks. We call it-
+[00:06:43] ... sort of the attack surface. It just spreads.
+[00:06:45] So we're never going to get on top of scam if we keep leaking more and more-
+[00:06:49] Yeah
+[00:06:49] ... of the information.
+[00:06:50] Okay, now I agree with sort of what you're trying to do.
+[00:06:53] But, so what you've said, just by inference from what you just said, is you don't
+[00:06:57] want to deal with personal scams, where someone
+[00:07:01] unwittingly
+[00:07:02] does something, right? You're talking about gross
+[00:07:06] misuse, transfer of data. Okay. So then there's
+[00:07:10] sort of components within that, because you'll be
+[00:07:14] aware through your own work that there's certain
+[00:07:17] organizations that get a high level of protection in New Zealand and are still
+[00:07:21] subject to massive attacks where big
+[00:07:25] data breaches. The hospital is one
+[00:07:29] area of that. You'll probably know what I'm talking about.
+[00:07:32] Yep.
+[00:07:32] And then large corporates,
+[00:07:36] once you get below,
+[00:07:39] I don't want to name companies, but
+[00:07:42] are not inside that boundary. So are you talking about
+[00:07:46] corporates here? Because your example was a corporate.
+[00:07:49] Or you're talking about government agencies?
+[00:07:52] Both. But obviously for government agents.
+[00:07:55] So it's not just about the penalties.
+[00:07:57] I think it's, as government agencies, they already have a security sort of
+[00:08:01] standard, which is the New Zealand Information-
+[00:08:04] They still get, they still-
+[00:08:04] ... Security Manual.
+[00:08:05] But they still lose information.
+[00:08:08] Yeah, that's right. So I'm not sure if penalties would be the way to go because in
+[00:08:12] the end they, I guess, are just taxpayer money.
+[00:08:14] But so there maybe needs to be some
+[00:08:18] independent audits or something in that space.
+[00:08:21] But in the private sector, I think
+[00:08:24] penalties combined with some sort of
+[00:08:29] legal obligation to actually do
+[00:08:33] the... Because we're talking about prevention, right?
+[00:08:35] Ideally, we don't want anyone to pay that penalty.
+[00:08:38] Yeah.
+[00:08:38] Mm.
+[00:08:38] So there's two areas. Then you sort of get that down to two areas.
+[00:08:42] So one is what you, I think what you're saying there is
+[00:08:46] there'd be a general, sort of a bit like a Companies Act requirement, a
+[00:08:50] general requirement that if you possess people's personal details,
+[00:08:53] then you need to show reasonable efforts to make sure that's protected.
+[00:08:57] That's fine. If you're subject to a concerted attack by
+[00:09:01] one of the major players, and there's about four of them.
+[00:09:05] Even small firms,
+[00:09:08] I had a merchant bank, I lost some data at one stage.
+[00:09:11] We had good systems, right? We took all the precautions, but we still
+[00:09:15] lost data. And then the next point-
+[00:09:19] Well, just on that one. Under that, that's a good
+[00:09:22] example. So would, because they lost
+[00:09:26] data, in Mr. Bailey's example, would
+[00:09:30] that be almost a vicarious liability offense or
+[00:09:34] a liability offense because they lost it?
+[00:09:38] I think if that, talk if that-
+[00:09:39] Who would determine whether
+[00:09:43] the degree of care exercised
+[00:09:46] by Mr. Bailey's firm was adequate?
+[00:09:50] And that's I guess, another layer of this, because we have the
+[00:09:54] Privacy Act, but it's not very descriptive, right?
+[00:09:57] So somewhere there needs to be some standards that say, "These are the
+[00:10:01] minimum standards we expect organizations to follow."
+[00:10:06] And then if someone loses information, similar to what
+[00:10:10] happened at Manage My Health now, you can go in there and you can say, "Well,
+[00:10:14] legally you were supposed to follow this standard.
+[00:10:18] Here's all the stuff you did, here's all the stuff you didn't do." And then-
+[00:10:22] Okay. Now, Mr. Bailey, I think this is a good time actually to bring the officials
+[00:10:26] in-
+[00:10:26] Yeah. Can I just-
+[00:10:27] ... who've heard this. Okay, one last question.
+[00:10:29] But we can come back to, Ms. Sheldon.
+[00:10:30] Just I think there's another
+[00:10:33] angle which I think you were getting at as well,
+[00:10:37] and this is what we tried to do with the banks and the telcos, and ultimately
+[00:10:41] the measure of stuff is the sharing of knowledge.
+[00:10:44] So if you have been
+[00:10:48] attacked,
+[00:10:50] the agreement that there is with the banks, for instance, is that
+[00:10:54] they have to share that data, and they can share data
+[00:10:58] simultaneously without being legally
+[00:11:01] liable. So it's almost making sure that there is a network
+[00:11:05] there that means that they can be protected,
+[00:11:08] and more readily therefore, more readily the key actors in the
+[00:11:12] market, because most scams come through those three sources,
+[00:11:16] are then stopped in their tracks much earlier than otherwise.
+[00:11:20] So sharing data to stop the-
+[00:11:22] Yeah
+[00:11:22] ... to, kind of-
+[00:11:23] And that's a crucial bit-
+[00:11:25] Or, well, look-
+[00:11:26] A crucial part of it
+[00:11:26] ... okay, look, well, this, you've heard this, why it's useful to have you
+[00:11:30] here. I'll just now invite
+[00:11:33] our Ministry of Justice officials to take us away.
+[00:11:38] Kia ora koutou. Thank you for inviting us to speak with the committee.
+[00:11:42] So the Ministry of Justice provided a written submission on the petition in
+[00:11:46] April
+[00:11:47] of this year, and in summary, that submission
+[00:11:51] provided an overview of the current enforcement settings in the Privacy Act and the
+[00:11:55] powers available to the Privacy Commissioner.
+[00:11:58] It noted the concerns of the petitioner's submission with the current
+[00:12:02] enforcement and penalty settings in the Act, and also
+[00:12:06] mentioned that we are developing advice on
+[00:12:09] options to incentivize the protection of personal information
+[00:12:13] as part of-
+[00:12:15] The National Cybersecurity Action Plan 2026 to
+[00:12:18] 2027.
+[00:12:21] So if there are no specific questions on what we provided in our written
+[00:12:24] submission, I can just talk through the points we made in that submission.
+[00:12:28] Do you want to-
+[00:12:28] Or do you... No, you can...
+[00:12:30] No, no. You should talk to-
+[00:12:32] Yeah, no. So carry on
+[00:12:34] All right. So, in terms of the Privacy Act, it came into effect on
+[00:12:38] 1 December 2020. Its purpose is to protect and promote
+[00:12:42] people's right to privacy over their personal information.
+[00:12:46] It applies to individuals and agencies.
+[00:12:48] And when we say agencies, we mean
+[00:12:52] agencies that decide to collect personal information for a particular
+[00:12:55] purpose. And the Privacy Commissioner is an independent Crown
+[00:12:59] entity, and he has a range of powers under the act,
+[00:13:02] including resolving complaints and enforcing compliance.
+[00:13:08] The act is principles based rather than rules based.
+[00:13:13] And the principles are intended to be flexible and proportionate,
+[00:13:18] both to the range of agencies or organizations the act applies to,
+[00:13:22] and based on the nature of the information they hold.
+[00:13:25] So the act is quite context specific.
+[00:13:29] In terms of the commissioner's role,
+[00:13:33] the commissioner has a role in terms of resolving individual complaints.
+[00:13:37] So any person can make a complaint alleging that
+[00:13:41] an action of an agency is an interference with their privacy,
+[00:13:45] and then the commissioner will decide whether or not to investigate that
+[00:13:48] complaint. And the complaint may lead to a settlement
+[00:13:52] between the complainant and the agency, an assurance
+[00:13:56] from the agency that the action will not be repeated.
+[00:13:59] The commissioner could investigate the complaint.
+[00:14:03] The commissioner can make a referral to the Director of Human Rights,
+[00:14:07] Review Tribunal proceedings.
+[00:14:09] And the tribunal, the Human Rights Review Tribunal, may award
+[00:14:13] remedies to an individual if satisfied that there has been a
+[00:14:17] privacy interference,
+[00:14:19] including damages up to a maximum of $350,000.
+[00:14:26] Then there are
+[00:14:27] enforcement powers available to the commissioner.
+[00:14:29] So I've just talked about the individual complaints that they
+[00:14:33] deal with. But in terms of the enforcement powers of the commissioner, they can
+[00:14:37] inquire into any matter that appears to be an infringement with the privacy
+[00:14:41] of individuals,
+[00:14:44] can investigate a complaint or a matter about which a complaint may be made
+[00:14:48] under the act. They can issue compliance notices to agencies if they
+[00:14:52] consider the agency has breached the act, a privacy
+[00:14:55] principle, or a relevant code of practice.
+[00:14:58] And the compliance notice
+[00:15:01] can sets out the nature of the breach, and then it can direct agencies
+[00:15:05] to take specific steps to remedy the breach.
+[00:15:09] And compliance notices are enforceable through the Human Rights Review Tribunal.
+[00:15:13] And failure to comply with the tribunal is an
+[00:15:17] offense. It's a criminal offense punishable by a fine of up to
+[00:15:21] $10,000.
+[00:15:23] And then there are various other criminal offenses under the act, also punishable
+[00:15:27] by a fine of up to $10,000 on conviction.
+[00:15:31] In terms of the
+[00:15:34] effectiveness of existing penalties and enforcement tools,
+[00:15:38] the petitioner is correct to say that New Zealand is becoming
+[00:15:42] somewhat of an outlier compared to privacy and regulatory
+[00:15:46] settings internationally. Other jurisdictions certainly have
+[00:15:50] strengthened
+[00:15:52] regulatory powers in recent years.
+[00:15:55] So Australia, the EU, and the UK, they have
+[00:15:59] introduced civil penalties for breaches of their privacy legislation,
+[00:16:03] and the fines are in the millions. Australia, I think, most recently has gone up to
+[00:16:07] 40 million.
+[00:16:08] Mm-hmm.
+[00:16:09] New Zealand's privacy law does not have civil penalties.
+[00:16:13] And this is really because the act is
+[00:16:17] based on an individual complaints model, and it's ensuring the commissioner can
+[00:16:21] resolve complaints rather than enforce compliance.
+[00:16:26] So the recommendations in the petition that the act introduce a stronger penalty
+[00:16:29] regime,
+[00:16:32] for serious or repeated privacy breaches,
+[00:16:36] are similar to what the privacy commissioner has called for in the past.
+[00:16:40] Mm-hmm.
+[00:16:41] In terms of our current work,
+[00:16:43] we're working on advice on options to
+[00:16:48] incentivize the protection of personal information, which could look at
+[00:16:53] introducing penalties into the Privacy Act.
+[00:16:58] So-
+[00:16:58] Are there any questions?
+[00:16:59] Sorry. So it's work you're doing-
+[00:17:01] Yes
+[00:17:02] ... under the auspices of the-
+[00:17:05] The Cybersecurity Action Plan.
+[00:17:07] Right.
+[00:17:09] Okay. And will
+[00:17:11] some of these recommendations...
+[00:17:13] I mean,
+[00:17:15] what are the terms of reference essentially for that?
+[00:17:17] Is it pretty wide-ranging to actually
+[00:17:21] re-
+[00:17:22] In terms of the recommendation?
+[00:17:25] It's to-
+[00:17:25] Or the terms of reference-
+[00:17:25] ... provide advice on options to
+[00:17:30] incentivize the protection of personal information,
+[00:17:35] including, for example,
+[00:17:37] introducing civil penalties.
+[00:17:40] Right. When will you provide that advice?
+[00:17:42] When?
+[00:17:42] Yeah.
+[00:17:46] Soon.
+[00:17:49] Yes.
+[00:17:49] And when do you reckon the cyber plan's going to be introduced?
+[00:17:53] Well, the minister will make decisions, the Minister of Justice, in due course.
+[00:17:58] Right.
+[00:17:59] So imminent.
+[00:18:02] So-
+[00:18:03] It's subject to, yeah, the minister-
+[00:18:05] Then your advice is imminent going to the Minister of Justice.
+[00:18:09] Shortly.
+[00:18:10] Shortly. Very good.
+[00:18:11] So let's just say these...
+[00:18:14] Okay, so who's got the investigative team?
+[00:18:16] Who has the ability to investigate these breaches?
+[00:18:19] The Privacy Commissioner.
+[00:18:21] They currently have the ability to investigate.
+[00:18:23] Okay. And does he have the ability, or she, do they have the ability
+[00:18:27] to do this? What sort of Because this is we-
+[00:18:30] To investigate?
+[00:18:32] One, no. I think the
+[00:18:35] Privacy Commissioner's clearly got the ability to investigate.
+[00:18:37] Yeah.
+[00:18:38] I think the question is does he have the capability?
+[00:18:41] And secondly, my second question would be, has he undertaken any
+[00:18:45] investigations in recent times? So is that a latent power or is
+[00:18:49] it a power that's used actively?
+[00:18:51] Well, he most recently inquired into the Manage My Health data breach.
+[00:18:55] Did anyone get fined, killed, taken to jail,
+[00:18:59] locked up?
+[00:19:01] Well, there were findings made in relation to that.
+[00:19:04] So he found that both Manage My Health
+[00:19:08] and Health New Zealand
+[00:19:10] failed in their responsibilities to-
+[00:19:12] But they opened the door, didn't they?
+[00:19:13] That's correct, and both breached rule five of-
+[00:19:16] And did they get a penalty though?
+[00:19:18] Well, no, because the commissioner does not have the ability to-
+[00:19:21] How do you, and this is what the petitioner started asking,
+[00:19:24] if you were to put a stronger regime in, who would prosecute in the case
+[00:19:28] of the Waikato Hospital we talked about?
+[00:19:31] Who would take it, and who would be sued? Is it the board?
+[00:19:35] Is it the managing director, or is it the
+[00:19:38] CTO?
+[00:19:40] And who would take that case?
+[00:19:42] Who would take the case?
+[00:19:44] Yeah, to sue them.
+[00:19:46] One of the options is that the case would be taken by the
+[00:19:49] commissioner-
+[00:19:50] ... but in the end it would be a court, the High Court-
+[00:19:52] Yeah, but have you got funding for it?
+[00:19:53] ... potentially that would decide.
+[00:19:54] Have you got funding for it?
+[00:19:55] Someone's got to put this, this to top my question, someone's got to put this.
+[00:19:58] These are going to be massive cases, particularly against some of these big
+[00:20:02] corporates.
+[00:20:03] And it's hard to think that a couple of ex-cops working for the
+[00:20:08] have got that capability to do it.
+[00:20:11] And particularly once these fines get up around, if
+[00:20:15] the recommendations that the sanctions become much greater.
+[00:20:21] But it would be done under the auspices of the Privacy Commissioner.
+[00:20:25] Correct.
+[00:20:26] Okay. I think we
+[00:20:28] might have a talk afterwards about that.
+[00:20:30] Yeah.
+[00:20:31] There's the Privacy Commissioner now.
+[00:20:35] Good. Well, actually, let's bring the Privacy Commissioner on right now.
+[00:20:37] Good timing.
+[00:20:38] Because we didn't know you were there. He was hidden. Secret agents.
+[00:20:41] Thank you.
+[00:20:42] Afternoon, Mr. Chair, members.
+[00:20:45] Good. Well, you've sat there, you've managed to hear the
+[00:20:48] petitioner and ministry, so you can
+[00:20:52] join all the bits up for us. Thank you.
+[00:20:55] Thank you, Mr. Chair, and I'm joined today by Ed Kennedy and Ushana
+[00:20:59] Jayasuriya from my office, from the policy team.
+[00:21:04] Very briefly, as the submitter has noted, and as you will be aware,
+[00:21:09] my office continues to see serious privacy breaches
+[00:21:13] happening. As has just been referred to, most recently,
+[00:21:17] the Manage My Health inquiry. We have formally reported on
+[00:21:20] phase one of the inquiry, and our
+[00:21:24] finding that they had
+[00:21:27] breached what is known as Rule 5 of the Health Information Privacy
+[00:21:30] Code has led to us saying
+[00:21:34] publicly that we will issue
+[00:21:38] compliance notices to them. Which is a tool available in our regulatory
+[00:21:41] toolbox to direct them to take certain action or to stop doing certain
+[00:21:45] things to ensure that they come back within their
+[00:21:49] operations within the ambit of the requirements of the Privacy Act.
+[00:21:53] That, at the moment, is the most significant tool in many ways in our
+[00:21:57] regulatory toolbox.
+[00:21:59] Given that this is a petition, Mr. Chair, I thought members might be interested to
+[00:22:02] know a little bit about what we're hearing from members of the public.
+[00:22:06] We've just conducted our 2026
+[00:22:09] privacy survey, which shows that concerns about
+[00:22:13] privacy in general are deepening and diversifying.
+[00:22:16] Not only are more people concerned about their individual privacy than ever
+[00:22:20] before, but a greater number are saying that in the last few
+[00:22:24] years they've become more and more concerned, which I think is a reflection
+[00:22:27] of the significant cyber attacks and data privacy breaches we've
+[00:22:31] seen over recent years.
+[00:22:34] Our survey actually asked questions around the matter that is part of the
+[00:22:39] topic of the petition today, and New Zealanders continue to support the
+[00:22:43] need for greater enforcement powers under the Act, with support
+[00:22:47] from over 70% of the respondents.
+[00:22:50] Of those, 75% of those respondents wanted to see higher penalties,
+[00:22:55] and 74% supported audit powers, something else referred to by
+[00:22:59] the petitioner. So there is a strong degree
+[00:23:03] of public interest and support for what
+[00:23:07] I would describe as adding another tool to the regulatory
+[00:23:10] toolbox of this office. A financial penalty regime
+[00:23:15] is one tool
+[00:23:16] in the compliance enforcement toolbox.
+[00:23:18] It's an important tool, and it's a missing tool.
+[00:23:22] We do actually regulate along a spectrum.
+[00:23:25] For agencies that are trying to do privacy well, we might encourage,
+[00:23:29] educate, provide guidance, provide warnings, those sorts
+[00:23:33] of ends of the regulatory spectrum.
+[00:23:37] But at the other end, Mr. Chair, members, where we see poor or
+[00:23:41] deliberate mismanagement of people's personal information, we
+[00:23:44] believe that's where we need to have a stronger set of tools
+[00:23:48] available to us. We have the compliance notice approach, as I've
+[00:23:52] outlined, but also the ability, like my colleagues in other
+[00:23:55] countries, to seek financial penalties through the court system
+[00:24:00] or indeed to even issue infringement fines for lower level breaches
+[00:24:04] of privacy is something that we believe
+[00:24:07] is something that is needed in our operations.
+[00:24:12] I guess in many ways, though, our
+[00:24:16] focus is also on building what I'd describe as the
+[00:24:20] privacy fence at the top of the cliff, rather than always being the privacy
+[00:24:23] ambulance at the bottom dealing with- These extraordinary large data
+[00:24:26] privacy breaches and complaints from individuals about
+[00:24:30] interference with their privacy.
+[00:24:33] So as part of a legislative reform package, we
+[00:24:37] would also, and have in the past, advocated for things
+[00:24:41] like audit powers for the office,
+[00:24:43] for agencies like public and private sector organizations to
+[00:24:47] be subject to accountability principles that require them to be
+[00:24:51] more transparent, I guess, about what they're doing to ensure
+[00:24:54] that they both protect and respect individuals' personal
+[00:24:58] information.
+[00:25:01] But as the committee will know and has heard,
+[00:25:05] the office of the Ministry of Justice is responsible for privacy
+[00:25:09] policy. We're very much the regulator in this space.
+[00:25:11] It is up to the Ministry and the government of the day to decide
+[00:25:15] whether they wish to advance reform along these lines.
+[00:25:19] We're very supportive of the direction of reform in terms of a
+[00:25:23] financial penalty power for this office.
+[00:25:26] We would exercise that carefully.
+[00:25:29] I can talk, if the committee wishes, about the sort of thing we might be talking
+[00:25:33] about,
+[00:25:34] and perhaps in comparison terms that some members will be familiar with,
+[00:25:38] if you're interested, Mr. Chair. For example, if you think about the Commerce
+[00:25:42] Commission in relation to the Fair Trading Act, they have a
+[00:25:46] similar financial penalty regime.
+[00:25:48] So probably looking at a financial penalty regime
+[00:25:52] consistent with consumer law, that sort of thing.
+[00:25:56] Officials, of course, have a better understanding of the nature of the different
+[00:25:59] financial penalty regimes that apply across different regulatory areas.
+[00:26:04] But we're not looking for something extraordinary.
+[00:26:06] We're looking for something that would allow us to send a strong
+[00:26:10] signal for the most egregious and poor management of
+[00:26:14] people's personal information. Thank you, Mr. Chair.
+[00:26:17] Thank you. Just a question. Say, the Waikato Hospital breach.
+[00:26:22] There's presumably an inquiry into the breaches, into
+[00:26:26] the hackers.
+[00:26:28] That's done
+[00:26:30] currently by police.
+[00:26:32] Yeah.
+[00:26:32] So there's that inquiry as to the criminals who have gone
+[00:26:36] in and stolen the information.
+[00:26:39] That's-
+[00:26:39] And number-
+[00:26:40] That's separate to any inquiry regarding the
+[00:26:44] privacy issue, presumably. Is that it?
+[00:26:47] That's right. If criminal action activity has taken place, for example,
+[00:26:52] hackers are breaking into, the most recent case, ManageMyHealth,
+[00:26:57] that is something for the police to consider looking
+[00:27:01] at. But under our current privacy law,
+[00:27:05] if you suffer what is defined as a serious privacy breach,
+[00:27:09] you have to, by law, report that to my office, and we have the ability to assess
+[00:27:13] that and, if we wish, to investigate that to see what happened and
+[00:27:17] why, and whether appropriate and reasonable steps were taken
+[00:27:21] in terms of the requirements you need to meet to protect personal
+[00:27:25] information in Privacy Act, to see whether those requirements were in fact
+[00:27:28] actually met.
+[00:27:30] So do you work -- well, presumably there is a criminal inquiry into
+[00:27:34] ManageMyHealth.
+[00:27:36] So will you be working with the police on that?
+[00:27:40] I'm not sure if there is actually going on at the moment in that
+[00:27:44] area. We have completed our report into phase one, which
+[00:27:48] found that both ManageMyHealth and Health New
+[00:27:51] Zealand failed to have in place reasonable security
+[00:27:55] safeguards to protect individuals' personal information.
+[00:27:59] So from my perspective, they failed to meet the requirements of the
+[00:28:02] Privacy Act, which is why we're taking further regulatory action in response to
+[00:28:06] that.
+[00:28:07] The actual identification of the hackers
+[00:28:11] is not something that we would necessarily be interested in, and that would be a
+[00:28:15] matter for
+[00:28:17] police. But we understand that actually identifying
+[00:28:21] who those hackers might be and then holding them to account is in itself a
+[00:28:24] very challenging
+[00:28:27] thing to do.
+[00:28:28] Well, you'd need to find out how they got in, though, wouldn't you?
+[00:28:31] Because that's going to be very much part of if you're going to take a case against
+[00:28:34] ManageMyHealth, then part of the
+[00:28:39] actus reus is going to be finding out how the people got in.
+[00:28:43] So I'm just surprised you wouldn't be working more closely with them.
+[00:28:47] Well, as part of our inquiry, Mr. Chair, we actually brought in
+[00:28:51] specialist forensic IT support to assist my team
+[00:28:55] here, and they were able to help us identify
+[00:28:59] the failures in security from the agency concerned
+[00:29:03] and to identify what hardening and strengthening of systems now needs
+[00:29:07] to happen. So we brought that in ourselves.
+[00:29:10] As Eva said, I think we know it was the hacker group Kazoo, I think they
+[00:29:14] were called.
+[00:29:15] These are often based in countries a long way away from here,
+[00:29:19] Mr. O'Connor, and
+[00:29:21] kind of difficult and beyond the reach of our authorities.
+[00:29:25] But the privacy failure, if proved, is something that we very
+[00:29:28] much can and do have a say and have a look at.
+[00:29:32] We want to make sure they're not in Te Awamutu though, don't we?
+[00:29:37] Mr. Bailey.
+[00:29:38] Yeah. Can I just ask a couple questions? One is jurisdiction.
+[00:29:43] You can
+[00:29:45] require any entity, whether private or government entity, that
+[00:29:49] every entity is subject to Privacy Act?
+[00:29:52] That's right. It's an extraordinarily broad remit, so all public and private
+[00:29:56] sector entities from the large corporate to the corner store, non-governmental
+[00:30:00] organizations, all those sorts of groups.
+[00:30:03] Okay. And in terms of actions,
+[00:30:06] have you taken anyone to court?
+[00:30:09] Not in my time as Privacy Commissioner, and I don't think so before then, no.
+[00:30:13] I don't believe we've ever prosecuted anyone.
+[00:30:15] But that begs the question-
+[00:30:17] Mm
+[00:30:17] ... even if you increase the penalties-
+[00:30:19] Mm
+[00:30:19] ... why haven't you? And I presume one of a significant issue in
+[00:30:23] terms of funding of your office, capability, expense of
+[00:30:27] taking court cases to the High Court.
+[00:30:30] Can you say why you haven't taken any cases?
+[00:30:35] Sure. We've operated to date on the basis of the
+[00:30:39] current tools available to us, and the most
+[00:30:42] commonly used and powerful one for us is the compliance notice.
+[00:30:45] So we don't need to go down the court route.
+[00:30:49] Prosecutions under our act are normally in relation
+[00:30:53] to a failure to follow, for example, the requirements of a
+[00:30:57] compliance notice. So it's failure to follow lawfully the requirements
+[00:31:01] imposed on an agency by this office.
+[00:31:03] If we-
+[00:31:03] So you basically have to go through a two-step.
+[00:31:06] Yeah.
+[00:31:07] One is to issue the notice. If they don't do anything, then you
+[00:31:12] have to... But what happens if there's gross negligence?
+[00:31:15] Yeah.
+[00:31:16] Because it's different cases, and I don't know whether you heard me talking before,
+[00:31:18] but
+[00:31:19] we've got an orchestrated actor, and there's many
+[00:31:23] well-known actors are doing it.
+[00:31:25] And that's a national level.
+[00:31:29] Even if you have a very good system, then a lot of people will be
+[00:31:33] subject. Even the American
+[00:31:35] major institutions have been hacked.
+[00:31:38] So there's an issue of graduation-
+[00:31:40] Yeah
+[00:31:40] ... but then there's a system of where there's a gross,
+[00:31:44] let's say Hamilton, on the primary facie, where it was a gross
+[00:31:48] case of
+[00:31:50] doing silly stuff, right? Negligence.
+[00:31:53] Presumably, you'd also want the power to be able to take them straight to court
+[00:31:57] for an appropriate, rather than just go through this graduated
+[00:32:00] process. Or is that not your preference?
+[00:32:02] Yes. Absolutely. So what I was
+[00:32:06] saying was if we had a financial penalty regime
+[00:32:10] specified in the Privacy Act,
+[00:32:13] what we would do would be, having assessed the nature of a breach, the reasons for
+[00:32:16] it, if it was due to deliberate or
+[00:32:20] incredibly poor management by the agency's governance and
+[00:32:23] leadership concerned, we may well decide to go down the financial
+[00:32:27] penalty regime and seek a financial penalty through the court system.
+[00:32:31] And you're absolutely right, Mr. Bayly.
+[00:32:34] We would then need to have the ability to fund such court action. Yes.
+[00:32:39] So really what we're hearing is Ms.
+[00:32:41] Feldman is right, that there is, currently,
+[00:32:47] we really are without a regime that's going to give
+[00:32:50] meaningful
+[00:32:53] sanction
+[00:32:55] and to organizations which
+[00:32:59] don't adequately protect the information they have, the personal
+[00:33:03] information they have. Would that be fair from your point of view?
+[00:33:07] Absolutely, Mr. Chair.
+[00:33:09] A financial penalty regime immediately sharpens
+[00:33:13] that sense of accountability around the boardroom table.
+[00:33:17] It provides a demonstration effect to other actors in that area as well.
+[00:33:20] If they can see one of their colleagues in whatever sector of activity
+[00:33:24] that's going on, let's say it's the health sector or the banking sector.
+[00:33:28] If they see someone being hit with a large fine, it'll make everybody
+[00:33:32] sit up and pay attention. It makes the board of directors turn to the chief
+[00:33:35] executive and say, "What kind of work are you doing to harden, for
+[00:33:38] example, your IT systems?" So it has a positive effect beyond the
+[00:33:42] agency concerned.
+[00:33:43] So presumably, this conversation has taken place elsewhere, that
+[00:33:47] Ms. Feldman's not the only person who's been concerned about
+[00:33:51] this.
+[00:33:53] No, I have been talking about it since I took up this role four years ago.
+[00:33:57] I've been speaking to my colleagues in other countries about what they're doing in
+[00:34:00] this space. We're seeing a greater degree of
+[00:34:04] using this tool coming through from our Australian colleagues, for example.
+[00:34:08] And as you've heard from the Ministry of Justice, this is something that they're
+[00:34:11] looking at as well and has indeed been put forward as something that
+[00:34:15] needs some serious thought as part of the government of the day's
+[00:34:18] cybersecurity action plan, as you've heard.
+[00:34:21] Well, I'd say that we're yet as a committee to meet and discuss that,
+[00:34:25] but it may well be that that will be our own conclusion from what we've
+[00:34:29] heard today. Members, are there any other questions-
+[00:34:32] There was one other dimension
+[00:34:34] ... of any of our officials or in fact even our
+[00:34:37] petitioner?
+[00:34:39] Commissioner, I don't know whether you heard before, but
+[00:34:42] the other element is
+[00:34:44] you talked about prevention, and there is a prevention.
+[00:34:47] If there is a breach, let's say of
+[00:34:52] number of organizations. As the minister put that thing
+[00:34:56] in place with the banks, it's now been rolled out with telecom and
+[00:35:00] the other internet providers. But
+[00:35:04] one of the key components of that was to be able to share when they were aware of
+[00:35:08] attacks,
+[00:35:10] particularly in the relation to scams.
+[00:35:13] The way you framed it, if someone has
+[00:35:16] got a breach of data, they've got to send it to you.
+[00:35:21] First of all, do you share that data immediately with the relevant people to say,
+[00:35:25] "We're aware of this"?
+[00:35:27] Or you don't get that in real time, so by the time you get it, it's too late?
+[00:35:31] Or do you allow those organizations make
+[00:35:35] other people aware of what's happening, and there's a mechanism to do that really
+[00:35:39] quickly? Because that's in the best interests of New Zealand, not just an
+[00:35:42] organization.
+[00:35:44] Sure. A couple of things on that, and I'll ask my colleague to talk as well.
+[00:35:48] Breach reporting to us is treated with a high degree of confidentiality,
+[00:35:52] because the fact that there has been a breach for a particular organization
+[00:35:56] may actually be even market sensitive, and so they need to be careful about
+[00:36:00] how they message that and plan for that.
+[00:36:02] Second, in my time in the role, I've had a number of meetings, for example, with
+[00:36:06] the banking ombudsman, with the Bankers Association, with banks to
+[00:36:10] discuss that very issue, to ensure that they have
+[00:36:14] the freedom to share information in a way that,
+[00:36:17] while respecting people's privacy, allows the goal of protecting
+[00:36:22] individuals' financial
+[00:36:26] stewardship to be protected as well. Eve, anything further?
+[00:36:29] Yeah. On that point, my team has been involved in the
+[00:36:33] Anti-Scam Alliance work, so the collaboration pillar for the Anti-Scam Alliance
+[00:36:37] about information sharing to-
+[00:36:40] prevent and detect scams. The other point I'd note is just that the
+[00:36:44] commissioner has powers under the act to
+[00:36:47] refer matters on to other agencies where appropriate, if it's
+[00:36:52] an issue that's better placed resolved by another
+[00:36:56] regulatory agency, for example. So we have information sharing powers to give
+[00:36:59] effect to that under our act already as well.
+[00:37:02] And one other question. If an organization is
+[00:37:06] hacked,
+[00:37:08] and the blackmail, what's the word, that they're blackmailed to-
+[00:37:12] Yeah
+[00:37:13] ... give the information back, and they do that, and they don't
+[00:37:16] report to their customers
+[00:37:21] that that information was hacked.
+[00:37:24] Do you deal with that? Is it an offense to do that?
+[00:37:29] Yeah. It's a breach of the Privacy Act to not report a, what we
+[00:37:33] would regard as a serious breach.
+[00:37:35] And so what we do see, Mr. Chair, is organizations reporting breaches
+[00:37:39] to us that might not be serious because people from abundance of
+[00:37:43] caution are now getting into the habit of doing that.
+[00:37:47] The sorts of organizations that would be reluctant to report a
+[00:37:51] breach are the sorts of organizations that we would have the greatest degree of
+[00:37:55] concern about, and probably would be looking at to hit with a financial penalty
+[00:38:00] if we found that they had been poor stewards of the personal information that they
+[00:38:04] had available to them. Absolutely.
+[00:38:06] All right. And just finally, so we're going to have to keep moving, but-
+[00:38:10] Yeah
+[00:38:10] ... we've
+[00:38:12] had the justice officials, we've had a very well-informed
+[00:38:16] petitioner, and yourselves.
+[00:38:18] The Petitions Committee will be looking to report on this.
+[00:38:22] Is there anyone else that you would suggest we should be talking to or hearing from
+[00:38:25] here that would be able to enlighten us a little further about this from the
+[00:38:29] top of your head? Or even if you were to afterwards think of
+[00:38:33] anyone, we'd be quite here because
+[00:38:35] we see this as a search for
+[00:38:38] an answer, and making sure we have all the facts available.
+[00:38:40] So if any other petitioners actually, or any of our submitters,
+[00:38:45] thought there was anyone else, any industry bodies that might be
+[00:38:48] worth talking to?
+[00:38:51] Certainly. Even a quick Google search of financial penalties
+[00:38:55] privacy will throw up a number of both
+[00:38:58] NGO expert privacy consultancy
+[00:39:03] law firm commentators talking about
+[00:39:06] the value of a financial penalty regime in this space.
+[00:39:10] As
+[00:39:11] I said, as part of a regulatory toolkit.
+[00:39:15] One tool, an important tool, but remembering that there are others as well.
+[00:39:20] All right. Any other pressing questions, members? All right.
+[00:39:23] And back to our
+[00:39:25] petitioner. Thank you very much.
+[00:39:27] I would like to think what we exist for, to make sure
+[00:39:31] that someone like yourself with that knowledge can bring it forward, and
+[00:39:34] hopefully we can report and either,
+[00:39:39] if not get things moving,
+[00:39:41] lubricate the wheels.
+[00:39:43] Thank you, Mr. Chair.
+[00:39:44] Thank you
+[00:39:44] ... things are already happening.
+[00:39:46] Thank you very much.
+[00:39:48] Thank you.
+[00:39:49] Thank you.
+[00:39:49] Thank you. Bye.
