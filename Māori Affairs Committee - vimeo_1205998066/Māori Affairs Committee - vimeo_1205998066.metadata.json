@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-07-06T11:38:46.001765+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1205998066",
+  "title": "M\u0101ori Affairs Committee",
+  "url": "https://vimeo.com/1205998066",
+  "published_at": "20260706",
+  "published_display": "2026-07-06",
+  "duration_seconds": 7240,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 7240.2133125,
+    "segment_count": 1512,
+    "source_vtt_path": null
+  }
+}
