@@ -1,5 +1,5 @@
 Title: vimeo_1202317123
-URL: https://vimeo.com/1202317123
+URL: https://player.vimeo.com/video/1202317123?h=bff6712413
 Published: 2026-06-18
 Duration: 01:48:22
 

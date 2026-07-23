@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-07-23T00:50:13.370323+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1211636251",
+  "title": "2026/07/22 JU",
+  "url": "https://player.vimeo.com/video/1211636251",
+  "published_at": "20260721",
+  "published_display": "2026-07-21",
+  "duration_seconds": 22664,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 22663.6,
+    "segment_count": 5544,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\2026_07_22 JU - vimeo_1211636251\\2026_07_22 JU - vimeo_1211636251.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1211636251",
+    "display_id": "1211636251",
+    "title": "2026/07/22 JU",
+    "webpage_url": "https://player.vimeo.com/video/1211636251",
+    "original_url": "https://player.vimeo.com/video/1211636251",
+    "duration": 22664,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2181857885-1b33e11e1387865b37cb9489dbe34198e453a8996b41690a807dd45caaf4eece-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

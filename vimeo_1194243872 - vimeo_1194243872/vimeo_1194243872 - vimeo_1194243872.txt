@@ -1,5 +1,5 @@
 Title: vimeo_1194243872
-URL: https://vimeo.com/1194243872
+URL: https://player.vimeo.com/video/1194243872?h=47895f6d4b
 Published: 2026-06-25
 Duration: 00:33:03
 
