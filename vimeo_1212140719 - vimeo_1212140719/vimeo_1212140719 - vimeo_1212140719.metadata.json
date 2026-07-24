@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-07-24T04:31:36.753000+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1212140719",
+  "title": "vimeo_1212140719",
+  "url": "https://player.vimeo.com/video/1212140719?h=d27ca22783",
+  "published_at": "20260723",
+  "published_display": "2026-07-23",
+  "duration_seconds": 2685,
+  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758273",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 2680.34,
+    "segment_count": 922,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\vimeo_1212140719 - vimeo_1212140719\\vimeo_1212140719 - vimeo_1212140719.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1212140719",
+    "display_id": "1212140719",
+    "title": "Transport and Infrastructure Committee",
+    "webpage_url": "https://player.vimeo.com/video/1212140719?h=d27ca22783",
+    "original_url": "https://player.vimeo.com/video/1212140719?h=d27ca22783",
+    "duration": 2685,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2182487411-8518bed1c558b48b2c1ee0624092da6129adcbb92c89e07b6b9be2b6c22c7541-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}
