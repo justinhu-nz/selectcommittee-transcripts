@@ -1,0 +1,994 @@
+Title: vimeo_1202367224
+URL: https://player.vimeo.com/video/1202367224?h=81b2f66cc3
+Published: Unknown
+Duration: 00:52:01
+
+[00:02:38] Nice.
+[00:02:55] Well, hello. Hi, Ian, and
+[00:02:58] welcome back to the select committee.
+[00:03:02] I know that this briefing has been a long time coming, with a few
+[00:03:06] bits and pieces happening, and this committee being quite busy with
+[00:03:09] RMA reform. But welcome to the committee this
+[00:03:13] afternoon. We look forward to your presentation.
+[00:03:16] And look, really, we are in your hands.
+[00:03:18] We have got the documents and if you want to talk us
+[00:03:22] through your presentation.
+[00:03:24] Thank you very much. Chris will start us off, and yeah, we'll take it
+[00:03:28] from there. Thank you so much, Catherine, for finding us the time,
+[00:03:32] and a whole lot of thank yous around the room for the support for this piece
+[00:03:36] of work.
+[00:03:40] So kia ora. My name's Chris Ingle. I'm with the Bay of Plenty Regional
+[00:03:44] Council as a day job, as one of the general managers.
+[00:03:47] But for this role, I'm the chair of the reference
+[00:03:51] group that supports Ian both for his academic work and
+[00:03:55] his research for the future of biodiversity in New Zealand.
+[00:03:58] And with me is
+[00:04:00] Brent Mountford. I'll let these guys introduce themselves.
+[00:04:04] Yeah. Yes, I'm on the reference group as well, and sheep and beef farmer
+[00:04:08] up in the Bay. And as most of you most probably know,
+[00:04:12] quite a conservationist, right into that sort of thing.
+[00:04:15] Which bay was that?
+[00:04:16] The real bay.
+[00:04:18] The real bay, that's right. Well, actually, I think we lost last one.
+[00:04:22] Oh, Hawke's safe.
+[00:04:26] Looking to get that back. Yeah,
+[00:04:29] and also president for Federated Farmers Bay of Plenty.
+[00:04:35] Ian Herbert. I am the New Zealand Biophin
+[00:04:39] assessment lead.
+[00:04:42] This assessment is being done independently through the Otago
+[00:04:45] University Business School, where I'm completing my Doctor of
+[00:04:49] Business Administration. If you're to take all of the
+[00:04:54] Master of Business Administration people, all the MBAs, and find the
+[00:04:58] quirky ones, they're the ones who go on and do a doctorate.
+[00:05:01] So this work is done as part of that doctorate.
+[00:05:04] So thank you all very much for your time.
+[00:05:09] I just want to also just acknowledge Peter,
+[00:05:13] who's in the back, from the Parliamentary Commissioner for the Environment.
+[00:05:17] Over the last two and a half years of this assessment,
+[00:05:22] we've been able to reach out to them,
+[00:05:24] just to let them know what we're doing, and they've been able to give us
+[00:05:28] a
+[00:05:30] bit of feedback, and so want to acknowledge
+[00:05:33] them. Also want to acknowledge a few
+[00:05:37] members of Parliament who in the past have helped with this and understand
+[00:05:41] the numbers. First of all, of course, is the Prime Minister, who does know
+[00:05:45] the numbers behind the fund that we're talking about.
+[00:05:49] Also would like to acknowledge Chris Hipkins,
+[00:05:53] who
+[00:05:55] has said, "Yep, keen to keep this on our radar."
+[00:05:58] Shane Jones has asked Andy Foster to keep it on his radar.
+[00:06:02] Want to also acknowledge Simon Court,
+[00:06:06] who understood the importance of having a natural capital policy to go
+[00:06:10] with this.
+[00:06:11] Plus Lan Pham, who is not here, who has a good
+[00:06:15] understanding of this. So I just wanted to acknowledge those people before we
+[00:06:19] start.
+[00:06:23] So, in terms of the purpose, we'll just go to the next slide.
+[00:06:29] It is very straightforward. It is to measure
+[00:06:33] New Zealand's biodiversity investment,
+[00:06:36] calculate the gap between
+[00:06:39] what it takes to maintain and restore our
+[00:06:44] biodiversity across the country,
+[00:06:47] and then reduce the deferrals. A deferral is
+[00:06:52] a financial input into that
+[00:06:55] purpose,
+[00:06:57] and it's deferred to the next year.
+[00:06:59] So we're looking at reducing deferrals on natural capital.
+[00:07:03] So that's what a Biofin purpose is.
+[00:07:06] It uses biodiversity finance to break the
+[00:07:10] historic cycle of biodiversity loss.
+[00:07:14] So it's non-regulatory.
+[00:07:20] And if we go to the next slide.
+[00:07:24] And just, members, we've only got 14 slides, so what we were hoping to do was
+[00:07:28] to fly through them fairly quickly,
+[00:07:31] and then have some pretty free-ranging questions and answers.
+[00:07:34] And Ian's here to answer all the questions, although Brent might have some answers
+[00:07:38] too. But some of these slides you may have seen if you were here at the last time
+[00:07:42] we presented about a year ago. And this
+[00:07:45] picture here shows how many countries in the
+[00:07:49] world, 133 nations in the world, are following this identical
+[00:07:53] process, the Biofin process. So this isn't something that Ian's
+[00:07:57] dreamed up in the University of Otago, although I'm sure he could
+[00:08:01] if we set him to that task. But this is actually a tried and true
+[00:08:05] process that's been adopted,
+[00:08:08] perhaps mostly in the countries like Africa, South America, but now it's
+[00:08:12] also being adopted in European countries as well.
+[00:08:15] So I think New Zealand's well-placed now to be doing this work.
+[00:08:19] There's a toolbox of, I think, 150 different finance
+[00:08:22] solutions, and you can select which one suits your nation.
+[00:08:26] And once you've gone through this process, then it becomes obvious which ones
+[00:08:30] are going to work, and that's Ian's job in this research.
+[00:08:34] So the next
+[00:08:36] slide shows the process that Brent and I and the other four
+[00:08:40] members of the reference group are trying to follow. Well, we are following it.
+[00:08:44] And it's basically that the diagram there with the three in the middle,
+[00:08:48] the arrow, if you like.
+[00:08:50] With these three reports that have to be done to satisfy these requirements, and
+[00:08:54] the first is already completed, the policy and institutional
+[00:08:58] review.
+[00:09:00] If you haven't read it, it's really just reflecting the laws of this
+[00:09:03] country and how we deliver biodiversity currently.
+[00:09:07] And of course, that's changing, as you guys are well aware.
+[00:09:11] The second one, which we're reporting back on today, is the biodiversity
+[00:09:15] expenditure review, and that's perhaps the most comprehensive
+[00:09:19] review that's ever been done. Although I understand PCE have done a
+[00:09:23] similar one as well, which has
+[00:09:27] come out with the same
+[00:09:29] sort of patterns.
+[00:09:31] So that's what we're reporting back today, and then the next piece of work that
+[00:09:34] we've still got to complete is the financial needs assessment that we're planning
+[00:09:38] for at the moment. So once those three pieces of work are done,
+[00:09:43] we can tick this off and say we've done a good job, and so far, so good.
+[00:09:46] We're two-thirds of the way through.
+[00:09:47] On the right, there's just a wee diagram of how the reference group interacts
+[00:09:51] with assessment team, and there's a huge working group that Ian has as well
+[00:09:56] of ecologists and other experts from around New Zealand that help him with
+[00:10:00] problem-solving.
+[00:10:03] And next slide.
+[00:10:05] Thank you.
+[00:10:05] So thank you, Chris. Just to expand on the working group.
+[00:10:09] So that's governmental, non-governmental, finance
+[00:10:13] experts,
+[00:10:15] biodiversity experts. There's about
+[00:10:19] 26 of us on the working group, and we pull on the different skill sets
+[00:10:22] as required as we go through the process.
+[00:10:27] It's quite important for us to say it's not a musical
+[00:10:31] instrument, and it's not larger than life.
+[00:10:35] Yep, and it's not a science. It's biodiversity finance.
+[00:10:40] Keep one eye on the end game. As the economy grows, investment
+[00:10:44] in biodiversity grows.
+[00:10:55] And so
+[00:10:59] what I wanted to talk about here
+[00:11:04] is simply
+[00:11:06] where, if we had biodiversity
+[00:11:10] investment tracking with economic growth, which is what we're
+[00:11:14] suggesting as part of sustainable development,
+[00:11:17] you'd have the light blue bars.
+[00:11:23] What the fund will do will help us do more of that
+[00:11:27] as move transition more towards sustainable development by
+[00:11:31] investing in biodiversity as the economy grows.
+[00:11:33] And so it's an economic approach.
+[00:11:36] The dark blue bars are current biodiversity spend,
+[00:11:41] and so over the last 24 months, the
+[00:11:44] cumulative reduction in
+[00:11:47] biodiversity spend is $133 million, and that
+[00:11:51] has biodiversity outcomes. Impacts on
+[00:11:55] biodiversity income, impacts across New Zealand
+[00:11:59] outcomes.
+[00:12:01] So yeah, when we get to the fund, if you were to draw
+[00:12:04] some dotted lines
+[00:12:07] or additional boxes above the dark blue bars, that's
+[00:12:11] what we want to do, is fill some of that with this new
+[00:12:15] fund, and that's where we seek full
+[00:12:18] cross-party support.
+[00:12:24] Next slide
+[00:12:28] Yes, so prevailing over biodiversity loss can't be solved the same
+[00:12:32] way as before. New Zealand households actually spend more on
+[00:12:36] cosmetics than biodiversity.
+[00:12:38] Collapse of all critical global ecosystems is a high risk rating.
+[00:12:43] Governments such as the UK government, Canadian government,
+[00:12:47] IPBS, WB, UN,
+[00:12:51] OECD, and
+[00:12:53] WEF. Living Planet Index is
+[00:12:57] -27 left from 50 years ago.
+[00:13:00] So it's declined and it's still declining.
+[00:13:03] Mm.
+[00:13:05] Urgent biodiversity investment is needed.
+[00:13:08] New Zealand's biodiversity investment has declined to
+[00:13:11] one point or 1,155 million in
+[00:13:15] 2025/26. The cumulative
+[00:13:19] natural capital deferral increases are
+[00:13:23] 133 million in two years. Prolonged deferral
+[00:13:27] is fiscal imprudence.
+[00:13:30] And just to, fiscal imprudence means
+[00:13:33] ongoing
+[00:13:35] financial mismanagement. And so for my
+[00:13:38] background's economics from New Zealand, London School of Economics, and
+[00:13:42] so we're saying reduce that fiscal imprudence and increase by
+[00:13:46] increasing investment. So it's a nice easy equation.
+[00:13:56] So I wanted to talk a little bit about the results of the research Ian's
+[00:14:00] done, and it really looked at all of the sectors
+[00:14:03] of government and local government and other sectors like primary and
+[00:14:07] business sectors, and how much is spent and where it's spent.
+[00:14:11] So this is the core of it. So-
+[00:14:13] Mm
+[00:14:13] ... this is a very complicated diagram of course.
+[00:14:15] It's, I think we call it the worm diagram, but
+[00:14:19] the take homes are the size of the boxes on the left-hand side.
+[00:14:23] And DOC of course-
+[00:14:24] Goodness, I've got that on mine.
+[00:14:25] DOC of course, is the by far the largest expenditure, but you can see that
+[00:14:29] MPI and MFE are major contributors as well, and the
+[00:14:33] rest of government and regional unitary councils, of course, major contributors as
+[00:14:37] well. So,
+[00:14:39] but also the voluntary sectors. You've got community trusts and NGOs that are
+[00:14:43] making a massive amount of effort there, and they are
+[00:14:46] often supported by councils as well.
+[00:14:50] So it tends to be a whole ecosystem of effort that
+[00:14:53] goes into prioritizing at a very local level
+[00:14:57] what's important to the people in the communities of those areas,
+[00:15:01] and how do we deliver it together. And so that, the web side
+[00:15:05] of it, to me,
+[00:15:08] it's complicated and hard to understand, but it also gives it some resilience, I
+[00:15:12] think, as well. So, business and finance in there with $5
+[00:15:16] million. So it's obviously of interest, of broad interest to everyone.
+[00:15:20] In the next slide, I put the right-hand side into
+[00:15:25] an easier diagram that didn't have the worms on it, and that really
+[00:15:29] shows where it's being spent. So understandably, mostly on
+[00:15:32] conservation. But awareness of knowledge a lot on
+[00:15:36] biosecurity, which is understandable given the
+[00:15:40] impact that introduced pests have on our native ecosystems,
+[00:15:45] but also sustainable use, planning and finance, a little
+[00:15:49] bit on restoration and green economy.
+[00:15:52] And the P at the bottom is pollution management. That's only half a percent.
+[00:15:55] But,
+[00:15:56] these are all following, I think, your criteria, aren't they, that we have to
+[00:16:00] follow using the biofin process. So some of the language
+[00:16:04] used here isn't perhaps what New Zealand people would use.
+[00:16:08] Did you have any comments on that, Ian?
+[00:16:10] Yeah, so the key one out of all of these results was
+[00:16:14] restoration at 4%, which is
+[00:16:17] 0.01% of GDP.
+[00:16:21] And so,
+[00:16:23] that's the area we've identified where we need to
+[00:16:27] invest, and improve our investment as the
+[00:16:31] economy grows. And so,
+[00:16:35] 0.01%
+[00:16:38] goes a long way,
+[00:16:40] but if we were to double that to
+[00:16:43] 0.02%, it would go a fantastic
+[00:16:47] amount of distance in terms of
+[00:16:50] maintaining and restoring what we call natural capital-
+[00:16:54] Mm
+[00:16:56] ... in New Zealand. Yeah. So,
+[00:16:59] restoration is the one of the, of all of the biofin
+[00:17:03] categories where
+[00:17:06] it's been identified we need to do more.
+[00:17:11] Are we just doing questions at the end?
+[00:17:12] Sorry, just-
+[00:17:12] Yeah.
+[00:17:13] Just opening up for questions at the end.
+[00:17:14] We'll let them talk through-
+[00:17:15] Yeah
+[00:17:15] ... the presentation,
+[00:17:17] and then we can have questions.
+[00:17:19] I think slides were-- I think we've only got four slides to go, but
+[00:17:23] yeah, this is, so this one's a summary of the recommendations that have come out
+[00:17:27] of the second
+[00:17:29] report that Ian's completed.
+[00:17:32] And firstly, can I just thank you for the cross-party support
+[00:17:36] you've given last time we were here, and that is incredibly important I
+[00:17:40] think,
+[00:17:41] just because biodiversity does affect all of us, and it's for all of us and for our
+[00:17:45] children. So that, I think, is our biggest ask is that can we
+[00:17:49] continue that? Secondly, of course, complete the assessment, do that third
+[00:17:53] report that we have to complete. We should have that done by Christmas,
+[00:17:57] maybe a bit after, depending on how we go.
+[00:17:59] We've also been asked to draft a natural capital policy, and Ian's probably well
+[00:18:03] placed to do that given his training.
+[00:18:06] And then we'll talk soon about this business case as well for a natural
+[00:18:10] capital fund, and I'll hand over to Ian on that.
+[00:18:14] So thanks, Chris. Just the bottom note there, in
+[00:18:18] terms of the fund, we're still
+[00:18:22] maintaining our ask for all
+[00:18:25] parties to commit to starting this fund at
+[00:18:29] 25 million,
+[00:18:31] as a minimum manifesto commitment, which
+[00:18:35] equates to 2% of the current conservation
+[00:18:39] budget. That would be targeted at the
+[00:18:43] most effective, efficient biodiversity
+[00:18:47] outcomes that are currently unfunded in New
+[00:18:51] Zealand.
+[00:18:54] That equates to a $5 cup of
+[00:18:57] coffee each year, or
+[00:19:00] 0.006% of GDP. Might only be
+[00:19:04] half a coffee now. Yeah, exactly. Depends on what coffee you
+[00:19:08] buy.
+[00:19:10] Yeah. So, and it's
+[00:19:13] back to that graph where we have economy
+[00:19:17] going up. What we're saying is
+[00:19:20] that this helps fill a bit of the gap, so that
+[00:19:24] as the economy grows, we invest more in
+[00:19:27] biodiversity. That's the principle.
+[00:19:31] And that provides a
+[00:19:34] step towards sustainable development.
+[00:19:38] So, we'll just move on to recommendation one, which is a
+[00:19:42] policy. That policy, and again, I'd just like to acknowledge Simon
+[00:19:46] Court. He
+[00:19:47] had
+[00:19:52] the vision to say, "Yeah, I can see we need that," so
+[00:19:56] I'd like to acknowledge him.
+[00:19:58] It simply says this is a natural capital asset
+[00:20:02] that we're investing in, like a building, like a school,
+[00:20:06] a hospital, a piece of machinery,
+[00:20:11] an airplane fleet, a set of trains, road.
+[00:20:15] It's an asset, so you maintain and restore it as
+[00:20:18] you get benefits from it. So, the real
+[00:20:22] key message there from the international community is, it's
+[00:20:26] like a relationship. If your partner is just take,
+[00:20:30] take, take, it's probably not going to work.
+[00:20:33] It's give and take, and that'll give you a good relationship, and
+[00:20:37] that's the relationship we want with New Zealand
+[00:20:40] biodiversity.
+[00:20:43] So, yeah, natural capital policy says it's an asset
+[00:20:47] and that we should reduce deferrals, as opposed to
+[00:20:50] increase deferrals.
+[00:20:53] Recommendation two
+[00:20:57] is the fund. We've sort of already talked about that.
+[00:21:01] Our key message there is it's
+[00:21:04] based on principles as opposed to
+[00:21:09] anything else. So, it's indexed to growth,
+[00:21:14] which provides the revenue stream.
+[00:21:17] The revenue side of the instrument of the
+[00:21:21] solution
+[00:21:23] is the most efficient thing you will have in New Zealand, because
+[00:21:26] it's indexed to
+[00:21:29] consumption, because consumption is the largest indirect
+[00:21:33] driver of biodiversity loss. That's not
+[00:21:37] disputed. Everyone
+[00:21:40] from World Bank through to OECD through to the UN,
+[00:21:44] it's an established fact.
+[00:21:46] So, as we increase consumption,
+[00:21:49] we invest more in biodiversity. So, it's indexed to GST
+[00:21:53] growth, which is a proxy for consumption growth.
+[00:21:58] So, just one last thing there. It's a balancing
+[00:22:02] loop.
+[00:22:03] So, the system's balancing loop. So, if you're just
+[00:22:07] consuming,
+[00:22:09] without investing, it's never going to work.
+[00:22:15] The other thing is it's independent.
+[00:22:19] So,
+[00:22:20] the best example of a fund that does this now is
+[00:22:24] the super fund.
+[00:22:27] They have their guardians. It's invested in the future.
+[00:22:30] It's a contribution. This is a fund which is
+[00:22:34] invested in the future. It's a contribution as we
+[00:22:37] consume.
+[00:22:40] The third thing there, voluntary contributions.
+[00:22:44] If the
+[00:22:46] other
+[00:22:48] organizations, which is going to be highly likely,
+[00:22:52] want to make a contribution and say, "Well, we want to leave something behind,"
+[00:22:56] this fund is what they can contribute to.
+[00:22:59] So, that's a
+[00:23:02] bonus.
+[00:23:03] Cost benefit targeting is an economic approach, and
+[00:23:07] how it works is, and we do it in New
+[00:23:11] Zealand already.
+[00:23:13] For those who know the Next Foundation, they're fantastic at this.
+[00:23:18] So,
+[00:23:19] that's where the costs are low and the
+[00:23:23] biodiversity benefits are high. That's where you invest.
+[00:23:26] So, it gives you the best cost-benefit ratio.
+[00:23:29] And so, every project that gets approved
+[00:23:33] must have that cost-benefit ratio to prove that it's doing
+[00:23:36] what it says it
+[00:23:38] will do, and then it's monitored.
+[00:23:42] The last bit here is you're investing in ecological
+[00:23:46] prospects for future generations.
+[00:23:49] The wording ecological prospects, I did get that from
+[00:23:52] Next. And it's
+[00:23:55] about making sure our children have the
+[00:23:58] same opportunities we had for
+[00:24:02] enjoying biodiversity.
+[00:24:05] And it's just where, again, this fund, we're talking
+[00:24:08] 0.006%
+[00:24:13] of our GDP just to invest in future
+[00:24:16] generations.
+[00:24:19] It's
+[00:24:21] not even comparable to inflation, which happens every year
+[00:24:25] at over a cent a year.
+[00:24:30] So, initial results do show that that
+[00:24:34] significantly
+[00:24:36] outperforms things like credit schemes or plant a tree schemes.
+[00:24:41] It would be fair to say I've just been invited to Kenya to talk to the
+[00:24:45] UN about this new solution, because they can see
+[00:24:49] the potential in it, and they want other countries to know about it.
+[00:24:52] So, I leave on Sunday to go and present it to them.
+[00:24:57] Hopefully I don't come back with Ebola.
+[00:25:02] The last recommendations we're suggesting, we finished
+[00:25:06] the presentation. Thanks,
+[00:25:10] Barbara.
+[00:25:14] We finished the assessment. She's left the room, but I
+[00:25:18] really want to acknowledge Barbara Kuriger.
+[00:25:21] She has been incredible from the start of this journey as our-
+[00:25:25] You waited for her to leave.
+[00:25:26] I know, I'm just saying it behind her back.
+[00:25:29] She could tell it was about to happen.
+[00:25:31] She has been a fantastic, incredible,
+[00:25:35] amazing champion for this project across
+[00:25:38] parties from the start. So I just wanted to give that-
+[00:25:44] He spoke well of you too, Lam, before I came.
+[00:25:45] Yeah, he did speak highly of you. I have no doubt.
+[00:25:47] He's a specialist at doing it when you're not here.
+[00:25:53] PR 101, Ian.
+[00:25:56] No, my apologies, though. I mentioned to Ian that I would be racing
+[00:26:00] back from a speaking bit, and I am very sorry-
+[00:26:03] It's all good
+[00:26:03] ... from the start.
+[00:26:04] It's so good to have you here, so thank you.
+[00:26:08] So yeah, finished the assessment.
+[00:26:11] So we've got two organizations who have participated in the
+[00:26:15] first stage. We really need their participation in the second stage because the
+[00:26:18] more they participate, the more they get out of it, and that's the Department of
+[00:26:22] Conservation and Ministry of Primary Industries.
+[00:26:25] Primary Industries because of biosecurity.
+[00:26:28] Department of Conservation because of their role in
+[00:26:31] biodiversity. Now, in the last
+[00:26:35] stage, they were hesitant to help because
+[00:26:39] they felt because I talked to ministers,
+[00:26:44] they felt like they shouldn't
+[00:26:47] necessarily be talking to me. So I just need some
+[00:26:51] support from Parliament to say, "Hey, it's all right to participate in the
+[00:26:55] next stage." So be very grateful for that steer.
+[00:27:00] They are keen as mustard, but they're just wondering why there
+[00:27:04] isn't support. So yeah, just wanted to mention that that would
+[00:27:08] really help because the more we work together, the
+[00:27:12] more robust our investment case will be.
+[00:27:17] Then the last recommendation, and I'm
+[00:27:21] very grateful for two pretty amazing people from the
+[00:27:25] Parliamentary Commissioner for the Environment,
+[00:27:29] is that we do this again, and so in
+[00:27:32] 2029. So this is a strategic long-term thing.
+[00:27:35] It's not a short-term thing. And so we do it again,
+[00:27:39] do the assessment again,
+[00:27:42] and that
+[00:27:43] the Parliamentary Commissioner for the Environment would, in terms of their
+[00:27:47] purpose, they have the right purpose to lead this
+[00:27:51] with support from other organizations.
+[00:27:55] A lot of the support I got in terms of
+[00:27:58] understanding how I needed to reach out to government departments,
+[00:28:03] I was very grateful for the advice I was given from the
+[00:28:06] PCE.
+[00:28:09] That's our recommendations. I believe that's our presentation, and I'd
+[00:28:13] like to thank you
+[00:28:15] very much for your time, and we'd love to answer any questions you have.
+[00:28:19] Oh, thank you very much, Ian, for that presentation.
+[00:28:22] Look, we have got a few questions. We will start with Lam.
+[00:28:26] Kia ora. Thank you so much.
+[00:28:28] First, just the initial question on your,
+[00:28:32] I don't know, as one of the-
+[00:28:33] Worm
+[00:28:33] ... squares. No, not the worm, the squares. It was just basic.
+[00:28:38] You don't need to go back to it, actually.
+[00:28:39] Yep, I know the one. Yeah
+[00:28:39] But just the green economy part, it was only 3%.
+[00:28:43] I would think that would be a bigger-
+[00:28:47] Yeah, so-
+[00:28:47] ... part. So what's the definition there, and what are you-
+[00:28:50] Yeah. So
+[00:28:54] Biophina is a United Nations methodology that's used in
+[00:28:58] 133 countries. We use what's called an attribution
+[00:29:02] process. So the focus is on biodiversity,
+[00:29:06] including biosecurity. So if I'm
+[00:29:10] spending $100 million on
+[00:29:13] solar panels, we would count, say,
+[00:29:16] 3%, 4%, 5% of that towards
+[00:29:19] biodiversity.
+[00:29:21] Mm-hmm.
+[00:29:22] Compared to, say, a next model where
+[00:29:26] they're
+[00:29:28] doing work on directly with biodiversity or
+[00:29:32] Department of Conservation's conservation budget.
+[00:29:36] We would go 80%, 90%, 100% of the attribution
+[00:29:40] of that $100 million would be counted.
+[00:29:42] Okay.
+[00:29:42] So that's the reason, is how we attribute the
+[00:29:46] investment-
+[00:29:47] Okay
+[00:29:47] ... specifically for biodiversity.
+[00:29:51] Thank you.
+[00:29:52] And Priyanka, yes.
+[00:29:54] My question related to that was then, given
+[00:29:58] that the green economy spend is 3%, restoration is 4%,
+[00:30:02] you mentioned that restoration is really where we should be
+[00:30:05] investing in. And I wanted to
+[00:30:09] know why. Is that because
+[00:30:11] a cost-benefit analysis there, that every dollar that you
+[00:30:15] spend in restoration yields more directly to
+[00:30:18] biodiversity protection, or was there a different reason for that?
+[00:30:21] Yeah, that's a great question. And
+[00:30:25] initial testing, yes, you're going to get a much higher
+[00:30:30] cost-benefit ratio from that investment.
+[00:30:33] It's also an area where
+[00:30:37] we're not improving the asset, and New Zealand's in that position now where we need
+[00:30:41] to be improving that asset. And so it's also
+[00:30:45] purpose-driven. It's not to say, for example, green
+[00:30:48] economy doesn't need more investment, because it certainly does.
+[00:30:53] But for biodiversity outcomes, that's where you're
+[00:30:57] going to get bang for buck, or money.
+[00:31:00] Grant, you've got a supplement
+[00:31:02] It's got support on that also into this restoration bit.
+[00:31:04] So I'm just curious how you
+[00:31:06] got your figures about
+[00:31:09] restoration from, because does it include
+[00:31:13] what private people are doing? How would you know?
+[00:31:17] Some of the work that, for example, is done on farms.
+[00:31:19] Mm.
+[00:31:20] How was that? I'm just curious.
+[00:31:22] All right.
+[00:31:22] Yeah.
+[00:31:22] Good question.
+[00:31:23] So I'm going to use a phrase here, which I still snuck
+[00:31:27] into the report without anyone telling me off too much.
+[00:31:30] So the
+[00:31:32] primary industry spend, which is about 55 million, comes
+[00:31:36] from Beef and Lamb have really good figures.
+[00:31:39] They do an annual environmental expenditure, so Beef and Lamb provided
+[00:31:43] that,
+[00:31:44] or Sheep and Beef as they like me to call it.
+[00:31:47] And so fisheries, that came
+[00:31:51] from, is it Seafood New Zealand?
+[00:31:54] Mm.
+[00:31:54] Dairy came from Dairy New Zealand. So those numbers came from them.
+[00:31:58] The private sector,
+[00:32:02] in terms of the NGOs,
+[00:32:04] getting those figures was worse than drinking
+[00:32:08] a warm cup of cat sick.
+[00:32:12] It really was.
+[00:32:13] That's the first time I've read that in a report.
+[00:32:17] So there's 1,200 NGOs registered on the
+[00:32:21] Charity Services register. Anything over
+[00:32:25] a million dollars, we went through their annual
+[00:32:29] report. So that took quite a while.
+[00:32:32] Ian, can I just mention too, so from Beef and Lamb's point of view,
+[00:32:36] I'm a monitored farm.
+[00:32:37] Yep.
+[00:32:38] So what happens there is that every year I sit down with
+[00:32:43] someone from Beef and Lamb. They go through line by line my
+[00:32:46] financials, and we identify what was spent
+[00:32:50] on biodiversity, all that side of things.
+[00:32:53] So it is quite a thorough-
+[00:32:55] Example of fencing, pest control-
+[00:32:57] Yep
+[00:32:57] ... planting-
+[00:32:58] Yes
+[00:32:58] ... that type of thing.
+[00:32:59] Anything else on this?
+[00:33:00] Yep.
+[00:33:01] Celia.
+[00:33:03] Thank you very much. That's great for
+[00:33:06] farming landowners.
+[00:33:09] Is there anything collected about what people who've got basically carbon
+[00:33:13] farms or are small land holders that aren't
+[00:33:18] members of those large groups?
+[00:33:20] You mean life season spark holders are what you're talking about?
+[00:33:22] Hmm?
+[00:33:22] Life season spark holders.
+[00:33:24] Oh, season.
+[00:33:24] Oh, my.
+[00:33:26] Oh, God.
+[00:33:27] So unless we captured it under the
+[00:33:31] non-governmental organizations as investment, we
+[00:33:35] weren't able to capture those.
+[00:33:37] You wouldn't have that. That's fine. I couldn't see how you could.
+[00:33:39] Yeah. Yeah.
+[00:33:39] But that's interesting. Okay.
+[00:33:40] So what we also captured though, as part of the NGOs,
+[00:33:44] is an estimate of $49 million worth
+[00:33:48] of voluntary hours. That's an underestimate.
+[00:33:51] Yeah.
+[00:33:51] So New Zealanders are saying, "We want this work
+[00:33:55] done anyway."
+[00:33:56] And did-
+[00:33:57] Yeah. Yep
+[00:33:57] ... and did that include Predator Free New Zealand Trust?
+[00:34:00] Correct. Yes.
+[00:34:01] Okay.
+[00:34:01] Yeah, Predator Free Trust.
+[00:34:04] The whole lot.
+[00:34:04] And all, yeah, all the work that Nex does with them. Yeah.
+[00:34:08] So Jesse Morgan and the rest as well.
+[00:34:09] Catchment groups.
+[00:34:11] Sorry?
+[00:34:11] You do catchment groups?
+[00:34:13] Okay. Yes. So Chris can talk to
+[00:34:17] the council numbers if you want.
+[00:34:19] Yeah. Just-
+[00:34:19] Yes. It's supported by either NPI on Farm or
+[00:34:23] regional councils or both.
+[00:34:25] Mm.
+[00:34:26] Catchment groups are very well covered, I think.
+[00:34:29] Okay.
+[00:34:29] Mm.
+[00:34:29] And I was thinking to your question, a lot of people
+[00:34:33] will be seeking funding
+[00:34:36] from councils, whether regional or otherwise, and also
+[00:34:40] from trusts. Like in our region we have Bay Trust and
+[00:34:44] also some energy trusts who've increasingly got into the space-
+[00:34:47] Mm
+[00:34:48] ... of environmental contributions.
+[00:34:49] So quite often you'll find
+[00:34:52] people who are doing work in the environment will be seeking
+[00:34:56] co-funding or contributions.
+[00:34:58] Mm.
+[00:34:58] And in fact, that became a bit of a problem for Ian, because then we had to go
+[00:35:02] through and make sure we weren't double counting it.
+[00:35:04] Yeah. Yeah.
+[00:35:05] Because it was counted once by regional council, once by Bay Trust, and
+[00:35:09] then-
+[00:35:09] Mm
+[00:35:09] ... the landowner might have put the same number in there.
+[00:35:12] So that was quite a rigorous process, as I recall, going through-
+[00:35:16] Mm. Well, actually-
+[00:35:16] ... quite a handful of them
+[00:35:17] ... useful.
+[00:35:18] Yeah.
+[00:35:18] I did wonder though why you only put
+[00:35:22] regional and unitary, because I know at least in Eden
+[00:35:26] and Wellington city councils put in a fairly walloping
+[00:35:30] amount of rate payers' money.
+[00:35:32] So the-
+[00:35:33] Did that get included, just the title or?
+[00:35:37] So the answer to that is lack of resources.
+[00:35:40] So had to focus on what I could add up.
+[00:35:43] Okay. No.
+[00:35:43] So I couldn't include the territorials or the locals.
+[00:35:47] Where we have been able to capture some of their numbers is if
+[00:35:51] they've made contributions to an NGO,
+[00:35:55] then we capture it there. So NGOs spend 100
+[00:35:59] million a year plus the 49 million-
+[00:36:03] Mm
+[00:36:03] ... on voluntary hours, but their actual spend is something like
+[00:36:07] 238 million because they also get additional
+[00:36:11] funding from regional councils and central government
+[00:36:14] that they deliver. They are actually the second biggest delivery
+[00:36:18] body in New Zealand.
+[00:36:20] Mm.
+[00:36:20] Thank you.
+[00:36:21] I'll come back with more questions.
+[00:36:21] Yeah, we've just got a couple of other questions around the table. So Priyanka.
+[00:36:25] Thanks. I had a question when I read your
+[00:36:29] report, Ian, on work like
+[00:36:33] what Botham School's doing around credits, nature credits-
+[00:36:37] Yep
+[00:36:37] ... financing. I see in your PowerPoint presentation as well that you've
+[00:36:41] said that your fund is more effective than credits.
+[00:36:44] Yep.
+[00:36:44] So wanting to understand that a little bit better, and also work out how
+[00:36:48] existing work in that space fits into this.
+[00:36:51] Yep.
+[00:36:51] Mm.
+[00:36:52] So credits have, so
+[00:36:54] by VCD projects, the one way to look at it, just one way, is
+[00:36:58] those projects are there already.
+[00:37:00] Mm.
+[00:37:00] And so if you've got $100, you want $100 going into
+[00:37:04] that project. And so the administration on the
+[00:37:08] fund is Is kept very low so that the
+[00:37:12] $100 go in.
+[00:37:14] With credit schemes, they are usually attached
+[00:37:17] to conditions, usually commercial
+[00:37:21] conditions. They also have an admin cost
+[00:37:25] that goes over the top of it, same with offsets.
+[00:37:28] And also, there's also the where are we finding the
+[00:37:32] money from. And so that's a massive cost internationally as well.
+[00:37:36] And so just to also put credits into the global scheme.
+[00:37:41] So biodiversity finance across the glo-
+[00:37:45] globally is over 100 billion.
+[00:37:49] You've got United Nations environment
+[00:37:52] programme measure it every year.
+[00:37:55] Of that portion,
+[00:37:58] 18% is private,
+[00:38:02] 82% is public. So most of the innovation is actually happening in
+[00:38:06] the public sector. The reason for that is because biodiversity
+[00:38:10] has public good characteristics-
+[00:38:12] Mm
+[00:38:12] ... like policing,
+[00:38:14] some parts of the health system,
+[00:38:17] governance. So it's public. And so of that, there's
+[00:38:21] 5% in offsets and credits, and of that, I think
+[00:38:24] 1% is credits internationally.
+[00:38:27] Mm-hmm.
+[00:38:28] But there's definitely opportunity to grow the market.
+[00:38:32] Yeah.
+[00:38:32] Right? But you're always going to have a lot of
+[00:38:36] cost on that. And talking to the biodiversity
+[00:38:40] credit firms that are doing it in New Zealand-
+[00:38:43] Mm-hmm
+[00:38:44] ... they're saying it's a lot of administration at the moment.
+[00:38:47] So is there a way to include that in your
+[00:38:52] fund sort of model, or is this a parallel model?
+[00:38:56] Yes. So
+[00:38:58] in terms, yes and no. So the yes is it'll be included
+[00:39:02] in the BioFin assessment.
+[00:39:04] It won't be included in the fund because it's a separate thing.
+[00:39:08] Okay.
+[00:39:08] So the overall funding from New Zealand will be a mix of
+[00:39:12] funding tools.
+[00:39:13] Mm-hmm.
+[00:39:13] The fund will just be, like I said, it's just
+[00:39:16] 2% of the total.
+[00:39:18] Mm-hmm.
+[00:39:18] Yeah. But it'll be highly targeted in
+[00:39:22] principle to do cost benefit targeting.
+[00:39:26] Yeah.
+[00:39:27] Thank you. Look, we have got a question from Sam Fundel.
+[00:39:30] Oh, yeah.
+[00:39:32] I have all these wonderful bay boys here. It's good.
+[00:39:35] Hey, you mentioned there about the 82%.
+[00:39:38] I'm assuming you meant that that's spending from the,
+[00:39:42] is that of the spending pool? That's from the public sector.
+[00:39:45] Correct. Yeah, so. Yeah, correct.
+[00:39:46] And generally that's from
+[00:39:49] green bonds, right? Where they'll borrow from investors, the
+[00:39:53] government will borrow from investors, pay them a coupon, and then use that
+[00:39:57] money to
+[00:39:58] finance different environmental projects.
+[00:40:01] So the answer to the question is that's a small
+[00:40:05] part of it.
+[00:40:06] Oh, okay. Yeah.
+[00:40:07] So there's at the moment, there's
+[00:40:11] 150 different methods that the international
+[00:40:15] community raises finance, where in New Zealand we've got, say,
+[00:40:18] five or six key ones like rates and doing credits
+[00:40:22] and votes, stuff like that.
+[00:40:26] Okay.
+[00:40:26] NGO. So they do bonds, they do
+[00:40:30] off all sorts of stuff. A lot of the government funding
+[00:40:35] internationally is similar to our votes.
+[00:40:38] So it's a government allocation for a purpose.
+[00:40:42] As you no doubt know, one of the things we'll look at in New
+[00:40:46] Zealand is green bonds, and using that
+[00:40:50] green bonds revenue or portion of it
+[00:40:53] for biodiversity.
+[00:40:55] Mm-hmm.
+[00:40:55] I think that's a good idea.
+[00:40:57] Mm-hmm.
+[00:40:57] We-
+[00:40:58] And, Cameron.
+[00:40:59] Oh, straight into me. Thank you.
+[00:41:00] Yeah.
+[00:41:00] Thank you.
+[00:41:01] And then I'll go to Lan.
+[00:41:03] Lovely. Okay. Well, my question, thank you.
+[00:41:05] While speaking, I've just got a question about, this committee's just been through
+[00:41:08] a large process on the new planning and natural environment bills.
+[00:41:12] And in there, there's the regulatory relief function.
+[00:41:15] Do you think that your BioFin methodology will be
+[00:41:19] a way for councils to
+[00:41:21] accurately-ish measure the
+[00:41:25] regulatory burdens they're putting on when they go to make a planning measure or
+[00:41:28] regulation on a private landowner?
+[00:41:30] And a way we can value
+[00:41:34] other things, like whether this is justified, whether there's another way to do
+[00:41:38] it.
+[00:41:39] Do you see this methodology being utilized in that regard?
+[00:41:42] So I think they're complementary things rather than
+[00:41:46] the fund will do that. So the fund is-
+[00:41:48] Well, that's about the methodology more, but-
+[00:41:51] Yeah
+[00:41:51] ... sure.
+[00:41:52] Yeah. Yeah.
+[00:41:53] Sorry, rather the fund, but yeah.
+[00:41:54] So,
+[00:41:57] the purpose of the fund is to improve the asset.
+[00:42:01] So that's the purpose of the fund. So
+[00:42:03] what you're possibly talking about is research and
+[00:42:08] policy, that'll be our,
+[00:42:12] our focus will be on restoration-
+[00:42:13] I guess I'm asking, like the fund is going to have to know what it's doing, right?
+[00:42:17] You're going to have to have-
+[00:42:17] Yeah
+[00:42:18] ... methodologies to figure out biodiversity values, whether
+[00:42:22] this is the best path to go.
+[00:42:23] Yeah.
+[00:42:23] Like the method. And so,
+[00:42:26] is this going to be something that's open to councils to be able to use?
+[00:42:29] Do you think it becomes a recognizable process?
+[00:42:32] Yes. So yes, the answer to that question, yes.
+[00:42:35] Yeah. Excellent.
+[00:42:36] Mm-hmm. Which was kind of my question actually, was around how the RMA and changing
+[00:42:40] the resource management system,
+[00:42:42] how BioFin sits alongside that or how
+[00:42:46] you kind of see that.
+[00:42:48] Do you want to talk to that a bit?
+[00:42:49] Yeah, it's a really interesting question, and I think some of us are still
+[00:42:53] wrapping our heads around-
+[00:42:55] Mm
+[00:42:55] ... the significance of the decisions that have been
+[00:42:59] just released. And
+[00:43:01] I
+[00:43:03] think we're talking about apples and oranges though.
+[00:43:05] Mm-hmm.
+[00:43:05] So one thing is a regulatory, how do
+[00:43:09] we regulate for biodiversity, and I think that's a very complex
+[00:43:13] problem for New Zealand, and the RMA tried one way, and
+[00:43:17] now we're going to try it a different way. But this is non-regulatory.
+[00:43:20] This is investing in the environment.
+[00:43:22] No, I think that's part of the-
+[00:43:22] So this is more like the predator free thing.
+[00:43:24] But that's part of
+[00:43:26] the options in the new system is saying-
+[00:43:29] You don't necessarily have to regulate.
+[00:43:30] You can try these other ways, more consents, more
+[00:43:34] development opportunities, or at least have investment come in.
+[00:43:38] So do you-- Yeah. Obviously something you'd like to say, you're trying to get your
+[00:43:42] head around it-
+[00:43:42] Yeah
+[00:43:42] ... and trying to work with it.
+[00:43:42] It could work. Mm.
+[00:43:43] But so it is complementary-
+[00:43:45] It's, it's-
+[00:43:45] ... in that sense, yes.
+[00:43:46] Complementary. Excellent.
+[00:43:47] Um, Lam, your question. Yeah, no.
+[00:43:51] Unworkable. But-
+[00:43:53] Oh, in your opinion.
+[00:43:54] Interested in, coming back to the fund,
+[00:43:58] I know governments have different priorities, and they're
+[00:44:02] always going to be stretched for money.
+[00:44:04] What is sort of your selling point in terms
+[00:44:08] of... Because, for example, the Community Environment Fund was
+[00:44:12] scrapped by this government.
+[00:44:14] What is the selling point of this fund
+[00:44:18] and, because it's pri-- If I understand it correctly, it's like
+[00:44:21] prioritizing the low-hanging fruit or like the biggest
+[00:44:25] bang for buck kind of projects versus a
+[00:44:28] general slash community fund that will actually fund
+[00:44:32] grassroots restoration and biodiversity.
+[00:44:35] How would you describe the difference?
+[00:44:39] So the purpose of this fund is
+[00:44:43] to invest in biodiversity so that your core...
+[00:44:47] And keeping in mind, it's 0.006% of
+[00:44:51] GDP, so we're not talking
+[00:44:54] a huge allocation of our economy.
+[00:44:58] It doesn't prohibit, nor should
+[00:45:02] it prohibit, having community funds where you're getting
+[00:45:06] wider benefits. I think that's fantastic.
+[00:45:09] This fund will be very targeted,
+[00:45:13] similar to the next model in some ways.
+[00:45:17] Can I just jump in there from a practical point of view?
+[00:45:20] Sorry, I don't .
+[00:45:21] Yeah, that's good.
+[00:45:22] So, on the ground, a fund like this is
+[00:45:26] really good in the fact that, A, there's not going to be a
+[00:45:30] whole lot of bureaucracy in the middle.
+[00:45:33] One of the biggest things about
+[00:45:36] biodiversity is that so often,
+[00:45:41] people who are working on the ground get tied up in
+[00:45:44] admin, in a whole lot of other things, and it doesn't put trees in the ground.
+[00:45:48] Mm.
+[00:45:48] It doesn't do trapping. It doesn't do all those sort of things.
+[00:45:51] A fund like this is going to sit out the independent, just like QE2, which
+[00:45:55] is complementary to this.
+[00:45:57] Mm-hmm.
+[00:45:59] And it'll mean you're going to get a lot more bang for your buck.
+[00:46:03] That's the really-
+[00:46:05] And ongoing continuity-
+[00:46:06] On, yes, exactly
+[00:46:07] ... on the ground, right? Yeah.
+[00:46:08] It's not going to fall off a cliff each time a government changes, that sort of
+[00:46:12] thing.
+[00:46:12] Yeah.
+[00:46:12] That's another really important thing about biodiversity.
+[00:46:15] Yeah.
+[00:46:15] The minute we stop, it goes backwards 100 miles an hour.
+[00:46:19] So, this is a fund that'll keep things moving forward.
+[00:46:23] And then just a quick follow-up,
+[00:46:25] because I know we're getting close to the end of time.
+[00:46:27] You asked specifically for a steer, like a
+[00:46:31] steer from the committee about something.
+[00:46:34] I'm sorry, I wasn't following what...
+[00:46:36] Like what can we actually
+[00:46:39] do out of this meeting that would actually help what you were
+[00:46:43] describing?
+[00:46:44] So it goes back to those four recommendations.
+[00:46:46] Number one, support our government, particularly those
+[00:46:50] two government agencies feel like they can participate.
+[00:46:54] So that's number one.
+[00:46:55] But does that look like a formal letter to them? What does that mean?
+[00:46:59] That would help a lot-
+[00:47:00] Sorry
+[00:47:01] ... is formal communication saying, "Hey, work with Biofin."
+[00:47:04] That's all it needs to do-
+[00:47:07] Okay
+[00:47:07] ... to complete the final stage. So that's number one.
+[00:47:10] Mm-hmm.
+[00:47:10] And number two,
+[00:47:12] recognize that to get the full value out of this, we do it
+[00:47:16] again in three years' time-
+[00:47:18] Mm-hmm
+[00:47:19] ... through the PCE. Number three, the natural capital policy,
+[00:47:23] just acknowledge we're doing that, and that will get reviewed by
+[00:47:27] relevant government agencies. And number four, the
+[00:47:31] fund is the big thing that is in your gift, is
+[00:47:35] to, for, and that's why we're asking for
+[00:47:38] reiteration of cross-party support to set up
+[00:47:42] the fund because that means a manifesto commitment.
+[00:47:46] Mm. So do you mean at a party level? What do you
+[00:47:50] mean when you say manifesto level?
+[00:47:52] Correct.
+[00:47:52] You want to see us echoing what you're asking for?
+[00:47:56] Yeah.
+[00:47:56] Okay.
+[00:47:56] Just-
+[00:47:57] Just to clarify.
+[00:47:57] Thank you.
+[00:47:58] Yeah. Thank you.
+[00:47:58] Just on your point around DOC,
+[00:48:01] Ian,
+[00:48:03] that would impact DOC's work program, and generally, that
+[00:48:06] directive comes from the minister.
+[00:48:08] Is this a conversation you've had with the minister around DOC supporting this
+[00:48:11] work?
+[00:48:12] So yeah, the Minister of Conservation knows what we're doing.
+[00:48:16] Yeah.
+[00:48:16] But no communication has been made to DOC, and so
+[00:48:20] that's where we need support, is to get a, just
+[00:48:25] even a two sentences-
+[00:48:27] Yeah
+[00:48:27] ... on letterhead saying, "Continue to participate with
+[00:48:32] Biofin to complete the last Biofin stage."
+[00:48:35] So that's all we're asking. And the same for
+[00:48:40] MPI through possibly Minister Hogan.
+[00:48:43] Mm.
+[00:48:44] Yeah. Just two simple communications or an email, I don't
+[00:48:47] mind.
+[00:48:48] Have you asked the minister to do that first with DOC?
+[00:48:51] So
+[00:48:53] we've asked, and so the minister has said,
+[00:48:58] "Go and talk to them." They've said, "Well, where's the formal comm, yeah,
+[00:49:01] communication from the minister?" So,
+[00:49:05] it would help to
+[00:49:08] have formal communication, even if it's just an email.
+[00:49:12] And then, yeah.
+[00:49:14] Okay, thank you.
+[00:49:15] Celia.
+[00:49:16] Thank you very much, Catherine.
+[00:49:17] I'm just following up on that one. If the committee is, without
+[00:49:21] committing ourselves, particularly at this election time, but
+[00:49:25] interested in this proposal, I would suggest that
+[00:49:28] we endorse our chair writing to both of those ministers saying
+[00:49:33] that we are
+[00:49:34] interested and supportive in-
+[00:49:37] principle-
+[00:49:38] Mm
+[00:49:38] ... of seeing this proceed, and
+[00:49:40] that doesn't mean that any particular party
+[00:49:44] puts anything in their budget for the manifesto.
+[00:49:48] But I think it would be helpful for it not to just get
+[00:49:52] dropped through the election and coalition negotiations, and all that sort of
+[00:49:56] thing. So Catherine, if you'd be kind enough to think about that for a
+[00:50:00] moment. I do have a brief question.
+[00:50:03] One,
+[00:50:05] I hear what you say about the complexity of the admin for both
+[00:50:09] carbon credits and biodiversity additionality.
+[00:50:12] But you're not saying stop work on that.
+[00:50:15] You're saying that goes along in parallel.
+[00:50:17] So what Minister Hoggard announced in June,
+[00:50:20] giving some ticks to perhaps catchment level that
+[00:50:24] farmers and other landowners
+[00:50:27] get something for what they're doing, would still work in parallel, and you
+[00:50:31] would start to count that in the dollars that came in.
+[00:50:35] 100%.
+[00:50:36] Yeah. Okay.
+[00:50:36] Yeah, so that's a really important thing to reiterate,
+[00:50:40] is this fund is only a small piece of it,
+[00:50:43] but we're making an early recommendation because we know how
+[00:50:47] effective it will be,
+[00:50:49] based on the work we've done.
+[00:50:53] The overall investment in our natural
+[00:50:56] capital needs credits.
+[00:50:59] It needs boats, it needs this fund, it needs
+[00:51:03] NGOs. This is just an early
+[00:51:06] recommendation that we're asking for commitment for the
+[00:51:10] '27, '28 financial year.
+[00:51:13] So yeah, just to reiterate, as part of the
+[00:51:17] final stage, we will actually estimate what we think credits will give us.
+[00:51:23] Okay.
+[00:51:23] And so those people who are credit
+[00:51:27] specialists can provide us their numbers.
+[00:51:30] Mm. Look, thank you, Ian. I think that's a good spot to end it
+[00:51:34] on, and obviously you can hear the bells.
+[00:51:35] But look, we really appreciate your presentation today.
+[00:51:38] And you've traversed some really good areas that
+[00:51:42] we do want to consider as a committee and, we will
+[00:51:46] make those considerations salient, and we thank you
+[00:51:50] for your time today.
+[00:51:52] Thank you very, very much-
+[00:51:54] And I know-
+[00:51:54] ... for the committee's time. We're very grateful. Thank you.
+[00:51:57] Brilliant. Thank you.
+[00:51:59] That's all right.
+[00:52:01] So next up-
