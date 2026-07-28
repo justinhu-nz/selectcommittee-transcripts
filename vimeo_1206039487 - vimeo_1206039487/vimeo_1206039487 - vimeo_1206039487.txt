@@ -1,7 +1,7 @@
 Title: vimeo_1206039487
 URL: https://player.vimeo.com/video/1206039487?h=2efc7891d1
-Published: 2026-07-01
-Duration: 00:17:49
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:30] Right. Well, good morning and welcome.
 [00:00:32] We have Laura McClure before us this morning on the Deepfake,

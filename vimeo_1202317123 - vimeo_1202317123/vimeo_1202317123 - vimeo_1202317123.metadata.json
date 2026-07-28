@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:20:36.338758+00:00",
+  "generated_at": "2026-07-28T11:30:00.166942+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202317123",
   "title": "vimeo_1202317123",
   "url": "https://player.vimeo.com/video/1202317123?h=bff6712413",
-  "published_at": "20260618",
-  "published_display": "2026-06-18",
-  "duration_seconds": 6502,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page economic-development-science-and-innovation, Vimeo Showcase 10758044",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758044",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

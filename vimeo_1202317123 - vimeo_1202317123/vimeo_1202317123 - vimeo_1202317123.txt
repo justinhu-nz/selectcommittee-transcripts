@@ -1,7 +1,7 @@
 Title: vimeo_1202317123
 URL: https://player.vimeo.com/video/1202317123?h=bff6712413
-Published: 2026-06-18
-Duration: 01:48:22
+Published: Unknown
+Duration: 00:00:00
 
 [00:03:13] Procurement rules to introduce a new New Zealand impact test that means that when
 [00:03:17] government agencies are going out to tender and comparing different

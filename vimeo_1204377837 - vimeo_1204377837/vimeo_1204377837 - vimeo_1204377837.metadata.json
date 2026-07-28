@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:19:59.251479+00:00",
+  "generated_at": "2026-07-28T11:29:23.080297+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1204377837",
   "title": "vimeo_1204377837",
   "url": "https://player.vimeo.com/video/1204377837?h=1f015b3fa5",
-  "published_at": "20260702",
-  "published_display": "2026-07-02",
-  "duration_seconds": 2943,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758268",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758268",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

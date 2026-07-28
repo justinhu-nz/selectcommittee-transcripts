@@ -1,7 +1,7 @@
 Title: vimeo_1202326380
 URL: https://player.vimeo.com/video/1202326380?h=94ab8b7d6e
-Published: 2026-06-18
-Duration: 01:35:43
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:02] Mighty year.
 [00:00:04] Welcome.

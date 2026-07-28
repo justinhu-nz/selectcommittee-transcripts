@@ -1,7 +1,7 @@
 Title: vimeo_1207927181
 URL: https://player.vimeo.com/video/1207927181?h=2a2912d000
-Published: 2026-07-08
-Duration: 01:30:29
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:00] Uh, FEC, and we look forward to your submission.
 [00:00:01] We've got you for five minutes, but please leave some time for questions.

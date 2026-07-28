@@ -1,7 +1,7 @@
 Title: vimeo_1202285982
 URL: https://player.vimeo.com/video/1202285982?h=d5f19f6ab5
-Published: 2026-06-18
-Duration: 01:59:48
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:05] Oh, we're back.
 [00:00:06] Yes, sir.

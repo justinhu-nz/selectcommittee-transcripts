@@ -1,7 +1,7 @@
 Title: vimeo_1211266869
 URL: https://player.vimeo.com/video/1211266869?h=7f982015dd
-Published: 2026-07-20
-Duration: 01:00:18
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:02] Welcome, and
 [00:00:04] welcome to people that are now watching us.

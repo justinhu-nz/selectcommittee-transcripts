@@ -1,7 +1,7 @@
 Title: vimeo_1201618968
 URL: https://player.vimeo.com/video/1201618968?h=085244b35c
-Published: 2026-06-17
-Duration: 03:26:33
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:02] Need help?
 [00:00:03] You hold that.

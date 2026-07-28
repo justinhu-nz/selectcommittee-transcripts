@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:20:24.871279+00:00",
+  "generated_at": "2026-07-28T11:29:49.016156+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1207913936",
   "title": "vimeo_1207913936",
   "url": "https://player.vimeo.com/video/1207913936?h=86b66ba4bd",
-  "published_at": "20260708",
-  "published_display": "2026-07-08",
-  "duration_seconds": 2798,
-  "source_labels": "Parliament Page finance-and-expenditure, Vimeo Showcase 10758103, Vimeo RSS nzparliament",
+  "published_at": null,
+  "published_display": "Unknown",
+  "duration_seconds": null,
+  "source_labels": "Vimeo Showcase 10758103",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

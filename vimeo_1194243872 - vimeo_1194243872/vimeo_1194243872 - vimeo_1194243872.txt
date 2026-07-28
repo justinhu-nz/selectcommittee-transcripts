@@ -1,7 +1,7 @@
 Title: vimeo_1194243872
 URL: https://player.vimeo.com/video/1194243872?h=47895f6d4b
-Published: 2026-06-25
-Duration: 00:33:03
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:01] Table.
 [00:00:05] It's Jessie Miller.
