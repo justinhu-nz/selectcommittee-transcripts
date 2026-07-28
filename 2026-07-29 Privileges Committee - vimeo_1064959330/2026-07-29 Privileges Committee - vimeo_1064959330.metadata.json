@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-07-28T22:38:06.045798+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1064959330",
+  "title": "2026-07-29 Privileges Committee",
+  "url": "https://vimeo.com/1064959330",
+  "published_at": "20260729",
+  "published_display": "2026-07-29",
+  "published_date_uncertain": true,
+  "published_date_source": "new_zealand_scan_date",
+  "duration_seconds": 3421,
+  "source_labels": "Parliament Page privileges",
+  "transcript": {
+    "source": "vimeo_vtt",
+    "language": "en-x-autogen",
+    "duration_seconds": 3399.35,
+    "segment_count": 1150,
+    "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\2026-07-29 Privileges Committee - vimeo_1064959330\\2026-07-29 Privileges Committee - vimeo_1064959330.en.vtt"
+  },
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1064959330",
+    "display_id": "1064959330",
+    "title": "Privileges Committee",
+    "webpage_url": "https://player.vimeo.com/video/1064959330",
+    "original_url": "https://player.vimeo.com/video/1064959330",
+    "upload_date": "20250312",
+    "metadata_date_source": "vimeo_oembed",
+    "duration": 3421,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/1992372458-8c6bb3fc7cb49ccb5dcf5d79e1027b7df4749406766974105acba5a6c041db03-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

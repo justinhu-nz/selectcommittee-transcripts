@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-28T11:28:27.450784+00:00",
+  "generated_at": "2026-07-28T22:36:16.411064+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1142621483",
   "title": "2025-12-02 2025/12/03 - GA [Part 2]",
   "url": "https://vimeo.com/1142621483",
   "published_at": "20251202",
   "published_display": "2025-12-02",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_oembed",
   "duration_seconds": 2904,
   "source_labels": "Parliament Page governance-and-administration",
   "transcript": {
