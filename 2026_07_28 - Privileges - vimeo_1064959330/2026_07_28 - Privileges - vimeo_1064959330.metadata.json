@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:57:42.242577+00:00",
+  "generated_at": "2026-07-30T14:00:48.810723+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1064959330",
   "title": "2026/07/28 - Privileges",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "parliament_video_title",
   "duration_seconds": 3421,
-  "source_labels": "Vimeo Showcase 10828747, Parliament Page privileges",
+  "source_labels": "Parliament Page privileges, Parliament Page privileges",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

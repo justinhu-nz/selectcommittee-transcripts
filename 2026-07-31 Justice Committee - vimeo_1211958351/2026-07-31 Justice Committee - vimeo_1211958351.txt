@@ -1,0 +1,424 @@
+Title: 2026-07-31 Justice Committee
+URL: https://player.vimeo.com/video/1211958351
+Published: 2026-07-31
+Duration: 00:22:35
+
+[00:00:43] Thank you for being here. We've got Te Reo Reka, who are joining us this morning
+[00:00:46] for the first
+[00:00:48] 20 minutes. We'd love it if you could just leave some time for questions as well as
+[00:00:51] part of that. But we've got you for 20 minutes, so over to you.
+[00:00:54] Great. Thank you. So I think well for me.
+[00:00:58] I'm Victoria McLaughlin. I am the deputy secretary for
+[00:01:02] Te Reo Reka and-
+[00:01:04] Carl Paper, chief operating officer.
+[00:01:06] So thank you for taking us up on the offer
+[00:01:10] of doing a demonstration of Te Reo Reka today.
+[00:01:14] We're doing it as a video
+[00:01:16] in part to make sure that we could share it easily in this room
+[00:01:20] and that was technically difficult enough.
+[00:01:24] The video
+[00:01:26] takes you a little bit for a snippet of current state and then shows you
+[00:01:30] how that actually looks like in the solution.
+[00:01:33] We are on track to go live in late November,
+[00:01:38] down in Christchurch, Ashburton, and for our
+[00:01:41] central registry services.
+[00:01:44] The focus on that launch is on the functionality
+[00:01:48] for the registry and the judiciary.
+[00:01:52] And then, in March, we
+[00:01:55] bring out
+[00:01:57] the whole solution, including the portal for the profession,
+[00:02:01] parties to cases, and that will be rolled out to the
+[00:02:05] remaining parts of the South Island.
+[00:02:07] And then we progressively move up the island
+[00:02:12] in April and May. So by the end
+[00:02:16] at June, we will be rolled out across the country for the
+[00:02:20] family court.
+[00:02:22] So on that note, we will demonstrate what the system
+[00:02:26] looks like.
+[00:02:27] Great.
+[00:02:34] For someone needing orders from the family court, the application process can be
+[00:02:37] complex and stressful. Applicants may need to complete multiple
+[00:02:41] forms, work out which forms apply to their situation, and enter the same
+[00:02:45] information repeatedly across different documents.
+[00:02:48] It can be difficult to know what information is mandatory, what supporting
+[00:02:51] documents are required, and whether the application has been completed correctly.
+[00:02:55] Applicants may also need to print forms and visit a courthouse to file their
+[00:02:59] application.
+[00:03:05] Instead of navigating multiple paper forms and filing processes, the
+[00:03:09] courts portal guides an applicant through submitting an online application to the
+[00:03:13] court. The applicant starts by choosing the application type and filing
+[00:03:16] method. Based on those selections, the portal presents the relevant fields they
+[00:03:21] need to complete.
+[00:03:22] As the applicant moves through the process, the portal provides contextual guidance
+[00:03:26] to explain what information is required and why.
+[00:03:29] When an applicant is completing more than one application, data is entered once
+[00:03:33] and reused across the applications.
+[00:03:35] For example, children's names and dates of birth.
+[00:03:38] The information captured on the online forms flows directly through to the
+[00:03:42] court. This reduces the need for registry staff to reenter
+[00:03:45] information, improving data accuracy.
+[00:03:48] For applicants experiencing family violence or other sensitive
+[00:03:51] situations, the portal includes a quick exit feature that allows users
+[00:03:55] to leave the application immediately, helping to keep them safe.
+[00:03:59] Unlike paper-based forms, the courts portal supports better data
+[00:04:02] quality through field validation, such as checking email address
+[00:04:06] formats and using the New Zealand Post postcode finder for address
+[00:04:10] details. Where appropriate, users can override validation if
+[00:04:13] needed. The navigation panel on the left-hand side of the screen steps the
+[00:04:17] applicant through the process and guides them to provide the relevant details about
+[00:04:21] the court order they are seeking. Once the application details are complete, the
+[00:04:25] applicant can upload supporting documents by navigating to the file or
+[00:04:28] desktop. The applicant can then declare their
+[00:04:32] application is true and correct, digitally authenticate it, and submit
+[00:04:36] it to the court. This replaces the need to physically sign documents and
+[00:04:40] visit the courthouse. If a filing fee applies, the applicant is prompted
+[00:04:43] to pay the fee.
+[00:04:48] Once an application is received, registry staff work through a detailed
+[00:04:52] manual process before it can be referred to a judge.
+[00:04:55] They must review all forms and supporting documents, check that all required
+[00:04:59] information has been provided, and identify and resolve any issues.
+[00:05:02] They must also search across existing systems for related cases and parties.
+[00:05:06] Information from the forms then needs to be manually entered into the current
+[00:05:09] case management system, potentially resulting in data entry errors.
+[00:05:13] The documents cannot be stored within the system, resulting in the court being
+[00:05:17] reliant on the physical file. If the application is associated with an
+[00:05:20] existing case, registry staff need to locate the physical case file.
+[00:05:24] They then add the new material to that file.
+[00:05:27] If it is a new matter, the registry must create a new physical case
+[00:05:31] file. The process is time-consuming, requiring information to be handled
+[00:05:34] multiple times and involving movement between physical files and the current case
+[00:05:38] management system.
+[00:05:44] With the new solution, registry staff have a single dashboard view of all
+[00:05:47] applications submitted to the court.
+[00:05:49] When an application is opened, key information is automatically populated
+[00:05:53] from the courts portal, including party names, application details,
+[00:05:57] court location, legislation, and application type Registry
+[00:06:01] staff can then check and confirm the information is correct, reducing
+[00:06:05] manual effort and minimizing data entry errors.
+[00:06:08] Once the application meets the acceptance criteria, registry staff can use the
+[00:06:12] search function to determine whether it should be linked to an existing case or
+[00:06:16] whether a new case needs to be created.
+[00:06:18] In this example, no existing case is found, requiring the creation
+[00:06:22] of a new case file. After the application has been accepted, registry
+[00:06:26] staff can process any related case documents that were also filed
+[00:06:29] through the courts portal. From the Acceptance Outcome tab, documents can be
+[00:06:33] reviewed, edited if required, and accepted together.
+[00:06:37] The timeline at the top of the screen guides registry staff through the process
+[00:06:41] and automatically updates to reflect the next stage of the workflow.
+[00:06:45] The next step is to navigate to the Accepted Application screen and
+[00:06:48] create the digital case file. Selecting the application prompts a check for
+[00:06:52] any existing cases. As no matching cases are identified, a new case
+[00:06:56] is created. The case is named in accordance with existing case title
+[00:07:00] naming conventions and allocated to the appropriate registry staff
+[00:07:04] member. Party information supplied through the courts portal is carried
+[00:07:08] through automatically, enabling the originating application party
+[00:07:11] profiles to be linked directly to the new case.
+[00:07:14] Once these steps are completed, the case is created.
+[00:07:17] All documents filed through the courts portal are automatically added to the
+[00:07:21] digital case file, removing the need for a physical file.
+[00:07:25] In this example, Jeanette Jones has requested that her address be kept
+[00:07:29] confidential. A confidential address flag is created in the Notes and Flags
+[00:07:32] section and linked to the relevant party.
+[00:07:35] This indicates that the confidential address must only be used when
+[00:07:38] communicating directly with that person and must not appear on
+[00:07:42] correspondence that may be viewed by other parties.
+[00:07:45] The flag is then visible on the case file.
+[00:07:47] The matter is now ready to be referred to a
+[00:07:49] judge.
+[00:07:54] Judges often need to work through large volumes of information.
+[00:07:57] In the family court, cases can exist from birth through to the age of 18,
+[00:08:01] resulting in extensive records and several boxes of documents.
+[00:08:04] Sometimes a document is not on the file, and the registry needs to spend time
+[00:08:08] locating where it has gone. To prepare making a decision, judge reviews registry
+[00:08:12] notes, loads relevant documents, and considers previous case information.
+[00:08:16] Important information is often flagged using handwritten notes, tabs,
+[00:08:20] or sticky notes to help navigate the material and keep track of key
+[00:08:24] issues. Once a decision has been made, either in chambers or in a
+[00:08:27] courtroom, judges record their decisions and outcomes in a minute.
+[00:08:31] The information then needs to be entered into the current case management system
+[00:08:35] by registry staff.
+[00:08:40] Once the case event has been assigned to a judge, it can be selected from the
+[00:08:44] judicial workspace and opened through the event overview.
+[00:08:47] The judge can view event notes created by the registry together with important
+[00:08:51] information relevant to the hearing or case.
+[00:08:53] The judge can then navigate directly to the documents relevant for the decision or
+[00:08:58] to the full case file. This includes documents filed by parties, as well
+[00:09:01] as documents identified by the registry as relevant to the case.
+[00:09:06] Within each document, the judge can search, highlight, circle key
+[00:09:10] points, and add comments. These annotations are personal to the judge
+[00:09:14] and are not visible to others unless the judge chooses to share them.
+[00:09:17] Once the judge has reviewed the relevant information, they can record the reasons
+[00:09:21] for their decision. The judge can then record each order or direction they are
+[00:09:25] issuing. The solution only displays the decision options
+[00:09:28] associated with that type of application.
+[00:09:31] For example, they may direct that a directions conference be
+[00:09:34] allocated. They may also appoint a lawyer for child.
+[00:09:38] These decisions automatically generate tasks for registry staff to
+[00:09:42] complete. Directions that relate to case parties, such as filing further
+[00:09:46] evidence or completing a required task, will also be visible to
+[00:09:49] verified courts portal users. Before completing the decision,
+[00:09:53] the judge previews what has been captured and checks the details.
+[00:09:56] They can edit the decision from the preview screen or return to the previous
+[00:10:00] screen to make further changes. Once satisfied, the judge authenticates the
+[00:10:04] decision. Authentication generates the relevant minute, which is then
+[00:10:08] available for the registry to issue to case parties.
+[00:10:11] The decision details also generate the relevant next steps.
+[00:10:19] Once a judge has made a decision, registry staff manually review the
+[00:10:22] directions and work through the required next steps.
+[00:10:25] They prepare and issue documents, update case records,
+[00:10:29] create follow-up tasks, arrange future events, and
+[00:10:33] notify the parties involved. Staff often need to move between multiple
+[00:10:36] screens, documents, and processes to ensure nothing is missed
+[00:10:41] and the case continues to progress.
+[00:10:46] With the new solution, once a judicial decision has been made, the related
+[00:10:50] tasks are automatically generated and flow through to the registry for
+[00:10:54] action. For example, a task may be created to appoint a lawyer for
+[00:10:57] child. Priorities are automatically assigned so that the most important
+[00:11:01] work is completed first. The relevant document, such as a judicial
+[00:11:05] minute, becomes immediately visible to the registry.
+[00:11:08] The registry can then release the document, and parties are notified through the
+[00:11:11] courts portal if they have a verified account.
+[00:11:18] After a decision has been issued, court users are typically notified by
+[00:11:22] email or letter. If they want more information about the outcome, upcoming
+[00:11:25] events, or any actions they need to take, they may need to contact the court
+[00:11:29] directly. Registry staff spend time responding to inquiries, sending documents, and
+[00:11:33] ensuring parties receive information they need.
+[00:11:35] They also need time preparing for the next judicial event by checking whether
+[00:11:38] parties have completed required actions.
+[00:11:41] Currently, this can be difficult, resulting in delays and adjournments.
+[00:11:47] With the new courts portal, users receive a notification when a judicial
+[00:11:51] decision is released. From there, they can view new notifications,
+[00:11:55] messages, and priority tasks. Users can view their case and access
+[00:11:59] documents filed with and issued by the court, including judicial
+[00:12:03] minutes and other case management documents such as notices of event.
+[00:12:07] Event details can be viewed within the Events section.
+[00:12:10] If a task or direction has been assigned to a case party, it will be displayed
+[00:12:14] within the Tasks section. This is just the beginning of a modern, connected
+[00:12:18] court experience.
+[00:12:24] Superb. That's it?
+[00:12:25] That is it.
+[00:12:26] Fantastic. Well, I can't say I've ever seen a presentation to a
+[00:12:30] select committee quite like it, but I quite enjoyed it.
+[00:12:32] I quite enjoyed it, so thank you.
+[00:12:34] Thank you.
+[00:12:35] Do you have any other comments you'd like to make before we go to questions?
+[00:12:37] No, I think we'll open up to questions.
+[00:12:40] Great, we'll start with Todd Stevenson.
+[00:12:41] Yeah. Just I've got three, if that's okay, Mr.
+[00:12:44] Chair, and hopefully they're not too long.
+[00:12:45] Nobody else chomping at the bit.
+[00:12:47] No, I am.
+[00:12:47] First, yeah, obviously, great, thanks for the demonstration.
+[00:12:50] Very smart doing a video because then there's no problems world and the
+[00:12:53] electronic world. Or is it only new matters going forward?
+[00:12:58] Yeah, so-
+[00:12:58] That's my first question
+[00:12:59] ... that's a very good question. So that's what we refer to as coexistence.
+[00:13:03] Yeah
+[00:13:03] The existence of-
+[00:13:05] Okay
+[00:13:05] ... so it's only new cases that will be
+[00:13:09] managed in Te Reo on day one.
+[00:13:12] In March, we open up the ability to move
+[00:13:15] cases from our old world into the new world.
+[00:13:20] That's not so much to do with the data.
+[00:13:23] Its issue is our, as you saw, our current case file
+[00:13:27] is paper, and therefore getting the correct documents
+[00:13:31] from there into the solution requires
+[00:13:34] scanning and effort on the registry.
+[00:13:37] So that is why we are cautious in how we move between that
+[00:13:41] world and this one. There are some connections between the two
+[00:13:44] solutions as well to reduce things like searching,
+[00:13:48] being able to schedule from both solutions and not have them conflict.
+[00:13:53] But all the other parts of the process will require a level of
+[00:13:56] coexistence.
+[00:13:57] Okay, just two other quick ones.
+[00:14:00] Just kind of an access to justice question.
+[00:14:02] Not everyone obviously has a computer, et cetera.
+[00:14:05] One, will you be making terminals available at court
+[00:14:09] registries for people to do filing, or are there still paper forms that
+[00:14:13] they would then be-
+[00:14:14] Yeah
+[00:14:15] ... done for, that part is kind of done for you.
+[00:14:17] Yes.
+[00:14:17] So, yeah.
+[00:14:18] So the only people that the portal is mandatory for is the
+[00:14:22] professional.
+[00:14:23] Right.
+[00:14:23] Everyone else can still file through the other
+[00:14:27] means because of that point around access to justice.
+[00:14:32] So yes, we can balance it, and then we scan those documents in and enter
+[00:14:36] it into the solution.
+[00:14:37] And then very last one, Mr. Chair -
+[00:14:39] ... if that's okay.
+[00:14:40] The other thing that kind of occurs to me is over time you'll have really
+[00:14:44] great data.
+[00:14:45] Mm-hmm.
+[00:14:45] So you'd actually see if a matter hasn't...
+[00:14:48] You could run metrics and see if matters aren't moving forward or-
+[00:14:51] Yes
+[00:14:51] ... is that your plan? Because again, I
+[00:14:54] get a lot of feedback, shall we say, about the
+[00:14:58] length of time, and I know we're obviously trying to speed up the court processes,
+[00:15:02] but sometimes I'm assuming matters could,
+[00:15:05] just for whatever reason, aren't progressed.
+[00:15:08] Yeah.
+[00:15:08] You've got to run a thing over to say, "Well, why isn't this happening?" A few
+[00:15:12] months or something.
+[00:15:13] Yeah. So that's all part of it. So we now will have the
+[00:15:16] ability to create dashboards, reporting,
+[00:15:20] that sort of court management
+[00:15:24] information.
+[00:15:24] Yeah.
+[00:15:25] And I think the good thing is the judge will be able to see where the delay is.
+[00:15:29] Yeah.
+[00:15:29] So at the moment, the judge doesn't automatically see where a delay is.
+[00:15:32] There might
+[00:15:33] be an application for adjournment, and a lawyer might say, "These are the
+[00:15:37] reasons why I need that." Whereas the judge will be able to track the case
+[00:15:41] through the system.
+[00:15:43] Yeah.
+[00:15:43] So if I step forward a little bit and talk to the criminal space, the
+[00:15:47] judge will be able to see when the police file disclosure documents.
+[00:15:50] Yes.
+[00:15:51] Versus any argy-bargy about who, what, wherever else, and people get
+[00:15:54] reminders, and a judge will be able to make sure people are held to account,
+[00:15:57] particularly in that type of space, about being on time.
+[00:16:00] Yeah. Thank you.
+[00:16:01] It's a lot more difficult in the manual system.
+[00:16:02] Great. We've got five more minutes and we've got quite a few questions, so we'll
+[00:16:05] see what we can do. Greg.
+[00:16:06] Yeah, thank you.
+[00:16:08] For this to succeed, how much buy-in will there need to be by the judiciary
+[00:16:12] and by those others that own a lot of this
+[00:16:16] information?
+[00:16:16] Mm-hmm.
+[00:16:17] The judiciary are notorious for their lack of IT
+[00:16:21] buy-in. Have been in the past. Things improved a little.
+[00:16:25] If they continue with that reluctance, will this thing work?
+[00:16:28] So we're very lucky. This is done in partnership with the
+[00:16:32] judiciary. Has been since the beginning.
+[00:16:35] So they're part of the governance, they were part of the selection
+[00:16:39] process for tool. They have been intimately involved in
+[00:16:43] the design of what you saw for the judges.
+[00:16:47] The judges are now demoing it to each other and are supporting the
+[00:16:51] training. So,
+[00:16:53] no, there's been a lot of good support because they have been so intimately
+[00:16:57] involved in its design, which is different from
+[00:17:01] how it's been treated overseas, where it's been done by
+[00:17:05] a program to the judiciary. So no, we're very-
+[00:17:09] Is it all the courts?
+[00:17:11] Yes. So as we do each phase,
+[00:17:14] the reference groups change to reflect that
+[00:17:17] jurisdiction.
+[00:17:19] Raymond.
+[00:17:20] Thank you. Mr. Chair, thank you.
+[00:17:22] Training. This is going to be a big job with training.
+[00:17:24] I'm
+[00:17:26] assuming some training has already started or what's training going to look
+[00:17:30] like for the registry staff?
+[00:17:32] Do you want to cover or do you want me?
+[00:17:33] Yeah, no, that's fine. So it was two parts.
+[00:17:36] So,
+[00:17:37] as the member has talked about, we are doing capability uplift in general.
+[00:17:42] With the judiciary, there is training going on at the moment for the judiciary just
+[00:17:45] to lift the capability where that's needed.
+[00:17:48] From a personal perspective, I'm not IT literate 100%, so I'd probably be
+[00:17:53] taking advantage of that. So that's going on at the moment from a judicial
+[00:17:56] perspective and where necessary from a staffing perspective, but that's probably a
+[00:17:59] lesser thing. Training specific to this, there are different
+[00:18:03] mechanisms that we'll use for this.
+[00:18:06] We'll have staff involved in user acceptance testing, so staff have helped build
+[00:18:10] this and staff will test it. So for example, for the Christchurch rollout, there'll
+[00:18:14] be Christchurch staff testing the system, which will
+[00:18:17] reduce the need for them to have any training because they would have been already
+[00:18:20] playing in it for a number of weeks.
+[00:18:24] So there'll be user staff involved in user acceptance testing, then there'll be
+[00:18:27] modules and face-to-face sessions for the staff to
+[00:18:30] get them up to speed. I wouldn't sit here and say it won't be
+[00:18:34] a little bit bumpy as everybody gets used to a new system.
+[00:18:37] It's a big, complex court system. That's a great video,
+[00:18:41] but the Family Court is much bigger than what that 10 minutes
+[00:18:44] actually shows, and all of the different fields and applications are significant.
+[00:18:49] But the staff-
+[00:18:51] Yeah
+[00:18:52] ... are pretty competent, and they'll be able to manage this really well.
+[00:18:55] Thank you. Are there more questions?
+[00:18:57] Yes, but you can have one more.
+[00:18:59] Just look, the big question mark would be on a lot of people's minds, how are we
+[00:19:02] working around, God forbid, any security breaches?
+[00:19:06] Because a lot more information is going in. Yes.
+[00:19:09] So no, we are certainly taking that very, very seriously.
+[00:19:13] And it's partly why the portal is in March rather than
+[00:19:17] in November as we work through that.
+[00:19:19] Next one sort of closed
+[00:19:21] And we are constantly reconsidering that, with the
+[00:19:25] comments around AI and how that's changing the cyber threats.
+[00:19:29] So no, that is being taken very, very seriously, and it's a core part of the
+[00:19:33] design. Penetration testing, all those elements will be done
+[00:19:37] as part of approval to go live. Thank you.
+[00:19:42] Dan Widd.
+[00:19:44] I've had a little bit of input into the MB biometric upgrade,
+[00:19:48] right. So I've had a look at some not particularly good management of
+[00:19:52] IT projects. Have you got a project dashboard for this?
+[00:19:55] Yes, we do.
+[00:19:56] Have you got all green lights?
+[00:19:58] No.
+[00:19:59] What have you got? What have you got here?
+[00:20:02] So we do have things that are tracking at amber
+[00:20:05] around making sure...
+[00:20:08] In the reporting space,
+[00:20:11] there's some delays in testing, et cetera.
+[00:20:14] But they're all things that have management controls in place,
+[00:20:18] and we are still on track for the November date.
+[00:20:20] One of the things that came out in that other department was
+[00:20:24] that
+[00:20:26] the oversight was kind of at the third level in the
+[00:20:30] organization,
+[00:20:31] and the deputy secs didn't really have good
+[00:20:35] knowledge. Who has ownership of this project?
+[00:20:38] Okay. So from a governance perspective, we have
+[00:20:42] both
+[00:20:44] Andrew as our
+[00:20:46] Chief Executive over us, and from the judicial side, the Chief Justice.
+[00:20:50] Sitting under that true governance layer is a
+[00:20:53] SLT-based steering group. It's got an independent
+[00:20:57] chair, Colin McDonald. Over it, we have an independent
+[00:21:01] advisor from Australia who's done a similar program.
+[00:21:05] SLT is a weekly item on our SLT
+[00:21:08] agenda alongside it. So it's very much governed at our
+[00:21:12] executive level.
+[00:21:13] But ultimately,
+[00:21:14] are you the owner of the project?
+[00:21:15] I am the owner, and this is my only job.
+[00:21:19] Good. And my last question is, we saw-
+[00:21:21] Sorry, just... And I'm the business owner.
+[00:21:23] Right.
+[00:21:24] So because ultimately Victoria's leading a project that's
+[00:21:27] delivering a tool for the services that I do, so I have
+[00:21:31] a lot of time and effort spent on this as well.
+[00:21:34] And this is my last question, I think. Forgive my suspicion.
+[00:21:37] But
+[00:21:38] the video was really slick.
+[00:21:41] Could I get
+[00:21:43] online now or onto the system now and do
+[00:21:47] all of those things we saw?
+[00:21:48] Yes. The only thing that you couldn't do right at the moment is that
+[00:21:51] dashboard at the end in the portal.
+[00:21:54] That's currently being built out.
+[00:21:56] But all the other parts are actually under active testing.
+[00:21:59] But yeah. And we are still building out the portal at the moment for that March
+[00:22:03] release. But what you were seeing was not a-
+[00:22:06] It wasn't fake.
+[00:22:07] No, it wasn't fake.
+[00:22:10] To give you a sense of where we are right now, we have done what's called
+[00:22:14] integration testing. We are about to go into user acceptance
+[00:22:18] testing in two weeks. We have been doing mini user
+[00:22:22] testing for a number of months now.
+[00:22:25] So we are well into that testing space.
+[00:22:28] Thank you.
+[00:22:29] Fantastic. Well, thank you very much for your time-
+[00:22:31] Thank you
+[00:22:31] ... and for the effort you've put in as well, and we wish you all the best with the
+[00:22:34] project-
+[00:22:34] ... as you move forward

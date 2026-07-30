@@ -1,13 +1,15 @@
 {
-  "generated_at": "2026-05-12T11:00:07.602559+00:00",
+  "generated_at": "2026-07-30T13:59:57.788395+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1131873679",
   "title": "2025/10/30 Primary Production subcommittee A",
   "url": "https://vimeo.com/1131873679",
   "published_at": "20251030",
   "published_display": "2025-10-30",
+  "published_date_uncertain": false,
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 846,
-  "source_labels": "Vimeo Showcase 10758268",
+  "source_labels": "Parliament Page primary-production, Parliament Page primary-production",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
