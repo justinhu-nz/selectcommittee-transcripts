@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-30T01:36:09.929776+00:00",
+  "generated_at": "2026-07-30T12:59:41.133888+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1194243872",
   "title": "2026 06 25 Petitions Committee",
-  "url": "https://vimeo.com/1194243872",
+  "url": "https://player.vimeo.com/video/1194243872?h=47895f6d4b",
   "published_at": "20260625",
   "published_display": "2026-06-25",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 1983,
   "source_labels": "Vimeo Showcase 10758263",
   "transcript": {

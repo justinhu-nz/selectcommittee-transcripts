@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-06-18T07:53:44.465164+00:00",
+  "generated_at": "2026-07-30T12:57:37.797518+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202317123",
   "title": "2026/06/18 - EDSI (Part 3)",
-  "url": "https://vimeo.com/1202317123",
+  "url": "https://player.vimeo.com/video/1202317123?h=bff6712413",
   "published_at": "20260618",
   "published_display": "2026-06-18",
-  "duration_seconds": 6502,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page economic-development-science-and-innovation, Vimeo Showcase 10758044",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_showcase_title",
+  "duration_seconds": 7248,
+  "source_labels": "Vimeo Showcase 10758044",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
     "duration_seconds": 6489.7,
     "segment_count": 2040,
-    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_06_18 - EDSI (Part 3) - vimeo_1202317123\\2026_06_18 - EDSI (Part 3) - vimeo_1202317123.en.vtt"
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1202317123 - vimeo_1202317123\\vimeo_1202317123 - vimeo_1202317123.en.vtt"
   },
   "source_metadata": {
     "provider": "vimeo",

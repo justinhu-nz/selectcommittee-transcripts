@@ -1,0 +1,340 @@
+Title: 2026/07/22 - SSC (Part 1 of 2)
+URL: https://player.vimeo.com/video/1206039487?h=2efc7891d1
+Published: 2026-07-22
+Duration: 00:17:49
+
+[00:00:30] Right. Well, good morning and welcome.
+[00:00:32] We have Laura McClure before us this morning on the Deepfake,
+[00:00:36] Digital Harm and Exploitation Bill. And welcome, Laura.
+[00:00:39] We have 15 minutes with you this morning.
+[00:00:41] You want to take us, the committee, through your bill, and
+[00:00:45] if you wish to leave some time for questions.
+[00:00:47] Great. Well, thank you, Mr Chair, and thank you to the committee for having me
+[00:00:50] today. Firstly, I just want to say thank you to all of those that have
+[00:00:54] submitted on this bill. A lot of very detailed
+[00:00:58] submissions, which is great. I think it's been well traversed
+[00:01:02] in the House as to why I brought this legislation forward.
+[00:01:06] It's absolutely disgusting and abhorrent that someone can be
+[00:01:10] deepfaked into
+[00:01:12] pornography or sexually explicit material without their consent, and we know
+[00:01:16] that this is increasing year on year.
+[00:01:20] 96% of victims are female,
+[00:01:23] which is quite alarming.
+[00:01:25] It's about a 200% increase year on year across
+[00:01:29] Australia and the UK. We don't actually have a figure here in New Zealand because
+[00:01:33] there's not specific data available, but it seems to be that we're
+[00:01:36] following that trend.
+[00:01:38] Netsafe have reported that they receive daily calls
+[00:01:42] about deepfaking, which I think is quite alarming in itself.
+[00:01:46] There's currently limited or no support for victims, because
+[00:01:50] until somebody is effectively charged,
+[00:01:54] that doesn't kick in, which I think is a huge reason as to why we need to do
+[00:01:58] something in this space.
+[00:01:59] Under the current Harmful Digital Communications Act, there are provisions
+[00:02:03] to be able to proceed with this type of
+[00:02:07] harm through the court process. But what we've found is because
+[00:02:11] deepfaking or artificially created imagery
+[00:02:15] is actually left silent within the legislation, given the Harmful Digital
+[00:02:18] Communications Act is nearly 10 years old,
+[00:02:21] it becomes challenging and difficult to get a prosecution.
+[00:02:24] So it appears that police,
+[00:02:28] certainly in some of the cases that I'm aware of, don't tend to take this
+[00:02:32] any further. There was a case earlier this year
+[00:02:36] where
+[00:02:37] four young female victims managed to take a case,
+[00:02:41] and there was a prosecution under Harmful Digital Communications Act.
+[00:02:45] The issue is, is because it's not explicitly a crime in the Crimes Act, you have
+[00:02:49] to prove that harm and that intention to harm, and it becomes really tricky.
+[00:02:53] And in fact, it was the victim's family herself that actually gathered
+[00:02:56] all the information
+[00:02:58] to build the case, and the victims were very fortunate to have that
+[00:03:02] family
+[00:03:03] available to be able to do that.
+[00:03:07] Given that there's been a whole bunch of submissions on the bill, I think that
+[00:03:10] there is definitely some little concerns about the wording that I think the Select
+[00:03:13] Committee should look into.
+[00:03:16] Why it's important that we change both the Crimes Act and the Harmful Digital
+[00:03:19] Communications Act, I think, is the point around making it explicitly clear
+[00:03:23] to do this is in fact a crime, so you don't have to prove
+[00:03:27] that harm factor the same way that you would have to right now.
+[00:03:31] I think it's also important to note that in New Zealand we don't have a
+[00:03:35] hashing system or a national register for hashing.
+[00:03:38] And what that means is if your image, whether it's real or not
+[00:03:42] real, is shared without your consent online,
+[00:03:45] you can talk with Netsafe about getting a takedown notice.
+[00:03:49] But there is no register around having an image hashed and
+[00:03:53] put into a system to keep that image from
+[00:03:56] not appearing again and again. And other countries have actually moved to do that.
+[00:04:00] So I think while my bill doesn't do that, it's something that I think we should
+[00:04:03] look at and consider.
+[00:04:05] Lots of the submissions talked about wider changes around deepfaking.
+[00:04:09] There's a lot of concerns about fraudulent behavior and the negative
+[00:04:13] impacts of deepfaking in general.
+[00:04:15] My bill doesn't address that because it addresses just a really small
+[00:04:19] section, given that it's a member's bill,
+[00:04:22] around deepfaking into pornography.
+[00:04:25] In order to widen the scope, that would be a massive piece of work as
+[00:04:28] well beyond the piece of work that we're looking at now.
+[00:04:32] So while I think future governments will have to grapple with that and deal with
+[00:04:35] that, I don't believe that we should be expanding the scope of this bill.
+[00:04:38] So I'm going to leave it up for questions now, and if anyone's got anything they'd
+[00:04:42] like to ask.
+[00:04:42] Thank you. Rachel. Helen.
+[00:04:43] Great. So it's more about this is a great bill.
+[00:04:47] It's obviously necessary. Do you think
+[00:04:50] from what you've seen,
+[00:04:53] I think there was a discussion about this in the Labor government about
+[00:04:57] adding this to a bill. Do you think there's been a growth, and
+[00:05:00] how much of a growth has there been in this
+[00:05:04] kind of behavior?
+[00:05:06] Yeah, look, I think it's undoubtable that this kind of behavior is growing year
+[00:05:10] on year as AI advances. And AI is amazing.
+[00:05:13] There's lots of great things that we can do with AI.
+[00:05:16] There's always going to be bad actors that use technology to harm or abuse other
+[00:05:20] people. And I think as the technology's getting better and better, we're
+[00:05:23] seeing rises in this kind of crime for sure.
+[00:05:27] I think at the 2022 changes to revenge porn, it
+[00:05:31] was discussed about adding in AI. I think
+[00:05:35] actually Golriz from the Greens actually put in an amendment, which
+[00:05:39] wasn't actually
+[00:05:41] voted for in the end. But I know that it was something that quite a few
+[00:05:45] members did allude to needing something like this in the
+[00:05:48] future. So 100%, I just think our laws have not kept up with the pace in
+[00:05:52] which this is happening, and I think to be really clear, this is not just
+[00:05:56] like
+[00:05:58] ... a what you'd call an old Photoshop, a head onto someone else's body.
+[00:06:01] This is actually creating imagery that is so real that the
+[00:06:05] only person that knows that this is fake, or the only people, is the person who
+[00:06:09] created it and the victim. It's so realistic.
+[00:06:11] Can I ask you, I know that a member's bill's narrow, but can I ask you about
+[00:06:15] education in this area?
+[00:06:17] Mm-hmm.
+[00:06:17] Often these young people are doing this to each other at a really
+[00:06:21] early age.
+[00:06:22] Mm-hmm.
+[00:06:23] Can you give me your views on whether we should be doing something to
+[00:06:26] expand education in this area?
+[00:06:28] Yeah, look, absolutely. I think education hasn't kept up with pace with
+[00:06:32] the online world, whether it's social media use, whether it's
+[00:06:36] deepfaking, all of these kind of things.
+[00:06:38] I think that is something that we should look into.
+[00:06:40] This bill, however, doesn't do that.
+[00:06:42] It just changes the act to make this a criminal behavior.
+[00:06:46] But I think why it's important to do that is I don't expect to see kids being
+[00:06:50] locked up in jail for deepfaking a peer, for example.
+[00:06:54] But what it will do is set the standard,
+[00:06:57] to say that this is so harmful that we consider it illegal.
+[00:07:01] And that in itself is really effective, and we know with revenge porn,
+[00:07:05] that we saw when that legislation came in, an initial spike in
+[00:07:10] some convictions, and it's dropped right off now.
+[00:07:12] Because I think young people know that if somebody shares your
+[00:07:15] nude, to share that on with someone else or to keep it and do something with it
+[00:07:19] later on is actually really harmful and really illegal.
+[00:07:22] So I think that this is, in a way, is about sending a signal as well,
+[00:07:25] not just making it there's some kind of criminal
+[00:07:29] liability there as well.
+[00:07:31] Thank you.
+[00:07:32] Maureen.
+[00:07:33] Thanks, Laura.
+[00:07:35] I'm wondering about how these images
+[00:07:39] are monitored or discovered.
+[00:07:41] Mm-hmm.
+[00:07:42] Because given the speed at which these things can be
+[00:07:45] transmitted, how do you find the creator, the
+[00:07:49] original creator of this, to hold them to task?
+[00:07:52] Yep, and that's a really good question, and there'll be times where you will not
+[00:07:56] find the original creator. There might be bad actors
+[00:07:59] overseas, for example, that would do this, and you might not be able to trace it
+[00:08:03] back. In nearly all of the cases that came to me,
+[00:08:07] they actually knew who the perpetrator was, because often when the image
+[00:08:11] is being used to target you like that, they want to have that kind of
+[00:08:14] embarrassment,
+[00:08:17] and they want that kind of overall harm to occur.
+[00:08:20] And they want you to know that they're doing this to you, which is actually quite
+[00:08:24] sadistic in that sense. So there is an
+[00:08:28] element of we will sometimes know who the perpetrator is, and there will be other
+[00:08:32] times that 100% we can't find out or trace who that is
+[00:08:35] because it might be they're using VPNs, they might be coming from different
+[00:08:39] jurisdictions, for example. In that case, though, I think
+[00:08:42] having a national register for hashing, in the future,
+[00:08:46] whether something we look at amending into this bill or something that a next
+[00:08:50] government looks at,
+[00:08:51] would mean at least those images or that footage, it now
+[00:08:55] has the ability to be found and taken down so quickly.
+[00:08:58] Because at the moment, a victim themselves has to actually
+[00:09:02] pay a license to have this done with another private company.
+[00:09:06] Unless, of course, it's child abuse material, which we do have that provision there
+[00:09:09] for.
+[00:09:12] I have a sup on that too, because as you've alluded to, some
+[00:09:16] of this can be foreign-
+[00:09:18] Mm-hmm
+[00:09:19] ... as well. So are you aware of any
+[00:09:24] willingness to cooperate internationally with some of our more traditional
+[00:09:28] partners in this cyberspace?
+[00:09:30] Yeah, look, I think that that work is starting now, given how prolific
+[00:09:34] this is.
+[00:09:35] I think that we can probably build on the networks that we already have, and it'd
+[00:09:38] be really interesting to hear from DIA about what kind of work that they do.
+[00:09:42] It's probably a key question that the committee could put towards them, to see if
+[00:09:45] they are doing any work in the deepfake space and working
+[00:09:48] internationally. What we have seen overseas is that there have been things like
+[00:09:52] websites established. There was something called Mr. Deepfakes.
+[00:09:56] Was a UK-based website where people were uploading deepfake
+[00:10:00] nudes
+[00:10:02] of people, usually exes and things like that.
+[00:10:05] And that ended up being tracked back to a pharmacist
+[00:10:09] in Singapore, who was actually held accountable that way because they worked
+[00:10:13] internationally to collaborate on it.
+[00:10:15] So look, I think it is happening, but I think it'd be really interesting to
+[00:10:19] know how New Zealand can be part of that.
+[00:10:21] And it's the same with that national register of hashing.
+[00:10:25] There is a way that we might be able to information share with that as well to try
+[00:10:28] and be able to cover a lot more ground in this area.
+[00:10:31] But it's moving, it's really quickly moving.
+[00:10:34] And I don't think any government's ever going to be fast enough to do enough,
+[00:10:38] but I think that doesn't mean we don't do anything.
+[00:10:41] Marie Manal.
+[00:10:42] Thank you, Laura.
+[00:10:44] Firstly, mihi atoanukea koe, bringing this through, Laura.
+[00:10:48] I'm interested in the harm piece, I guess,
+[00:10:53] and whether you've noticed or heard or know of anything
+[00:10:57] that's showing up for the harm young people
+[00:11:00] suicide contemplation.
+[00:11:02] Mm-hmm.
+[00:11:02] Do you know whether these are things-- Do you know as that
+[00:11:06] showed up anywhere in the research?
+[00:11:08] Look, I know of two cases. One
+[00:11:12] suicide in New Zealand. It wasn't just deepfaking, but definitely there was a
+[00:11:16] deepfaking element to it, and there was also one attempted suicide
+[00:11:20] by
+[00:11:21] a young girl, as young as she was only 13, so year nine.
+[00:11:24] So those are just the two that I've been made aware of, because whanau have
+[00:11:28] reached out. But look, I think because the type of graphic
+[00:11:32] images that young, particularly young girls, but I have had a couple of
+[00:11:36] young guys now as well, it is changing,
+[00:11:39] have found themselves in, it's usually
+[00:11:42] really horrible and things that they would never ever do.
+[00:11:45] And it's just really disgusting, and I
+[00:11:49] know sharing actual nudes that you have sent to someone in the past is horrible as
+[00:11:53] well. There is an element of
+[00:11:57] you know that these images could be out there.
+[00:11:59] With this, it's like you have absolutely no idea until somebody sends you a link.
+[00:12:03] And often people think they're real, and so that harm
+[00:12:07] just continues-
+[00:12:09] Which can be real challenging. And at the moment, I know there's a couple of
+[00:12:13] victims where their images are just still popping up continually, like time and
+[00:12:17] time again.
+[00:12:17] Yeah.
+[00:12:18] Yeah.
+[00:12:20] Just well done on bringing this bill, and broad support across
+[00:12:23] Parliament for it.
+[00:12:25] I guess maybe my question goes to the
+[00:12:30] acceleration of technology, which you touched on in your opening comments.
+[00:12:33] But I'm interested in what advice you got on why the Harmful Digital Communications
+[00:12:37] Act, which was enacted in 2015-
+[00:12:39] Mm
+[00:12:39] ... wasn't sufficient to address this particular issue, which
+[00:12:43] sort of AI is now enabling.
+[00:12:45] Yeah, look, I think 10 years, the landscape of AI has just changed
+[00:12:49] completely. Even in the last two years, the use of AI and
+[00:12:53] its ability to be able to do the things we actually want it to do is becoming more
+[00:12:57] and more credible, and it's easier to use.
+[00:13:00] There's a lot of open source information out there and free technology.
+[00:13:03] So I think, with all best intentions, when the Harmful Digital
+[00:13:07] Communications Act was established in 2015,
+[00:13:10] I think that it wasn't foreseeing
+[00:13:14] the age in which we would be living in now or the realities of what we're
+[00:13:18] living in now. And I think,
+[00:13:20] not to dismantle the HDCA, but there's a lot of areas where it's no longer, I
+[00:13:23] think, fit for purpose and probably needs a full review.
+[00:13:27] And that's on notice to the next parliament. Or the next minister in charge.
+[00:13:31] Yeah.
+[00:13:31] Yeah.
+[00:13:31] Can I ask one, Richard?
+[00:13:33] Sure.
+[00:13:34] Just about that, we've obviously had...
+[00:13:38] There's a lot of actors out there who've created these platforms, and it is
+[00:13:41] possible to stop this happening at source,
+[00:13:45] isn't it? We
+[00:13:47] found it with Elon Musk's one, where he actually had
+[00:13:51] to pull back on the capacity. This is stuff that
+[00:13:55] just is totally unacceptable, isn't it?
+[00:13:58] But we need to actually look at those sources.
+[00:14:01] Yeah, look, that's-
+[00:14:01] And say it's not okay to create this capacity.
+[00:14:05] Look, that is absolutely something that I think should be considered, not
+[00:14:09] necessarily with this bill, but in wider work around
+[00:14:12] the internet space. A couple of things, though.
+[00:14:15] When I deepfaked myself, I didn't need to go far to find it.
+[00:14:19] There was thousands of websites that you could do this on.
+[00:14:22] To try and put some kind of ban on this type of website and technology
+[00:14:26] would be a bit like playing whack-a-mole.
+[00:14:28] Doesn't mean you don't do it, but it could be really challenging.
+[00:14:31] The site that I ended up using didn't even mention nudity.
+[00:14:35] So to be able to
+[00:14:38] put some sort of blanket ban on a product or AI in order to stop
+[00:14:42] them having this function available would be really challenging.
+[00:14:46] In saying that, countries that have made it explicitly illegal to do
+[00:14:50] this,
+[00:14:51] there has been a change in, say, like the Apple Play Store
+[00:14:56] or the Samsung Play Store around apps that actually have this
+[00:14:59] ability being uploaded because they say, "Oh, it's illegal in this
+[00:15:03] jurisdiction to deepfake somebody into nude." So that you're seeing less and less
+[00:15:07] of them popping up. The same with, that Grok is a really good example.
+[00:15:11] Straightaway they said, "If it's illegal in a country, our product would've not
+[00:15:14] offered that." So while they shouldn't be offering that anyway,
+[00:15:18] that is definitely an argument. I think this is a first step in
+[00:15:22] starting that process, is saying that it's actually illegal to do this.
+[00:15:27] And then, yeah, you can look at the software, the technology later on.
+[00:15:30] But that is actually going to be really hard with AI, and how you do that in the
+[00:15:34] future, and how we manage it.
+[00:15:35] Thank you.
+[00:15:35] Yeah.
+[00:15:36] Two more questions. Maureen?
+[00:15:38] Just a very quick one, Laura.
+[00:15:41] So the bill talks about the creation of
+[00:15:45] the images.
+[00:15:45] Mm-hmm.
+[00:15:46] Is transmission of those images also part of what
+[00:15:50] you're trying to capture?
+[00:15:51] Yes, it should be. As it amends part of the Harmful Digital Communications Act to
+[00:15:55] do with revenge porn, that sharing aspect should be included, but I
+[00:15:59] think it's a really good question to check with advisors if it is.
+[00:16:03] But yeah, that would be the intention there, to include the sharing, because the
+[00:16:07] sharing is actually where the real harm actually occurs.
+[00:16:09] Mm-hmm.
+[00:16:09] Yeah. And the creating of it, you may not even know if someone's created it
+[00:16:13] of you, but the sharing is where you actually find
+[00:16:17] out if it's happened or not.
+[00:16:19] Yeah.
+[00:16:20] Last question. Martha.
+[00:16:21] Yeah, I wanted to ask about,
+[00:16:23] we were just touching on it in terms of the platforms themselves.
+[00:16:26] Mm-hmm.
+[00:16:27] And
+[00:16:28] the safeguards and regulations around what the platforms
+[00:16:34] deliver into New Zealand, and then what we can do to hold them
+[00:16:38] to account for having these enabling technologies.
+[00:16:41] Your bill doesn't address that, but-
+[00:16:43] Yeah
+[00:16:43] ... have you explored any of that?
+[00:16:45] Yeah, look, I haven't with this particular bill, but it's definitely forefront of
+[00:16:49] mind around what
+[00:16:51] are we going to do in the future. And I think a lot of this has been discussed with
+[00:16:55] the under-16 social media ban.
+[00:16:57] Is there going to be some sort of regulation of technology?
+[00:17:00] I think, globally, we are seeing changes in this space.
+[00:17:04] I think there's risks and there's opportunities there.
+[00:17:07] And so my answer would probably be quite political.
+[00:17:09] But I do think that there is going to need to be some kind of ethics with
+[00:17:13] AI.
+[00:17:14] And the AI, the technology that you're creating, if it can do these things on its
+[00:17:18] own free will, you can also pop parameters in there to stop it doing that.
+[00:17:21] So I think
+[00:17:23] that is probably a bigger picture, and it's something that I think MB
+[00:17:27] potentially should be looking at around AI and its regulation as well.
+[00:17:31] Not necessarily just platforms, but the whole landscape of AI.
+[00:17:35] Mm.
+[00:17:36] Well, thank you very much, Laura. Appreciate you coming in and talking to us.
+[00:17:39] Thank you. Yeah.
+[00:17:40] See you shortly.

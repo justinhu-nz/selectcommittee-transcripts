@@ -1,0 +1,1704 @@
+{
+  "language": "en-x-autogen",
+  "duration": 1060.49,
+  "segments": [
+    {
+      "start": 30.54,
+      "end": 31.66,
+      "text": "Right. Well, good morning and welcome."
+    },
+    {
+      "start": 32.56,
+      "end": 36.54,
+      "text": "We have Laura McClure before us this morning on the Deepfake,"
+    },
+    {
+      "start": 36.6,
+      "end": 39.4,
+      "text": "Digital Harm and Exploitation Bill. And welcome, Laura."
+    },
+    {
+      "start": 39.48,
+      "end": 40.8,
+      "text": "We have 15 minutes with you this morning."
+    },
+    {
+      "start": 41.4,
+      "end": 44.95,
+      "text": "You want to take us, the committee, through your bill, and"
+    },
+    {
+      "start": 45.1,
+      "end": 46.66,
+      "text": "if you wish to leave some time for questions."
+    },
+    {
+      "start": 47.38,
+      "end": 50.88,
+      "text": "Great. Well, thank you, Mr Chair, and thank you to the committee for having me"
+    },
+    {
+      "start": 50.96,
+      "end": 54.88,
+      "text": "today. Firstly, I just want to say thank you to all of those that have"
+    },
+    {
+      "start": 54.96,
+      "end": 58.36,
+      "text": "submitted on this bill. A lot of very detailed"
+    },
+    {
+      "start": 58.68,
+      "end": 62.62,
+      "text": "submissions, which is great. I think it's been well traversed"
+    },
+    {
+      "start": 62.66,
+      "end": 65.7,
+      "text": "in the House as to why I brought this legislation forward."
+    },
+    {
+      "start": 66.24,
+      "end": 70.2,
+      "text": "It's absolutely disgusting and abhorrent that someone can be"
+    },
+    {
+      "start": 70.36,
+      "end": 71.54,
+      "text": "deepfaked into"
+    },
+    {
+      "start": 72.4,
+      "end": 76.34,
+      "text": "pornography or sexually explicit material without their consent, and we know"
+    },
+    {
+      "start": 76.38,
+      "end": 78.96,
+      "text": "that this is increasing year on year."
+    },
+    {
+      "start": 80.06,
+      "end": 82.82,
+      "text": "96% of victims are female,"
+    },
+    {
+      "start": 83.62,
+      "end": 84.76,
+      "text": "which is quite alarming."
+    },
+    {
+      "start": 85.6,
+      "end": 89.06,
+      "text": "It's about a 200% increase year on year across"
+    },
+    {
+      "start": 89.12,
+      "end": 93.08,
+      "text": "Australia and the UK. We don't actually have a figure here in New Zealand because"
+    },
+    {
+      "start": 93.1,
+      "end": 96.75,
+      "text": "there's not specific data available, but it seems to be that we're"
+    },
+    {
+      "start": 96.78,
+      "end": 97.76,
+      "text": "following that trend."
+    },
+    {
+      "start": 98.7,
+      "end": 102.58,
+      "text": "Netsafe have reported that they receive daily calls"
+    },
+    {
+      "start": 102.68,
+      "end": 106.0,
+      "text": "about deepfaking, which I think is quite alarming in itself."
+    },
+    {
+      "start": 106.5,
+      "end": 110.22,
+      "text": "There's currently limited or no support for victims, because"
+    },
+    {
+      "start": 110.26,
+      "end": 112.88,
+      "text": "until somebody is effectively charged,"
+    },
+    {
+      "start": 114.1,
+      "end": 117.98,
+      "text": "that doesn't kick in, which I think is a huge reason as to why we need to do"
+    },
+    {
+      "start": 118.02,
+      "end": 118.88,
+      "text": "something in this space."
+    },
+    {
+      "start": 119.68,
+      "end": 123.6,
+      "text": "Under the current Harmful Digital Communications Act, there are provisions"
+    },
+    {
+      "start": 123.66,
+      "end": 127.12,
+      "text": "to be able to proceed with this type of"
+    },
+    {
+      "start": 127.44,
+      "end": 131.08,
+      "text": "harm through the court process. But what we've found is because"
+    },
+    {
+      "start": 131.12,
+      "end": 135.04,
+      "text": "deepfaking or artificially created imagery"
+    },
+    {
+      "start": 135.1,
+      "end": 138.69,
+      "text": "is actually left silent within the legislation, given the Harmful Digital"
+    },
+    {
+      "start": 138.72,
+      "end": 140.56,
+      "text": "Communications Act is nearly 10 years old,"
+    },
+    {
+      "start": 141.9,
+      "end": 144.88,
+      "text": "it becomes challenging and difficult to get a prosecution."
+    },
+    {
+      "start": 144.96,
+      "end": 146.79,
+      "text": "So it appears that police,"
+    },
+    {
+      "start": 148.26,
+      "end": 152.12,
+      "text": "certainly in some of the cases that I'm aware of, don't tend to take this"
+    },
+    {
+      "start": 152.26,
+      "end": 155.56,
+      "text": "any further. There was a case earlier this year"
+    },
+    {
+      "start": 156.26,
+      "end": 156.44,
+      "text": "where"
+    },
+    {
+      "start": 157.74,
+      "end": 161.64,
+      "text": "four young female victims managed to take a case,"
+    },
+    {
+      "start": 161.72,
+      "end": 165.34,
+      "text": "and there was a prosecution under Harmful Digital Communications Act."
+    },
+    {
+      "start": 165.38,
+      "end": 168.98,
+      "text": "The issue is, is because it's not explicitly a crime in the Crimes Act, you have"
+    },
+    {
+      "start": 169.02,
+      "end": 172.68,
+      "text": "to prove that harm and that intention to harm, and it becomes really tricky."
+    },
+    {
+      "start": 173.02,
+      "end": 176.86,
+      "text": "And in fact, it was the victim's family herself that actually gathered"
+    },
+    {
+      "start": 176.96,
+      "end": 177.88,
+      "text": "all the information"
+    },
+    {
+      "start": 178.76,
+      "end": 182.66,
+      "text": "to build the case, and the victims were very fortunate to have that"
+    },
+    {
+      "start": 182.72,
+      "end": 183.04,
+      "text": "family"
+    },
+    {
+      "start": 183.92,
+      "end": 185.18,
+      "text": "available to be able to do that."
+    },
+    {
+      "start": 187.06,
+      "end": 190.08,
+      "text": "Given that there's been a whole bunch of submissions on the bill, I think that"
+    },
+    {
+      "start": 190.12,
+      "end": 193.8,
+      "text": "there is definitely some little concerns about the wording that I think the Select"
+    },
+    {
+      "start": 193.86,
+      "end": 194.9,
+      "text": "Committee should look into."
+    },
+    {
+      "start": 196.18,
+      "end": 199.37,
+      "text": "Why it's important that we change both the Crimes Act and the Harmful Digital"
+    },
+    {
+      "start": 199.42,
+      "end": 203.36,
+      "text": "Communications Act, I think, is the point around making it explicitly clear"
+    },
+    {
+      "start": 203.4,
+      "end": 207.36,
+      "text": "to do this is in fact a crime, so you don't have to prove"
+    },
+    {
+      "start": 207.4,
+      "end": 210.4,
+      "text": "that harm factor the same way that you would have to right now."
+    },
+    {
+      "start": 211.24,
+      "end": 215.0,
+      "text": "I think it's also important to note that in New Zealand we don't have a"
+    },
+    {
+      "start": 215.44,
+      "end": 218.06,
+      "text": "hashing system or a national register for hashing."
+    },
+    {
+      "start": 218.62,
+      "end": 222.3,
+      "text": "And what that means is if your image, whether it's real or not"
+    },
+    {
+      "start": 222.38,
+      "end": 224.88,
+      "text": "real, is shared without your consent online,"
+    },
+    {
+      "start": 225.68,
+      "end": 228.86,
+      "text": "you can talk with Netsafe about getting a takedown notice."
+    },
+    {
+      "start": 229.02,
+      "end": 232.98,
+      "text": "But there is no register around having an image hashed and"
+    },
+    {
+      "start": 233.02,
+      "end": 236.96,
+      "text": "put into a system to keep that image from"
+    },
+    {
+      "start": 236.98,
+      "end": 240.42,
+      "text": "not appearing again and again. And other countries have actually moved to do that."
+    },
+    {
+      "start": 240.5,
+      "end": 243.52,
+      "text": "So I think while my bill doesn't do that, it's something that I think we should"
+    },
+    {
+      "start": 243.56,
+      "end": 244.56,
+      "text": "look at and consider."
+    },
+    {
+      "start": 245.48,
+      "end": 249.16,
+      "text": "Lots of the submissions talked about wider changes around deepfaking."
+    },
+    {
+      "start": 249.5,
+      "end": 253.36,
+      "text": "There's a lot of concerns about fraudulent behavior and the negative"
+    },
+    {
+      "start": 253.42,
+      "end": 255.4,
+      "text": "impacts of deepfaking in general."
+    },
+    {
+      "start": 255.96,
+      "end": 259.94,
+      "text": "My bill doesn't address that because it addresses just a really small"
+    },
+    {
+      "start": 259.98,
+      "end": 261.61,
+      "text": "section, given that it's a member's bill,"
+    },
+    {
+      "start": 262.46,
+      "end": 265.02,
+      "text": "around deepfaking into pornography."
+    },
+    {
+      "start": 265.06,
+      "end": 268.86,
+      "text": "In order to widen the scope, that would be a massive piece of work as"
+    },
+    {
+      "start": 268.9,
+      "end": 272.14,
+      "text": "well beyond the piece of work that we're looking at now."
+    },
+    {
+      "start": 272.18,
+      "end": 275.37,
+      "text": "So while I think future governments will have to grapple with that and deal with"
+    },
+    {
+      "start": 275.42,
+      "end": 278.42,
+      "text": "that, I don't believe that we should be expanding the scope of this bill."
+    },
+    {
+      "start": 278.5,
+      "end": 282.16,
+      "text": "So I'm going to leave it up for questions now, and if anyone's got anything they'd"
+    },
+    {
+      "start": 282.2,
+      "end": 282.41,
+      "text": "like to ask."
+    },
+    {
+      "start": 282.44,
+      "end": 283.5,
+      "text": "Thank you. Rachel. Helen."
+    },
+    {
+      "start": 283.68,
+      "end": 286.92,
+      "text": "Great. So it's more about this is a great bill."
+    },
+    {
+      "start": 287.02,
+      "end": 289.68,
+      "text": "It's obviously necessary. Do you think"
+    },
+    {
+      "start": 290.66,
+      "end": 292.08,
+      "text": "from what you've seen,"
+    },
+    {
+      "start": 293.28,
+      "end": 296.53,
+      "text": "I think there was a discussion about this in the Labor government about"
+    },
+    {
+      "start": 297.06,
+      "end": 300.42,
+      "text": "adding this to a bill. Do you think there's been a growth, and"
+    },
+    {
+      "start": 300.5,
+      "end": 304.28,
+      "text": "how much of a growth has there been in this"
+    },
+    {
+      "start": 304.34,
+      "end": 305.86,
+      "text": "kind of behavior?"
+    },
+    {
+      "start": 306.48,
+      "end": 310.42,
+      "text": "Yeah, look, I think it's undoubtable that this kind of behavior is growing year"
+    },
+    {
+      "start": 310.44,
+      "end": 313.8,
+      "text": "on year as AI advances. And AI is amazing."
+    },
+    {
+      "start": 313.84,
+      "end": 316.06,
+      "text": "There's lots of great things that we can do with AI."
+    },
+    {
+      "start": 316.46,
+      "end": 320.24,
+      "text": "There's always going to be bad actors that use technology to harm or abuse other"
+    },
+    {
+      "start": 320.28,
+      "end": 323.8,
+      "text": "people. And I think as the technology's getting better and better, we're"
+    },
+    {
+      "start": 323.86,
+      "end": 327.2,
+      "text": "seeing rises in this kind of crime for sure."
+    },
+    {
+      "start": 327.62,
+      "end": 331.34,
+      "text": "I think at the 2022 changes to revenge porn, it"
+    },
+    {
+      "start": 331.42,
+      "end": 335.04,
+      "text": "was discussed about adding in AI. I think"
+    },
+    {
+      "start": 335.12,
+      "end": 339.08,
+      "text": "actually Golriz from the Greens actually put in an amendment, which"
+    },
+    {
+      "start": 339.12,
+      "end": 339.9,
+      "text": "wasn't actually"
+    },
+    {
+      "start": 341.52,
+      "end": 345.24,
+      "text": "voted for in the end. But I know that it was something that quite a few"
+    },
+    {
+      "start": 345.3,
+      "end": 348.94,
+      "text": "members did allude to needing something like this in the"
+    },
+    {
+      "start": 348.98,
+      "end": 352.88,
+      "text": "future. So 100%, I just think our laws have not kept up with the pace in"
+    },
+    {
+      "start": 352.92,
+      "end": 356.82,
+      "text": "which this is happening, and I think to be really clear, this is not just"
+    },
+    {
+      "start": 356.88,
+      "end": 357.04,
+      "text": "like"
+    },
+    {
+      "start": 358.22,
+      "end": 361.06,
+      "text": "... a what you'd call an old Photoshop, a head onto someone else's body."
+    },
+    {
+      "start": 361.16,
+      "end": 365.14,
+      "text": "This is actually creating imagery that is so real that the"
+    },
+    {
+      "start": 365.22,
+      "end": 369.0,
+      "text": "only person that knows that this is fake, or the only people, is the person who"
+    },
+    {
+      "start": 369.04,
+      "end": 371.32,
+      "text": "created it and the victim. It's so realistic."
+    },
+    {
+      "start": 371.48,
+      "end": 375.16,
+      "text": "Can I ask you, I know that a member's bill's narrow, but can I ask you about"
+    },
+    {
+      "start": 375.24,
+      "end": 376.7,
+      "text": "education in this area?"
+    },
+    {
+      "start": 377.04,
+      "end": 377.07,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 377.48,
+      "end": 381.18,
+      "text": "Often these young people are doing this to each other at a really"
+    },
+    {
+      "start": 381.24,
+      "end": 382.1,
+      "text": "early age."
+    },
+    {
+      "start": 382.34,
+      "end": 382.53,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 383.28,
+      "end": 386.76,
+      "text": "Can you give me your views on whether we should be doing something to"
+    },
+    {
+      "start": 386.82,
+      "end": 388.69,
+      "text": "expand education in this area?"
+    },
+    {
+      "start": 388.76,
+      "end": 392.62,
+      "text": "Yeah, look, absolutely. I think education hasn't kept up with pace with"
+    },
+    {
+      "start": 392.66,
+      "end": 395.94,
+      "text": "the online world, whether it's social media use, whether it's"
+    },
+    {
+      "start": 396.54,
+      "end": 398.36,
+      "text": "deepfaking, all of these kind of things."
+    },
+    {
+      "start": 398.5,
+      "end": 400.9,
+      "text": "I think that is something that we should look into."
+    },
+    {
+      "start": 400.98,
+      "end": 402.34,
+      "text": "This bill, however, doesn't do that."
+    },
+    {
+      "start": 402.38,
+      "end": 406.26,
+      "text": "It just changes the act to make this a criminal behavior."
+    },
+    {
+      "start": 406.62,
+      "end": 410.52,
+      "text": "But I think why it's important to do that is I don't expect to see kids being"
+    },
+    {
+      "start": 410.62,
+      "end": 414.14,
+      "text": "locked up in jail for deepfaking a peer, for example."
+    },
+    {
+      "start": 414.4,
+      "end": 416.59,
+      "text": "But what it will do is set the standard,"
+    },
+    {
+      "start": 417.54,
+      "end": 421.26,
+      "text": "to say that this is so harmful that we consider it illegal."
+    },
+    {
+      "start": 421.29,
+      "end": 424.58,
+      "text": "And that in itself is really effective, and we know with revenge porn,"
+    },
+    {
+      "start": 425.62,
+      "end": 429.42,
+      "text": "that we saw when that legislation came in, an initial spike in"
+    },
+    {
+      "start": 430.18,
+      "end": 432.32,
+      "text": "some convictions, and it's dropped right off now."
+    },
+    {
+      "start": 432.34,
+      "end": 435.59,
+      "text": "Because I think young people know that if somebody shares your"
+    },
+    {
+      "start": 435.72,
+      "end": 439.26,
+      "text": "nude, to share that on with someone else or to keep it and do something with it"
+    },
+    {
+      "start": 439.3,
+      "end": 441.94,
+      "text": "later on is actually really harmful and really illegal."
+    },
+    {
+      "start": 442.02,
+      "end": 445.7,
+      "text": "So I think that this is, in a way, is about sending a signal as well,"
+    },
+    {
+      "start": 445.96,
+      "end": 449.62,
+      "text": "not just making it there's some kind of criminal"
+    },
+    {
+      "start": 449.7,
+      "end": 450.68,
+      "text": "liability there as well."
+    },
+    {
+      "start": 451.16,
+      "end": 451.76,
+      "text": "Thank you."
+    },
+    {
+      "start": 452.28,
+      "end": 453.38,
+      "text": "Maureen."
+    },
+    {
+      "start": 453.76,
+      "end": 454.36,
+      "text": "Thanks, Laura."
+    },
+    {
+      "start": 455.54,
+      "end": 459.42,
+      "text": "I'm wondering about how these images"
+    },
+    {
+      "start": 459.62,
+      "end": 461.68,
+      "text": "are monitored or discovered."
+    },
+    {
+      "start": 461.84,
+      "end": 461.99,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 462.21,
+      "end": 465.38,
+      "text": "Because given the speed at which these things can be"
+    },
+    {
+      "start": 465.42,
+      "end": 469.31,
+      "text": "transmitted, how do you find the creator, the"
+    },
+    {
+      "start": 469.36,
+      "end": 472.66,
+      "text": "original creator of this, to hold them to task?"
+    },
+    {
+      "start": 472.86,
+      "end": 475.98,
+      "text": "Yep, and that's a really good question, and there'll be times where you will not"
+    },
+    {
+      "start": 476.06,
+      "end": 479.75,
+      "text": "find the original creator. There might be bad actors"
+    },
+    {
+      "start": 479.86,
+      "end": 483.3,
+      "text": "overseas, for example, that would do this, and you might not be able to trace it"
+    },
+    {
+      "start": 483.34,
+      "end": 487.24,
+      "text": "back. In nearly all of the cases that came to me,"
+    },
+    {
+      "start": 487.68,
+      "end": 491.6,
+      "text": "they actually knew who the perpetrator was, because often when the image"
+    },
+    {
+      "start": 491.64,
+      "end": 494.86,
+      "text": "is being used to target you like that, they want to have that kind of"
+    },
+    {
+      "start": 494.88,
+      "end": 495.78,
+      "text": "embarrassment,"
+    },
+    {
+      "start": 497.14,
+      "end": 500.84,
+      "text": "and they want that kind of overall harm to occur."
+    },
+    {
+      "start": 500.92,
+      "end": 504.84,
+      "text": "And they want you to know that they're doing this to you, which is actually quite"
+    },
+    {
+      "start": 504.88,
+      "end": 508.66,
+      "text": "sadistic in that sense. So there is an"
+    },
+    {
+      "start": 508.7,
+      "end": 512.4,
+      "text": "element of we will sometimes know who the perpetrator is, and there will be other"
+    },
+    {
+      "start": 512.44,
+      "end": 515.8,
+      "text": "times that 100% we can't find out or trace who that is"
+    },
+    {
+      "start": 515.87,
+      "end": 519.06,
+      "text": "because it might be they're using VPNs, they might be coming from different"
+    },
+    {
+      "start": 519.11,
+      "end": 522.69,
+      "text": "jurisdictions, for example. In that case, though, I think"
+    },
+    {
+      "start": 522.74,
+      "end": 526.29,
+      "text": "having a national register for hashing, in the future,"
+    },
+    {
+      "start": 526.32,
+      "end": 530.14,
+      "text": "whether something we look at amending into this bill or something that a next"
+    },
+    {
+      "start": 530.18,
+      "end": 531.02,
+      "text": "government looks at,"
+    },
+    {
+      "start": 531.98,
+      "end": 535.7,
+      "text": "would mean at least those images or that footage, it now"
+    },
+    {
+      "start": 535.76,
+      "end": 538.46,
+      "text": "has the ability to be found and taken down so quickly."
+    },
+    {
+      "start": 538.88,
+      "end": 542.56,
+      "text": "Because at the moment, a victim themselves has to actually"
+    },
+    {
+      "start": 542.58,
+      "end": 546.06,
+      "text": "pay a license to have this done with another private company."
+    },
+    {
+      "start": 546.12,
+      "end": 549.74,
+      "text": "Unless, of course, it's child abuse material, which we do have that provision there"
+    },
+    {
+      "start": 549.78,
+      "end": 549.98,
+      "text": "for."
+    },
+    {
+      "start": 552.5,
+      "end": 556.38,
+      "text": "I have a sup on that too, because as you've alluded to, some"
+    },
+    {
+      "start": 556.42,
+      "end": 558.0,
+      "text": "of this can be foreign-"
+    },
+    {
+      "start": 558.36,
+      "end": 558.56,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 559.32,
+      "end": 563.22,
+      "text": "... as well. So are you aware of any"
+    },
+    {
+      "start": 564.12,
+      "end": 568.06,
+      "text": "willingness to cooperate internationally with some of our more traditional"
+    },
+    {
+      "start": 568.08,
+      "end": 569.54,
+      "text": "partners in this cyberspace?"
+    },
+    {
+      "start": 570.2,
+      "end": 574.12,
+      "text": "Yeah, look, I think that that work is starting now, given how prolific"
+    },
+    {
+      "start": 574.13,
+      "end": 574.62,
+      "text": "this is."
+    },
+    {
+      "start": 575.6,
+      "end": 578.48,
+      "text": "I think that we can probably build on the networks that we already have, and it'd"
+    },
+    {
+      "start": 578.5,
+      "end": 582.3,
+      "text": "be really interesting to hear from DIA about what kind of work that they do."
+    },
+    {
+      "start": 582.44,
+      "end": 585.62,
+      "text": "It's probably a key question that the committee could put towards them, to see if"
+    },
+    {
+      "start": 585.66,
+      "end": 588.73,
+      "text": "they are doing any work in the deepfake space and working"
+    },
+    {
+      "start": 588.78,
+      "end": 592.77,
+      "text": "internationally. What we have seen overseas is that there have been things like"
+    },
+    {
+      "start": 592.8,
+      "end": 595.67,
+      "text": "websites established. There was something called Mr. Deepfakes."
+    },
+    {
+      "start": 596.8,
+      "end": 600.38,
+      "text": "Was a UK-based website where people were uploading deepfake"
+    },
+    {
+      "start": 600.44,
+      "end": 600.84,
+      "text": "nudes"
+    },
+    {
+      "start": 602.08,
+      "end": 605.72,
+      "text": "of people, usually exes and things like that."
+    },
+    {
+      "start": 605.82,
+      "end": 609.74,
+      "text": "And that ended up being tracked back to a pharmacist"
+    },
+    {
+      "start": 609.78,
+      "end": 613.58,
+      "text": "in Singapore, who was actually held accountable that way because they worked"
+    },
+    {
+      "start": 613.62,
+      "end": 615.28,
+      "text": "internationally to collaborate on it."
+    },
+    {
+      "start": 615.36,
+      "end": 619.22,
+      "text": "So look, I think it is happening, but I think it'd be really interesting to"
+    },
+    {
+      "start": 619.24,
+      "end": 621.76,
+      "text": "know how New Zealand can be part of that."
+    },
+    {
+      "start": 621.86,
+      "end": 624.86,
+      "text": "And it's the same with that national register of hashing."
+    },
+    {
+      "start": 625.76,
+      "end": 628.76,
+      "text": "There is a way that we might be able to information share with that as well to try"
+    },
+    {
+      "start": 628.78,
+      "end": 631.72,
+      "text": "and be able to cover a lot more ground in this area."
+    },
+    {
+      "start": 631.8,
+      "end": 633.7,
+      "text": "But it's moving, it's really quickly moving."
+    },
+    {
+      "start": 634.28,
+      "end": 638.26,
+      "text": "And I don't think any government's ever going to be fast enough to do enough,"
+    },
+    {
+      "start": 638.44,
+      "end": 640.32,
+      "text": "but I think that doesn't mean we don't do anything."
+    },
+    {
+      "start": 641.08,
+      "end": 641.52,
+      "text": "Marie Manal."
+    },
+    {
+      "start": 642.34,
+      "end": 643.4,
+      "text": "Thank you, Laura."
+    },
+    {
+      "start": 644.98,
+      "end": 647.62,
+      "text": "Firstly, mihi atoanukea koe, bringing this through, Laura."
+    },
+    {
+      "start": 648.22,
+      "end": 651.94,
+      "text": "I'm interested in the harm piece, I guess,"
+    },
+    {
+      "start": 653.16,
+      "end": 656.96,
+      "text": "and whether you've noticed or heard or know of anything"
+    },
+    {
+      "start": 657.0,
+      "end": 660.28,
+      "text": "that's showing up for the harm young people"
+    },
+    {
+      "start": 660.74,
+      "end": 662.3,
+      "text": "suicide contemplation."
+    },
+    {
+      "start": 662.44,
+      "end": 662.64,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 662.72,
+      "end": 666.48,
+      "text": "Do you know whether these are things-- Do you know as that"
+    },
+    {
+      "start": 666.52,
+      "end": 668.46,
+      "text": "showed up anywhere in the research?"
+    },
+    {
+      "start": 668.54,
+      "end": 672.29,
+      "text": "Look, I know of two cases. One"
+    },
+    {
+      "start": 672.34,
+      "end": 676.32,
+      "text": "suicide in New Zealand. It wasn't just deepfaking, but definitely there was a"
+    },
+    {
+      "start": 676.36,
+      "end": 680.18,
+      "text": "deepfaking element to it, and there was also one attempted suicide"
+    },
+    {
+      "start": 680.22,
+      "end": 680.4,
+      "text": "by"
+    },
+    {
+      "start": 681.68,
+      "end": 684.38,
+      "text": "a young girl, as young as she was only 13, so year nine."
+    },
+    {
+      "start": 684.86,
+      "end": 688.76,
+      "text": "So those are just the two that I've been made aware of, because whanau have"
+    },
+    {
+      "start": 688.78,
+      "end": 692.72,
+      "text": "reached out. But look, I think because the type of graphic"
+    },
+    {
+      "start": 692.76,
+      "end": 696.58,
+      "text": "images that young, particularly young girls, but I have had a couple of"
+    },
+    {
+      "start": 696.64,
+      "end": 698.76,
+      "text": "young guys now as well, it is changing,"
+    },
+    {
+      "start": 699.94,
+      "end": 701.61,
+      "text": "have found themselves in, it's usually"
+    },
+    {
+      "start": 702.48,
+      "end": 705.78,
+      "text": "really horrible and things that they would never ever do."
+    },
+    {
+      "start": 705.86,
+      "end": 709.74,
+      "text": "And it's just really disgusting, and I"
+    },
+    {
+      "start": 709.8,
+      "end": 713.58,
+      "text": "know sharing actual nudes that you have sent to someone in the past is horrible as"
+    },
+    {
+      "start": 713.62,
+      "end": 716.06,
+      "text": "well. There is an element of"
+    },
+    {
+      "start": 717.7,
+      "end": 719.2,
+      "text": "you know that these images could be out there."
+    },
+    {
+      "start": 719.28,
+      "end": 723.1,
+      "text": "With this, it's like you have absolutely no idea until somebody sends you a link."
+    },
+    {
+      "start": 723.66,
+      "end": 727.02,
+      "text": "And often people think they're real, and so that harm"
+    },
+    {
+      "start": 727.08,
+      "end": 728.29,
+      "text": "just continues-"
+    },
+    {
+      "start": 729.25,
+      "end": 732.97,
+      "text": "Which can be real challenging. And at the moment, I know there's a couple of"
+    },
+    {
+      "start": 733.01,
+      "end": 736.99,
+      "text": "victims where their images are just still popping up continually, like time and"
+    },
+    {
+      "start": 737.05,
+      "end": 737.51,
+      "text": "time again."
+    },
+    {
+      "start": 737.99,
+      "end": 738.41,
+      "text": "Yeah."
+    },
+    {
+      "start": 738.45,
+      "end": 738.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 740.31,
+      "end": 743.93,
+      "text": "Just well done on bringing this bill, and broad support across"
+    },
+    {
+      "start": 743.99,
+      "end": 744.61,
+      "text": "Parliament for it."
+    },
+    {
+      "start": 745.67,
+      "end": 749.44,
+      "text": "I guess maybe my question goes to the"
+    },
+    {
+      "start": 750.07,
+      "end": 752.75,
+      "text": "acceleration of technology, which you touched on in your opening comments."
+    },
+    {
+      "start": 753.21,
+      "end": 757.06,
+      "text": "But I'm interested in what advice you got on why the Harmful Digital Communications"
+    },
+    {
+      "start": 757.15,
+      "end": 759.29,
+      "text": "Act, which was enacted in 2015-"
+    },
+    {
+      "start": 759.57,
+      "end": 759.62,
+      "text": "Mm"
+    },
+    {
+      "start": 759.77,
+      "end": 763.61,
+      "text": "... wasn't sufficient to address this particular issue, which"
+    },
+    {
+      "start": 763.69,
+      "end": 765.01,
+      "text": "sort of AI is now enabling."
+    },
+    {
+      "start": 765.63,
+      "end": 769.39,
+      "text": "Yeah, look, I think 10 years, the landscape of AI has just changed"
+    },
+    {
+      "start": 769.43,
+      "end": 773.35,
+      "text": "completely. Even in the last two years, the use of AI and"
+    },
+    {
+      "start": 773.41,
+      "end": 777.25,
+      "text": "its ability to be able to do the things we actually want it to do is becoming more"
+    },
+    {
+      "start": 777.27,
+      "end": 779.61,
+      "text": "and more credible, and it's easier to use."
+    },
+    {
+      "start": 780.05,
+      "end": 783.09,
+      "text": "There's a lot of open source information out there and free technology."
+    },
+    {
+      "start": 783.57,
+      "end": 787.16,
+      "text": "So I think, with all best intentions, when the Harmful Digital"
+    },
+    {
+      "start": 787.23,
+      "end": 789.47,
+      "text": "Communications Act was established in 2015,"
+    },
+    {
+      "start": 790.31,
+      "end": 793.79,
+      "text": "I think that it wasn't foreseeing"
+    },
+    {
+      "start": 794.17,
+      "end": 798.13,
+      "text": "the age in which we would be living in now or the realities of what we're"
+    },
+    {
+      "start": 798.15,
+      "end": 799.17,
+      "text": "living in now. And I think,"
+    },
+    {
+      "start": 800.01,
+      "end": 803.77,
+      "text": "not to dismantle the HDCA, but there's a lot of areas where it's no longer, I"
+    },
+    {
+      "start": 803.81,
+      "end": 806.39,
+      "text": "think, fit for purpose and probably needs a full review."
+    },
+    {
+      "start": 807.47,
+      "end": 811.03,
+      "text": "And that's on notice to the next parliament. Or the next minister in charge."
+    },
+    {
+      "start": 811.37,
+      "end": 811.59,
+      "text": "Yeah."
+    },
+    {
+      "start": 811.61,
+      "end": 811.67,
+      "text": "Yeah."
+    },
+    {
+      "start": 811.81,
+      "end": 812.3,
+      "text": "Can I ask one, Richard?"
+    },
+    {
+      "start": 813.39,
+      "end": 813.59,
+      "text": "Sure."
+    },
+    {
+      "start": 814.27,
+      "end": 816.33,
+      "text": "Just about that, we've obviously had..."
+    },
+    {
+      "start": 818.05,
+      "end": 821.77,
+      "text": "There's a lot of actors out there who've created these platforms, and it is"
+    },
+    {
+      "start": 821.87,
+      "end": 825.69,
+      "text": "possible to stop this happening at source,"
+    },
+    {
+      "start": 825.75,
+      "end": 826.69,
+      "text": "isn't it? We"
+    },
+    {
+      "start": 827.93,
+      "end": 831.77,
+      "text": "found it with Elon Musk's one, where he actually had"
+    },
+    {
+      "start": 831.85,
+      "end": 835.57,
+      "text": "to pull back on the capacity. This is stuff that"
+    },
+    {
+      "start": 835.63,
+      "end": 838.01,
+      "text": "just is totally unacceptable, isn't it?"
+    },
+    {
+      "start": 838.35,
+      "end": 841.17,
+      "text": "But we need to actually look at those sources."
+    },
+    {
+      "start": 841.45,
+      "end": 841.88,
+      "text": "Yeah, look, that's-"
+    },
+    {
+      "start": 841.88,
+      "end": 844.67,
+      "text": "And say it's not okay to create this capacity."
+    },
+    {
+      "start": 845.09,
+      "end": 848.97,
+      "text": "Look, that is absolutely something that I think should be considered, not"
+    },
+    {
+      "start": 849.01,
+      "end": 852.01,
+      "text": "necessarily with this bill, but in wider work around"
+    },
+    {
+      "start": 852.83,
+      "end": 855.31,
+      "text": "the internet space. A couple of things, though."
+    },
+    {
+      "start": 855.61,
+      "end": 858.97,
+      "text": "When I deepfaked myself, I didn't need to go far to find it."
+    },
+    {
+      "start": 859.03,
+      "end": 861.71,
+      "text": "There was thousands of websites that you could do this on."
+    },
+    {
+      "start": 862.83,
+      "end": 866.75,
+      "text": "To try and put some kind of ban on this type of website and technology"
+    },
+    {
+      "start": 866.85,
+      "end": 868.55,
+      "text": "would be a bit like playing whack-a-mole."
+    },
+    {
+      "start": 868.83,
+      "end": 871.19,
+      "text": "Doesn't mean you don't do it, but it could be really challenging."
+    },
+    {
+      "start": 871.54,
+      "end": 874.67,
+      "text": "The site that I ended up using didn't even mention nudity."
+    },
+    {
+      "start": 875.19,
+      "end": 876.69,
+      "text": "So to be able to"
+    },
+    {
+      "start": 878.27,
+      "end": 882.13,
+      "text": "put some sort of blanket ban on a product or AI in order to stop"
+    },
+    {
+      "start": 882.18,
+      "end": 885.55,
+      "text": "them having this function available would be really challenging."
+    },
+    {
+      "start": 886.01,
+      "end": 889.97,
+      "text": "In saying that, countries that have made it explicitly illegal to do"
+    },
+    {
+      "start": 890.03,
+      "end": 890.31,
+      "text": "this,"
+    },
+    {
+      "start": 891.93,
+      "end": 895.71,
+      "text": "there has been a change in, say, like the Apple Play Store"
+    },
+    {
+      "start": 896.27,
+      "end": 899.83,
+      "text": "or the Samsung Play Store around apps that actually have this"
+    },
+    {
+      "start": 899.91,
+      "end": 903.19,
+      "text": "ability being uploaded because they say, \"Oh, it's illegal in this"
+    },
+    {
+      "start": 903.49,
+      "end": 907.35,
+      "text": "jurisdiction to deepfake somebody into nude.\" So that you're seeing less and less"
+    },
+    {
+      "start": 907.39,
+      "end": 911.13,
+      "text": "of them popping up. The same with, that Grok is a really good example."
+    },
+    {
+      "start": 911.63,
+      "end": 914.81,
+      "text": "Straightaway they said, \"If it's illegal in a country, our product would've not"
+    },
+    {
+      "start": 914.87,
+      "end": 918.01,
+      "text": "offered that.\" So while they shouldn't be offering that anyway,"
+    },
+    {
+      "start": 918.79,
+      "end": 922.29,
+      "text": "that is definitely an argument. I think this is a first step in"
+    },
+    {
+      "start": 922.87,
+      "end": 926.43,
+      "text": "starting that process, is saying that it's actually illegal to do this."
+    },
+    {
+      "start": 927.41,
+      "end": 930.51,
+      "text": "And then, yeah, you can look at the software, the technology later on."
+    },
+    {
+      "start": 930.59,
+      "end": 934.43,
+      "text": "But that is actually going to be really hard with AI, and how you do that in the"
+    },
+    {
+      "start": 934.49,
+      "end": 935.62,
+      "text": "future, and how we manage it."
+    },
+    {
+      "start": 935.93,
+      "end": 935.94,
+      "text": "Thank you."
+    },
+    {
+      "start": 935.97,
+      "end": 936.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 936.75,
+      "end": 937.68,
+      "text": "Two more questions. Maureen?"
+    },
+    {
+      "start": 938.21,
+      "end": 939.91,
+      "text": "Just a very quick one, Laura."
+    },
+    {
+      "start": 941.15,
+      "end": 945.07,
+      "text": "So the bill talks about the creation of"
+    },
+    {
+      "start": 945.13,
+      "end": 945.87,
+      "text": "the images."
+    },
+    {
+      "start": 945.99,
+      "end": 946.19,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 946.57,
+      "end": 950.41,
+      "text": "Is transmission of those images also part of what"
+    },
+    {
+      "start": 950.43,
+      "end": 951.33,
+      "text": "you're trying to capture?"
+    },
+    {
+      "start": 951.85,
+      "end": 955.79,
+      "text": "Yes, it should be. As it amends part of the Harmful Digital Communications Act to"
+    },
+    {
+      "start": 955.83,
+      "end": 959.67,
+      "text": "do with revenge porn, that sharing aspect should be included, but I"
+    },
+    {
+      "start": 959.71,
+      "end": 962.39,
+      "text": "think it's a really good question to check with advisors if it is."
+    },
+    {
+      "start": 963.26,
+      "end": 967.01,
+      "text": "But yeah, that would be the intention there, to include the sharing, because the"
+    },
+    {
+      "start": 967.03,
+      "end": 969.79,
+      "text": "sharing is actually where the real harm actually occurs."
+    },
+    {
+      "start": 969.83,
+      "end": 969.97,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 969.99,
+      "end": 973.95,
+      "text": "Yeah. And the creating of it, you may not even know if someone's created it"
+    },
+    {
+      "start": 973.99,
+      "end": 977.89,
+      "text": "of you, but the sharing is where you actually find"
+    },
+    {
+      "start": 977.93,
+      "end": 979.39,
+      "text": "out if it's happened or not."
+    },
+    {
+      "start": 979.53,
+      "end": 980.07,
+      "text": "Yeah."
+    },
+    {
+      "start": 980.09,
+      "end": 980.85,
+      "text": "Last question. Martha."
+    },
+    {
+      "start": 981.21,
+      "end": 982.27,
+      "text": "Yeah, I wanted to ask about,"
+    },
+    {
+      "start": 983.19,
+      "end": 986.85,
+      "text": "we were just touching on it in terms of the platforms themselves."
+    },
+    {
+      "start": 986.9,
+      "end": 987.01,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 987.51,
+      "end": 987.93,
+      "text": "And"
+    },
+    {
+      "start": 988.91,
+      "end": 992.85,
+      "text": "the safeguards and regulations around what the platforms"
+    },
+    {
+      "start": 994.13,
+      "end": 998.11,
+      "text": "deliver into New Zealand, and then what we can do to hold them"
+    },
+    {
+      "start": 998.19,
+      "end": 1000.95,
+      "text": "to account for having these enabling technologies."
+    },
+    {
+      "start": 1001.73,
+      "end": 1003.37,
+      "text": "Your bill doesn't address that, but-"
+    },
+    {
+      "start": 1003.77,
+      "end": 1003.85,
+      "text": "Yeah"
+    },
+    {
+      "start": 1003.87,
+      "end": 1005.11,
+      "text": "... have you explored any of that?"
+    },
+    {
+      "start": 1005.61,
+      "end": 1009.47,
+      "text": "Yeah, look, I haven't with this particular bill, but it's definitely forefront of"
+    },
+    {
+      "start": 1009.53,
+      "end": 1010.51,
+      "text": "mind around what"
+    },
+    {
+      "start": 1011.47,
+      "end": 1015.0,
+      "text": "are we going to do in the future. And I think a lot of this has been discussed with"
+    },
+    {
+      "start": 1015.23,
+      "end": 1016.95,
+      "text": "the under-16 social media ban."
+    },
+    {
+      "start": 1017.89,
+      "end": 1020.34,
+      "text": "Is there going to be some sort of regulation of technology?"
+    },
+    {
+      "start": 1020.45,
+      "end": 1023.95,
+      "text": "I think, globally, we are seeing changes in this space."
+    },
+    {
+      "start": 1024.41,
+      "end": 1026.57,
+      "text": "I think there's risks and there's opportunities there."
+    },
+    {
+      "start": 1027.05,
+      "end": 1029.25,
+      "text": "And so my answer would probably be quite political."
+    },
+    {
+      "start": 1029.33,
+      "end": 1033.25,
+      "text": "But I do think that there is going to need to be some kind of ethics with"
+    },
+    {
+      "start": 1033.29,
+      "end": 1033.71,
+      "text": "AI."
+    },
+    {
+      "start": 1034.73,
+      "end": 1038.45,
+      "text": "And the AI, the technology that you're creating, if it can do these things on its"
+    },
+    {
+      "start": 1038.49,
+      "end": 1041.63,
+      "text": "own free will, you can also pop parameters in there to stop it doing that."
+    },
+    {
+      "start": 1041.71,
+      "end": 1042.79,
+      "text": "So I think"
+    },
+    {
+      "start": 1043.71,
+      "end": 1047.05,
+      "text": "that is probably a bigger picture, and it's something that I think MB"
+    },
+    {
+      "start": 1047.71,
+      "end": 1051.39,
+      "text": "potentially should be looking at around AI and its regulation as well."
+    },
+    {
+      "start": 1051.99,
+      "end": 1055.53,
+      "text": "Not necessarily just platforms, but the whole landscape of AI."
+    },
+    {
+      "start": 1055.75,
+      "end": 1056.43,
+      "text": "Mm."
+    },
+    {
+      "start": 1056.57,
+      "end": 1058.87,
+      "text": "Well, thank you very much, Laura. Appreciate you coming in and talking to us."
+    },
+    {
+      "start": 1059.14,
+      "end": 1059.87,
+      "text": "Thank you. Yeah."
+    },
+    {
+      "start": 1060.17,
+      "end": 1060.49,
+      "text": "See you shortly."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\2026_07_22 - SSC (Part 1 of 2) - vimeo_1206039487\\2026_07_22 - SSC (Part 1 of 2) - vimeo_1206039487.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1206039487",
+    "display_id": "1206039487",
+    "title": "2026/07/22 - SSC (Part 1 of 2)",
+    "webpage_url": "https://player.vimeo.com/video/1206039487?h=2efc7891d1",
+    "original_url": "https://player.vimeo.com/video/1206039487?h=2efc7891d1",
+    "duration": 1069,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2182522594-0a0c875986568c882dfbaa01bcc101a375b1bbe2df4aee467cd3a3af74a18107-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

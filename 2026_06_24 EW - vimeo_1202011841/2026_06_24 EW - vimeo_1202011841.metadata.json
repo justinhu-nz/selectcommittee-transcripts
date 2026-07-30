@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-06-25T03:28:29.637569+00:00",
+  "generated_at": "2026-07-30T12:57:34.069263+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202011841",
   "title": "2026/06/24 EW",
-  "url": "https://vimeo.com/1202011841",
+  "url": "https://player.vimeo.com/video/1202011841?h=34622225c5",
   "published_at": "20260624",
   "published_display": "2026-06-24",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2498,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page education-and-workforce, Vimeo Showcase 10758097",
+  "source_labels": "Vimeo Showcase 10758097",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
     "duration_seconds": 2494.65,
     "segment_count": 854,
-    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_06_24 EW - vimeo_1202011841\\2026_06_24 EW - vimeo_1202011841.en.vtt"
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026-06-24 2026_06_24 EW - vimeo_1202011841\\2026-06-24 2026_06_24 EW - vimeo_1202011841.en.vtt"
   },
   "source_metadata": {
     "provider": "vimeo",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T00:35:00.620178+00:00",
+  "generated_at": "2026-07-30T12:59:43.741398+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1212199571",
   "title": "2026/07/30 TI",
   "url": "https://player.vimeo.com/video/1212199571?h=5964ec1fa6",
-  "published_at": "20260722",
-  "published_display": "2026-07-22",
+  "published_at": "20260730",
+  "published_display": "2026-07-30",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_oembed",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 5200,
   "source_labels": "Vimeo Showcase 10758273",
   "transcript": {

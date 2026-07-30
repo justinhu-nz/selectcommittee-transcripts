@@ -1,0 +1,927 @@
+Title: 2026/07/23 TI
+URL: https://player.vimeo.com/video/1212140719?h=d27ca22783
+Published: 2026-07-23
+Duration: 00:44:45
+
+[00:00:00] You're welcome.
+[00:00:02] And can I just say
+[00:00:04] thank you very much for bearing with us.
+[00:00:06] I know that we've mulled you around repeatedly.
+[00:00:10] It has not been within our
+[00:00:13] power. It's been because the house has gone to extended hours, et cetera.
+[00:00:16] So it's been frustrating for us, but I know it's been frustrating for you, so thank
+[00:00:20] you. So we really appreciate it.
+[00:00:23] We are basically right up towards the end of our hearing part of it,
+[00:00:27] part of the ports inquiry. But we
+[00:00:31] really appreciate having you here because without that, there'll be a substantial
+[00:00:35] gap in our knowledge. So
+[00:00:37] what I thought I'd do is hand over to you for if you want to make some introductory
+[00:00:41] remarks.
+[00:00:42] Yep.
+[00:00:42] And then there will be plenty of questions. I know I've got a long line up.
+[00:00:45] Simon knows that I ask lots of questions.
+[00:00:47] Just given the questions on the RMA, so
+[00:00:50] replacement, should I say?
+[00:00:52] Yeah.
+[00:00:52] Okay. But in your hands, Leon.
+[00:00:54] Look, thank you very much.
+[00:00:56] I don't know how much you know about MSC, but we're a-
+[00:00:59] Tell us a bit anyway. Yeah
+[00:01:00] Yeah, will do. We're a family-owned international shipping
+[00:01:04] company,
+[00:01:05] started in 1970 by Mr. Aponte with one ship,
+[00:01:09] and grown since then to be the largest container carrier in the world.
+[00:01:12] Also the largest privately owned
+[00:01:15] cruise operator in the world as well, as well as one of the largest port
+[00:01:19] operators and one of the largest cargo operators in the world.
+[00:01:23] So quite a success story from a global footprint perspective.
+[00:01:27] Within New Zealand, we started off with one person working out of his
+[00:01:31] laundry in Auckland in 1996. We celebrated
+[00:01:35] 30 years in New Zealand last month-
+[00:01:37] Nice
+[00:01:38] ... in June. So thank you very much.
+[00:01:40] All right. Good then.
+[00:01:40] Really a great milestone achievement for us.
+[00:01:43] Nice function that we had in Christchurch, where our head office is, with our team.
+[00:01:47] We have 76 people in the country, so a fairly large
+[00:01:51] local footprint. And then
+[00:01:53] we have a number of people that support the business across in Fremantle,
+[00:01:57] which is our head office for the region today.
+[00:02:01] So when we started off as MSC in New Zealand,
+[00:02:05] we basically slot charted on board a vessel that was going across from
+[00:02:09] here to
+[00:02:10] Australia,
+[00:02:11] and New Zealand was connected through Australia to the rest of the world.
+[00:02:15] Today, we operate our own three dedicated services in New
+[00:02:19] Zealand.
+[00:02:20] Our flagship service being the Eagle, which we launched in February
+[00:02:24] this year.
+[00:02:26] That's a direct link between New Zealand and the USA, and then
+[00:02:30] connecting from Panama into the world as well.
+[00:02:34] Mostly focused around Europe and Africa and the Med.
+[00:02:37] Then we have the Southern Loop, which is a service that comes out of Melbourne and
+[00:02:41] does the south up and connects into Wellington to feed into the Eagle,
+[00:02:45] and also across into Australia, to connect to the world as well
+[00:02:49] from there.
+[00:02:50] And then we have the Noumea Express, which it's all in the name, goes through
+[00:02:54] Noumea and the islands, comes into Tauranga, and then goes back to Australia from
+[00:02:57] there and does a loop. So that's essentially us in
+[00:03:01] a nutshell in terms of where we've come from.
+[00:03:05] We're very much interested in growing in New Zealand.
+[00:03:09] We have grown this year,
+[00:03:11] with double-digit growth for us-
+[00:03:13] Awesome
+[00:03:14] ... across the board.
+[00:03:15] Particularly in Wellington, we've partnered very closely with Centreport
+[00:03:19] this year, where we've actually seen a 350% increase
+[00:03:24] in our throughput through Wellington,
+[00:03:26] starting from February this year with the introduction of our Eagle service.
+[00:03:30] So Wellington is our hub that we operate with today,
+[00:03:33] and our services connect from the rest of the country into Wellington and then
+[00:03:37] load onto either the Southern Loop or the
+[00:03:41] Eagle going deep sea from here.
+[00:03:46] Cool.
+[00:03:47] That's it.
+[00:03:47] Thank you very much. That's good to get that.
+[00:03:49] And we will also get a Hansard, so we've got all those
+[00:03:53] routes in particular because I'm not-- Let's kick ourselves off with
+[00:03:57] questions. So Dan and then I'll take one.
+[00:03:59] Thanks, Mr. Chair. Thanks, Leon. I appreciate you coming in again.
+[00:04:01] Sorry for the delay in-
+[00:04:03] No problem
+[00:04:05] meeting with you. Just reading through your submission, you've got, I think, a
+[00:04:09] pretty good articulation of some of the key issues in the sector.
+[00:04:11] Yep.
+[00:04:13] How do we power up productivity?
+[00:04:15] If we were to say to you,
+[00:04:19] "What's the top three things that you want as a result of this
+[00:04:23] inquiry
+[00:04:24] for us to improve productivity of the sector?" And before I hand it over to
+[00:04:28] you, just-
+[00:04:29] Yeah
+[00:04:30] ... some of the previous submissions have talked about kind of encouraging more of
+[00:04:33] a hub and spoke model-
+[00:04:34] Mm-hmm
+[00:04:35] ... across the sector.
+[00:04:37] We've talked about
+[00:04:40] getting more accurate data and measurement on productivity
+[00:04:43] measures across port boards.
+[00:04:47] There's been discussions about section, is it 98 of the-
+[00:04:51] 198.
+[00:04:51] 198.
+[00:04:52] Yeah.
+[00:04:52] So that has been an impediment to-
+[00:04:56] That's all
+[00:04:56] ... productivity-
+[00:04:58] Mm-hmm
+[00:04:58] ... from overseas operators.
+[00:05:00] Mm-hmm.
+[00:05:00] That just gives you a flavor, but
+[00:05:03] hand it over to you, what do you think we should be looking at from
+[00:05:07] a government recommendations perspective on how they
+[00:05:11] can improve productivity?
+[00:05:13] Yeah. Okay. Thank you. And thanks for the background.
+[00:05:16] I did watch some of the feeds before, so I've had a little bit of insight into the
+[00:05:19] conversations.
+[00:05:22] Our belief is that there's not a one-size-fits-all
+[00:05:25] solution to the challenge because actually, the
+[00:05:29] dynamic footprint of New Zealand, the geographical footprint, and the
+[00:05:33] challenges that come with that, represents particular challenges in each of the
+[00:05:36] different ports.
+[00:05:38] So I don't think there's a silver bullet that we can put out there and say, "If you
+[00:05:42] do this one thing or these three things, that'll solve all of the challenges."
+[00:05:47] I think each port has its own constraints, and each port needs to grapple with
+[00:05:51] that and figure out ways to be able to handle that challenge.
+[00:05:55] We operate with both a hub and spoke and a direct mechanism
+[00:05:59] today. So essentially, the evil is our hub and spoke, and we
+[00:06:03] use Wellington as our hub for that service.
+[00:06:06] But then the Southern Group is also a direct option going from the likes of Bluff
+[00:06:11] directly into Australia as well. So we have a bit of
+[00:06:14] a hybrid
+[00:06:16] policy. Globally, MSC is--
+[00:06:20] We focus very much on standalone services and
+[00:06:23] creating direct optionality for our customers.
+[00:06:26] We have a little bit of a benefit in terms of we're over 1,000 container ships.
+[00:06:30] So being 21, I think it's 21.5% of the global container
+[00:06:34] market and having the world's largest fleet allows us to be a little bit
+[00:06:38] more dynamic in that port-to-port pairing.
+[00:06:42] What we find with the hub and spoke mechanism is that it's really good to connect
+[00:06:45] the smaller ports into a larger system for the
+[00:06:49] deep sea leg. It does add cost to the system, though, because it's extra
+[00:06:53] handling that comes into it. And depending on where you are on that leg
+[00:06:57] of the pre-feeder service, it can add quite a lot of
+[00:07:01] transit time onto your cargo. So it could be ten days around the New Zealand coast,
+[00:07:05] plus potentially when that connecting vessel connects into the hub, another week
+[00:07:09] as you wait for the weekly service to come through, depending on your connections
+[00:07:12] hub. Now, part of the challenge as a carrier is when we
+[00:07:16] look at these system designs that we've put in place, we try and limit
+[00:07:20] those connection gaps as much as possible.
+[00:07:23] We need to give the port some time to be able to resource up and manage
+[00:07:26] the flows of the cargo. But you don't want to try and have a
+[00:07:30] vessel arriving on a Monday to connect on a vessel that
+[00:07:34] departed on a Sunday. You want to try and have it arrive on a Sunday to connect to
+[00:07:37] the vessel arrive on the Monday instead.
+[00:07:39] The challenge that we have in New Zealand ports now is because of the challenges
+[00:07:43] we've seen over the last sort of four to five years, there is no flexibility.
+[00:07:48] So all of the ports, or 90% of the ports are oversubscribed.
+[00:07:52] There's not that ability as a carrier to sit there and go, "I'd like a Wednesday
+[00:07:56] window in this port, followed by a Friday window in that port," because it connects
+[00:08:00] in the most efficient manner possible.
+[00:08:02] So what we end up seeing, and you can have a look at that on some of our routings,
+[00:08:06] we actually have a bit of a higgledy-piggledy where we backtrack because we can't
+[00:08:09] get a berth in that port. So we've got to go to the next port, come back to that
+[00:08:13] port, load the cargo, and then go to the next port from there.
+[00:08:17] So creating a little bit of space in the
+[00:08:20] terminals is paramount for us.
+[00:08:25] It's a bit of a crude saying, but shipping happens.
+[00:08:28] We have a lot of delays, especially around the New Zealand coast, especially this
+[00:08:32] time of the year. And in order for us to recover, our
+[00:08:35] optionality is very limited in New Zealand today.
+[00:08:39] We have the potential to be able to speed up the vessels, but we have to
+[00:08:43] be conscious of emissions. So by significantly increasing
+[00:08:47] that, you also increase emissions and you also increase cost that comes with
+[00:08:51] that. So having that little bit of play
+[00:08:54] within the ports to be able to say, "Well, yes, I'm late, but I'm only three hours
+[00:08:58] late," as opposed to if you arrive late, you can't have a berth.
+[00:09:02] The next vessel's waiting for the berth, and you wait a week for that berth.
+[00:09:06] So what you see happening today is carriers are doing a lot of omissions,
+[00:09:10] ourselves included.
+[00:09:11] Or we call it a COR, change of rotation, where instead of doing the most
+[00:09:15] efficient route on a planned voyage, we change the route to
+[00:09:20] be able to call the next port so we don't lose that berth as well because of the
+[00:09:23] cascading impact.
+[00:09:26] So
+[00:09:27] to me, it's about trying to find, for each one of those particular
+[00:09:31] ports, what is the limiting factor around their
+[00:09:34] productivity
+[00:09:36] and how do we address that? How do we help them? Is it CapEx?
+[00:09:39] Is it
+[00:09:41] access to labor? Is it whatever might be the challenge
+[00:09:45] that's creating that particular hub to or that particular port
+[00:09:48] to have the constraints that it has.
+[00:09:51] And then also, there's a little bit of capacity around the coast that's not
+[00:09:55] necessarily fully utilized today.
+[00:09:57] And that's the reason why we partnered with Centreport, because they had
+[00:10:01] quite a lot of capacity that was underutilized post the earthquake.
+[00:10:05] And we've seen them gear up quite substantially.
+[00:10:08] I mentioned it earlier on,
+[00:10:10] from February to May this year versus February to May the year before, we've
+[00:10:14] increased by 350% our volumes coming through here.
+[00:10:17] So from 8,000 containers to 38,000 containers
+[00:10:22] hubbing through the port here, and that was capacity they had. They have invested.
+[00:10:25] They put, I think, around about $15 million in, in terms of
+[00:10:29] new reefer towers and employed 50 new
+[00:10:33] staff to be able to manage the volume throughput.
+[00:10:36] But they had the footprint, they had the capacity to be able to grow
+[00:10:40] and the want and the commercial nous to be able to do that.
+[00:10:45] So that to me is an example of where we can do that in a safe
+[00:10:48] environment, in a productive environment as well.
+[00:10:51] Excellent. So just
+[00:10:54] take from that answer, definitely optimizing and
+[00:10:58] providing the flexibility within each port around
+[00:11:02] docking and coming in and going. That's
+[00:11:06] one.
+[00:11:06] Yep.
+[00:11:07] The second thing I take from what you've just said is more of a port-by-port
+[00:11:12] specific analysis on what's the limiting
+[00:11:16] constraint.
+[00:11:16] Yeah.
+[00:11:16] So that's something that government can
+[00:11:20] do is sort of port by port.
+[00:11:23] Just rounding it off in terms of next cab off the rank or a
+[00:11:26] third area that you think we need to be looking in?
+[00:11:30] It's something I've
+[00:11:32] thought is missing for a while, and you can probably tell by my accent that
+[00:11:36] I've got a bit of a different view on the outside world, if I can put it
+[00:11:40] that way.
+[00:11:42] Is that sort of that
+[00:11:44] long-term thinking that centralized,
+[00:11:47] disconnected from any political cycles, disconnected from any local
+[00:11:51] drivers that might be the case that actually drive the infrastructure network for
+[00:11:55] New Zealand that is thinking of NZ Inc and driving
+[00:11:59] a uniformed approach where- We don't have unnecessary
+[00:12:03] spend taking place in certain places, under-investment taking place in other
+[00:12:06] areas, and a sort of shared view so that we as
+[00:12:10] industry can actually invest and know that's the 30-year plan
+[00:12:14] because we're talking 30, 50-year investments that we need to make to be
+[00:12:18] able to make it work. Right now, the way that we're doing is we're
+[00:12:21] dealing with each port individually and we're trying to
+[00:12:26] sort of make our own assumptions as to what that future-
+[00:12:29] Yeah
+[00:12:30] prospect looks like.
+[00:12:32] Good. Thank you.
+[00:12:33] Mr. Chair.
+[00:12:33] Thank you. Yeah, okay, Simon. We can begin.
+[00:12:36] How much of that constraint around
+[00:12:40] port efficiency or the
+[00:12:43] flow of freight is down to connections to and
+[00:12:47] from the ports, land connections
+[00:12:50] to landside infrastructure and land ports and so on?
+[00:12:52] Because around New Zealand, we've got different rail and road
+[00:12:57] configurations. When you look at Auckland, you come off the bottom of Stanley
+[00:13:00] Street there, you drive a truck and trailer, and you end up in what
+[00:13:04] appears to be a 19th century kind of bullet track, like winding your way
+[00:13:08] around the waterfront.
+[00:13:09] Then you've got to navigate cyclists who always have priority in New Zealand.
+[00:13:12] Yeah.
+[00:13:13] Whereas I would've thought if we wanted a well-functioning link to the
+[00:13:17] rest of the transport network, you might want a dedicated
+[00:13:23] tunnel or something straight into the port for your heavies.
+[00:13:25] So, how much of that is a constraint?
+[00:13:28] Yeah, look, I think it's a very fair point.
+[00:13:32] Scalability really comes off the back of rail,
+[00:13:35] and being able to connect those nodes.
+[00:13:38] We can see the proof point in the Metroport and Tauranga development.
+[00:13:41] That's really performed well. There's been a significant change there now, which
+[00:13:45] is, in my opinion, performed better.
+[00:13:48] So, that's a great example of how rail can
+[00:13:52] enable those connections. There are some parts of the country where that doesn't
+[00:13:56] make sense, and that's where having the blue corridor,
+[00:14:00] the coastal connection, makes a lot of sense.
+[00:14:03] We've been serving Bluff pretty much from day one.
+[00:14:07] We're the only container carrier that calls into Bluff, and that's a great example
+[00:14:10] of very heavy cargo. You've got the Rio Tinto
+[00:14:13] coming out of there and other produce from the area that it
+[00:14:17] doesn't really make sense to try and haul that across anywhere.
+[00:14:21] So, having a dedicated product that's there week in, week out
+[00:14:25] enables that industry. So again, it's a little bit of a hybrid.
+[00:14:29] But 100% agree, there's a stranglehold
+[00:14:33] going into and out of the various nodes that we have today, for sure.
+[00:14:37] So the committee was going to take away
+[00:14:40] something to feed back into the infrastructure
+[00:14:44] system. It's making sure that the right investments are made in that
+[00:14:48] connecting infrastructure,
+[00:14:50] and sources for courses, but you're going to get the best bang for buck
+[00:14:54] by building your rail capacity into ports-
+[00:14:58] Completely agree
+[00:14:58] ... to move the most boxes in the shortest possible amount of time.
+[00:15:01] Completely agree, and I'd add it to that third point that I made in terms of having
+[00:15:04] that centralized direction, centralized thought pattern because
+[00:15:08] we see a number of ICDs today, inland container depots today,
+[00:15:12] where you might have one port-
+[00:15:14] Sorry, just tell us what's an ICD.
+[00:15:16] Inland container depot.
+[00:15:17] Right.
+[00:15:18] So that's what you're talking about now, having that rail corridor.
+[00:15:20] Yeah.
+[00:15:20] So having the
+[00:15:23] container closer to the customer, they don't have a very long road leg.
+[00:15:26] They can truck into the depot,
+[00:15:28] get it empty, take it to their pack plant, pack it, put it back into the depot, and
+[00:15:32] rail it into the port, or have a land bridge as well, like
+[00:15:36] a truck leg.
+[00:15:38] So what we see that has happened in the past is not happening necessarily too much
+[00:15:42] today, but what has happened in the past is you've had different ports having
+[00:15:45] similar ideas and building their own ICDs next door to each other.
+[00:15:50] There's only so much capital in New Zealand.
+[00:15:52] Right.
+[00:15:52] We need to think a little bit smarter and pool that resource.
+[00:15:56] And how do we actually take that and go, "Well, actually, let's have it
+[00:15:59] disconnected from the ports. Let's have a third party, whatever that might be, that
+[00:16:02] operates that." It could be a port that operates it.
+[00:16:05] It doesn't really make a difference.
+[00:16:06] But instead of you investing $300 million and me investing $300
+[00:16:09] million, let's invest $450 million and save $150 million,
+[00:16:14] and have a shared facility that serves everybody in that community, and
+[00:16:18] all the
+[00:16:20] both importers and exporters that come through there.
+[00:16:22] So, that's kind of where I say that that third point really stacks up in
+[00:16:26] terms of being able to give us that 30-year, 50-year plan around how do we
+[00:16:30] actually make the smart investments in the country?
+[00:16:32] Oh, okay.
+[00:16:33] So
+[00:16:34] we could, let's say we go down that 30-year plan arrangement.
+[00:16:38] We manage to persuade the ports to be involved in that way or require the
+[00:16:41] ports to be involved in that way.
+[00:16:43] What is the certainty we've got that we know what you're doing and what the other
+[00:16:47] shipping lines are doing which actually works in with that, as opposed to saying,
+[00:16:51] "Well, we've just decided that you put all this infrastructure in," let's say out
+[00:16:54] of Auckland, "We've decided we're going out of Tauranga instead because somehow
+[00:16:58] we've got a better deal for it." What's to
+[00:17:01] make sure that all the parts of the system are working together well?
+[00:17:04] Look, I can't talk for the other carriers.
+[00:17:05] I can only talk for-
+[00:17:06] No, let's just talk to your own arrangements
+[00:17:09] ... But, we will go where the cargo is.
+[00:17:13] That's as simple as that. That's our business. That's what we focus on.
+[00:17:15] We move international freight. So if the cargo is in a centralized
+[00:17:19] hub, we'll go to a centralized hub.
+[00:17:21] If the cargo is in a diversified hub, we'll go to a diversified hub.
+[00:17:24] So that's why I said earlier on today, we run a hybrid model where we have a hub
+[00:17:28] and spoke, and we also have a direct
+[00:17:30] port pay connect that we have in place because
+[00:17:33] it's that diverse today within New Zealand.
+[00:17:36] So,
+[00:17:38] there's other ways of doing it as well.
+[00:17:40] I mentioned earlier on that we have other parts of our business as well, and other
+[00:17:44] carriers have other parts of their business as well.
+[00:17:46] I think we're top three or top five port operators in the world today
+[00:17:50] as TIL, which is a part of our business.
+[00:17:52] And so there's potential investment opportunities on that front as well.
+[00:17:57] But to me, at the end of the day, it comes down to where the cargo is.
+[00:17:59] If the cargo is moved into specifically an efficient
+[00:18:03] hub that we can get a vessel in and get it out as quickly as possible,
+[00:18:07] we'd go there.
+[00:18:09] So when we talk about hub and spoke-
+[00:18:11] Mm-hmm
+[00:18:12] ... one of the interesting things is which ports you actually, as shipping
+[00:18:16] lines, which ports you actually go to.
+[00:18:17] One of the things we've had impressed on us is that the vessels are going to get
+[00:18:20] larger. Some ports are not going to be able to cope with those, so that kind of
+[00:18:23] cuts them out of being a place that those vessels can go to, because they simply
+[00:18:27] physically can't accommodate them.
+[00:18:28] Hmm.
+[00:18:30] But which ports do you end up-- You could make a decision.
+[00:18:33] The one example we've had in particular is in the South Island, where
+[00:18:37] Lyttelton appears to have aspirations to take the business out of Timaru
+[00:18:40] and Port Otago.
+[00:18:42] Mm-hmm.
+[00:18:43] So who's getting to decide? Is it the freight
+[00:18:47] provider, whether it's
+[00:18:49] Fonterra or
+[00:18:52] Kotahi? Are they going to decide which port it's going out of?
+[00:18:56] Are you going to decide? Are the ports going to compete amongst each other on
+[00:18:59] price? How does that work? Because there are, as you indicated,
+[00:19:03] some really significant investment proposals-
+[00:19:06] Yes
+[00:19:07] ... which
+[00:19:08] may be good investments or may be not very good investments.
+[00:19:11] Yeah.
+[00:19:13] I guess I'll answer that in a couple of phases.
+[00:19:17] To answer your core question in terms of who makes that decision, at the end of the
+[00:19:20] day, it's the shipper and the importer.
+[00:19:22] So if a large importer goes and builds a deconsolidation
+[00:19:26] facility in Palmerston North,
+[00:19:28] the cargo will move to Palmerston North,
+[00:19:31] and they'll distribute from there.
+[00:19:33] If they build a major hub in
+[00:19:35] Lyttelton to support the plan that
+[00:19:39] Lyttelton has, then the cargo will move there, and they'd be
+[00:19:42] responsible for that.
+[00:19:43] So just to pick that one up. So if Lyttelton were to build, I'm using this as an
+[00:19:47] example, if they were to build a hub, that's a port making an investment decision.
+[00:19:51] Mm-hmm.
+[00:19:52] Are you saying that that would necessarily derive a Kotahi, for
+[00:19:56] example? So I'm going to take the produce out of Southland and send it through
+[00:19:59] Lyttelton as opposed to-
+[00:20:01] Mm-hmm
+[00:20:01] ... through South Port or-
+[00:20:02] No, the shipper makes the decision at the end of it.
+[00:20:04] That's what I want to understand. Yeah
+[00:20:05] The shipper makes the decision. So if the shipper is driving it, the shipper would
+[00:20:08] have to be a part of that. So you say Kotahi, so Fonterra or Silver Fern Farms-
+[00:20:12] Yeah
+[00:20:12] ... in conjunction with Kotahi and the other customers would then say, okay, as
+[00:20:16] part of that project, I would imagine that those discussions would be
+[00:20:20] made before putting a billion dollars in the ground.
+[00:20:23] And that's the point, yeah.
+[00:20:25] Yes.
+[00:20:25] Yeah, okay.
+[00:20:26] But you have to have the cargo there because otherwise you're holding a white
+[00:20:29] elephant.
+[00:20:29] Yep. Indeed.
+[00:20:31] In terms of the question around the vessels getting larger,
+[00:20:35] I think we need to put that into context.
+[00:20:36] Globally, vessels are definitely getting larger.
+[00:20:38] 24,000, 25,000 TEU ships
+[00:20:41] on the East-West trades are commonplace today.
+[00:20:44] And up until probably October last year, the new
+[00:20:48] builds were 80%-plus weighted on 12,000
+[00:20:52] TEU and larger vessels. There's been a bit of a
+[00:20:56] shift since then. So BIMCO released their latest
+[00:21:00] report in February this year. They haven't updated it yet.
+[00:21:04] But they estimate that below 12,000 TEU ships have
+[00:21:07] significantly ramped up in the new orders
+[00:21:10] to the extent of about 33% of the new builds been in
+[00:21:14] that 8,000 and below TEU
+[00:21:19] capacity vessels. So there are new, smaller ships being built,
+[00:21:24] and that's because not every port is ever going to-- Some ports have granite
+[00:21:27] bottoms. They can't get down to 12, 14, and 16-meter drafts.
+[00:21:31] And those ports still have to be served.
+[00:21:33] We still need to be able to connect into those hubs with the spokes.
+[00:21:37] So there will still be vessels. There just won't be
+[00:21:41] as many of them,
+[00:21:43] and they won't be as efficient as a 24,000 TEU
+[00:21:47] vessel once it's on the water. But
+[00:21:50] when a 24,000 TEU vessel's alongside and you've got to load 10,000
+[00:21:53] TEU on board that vessel in two days,
+[00:21:57] that takes up a lot of resource, and that takes up a lot of capital to be able
+[00:22:01] to get to that stage.
+[00:22:03] So what you're saying is, is what you're saying that you will continue to service
+[00:22:06] New Zealand with vessels which are appropriate size for the
+[00:22:10] ports that you're going to?
+[00:22:11] Correct.
+[00:22:12] Yeah, okay. Right. Cool.
+[00:22:14] Other questions before I go onto another area?
+[00:22:18] Okay. Look, can I just ask you about the issue of windows?
+[00:22:21] Yes.
+[00:22:22] And that is, we regularly get the-- I'd be interested in, first of all, in your
+[00:22:25] observations about how on time your own vessels are.
+[00:22:29] Mm-hmm.
+[00:22:29] But also what happens when they get to New Zealand, what the flexibility is in the
+[00:22:33] system. You mentioned the IMO and being able to speed up, et cetera.
+[00:22:37] My understanding is that we have not yet, or our understanding is that we have not
+[00:22:40] yet signed the IMO agreement.
+[00:22:42] Correct. Yes.
+[00:22:42] And that looks parked because I don't think we're the only ones unhappy with it.
+[00:22:46] But the ability to be able to get vessels on time
+[00:22:50] in and out-
+[00:22:52] Yeah
+[00:22:52] ... flexibility to be able to deal with those
+[00:22:55] will be really helpful. And also how different ports deal
+[00:22:59] with windows with vessels that arrive out of window, because I know
+[00:23:03] Napier told me when I visited them, they said, "You got Wednesday.
+[00:23:06] You miss Wednesday this week, it's Wednesday next week."
+[00:23:08] Yes.
+[00:23:09] That's an interesting way of doing it, as opposed to, well, we'll take you when we
+[00:23:12] can.
+[00:23:12] So I'd be interested in your observations on that.
+[00:23:15] Yeah, look, there's a lot to that question.
+[00:23:18] So in terms of our schedule reliability, we actually recently made a
+[00:23:22] change to our network because we weren't happy with the reliability
+[00:23:26] on our previous service, the Wallaby-
+[00:23:28] Mm-hmm
+[00:23:28] ... and moved to the Southern Loop.
+[00:23:29] And by doing that, we disconnected some of the more challenging areas.
+[00:23:34] We found that the vessels were late coming out of China quite often.
+[00:23:38] And then that's where the regulation kicks in, where we can't speed up
+[00:23:43] deep sea.
+[00:23:44] Within New Zealand, if we need to, we do.
+[00:23:46] But that obviously comes at a significant cost and environmental impact that we
+[00:23:50] bear in mind as well.
+[00:23:53] So there's definitely a challenge with vessels getting into
+[00:23:57] the country on time. No
+[00:23:59] country in the world today, I would hazard to guess, is
+[00:24:02] 100% on time all the time.
+[00:24:05] So it's 100%, yeah.
+[00:24:08] I can't remember the exact number, but global schedule reliability is in the
+[00:24:12] mid-60s, mid to high 60s.
+[00:24:13] That's global.
+[00:24:14] That's global schedule reliability.
+[00:24:16] Okay.
+[00:24:17] It's not a-
+[00:24:20] And specific to New Zealand, it's a global challenge
+[00:24:24] that's
+[00:24:26] ongoing with the
+[00:24:29] geopolitical challenges that we see and having to navigate that,
+[00:24:33] and also the volume growth that we've seen.
+[00:24:36] So
+[00:24:38] there's definitely challenges getting into the country on time.
+[00:24:42] That said, even when we do get in on time, we still leave late,
+[00:24:46] and that's for a number of reasons.
+[00:24:47] Worse than you. So is the reliability worse when you leave than it was when you got
+[00:24:51] here?
+[00:24:51] Yes.
+[00:24:52] Yeah.
+[00:24:54] So in our submission, we made the statement, and this is
+[00:24:58] going back a number of years, but New Zealand used to
+[00:25:02] be a country where we would be able to come in slightly delayed, not
+[00:25:05] badly delayed, but recover that schedule around the coast because in
+[00:25:09] 2015, we were a lot more productive
+[00:25:13] per crane and per vessel birth rate than what we
+[00:25:17] are today.
+[00:25:19] So
+[00:25:20] you add to that the volume increase between 2015
+[00:25:23] and today, which is basis the FIG stats,
+[00:25:27] which are only available up until March, so I only have quarter one
+[00:25:31] data. But if you look at that versus 2015, same
+[00:25:34] 12-month window, it's about 200,000 containers extra that we're doing
+[00:25:38] at a lower productivity, which equates to 30% longer for ships
+[00:25:42] being alongside in New Zealand. So that soaks up all of that flex that we had in
+[00:25:46] the
+[00:25:47] ports before, because no port would be efficient or would be
+[00:25:51] a healthy business if they had 30-plus percent unused
+[00:25:55] capacity at any given time.
+[00:25:58] Mm.
+[00:25:58] 5%, 10% makes a lot of sense, and you can flex between them.
+[00:26:02] You can actually use that capacity to recover delays and
+[00:26:06] maybe you have additional project cargo or spot business or those kinds of things,
+[00:26:10] then you can look at those opportunities,
+[00:26:13] but that's just not there.
+[00:26:16] So what specifically has happened as far as you're aware that's reduced-- Because
+[00:26:20] you're basically saying that we are less productive now-
+[00:26:23] Yeah
+[00:26:23] ... per container move, crane hour, whatever, than we were a decade ago.
+[00:26:27] Yeah.
+[00:26:28] What's changed?
+[00:26:29] Just the overall productivity in the ports has changed.
+[00:26:32] Could you-
+[00:26:32] And the volume has also lifted.
+[00:26:34] Right, and the volume's-
+[00:26:35] The volume's also lifted. So if we go 2015 to today, it's about
+[00:26:39] 200,000 containers extra basis the FIG stats using the figs.
+[00:26:42] But are you saying that a crane today lifts less?
+[00:26:45] Yes.
+[00:26:46] Why? Do you know?
+[00:26:48] Like I said earlier on, it's specific to each port that they have their
+[00:26:52] constraints within it that drive the reasoning behind that.
+[00:26:55] It might be that some-
+[00:26:56] ... ports have aging infrastructure, aging cranes that
+[00:27:01] need a little bit more downtime, need a little bit of care.
+[00:27:04] It might be that some ports have struggled to resource
+[00:27:09] the landside to feed the crane. Some might be a resourcing issue for the
+[00:27:12] crane itself. There's multiple different
+[00:27:16] reasons for each port, and I think
+[00:27:19] if you speak to the ports, they would understand that for each of their ports
+[00:27:22] specifically, or they should. The conversations we have with them, they definitely
+[00:27:25] do.
+[00:27:26] Hmm. That's concerning to hear that particular...
+[00:27:31] But
+[00:27:32] anybody else got other questions for him?
+[00:27:34] Or I carry on? Section 198-
+[00:27:38] Yeah
+[00:27:38] ... you mentioned.
+[00:27:39] Yep.
+[00:27:40] Can you tell us about that? SWIs kind of made life a little bit easier in some
+[00:27:44] ways, and since they decided they can't make it work at the moment.
+[00:27:47] But the optimal way in which you've already said you do some doubling back, but at
+[00:27:50] the moment you're constrained in what you can do.
+[00:27:53] What would the ideal arrangement be for you?
+[00:27:57] In terms of Section 198,
+[00:28:00] from a MSC perspective, we see our core task as
+[00:28:04] international freight-
+[00:28:06] Mm
+[00:28:06] ... not coastal freight.
+[00:28:08] Coastal freight is incidental
+[00:28:12] as to the journey that we're underway with.
+[00:28:14] And that's not because that's what it says in the act. That's really what we do.
+[00:28:17] We're not a coastal operator.
+[00:28:20] If it helps our customers, and they need a hand-
+[00:28:23] Mm
+[00:28:24] ... like us being the only carrier that goes into Bluff,
+[00:28:26] we do help customers on that as part of the leg, but it's
+[00:28:30] not something we actively market or something we actively sell.
+[00:28:34] So I wouldn't be sitting here today saying to you that fundamentally
+[00:28:38] changing the act is going to make a major difference in the way that we
+[00:28:42] serve this market. I think there are certain carriers where it
+[00:28:46] makes a lot of sense, and how those nodes connect, and for
+[00:28:49] certain customers, it makes a lot of sense that they might have to
+[00:28:53] consolidate or move ingredients from one part of
+[00:28:57] the country to another part of the country for manufacturing.
+[00:29:01] And the efficiencies that would be driven by that would make a lot of sense for
+[00:29:04] them. Using the same container, unpack a coastal
+[00:29:07] box, clean it out, and pack it with exports makes a lot of sense
+[00:29:11] in that regard for sure.
+[00:29:14] Yeah. So going back to the issue of vessels getting
+[00:29:17] back on time, what can be done to improve that?
+[00:29:21] And related to that, you basically said that there's a lack of capacity in the
+[00:29:24] system. One of the things that sort of come through at the moment is obviously
+[00:29:27] there's no regulation at the moment about the port charges.
+[00:29:31] And I have actually either spent a day with the Port of Auckland the other day,
+[00:29:34] which was great.
+[00:29:35] But
+[00:29:36] basically, they said that the limiting
+[00:29:40] of the port charge effectively is the equivalent cost of the land transport to the
+[00:29:43] next possible port that somebody might-
+[00:29:45] Correct. Yes
+[00:29:45] ... might use.
+[00:29:47] If there were to be some form of Commerce Commission
+[00:29:51] oversight, transparency,
+[00:29:53] et cetera, involved there,
+[00:29:56] you would, by the sounds of things being say, that there would need to be
+[00:29:59] some factoring in of you actually need some surplus capacity.
+[00:30:02] You can't take it right down to the wire because that's going to cause some
+[00:30:05] significant issues.
+[00:30:06] Yeah. I would-
+[00:30:07] And that capacity would then have to be paid for in that system.
+[00:30:09] Yeah. I would think so.
+[00:30:13] I think if you look at it in terms of the natural cargo capture for ports,
+[00:30:17] right?
+[00:30:18] Napier's a great example. So a large percentage,
+[00:30:21] 70-plus percent of their cargo is within 20 kilometers of the port.
+[00:30:25] Whereas centre port is not the case.
+[00:30:27] They have to pull cargo from all over the country.
+[00:30:29] So if you have a one-size-fits-all model, you'd handicap one and
+[00:30:33] benefit the other with that system being the case, right?
+[00:30:36] And so the comment around it only costs as much as what-- Or we can only
+[00:30:40] increase the rates as much as what it costs to get to the next port is
+[00:30:44] essentially that sort of metric that's there, right?
+[00:30:49] So yes, I think
+[00:30:51] if you can manage that, and I'll make no bones
+[00:30:55] about it, the significant cost increases that we've seen is a contributing factor
+[00:30:59] towards the challenges that we see in New
+[00:31:03] Zealand today. I did some really brief numbers before I came in.
+[00:31:06] If you look at
+[00:31:08] the CPI increase from 2015 to today, it's around about
+[00:31:11] 36% compound interest over that period of time, the increase.
+[00:31:16] And we're sitting above 50% in terms of actual cost increase in
+[00:31:20] port handling itself.
+[00:31:21] So port handling charges up over 50%?
+[00:31:23] Yes.
+[00:31:24] Yeah.
+[00:31:25] So, and that's just what's been advertised out to the
+[00:31:29] market using publicly available data, right?
+[00:31:31] Yeah.
+[00:31:31] And so you add to that then the challenges that we
+[00:31:35] have around the coast with those contingencies that I spoke about and a significant
+[00:31:39] increase in cost in able to, being able to, if you do a change of rotation,
+[00:31:43] we're talking hundreds of thousands of dollars in terms of the amount of fuel
+[00:31:47] that we're using. If we do an omission, we have to pay for storage of those
+[00:31:50] containers in the port because it's not the customer's fault that we had to omit.
+[00:31:53] It's our decision that we made. Might be weather, might be whatever might
+[00:31:58] be the case, but we can't go to a shipper and say to them, "We decided to omit the
+[00:32:01] port. You need to pay them for the privilege of holding your cargo for a week's
+[00:32:05] delay." Right? So all those costs all add up, and then you
+[00:32:09] add a significant cost to serve on top of that sort of base cost.
+[00:32:13] It becomes a very difficult market to serve.
+[00:32:17] So bearing in mind that if you create more capacity, and
+[00:32:21] bearing in mind the comment you've already made about the efficiency of the
+[00:32:25] ports handling having overall declined,
+[00:32:29] are you better off or is the system, because, I mean, your
+[00:32:32] charges get imposed on the
+[00:32:35] cargo owners,
+[00:32:37] ultimately anyway.
+[00:32:39] Would the cargo owners be better off if you actually have that extra capacity,
+[00:32:42] which will cost something, than they would be at the moment with
+[00:32:46] delays, out of window,
+[00:32:49] potentially having to bypass ports occasionally because you can't get a
+[00:32:53] window and so on?
+[00:32:55] Bless you.
+[00:32:56] I would say so,
+[00:33:00] especially in the long run. So short term,
+[00:33:04] there'd probably be a cost impact that came with that.
+[00:33:08] But if you look at that 30-year horizon that we spoke about,
+[00:33:13] the challenge that we have today is it's a today problem.
+[00:33:16] I mean, we can't bring a new service into Tauranga today because they don't
+[00:33:20] have the space on the berth to be able to put a new service on.
+[00:33:23] So that limits our ability, and that's for all carriers, right?
+[00:33:25] It limits our ability to give options to shippers.
+[00:33:30] If the government's serious about the
+[00:33:34] export growth that's expected,
+[00:33:36] yes, definitely, it's a must.
+[00:33:39] Yeah. Okay. I think
+[00:33:43] I'm going to carry on as well while the other-- You know, because nobody else has
+[00:33:46] got questions at the moment.
+[00:33:52] I think you've kind of intimated you are committed to New Zealand
+[00:33:56] long term. Yep, cool. Right.
+[00:33:59] The choice of ports served, that is a decision you make on the
+[00:34:03] basis of what the customers, the cargo owners-
+[00:34:06] Exactly
+[00:34:07] ... have decided. Okay, that's fine.
+[00:34:09] Just the issue of balancing container traffic, movement of
+[00:34:13] containers.
+[00:34:14] Mm-hmm.
+[00:34:14] Can you just give us a bit of
+[00:34:16] your insight into that? Because from what we understand is,
+[00:34:20] well, reefers, in particular, tend to be out-
+[00:34:22] Yes
+[00:34:22] ... go out full. There's not a lot of demand for them coming back
+[00:34:26] full. But also the movement of containers around the
+[00:34:30] system. Obviously, a lot of empties turn up various
+[00:34:34] different places, and then they've got to-- They occupy space
+[00:34:38] on boards, in ships-
+[00:34:39] Mm-hmm
+[00:34:39] ... on railway wagons, et cetera, being moved around the country.
+[00:34:42] Have we got that optimally ar-- What does it look like if we got that optimally
+[00:34:45] arranged?
+[00:34:46] Again, talking for my own business, I would say no,
+[00:34:51] in terms of
+[00:34:53] it being optimal. New Zealand, if you look at it
+[00:34:57] purely on an import-export basis using the figs stats looks
+[00:35:01] relatively well-balanced, in terms of volumes. It ebbs and flows.
+[00:35:05] Imports are a little bit down because the economy hasn't recovered as well as
+[00:35:08] expected. That will grow. Exports are doing really well, so it's
+[00:35:12] slightly imbalanced now, but total number-
+[00:35:15] Number of containers
+[00:35:16] ... number of containers-
+[00:35:16] Yep
+[00:35:17] ... roughly there or thereabouts.
+[00:35:18] It's when you drop down into the equipment size types
+[00:35:21] that it gets really interesting. So the imports are really
+[00:35:25] predominantly 40-foot high cube imports.
+[00:35:30] Your widgets, your
+[00:35:31] barbecues, your
+[00:35:34] fridges, and the likes coming in.
+[00:35:37] There's a bit of commodity import coming in in 20s.
+[00:35:39] And then your exports are predominantly,
+[00:35:43] we do move a lot of 40 foots out, but not the same amount.
+[00:35:48] Our dynamic, we move a lot of 20 foots out of New Zealand.
+[00:35:52] And these are refrigerated?
+[00:35:53] No. Well, we do a lot of refrigerated 20 foots as well
+[00:35:57] out of New Zealand, but dry containers as well.
+[00:36:00] So we have an imbalance on 20-foot dryers as well as
+[00:36:04] reefer containers. And that's serving the wine market really.
+[00:36:08] There's a lot of wine that moves heavy boxes in
+[00:36:11] 20 foots, and we need specific containers for that, with the bladders and
+[00:36:15] everything else that goes into in the inside of the container.
+[00:36:18] So
+[00:36:20] in terms of the actual size types,
+[00:36:24] 20-foot reefer, 40-foot reefer are very imbalanced in
+[00:36:27] that we don't import nearly as much as what we export, so we bring them in
+[00:36:30] empty. And- 20-foot dry is
+[00:36:34] imbalanced. We don't import as many as what we export,
+[00:36:38] and 40-foot is imbalanced the other way around, 40-foot dry, where we
+[00:36:42] import more than what we export. So
+[00:36:45] it's not efficient.
+[00:36:46] Okay. And when you've
+[00:36:49] got these containers on the ship, it doesn't matter whether it's empty or
+[00:36:53] whether it's full, you're charging the same effectively?
+[00:36:56] Well, I mean-
+[00:36:57] Oh, no
+[00:36:57] ... no difference reefer-wise versus not?
+[00:36:59] No, it makes a massive difference.
+[00:37:00] Does it? Okay.
+[00:37:01] Makes a massive difference. So we don't charge for-- There's no invoice that goes
+[00:37:05] out for an empty to come into the country.
+[00:37:06] It's built into the freight for either the import or the export.
+[00:37:11] If it's an empty that's imported, it's built into the total cost of the export.
+[00:37:15] But there's no actual invoice that gets sent to a customer saying, "I repositioned
+[00:37:18] this container in from Shenzhen, and you need to pay me
+[00:37:22] $500 for that." That's not the case.
+[00:37:25] Okay.
+[00:37:26] Where the difference comes in is in terms of the stowage on board the
+[00:37:30] vessel, managing the
+[00:37:33] GM of the ship or the balance of the vessel.
+[00:37:35] Yeah.
+[00:37:35] If you have to carry a whole lot of empties around the coast
+[00:37:39] and you want to load fulls at the first port, it becomes
+[00:37:43] you can't put heavy boxes on top of light boxes.
+[00:37:46] You have a weight issue on board the ship.
+[00:37:48] So stability issues, all those kinds of things come into it.
+[00:37:51] So you end up having to do restows, take the empty off, load the
+[00:37:54] full, put the empty back on. So that then creates more inefficiencies in the
+[00:37:58] port and creates more cost to the system as well.
+[00:38:01] So effectively what you're saying, there's no specific charge, but there is a-
+[00:38:05] It's a sunk cost
+[00:38:06] ... built into the cost of-
+[00:38:07] ... the export in the first place. So how can we make it more efficient?
+[00:38:10] Because there's a lot of movements there.
+[00:38:13] Yeah. I mentioned it a little bit earlier on,
+[00:38:16] where there's
+[00:38:17] opportunities for being able to link up imports and exports,
+[00:38:22] reuse of containers.
+[00:38:24] If you have those centralized facilities, that becomes a lot
+[00:38:28] more possible. So you're not moving a container
+[00:38:31] from
+[00:38:34] Wellington to Whanganui and back to Wellington again.
+[00:38:37] You can repack it and then when moving it back there because a subsequent booking
+[00:38:41] was made for a full. If you could connect up those nodes and say, well, we've got
+[00:38:44] full exports out of this region, we can reuse those containers for those full
+[00:38:47] exports. That makes it a lot more efficient.
+[00:38:50] And so you can connect it up a lot more with visibility of data.
+[00:38:55] Got it. So it's very much how we manage the inland
+[00:38:58] side of things that will make the difference in that area. Okay.
+[00:39:02] And data visibility. I mentioned it earlier on.
+[00:39:07] We're using the FIG stats today and end of July and
+[00:39:11] the latest information, or sorry, I did it the day before yesterday, so the latest
+[00:39:14] information then was the end of March.
+[00:39:16] And that information's not complete either because we don't
+[00:39:20] have all the ports submitting information to that.
+[00:39:22] So not having data visibility, not being able to
+[00:39:26] use the most recent information, and that data on its
+[00:39:30] own is very poor data. There's not a lot that you can read
+[00:39:33] into the information that comes through that.
+[00:39:35] Whereas if you look at some of the other countries in the world where there's
+[00:39:39] aggregated stats around destination markets, around origins,
+[00:39:43] around all those size types and everything else that comes with that,
+[00:39:47] it gives you a lot more certainty around driving decisions
+[00:39:50] and having those conversations.
+[00:39:52] So, and then I'll go to Julie-Anne in just a sec. So you got one too, Dave?
+[00:39:56] No.
+[00:39:56] Okay. So the data that you're talking about, I just had a meeting with Port
+[00:39:59] Connect-
+[00:40:00] Yep
+[00:40:00] ... very recently. They said you at the moment are not involved with that
+[00:40:03] particular proposition, which is
+[00:40:06] about the ships themselves and where they are rather than
+[00:40:10] how they unload, et cetera.
+[00:40:13] But you're saying that the data you're looking for there is essentially the
+[00:40:17] volumes of containers,
+[00:40:21] where they are, where they need to go, all of those sort of things.
+[00:40:24] You're saying that data is not particularly good at the moment?
+[00:40:28] It doesn't exist.
+[00:40:31] Having centralized data-
+[00:40:33] So who should govern that?
+[00:40:36] That should be a third party, definitely not one of the carriers, and definitely
+[00:40:40] not one of the ports, and not one of the key stakeholders in that process, for
+[00:40:43] sure. And it should be aggregated as well, right?
+[00:40:46] Yeah.
+[00:40:46] So it shouldn't be a competitive advantage for anybody. Let's put it that way.
+[00:40:50] Yeah.
+[00:40:50] But the point that I'm trying to make is that we have no market
+[00:40:54] data today. I mean, the last freight study, I don't know, it's maybe 10 years ago,
+[00:40:59] eight years ago.
+[00:41:01] And we're still busy building plans and executing on strategies based as
+[00:41:05] that. So we don't actually have anything that's sort of gone,
+[00:41:09] were those assumptions correct? I know there's a plan in place to address that now.
+[00:41:13] But
+[00:41:14] we're kind of flying blind in terms of an industry making decisions.
+[00:41:18] That's very helpful, and it's one of the kind of areas that what I think we will
+[00:41:21] certainly give thought to as to-
+[00:41:22] Mm.
+[00:41:23] We want to be a little bit more farsighted about this.
+[00:41:26] Julie-Anne.
+[00:41:26] Yeah. Thank you so much, Sven. Very interesting.
+[00:41:30] I kind of wanted to go back to that tension between
+[00:41:33] domestic coastal shipping and international.
+[00:41:37] And just wondered if you had any thoughts, because
+[00:41:40] we
+[00:41:43] potentially could have
+[00:41:47] some economic advantage domestically by
+[00:41:51] supporting a domestic coastal operation to be as an
+[00:41:55] alternative to rail and road.
+[00:41:58] Mm-hmm.
+[00:41:59] But to get it to that point, it's very difficult for it to work for
+[00:42:03] various reasons, but one is the competition with international
+[00:42:07] shipping, which is able to do it cheaper.
+[00:42:10] Some of the concerns are around
+[00:42:14] labor standards on foreign flag vessels and
+[00:42:18] stuff like that.
+[00:42:19] Mm-hmm.
+[00:42:19] I was just wondering, I think for New Zealand Inc, it makes sense to
+[00:42:23] have both
+[00:42:24] operating.
+[00:42:26] But policy-wise, it is difficult to see how to
+[00:42:30] get there.
+[00:42:32] I don't know if you have any thoughts on-
+[00:42:35] Yeah. I'm by no means an authority on coastal shipping.
+[00:42:38] Yeah.
+[00:42:39] I think the guys at Pacific could probably share a few runs on the board that
+[00:42:43] they've had, the challenges that they've faced.
+[00:42:45] Yeah.
+[00:42:45] And my sort of two cents, using my knowledge base on it,
+[00:42:49] is that probably one of the constricting factors for coastal
+[00:42:53] shipping is similar to the constricting factors that we have in international
+[00:42:57] shipping, in that we can't get a ship through the port fast enough.
+[00:43:00] Yeah.
+[00:43:00] And especially on coastal, they have a lot of name-day
+[00:43:04] deliveries-
+[00:43:05] Mm, sure
+[00:43:05] ... so they need to be there for that supply chain to work every Wednesday,
+[00:43:09] and they need to be in this port every Friday for that supply chain to work as
+[00:43:13] efficiently for their major customers.
+[00:43:16] And not being able to berth on a particular
+[00:43:19] day has a significant ramification for
+[00:43:23] their business and for their customers.
+[00:43:24] So,
+[00:43:26] we operate under move count restrictions-
+[00:43:28] Mm
+[00:43:29] ... in a number of ports today.
+[00:43:31] And what that means is we get given a window, and port calculates, it
+[00:43:35] bases our productivity. In those 12 hours, we can do 1,000
+[00:43:39] containers, as an example. So we can't do more than 1,000 moves.
+[00:43:43] Sometimes there's a bit of flex, depending on the ports.
+[00:43:46] But within that space, your number one priority is you need to get the containers
+[00:43:50] off the ship.
+[00:43:50] Mm.
+[00:43:51] Then you want to load your deep sea exports, and you might need to position
+[00:43:55] out some equipment because of that imbalance that you have.
+[00:43:57] So only after those sort of first three priorities does coastal
+[00:44:00] become a option for us.
+[00:44:04] So it's not that it's not important to us, it's
+[00:44:08] just that that's not our core-
+[00:44:10] Yeah
+[00:44:10] ... what our purpose is.
+[00:44:12] Yeah.
+[00:44:15] Okay.
+[00:44:16] Look, I think we are at time, so I
+[00:44:20] thank you very much for what you've added.
+[00:44:22] You've certainly added a few elements that we hadn't had before, and I think that's
+[00:44:25] very helpful. And we had heard from Maersk before.
+[00:44:28] We heard from Swire before as well, but I'd like to have you here
+[00:44:32] from a shipping perspective, I think is very helpful.
+[00:44:35] So
+[00:44:36] thank you very much.
+[00:44:37] Thanks very much.
+[00:44:37] My pleasure.
+[00:44:38] And thank you for bearing with us. Thank you.

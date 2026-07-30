@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-06-18T07:53:33.351551+00:00",
+  "generated_at": "2026-07-30T12:57:22.514909+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202285982",
   "title": "2026 06 18 FD (Part 2)",
-  "url": "https://vimeo.com/1202285982",
+  "url": "https://player.vimeo.com/video/1202285982?h=d5f19f6ab5",
   "published_at": "20260618",
   "published_display": "2026-06-18",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 7188,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page foreign-affairs-defence-and-trade, Vimeo Showcase 10758106",
+  "source_labels": "Vimeo Showcase 10758106",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
     "duration_seconds": 7182.28,
     "segment_count": 2225,
-    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026 06 18 FD (Part 2) - vimeo_1202285982\\2026 06 18 FD (Part 2) - vimeo_1202285982.en.vtt"
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1202285982 - vimeo_1202285982\\vimeo_1202285982 - vimeo_1202285982.en.vtt"
   },
   "source_metadata": {
     "provider": "vimeo",

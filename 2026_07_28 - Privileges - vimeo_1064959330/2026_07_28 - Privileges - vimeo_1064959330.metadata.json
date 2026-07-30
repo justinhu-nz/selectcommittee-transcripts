@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T10:33:06.190275+00:00",
+  "generated_at": "2026-07-30T12:57:42.242577+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1064959330",
   "title": "2026/07/28 - Privileges",
-  "url": "https://player.vimeo.com/video/1064959330?h=a39fc7f40d",
+  "url": "https://vimeo.com/1064959330",
   "published_at": "20260728",
   "published_display": "2026-07-28",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 3421,
   "source_labels": "Vimeo Showcase 10828747, Parliament Page privileges",
   "transcript": {

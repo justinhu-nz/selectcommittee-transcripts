@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-06-18T07:53:48.639863+00:00",
+  "generated_at": "2026-07-30T12:57:30.874956+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202326380",
   "title": "2026/06/18 - EN (Part 2)",
-  "url": "https://vimeo.com/1202326380",
+  "url": "https://player.vimeo.com/video/1202326380?h=94ab8b7d6e",
   "published_at": "20260618",
   "published_display": "2026-06-18",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 5743,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758100, Parliament Page environment",
+  "source_labels": "Vimeo Showcase 10758100",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
     "duration_seconds": 5738.04,
     "segment_count": 2167,
-    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\2026_06_18 - EN (Part 2) - vimeo_1202326380\\2026_06_18 - EN (Part 2) - vimeo_1202326380.en.vtt"
+    "source_vtt_path": "C:\\Users\\VibeForge\\Dropbox\\Transcripts\\selectcommittee-transcripts\\vimeo_1202326380 - vimeo_1202326380\\vimeo_1202326380 - vimeo_1202326380.en.vtt"
   },
   "source_metadata": {
     "provider": "vimeo",
