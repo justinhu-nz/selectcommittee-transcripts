@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:14:42.956424+00:00",
+  "generated_at": "2026-07-30T14:16:48.622024+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1205998066",
   "title": "2026/07/06 - MA",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "parliament_video_title",
   "duration_seconds": 7240,
-  "source_labels": "Parliament Page maori-affairs",
+  "source_labels": "Parliament Page maori-affairs, Parliament Page maori-affairs",
   "transcript": {
     "source": "whisper",
     "language": "mi",
