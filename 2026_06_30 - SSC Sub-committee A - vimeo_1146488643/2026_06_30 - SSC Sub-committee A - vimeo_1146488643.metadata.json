@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T14:01:10.065341+00:00",
+  "generated_at": "2026-07-30T14:14:23.451119+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1146488643",
   "title": "2026/06/30 - SSC Sub-committee A",
-  "url": "https://player.vimeo.com/video/1146488643",
+  "url": "https://vimeo.com/1146488643",
   "published_at": "20260630",
   "published_display": "2026-06-30",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 11768,
   "source_labels": "Parliament Page social-services-and-community, Parliament Page social-services-and-community",
   "transcript": {
