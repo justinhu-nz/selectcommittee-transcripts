@@ -1,7 +1,7 @@
 Title: vimeo_1202371790
-URL: https://vimeo.com/1202371790
-Published: 2026-06-25
-Duration: 02:13:20
+URL: https://player.vimeo.com/video/1202371790?h=191e2cb942
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:00] from MFE quickly introduce themselves, because they're here to answer
 [00:00:03] anything particularly technical.

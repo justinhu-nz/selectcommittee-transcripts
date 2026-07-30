@@ -1,7 +1,7 @@
 Title: vimeo_1202328492
 URL: https://player.vimeo.com/video/1202328492?h=ef8fd05d9e
-Published: 2026-06-18
-Duration: 01:06:23
+Published: Unknown
+Duration: 00:00:00
 
 [00:02:32] Great idea.
 [00:02:33] Yeah, that's a good idea

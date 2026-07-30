@@ -1,7 +1,7 @@
 Title: vimeo_1202000700
-URL: https://vimeo.com/1202000700
-Published: 2026-06-17
-Duration: 01:04:05
+URL: https://player.vimeo.com/video/1202000700?h=ea1852cbc4
+Published: Unknown
+Duration: 00:00:00
 
 [00:00:57] Hi. Thanks. You guys are the tail end of our estimates.
 [00:01:00] Not the tail end of our meeting, but the tail end of our estimates hearings.

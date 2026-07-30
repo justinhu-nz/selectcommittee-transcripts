@@ -1,7 +1,7 @@
 Title: vimeo_1202349380
 URL: https://player.vimeo.com/video/1202349380?h=8fc7e4d981
-Published: 2026-06-18
-Duration: 01:30:09
+Published: Unknown
+Duration: 00:00:00
 
 [00:02:19] Great.
 [00:02:22] Do
