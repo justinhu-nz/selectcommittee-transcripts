@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T02:05:16.646192+00:00",
+  "generated_at": "2026-08-03T07:36:06.383694+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202350119",
   "title": "2026 07 30 FD (Part 1)",
@@ -7,7 +7,7 @@
   "published_at": "20260730",
   "published_display": "2026-07-30",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 4404,
   "source_labels": "Vimeo Showcase 10758106",
   "transcript": {
