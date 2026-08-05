@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T02:31:00.271677+00:00",
+  "generated_at": "2026-08-05T02:34:00.110811+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1212217392",
   "title": "2026 07 30 Petitions",
-  "url": "https://player.vimeo.com/video/1212217392?h=56a0d397ba",
+  "url": "https://vimeo.com/1212217392",
   "published_at": "20260730",
   "published_display": "2026-07-30",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 1137,
   "source_labels": "Parliament Page petitions, Parliament Page petitions, Vimeo Showcase 10758263",
   "transcript": {
