@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-17T09:29:53.568120+00:00",
+  "generated_at": "2026-08-17T09:33:32.043176+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1214098717",
   "title": "2026/08/06 - EN",
-  "url": "https://player.vimeo.com/video/1214098717?h=bb43842394",
+  "url": "https://vimeo.com/1214098717",
   "published_at": "20260806",
   "published_display": "2026-08-06",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 1281,
   "source_labels": "Parliament Page environment, Parliament Page environment, Vimeo Showcase 10758100",
   "transcript": {
