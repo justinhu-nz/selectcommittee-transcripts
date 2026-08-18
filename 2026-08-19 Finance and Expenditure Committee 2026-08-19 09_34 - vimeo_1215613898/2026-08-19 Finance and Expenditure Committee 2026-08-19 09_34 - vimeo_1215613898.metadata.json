@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-18T22:24:45.790111+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215613898",
+  "title": "2026-08-19 Finance and Expenditure Committee 2026-08-19 09:34",
+  "url": "https://player.vimeo.com/video/1215613898?h=780121bccf",
+  "published_at": "20260819",
+  "published_display": "2026-08-19",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_title",
+  "duration_seconds": 0,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 1809.0026875,
+    "segment_count": 399,
+    "source_vtt_path": null
+  }
+}
