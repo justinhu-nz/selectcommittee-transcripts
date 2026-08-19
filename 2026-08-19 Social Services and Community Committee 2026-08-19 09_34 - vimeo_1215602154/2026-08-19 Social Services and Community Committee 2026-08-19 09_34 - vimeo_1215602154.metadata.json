@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-19T00:22:19.036054+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215602154",
+  "title": "2026-08-19 Social Services and Community Committee 2026-08-19 09:34",
+  "url": "https://player.vimeo.com/video/1215602154?h=fc200203f6",
+  "published_at": "20260819",
+  "published_display": "2026-08-19",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_title",
+  "duration_seconds": 0,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 3534.016,
+    "segment_count": 590,
+    "source_vtt_path": null
+  }
+}
