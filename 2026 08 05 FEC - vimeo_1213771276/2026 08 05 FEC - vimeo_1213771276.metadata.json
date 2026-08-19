@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-18T18:59:15.404597+00:00",
+  "generated_at": "2026-08-19T00:30:37.567024+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1213771276",
   "title": "2026 08 05 FEC",
-  "url": "https://vimeo.com/1213771276",
+  "url": "https://player.vimeo.com/video/1213771276?h=95a2bff289",
   "published_at": "20260805",
   "published_display": "2026-08-05",
   "published_date_uncertain": false,
-  "published_date_source": "parliament_video_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 1506,
   "source_labels": "Parliament Page finance-and-expenditure, Parliament Page finance-and-expenditure, Vimeo Showcase 10758103",
   "transcript": {

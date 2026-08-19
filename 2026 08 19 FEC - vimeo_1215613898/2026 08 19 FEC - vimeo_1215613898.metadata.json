@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-19T00:33:45.132584+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215613898",
+  "title": "2026 08 19 FEC",
+  "url": "https://vimeo.com/1215613898",
+  "published_at": "20260819",
+  "published_display": "2026-08-19",
+  "published_date_uncertain": false,
+  "published_date_source": "parliament_video_title",
+  "duration_seconds": 5608,
+  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758103, Parliament Page finance-and-expenditure, Parliament Page finance-and-expenditure",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 1809.0026875,
+    "segment_count": 399,
+    "source_vtt_path": null
+  }
+}
