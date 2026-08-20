@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-20T01:49:20.024153+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215981180",
+  "title": "2026-08-20 Transport and Infrastructure Committee 2026-08-20 13:30",
+  "url": "https://player.vimeo.com/video/1215981180?h=c77e606d78",
+  "published_at": "20260820",
+  "published_display": "2026-08-20",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_title",
+  "duration_seconds": 0,
+  "source_labels": "Vimeo RSS nzparliament",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 494.9973125,
+    "segment_count": 121,
+    "source_vtt_path": null
+  }
+}
