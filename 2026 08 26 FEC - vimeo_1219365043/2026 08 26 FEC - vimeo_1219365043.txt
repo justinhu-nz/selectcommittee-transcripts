@@ -1,0 +1,328 @@
+Title: 2026 08 26 FEC
+URL: https://player.vimeo.com/video/1219365043
+Published: 2026-08-26
+Duration: 00:16:06
+
+[00:00:00] Get into it, if that's okay.
+[00:00:02] Absolutely. Thank you very much, Chair.
+[00:00:03] Thank you, members, for
+[00:00:05] having us back to update you on progress in response to
+[00:00:09] the
+[00:00:10] inquiry's recommendations since we last were here in February.
+[00:00:14] My name is Alastair Herkes. I am the Interim Chief Executive
+[00:00:18] of the FMA.
+[00:00:20] There you go.
+[00:00:20] With me, I have Liam Mason, Executive Director of
+[00:00:24] Governance, Policy and Strategy, and General Counsel,
+[00:00:28] and Claire Bolingford, who is the Executive Director of Licensing and
+[00:00:31] Conduct Supervision.
+[00:00:34] So
+[00:00:35] we have provided a response to your earlier written questions,
+[00:00:39] and we're happy to
+[00:00:42] answer any questions you have.
+[00:00:44] Fantastic. I might kick off, if that's all right, and then, members, feel free to
+[00:00:47] raise your hands.
+[00:00:48] Thank you for your submission, and thank you for making the time today.
+[00:00:51] I wish we'd probably made it a little bit longer to justify your time, but
+[00:00:55] nonetheless, we are keen to continue the evolution of the banking inquiry and
+[00:01:00] what hurdles may or may not stand in the way.
+[00:01:03] You touch on the sandbox work that you're doing around on-ramping and
+[00:01:07] fintechs, and really encouraged by that.
+[00:01:12] What are you doing to, I guess, accelerate that opportunity,
+[00:01:16] understand the regulatory barriers in the market?
+[00:01:20] Because obviously that's been a success, and we'd like to see more of that.
+[00:01:24] Yeah, sure. I might take this, if I may.
+[00:01:27] The first pilot showed us some
+[00:01:32] very interesting things, one of which is that it's the base
+[00:01:36] cost of entering the regulatory sphere
+[00:01:40] is very high for small to medium firms.
+[00:01:43] Most of the firms that showed interest in the sandbox were startups,
+[00:01:48] and the feedback we heard from them is that the
+[00:01:52] fixed costs, if you like, of applying for a license, particularly when you're at
+[00:01:55] the trial stage,
+[00:01:57] are prohibitive. And that's why in the next phase we are
+[00:02:00] developing an on-ramp, what we're calling on-ramp licensing,
+[00:02:03] a streamlined licensing solution to allow smaller
+[00:02:07] firms to come into the market, into the regulatory space, so that they're
+[00:02:11] not spending their time trying to find a way to avoid it,
+[00:02:14] in a way that allows them to test their products.
+[00:02:17] Mm-hmm.
+[00:02:18] Can I just ask you a question about that?
+[00:02:19] Mm-hmm.
+[00:02:21] Thank you. Hello, sorry for being late.
+[00:02:24] I'm interested in the on-ramp licenses, the e-money licenses.
+[00:02:29] It's a genuine question. I don't understand why we are still talking about them
+[00:02:32] sort of at the similar stage to what we were in '22.
+[00:02:36] Can you help us as a committee sort of understand the
+[00:02:41] points of tension in the system, I guess, to be able to introduce
+[00:02:44] that? For context, we've got fintechs in the market now that are looking at RBNZ's
+[00:02:48] announcement that they might be able to use the term bank and thinking that will
+[00:02:52] be a better
+[00:02:53] route for them. But obviously they have-
+[00:02:55] Mm-hmm
+[00:02:55] ... to undertake a lot of services that are out of sequence for them, and if they
+[00:02:59] were to grow a bit more naturally and in line with other competitors, say, in
+[00:03:02] Australia, they'd be looking for your licensing.
+[00:03:06] Yeah, sure. And where we're starting with the on-ramp license is
+[00:03:10] the managed investment scheme license, which is something
+[00:03:14] that's been in place since, operational since 2016.
+[00:03:18] But it was designed at a time when it was fairly document heavy, and designed for
+[00:03:22] what I'll call mainstream managed funds.
+[00:03:24] But it's actually quite a flexible type of license.
+[00:03:27] So we've been out in the market over the last couple of months, testing what
+[00:03:31] we're calling a straw man for that.
+[00:03:33] The reason is we want to make sure that what we design actually works for the
+[00:03:36] participants,
+[00:03:38] rather than just being a sort of
+[00:03:40] regulated design solution.
+[00:03:42] Yeah.
+[00:03:43] Feedback we've got is very constructive on that,
+[00:03:46] and we'll be consulting further towards the end of
+[00:03:49] August on a more formed up plan for that.
+[00:03:53] And can I just ask this at the moment?
+[00:03:55] So as I understand it, that's more like the old
+[00:03:59] system where you've got major investors, they're over a financial cap.
+[00:04:03] They don't need the same sort of disclosure because they are majors.
+[00:04:07] So the products that you're building there are
+[00:04:09] simply cutting out the old PDS.
+[00:04:13] What is the hold-up, though, for the licenses where you've got fintechs wanting
+[00:04:17] to deliver services directly for consumers and to use
+[00:04:21] payments as part of their offering then?
+[00:04:23] So there have been a couple there,
+[00:04:26] and we did look at that through the first phase of the sandbox, which is,
+[00:04:31] we cover this in our tokenization discussion paper that we put out.
+[00:04:35] New Zealand doesn't really have a regulatory way to
+[00:04:39] recognize payments-
+[00:04:40] Yeah
+[00:04:41] ... outside of banking, and what we're doing is what
+[00:04:44] we can with the financial services license,
+[00:04:48] which also wasn't designed for payments.
+[00:04:50] So we've found some solutions that have helped individual firms so
+[00:04:54] far, such as we designated the stablecoin offered by
+[00:04:57] ECDD as not a financial product, to allow that to come to market,
+[00:05:02] and we think with the flexibility of the managed investment schemes, we will be
+[00:05:05] able to help more small firms. It's not intended for the large investors
+[00:05:08] necessarily.
+[00:05:10] The exemptions that we gave in the
+[00:05:13] first part of the sandbox for some of the players were actually for very small
+[00:05:16] investments to encourage retail participation.
+[00:05:19] So we're hopeful that we can do the same with this.
+[00:05:21] Okay.
+[00:05:23] You sort of set entirely new thing. Dan?
+[00:05:26] Thanks, Mr. Chair. Thanks for coming before us today and for what your
+[00:05:30] team do. Just want to switch to another part of the banking inquiry
+[00:05:34] around transparency.
+[00:05:37] FMA, you've got this OCR pass-through
+[00:05:42] dashboard, which
+[00:05:44] I've been looking at quite a lot and seeing
+[00:05:48] fairly consistent decreases in time to pass through OCR reductions.
+[00:05:52] I'm wanting to know if you've got any learnings from how
+[00:05:56] that dashboard's working.
+[00:06:00] Has it actually resulted in, in light of transparency, has it
+[00:06:03] resulted in-
+[00:06:05] Greater reductions in passer of OCR reductions.
+[00:06:09] And then secondly, if there's any learnings for how you can bring
+[00:06:13] greater transparency to the
+[00:06:16] way fees and actions are set by banks
+[00:06:21] using the same principles of what you've done here. Thank you.
+[00:06:24] Thank you.
+[00:06:25] Yeah.
+[00:06:25] I might pick that one up, if that's okay. Thank you for the question.
+[00:06:28] So
+[00:06:29] yeah, the data set is just about a year old now,
+[00:06:33] and so it's still relatively early days in terms of the trend analysis that we're
+[00:06:37] seeing. But to your question, I think we are seeing some
+[00:06:41] interesting insights in that in terms of the timing, as you say, and that varies
+[00:06:45] between entities. So we can see that quite transparently.
+[00:06:48] This is what we call a sunlight mechanism, so it means everybody's got access to
+[00:06:52] the data, and we think that's helpful for customers and
+[00:06:56] actually for the wider community in terms of understanding what's happening.
+[00:07:01] We are also seeing that new customers of floating rate
+[00:07:04] mortgages do often receive interest rate changes
+[00:07:08] earlier than existing customers, which is something that we're quite interested in,
+[00:07:12] and we'll be exploring further in our engagement with the banks on this.
+[00:07:16] And equally, floating mortgages and on-call savings account interest
+[00:07:20] rates responses don't always move together.
+[00:07:23] Mm.
+[00:07:24] So that's another area that we will be exploring the banks in terms of what the
+[00:07:28] rationale is for that and why they have chosen to move them at different
+[00:07:32] rates. So as that data set matures, we are looking to see
+[00:07:36] whether it would be helpful to expand that further.
+[00:07:39] And actually, we're looking to create a little bit more as we get more data in,
+[00:07:43] further kind of iterations of the dashboard, so that we can make different
+[00:07:47] insights available through the dashboard.
+[00:07:48] Interesting. So supplementary. So you've got a year of data.
+[00:07:53] Are there any preliminary findings of that year of data in terms
+[00:07:57] of banks' responsiveness to OCR
+[00:08:02] changes and whether they're actually coming down, and
+[00:08:07] is there any actual
+[00:08:10] results that you've got within that one year of data, or it's still too
+[00:08:14] early?
+[00:08:14] I think we feel it's a little too early to tell at this stage,
+[00:08:19] not least because
+[00:08:21] we've had different rate changes at different times.
+[00:08:23] So in terms of a trend analysis, I think we feel we need a bit more
+[00:08:27] time.
+[00:08:27] Mm.
+[00:08:28] And as I said, we will continue to engage with the banks on this topic in terms of
+[00:08:32] the underlying reasons as to why
+[00:08:35] they make some of those changes at different points in the cycle as well.
+[00:08:38] Okay. Wonderful. Thank you.
+[00:08:38] So more to come.
+[00:08:39] Adriana Williams.
+[00:08:39] Just a brief question about that. I also am a fan of that tool.
+[00:08:44] Why did it just sort of
+[00:08:46] go on the website with zero fanfare?
+[00:08:50] We would think that... This committee's very interested in it, the minister's
+[00:08:54] interested in it.
+[00:08:56] Was this another sign that things aren't all happy at the FMA?
+[00:08:59] What are we meant to read into
+[00:09:02] something which is a massive contribution to competition,
+[00:09:06] and something that's been campaigned on for a long time by members of the
+[00:09:09] community, just kind of realizing it was there one day ?
+[00:09:12] Yeah. Thank you. So
+[00:09:15] because this is the first time that we've done something like this, we did want to
+[00:09:18] what we call soft launch it. So we weren't quite sure how it was going to land.
+[00:09:22] And also, some of the participation in it is voluntary
+[00:09:26] as well, so we wanted to make sure that we got the data-
+[00:09:28] Oh
+[00:09:28] ... sets quite tight for that before we
+[00:09:32] actually made more of the information that was there.
+[00:09:35] It's really important that when we're putting things out publicly,
+[00:09:39] we make sure the data's accurate and is good quality.
+[00:09:41] And so that's why last year when we launched it, we wanted to
+[00:09:45] ensure that we had the right quality controls over that before we
+[00:09:49] publicized it more widely.
+[00:09:50] What's-
+[00:09:51] Thanks, Todd. Sorry. Let's keep moving.
+[00:09:52] Oh, yeah. My question's a slightly different one.
+[00:09:55] Obviously, in our report also, we identified the
+[00:09:58] Council of Financial Regulators as an important body.
+[00:10:02] And obviously, Dr. Brenner has presented to us just in the last few weeks
+[00:10:06] in her role as the co-chair. I suppose I'm just keen to
+[00:10:09] get
+[00:10:11] some assurance, because is that now you, Mr. Hircis, acting?
+[00:10:15] Because all I want to just understand is we don't want to lose momentum on
+[00:10:18] the work that is being taken there.
+[00:10:21] And again, it's probably not the right forum today to go into,
+[00:10:25] let's just say, the changes at the FMA and some of the uncertainty.
+[00:10:28] But I just want to, I suppose, get your reassurance that one, are you going to
+[00:10:32] be, in your acting role, you're also the acting co-chair of COFA, and
+[00:10:37] are you across the work programming, and can the FMA continue to support that work?
+[00:10:42] Well, thank you, Mr. Stevenson. Yes.
+[00:10:45] As part of my role as interim CEO, I will be
+[00:10:49] stepping into the role of being one of the co-chairs, I believe, of
+[00:10:52] COFA alongside Dr. Bremner. Yes.
+[00:10:56] And the organization as a whole is
+[00:11:00] fully supportive and up-to-date in terms of the work program.
+[00:11:04] And so I will be-
+[00:11:07] Yeah. Sure
+[00:11:08] ... able to be fully participating in that and fully briefed.
+[00:11:11] The first meeting
+[00:11:14] coming up of the heads is about four weeks away.
+[00:11:17] Yeah.
+[00:11:17] And so I will be attending that fully briefed and with a colleague as well.
+[00:11:21] So we will be continuing our participation.
+[00:11:23] That's good to hear. And then just a quick supplementary.
+[00:11:25] Obviously, the other thing
+[00:11:27] Dr. Bremner touched on is obviously
+[00:11:29] trying to use the COFA to actually coordinate the
+[00:11:34] requirements on all of the people in the financial services sector.
+[00:11:37] And so from the FMA's point of view,
+[00:11:41] have you made progress on coordinating
+[00:11:44] what you're going to be requiring of people and making sure, seeing how that fits
+[00:11:48] in, and yeah. What kind of visibility have you got of that now?
+[00:11:51] I might ask Liam to give a specific-
+[00:11:53] Yeah
+[00:11:53] ... couple of examples.
+[00:11:54] We mentioned a couple of those when we last appeared before you.
+[00:11:58] Mm.
+[00:11:58] But working with the Reserve Bank team to coordinate our frontline
+[00:12:02] supervision, which Claire obviously leads,
+[00:12:05] and the information request there.
+[00:12:06] One example was the recent work on insurance
+[00:12:10] affordability.
+[00:12:11] Yeah.
+[00:12:11] Used that COFA connection to make sure that we had streamlined information requests
+[00:12:15] to make that as manageable as possible for the firms.
+[00:12:18] So yes, that's
+[00:12:20] ongoing work for us.
+[00:12:21] Thank you.
+[00:12:22] I'll combine two questions into one, if I could.
+[00:12:26] In terms of fintech innovation,
+[00:12:29] you've got blockchain tokenization that I know you've done your paper on.
+[00:12:33] Blockchain obviously knocking on your door, they're knocking at everyone's door.
+[00:12:36] Yeah.
+[00:12:37] Are we at the risk of falling behind Australia and Singapore in terms
+[00:12:41] of regulation? Is one of my questions, and I know that you guys are sort of
+[00:12:46] pioneering in some of that space. But I'd also like to know,
+[00:12:50] do you need legislative political
+[00:12:55] leadership or direction in terms of legislation, or have you got a sufficient
+[00:12:59] remit within your purview as FMA and the Reserve Bank
+[00:13:04] to enable and catalyze some of that ecosystem?
+[00:13:07] Sure. Thank you.
+[00:13:10] One of the themes that came through very strongly in the submissions on our
+[00:13:13] tokenization paper
+[00:13:16] was the lack of a coherent cross-government
+[00:13:20] regulatory regime in New Zealand for digital assets,
+[00:13:23] for
+[00:13:25] tokens, and for blockchain.
+[00:13:28] We believe that we can continue to make progress using the powers that we've
+[00:13:32] got.
+[00:13:33] But one of the
+[00:13:36] things that we said in our response to submissions is that we will continue
+[00:13:39] to work with government, looking for a cross-government response, yes.
+[00:13:43] Is it
+[00:13:45] just bubbling away on the never, never, or have you got milestones where
+[00:13:50] there's going to be regulatory certainty because that's what the market's really
+[00:13:53] seeking?
+[00:13:54] The certainty is absolutely what the participants want, and we can provide that
+[00:13:57] within our space.
+[00:13:59] But I think that there is some exploratory work
+[00:14:03] that COFA's looking at,
+[00:14:06] and
+[00:14:08] that I think will help us to get a roadmap that we need for the
+[00:14:11] cross-government solution, because we don't have it at this point.
+[00:14:14] I guess I'm about to go to Aruna to finish up, but I guess
+[00:14:18] the risk is that, yeah, we're doing some work, FMA is doing some work, COFA's doing
+[00:14:22] some work, Reserve Bank's doing some work, MBIE's doing some work.
+[00:14:25] Meanwhile, Singapore's moving miles ahead, Australia's moving miles ahead-
+[00:14:28] ... and billions of dollars of
+[00:14:31] bypassing New Zealand's market. So I guess, what do you
+[00:14:34] need, or what do you need to do to sort of lock some of this in?
+[00:14:40] One of the things that we think we do need is to
+[00:14:44] bring together the different parts of government for that,
+[00:14:48] and some of the work that we're doing at the moment is thinking about what will
+[00:14:52] need to be in briefings for incoming ministers after the election.
+[00:14:55] Because certainly what we're hearing from the fintech industry is there is a
+[00:14:59] very real risk of us falling behind. Yes.
+[00:15:02] So I guess, go back to my first question, does it need political leadership to help
+[00:15:06] you in that? Does the twain need to meet?
+[00:15:08] That's what he's saying.
+[00:15:10] I think it is going to need government leadership, yes.
+[00:15:14] Okay, thank you. Aruna.
+[00:15:16] Your junk insurance report was great. Thank you for that work.
+[00:15:20] I cannot think of a clearer breach of COFI than 2% loss ratio
+[00:15:23] on these insurance products. Why aren't you prosecuting?
+[00:15:27] So the report that we've done is
+[00:15:30] to effectively show insights from the industry.
+[00:15:33] So we have done, as you'll have seen from that, a lot of monitoring
+[00:15:37] activity over the course of the last year.
+[00:15:40] We did see some-
+[00:15:40] We should know
+[00:15:41] ... we did see some good practices from the industry.
+[00:15:44] We-
+[00:15:44] And we are following up in those areas where we see poor practices as well.
+[00:15:48] That's the one thing. Okay.
+[00:15:50] The end.
+[00:15:52] Thank you for coming in. Appreciate it.
+[00:15:54] Thank you, members.
+[00:15:54] It was short-
+[00:15:55] Thank you
+[00:15:55] ... but appreciate those insights.
+[00:15:57] And thank you for the work you're doing and all the best with the
+[00:16:00] work ahead of you.
+[00:16:02] Thank you very much.
+[00:16:02] Thank you.
+[00:16:03] Thank you. Thank you, members.
+[00:16:05] Trust
