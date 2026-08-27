@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-27T06:14:52.179067+00:00",
+  "generated_at": "2026-08-27T11:48:17.534370+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1214105448",
   "title": "2026/08/27 - FD",
-  "url": "https://player.vimeo.com/video/1214105448",
+  "url": "https://vimeo.com/1214105448",
   "published_at": "20260827",
   "published_display": "2026-08-27",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 2025,
   "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758106, Parliament Page foreign-affairs-defence-and-trade, Parliament Page foreign-affairs-defence-and-trade",
   "transcript": {

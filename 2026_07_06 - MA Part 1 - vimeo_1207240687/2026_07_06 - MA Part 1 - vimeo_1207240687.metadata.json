@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T06:15:09.852263+00:00",
+  "generated_at": "2026-08-27T11:44:53.994550+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1207240687",
   "title": "2026/07/06 - MA Part 1",
@@ -7,7 +7,7 @@
   "published_at": "20260706",
   "published_display": "2026-07-06",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 688,
   "source_labels": "Vimeo Showcase 10758262",
   "transcript": {
