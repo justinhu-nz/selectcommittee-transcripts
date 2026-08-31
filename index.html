@@ -62,9 +62,43 @@
 
     .controls {
       display: grid;
-      grid-template-columns: repeat(2, minmax(180px, 260px));
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 12px;
       padding: 8px 0 4px;
+    }
+
+    .filter-field {
+      display: grid;
+      gap: 5px;
+      color: var(--muted);
+      font-size: 0.86rem;
+      font-weight: 600;
+    }
+
+    .date-range {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(180px, 260px)) auto;
+      gap: 12px;
+      align-items: end;
+    }
+
+    .date-range[hidden] { display: none; }
+
+    .clear-dates {
+      min-height: 46px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 9px 14px;
+      background: #fff;
+      color: var(--blue);
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .clear-dates:hover {
+      border-color: var(--blue);
+      background: var(--soft-blue);
     }
 
     .search-prompt {
@@ -479,7 +513,7 @@
     @media (max-width: 760px) {
       .wrap { width: min(100% - 22px, 1180px); }
       .topbar { padding: 38px 0 30px; }
-      .controls, .reader-tools, .match-button, .transcript-row { grid-template-columns: 1fr; }
+      .controls, .date-range, .reader-tools, .match-button, .transcript-row { grid-template-columns: 1fr; }
       .search-shell {
         min-height: 58px;
         padding: 0 14px;
@@ -514,12 +548,44 @@
             <span class="search-cursor" aria-hidden="true"></span>
           </div>
         </label>
-        <select id="committee" aria-label="Committee filter">
-          <option value="">All committees</option>
-        </select>
-        <select id="month" aria-label="Month filter">
-          <option value="">All months</option>
-        </select>
+        <label class="filter-field">
+          <span>Committee</span>
+          <select id="committee" aria-label="Committee filter">
+            <option value="">All committees</option>
+          </select>
+        </label>
+        <label class="filter-field">
+          <span>Month</span>
+          <select id="month" aria-label="Month filter">
+            <option value="">All months</option>
+          </select>
+        </label>
+        <label class="filter-field">
+          <span>Meeting date</span>
+          <input id="exactDate" type="date" aria-label="Show meetings from one date">
+        </label>
+        <label class="filter-field">
+          <span>Period</span>
+          <select id="datePeriod" aria-label="Date period filter">
+            <option value="">All time</option>
+            <option value="last7">Last 7 days</option>
+            <option value="last30">Last 30 days</option>
+            <option value="last90">Last 90 days</option>
+            <option value="thisYear">This year</option>
+            <option value="custom">Custom range</option>
+          </select>
+        </label>
+        <div class="date-range" id="dateRange" hidden>
+          <label class="filter-field">
+            <span>From</span>
+            <input id="dateFrom" type="date" aria-label="Meetings from date">
+          </label>
+          <label class="filter-field">
+            <span>To</span>
+            <input id="dateTo" type="date" aria-label="Meetings to date">
+          </label>
+          <button class="clear-dates" id="clearDates" type="button">Clear dates</button>
+        </div>
       </div>
     </div>
   </header>
@@ -561,6 +627,10 @@
       query: "",
       committee: "",
       month: "",
+      exactDate: "",
+      datePeriod: "",
+      dateFrom: "",
+      dateTo: "",
       page: 1,
       transcriptMatches: null,
       searchSnippets: new Map(),
@@ -580,6 +650,12 @@
       search: document.getElementById("search"),
       committee: document.getElementById("committee"),
       month: document.getElementById("month"),
+      exactDate: document.getElementById("exactDate"),
+      datePeriod: document.getElementById("datePeriod"),
+      dateRange: document.getElementById("dateRange"),
+      dateFrom: document.getElementById("dateFrom"),
+      dateTo: document.getElementById("dateTo"),
+      clearDates: document.getElementById("clearDates"),
       summary: document.getElementById("summary"),
       meetings: document.getElementById("meetings"),
       paginationBottom: document.getElementById("paginationBottom"),
@@ -705,6 +781,54 @@
       const [year, monthNumber] = month.split("-");
       const date = new Date(Number(year), Number(monthNumber) - 1, 1);
       return date.toLocaleDateString(undefined, { year: "numeric", month: "long" });
+    };
+
+    const localDateValue = (date) => {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, "0");
+      const day = String(date.getDate()).padStart(2, "0");
+      return `${year}-${month}-${day}`;
+    };
+
+    const dateDaysAgo = (days) => {
+      const date = new Date();
+      date.setHours(12, 0, 0, 0);
+      date.setDate(date.getDate() - days);
+      return localDateValue(date);
+    };
+
+    const activeDateBounds = () => {
+      const today = dateDaysAgo(0);
+      switch (state.datePeriod) {
+        case "last7": return { from: dateDaysAgo(6), to: today };
+        case "last30": return { from: dateDaysAgo(29), to: today };
+        case "last90": return { from: dateDaysAgo(89), to: today };
+        case "thisYear": return { from: `${today.slice(0, 4)}-01-01`, to: `${today.slice(0, 4)}-12-31` };
+        case "custom": return { from: state.dateFrom, to: state.dateTo };
+        default: return { from: "", to: "" };
+      }
+    };
+
+    const dateFilterLabel = () => {
+      if (state.exactDate) return `Meeting date ${state.exactDate}`;
+      const labels = {
+        last7: "Last 7 days",
+        last30: "Last 30 days",
+        last90: "Last 90 days",
+        thisYear: "This year"
+      };
+      if (labels[state.datePeriod]) return labels[state.datePeriod];
+      if (state.datePeriod !== "custom") return "";
+      if (state.dateFrom && state.dateTo) return `${state.dateFrom} to ${state.dateTo}`;
+      if (state.dateFrom) return `From ${state.dateFrom}`;
+      if (state.dateTo) return `Through ${state.dateTo}`;
+      return "Custom period";
+    };
+
+    const updateDateControls = () => {
+      els.dateRange.hidden = state.datePeriod !== "custom";
+      els.dateFrom.max = state.dateTo || "";
+      els.dateTo.min = state.dateFrom || "";
     };
 
     const highlightText = (value, query) => {
@@ -845,11 +969,15 @@
 
     const filteredMeetings = () => {
       const query = normalize(state.query).trim();
+      const bounds = activeDateBounds();
       return state.data.meetings.filter((meeting) => {
         const committeeMatch = !state.committee || meeting.committee === state.committee;
         const monthMatch = !state.month || meeting.month === state.month;
+        const exactDateMatch = !state.exactDate || meeting.date === state.exactDate;
+        const periodMatch = state.exactDate
+          || ((!bounds.from || meeting.date >= bounds.from) && (!bounds.to || meeting.date <= bounds.to));
         const textMatch = !query || metadataMatches(meeting, query) || (state.transcriptMatches && state.transcriptMatches.has(meeting.guid));
-        return committeeMatch && monthMatch && textMatch;
+        return committeeMatch && monthMatch && exactDateMatch && periodMatch && textMatch;
       });
     };
 
@@ -1086,10 +1214,13 @@
       state.page = Math.min(Math.max(1, state.page), total);
       const pageItems = currentPageMeetings(meetings);
       const transcriptPill = state.transcriptStatus ? `<span class="pill">${escapeHtml(state.transcriptStatus)}</span>` : "";
+      const dateLabel = dateFilterLabel();
+      const datePill = dateLabel ? `<span class="pill">${escapeHtml(dateLabel)}</span>` : "";
       els.summary.innerHTML = `
         <span class="pill"><strong>${meetings.length}</strong> shown</span>
         <span class="pill"><strong>${state.data.meetingCount}</strong> total</span>
         <span class="pill">Generated ${escapeHtml(new Date(state.manifest.generatedAt).toLocaleString())}</span>
+        ${datePill}
         ${transcriptPill}
       `;
 
@@ -1283,18 +1414,78 @@
       scheduleGlobalSearch();
     });
 
-    els.committee.addEventListener("change", (event) => {
-      state.committee = event.target.value;
+    const applyFilterChange = () => {
       state.page = 1;
       writePageToUrl(1, true);
       render();
+      if (state.transcriptMatches) {
+        loadTranscriptSearchSnippets(state.searchRun, normalize(state.query).trim());
+      }
+    };
+
+    els.committee.addEventListener("change", (event) => {
+      state.committee = event.target.value;
+      applyFilterChange();
     });
 
     els.month.addEventListener("change", (event) => {
       state.month = event.target.value;
-      state.page = 1;
-      writePageToUrl(1, true);
-      render();
+      applyFilterChange();
+    });
+
+    els.exactDate.addEventListener("change", (event) => {
+      state.exactDate = event.target.value;
+      if (state.exactDate) {
+        state.datePeriod = "";
+        state.dateFrom = "";
+        state.dateTo = "";
+        els.datePeriod.value = "";
+        els.dateFrom.value = "";
+        els.dateTo.value = "";
+      }
+      updateDateControls();
+      applyFilterChange();
+    });
+
+    els.datePeriod.addEventListener("change", (event) => {
+      state.datePeriod = event.target.value;
+      if (state.datePeriod) {
+        state.exactDate = "";
+        els.exactDate.value = "";
+      }
+      if (state.datePeriod !== "custom") {
+        state.dateFrom = "";
+        state.dateTo = "";
+        els.dateFrom.value = "";
+        els.dateTo.value = "";
+      }
+      updateDateControls();
+      applyFilterChange();
+    });
+
+    els.dateFrom.addEventListener("change", (event) => {
+      state.dateFrom = event.target.value;
+      updateDateControls();
+      applyFilterChange();
+    });
+
+    els.dateTo.addEventListener("change", (event) => {
+      state.dateTo = event.target.value;
+      updateDateControls();
+      applyFilterChange();
+    });
+
+    els.clearDates.addEventListener("click", () => {
+      state.exactDate = "";
+      state.datePeriod = "";
+      state.dateFrom = "";
+      state.dateTo = "";
+      els.exactDate.value = "";
+      els.datePeriod.value = "";
+      els.dateFrom.value = "";
+      els.dateTo.value = "";
+      updateDateControls();
+      applyFilterChange();
     });
 
     const handlePaginationClick = (event) => {
@@ -1360,6 +1551,7 @@
         buildSearchSuggestions();
         setSearchPlaceholderVisibility();
         startSearchPlaceholder();
+        updateDateControls();
         state.page = readPageFromUrl();
         render();
       })
