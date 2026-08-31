@@ -295,27 +295,21 @@
       color: #46515e;
       font-size: 0.91rem;
       line-height: 1.4;
-      white-space: pre-line;
     }
 
     .machine-summary-label {
-      display: flex;
-      align-items: center;
-      gap: 5px;
-      margin-bottom: 2px;
+      display: block;
+      margin-bottom: 1px;
       color: #384451;
-      font-size: 0.75rem;
+      font-size: 0.68rem;
       font-weight: 700;
+      line-height: 1.15;
       letter-spacing: 0.04em;
       text-transform: uppercase;
     }
 
-    .machine-summary-icon {
-      color: #566270;
-      font-family: "Segoe UI Symbol", "Noto Sans Symbols", sans-serif;
-      font-size: 0.92rem;
-      font-weight: 400;
-      line-height: 1;
+    .machine-summary-text {
+      white-space: pre-line;
     }
 
     .snippets {
@@ -1143,10 +1137,7 @@
     const renderDescription = (meeting, query) => {
       if (!collapseWhitespace(meeting.description) && collapseWhitespace(meeting.machineSummary)) {
         return `
-          <p class="desc machine-summary">
-            <span class="machine-summary-label"><span class="machine-summary-icon" aria-hidden="true">🤖︎</span>Machine summary</span>
-            ${escapeHtml(meeting.machineSummary)}
-          </p>
+          <div class="desc machine-summary"><span class="machine-summary-label">Machine summary</span><span class="machine-summary-text">${escapeHtml(meeting.machineSummary)}</span></div>
         `;
       }
       const summary = meeting.descriptionSummary || meeting.topic || meeting.description || "";
