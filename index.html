@@ -286,6 +286,20 @@
 
     .desc-toggle:hover { text-decoration: underline; }
 
+    .machine-summary {
+      white-space: pre-line;
+    }
+
+    .machine-summary-label {
+      display: block;
+      margin-bottom: 3px;
+      color: var(--green);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
     .snippets {
       display: grid;
       gap: 8px;
@@ -1109,6 +1123,14 @@
     const titleFor = (meeting) => meeting.displayTitle || meeting.title || meeting.sourceTitle || "Untitled meeting";
 
     const renderDescription = (meeting, query) => {
+      if (!collapseWhitespace(meeting.description) && collapseWhitespace(meeting.machineSummary)) {
+        return `
+          <p class="desc machine-summary">
+            <span class="machine-summary-label">Machine summary</span>
+            ${escapeHtml(meeting.machineSummary)}
+          </p>
+        `;
+      }
       const summary = meeting.descriptionSummary || meeting.topic || meeting.description || "";
       const full = meeting.description || summary;
       const expanded = state.expandedDescriptions.has(meeting.guid);

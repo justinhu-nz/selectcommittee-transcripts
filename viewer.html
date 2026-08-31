@@ -550,9 +550,15 @@
         <button id="downloadCleanTxt" type="button">Download clean TXT</button>
         <a href="index.html">Search</a>
       `;
-      if (meeting.description) {
+      const descriptionText = collapseWhitespace(meeting.description)
+        ? meeting.description
+        : meeting.machineSummary;
+      const descriptionLabel = collapseWhitespace(meeting.description)
+        ? "Video description"
+        : "Machine summary";
+      if (descriptionText) {
         els.descriptionPanel.hidden = false;
-        els.descriptionPanel.innerHTML = `<summary>Video description</summary><p>${escapeHtml(meeting.description)}</p>`;
+        els.descriptionPanel.innerHTML = `<summary>${descriptionLabel}</summary><p>${escapeHtml(descriptionText)}</p>`;
       } else {
         els.descriptionPanel.hidden = true;
         els.descriptionPanel.innerHTML = "";
