@@ -1,0 +1,542 @@
+Title: 2026-09-02 Finance and Expenditure Committee
+URL: https://vimeo.com/1221329035
+Published: 2026-09-02
+Duration: 00:36:35
+
+[00:00:05] You might need to click as accept to being a panel, or host.
+[00:00:16] Do you want to kick off for us, Kevin, because we've only got 15 minutes for this?
+[00:00:21] Yeah. Hold on a second. I'll just have to...
+[00:00:23] Brent was going to do the intro, so hold on a second.
+[00:00:25] Let me-
+[00:00:27] Emma's on now.
+[00:00:29] And,
+[00:00:31] Brent.
+[00:00:31] It's me.
+[00:00:34] Hear you, Brent. Just can't see you, but that's okay.
+[00:00:36] Unless you've got-
+[00:00:38] I think you're better off that way, Chair.
+[00:00:40] Are you wearing a nice bow tie this morning?
+[00:00:45] On this occasion, I'm not, and that's better for you.
+[00:00:51] So I just don't have my camera. Why is my camera not on?
+[00:00:55] So-
+[00:00:56] Come.
+[00:00:57] All right. So thank you. See, I need this assistance, and you
+[00:01:03] guys are far more
+[00:01:05] skilled than I am in this regard. So can you see me now?
+[00:01:09] Yes, we can. Yep. Wave your hands if you want to open with a few points.
+[00:01:14] Okay. Let me just kick on, if I may. So, thank you, Chair, and members of the
+[00:01:21] committee. We really appreciate the opportunity to come along and talk to you
+[00:01:25] today. So on behalf of the Non-Bank Deposit Takers Association, thank you for the
+[00:01:30] opportunity. We'd like to focus on two factors today.
+[00:01:34] First, proportionality, and the second one is on capital.
+[00:01:39] So NBDTs have really strong regulation, our
+[00:01:45] prudential supervision, and a safe and stable system.
+[00:01:50] However, it remains important that the regulatory requirements reflect the size and
+[00:01:56] the scale of the institutions. This is really important. It does relate to us.
+[00:02:01] All of the banks are larger than us, so they have a bigger asset base over which to
+[00:02:06] spread the costs. As we're going into this process, there's no question that the
+[00:02:11] costs are escalating, and that's putting pressure upon all the new players in the
+[00:02:17] Non-Bank Deposit Taker Association.
+[00:02:19] So please, if you could, focus on proportionality.
+[00:02:24] Remember that things such as bank levy, doesn't seem like a lot of money, but it is
+[00:02:30] proportionate. It comes to us, it hurts, and it just adds to our
+[00:02:35] costs. And you know, it's like inflation.
+[00:02:38] We know that the costs will go up, it will creep, and very seldom will it go away.
+[00:02:43] So we want to really focus on any of those sort of, they seem insignificant,
+[00:02:49] but they are very significant across a smaller asset base.
+[00:02:54] General Capital is the parent company of my business. I'm the CEO of that.
+[00:02:58] We're listed on NZX. We have costs, and we have the ability to raise additional
+[00:03:04] capital. General Finance is the licensed body. They are the subsidiary.
+[00:03:09] And so we've got two levels of cost within that structure.
+[00:03:14] I do want to reinforce the fact that
+[00:03:19] if we do not make money, then the smaller end of the businesses will fail.
+[00:03:23] And we've seen what happens out of that. We've seen the bigger banks buy you.
+[00:03:27] And if you look at someone like Heartland Bank, which has three NBDTs in it,
+[00:03:32] virtually every bank around has got an NBDT in it, right from ANZ,
+[00:03:38] right down. So if you really want competition, if that is a
+[00:03:44] motivator in here, if we do want to get competition in the sector, we have to make
+[00:03:49] sure the costs are proportional and that we are able to gain
+[00:03:55] returns on our capital. If I look at the smaller banks, the return on the banks
+[00:04:00] like Bank of Baroda and Bank of India, et cetera, their returns are very low.
+[00:04:05] So, they would not be around if they did not have parents back in India.
+[00:04:11] So if you are serious, you do have to help us by controlling the
+[00:04:16] costs and by assisting us through that next level of control of costs.
+[00:04:24] We all know that the market is relatively concentrated here.
+[00:04:29] But if you look at the costs, if we all want to go and set up new computer systems,
+[00:04:34] the
+[00:04:35] amount of cost is absolutely massive.
+[00:04:38] I really implore you as a team watching over the Reserve Bank, that you are
+[00:04:44] thinking about cost as a major, major issue if you do expect this to
+[00:04:49] be successful over the next three or four years.
+[00:04:54] I'll pass now over to Kevin Hughes. Kevin was with us earlier and thank you.
+[00:04:59] Sorry to muck you around earlier, Kevin. I pass to you.
+[00:05:03] No, thank you, Brent. And, yeah, so hello, I'm Kevin Hughes.
+[00:05:06] I'm the CEO at Unity Credit Union. So we're a small credit union, sort of
+[00:05:11] headquartered out of Hawke's Bay, got about 35,000 members.
+[00:05:16] Following on from what Brent said, just want to highlight around the whole payments
+[00:05:19] infrastructure and open banking area.
+[00:05:21] So, with competition today, it depends not only on the ability to take on deposits
+[00:05:27] and provide loans, but obviously, also participate in the infrastructure that
+[00:05:31] enables customers to make payments and access modern financial services in a
+[00:05:37] secure, safe way. And that's really important.
+[00:05:40] So for smaller organizations like us, the access to that infrastructure is
+[00:05:45] technically feasible, but often not practical or commercially viable.
+[00:05:50] And I'd just like to highlight a couple of key examples that are recent examples of
+[00:05:54] this around how embedded pricing models that are traditional make it very
+[00:05:58] challenging for smaller organizations to get engaged in the payments and
+[00:06:03] transaction banking infrastructure.
+[00:06:06] And those traditional models are usually based on a fixed rate price and then a
+[00:06:10] variable on top. So I'll provide two recent examples. ESAS.
+[00:06:14] So we're really pleased that the Reserve Bank have made ESAS available to our
+[00:06:19] sector, and that's been certainly, part of that's been the influence of this
+[00:06:23] committee.
+[00:06:24] But it looks great on paper that it's theoretically available, but it's technically
+[00:06:28] not that easy. And the Reserve Bank have come up with a pricing model which
+[00:06:34] puts a fixed rate price before you even start.
+[00:06:37] And that has effectively meant that most of the NBDTs have decided it's
+[00:06:41] commercially not viable for them to be involved.
+[00:06:44] So fixed rate price, and that fixed rate price doesn't look very high, but that's
+[00:06:49] an example where for small organizations, every bit of this cost actually ends up
+[00:06:54] being disproportional. Another example is confirmation of payee.
+[00:06:59] Great initiative by the bank, through the banking association to set up extra
+[00:07:04] benefits and fraud protection for people making payments.
+[00:07:09] This was implemented without involvement of the smaller organizations that
+[00:07:12] effectively do exactly the same thing.
+[00:07:15] We've now got involved, but once we got involved, the pricing model for
+[00:07:20] confirmation of payee has a fixed rate price and a variable rate price, again,
+[00:07:25] making it largely uneconomic. Good news for us is that we've been able to negotiate
+[00:07:29] a better price, and we now have confirmation of payee.
+[00:07:32] But again, it's just there's still a fixed rate price in there, which is
+[00:07:36] disproportional for smaller players.
+[00:07:41] And then, of course, Brent's related to the prudential levy as well.
+[00:07:45] The Reserve Bank's preferred approach is to have a fixed rate fee and then a
+[00:07:50] variable on top. Once again, what you're seeing is any one of these things alone is
+[00:07:55] probably okay, but as you add all of these different layers up, you're adding a
+[00:07:59] fixed rate cost to the participation of small organizations.
+[00:08:05] I'm just conscious about time, so I've actually just...
+[00:08:08] So I suppose the key thing for us is that we need to ensure that embedded, what we
+[00:08:13] almost say would be anti-competitive pricing, effectively if we find a way to sort
+[00:08:18] of make sure that we can make sure that for organizations of a smaller scale who
+[00:08:22] play a really important role in New Zealand, have still got the ability to provide
+[00:08:26] those services for their customers and their members. I'll pass on to Emma.
+[00:08:32] Thanks, Kevin, and-
+[00:08:33] We've only got five minutes left too, so if you want some questions.
+[00:08:36] Yes. I'll keep it very brief. So I think I just want to round it out by
+[00:08:41] saying, what Kevin and what Brent are saying is that
+[00:08:46] there's been a lot of really good stuff happening, but the key is whether it works
+[00:08:49] in practice. So we do want to really acknowledge that real progress has been made,
+[00:08:54] the ESAS, the proportionality framework, capital settings, and use of the word
+[00:08:59] bank. Those are big deals for the NBDTs, and they will make a
+[00:09:05] difference.
+[00:09:07] But what we really need, and the question that you asked us was, what settings do
+[00:09:12] we want to see? We're really pleased with all the settings at a headline level, but
+[00:09:16] the detail needs to be continually observed.
+[00:09:21] And so that's our ask of the committee, is to see, so when these things are being
+[00:09:26] implemented, what is happening in practice? Are people using them?
+[00:09:31] Is it making the change that we want to see?
+[00:09:35] Because there will need to be constant monitoring and recalibration to make sure
+[00:09:39] that the detail, which is sometimes a little bit harder to keep interest in, but
+[00:09:45] that is really where the rubber hits the road.
+[00:09:48] So we'll leave it there, and please ask us any questions.
+[00:09:53] Thank you. We'll go first to Aradhana Williams.
+[00:09:56] Thank you. We don't have a lot of time, so forgive me for short questions.
+[00:10:01] First, to your point, Kevin, how much have you
+[00:10:07] been charged to access ECAS? We need some specifics about that because the
+[00:10:11] government accepted EPC's recommendation that the regulatory settings for non-bank
+[00:10:16] deposit takers should be a focus, and everyone's on board.
+[00:10:21] Yeah. So it's a $8,000 application fee, and it's $2,000 a month to participate.
+[00:10:28] Okay.
+[00:10:28] And again, that doesn't sound like a lot of money, but again, it's the cumulative
+[00:10:32] effect of some of these things.
+[00:10:34] And it's the initial setup cost that is, in your view, more problematic than the
+[00:10:37] ongoing cost?
+[00:10:38] I think the ongoing 2,000, because effectively we would only be using it a few
+[00:10:42] times a week, so if you work out a proportional per transaction cost, it's actually
+[00:10:47] quite high-
+[00:10:48] ... for someone like us compared to a second ANZ, for example.
+[00:10:52] So that's where it becomes problematic.
+[00:10:55] Understood. Okay. More general question.
+[00:10:58] There are still only 15 licensed non-bank deposit takers, I think, but one
+[00:11:04] new entrant in July. Are you seeing more interest because of those three changes
+[00:11:09] that the sector's been advocating for a long time?
+[00:11:12] Emma,
+[00:11:14] your question.
+[00:11:15] Yeah. Definitely seeing more interest in the last
+[00:11:20] couple of years since the Deposit Takers Act has gone through, and the use of the
+[00:11:23] word bank has really escalated interest, and we're seeing people from overseas and
+[00:11:28] people within New Zealand looking now to enter the market.
+[00:11:31] It's just it will take time.
+[00:11:33] Okay. So you're seeing a few of those new entrants, but we're not seeing that yet,
+[00:11:36] and a growth of about, I think 700 million in the sector, but you're still 0.4% of
+[00:11:41] total lending in New Zealand. What's it going to take to grow?
+[00:11:46] Do you think anything you've asked for today is the ticket?
+[00:11:52] If I may just jump in there. The real key is, if you're a lender, how do you raise
+[00:11:56] your capital? So do you raise it from another bank?
+[00:11:59] And so you'll know that Westpac are a very significant lender to intermediaries.
+[00:12:04] So
+[00:12:06] intermediaries get their facility from Westpac, then they re-lend.
+[00:12:11] So we're a non-bank deposit taker, so we actually take deposits from the public,
+[00:12:16] whereas other people raise it through systems like unit trusts, et cetera.
+[00:12:21] So I think that is good, healthy competition between all that sector to create that
+[00:12:27] tension. So it will keep going up, but it's still a limit on
+[00:12:32] what this sector will be able to raise, how much capital this sector will be able
+[00:12:36] to raise.
+[00:12:38] Thanks. David Wilson.
+[00:12:40] Yeah. Do you think there's any reason why would the world end with banks if they
+[00:12:45] were compelled to use fixed rates that are issued by the RBNZ?
+[00:12:54] I think it would get very rigid, very regimented, and
+[00:13:00] I don't think you'd get the market reactions that allows that
+[00:13:05] flexibility for us to say, for example, do we want to lend money on AI?
+[00:13:10] Do we want to lend it for systems on AI?
+[00:13:13] So would the Reserve Bank or somebody else be a party who would price that?
+[00:13:18] I'd be very reluctant to see that occur.
+[00:13:21] Quick question from me, just on switching.
+[00:13:24] What would make it easier for customers to switch their deposit savings and lending
+[00:13:28] from major banks to
+[00:13:34] Sorry if I'm dominating this, but the key on this is when your deposit comes up for
+[00:13:40] maturity, you're looking around to see who will I invest with?
+[00:13:43] And you'll look at the interest rate, and you'll just go to one of those other
+[00:13:48] banks and have a look. And secondly, you'll see what term do I want?
+[00:13:54] So what advice do I need to say, "Hey, put this away for one month, or one year, or
+[00:14:00] five years," or whatever it might be.
+[00:14:02] Yeah, that's on the deposit side. What about the lending side in terms of the
+[00:14:05] mortgage markets?
+[00:14:06] Because we have fixed rate deposits, then we have to have fixed rate
+[00:14:13] loans as well. So to get the matching of that, we match exactly on that with a
+[00:14:18] slight skew to the front end. So that stops that sudden rush on your deposits.
+[00:14:24] Can I just add to that as well? One of the good things that is coming in from 1st
+[00:14:29] October obviously is the new risk weight settings under the capital settings, and
+[00:14:33] that's obviously been part of the influence of this committee as well.
+[00:14:36] So it's going to be really interesting to see how now we have to have alignment of
+[00:14:39] risk weights and, I suppose, an equal playing field with the main banks for
+[00:14:45] how each asset is rated. That's going to provide an opportunity for us to be able
+[00:14:50] to be more competitive, especially in light housing, and obviously now we've got
+[00:14:55] the introduction of new risk weights for small business lending as well.
+[00:14:58] That's going to effectively be a positive thing for our sector about us being able
+[00:15:03] to compete more and offer a more competitive product.
+[00:15:06] Yeah. Look, we're going to have to end it there.
+[00:15:08] Thank you so much, Kevin, Emma, and Brent.
+[00:15:10] Really appreciate your contribution to the third round of the inquiry.
+[00:15:14] Thank you.
+[00:15:15] Thank you too.
+[00:15:18] All right. We've got Revolut in the room.
+[00:15:21] Welcome, Ryan and Georgia.
+[00:15:28] No kidding.
+[00:15:33] Thank you both for joining us.
+[00:15:35] We have received your written submission.
+[00:15:37] If you have got some opening comments, you're welcome to them.
+[00:15:39] Please keep them short because I know there's some good questions already
+[00:15:42] circulating amongst committee.
+[00:15:44] Excellent.
+[00:15:47] Well, good morning, Chair and committee members.
+[00:15:51] Thank you for the opportunity to speak today.
+[00:16:02] We are, firstly, I'd like to say we're very supportive of the committee's
+[00:16:08] drive to ensure progress on the recommendations made at last year's review into
+[00:16:13] banking competition in the New Zealand market, and to bring greater innovation and
+[00:16:18] value to New Zealand consumers and businesses in meeting their financial needs.
+[00:16:24] I'm Ryan Brussenhan. I've recently joined Revolut New Zealand as our CEO.
+[00:16:29] With me today is Georgia Grange, who is Revolut New Zealand's chief operating
+[00:16:32] officer. Georgia established the Revolut business in New Zealand three years ago,
+[00:16:38] so has been on the entire journey. Revolut's mission is to simplify all things
+[00:16:43] money, and our vision is to become the world's first truly global bank.
+[00:16:48] We're building an app where customers can manage their entire financial lives in
+[00:16:52] one place. Ultimately, we want to make all things money easier and cheaper for
+[00:16:57] Kiwis everywhere. We've committed to invest 120 million into local
+[00:17:02] operations over the next five years, and have already hired 50 people locally into
+[00:17:08] the Revolut New Zealand business.
+[00:17:10] Globally, Revolut now has over 80 million customers and is active in 40 markets,
+[00:17:16] and we continue to grow strongly as our proposition continues to resonate in
+[00:17:21] meeting the needs of consumers and businesses around the globe.
+[00:17:25] As we have outlined in our written submission in answer to the committee's
+[00:17:28] questions, Revolut's core position is clear.
+[00:17:31] AOTearoa's banking and payments market suffers from a chronic lack of competition,
+[00:17:37] and we are supportive of the recommendations arising out of the Commerce Commission
+[00:17:41] and Finance and Expenditure Committee's reviews.
+[00:17:45] To achieve true market disruption, our priority should be empowering consumers
+[00:17:50] through strict open banking API standards and democratizing the use of their
+[00:17:56] data,
+[00:17:57] implementing risk proportional licensing, and establishing passporting frameworks
+[00:18:03] with trusted global jurisdictions like Australia, the UK, and the EU.
+[00:18:09] By addressing foundational governance such as the independent review that is soon
+[00:18:14] to be underway of Payments New Zealand and focusing on modern fraud overlays, we
+[00:18:19] can rapidly attract global innovation, lower merchant costs, and give Kiwis the
+[00:18:23] world-class financial tools they deserve.
+[00:18:27] Building a multi-year, expensive, centralized real-time payments rail is
+[00:18:33] not a silver bullet to increase competition
+[00:18:37] Rather than prioritizing the industry investment of significant capital to laying
+[00:18:41] new settlement pipes that consumers are not currently asking for, our priority
+[00:18:46] should be improving the governance mechanisms and uplifting our existing
+[00:18:51] infrastructure. And with that, we're happy to answer any questions.
+[00:18:57] Thank you. I'm going to start off with Dan Edwin.
+[00:18:59] Thanks, Mr. Chair. Thanks, Ryan and Georgia, for coming before us today, and we've
+[00:19:03] heard a lot about your business. We understand you've got an application to
+[00:19:09] become a registered bank in New Zealand, so best wishes to that.
+[00:19:14] This committee clearly wants competition. We're agnostic on the company.
+[00:19:19] We want greater competition in the sector.
+[00:19:21] So wondering if you could just outline for us where you enter markets
+[00:19:26] overseas. What's the kind of growth trajectory that you've experienced in your
+[00:19:32] company in terms of disrupting existing players?
+[00:19:35] So from going from 0% market share to, what is that?
+[00:19:40] Wanting to understand the potential for Revolut to disrupt New Zealand's business
+[00:19:44] in banking.
+[00:19:46] Yeah. Thanks, Dan. It's obviously different in every
+[00:19:51] market we've been in, but we generally enter with an everyday
+[00:19:58] spending type proposition to make it easier for customers transact.
+[00:20:02] The main vertical that Revolut has traditionally entered in is the travel segment.
+[00:20:09] So making it easier and simpler for customers to
+[00:20:15] undertake foreign currency transactions, and also spend and save on a
+[00:20:21] daily basis. So that everyday banking capability
+[00:20:27] is where Revolut has grown significantly.
+[00:20:32] In a lot of markets, as I say,
+[00:20:34] all markets are differently, and there's some stats from markets
+[00:20:40] like Ireland, where Revolut has very extensive
+[00:20:46] usage of the app, which Ireland is not unlike New Zealand in terms
+[00:20:52] of size and market structure. So I think it varies by market, but
+[00:20:58] as I said in my opening remarks, the proposition seems to be resonating
+[00:21:03] with consumers and small businesses, because it effectively makes their lives
+[00:21:08] easier.
+[00:21:09] You've just got registration in Australia.
+[00:21:12] Do you want to talk about
+[00:21:14] what's the plan there? Because I guess we're relatively similar markets and similar
+[00:21:19] structure of banking markets as well.
+[00:21:22] Yes. So Australia received their ADI license
+[00:21:28] in mid-July, mid-August, mid-July.
+[00:21:31] And
+[00:21:33] Revolut in Australia has been around a similar time to New Zealand, Georgia?
+[00:21:38] Revolut Australia, yes, two more years than we.
+[00:21:43] We've been live in New Zealand just over three.
+[00:21:45] Australia started their journey just over five years ago.
+[00:21:50] They, again, to Ryan's point, started in the personal payments and eFX space and
+[00:21:55] has grown significantly from there.
+[00:21:58] They've also entered into different products that we don't have in New Zealand
+[00:22:02] currently, like unsecured personal loans.
+[00:22:06] They've seen great growth with their business proposition there as well, helping
+[00:22:10] small businesses.
+[00:22:13] In terms of the competition that we see in terms of uplift for markets,
+[00:22:19] for instance, in Ireland, to Ryan's point, where two in three Irish have a
+[00:22:25] Revolut account, which I think has more recently gone closer to the 80% of the
+[00:22:30] market mark. And what we consistently see is
+[00:22:36] once Revolut is launching different propositions, others are coming to play in
+[00:22:41] terms of changing, whether it's their loyalty points, what they're offering, or
+[00:22:45] whether it's their potentially hit a cap in terms of how small businesses get to
+[00:22:50] access their savings accounts and things like that.
+[00:22:53] We do see a trickle-on effect in pretty much all markets.
+[00:22:57] We start to see those movements, and we're already starting to see that in New
+[00:22:59] Zealand as well, which is reassuring that we're pushing the boundaries to get
+[00:23:04] what's right for Kiwis.
+[00:23:05] And one final question, Mr. Chair.
+[00:23:07] What's one change do you think that New Zealand Parliament could make to make
+[00:23:13] it easier for companies like yourself to enter and to grow and to thrive in New
+[00:23:18] Zealand?
+[00:23:20] So I think the changes that are already underway are the right changes to make,
+[00:23:25] one. The
+[00:23:30] lowering of the capital requirement is a good change.
+[00:23:35] There's a number of good changes. As I said, the governance review that's being
+[00:23:39] undertaken in Payments New Zealand I think is a good change.
+[00:23:45] The opening of access to the payment system.
+[00:23:47] I know you said one, Dan, but they're all good changes.
+[00:23:50] Great. Thank you.
+[00:23:50] Very good. Ariana Williams.
+[00:23:52] Georgia. Delighted you're here.
+[00:23:54] Thank you very much.
+[00:23:55] Please get bigger.
+[00:23:57] We have been talking about you a lot with other people who have appeared before us,
+[00:24:03] and I guess the question that I've been putting to a number of the regulators is,
+[00:24:06] you've been knocking on the door since December 2024. Why is the moat so deep?
+[00:24:13] I know you're at the stage now where you're almost there.
+[00:24:16] So you've almost swum that moat. But please share with us some of the insight into
+[00:24:20] why, and you've entered so many global markets, and it has taken so long to get
+[00:24:25] through what should've been a relatively open market that was designed in the 1980s
+[00:24:31] at the height of sort of an open-mindedness to places like yourselves being able to
+[00:24:35] get in here.
+[00:24:38] So I think as you referred to the bar,
+[00:24:44] all central banks and regulators have a prime interest in ensuring
+[00:24:50] the financial stability of the markets they oversee.
+[00:24:54] So the bar for entering as a regulated entity is quite rightly
+[00:25:00] very high. And so
+[00:25:03] I'm not sure,
+[00:25:06] and we're very supportive of that obviously, and we want to be held to the highest
+[00:25:10] standard. So all those changes we just mentioned
+[00:25:15] that you have underway are obviously going to, all those things help.
+[00:25:21] There's no one thing, I think, to Dan's point.
+[00:25:23] I'm not sure there's one silver bullet.
+[00:25:26] But it's the whole ecosystem and opening that up and making it easier
+[00:25:31] to enter and operate within that ecosystem, which is, it's
+[00:25:37] many things. It's the open banking work that's being done.
+[00:25:41] It's enforcing those API standards so that people can actually move data around.
+[00:25:45] It's the lowering of the capital requirements.
+[00:25:48] It's all those things together actually will increase the openness and
+[00:25:54] competitiveness.
+[00:25:55] I'm going to run out of time, so I'll ask you specific questions.
+[00:25:58] It would be great if you could offer that personal loan and small business lending
+[00:26:01] product in the New Zealand market from day one. You won't be able to. Why?
+[00:26:07] So, as I said, our strategy is to start with everyday banking, basically, to get
+[00:26:12] customers used to using the app, help them basically with everything they're doing
+[00:26:18] on a daily basis. We are looking to launch credit cards very early
+[00:26:24] on. And that we're actually using the open banking rails to make that
+[00:26:30] application process really easy for consumers, and we'll be the first, I think, in
+[00:26:35] New Zealand to actually have an open banking-based
+[00:26:40] instantaneous credit decisioning process for that credit card application.
+[00:26:45] So that talks to one of those points.
+[00:26:49] You've been negative about real time payments in New Zealand.
+[00:26:54] Is that because you see it as a competitive advantage for yourselves having
+[00:26:57] invested in the system?
+[00:26:59] No. I wouldn't characterize it as being negative.
+[00:27:03] I'd say we shouldn't do that first.
+[00:27:07] There's other low-hanging fruit that could increase competition, such
+[00:27:13] as clarifying governance, leveraging our existing infrastructure before we go to
+[00:27:19] real time payments. And that's purely because the real time payments journey, if
+[00:27:23] you look at every other jurisdiction, is heavy investment and long lead times.
+[00:27:29] Right, members, we have got a little bit of flex this morning.
+[00:27:31] I know there's a few questions, so-
+[00:27:32] Just a short one.
+[00:27:34] EB and Payments New Zealand have gone through some change over the last few months.
+[00:27:39] Have you observed a difference in trying to get licensed for the products that you
+[00:27:44] could offer in the next sort of 12 to 36 months?
+[00:27:48] The licenses that we are working through don't require the necessary
+[00:27:54] sign-off or approval.
+[00:27:55] Okay.
+[00:27:56] I think to the conversation around how do we open up competition, the conversations
+[00:28:01] we're having around Capital and ESAS and useful return bank are all good things,
+[00:28:05] but to be honest, not silver bullet.
+[00:28:07] Any competition is good competition, and we
+[00:28:13] obviously all want to see more Kiwi fintechs and payments company come from the
+[00:28:17] ground up. We, Revolut, recognize we come in with a global backing, which is
+[00:28:23] great and helpful for us to be able to push more of these products and experiences
+[00:28:27] into the market. Even with that backing, the idea of connecting them to ESAS isn't
+[00:28:32] necessarily going to be a game changer for us, which requires us to have
+[00:28:37] institutional banking relationships in New Zealand.
+[00:28:40] Therefore, we don't have any active licensing per se, applications open with
+[00:28:46] NB or payments New Zealand today. So no clear answer, admittedly.
+[00:28:51] There's no change that we've witnessed so far.
+[00:28:54] Yeah.
+[00:28:54] But until we get all these settings right,
+[00:28:59] we, yeah, can't move forward as an industry.
+[00:29:01] Is it-
+[00:29:02] Dr. David Wilson. Yeah, I'm going to put two things together here because you've
+[00:29:06] opened this conversation up. But from my perspective, look, my daughter was in
+[00:29:10] Ireland for a long time, and she used Revolut. And when I went there, I used Wise.
+[00:29:15] And at the time, I used Wise because I thought it was more safe.
+[00:29:20] And there has been, as you're well aware, instances where fraud has been active.
+[00:29:26] So I heard you say that you're looking towards more modern fraud systems, but
+[00:29:32] it's also related to the payment rails, which you just mentioned.
+[00:29:35] So I'm interested because the large part of your business is smaller amounts, fast,
+[00:29:40] convenient, and lower cost. So there's balance there, isn't there?
+[00:29:45] But I'm interested in the payment rails because addressing fraud will be really,
+[00:29:50] really important with that.
+[00:29:52] Yeah. And fraud is obviously a global industry
+[00:29:58] issue.
+[00:29:59] That's the first piece. Revolut, we've got an
+[00:30:04] incredibly active fraud strategy.
+[00:30:09] We've got a huge proportion of our workforce are in the financial crime space.
+[00:30:14] And because we're a technology-based company, we've introduced a very
+[00:30:20] large number of controls and fraud overlays into our proposition,
+[00:30:26] like AI scam intervention on calls when a scam caller is
+[00:30:31] calling. We've got nine card controls in place on the app, which enables
+[00:30:37] consumers a lot of control over what they can do and what levels of granularity
+[00:30:42] they could block at.
+[00:30:46] So there's a whole bunch of controls that we can introduce, and we're continuing to
+[00:30:51] introduce really quickly because we're a tech company, effectively.
+[00:30:56] So we can do that. The other piece of it is obviously,
+[00:31:02] a majority of the fraud is via social engineering rather than the technology or
+[00:31:08] the payment rails. And so that social engineering piece,
+[00:31:14] much of which originates from the large social platforms, is a
+[00:31:20] key entry point for fraudsters that we look to put controls in our
+[00:31:26] app that help mitigate against that risk.
+[00:31:29] Yeah. So you've got bit of red flags nowadays than maybe what you had
+[00:31:35] before.
+[00:31:35] And proactively putting that control in the consumer's hands so
+[00:31:40] it can flag things up for them, and they can intervene, rather than
+[00:31:46] having to reactively capture something after the money's gone.
+[00:31:50] And I think on that, in terms of where we want to see things move forward is fraud
+[00:31:56] is like an ecosystem problem. It's the social media platforms, it's the tech
+[00:32:01] companies. It's not necessarily the payment rail that's going to fix things.
+[00:32:05] It's how customers come onto making payments and how they're coming off that on-
+[00:32:09] and off-ramp. So there's faster things we can do to help solve for that in terms of
+[00:32:14] overlays, like what we're doing with confirmation of payee, that will help to
+[00:32:19] ensure more security for Kiwis. But the same focus
+[00:32:25] should also be on the tech companies, as we do with financial companies, because we
+[00:32:30] need to be all working together.
+[00:32:34] Now, Todd.
+[00:32:35] Oh, actually mine's a quick... You just touched on it then, because you're the
+[00:32:38] second someone today that's mentioned confirmation of payee.
+[00:32:41] But in relation to costs, I just want to get your view on that.
+[00:32:44] You're basically saying, "Good idea, but it costs a lot." The non-bank deposit
+[00:32:49] takers we've actually negotiated down the prices they're going to be paying.
+[00:32:53] But I just want to get your thoughts on that, because, yeah, sometimes these things
+[00:32:57] seem great, but there is actually a lot of technology cost to it.
+[00:33:02] Other markets do it cheaper. So if you've got any reflections on that, because
+[00:33:05] those kinds of systems I imagine are only going to continue.
+[00:33:09] Yeah, and this probably talks to the proportionality point I was mentioning earlier
+[00:33:13] on.
+[00:33:14] We've almost got a one-size-fits-all approach in New Zealand.
+[00:33:17] No matter how big the participant is, you get landed with the same cost.
+[00:33:22] So confirmation of payee, because we operate in a number of markets, obviously it's
+[00:33:26] a great initiative, and we're very supportive of it.
+[00:33:30] But the cost for us in New Zealand, the confirmation of
+[00:33:37] payee is more than 10 times as much as we're paying in any other geography for
+[00:33:42] confirmation of payee. So, I think it talks to some of the points we mentioned
+[00:33:47] earlier around that proportionality and also the
+[00:33:53] governance and the decisioning around some of those overlay capabilities that are
+[00:33:57] put in and how that's done.
+[00:33:59] And then just a quick follow-up. So because the other thing was, and you touched on
+[00:34:02] ESAS, I just want to get clarification.
+[00:34:04] You're not planning to have an ESAS facility, or?
+[00:34:08] Not never, but not now.
+[00:34:09] Right. And what about the cost of that?
+[00:34:11] Because that's the other question that came up again about the proportionality.
+[00:34:13] Yeah, I mean, obviously,
+[00:34:17] ANZ is our transactional banker.
+[00:34:20] Yeah.
+[00:34:20] So they provide our transactional banking facilities.
+[00:34:23] They obviously invest a huge amount in this.
+[00:34:25] So it's both the integration with the underlying infrastructure, that cost, but
+[00:34:29] it's also the ongoing operational running of those services.
+[00:34:35] Which again, is a relatively high barrier to entry
+[00:34:40] for newcomers to the market, and smaller players to
+[00:34:46] be able to actually stand that up themselves, even if theoretically they've got
+[00:34:49] access to the system.
+[00:34:51] No, that's useful, because there's two practical ways we can continue to discuss
+[00:34:54] with the
+[00:34:56] people putting those fees in place that they might need to adjust for, yeah,
+[00:35:00] different clients.
+[00:35:01] What are the costs of confirmation of payee for you?
+[00:35:04] Give me 10 seconds. I can look it up for you.
+[00:35:06] You can ask another one while you wait.
+[00:35:08] We can follow it up after. There's a fixed cost component, and there's a per
+[00:35:13] request component. So say if you were trying to transfer me $20-
+[00:35:16] Yeah
+[00:35:16] ... and you put in G Grange and it declines because you didn't have
+[00:35:22] my full first name.
+[00:35:23] Yeah.
+[00:35:24] Then that will cost-
+[00:35:26] Oh, right
+[00:35:26] ... six. It costs you two.
+[00:35:28] Yeah. It will cost, I think 0.6 cents.
+[00:35:31] Right.
+[00:35:31] And so then you try again, and you forget my middle name, that's another cost.
+[00:35:36] And it's okay. That's normal in most markets.
+[00:35:38] But yeah, we do see over 10 times the price.
+[00:35:40] And who's paying for that cost?
+[00:35:42] 10 times the price.
+[00:35:43] We will pay.
+[00:35:44] Well, you have to absorb.
+[00:35:45] Yeah. But Revolut-
+[00:35:46] You have to absorb, ultimately, or-
+[00:35:48] It's a cost that we absorb.
+[00:35:49] Yeah.
+[00:35:49] We have to absorb. Everybody's going to do it differently in terms of players.
+[00:35:55] We're not going to sit here and complain about fraud and
+[00:36:01] scam prevention as a compliance cost.
+[00:36:06] It's something we all have to innovate in, and scammers and fraudsters are
+[00:36:10] incredibly smart, so we all have to get ahead of them, and we see that as a product
+[00:36:14] investment rather than a cost that needs to be passed on.
+[00:36:18] Thank you both so much for your time. That's been really insightful.
+[00:36:20] I'm sorry we didn't have more time with you this morning.
+[00:36:22] But it's really helpful as part of our inquiry.
+[00:36:25] That's cool. Thank you.
+[00:36:25] Thank you.
+[00:36:26] Thanks very much.
+[00:36:27] Thanks.
+[00:36:27] Look forward to learning
+[00:36:29] more about what else in New Zealand.
