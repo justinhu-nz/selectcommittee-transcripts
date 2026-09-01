@@ -1137,7 +1137,7 @@
     const renderDescription = (meeting, query) => {
       if (!collapseWhitespace(meeting.description) && collapseWhitespace(meeting.machineSummary)) {
         return `
-          <div class="desc machine-summary"><span class="machine-summary-label">Machine summary</span><span class="machine-summary-text">${escapeHtml(meeting.machineSummary)}</span></div>
+          <div class="desc machine-summary"><span class="machine-summary-label">Machine summary. Likely will contain inaccuracies - check full transcript.</span><span class="machine-summary-text">${escapeHtml(meeting.machineSummary)}</span></div>
         `;
       }
       const summary = meeting.descriptionSummary || meeting.topic || meeting.description || "";
