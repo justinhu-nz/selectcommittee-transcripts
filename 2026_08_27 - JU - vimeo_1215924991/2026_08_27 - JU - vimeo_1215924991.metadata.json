@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-02T20:06:46.224214+00:00",
+  "generated_at": "2026-09-02T23:00:22.946345+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1215924991",
   "title": "2026/08/27 - JU",
-  "url": "https://vimeo.com/1215924991",
+  "url": "https://player.vimeo.com/video/1215924991?h=e06776f66e",
   "published_at": "20260827",
   "published_display": "2026-08-27",
   "published_date_uncertain": false,
-  "published_date_source": "parliament_video_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2048,
   "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758261, Parliament Page justice, Parliament Page justice",
   "transcript": {
