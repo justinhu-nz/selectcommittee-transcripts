@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T03:21:54.985884+00:00",
+  "generated_at": "2026-09-02T08:56:40.621710+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1223148381",
   "title": "2026-09-02 Finance and Expenditure Committee",
@@ -8,7 +8,7 @@
   "published_display": "2026-09-02",
   "published_date_uncertain": false,
   "published_date_source": "vimeo_rss_pub_date",
-  "duration_seconds": 1225,
+  "duration_seconds": 2555,
   "source_labels": "Vimeo RSS nzparliament, Parliament Page finance-and-expenditure, Parliament Page finance-and-expenditure",
   "transcript": {
     "source": "vimeo_vtt",
