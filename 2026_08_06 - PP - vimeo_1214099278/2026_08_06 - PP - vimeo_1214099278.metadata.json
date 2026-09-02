@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-02T23:00:10.805775+00:00",
+  "generated_at": "2026-09-02T23:03:46.716753+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1214099278",
   "title": "2026/08/06 - PP",
-  "url": "https://player.vimeo.com/video/1214099278?h=e3dc5ea349",
+  "url": "https://vimeo.com/1214099278",
   "published_at": "20260806",
   "published_display": "2026-08-06",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_title",
+  "published_date_source": "parliament_video_title",
   "duration_seconds": 1784,
   "source_labels": "Vimeo RSS nzparliament, Parliament Page primary-production, Parliament Page primary-production, Vimeo Showcase 10758268",
   "transcript": {
