@@ -1,0 +1,450 @@
+Title: 2026-09-02 Finance and Expenditure Committee
+URL: https://vimeo.com/1223148381
+Published: 2026-09-02
+Duration: 00:20:25
+
+[00:00:00] Worth of profit, which has generated New Zealand as a percentage of
+[00:00:04] GDP versus what happens in Australia.
+[00:00:07] So, it's quite a big number, and no wonder there is a committee about that.
+[00:00:10] So let's talk about some of the things that are symptoms.
+[00:00:12] And I know that you were speaking to Revolut and others earlier this morning.
+[00:00:15] So nearly 87% of deposits sit with the Big Four.
+[00:00:19] And that means that you have a very strong concentration of the funding base that
+[00:00:23] these banks use. Let's also talk about the fact that these banks enjoy
+[00:00:26] top quartile returns, and I think it's fair to say there's no evidence that they
+[00:00:30] take more risk than Australian banks, yet generate quite considerably better
+[00:00:33] returns.
+[00:00:35] So I think when you think about that, you sort of wonder what's the difference
+[00:00:38] there. You can also say, without a shadow of a doubt, that they enjoy
+[00:00:42] top quartile efficiency, usually measured by cost of income.
+[00:00:46] But I think as even the previous bank was answering, we've been late with
+[00:00:50] functionality. So generally speaking, you might ask yourself, are
+[00:00:54] they cheaper to run because we don't bring the new functionality soon enough?
+[00:00:58] Last couple of things I just wanted to touch on.
+[00:01:00] So,
+[00:01:01] there is very high inertia. So the numbers that we're talking about with open
+[00:01:04] banking swapping, if you have a look at the UK number, more than two-thirds of the
+[00:01:08] people swapping are the same people swapping all the time.
+[00:01:11] So they'll move from Nationwide Bank for 250 quid, and they'll move to Revolut for
+[00:01:15] a sausage roll and a cup of coffee and a train rail, get a RAM pass,
+[00:01:20] and the next one and the next one. I'm not trying to put any shade on those offers
+[00:01:23] because customers value them, and they move to them.
+[00:01:25] Some of those banks have quite high income based on subscription services, but like
+[00:01:29] all subscription services, people value them, and they stay there.
+[00:01:32] There is actually very low transparency in lending pricing, and
+[00:01:35] so fixed-term rates and the amount of deals that are done off card
+[00:01:39] are the real competitive market, not the ones that we will see if we walk down
+[00:01:43] Lambton Quay.
+[00:01:44] And if you think about
+[00:01:47] what that means, it means that it's very difficult to get scale for fintechs
+[00:01:50] because they can't attract the deposit base, and therefore have a high-cost income.
+[00:01:54] I also just want to touch on something which I think you've done a really good job
+[00:01:57] of highlighting, the FMA transparency about the pass on.
+[00:02:01] I'd also point to the ACCC in Australia and one of their findings.
+[00:02:04] So if the ACCC in Australia knows that 70% of
+[00:02:07] savers regularly miss their bonus rate.
+[00:02:10] So you heard from Ben talking about the ANZ Serious Saver.
+[00:02:14] You need to make a minimum deposit per month, which I think is 20.
+[00:02:18] And if you do that, you'll enjoy 1.75% interest.
+[00:02:21] If, however, you don't make the $20 deposit, or you withdraw once, you
+[00:02:25] get 0.05 of a percent.
+[00:02:28] So there is a 170-point difference between the advertised rate on that
+[00:02:32] account and what 70%, based on Australian numbers, people actually receive.
+[00:02:37] So I don't think there's any reason that this committee or an
+[00:02:41] FMA couldn't ask for publishing of who actually does enjoy the rates
+[00:02:44] that they think they're going to get.
+[00:02:46] Our own State of the Savings survey showed at least that half of New Zealanders
+[00:02:50] understood how those hoops and hurdles worked.
+[00:02:52] And so I think that's a great example of where the banks have generated a set of
+[00:02:56] products which work really well for them and not very
+[00:03:00] well for seven out of 10, based on Australian numbers,
+[00:03:04] customers. And so,
+[00:03:06] without being too pointy, it is called the Serious Saver,
+[00:03:09] but it's certainly serious money for banks, and I think is a great
+[00:03:13] example of where if you want to be competitive, the transparency and the
+[00:03:17] pass-through and who enjoys it and who doesn't is something that within the powers
+[00:03:21] of the
+[00:03:22] building up the road. So, open up for questions.
+[00:03:24] I'll just kick off with a sup, if I could, on that point about the pass-through and
+[00:03:28] how if they miss the deposit or they withdraw, they lose it.
+[00:03:31] Mm-hmm.
+[00:03:32] Have you or is the bank using any of the fintech bolt-ons
+[00:03:35] to sort of scrape that information and let the customer know?
+[00:03:39] Or how do we bring more transparency to that from an open banking perspective?
+[00:03:42] Yeah. I was actually looking at a
+[00:03:45] pretty new startup
+[00:03:47] this morning, Chair, who actually was thinking about the way that they could use
+[00:03:49] the open rails to work out if their interest wasn't
+[00:03:53] credited, what was the trigger that would then alert the customer and try and move
+[00:03:57] them. So I think it's a great example of the type of
+[00:04:00] innovation that can happen. Doesn't happen at the moment.
+[00:04:03] I think most of us will receive some form of
+[00:04:08] tag or, and taking Nancy's point about whether you want a phone call or not, but,
+[00:04:13] some sort of jog that actually maybe your account and your money could work harder
+[00:04:16] for you. But if I think if a bank comes and sits in front of you and say,
+[00:04:20] "We've given 200,000 prompts to Arena and people like here as
+[00:04:24] our customers that there's a better way to save," then there shouldn't be any
+[00:04:28] problem about presenting that in a transparent way.
+[00:04:30] Mm-hmm.
+[00:04:31] Like, how many people acted on that actionable insight?
+[00:04:34] What is the effective rate that people are really receiving?
+[00:04:36] And I think the Australian, there's been a journey.
+[00:04:39] They first of all talked about customer numbers, then they talked about the volume
+[00:04:42] of customers and the amounts, all of those things.
+[00:04:44] There are available options, which I think make us more competitive.
+[00:04:47] So I know you've got three, I think three apps with Kiwi.
+[00:04:50] Mm-hmm.
+[00:04:51] But none of them would do this sort of a level of-
+[00:04:54] No, not at the moment, but I think that's the opportunity.
+[00:04:58] Yeah.
+[00:04:59] And there's a great saying that the fintechs talk about, which is, "Your margin is
+[00:05:02] my opportunity." And so I think, that is the case
+[00:05:05] that people will go into that. That's a very big number-
+[00:05:08] Yeah
+[00:05:09] ... in terms of the opportunity for customers.
+[00:05:11] But again, it'll be catalyzing the interest from the customers, doing so safely,
+[00:05:15] and then the customer seeing the benefit of that.
+[00:05:17] So I think it's a bit of a three-legged-
+[00:05:18] Nice
+[00:05:18] ... journey.
+[00:05:19] Is yours a sup, Dave?
+[00:05:21] No, new one.
+[00:05:21] Okay. I'll go to Irina, and then I'll come to you if it's all right.
+[00:05:23] Can I pick up on your point about the ACCC getting close to making a finding
+[00:05:28] of something that looked like gouging or excessive pricing right now, but that 2023
+[00:05:31] finding,
+[00:05:33] that was about,
+[00:05:35] strategically pricing deposits to minimize funding costs.
+[00:05:38] Is that what you think is going on in the New Zealand market?
+[00:05:41] That was a finding that complex and opaque pricing made comparison harder and
+[00:05:45] helped sticky customers to Dan Baldwi's question.
+[00:05:49] I think that complexity supports margin-
+[00:05:53] Yeah
+[00:05:53] ... if that's the question. Yeah, I think it does, because it's very hard to get
+[00:05:56] price transparency and compare offers because you're often pricing
+[00:06:00] different terms. I'm talking from a customer perspective.
+[00:06:03] You might be pricing different terms.
+[00:06:05] You might not also know what the off-card negotiated rate is.
+[00:06:07] So, the rate that you see outside, is that really the best rate I can get?
+[00:06:11] What is the cash back offer if I push really hard?
+[00:06:13] Will I get a different answer from
+[00:06:15] someone sitting here if I don't?
+[00:06:18] Across the table, each of us will be better at negotiating than others.
+[00:06:21] Is that the best way to compare things?
+[00:06:22] So I think the short answer to your question is yes.
+[00:06:25] I think the best solution is to be requiring us all to put that
+[00:06:29] information out in the public arena, and then people can look.
+[00:06:33] And I think what you'll see is very strong adjustment quite quickly, because no one
+[00:06:37] will want to be an outlier on that basis.
+[00:06:39] That's a good point.
+[00:06:40] Sorry, just to answer your question, though, I think it is fair that all banks will
+[00:06:44] be looking at all of their various funding sources to try and make sure they
+[00:06:48] support their balance sheet growth.
+[00:06:50] Yeah.
+[00:06:50] And I think that's logical and expected.
+[00:06:54] Just on the change that the technology will bring.
+[00:06:57] Mm-hmm.
+[00:06:59] You can hear me puzzling about how much of
+[00:07:02] this problem is actually a technology problem.
+[00:07:05] And for 15 years, we've had banks that haven't had an incentive to invest,
+[00:07:09] including Kiwibank-
+[00:07:10] Yeah, sure
+[00:07:11] ... which is very forthright with its
+[00:07:13] one
+[00:07:15] strategic stakeholder, but it wants to invest in its technology
+[00:07:20] advance program. What is government's role in
+[00:07:23] ensuring that consumers are also getting up-to-date systems for their
+[00:07:27] banking, which is a critical service?
+[00:07:29] Yeah, I
+[00:07:31] know I'm beating this drum, but I think the more transparent and the
+[00:07:34] more easily people can compare will be the
+[00:07:38] thing that will drive investment.
+[00:07:42] So, can you be in a situation where if you've got the right
+[00:07:46] technology stack, you might be optimizing the returns for your account,
+[00:07:50] you might be able to change the settings yourself.
+[00:07:52] That's not possible, as you heard from Antonia, on 30-year-old tech.
+[00:07:55] You just can't do that safely without getting yourself in-- You
+[00:07:59] haven't passed on the right promises that you'd work.
+[00:08:02] So, I think that being super clear about what the
+[00:08:06] competition looks like and what the benefits people can receive are, will drive the
+[00:08:09] investment. But certainly it's a
+[00:08:14] super interesting challenge around how you bring more people into the system, but
+[00:08:17] do so safely. And the system sort of works because everyone's
+[00:08:21] got the same set of rules and the same sort of philosophies
+[00:08:25] around the way that they protect customers.
+[00:08:27] But it's also a big barrier and a burden to new entrants.
+[00:08:30] Yeah.
+[00:08:30] And that's that same question about scale, which is--
+[00:08:34] And I think I heard earlier today there was a conversation about confirmation of
+[00:08:37] payee, for instance.
+[00:08:38] So confirmation of payee, it's a zero-sum game.
+[00:08:42] It just recovers its costs.
+[00:08:44] And I think if you ask why it costs ten times more than some other markets, it's
+[00:08:47] because it's one tenth of the size.
+[00:08:49] And so pushing to make sure that the pass-on costs are
+[00:08:53] transparent, pushing to make sure that as more people come, that price goes
+[00:08:57] down.
+[00:08:58] Mm-hmm.
+[00:08:58] I think you can really force the issue on that, and that's what I think we should
+[00:09:01] expect from
+[00:09:03] government and from MB and others.
+[00:09:07] I think at the moment it's pretty new and it's pretty subscale.
+[00:09:10] I think it should get cheaper and better.
+[00:09:12] I think there's an interesting question which new
+[00:09:16] entrants say, "Well, I shouldn't have to pay for everything that you've paid for."
+[00:09:19] Yeah.
+[00:09:19] Now, and in some markets that might be right.
+[00:09:22] Yeah.
+[00:09:22] And I think that's places like Singapore and other with the sandbox have
+[00:09:26] done a better job of saying, "We'll get you started.
+[00:09:30] We'll be proportionate while you get started." But once you get, say, in New
+[00:09:33] Zealand, that level might be 20 million or 50 million or whatever it is, you
+[00:09:37] pick the number, then from then you have to step up and carry on doing these
+[00:09:40] things.
+[00:09:41] Yeah.
+[00:09:41] But levies can't be the same for everyone, otherwise you're never going to get any
+[00:09:44] innovation.
+[00:09:46] Exactly.
+[00:09:46] The levies we face, we're looking forward next year will be, we think, something
+[00:09:50] like $14.5 million from all the various entities.
+[00:09:53] That's pretty close to 6% of our impact.
+[00:09:57] If I'm a new starter,
+[00:09:59] and I'm going out to raise capital from you, and a big chunk of that money is to
+[00:10:03] get started on the levies, you're going to stifle innovation for sure.
+[00:10:06] And so I think that's an example where COFR and others can be more
+[00:10:10] proportionate. And if you're a bigger bank and you've been at it for
+[00:10:14] 25 years like us, I think, without being too crude about it, you just have to suck
+[00:10:18] it up and say, "We want a more competitive system." We've had the advantage,
+[00:10:21] particularly for us with our stakeholder and owner.
+[00:10:24] Actually,
+[00:10:25] we should let new people in.
+[00:10:26] Rock on, Steve. I just have one more question. It's a different question.
+[00:10:30] Only one?
+[00:10:31] You've got to go in a couple of minutes.
+[00:10:32] Are you in an acquisition phase of startups?
+[00:10:36] Confirmation of payee is a good example of where several
+[00:10:40] players are working with a startup.
+[00:10:43] But lots of the big banks have adopted a system where they can tell that their
+[00:10:47] technology that new entrants have is far superior
+[00:10:51] to the systems that they're running.
+[00:10:52] You heard Antonia say we're a bit envious of some of these guys who got to start
+[00:10:56] afresh. Why don't you just buy them?
+[00:10:58] Yeah, buying them is a pretty expensive exercise for a bank because of the way
+[00:11:01] that our regulatory settings work.
+[00:11:04] I think you can get the same benefit by partnering.
+[00:11:06] Mm-hmm.
+[00:11:07] For instance, we talked last time, I think, about we know that we need to have an
+[00:11:10] offering that can get money from a Kiwibank account safely
+[00:11:14] to the 160 odd wallets that are around the world.
+[00:11:18] Now, we will never be as good as Airwallex or Visa at doing that.
+[00:11:21] But we don't need to. You don't care who does it.
+[00:11:24] Behind the scenes, you want it to be safe, you want it to work through your app,
+[00:11:26] and you want it to arrive in the wallet in Indonesia or wherever, China, wherever
+[00:11:29] you're sending it, for example, safely and at a low cost.
+[00:11:33] And we can partner to do that. We don't need to build it.
+[00:11:36] So, I think the answer for us is we know that this fifth biggest
+[00:11:39] bank in New Zealand can't build all this stuff itself.
+[00:11:42] And we're all in for partnering, because it's going to allow us to go faster.
+[00:11:46] And regardless of whether you make $2 billion or not, you'll never be better at
+[00:11:49] international payments than Wise.
+[00:11:50] Yeah.
+[00:11:51] And so you've just got to jump in.
+[00:11:51] We're going to go to David Wilson next.
+[00:11:53] Yeah. So just a slightly different tack change here, Steve.
+[00:11:56] Thank you. 87% in deposits by the Big Four.
+[00:12:00] Mortgages are not far behind that, are they?
+[00:12:03] No.
+[00:12:04] So my question goes to the net interest margins, which
+[00:12:07] we understand are very high compared to the rest of the OECD.
+[00:12:11] Where are the Big Four banks getting their capital from?
+[00:12:13] And I don't think it's just because the OCR changes.
+[00:12:17] No, as you can say, the size of the
+[00:12:20] savings base is
+[00:12:23] I think it's nearly $500 billion, and they have
+[00:12:26] a massive, or 86% of that $500 billion.
+[00:12:30] That's a core funding element to it.
+[00:12:34] And they generate really significant profits, which means that retained earnings
+[00:12:38] mean that any capital ask is pretty easily fulfilled.
+[00:12:40] Yeah.
+[00:12:41] And we've seen,
+[00:12:42] I'm sorry I can't remember the number, but that we've seen I think something like
+[00:12:45] 2.3 or $2.4 billion repatriated to the Australian parents.
+[00:12:49] Yeah.
+[00:12:49] And still have extraordinarily strong capital bases.
+[00:12:51] So
+[00:12:53] it's one-way traffic. There's no capital coming back?
+[00:12:56] No. Well, I think to be fair, they do retain a huge amount.
+[00:13:00] They are very, very big businesses, and New Zealand needs them
+[00:13:04] to be here and needs them to be active.
+[00:13:07] I think the question is,
+[00:13:09] are the returns justified by the risk that they're taking?
+[00:13:12] Yeah.
+[00:13:12] And that pressing for
+[00:13:14] different lending other than home loan lending and making its way into small,
+[00:13:18] medium businesses is probably the best chance to put that capital to work from a
+[00:13:22] New Zealand Inc. perspective.
+[00:13:24] Thank you. Dr. Deborah Russell.
+[00:13:26] Thank you.
+[00:13:27] I was intrigued by what you said about the experience in other
+[00:13:31] countries with open banking, the extent to which people don't shift banks-
+[00:13:35] Yep
+[00:13:35] ... and the inertia there. But you said some people do.
+[00:13:37] Yep.
+[00:13:38] Do you think there's enough
+[00:13:39] switching happening at the margins to keep banks competitive,
+[00:13:44] or do you-
+[00:13:45] Yeah. I think there is in,
+[00:13:48] particularly in home loans.
+[00:13:50] Right.
+[00:13:50] I think that works. I don't think open banking is a big driver of it,
+[00:13:55] Dr. Russell. I think
+[00:13:57] the ones I spoke about in the UK are perennial switchers, so they'll be chasing the
+[00:14:01] opportunity-
+[00:14:02] Mm
+[00:14:02] ... that comes from banks putting themselves into acquisition mode.
+[00:14:05] But I don't think there's any doubt that in New Zealand that if you go to a
+[00:14:09] mortgage broker, you'll lack for having one or two, three competitive offers.
+[00:14:13] So I think
+[00:14:14] it's a different mechanism-
+[00:14:16] Mm
+[00:14:16] ... that I think drives competition there.
+[00:14:20] And perhaps if we see more advisors in the business banking market, that'll
+[00:14:24] accelerate that as well. But at the moment, it's pretty human-centered.
+[00:14:29] The inertia for
+[00:14:31] people, which is obviously the key battle we've got, which is get you interested
+[00:14:34] enough that you want to bank Kiwi-
+[00:14:36] Mm
+[00:14:36] ... is really difficult. So we did some numbers around people picking a savings
+[00:14:40] account.
+[00:14:41] More than 65% of people only considered one area,
+[00:14:45] one provider.
+[00:14:47] So, that's what you're up against, which is if you bank with whoever you bank with,
+[00:14:51] that's where you tend to go. And so, I think by understanding and
+[00:14:55] providing more transparency, we can help, but I don't think open banking
+[00:14:58] has really been the big driver. But it can
+[00:15:02] help. And I think
+[00:15:04] it'll be really good for people choosing a second and third bank for a particular
+[00:15:08] need, maybe not switching the whole thing, and maybe that'll be the battleground.
+[00:15:12] And that might be enough.
+[00:15:13] Yep.
+[00:15:14] Thank you.
+[00:15:14] Thank you.
+[00:15:15] Sorry, you had a question, Todd.
+[00:15:16] A quick one.
+[00:15:16] Okay.
+[00:15:16] Yeah. Totally another different topic.
+[00:15:19] Obviously, yeah, you've been going through your own
+[00:15:22] technology transformation. Maybe just give us a quick oversight of how that's
+[00:15:25] going. Obviously, yeah, you're on-
+[00:15:27] Yeah. Look, I'm thrilled to say that on my own app, I'm
+[00:15:30] banking my savings on
+[00:15:33] our new stack, which is Thought Machine, which is
+[00:15:37] generally seen as the world-leading native cloud core.
+[00:15:40] We're about to really accelerate that in literally in the next couple of days
+[00:15:44] into more customers. Got about 1,000 of our team members
+[00:15:48] and friends and family operating on the new stack.
+[00:15:50] That's a really big step. The way I'd sort of talk about it is if
+[00:15:54] you've ever done a renovation or you've built a house, this is a
+[00:15:58] bit of your roof shout. It's not finished, but we've made a lot of progress, and
+[00:16:02] you can actually visibly start to feel it.
+[00:16:03] But it's very, as you know from building a place, it's expensive getting out of
+[00:16:07] the ground.
+[00:16:09] And we've put a lot of effort into that, but we're really starting to feel like on
+[00:16:12] that particular element around the core, we're making great progress.
+[00:16:16] But of course, I think across a lot of areas like getting to retail and business
+[00:16:19] for open banking first, as an example of where a little bit of extra
+[00:16:23] time helped us get ahead. So yeah, I think we're making good progress.
+[00:16:27] What was the name of the product again?
+[00:16:28] Oh, for our online savings account.
+[00:16:30] All right.
+[00:16:30] Yeah.
+[00:16:30] And can we get invited to the roof shout?
+[00:16:34] Always.
+[00:16:35] Nancy Lou.
+[00:16:36] Thank you, Chair. And thank you, Steve.
+[00:16:39] I recall reading an article recently when Kiwibank reported
+[00:16:43] a drop in profit.
+[00:16:44] Yep.
+[00:16:46] Still profit-
+[00:16:47] Yeah
+[00:16:47] ... but a drop in profit. And I remember a couple of the points mentioned were
+[00:16:50] including, obviously, the drop in-
+[00:16:54] In the interest margin. Yep
+[00:16:55] ... interest margin. But also, there was a phrase referring
+[00:16:59] to the competition, especially coming from the other banks.
+[00:17:02] Yep.
+[00:17:02] And ANZ was mentioned. And so I'm keen to hear from
+[00:17:06] you
+[00:17:07] the balance between there is too much competition.
+[00:17:10] Now, obviously, the big guys can afford-
+[00:17:12] Mm-hmm
+[00:17:12] ... supposedly, a bigger drop in their profit in order to capture a bigger
+[00:17:16] market. But then it will hurt you as you're trying to grow.
+[00:17:20] And do you then take it more, do you chase to the bottom?
+[00:17:25] Yeah. No. Well, we can't because we don't have the scale to be able to do that.
+[00:17:27] So, I
+[00:17:29] think more than 80% of the time, we've had the leading rate in the one
+[00:17:32] year.
+[00:17:33] And 58% of time, we've had the equal leading rate in the two year for loans, for
+[00:17:37] instance. But ultimately, you have to make decisions that
+[00:17:41] Ben and Tony run a fantastically successful business.
+[00:17:45] When cashback was being offered by ANZ, there will be a perfectly logical
+[00:17:49] reason that they're making that decision.
+[00:17:51] They will be deciding that the lifetime value of the customer is worth
+[00:17:55] it, or there's a particular activity that they really want to push at the moment
+[00:17:58] because they think it works really well, or for whatever reasons.
+[00:18:01] I don't sit on their desk and know that, but that will be logical.
+[00:18:05] There's just times where we have to step back because we just don't have that
+[00:18:07] scale. And if you're making, and you have a balance sheet that big,
+[00:18:12] you probably can afford to sort of put the foot down sometimes and see whether
+[00:18:15] people blink.
+[00:18:17] But banking is a scale game, and we need to continue.
+[00:18:20] We've doubled in size. We just need to keep getting bigger, and then
+[00:18:24] hopefully we're the people who continue to put the pressure on that pricing.
+[00:18:28] I might just close with a couple questions, Steve-
+[00:18:30] Sure
+[00:18:30] ... if I can. Sorry, we're a bit short for time.
+[00:18:31] No problems.
+[00:18:32] I'll wrap two questions together.
+[00:18:34] What current banking regulations have the greatest compliance cost relative to
+[00:18:38] the consumer benefit they deliver?
+[00:18:40] You being a smaller bank, obviously the FinTechs talk about that.
+[00:18:43] And I'll wrap into another question.
+[00:18:45] Where you as a challenger bank want to grow your market share, what is the
+[00:18:49] biggest or important regulatory or structural changes that impede your
+[00:18:52] ability to be more aggressive?
+[00:18:55] Oh, I think we saw that, to answer your second question first, the change in risk
+[00:18:58] weights and the capital requirements was the single biggest time in my eight
+[00:19:02] years that gave us the best chance to compete more effectively.
+[00:19:05] So where I think we have seen historical rules that are sort of
+[00:19:09] don't make any sense under a current environment, Chair, I think those are the ones
+[00:19:13] that make the most difference. So risk weights and capital settings was the biggest
+[00:19:16] one that accelerated. The one I'm most sort of worried about is the
+[00:19:20] deposit compensation scheme and the levies that come with that, which is
+[00:19:24] we're going to end up with a capital set of rules for assets that work one
+[00:19:28] way and a set of deposits that work in a different way.
+[00:19:31] And I think if you think about those levies and how they're going to apply across
+[00:19:35] the different categories of deposit takers, just be super careful
+[00:19:39] about what you require from quite small players.
+[00:19:42] Now, I can understand the type of things that you want when you've got $35
+[00:19:46] billion worth of deposits. Losing a business that's got that sort of size will
+[00:19:50] have a massive impact into the community and confidence.
+[00:19:53] But smaller players who are getting started having the same set of rules as us,
+[00:19:57] having to comply in the same way, having ways-
+[00:20:00] So it's proportionality again.
+[00:20:01] That's exactly right. Yeah. But in that space where you're wanting new entrants-
+[00:20:04] Yeah
+[00:20:04] ... you have to be careful, and it's a real delicate balancing act.
+[00:20:07] You have to be careful about what you ask from them for the size that they are.
+[00:20:11] Steve, thanks so much for coming in.
+[00:20:12] Mm-hmm.
+[00:20:12] I really appreciate your candor and your engagement with us.
+[00:20:15] Thanks for all the great work.
+[00:20:16] Look forward to the shout.
+[00:20:17] Yeah.
+[00:20:19] Thanks, Steve.
+[00:20:20] And good luck for the next few months.
+[00:20:21] Thanks very much. Take care.
+[00:20:23] Thanks, Steve. Thank you.
+[00:20:23] Thanks for your insights.
+[00:20:24] Cheers.
