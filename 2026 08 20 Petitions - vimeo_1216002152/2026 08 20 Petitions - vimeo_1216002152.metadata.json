@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:14:12.420660+00:00",
+  "generated_at": "2026-09-03T21:03:04.833825+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1216002152",
   "title": "2026 08 20 Petitions",
@@ -7,9 +7,9 @@
   "published_at": "20260820",
   "published_display": "2026-08-20",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_title",
+  "published_date_source": "vimeo_broadcast_start",
   "duration_seconds": 3694,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page petitions, Parliament Page petitions, Vimeo Showcase 10758263",
+  "source_labels": "Vimeo Showcase 10758263",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
