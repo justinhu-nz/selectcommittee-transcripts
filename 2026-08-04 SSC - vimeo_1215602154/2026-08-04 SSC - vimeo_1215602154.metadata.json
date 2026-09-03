@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-03T08:22:50.109065+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215602154",
+  "title": "2026-08-04 SSC",
+  "url": "https://vimeo.com/1215602154",
+  "published_at": "20260804",
+  "published_display": "2026-08-04",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_oembed",
+  "duration_seconds": 10279,
+  "source_labels": "Vimeo Video 1215602154",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 3534.016,
+    "segment_count": 590,
+    "source_vtt_path": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-03T08:23:24.321991+00:00",
+  "provider": "vimeo",
+  "media_id": "vimeo_1215981180",
+  "title": "2026-08-05 TI",
+  "url": "https://vimeo.com/1215981180",
+  "published_at": "20260805",
+  "published_display": "2026-08-05",
+  "published_date_uncertain": false,
+  "published_date_source": "vimeo_oembed",
+  "duration_seconds": 2282,
+  "source_labels": "Vimeo Video 1215981180",
+  "transcript": {
+    "source": "whisper",
+    "language": "mi",
+    "duration_seconds": 494.9973125,
+    "segment_count": 121,
+    "source_vtt_path": null
+  }
+}

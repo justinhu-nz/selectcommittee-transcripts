@@ -1,0 +1,1648 @@
+{
+  "language": "en-x-autogen",
+  "duration": 966.2,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 1.12,
+      "text": "Get into it, if that's okay."
+    },
+    {
+      "start": 2.06,
+      "end": 3.5,
+      "text": "Absolutely. Thank you very much, Chair."
+    },
+    {
+      "start": 3.56,
+      "end": 4.72,
+      "text": "Thank you, members, for"
+    },
+    {
+      "start": 5.74,
+      "end": 9.55,
+      "text": "having us back to update you on progress in response to"
+    },
+    {
+      "start": 9.6,
+      "end": 9.76,
+      "text": "the"
+    },
+    {
+      "start": 10.68,
+      "end": 14.46,
+      "text": "inquiry's recommendations since we last were here in February."
+    },
+    {
+      "start": 14.52,
+      "end": 18.36,
+      "text": "My name is Alastair Herkes. I am the Interim Chief Executive"
+    },
+    {
+      "start": 18.5,
+      "end": 19.68,
+      "text": "of the FMA."
+    },
+    {
+      "start": 20.26,
+      "end": 20.45,
+      "text": "There you go."
+    },
+    {
+      "start": 20.55,
+      "end": 24.36,
+      "text": "With me, I have Liam Mason, Executive Director of"
+    },
+    {
+      "start": 24.44,
+      "end": 27.14,
+      "text": "Governance, Policy and Strategy, and General Counsel,"
+    },
+    {
+      "start": 28.12,
+      "end": 31.82,
+      "text": "and Claire Bolingford, who is the Executive Director of Licensing and"
+    },
+    {
+      "start": 31.88,
+      "end": 33.04,
+      "text": "Conduct Supervision."
+    },
+    {
+      "start": 34.46,
+      "end": 34.96,
+      "text": "So"
+    },
+    {
+      "start": 35.84,
+      "end": 39.21,
+      "text": "we have provided a response to your earlier written questions,"
+    },
+    {
+      "start": 39.44,
+      "end": 40.68,
+      "text": "and we're happy to"
+    },
+    {
+      "start": 42.2,
+      "end": 43.38,
+      "text": "answer any questions you have."
+    },
+    {
+      "start": 44.16,
+      "end": 47.1,
+      "text": "Fantastic. I might kick off, if that's all right, and then, members, feel free to"
+    },
+    {
+      "start": 47.14,
+      "end": 47.66,
+      "text": "raise your hands."
+    },
+    {
+      "start": 48.74,
+      "end": 51.54,
+      "text": "Thank you for your submission, and thank you for making the time today."
+    },
+    {
+      "start": 51.6,
+      "end": 55.32,
+      "text": "I wish we'd probably made it a little bit longer to justify your time, but"
+    },
+    {
+      "start": 55.76,
+      "end": 59.64,
+      "text": "nonetheless, we are keen to continue the evolution of the banking inquiry and"
+    },
+    {
+      "start": 60.22,
+      "end": 62.82,
+      "text": "what hurdles may or may not stand in the way."
+    },
+    {
+      "start": 63.62,
+      "end": 67.13,
+      "text": "You touch on the sandbox work that you're doing around on-ramping and"
+    },
+    {
+      "start": 67.16,
+      "end": 70.02,
+      "text": "fintechs, and really encouraged by that."
+    },
+    {
+      "start": 72.08,
+      "end": 75.7,
+      "text": "What are you doing to, I guess, accelerate that opportunity,"
+    },
+    {
+      "start": 76.3,
+      "end": 78.65,
+      "text": "understand the regulatory barriers in the market?"
+    },
+    {
+      "start": 80.04,
+      "end": 82.92,
+      "text": "Because obviously that's been a success, and we'd like to see more of that."
+    },
+    {
+      "start": 84.34,
+      "end": 85.94,
+      "text": "Yeah, sure. I might take this, if I may."
+    },
+    {
+      "start": 87.9,
+      "end": 91.08,
+      "text": "The first pilot showed us some"
+    },
+    {
+      "start": 92.58,
+      "end": 96.4,
+      "text": "very interesting things, one of which is that it's the base"
+    },
+    {
+      "start": 96.46,
+      "end": 99.82,
+      "text": "cost of entering the regulatory sphere"
+    },
+    {
+      "start": 100.06,
+      "end": 103.48,
+      "text": "is very high for small to medium firms."
+    },
+    {
+      "start": 103.94,
+      "end": 107.31,
+      "text": "Most of the firms that showed interest in the sandbox were startups,"
+    },
+    {
+      "start": 108.64,
+      "end": 111.48,
+      "text": "and the feedback we heard from them is that the"
+    },
+    {
+      "start": 112.32,
+      "end": 115.36,
+      "text": "fixed costs, if you like, of applying for a license, particularly when you're at"
+    },
+    {
+      "start": 115.38,
+      "end": 116.14,
+      "text": "the trial stage,"
+    },
+    {
+      "start": 117.16,
+      "end": 120.87,
+      "text": "are prohibitive. And that's why in the next phase we are"
+    },
+    {
+      "start": 120.9,
+      "end": 123.08,
+      "text": "developing an on-ramp, what we're calling on-ramp licensing,"
+    },
+    {
+      "start": 123.96,
+      "end": 127.58,
+      "text": "a streamlined licensing solution to allow smaller"
+    },
+    {
+      "start": 127.66,
+      "end": 131.33,
+      "text": "firms to come into the market, into the regulatory space, so that they're"
+    },
+    {
+      "start": 131.34,
+      "end": 133.38,
+      "text": "not spending their time trying to find a way to avoid it,"
+    },
+    {
+      "start": 134.74,
+      "end": 137.64,
+      "text": "in a way that allows them to test their products."
+    },
+    {
+      "start": 137.8,
+      "end": 138.0,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 138.38,
+      "end": 139.72,
+      "text": "Can I just ask you a question about that?"
+    },
+    {
+      "start": 139.82,
+      "end": 140.02,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 141.54,
+      "end": 142.98,
+      "text": "Thank you. Hello, sorry for being late."
+    },
+    {
+      "start": 144.04,
+      "end": 147.3,
+      "text": "I'm interested in the on-ramp licenses, the e-money licenses."
+    },
+    {
+      "start": 149.0,
+      "end": 152.78,
+      "text": "It's a genuine question. I don't understand why we are still talking about them"
+    },
+    {
+      "start": 152.82,
+      "end": 155.74,
+      "text": "sort of at the similar stage to what we were in '22."
+    },
+    {
+      "start": 156.6,
+      "end": 160.18,
+      "text": "Can you help us as a committee sort of understand the"
+    },
+    {
+      "start": 161.06,
+      "end": 164.88,
+      "text": "points of tension in the system, I guess, to be able to introduce"
+    },
+    {
+      "start": 164.89,
+      "end": 168.6,
+      "text": "that? For context, we've got fintechs in the market now that are looking at RBNZ's"
+    },
+    {
+      "start": 168.64,
+      "end": 172.57,
+      "text": "announcement that they might be able to use the term bank and thinking that will"
+    },
+    {
+      "start": 172.58,
+      "end": 173.04,
+      "text": "be a better"
+    },
+    {
+      "start": 173.94,
+      "end": 175.19,
+      "text": "route for them. But obviously they have-"
+    },
+    {
+      "start": 175.2,
+      "end": 175.21,
+      "text": "Mm-hmm"
+    },
+    {
+      "start": 175.21,
+      "end": 178.98,
+      "text": "... to undertake a lot of services that are out of sequence for them, and if they"
+    },
+    {
+      "start": 179.02,
+      "end": 182.75,
+      "text": "were to grow a bit more naturally and in line with other competitors, say, in"
+    },
+    {
+      "start": 182.76,
+      "end": 184.56,
+      "text": "Australia, they'd be looking for your licensing."
+    },
+    {
+      "start": 186.14,
+      "end": 189.84,
+      "text": "Yeah, sure. And where we're starting with the on-ramp license is"
+    },
+    {
+      "start": 190.5,
+      "end": 194.4,
+      "text": "the managed investment scheme license, which is something"
+    },
+    {
+      "start": 194.41,
+      "end": 197.45,
+      "text": "that's been in place since, operational since 2016."
+    },
+    {
+      "start": 198.52,
+      "end": 202.21,
+      "text": "But it was designed at a time when it was fairly document heavy, and designed for"
+    },
+    {
+      "start": 202.32,
+      "end": 203.94,
+      "text": "what I'll call mainstream managed funds."
+    },
+    {
+      "start": 204.12,
+      "end": 206.78,
+      "text": "But it's actually quite a flexible type of license."
+    },
+    {
+      "start": 207.86,
+      "end": 211.72,
+      "text": "So we've been out in the market over the last couple of months, testing what"
+    },
+    {
+      "start": 211.74,
+      "end": 213.82,
+      "text": "we're calling a straw man for that."
+    },
+    {
+      "start": 213.96,
+      "end": 216.94,
+      "text": "The reason is we want to make sure that what we design actually works for the"
+    },
+    {
+      "start": 216.96,
+      "end": 217.46,
+      "text": "participants,"
+    },
+    {
+      "start": 218.6,
+      "end": 219.84,
+      "text": "rather than just being a sort of"
+    },
+    {
+      "start": 220.9,
+      "end": 222.16,
+      "text": "regulated design solution."
+    },
+    {
+      "start": 222.3,
+      "end": 222.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 223.18,
+      "end": 225.2,
+      "text": "Feedback we've got is very constructive on that,"
+    },
+    {
+      "start": 226.1,
+      "end": 229.62,
+      "text": "and we'll be consulting further towards the end of"
+    },
+    {
+      "start": 229.64,
+      "end": 232.82,
+      "text": "August on a more formed up plan for that."
+    },
+    {
+      "start": 233.54,
+      "end": 235.52,
+      "text": "And can I just ask this at the moment?"
+    },
+    {
+      "start": 235.86,
+      "end": 239.49,
+      "text": "So as I understand it, that's more like the old"
+    },
+    {
+      "start": 239.54,
+      "end": 243.52,
+      "text": "system where you've got major investors, they're over a financial cap."
+    },
+    {
+      "start": 243.86,
+      "end": 246.44,
+      "text": "They don't need the same sort of disclosure because they are majors."
+    },
+    {
+      "start": 247.26,
+      "end": 248.76,
+      "text": "So the products that you're building there are"
+    },
+    {
+      "start": 249.66,
+      "end": 251.9,
+      "text": "simply cutting out the old PDS."
+    },
+    {
+      "start": 253.92,
+      "end": 257.72,
+      "text": "What is the hold-up, though, for the licenses where you've got fintechs wanting"
+    },
+    {
+      "start": 257.76,
+      "end": 261.54,
+      "text": "to deliver services directly for consumers and to use"
+    },
+    {
+      "start": 261.64,
+      "end": 263.42,
+      "text": "payments as part of their offering then?"
+    },
+    {
+      "start": 263.86,
+      "end": 265.24,
+      "text": "So there have been a couple there,"
+    },
+    {
+      "start": 266.22,
+      "end": 269.54,
+      "text": "and we did look at that through the first phase of the sandbox, which is,"
+    },
+    {
+      "start": 271.82,
+      "end": 274.9,
+      "text": "we cover this in our tokenization discussion paper that we put out."
+    },
+    {
+      "start": 275.46,
+      "end": 279.04,
+      "text": "New Zealand doesn't really have a regulatory way to"
+    },
+    {
+      "start": 279.08,
+      "end": 280.22,
+      "text": "recognize payments-"
+    },
+    {
+      "start": 280.76,
+      "end": 280.9,
+      "text": "Yeah"
+    },
+    {
+      "start": 281.06,
+      "end": 284.88,
+      "text": "... outside of banking, and what we're doing is what"
+    },
+    {
+      "start": 284.96,
+      "end": 287.4,
+      "text": "we can with the financial services license,"
+    },
+    {
+      "start": 288.7,
+      "end": 290.2,
+      "text": "which also wasn't designed for payments."
+    },
+    {
+      "start": 290.26,
+      "end": 294.06,
+      "text": "So we've found some solutions that have helped individual firms so"
+    },
+    {
+      "start": 294.12,
+      "end": 297.58,
+      "text": "far, such as we designated the stablecoin offered by"
+    },
+    {
+      "start": 297.72,
+      "end": 301.32,
+      "text": "ECDD as not a financial product, to allow that to come to market,"
+    },
+    {
+      "start": 302.12,
+      "end": 305.08,
+      "text": "and we think with the flexibility of the managed investment schemes, we will be"
+    },
+    {
+      "start": 305.1,
+      "end": 308.62,
+      "text": "able to help more small firms. It's not intended for the large investors"
+    },
+    {
+      "start": 308.66,
+      "end": 309.22,
+      "text": "necessarily."
+    },
+    {
+      "start": 310.18,
+      "end": 312.08,
+      "text": "The exemptions that we gave in the"
+    },
+    {
+      "start": 313.2,
+      "end": 316.6,
+      "text": "first part of the sandbox for some of the players were actually for very small"
+    },
+    {
+      "start": 316.62,
+      "end": 319.46,
+      "text": "investments to encourage retail participation."
+    },
+    {
+      "start": 319.54,
+      "end": 321.48,
+      "text": "So we're hopeful that we can do the same with this."
+    },
+    {
+      "start": 321.98,
+      "end": 322.8,
+      "text": "Okay."
+    },
+    {
+      "start": 323.72,
+      "end": 326.08,
+      "text": "You sort of set entirely new thing. Dan?"
+    },
+    {
+      "start": 326.78,
+      "end": 330.75,
+      "text": "Thanks, Mr. Chair. Thanks for coming before us today and for what your"
+    },
+    {
+      "start": 330.78,
+      "end": 334.64,
+      "text": "team do. Just want to switch to another part of the banking inquiry"
+    },
+    {
+      "start": 334.68,
+      "end": 336.38,
+      "text": "around transparency."
+    },
+    {
+      "start": 337.8,
+      "end": 341.2,
+      "text": "FMA, you've got this OCR pass-through"
+    },
+    {
+      "start": 342.08,
+      "end": 342.96,
+      "text": "dashboard, which"
+    },
+    {
+      "start": 344.72,
+      "end": 347.24,
+      "text": "I've been looking at quite a lot and seeing"
+    },
+    {
+      "start": 348.1,
+      "end": 351.98,
+      "text": "fairly consistent decreases in time to pass through OCR reductions."
+    },
+    {
+      "start": 352.6,
+      "end": 356.58,
+      "text": "I'm wanting to know if you've got any learnings from how"
+    },
+    {
+      "start": 356.68,
+      "end": 358.76,
+      "text": "that dashboard's working."
+    },
+    {
+      "start": 360.14,
+      "end": 363.64,
+      "text": "Has it actually resulted in, in light of transparency, has it"
+    },
+    {
+      "start": 363.7,
+      "end": 364.44,
+      "text": "resulted in-"
+    },
+    {
+      "start": 365.28,
+      "end": 368.86,
+      "text": "Greater reductions in passer of OCR reductions."
+    },
+    {
+      "start": 369.94,
+      "end": 373.82,
+      "text": "And then secondly, if there's any learnings for how you can bring"
+    },
+    {
+      "start": 373.88,
+      "end": 375.12,
+      "text": "greater transparency to the"
+    },
+    {
+      "start": 376.96,
+      "end": 380.54,
+      "text": "way fees and actions are set by banks"
+    },
+    {
+      "start": 381.04,
+      "end": 384.6,
+      "text": "using the same principles of what you've done here. Thank you."
+    },
+    {
+      "start": 384.64,
+      "end": 385.04,
+      "text": "Thank you."
+    },
+    {
+      "start": 385.12,
+      "end": 385.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 385.38,
+      "end": 388.06,
+      "text": "I might pick that one up, if that's okay. Thank you for the question."
+    },
+    {
+      "start": 388.18,
+      "end": 388.42,
+      "text": "So"
+    },
+    {
+      "start": 389.84,
+      "end": 393.08,
+      "text": "yeah, the data set is just about a year old now,"
+    },
+    {
+      "start": 393.94,
+      "end": 397.52,
+      "text": "and so it's still relatively early days in terms of the trend analysis that we're"
+    },
+    {
+      "start": 397.56,
+      "end": 400.82,
+      "text": "seeing. But to your question, I think we are seeing some"
+    },
+    {
+      "start": 401.2,
+      "end": 405.04,
+      "text": "interesting insights in that in terms of the timing, as you say, and that varies"
+    },
+    {
+      "start": 405.06,
+      "end": 408.34,
+      "text": "between entities. So we can see that quite transparently."
+    },
+    {
+      "start": 408.92,
+      "end": 412.56,
+      "text": "This is what we call a sunlight mechanism, so it means everybody's got access to"
+    },
+    {
+      "start": 412.6,
+      "end": 416.26,
+      "text": "the data, and we think that's helpful for customers and"
+    },
+    {
+      "start": 416.5,
+      "end": 420.16,
+      "text": "actually for the wider community in terms of understanding what's happening."
+    },
+    {
+      "start": 421.32,
+      "end": 424.82,
+      "text": "We are also seeing that new customers of floating rate"
+    },
+    {
+      "start": 424.86,
+      "end": 428.84,
+      "text": "mortgages do often receive interest rate changes"
+    },
+    {
+      "start": 428.9,
+      "end": 432.16,
+      "text": "earlier than existing customers, which is something that we're quite interested in,"
+    },
+    {
+      "start": 432.62,
+      "end": 435.76,
+      "text": "and we'll be exploring further in our engagement with the banks on this."
+    },
+    {
+      "start": 436.72,
+      "end": 440.7,
+      "text": "And equally, floating mortgages and on-call savings account interest"
+    },
+    {
+      "start": 440.78,
+      "end": 443.88,
+      "text": "rates responses don't always move together."
+    },
+    {
+      "start": 443.92,
+      "end": 444.33,
+      "text": "Mm."
+    },
+    {
+      "start": 444.36,
+      "end": 448.06,
+      "text": "So that's another area that we will be exploring the banks in terms of what the"
+    },
+    {
+      "start": 448.1,
+      "end": 452.03,
+      "text": "rationale is for that and why they have chosen to move them at different"
+    },
+    {
+      "start": 452.12,
+      "end": 456.0,
+      "text": "rates. So as that data set matures, we are looking to see"
+    },
+    {
+      "start": 456.02,
+      "end": 458.88,
+      "text": "whether it would be helpful to expand that further."
+    },
+    {
+      "start": 459.04,
+      "end": 462.0,
+      "text": "And actually, we're looking to create a little bit more as we get more data in,"
+    },
+    {
+      "start": 463.24,
+      "end": 467.02,
+      "text": "further kind of iterations of the dashboard, so that we can make different"
+    },
+    {
+      "start": 467.04,
+      "end": 468.53,
+      "text": "insights available through the dashboard."
+    },
+    {
+      "start": 468.53,
+      "end": 472.4,
+      "text": "Interesting. So supplementary. So you've got a year of data."
+    },
+    {
+      "start": 473.5,
+      "end": 477.38,
+      "text": "Are there any preliminary findings of that year of data in terms"
+    },
+    {
+      "start": 477.46,
+      "end": 481.4,
+      "text": "of banks' responsiveness to OCR"
+    },
+    {
+      "start": 482.0,
+      "end": 485.82,
+      "text": "changes and whether they're actually coming down, and"
+    },
+    {
+      "start": 487.12,
+      "end": 489.12,
+      "text": "is there any actual"
+    },
+    {
+      "start": 490.9,
+      "end": 494.82,
+      "text": "results that you've got within that one year of data, or it's still too"
+    },
+    {
+      "start": 494.86,
+      "end": 494.92,
+      "text": "early?"
+    },
+    {
+      "start": 494.99,
+      "end": 498.64,
+      "text": "I think we feel it's a little too early to tell at this stage,"
+    },
+    {
+      "start": 499.0,
+      "end": 499.82,
+      "text": "not least because"
+    },
+    {
+      "start": 501.18,
+      "end": 503.64,
+      "text": "we've had different rate changes at different times."
+    },
+    {
+      "start": 503.7,
+      "end": 507.24,
+      "text": "So in terms of a trend analysis, I think we feel we need a bit more"
+    },
+    {
+      "start": 507.3,
+      "end": 507.76,
+      "text": "time."
+    },
+    {
+      "start": 507.78,
+      "end": 507.96,
+      "text": "Mm."
+    },
+    {
+      "start": 508.66,
+      "end": 512.56,
+      "text": "And as I said, we will continue to engage with the banks on this topic in terms of"
+    },
+    {
+      "start": 512.6,
+      "end": 514.14,
+      "text": "the underlying reasons as to why"
+    },
+    {
+      "start": 515.18,
+      "end": 518.08,
+      "text": "they make some of those changes at different points in the cycle as well."
+    },
+    {
+      "start": 518.11,
+      "end": 518.76,
+      "text": "Okay. Wonderful. Thank you."
+    },
+    {
+      "start": 518.77,
+      "end": 519.13,
+      "text": "So more to come."
+    },
+    {
+      "start": 519.13,
+      "end": 519.62,
+      "text": "Adriana Williams."
+    },
+    {
+      "start": 519.78,
+      "end": 523.16,
+      "text": "Just a brief question about that. I also am a fan of that tool."
+    },
+    {
+      "start": 524.28,
+      "end": 525.3,
+      "text": "Why did it just sort of"
+    },
+    {
+      "start": 526.84,
+      "end": 529.4,
+      "text": "go on the website with zero fanfare?"
+    },
+    {
+      "start": 530.98,
+      "end": 534.12,
+      "text": "We would think that... This committee's very interested in it, the minister's"
+    },
+    {
+      "start": 534.16,
+      "end": 535.08,
+      "text": "interested in it."
+    },
+    {
+      "start": 536.04,
+      "end": 539.26,
+      "text": "Was this another sign that things aren't all happy at the FMA?"
+    },
+    {
+      "start": 539.86,
+      "end": 541.61,
+      "text": "What are we meant to read into"
+    },
+    {
+      "start": 542.42,
+      "end": 544.96,
+      "text": "something which is a massive contribution to competition,"
+    },
+    {
+      "start": 546.32,
+      "end": 549.4,
+      "text": "and something that's been campaigned on for a long time by members of the"
+    },
+    {
+      "start": 549.46,
+      "end": 552.25,
+      "text": "community, just kind of realizing it was there one day ?"
+    },
+    {
+      "start": 552.58,
+      "end": 553.62,
+      "text": "Yeah. Thank you. So"
+    },
+    {
+      "start": 555.06,
+      "end": 558.76,
+      "text": "because this is the first time that we've done something like this, we did want to"
+    },
+    {
+      "start": 558.8,
+      "end": 562.12,
+      "text": "what we call soft launch it. So we weren't quite sure how it was going to land."
+    },
+    {
+      "start": 562.76,
+      "end": 566.64,
+      "text": "And also, some of the participation in it is voluntary"
+    },
+    {
+      "start": 566.68,
+      "end": 568.56,
+      "text": "as well, so we wanted to make sure that we got the data-"
+    },
+    {
+      "start": 568.78,
+      "end": 568.82,
+      "text": "Oh"
+    },
+    {
+      "start": 568.92,
+      "end": 572.68,
+      "text": "... sets quite tight for that before we"
+    },
+    {
+      "start": 572.74,
+      "end": 575.48,
+      "text": "actually made more of the information that was there."
+    },
+    {
+      "start": 575.52,
+      "end": 578.12,
+      "text": "It's really important that when we're putting things out publicly,"
+    },
+    {
+      "start": 579.2,
+      "end": 581.24,
+      "text": "we make sure the data's accurate and is good quality."
+    },
+    {
+      "start": 581.38,
+      "end": 585.06,
+      "text": "And so that's why last year when we launched it, we wanted to"
+    },
+    {
+      "start": 585.12,
+      "end": 588.9,
+      "text": "ensure that we had the right quality controls over that before we"
+    },
+    {
+      "start": 589.32,
+      "end": 590.74,
+      "text": "publicized it more widely."
+    },
+    {
+      "start": 590.94,
+      "end": 591.16,
+      "text": "What's-"
+    },
+    {
+      "start": 591.18,
+      "end": 592.78,
+      "text": "Thanks, Todd. Sorry. Let's keep moving."
+    },
+    {
+      "start": 592.88,
+      "end": 595.16,
+      "text": "Oh, yeah. My question's a slightly different one."
+    },
+    {
+      "start": 595.22,
+      "end": 597.98,
+      "text": "Obviously, in our report also, we identified the"
+    },
+    {
+      "start": 598.92,
+      "end": 601.88,
+      "text": "Council of Financial Regulators as an important body."
+    },
+    {
+      "start": 602.42,
+      "end": 605.92,
+      "text": "And obviously, Dr. Brenner has presented to us just in the last few weeks"
+    },
+    {
+      "start": 606.04,
+      "end": 609.74,
+      "text": "in her role as the co-chair. I suppose I'm just keen to"
+    },
+    {
+      "start": 609.78,
+      "end": 610.26,
+      "text": "get"
+    },
+    {
+      "start": 611.46,
+      "end": 614.95,
+      "text": "some assurance, because is that now you, Mr. Hircis, acting?"
+    },
+    {
+      "start": 615.02,
+      "end": 618.91,
+      "text": "Because all I want to just understand is we don't want to lose momentum on"
+    },
+    {
+      "start": 618.94,
+      "end": 621.38,
+      "text": "the work that is being taken there."
+    },
+    {
+      "start": 621.4,
+      "end": 624.22,
+      "text": "And again, it's probably not the right forum today to go into,"
+    },
+    {
+      "start": 625.05,
+      "end": 628.88,
+      "text": "let's just say, the changes at the FMA and some of the uncertainty."
+    },
+    {
+      "start": 628.94,
+      "end": 632.9,
+      "text": "But I just want to, I suppose, get your reassurance that one, are you going to"
+    },
+    {
+      "start": 632.96,
+      "end": 636.88,
+      "text": "be, in your acting role, you're also the acting co-chair of COFA, and"
+    },
+    {
+      "start": 637.38,
+      "end": 641.16,
+      "text": "are you across the work programming, and can the FMA continue to support that work?"
+    },
+    {
+      "start": 642.68,
+      "end": 645.12,
+      "text": "Well, thank you, Mr. Stevenson. Yes."
+    },
+    {
+      "start": 645.32,
+      "end": 648.74,
+      "text": "As part of my role as interim CEO, I will be"
+    },
+    {
+      "start": 649.1,
+      "end": 652.36,
+      "text": "stepping into the role of being one of the co-chairs, I believe, of"
+    },
+    {
+      "start": 652.98,
+      "end": 654.66,
+      "text": "COFA alongside Dr. Bremner. Yes."
+    },
+    {
+      "start": 656.14,
+      "end": 658.84,
+      "text": "And the organization as a whole is"
+    },
+    {
+      "start": 660.64,
+      "end": 663.28,
+      "text": "fully supportive and up-to-date in terms of the work program."
+    },
+    {
+      "start": 664.32,
+      "end": 666.4,
+      "text": "And so I will be-"
+    },
+    {
+      "start": 667.9,
+      "end": 668.49,
+      "text": "Yeah. Sure"
+    },
+    {
+      "start": 668.49,
+      "end": 671.72,
+      "text": "... able to be fully participating in that and fully briefed."
+    },
+    {
+      "start": 671.8,
+      "end": 673.46,
+      "text": "The first meeting"
+    },
+    {
+      "start": 674.96,
+      "end": 677.1,
+      "text": "coming up of the heads is about four weeks away."
+    },
+    {
+      "start": 677.26,
+      "end": 677.54,
+      "text": "Yeah."
+    },
+    {
+      "start": 677.57,
+      "end": 681.08,
+      "text": "And so I will be attending that fully briefed and with a colleague as well."
+    },
+    {
+      "start": 681.16,
+      "end": 683.18,
+      "text": "So we will be continuing our participation."
+    },
+    {
+      "start": 683.45,
+      "end": 684.98,
+      "text": "That's good to hear. And then just a quick supplementary."
+    },
+    {
+      "start": 685.04,
+      "end": 685.75,
+      "text": "Obviously, the other thing"
+    },
+    {
+      "start": 687.12,
+      "end": 688.54,
+      "text": "Dr. Bremner touched on is obviously"
+    },
+    {
+      "start": 689.98,
+      "end": 692.94,
+      "text": "trying to use the COFA to actually coordinate the"
+    },
+    {
+      "start": 694.72,
+      "end": 697.84,
+      "text": "requirements on all of the people in the financial services sector."
+    },
+    {
+      "start": 697.87,
+      "end": 699.64,
+      "text": "And so from the FMA's point of view,"
+    },
+    {
+      "start": 701.1,
+      "end": 703.14,
+      "text": "have you made progress on coordinating"
+    },
+    {
+      "start": 704.68,
+      "end": 708.14,
+      "text": "what you're going to be requiring of people and making sure, seeing how that fits"
+    },
+    {
+      "start": 708.24,
+      "end": 711.06,
+      "text": "in, and yeah. What kind of visibility have you got of that now?"
+    },
+    {
+      "start": 711.48,
+      "end": 713.05,
+      "text": "I might ask Liam to give a specific-"
+    },
+    {
+      "start": 713.14,
+      "end": 713.3,
+      "text": "Yeah"
+    },
+    {
+      "start": 713.42,
+      "end": 714.14,
+      "text": "... couple of examples."
+    },
+    {
+      "start": 714.18,
+      "end": 717.8,
+      "text": "We mentioned a couple of those when we last appeared before you."
+    },
+    {
+      "start": 718.3,
+      "end": 718.31,
+      "text": "Mm."
+    },
+    {
+      "start": 718.32,
+      "end": 722.3,
+      "text": "But working with the Reserve Bank team to coordinate our frontline"
+    },
+    {
+      "start": 722.34,
+      "end": 724.36,
+      "text": "supervision, which Claire obviously leads,"
+    },
+    {
+      "start": 725.3,
+      "end": 726.78,
+      "text": "and the information request there."
+    },
+    {
+      "start": 726.86,
+      "end": 730.2,
+      "text": "One example was the recent work on insurance"
+    },
+    {
+      "start": 730.24,
+      "end": 731.02,
+      "text": "affordability."
+    },
+    {
+      "start": 731.88,
+      "end": 731.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 731.89,
+      "end": 735.72,
+      "text": "Used that COFA connection to make sure that we had streamlined information requests"
+    },
+    {
+      "start": 735.78,
+      "end": 738.36,
+      "text": "to make that as manageable as possible for the firms."
+    },
+    {
+      "start": 738.4,
+      "end": 739.53,
+      "text": "So yes, that's"
+    },
+    {
+      "start": 740.4,
+      "end": 741.1,
+      "text": "ongoing work for us."
+    },
+    {
+      "start": 741.58,
+      "end": 741.88,
+      "text": "Thank you."
+    },
+    {
+      "start": 742.82,
+      "end": 744.98,
+      "text": "I'll combine two questions into one, if I could."
+    },
+    {
+      "start": 746.52,
+      "end": 748.18,
+      "text": "In terms of fintech innovation,"
+    },
+    {
+      "start": 749.56,
+      "end": 753.2,
+      "text": "you've got blockchain tokenization that I know you've done your paper on."
+    },
+    {
+      "start": 753.66,
+      "end": 756.94,
+      "text": "Blockchain obviously knocking on your door, they're knocking at everyone's door."
+    },
+    {
+      "start": 756.98,
+      "end": 757.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 757.44,
+      "end": 761.34,
+      "text": "Are we at the risk of falling behind Australia and Singapore in terms"
+    },
+    {
+      "start": 761.38,
+      "end": 765.26,
+      "text": "of regulation? Is one of my questions, and I know that you guys are sort of"
+    },
+    {
+      "start": 766.46,
+      "end": 769.5,
+      "text": "pioneering in some of that space. But I'd also like to know,"
+    },
+    {
+      "start": 770.58,
+      "end": 772.98,
+      "text": "do you need legislative political"
+    },
+    {
+      "start": 775.18,
+      "end": 779.12,
+      "text": "leadership or direction in terms of legislation, or have you got a sufficient"
+    },
+    {
+      "start": 779.96,
+      "end": 783.9,
+      "text": "remit within your purview as FMA and the Reserve Bank"
+    },
+    {
+      "start": 784.0,
+      "end": 787.09,
+      "text": "to enable and catalyze some of that ecosystem?"
+    },
+    {
+      "start": 787.29,
+      "end": 787.8,
+      "text": "Sure. Thank you."
+    },
+    {
+      "start": 790.32,
+      "end": 793.24,
+      "text": "One of the themes that came through very strongly in the submissions on our"
+    },
+    {
+      "start": 793.26,
+      "end": 795.1,
+      "text": "tokenization paper"
+    },
+    {
+      "start": 796.02,
+      "end": 799.52,
+      "text": "was the lack of a coherent cross-government"
+    },
+    {
+      "start": 800.1,
+      "end": 802.64,
+      "text": "regulatory regime in New Zealand for digital assets,"
+    },
+    {
+      "start": 803.54,
+      "end": 803.88,
+      "text": "for"
+    },
+    {
+      "start": 805.16,
+      "end": 806.42,
+      "text": "tokens, and for blockchain."
+    },
+    {
+      "start": 808.12,
+      "end": 811.96,
+      "text": "We believe that we can continue to make progress using the powers that we've"
+    },
+    {
+      "start": 812.0,
+      "end": 812.2,
+      "text": "got."
+    },
+    {
+      "start": 813.04,
+      "end": 814.54,
+      "text": "But one of the"
+    },
+    {
+      "start": 816.08,
+      "end": 819.92,
+      "text": "things that we said in our response to submissions is that we will continue"
+    },
+    {
+      "start": 819.98,
+      "end": 822.58,
+      "text": "to work with government, looking for a cross-government response, yes."
+    },
+    {
+      "start": 823.62,
+      "end": 824.12,
+      "text": "Is it"
+    },
+    {
+      "start": 825.94,
+      "end": 829.88,
+      "text": "just bubbling away on the never, never, or have you got milestones where"
+    },
+    {
+      "start": 830.08,
+      "end": 833.14,
+      "text": "there's going to be regulatory certainty because that's what the market's really"
+    },
+    {
+      "start": 833.16,
+      "end": 833.56,
+      "text": "seeking?"
+    },
+    {
+      "start": 834.36,
+      "end": 837.64,
+      "text": "The certainty is absolutely what the participants want, and we can provide that"
+    },
+    {
+      "start": 837.7,
+      "end": 838.52,
+      "text": "within our space."
+    },
+    {
+      "start": 839.94,
+      "end": 843.82,
+      "text": "But I think that there is some exploratory work"
+    },
+    {
+      "start": 843.86,
+      "end": 845.3,
+      "text": "that COFA's looking at,"
+    },
+    {
+      "start": 846.12,
+      "end": 846.7,
+      "text": "and"
+    },
+    {
+      "start": 848.24,
+      "end": 851.24,
+      "text": "that I think will help us to get a roadmap that we need for the"
+    },
+    {
+      "start": 851.86,
+      "end": 854.22,
+      "text": "cross-government solution, because we don't have it at this point."
+    },
+    {
+      "start": 854.28,
+      "end": 857.24,
+      "text": "I guess I'm about to go to Aruna to finish up, but I guess"
+    },
+    {
+      "start": 858.98,
+      "end": 862.8,
+      "text": "the risk is that, yeah, we're doing some work, FMA is doing some work, COFA's doing"
+    },
+    {
+      "start": 862.84,
+      "end": 865.28,
+      "text": "some work, Reserve Bank's doing some work, MBIE's doing some work."
+    },
+    {
+      "start": 865.84,
+      "end": 868.84,
+      "text": "Meanwhile, Singapore's moving miles ahead, Australia's moving miles ahead-"
+    },
+    {
+      "start": 868.93,
+      "end": 870.26,
+      "text": "... and billions of dollars of"
+    },
+    {
+      "start": 871.1,
+      "end": 874.72,
+      "text": "bypassing New Zealand's market. So I guess, what do you"
+    },
+    {
+      "start": 874.78,
+      "end": 878.12,
+      "text": "need, or what do you need to do to sort of lock some of this in?"
+    },
+    {
+      "start": 880.3,
+      "end": 883.92,
+      "text": "One of the things that we think we do need is to"
+    },
+    {
+      "start": 884.48,
+      "end": 887.52,
+      "text": "bring together the different parts of government for that,"
+    },
+    {
+      "start": 888.8,
+      "end": 892.32,
+      "text": "and some of the work that we're doing at the moment is thinking about what will"
+    },
+    {
+      "start": 892.38,
+      "end": 895.9,
+      "text": "need to be in briefings for incoming ministers after the election."
+    },
+    {
+      "start": 895.98,
+      "end": 899.92,
+      "text": "Because certainly what we're hearing from the fintech industry is there is a"
+    },
+    {
+      "start": 899.96,
+      "end": 901.78,
+      "text": "very real risk of us falling behind. Yes."
+    },
+    {
+      "start": 902.1,
+      "end": 905.94,
+      "text": "So I guess, go back to my first question, does it need political leadership to help"
+    },
+    {
+      "start": 906.06,
+      "end": 908.87,
+      "text": "you in that? Does the twain need to meet?"
+    },
+    {
+      "start": 908.87,
+      "end": 909.82,
+      "text": "That's what he's saying."
+    },
+    {
+      "start": 910.2,
+      "end": 914.0,
+      "text": "I think it is going to need government leadership, yes."
+    },
+    {
+      "start": 914.06,
+      "end": 915.16,
+      "text": "Okay, thank you. Aruna."
+    },
+    {
+      "start": 916.44,
+      "end": 919.39,
+      "text": "Your junk insurance report was great. Thank you for that work."
+    },
+    {
+      "start": 920.0,
+      "end": 923.92,
+      "text": "I cannot think of a clearer breach of COFI than 2% loss ratio"
+    },
+    {
+      "start": 923.96,
+      "end": 925.78,
+      "text": "on these insurance products. Why aren't you prosecuting?"
+    },
+    {
+      "start": 927.32,
+      "end": 928.92,
+      "text": "So the report that we've done is"
+    },
+    {
+      "start": 930.18,
+      "end": 933.5,
+      "text": "to effectively show insights from the industry."
+    },
+    {
+      "start": 933.6,
+      "end": 937.35,
+      "text": "So we have done, as you'll have seen from that, a lot of monitoring"
+    },
+    {
+      "start": 937.42,
+      "end": 939.86,
+      "text": "activity over the course of the last year."
+    },
+    {
+      "start": 940.3,
+      "end": 940.84,
+      "text": "We did see some-"
+    },
+    {
+      "start": 940.92,
+      "end": 941.14,
+      "text": "We should know"
+    },
+    {
+      "start": 941.36,
+      "end": 944.0,
+      "text": "... we did see some good practices from the industry."
+    },
+    {
+      "start": 944.46,
+      "end": 944.47,
+      "text": "We-"
+    },
+    {
+      "start": 944.56,
+      "end": 948.09,
+      "text": "And we are following up in those areas where we see poor practices as well."
+    },
+    {
+      "start": 948.09,
+      "end": 948.72,
+      "text": "That's the one thing. Okay."
+    },
+    {
+      "start": 950.28,
+      "end": 950.58,
+      "text": "The end."
+    },
+    {
+      "start": 952.22,
+      "end": 954.1,
+      "text": "Thank you for coming in. Appreciate it."
+    },
+    {
+      "start": 954.28,
+      "end": 954.76,
+      "text": "Thank you, members."
+    },
+    {
+      "start": 954.77,
+      "end": 955.0,
+      "text": "It was short-"
+    },
+    {
+      "start": 955.08,
+      "end": 955.15,
+      "text": "Thank you"
+    },
+    {
+      "start": 955.15,
+      "end": 956.41,
+      "text": "... but appreciate those insights."
+    },
+    {
+      "start": 957.16,
+      "end": 960.18,
+      "text": "And thank you for the work you're doing and all the best with the"
+    },
+    {
+      "start": 960.98,
+      "end": 961.58,
+      "text": "work ahead of you."
+    },
+    {
+      "start": 962.18,
+      "end": 962.6,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 962.64,
+      "end": 963.1,
+      "text": "Thank you."
+    },
+    {
+      "start": 963.18,
+      "end": 964.24,
+      "text": "Thank you. Thank you, members."
+    },
+    {
+      "start": 965.9,
+      "end": 966.2,
+      "text": "Trust"
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\2026-08-18 FEC - vimeo_1219365043\\2026-08-18 FEC - vimeo_1219365043.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1219365043",
+    "display_id": "1219365043",
+    "title": "2026 08 26 FEC",
+    "webpage_url": "https://player.vimeo.com/video/1219365043",
+    "original_url": "https://player.vimeo.com/video/1219365043",
+    "upload_date": "20260826",
+    "metadata_date_source": "vimeo_title",
+    "published_date_uncertain": false,
+    "published_date_source": "vimeo_title",
+    "duration": 966,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2194007702-ee717d56c502db4b7ff46dc106396576d6210897f8498c0426fbc1d726cc29c1-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

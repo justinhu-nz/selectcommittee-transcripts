@@ -1,0 +1,3503 @@
+{
+  "language": "en-x-autogen",
+  "duration": 2097.72,
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 4.44,
+      "text": "Thank you for coming along at short notice to the committee."
+    },
+    {
+      "start": 5.62,
+      "end": 8.2,
+      "text": "Obviously, with the avian bird flu"
+    },
+    {
+      "start": 9.86,
+      "end": 10.55,
+      "text": "publicity and"
+    },
+    {
+      "start": 11.4,
+      "end": 13.0,
+      "text": "finally hitting our shores after"
+    },
+    {
+      "start": 13.84,
+      "end": 17.62,
+      "text": "a number of years, it'd be very"
+    },
+    {
+      "start": 17.7,
+      "end": 21.65,
+      "text": "useful for us to get a briefing on what's happening, how"
+    },
+    {
+      "start": 21.68,
+      "end": 24.38,
+      "text": "you see it rolling out, and the responses."
+    },
+    {
+      "start": 25.68,
+      "end": 27.18,
+      "text": "So I'll leave it in your hands, Stuart."
+    },
+    {
+      "start": 27.38,
+      "end": 30.3,
+      "text": "Yeah. No, no. Thanks very much. And yeah, thanks for the opportunity."
+    },
+    {
+      "start": 30.54,
+      "end": 32.54,
+      "text": "Obviously, it has arrived in New Zealand,"
+    },
+    {
+      "start": 33.92,
+      "end": 36.64,
+      "text": "so good to have this opportunity to talk through a few."
+    },
+    {
+      "start": 37.56,
+      "end": 40.1,
+      "text": "We've got the slides here. We'll just run through those quite quickly."
+    },
+    {
+      "start": 40.66,
+      "end": 41.12,
+      "text": "Just a bit of-"
+    },
+    {
+      "start": 41.16,
+      "end": 42.06,
+      "text": "Yep"
+    },
+    {
+      "start": 42.08,
+      "end": 46.0,
+      "text": "... what we know about bird flu, where we're at, and what we're"
+    },
+    {
+      "start": 46.04,
+      "end": 46.34,
+      "text": "doing,"
+    },
+    {
+      "start": 47.5,
+      "end": 50.34,
+      "text": "or what we've done since those two detections."
+    },
+    {
+      "start": 50.93,
+      "end": 53.0,
+      "text": "And then obviously, there'll be questions."
+    },
+    {
+      "start": 53.04,
+      "end": 56.75,
+      "text": "We've got some colleagues here from the Department of Conservation with us as well,"
+    },
+    {
+      "start": 56.82,
+      "end": 59.09,
+      "text": "who can talk about wild birds and vaccination,"
+    },
+    {
+      "start": 60.14,
+      "end": 63.91,
+      "text": "and other MPI colleagues as well, that we'll be able to cover off what you're"
+    },
+    {
+      "start": 63.92,
+      "end": 67.26,
+      "text": "interested in talking about. So I'll hand over to Mary Van Andel, who's our Chief"
+    },
+    {
+      "start": 67.32,
+      "end": 71.12,
+      "text": "Veterinary Officer, to just run through those first few slides on avian"
+    },
+    {
+      "start": 71.16,
+      "end": 74.83,
+      "text": "influenza and where we're at in the Australian situation,"
+    },
+    {
+      "start": 75.5,
+      "end": 76.92,
+      "text": "and then we'll go from there."
+    },
+    {
+      "start": 76.93,
+      "end": 80.88,
+      "text": "Perfect. Thanks very much, Stu. Good morning, everyone."
+    },
+    {
+      "start": 81.42,
+      "end": 85.0,
+      "text": "So highly pathogenic avian influenza, on the first slide"
+    },
+    {
+      "start": 85.08,
+      "end": 85.76,
+      "text": "there."
+    },
+    {
+      "start": 88.48,
+      "end": 92.28,
+      "text": "So a disease that has been prevalent in bird populations"
+    },
+    {
+      "start": 92.34,
+      "end": 93.86,
+      "text": "around the world for decades and decades."
+    },
+    {
+      "start": 93.9,
+      "end": 95.54,
+      "text": "We've known about it for a very long time."
+    },
+    {
+      "start": 96.46,
+      "end": 99.67,
+      "text": "In the past, it's been something that's been limited to the northern hemisphere,"
+    },
+    {
+      "start": 100.16,
+      "end": 104.15,
+      "text": "and it's been seasonal. What happened in 2020 is that a new strain of this"
+    },
+    {
+      "start": 104.2,
+      "end": 106.9,
+      "text": "virus emerged somewhere in the northern hemisphere."
+    },
+    {
+      "start": 106.96,
+      "end": 110.48,
+      "text": "This is the one that we're talking about today and the one that we've detected in"
+    },
+    {
+      "start": 110.52,
+      "end": 113.64,
+      "text": "New Zealand for the first time in the last two weeks."
+    },
+    {
+      "start": 114.42,
+      "end": 118.3,
+      "text": "That one called clade 2.3.4.4b, and that was"
+    },
+    {
+      "start": 118.34,
+      "end": 120.28,
+      "text": "different. Said it before, right?"
+    },
+    {
+      "start": 121.28,
+      "end": 124.94,
+      "text": "That strain was different, and the reason it was different was"
+    },
+    {
+      "start": 125.02,
+      "end": 128.78,
+      "text": "because it was spreading in a highly pathogenic form with wild"
+    },
+    {
+      "start": 128.86,
+      "end": 132.8,
+      "text": "birds. And not with just one or two species of wild birds,"
+    },
+    {
+      "start": 133.12,
+      "end": 136.63,
+      "text": "with a vast number of species. Things like shore birds,"
+    },
+    {
+      "start": 137.42,
+      "end": 138.72,
+      "text": "marine birds, those kinds of things."
+    },
+    {
+      "start": 138.8,
+      "end": 142.68,
+      "text": "Previously not a species that had carried the disease, but now"
+    },
+    {
+      "start": 143.12,
+      "end": 147.0,
+      "text": "yes. So what happened with that was that it moved across the northern hemisphere."
+    },
+    {
+      "start": 147.08,
+      "end": 150.84,
+      "text": "Because of this change in species distribution,"
+    },
+    {
+      "start": 151.66,
+      "end": 155.04,
+      "text": "for countries where this had previously been a seasonal thing, that was no longer"
+    },
+    {
+      "start": 155.06,
+      "end": 159.02,
+      "text": "the case. Colleagues in the US and the UK told us about"
+    },
+    {
+      "start": 159.08,
+      "end": 160.48,
+      "text": "how in"
+    },
+    {
+      "start": 161.3,
+      "end": 165.02,
+      "text": "'22, '23, in that season for them in the UK, they"
+    },
+    {
+      "start": 165.1,
+      "end": 168.78,
+      "text": "had cases almost year-round in their"
+    },
+    {
+      "start": 168.8,
+      "end": 171.96,
+      "text": "poultry. Right? And so"
+    },
+    {
+      "start": 173.0,
+      "end": 176.86,
+      "text": "what hasn't changed about the virus is that it's a low risk to human health."
+    },
+    {
+      "start": 177.28,
+      "end": 180.22,
+      "text": "Okay? So that hasn't changed. That's still the same."
+    },
+    {
+      "start": 180.26,
+      "end": 183.85,
+      "text": "Because of the large number of infected birds around the world,"
+    },
+    {
+      "start": 184.42,
+      "end": 187.88,
+      "text": "the number of spillover events into mammals that have been tested and"
+    },
+    {
+      "start": 187.92,
+      "end": 191.28,
+      "text": "recorded has increased a lot. And so what we have is"
+    },
+    {
+      "start": 191.84,
+      "end": 195.48,
+      "text": "in more than 50 species, 60 species of mammals, this being"
+    },
+    {
+      "start": 195.52,
+      "end": 199.46,
+      "text": "detected. We have very few instances of mammals passing this"
+    },
+    {
+      "start": 199.52,
+      "end": 202.78,
+      "text": "disease between each other. No cases in humans."
+    },
+    {
+      "start": 202.84,
+      "end": 206.72,
+      "text": "We have the example of dairy cattle in the US, which we can talk about further."
+    },
+    {
+      "start": 207.08,
+      "end": 211.02,
+      "text": "We have a whole population of dairy cattle in the northern hemisphere who have"
+    },
+    {
+      "start": 211.06,
+      "end": 214.84,
+      "text": "been tested for this disease and not found. Right?"
+    },
+    {
+      "start": 215.24,
+      "end": 218.9,
+      "text": "And so the vast majority of countries who have dairy cattle and who have this"
+    },
+    {
+      "start": 218.92,
+      "end": 220.94,
+      "text": "disease have no incidence in dairy cattle."
+    },
+    {
+      "start": 221.26,
+      "end": 222.68,
+      "text": "The US had"
+    },
+    {
+      "start": 223.64,
+      "end": 227.5,
+      "text": "a very small number of spillover events, but then moved their"
+    },
+    {
+      "start": 227.52,
+      "end": 231.28,
+      "text": "cattle and spread the disease very dramatically in their population."
+    },
+    {
+      "start": 233.12,
+      "end": 236.91,
+      "text": "Yes, so it does affect mammals. Things like sea lions and"
+    },
+    {
+      "start": 236.98,
+      "end": 240.04,
+      "text": "seals, those are impacted because they eat dead birds."
+    },
+    {
+      "start": 240.62,
+      "end": 241.5,
+      "text": "Okay."
+    },
+    {
+      "start": 242.78,
+      "end": 245.38,
+      "text": "So in Australia, what we have is,"
+    },
+    {
+      "start": 246.52,
+      "end": 250.31,
+      "text": "they found their first detections of this strain of disease"
+    },
+    {
+      "start": 250.96,
+      "end": 252.97,
+      "text": "before we did, a couple of weeks before."
+    },
+    {
+      "start": 253.02,
+      "end": 256.28,
+      "text": "We're up to, I want to look because it has, yes,"
+    },
+    {
+      "start": 256.66,
+      "end": 259.56,
+      "text": "27 confirmed cases now in Australia."
+    },
+    {
+      "start": 259.6,
+      "end": 260.98,
+      "text": "The majority of those are in"
+    },
+    {
+      "start": 261.8,
+      "end": 263.38,
+      "text": "single ocean-going sea birds."
+    },
+    {
+      "start": 264.18,
+      "end": 267.62,
+      "text": "But what has overnight been confirmed is that Australia has"
+    },
+    {
+      "start": 267.68,
+      "end": 270.14,
+      "text": "detected local spread in"
+    },
+    {
+      "start": 271.12,
+      "end": 272.32,
+      "text": "a population of-"
+    },
+    {
+      "start": 272.36,
+      "end": 272.74,
+      "text": "Right"
+    },
+    {
+      "start": 273.06,
+      "end": 275.66,
+      "text": "... crested terns in South Australia."
+    },
+    {
+      "start": 275.74,
+      "end": 279.54,
+      "text": "So this is the pattern that we expect with this disease, that it will come"
+    },
+    {
+      "start": 279.64,
+      "end": 283.56,
+      "text": "from the Southern Ocean with migratory, not migratory sea birds,"
+    },
+    {
+      "start": 283.88,
+      "end": 287.58,
+      "text": "with pelagic birds, birds who mostly live in the Southern Ocean"
+    },
+    {
+      "start": 287.66,
+      "end": 291.32,
+      "text": "and intermittently come to New Zealand and Australia and other islands in the"
+    },
+    {
+      "start": 291.36,
+      "end": 293.32,
+      "text": "Southern Ocean. And so that's what we've seen."
+    },
+    {
+      "start": 293.4,
+      "end": 296.28,
+      "text": "We saw this in the skua in New Zealand on Piha Beach."
+    },
+    {
+      "start": 296.32,
+      "end": 299.52,
+      "text": "We saw it in the multiple detections in"
+    },
+    {
+      "start": 299.56,
+      "end": 302.7,
+      "text": "Australia over the last month or so."
+    },
+    {
+      "start": 302.74,
+      "end": 306.18,
+      "text": "What's changed overnight is that that virus has spread"
+    },
+    {
+      "start": 306.26,
+      "end": 306.74,
+      "text": "to"
+    },
+    {
+      "start": 307.64,
+      "end": 311.2,
+      "text": "localized populations of terns, and Australia has reported that"
+    },
+    {
+      "start": 311.26,
+      "end": 312.26,
+      "text": "transmission there."
+    },
+    {
+      "start": 312.76,
+      "end": 312.88,
+      "text": "Mm."
+    },
+    {
+      "start": 313.9,
+      "end": 314.28,
+      "text": "Okay."
+    },
+    {
+      "start": 316.36,
+      "end": 317.02,
+      "text": "Next slide, please."
+    },
+    {
+      "start": 317.96,
+      "end": 319.19,
+      "text": "What do we want to talk about? Oh, yes."
+    },
+    {
+      "start": 320.34,
+      "end": 324.14,
+      "text": "So we all know that the first case was detected on the 15th of"
+    },
+    {
+      "start": 324.18,
+      "end": 327.48,
+      "text": "July, a brown skua that was found on Piha Beach acting"
+    },
+    {
+      "start": 328.06,
+      "end": 331.88,
+      "text": "unexpectedly, allowing people to approach it, which is quite unusual behavior for"
+    },
+    {
+      "start": 331.94,
+      "end": 332.68,
+      "text": "a skua."
+    },
+    {
+      "start": 333.72,
+      "end": 337.16,
+      "text": "That was subsequently submitted to the Wellington Zoo"
+    },
+    {
+      "start": 337.56,
+      "end": 340.98,
+      "text": "and screened as part of the wildlife testing program that we have with"
+    },
+    {
+      "start": 341.02,
+      "end": 344.18,
+      "text": "hospitals and found to have clade"
+    },
+    {
+      "start": 344.3,
+      "end": 346.06,
+      "text": "2.3.4.4b."
+    },
+    {
+      "start": 347.92,
+      "end": 350.26,
+      "text": "The second case was a swamp harrier, a kahu,"
+    },
+    {
+      "start": 351.96,
+      "end": 354.64,
+      "text": "not a bird that lives entirely in the Southern Ocean. Right?"
+    },
+    {
+      "start": 354.7,
+      "end": 356.92,
+      "text": "And so that was a little unexpected."
+    },
+    {
+      "start": 359.0,
+      "end": 359.1,
+      "text": "No."
+    },
+    {
+      "start": 360.12,
+      "end": 360.17,
+      "text": "No?"
+    },
+    {
+      "start": 360.17,
+      "end": 361.76,
+      "text": "Not a bird that lives entirely in the Southern Ocean."
+    },
+    {
+      "start": 362.06,
+      "end": 362.86,
+      "text": "That's, yes."
+    },
+    {
+      "start": 362.9,
+      "end": 363.77,
+      "text": "I'm saying yeah. Sorry."
+    },
+    {
+      "start": 363.77,
+      "end": 366.55,
+      "text": "Oh, we agree. Sorry. Sorry, Stuart. Apologies, Minister."
+    },
+    {
+      "start": 366.58,
+      "end": 368.19,
+      "text": "Being an enthusiastic listener, sorry."
+    },
+    {
+      "start": 369.89,
+      "end": 370.34,
+      "text": "Apologies,"
+    },
+    {
+      "start": 372.4,
+      "end": 375.92,
+      "text": "Minister. Okay. So the second case-"
+    },
+    {
+      "start": 376.8,
+      "end": 380.5,
+      "text": "found in Carterton, also handed in to a bird rehabilitation"
+    },
+    {
+      "start": 380.58,
+      "end": 384.34,
+      "text": "center and subsequently to the veterinary hospital at"
+    },
+    {
+      "start": 384.4,
+      "end": 388.18,
+      "text": "Massey University, and tested as part of ongoing surveillance of"
+    },
+    {
+      "start": 388.2,
+      "end": 388.71,
+      "text": "wild birds."
+    },
+    {
+      "start": 389.76,
+      "end": 393.68,
+      "text": "No other confirmed cases to date, despite many reports from the public,"
+    },
+    {
+      "start": 394.0,
+      "end": 397.38,
+      "text": "despite ongoing surveillance at these wildlife hospitals."
+    },
+    {
+      "start": 397.68,
+      "end": 401.66,
+      "text": "I would say that these wildlife hospitals and this network of surveillance is a"
+    },
+    {
+      "start": 401.72,
+      "end": 403.58,
+      "text": "high-value surveillance stream."
+    },
+    {
+      "start": 403.64,
+      "end": 407.04,
+      "text": "There we have clinicians who are trained in birds and who know what to look for,"
+    },
+    {
+      "start": 407.05,
+      "end": 410.92,
+      "text": "and they have the ability to sample these animals,"
+    },
+    {
+      "start": 410.96,
+      "end": 414.06,
+      "text": "and also, importantly, to keep them separate from other animals in their care,"
+    },
+    {
+      "start": 414.84,
+      "end": 416.5,
+      "text": "so that that doesn't accidentally spread."
+    },
+    {
+      "start": 417.74,
+      "end": 418.98,
+      "text": "Right. So no other confirmed cases."
+    },
+    {
+      "start": 419.26,
+      "end": 422.64,
+      "text": "The point of the surveillance at this point is that we're looking for the same"
+    },
+    {
+      "start": 422.72,
+      "end": 424.96,
+      "text": "thing that Australia has detected overnight, right?"
+    },
+    {
+      "start": 425.22,
+      "end": 429.12,
+      "text": "We're looking for evidence of transmission in New Zealand birds, because"
+    },
+    {
+      "start": 429.18,
+      "end": 431.98,
+      "text": "that tells us something about what the risk to"
+    },
+    {
+      "start": 432.82,
+      "end": 435.28,
+      "text": "poultry and these types of other things are."
+    },
+    {
+      "start": 435.31,
+      "end": 438.38,
+      "text": "There are limited things that can be done to protect wildlife."
+    },
+    {
+      "start": 439.66,
+      "end": 442.72,
+      "text": "But our colleagues in the Department of Conservation have"
+    },
+    {
+      "start": 443.52,
+      "end": 447.46,
+      "text": "taken good actions to do what can"
+    },
+    {
+      "start": 447.5,
+      "end": 451.46,
+      "text": "be done for them. But the value of the ongoing surveillance is in"
+    },
+    {
+      "start": 451.52,
+      "end": 455.21,
+      "text": "terms of increasing biosecurity measures, both for wildlife populations and for"
+    },
+    {
+      "start": 455.21,
+      "end": 455.6,
+      "text": "poultry,"
+    },
+    {
+      "start": 456.8,
+      "end": 460.2,
+      "text": "as we learn about how this disease will spread in New Zealand."
+    },
+    {
+      "start": 460.58,
+      "end": 463.91,
+      "text": "It seems very unlikely that this disease will be able to be eradicated from New"
+    },
+    {
+      "start": 463.96,
+      "end": 467.64,
+      "text": "Zealand wildlife. That's not what has happened in any other place in the world."
+    },
+    {
+      "start": 468.44,
+      "end": 472.13,
+      "text": "And so we need to focus our efforts on resilience and on"
+    },
+    {
+      "start": 472.14,
+      "end": 474.73,
+      "text": "protecting the populations that we're able to,"
+    },
+    {
+      "start": 475.84,
+      "end": 479.76,
+      "text": "because we can't predict or know how this disease will behave"
+    },
+    {
+      "start": 479.77,
+      "end": 482.9,
+      "text": "here, because it's never been here before, and it's never been in the Southern"
+    },
+    {
+      "start": 482.98,
+      "end": 484.1,
+      "text": "Ocean before."
+    },
+    {
+      "start": 485.52,
+      "end": 486.1,
+      "text": "That's okay."
+    },
+    {
+      "start": 486.16,
+      "end": 486.24,
+      "text": "Yep."
+    },
+    {
+      "start": 486.26,
+      "end": 487.0,
+      "text": "Good. Thank you."
+    },
+    {
+      "start": 488.04,
+      "end": 491.28,
+      "text": "So yeah, the other thing I'll just point out, and we can talk more about it,"
+    },
+    {
+      "start": 492.18,
+      "end": 496.0,
+      "text": "from a trade point of view, our trade status is not impacted at the"
+    },
+    {
+      "start": 496.04,
+      "end": 496.46,
+      "text": "moment."
+    },
+    {
+      "start": 497.68,
+      "end": 501.2,
+      "text": "That would only come into play when we have infections in poultry."
+    },
+    {
+      "start": 501.26,
+      "end": 505.08,
+      "text": "So infections in wild birds does not affect our status in terms of trade"
+    },
+    {
+      "start": 505.18,
+      "end": 506.12,
+      "text": "and exports."
+    },
+    {
+      "start": 506.36,
+      "end": 510.24,
+      "text": "Mr. Chair, I wonder if it could be useful process and order of events for"
+    },
+    {
+      "start": 510.28,
+      "end": 513.96,
+      "text": "us to ask some questions about the wild birds before we move on to poultry."
+    },
+    {
+      "start": 514.92,
+      "end": 515.12,
+      "text": "No."
+    },
+    {
+      "start": 515.32,
+      "end": 515.51,
+      "text": "Or if-"
+    },
+    {
+      "start": 515.64,
+      "end": 516.47,
+      "text": "Should we do the whole thing together?"
+    },
+    {
+      "start": 516.52,
+      "end": 517.68,
+      "text": "We'll do the whole thing together."
+    },
+    {
+      "start": 517.7,
+      "end": 517.71,
+      "text": "Right."
+    },
+    {
+      "start": 517.72,
+      "end": 521.32,
+      "text": "But we could start with the... Because obviously it started in the wild birds, so"
+    },
+    {
+      "start": 521.36,
+      "end": 523.44,
+      "text": "they'll be the first questions probably anyway."
+    },
+    {
+      "start": 523.54,
+      "end": 524.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 524.1,
+      "end": 527.48,
+      "text": "I'll just pick through really quickly the last few bits in terms of where we've got"
+    },
+    {
+      "start": 527.52,
+      "end": 531.44,
+      "text": "to of the detection. So look, for the last few years, yeah,"
+    },
+    {
+      "start": 531.8,
+      "end": 535.52,
+      "text": "we have known of this. We've seen and watched this spreading around the"
+    },
+    {
+      "start": 535.56,
+      "end": 538.36,
+      "text": "world and moving down South America into Antarctica,"
+    },
+    {
+      "start": 539.22,
+      "end": 541.53,
+      "text": "and then of course, recently into Australia."
+    },
+    {
+      "start": 542.4,
+      "end": 546.08,
+      "text": "So we've been watching this and planning and preparing."
+    },
+    {
+      "start": 547.26,
+      "end": 551.08,
+      "text": "We've taken what we call a One Health approach, which is really that alignment"
+    },
+    {
+      "start": 551.12,
+      "end": 552.66,
+      "text": "between animal health and human health."
+    },
+    {
+      "start": 553.3,
+      "end": 555.28,
+      "text": "And so, in our context, that's"
+    },
+    {
+      "start": 556.1,
+      "end": 559.29,
+      "text": "ourselves, that's MPI for biosecurity with our colleagues in the Department of"
+    },
+    {
+      "start": 559.34,
+      "end": 563.21,
+      "text": "Conservation and the health ministry, Ministry of Health and Health New"
+    },
+    {
+      "start": 563.3,
+      "end": 563.62,
+      "text": "Zealand."
+    },
+    {
+      "start": 564.6,
+      "end": 568.45,
+      "text": "And the focus that's been agreed, Cabinet agreed in terms of the approach,"
+    },
+    {
+      "start": 568.94,
+      "end": 571.57,
+      "text": "recognizing, as we've said, that once this gets here"
+    },
+    {
+      "start": 572.42,
+      "end": 576.34,
+      "text": "in wild birds, it will be something that will ultimately become"
+    },
+    {
+      "start": 576.48,
+      "end": 580.16,
+      "text": "endemic. It won't be able to be eradicated, and it will be here to stay here."
+    },
+    {
+      "start": 580.72,
+      "end": 584.64,
+      "text": "So our focus really is on being able to reduce the impact on"
+    },
+    {
+      "start": 584.68,
+      "end": 586.9,
+      "text": "our threatened species, on the poultry industry,"
+    },
+    {
+      "start": 587.74,
+      "end": 590.07,
+      "text": "maintaining supply of poultry meat and eggs,"
+    },
+    {
+      "start": 591.0,
+      "end": 594.82,
+      "text": "maintaining our market access for trade as far as we possibly can,"
+    },
+    {
+      "start": 595.42,
+      "end": 599.28,
+      "text": "and protecting human health. Noting what Mary has said around generally it's a low"
+    },
+    {
+      "start": 599.36,
+      "end": 603.22,
+      "text": "risk, but there is a human health"
+    },
+    {
+      "start": 603.46,
+      "end": 604.52,
+      "text": "aspect here as well."
+    },
+    {
+      "start": 605.52,
+      "end": 608.62,
+      "text": "We've got a government industry agreement arrangement that we signed with the"
+    },
+    {
+      "start": 608.66,
+      "end": 612.09,
+      "text": "poultry industry last year. It sets out how we will"
+    },
+    {
+      "start": 612.5,
+      "end": 616.24,
+      "text": "jointly work on and manage and respond to H5N1 and other"
+    },
+    {
+      "start": 616.28,
+      "end": 620.18,
+      "text": "poultry diseases. And we've also been working a lot with"
+    },
+    {
+      "start": 620.24,
+      "end": 623.56,
+      "text": "local government, with regional and territorial authorities, regional councils,"
+    },
+    {
+      "start": 623.61,
+      "end": 625.48,
+      "text": "territorial authorities to plan and prepare."
+    },
+    {
+      "start": 626.3,
+      "end": 627.98,
+      "text": "So on the next slide, what's happened"
+    },
+    {
+      "start": 629.98,
+      "end": 633.74,
+      "text": "since that detection, or the two detections a couple of weeks"
+    },
+    {
+      "start": 633.8,
+      "end": 634.0,
+      "text": "ago,"
+    },
+    {
+      "start": 635.03,
+      "end": 638.94,
+      "text": "so we have stood up a response structure and response"
+    },
+    {
+      "start": 639.04,
+      "end": 640.4,
+      "text": "activities in"
+    },
+    {
+      "start": 641.96,
+      "end": 643.46,
+      "text": "relation to those two detections."
+    },
+    {
+      "start": 644.66,
+      "end": 645.06,
+      "text": "We've"
+    },
+    {
+      "start": 646.0,
+      "end": 649.48,
+      "text": "carried on with the surveillance programs that Mary has mentioned."
+    },
+    {
+      "start": 649.94,
+      "end": 651.5,
+      "text": "It's really valuable, that surveillance."
+    },
+    {
+      "start": 652.26,
+      "end": 655.9,
+      "text": "We've seen a notable increase in public notifications to our"
+    },
+    {
+      "start": 655.92,
+      "end": 656.72,
+      "text": "hotline as well,"
+    },
+    {
+      "start": 657.68,
+      "end": 660.34,
+      "text": "which is what we want and which is what we encourage."
+    },
+    {
+      "start": 661.62,
+      "end": 664.9,
+      "text": "Following the detection in Wellington and Wairarapa,"
+    },
+    {
+      "start": 665.74,
+      "end": 667.14,
+      "text": "we've done further surveillance"
+    },
+    {
+      "start": 668.12,
+      "end": 668.94,
+      "text": "across the area."
+    },
+    {
+      "start": 669.8,
+      "end": 672.18,
+      "text": "So we've checked the coastline"
+    },
+    {
+      "start": 673.12,
+      "end": 675.36,
+      "text": "essentially from Castle Point down to Cape Palliser,"
+    },
+    {
+      "start": 676.34,
+      "end": 678.58,
+      "text": "for any signs of mass mortalities of birds."
+    },
+    {
+      "start": 678.62,
+      "end": 680.34,
+      "text": "Haven't found anything out of that."
+    },
+    {
+      "start": 680.56,
+      "end": 684.03,
+      "text": "We've checked other significant sites, the likes of Lake Ferry and other"
+    },
+    {
+      "start": 684.1,
+      "end": 687.84,
+      "text": "places for signs of mortalities. Also, some of the seal"
+    },
+    {
+      "start": 687.94,
+      "end": 689.86,
+      "text": "colonies that are a bit more"
+    },
+    {
+      "start": 690.94,
+      "end": 694.22,
+      "text": "important, so Red Rocks here, Cape Palliser."
+    },
+    {
+      "start": 694.92,
+      "end": 698.08,
+      "text": "We've also looked at Kaikoura, the seal colony there."
+    },
+    {
+      "start": 698.58,
+      "end": 702.14,
+      "text": "We've convened a technical advisory group to advise us on wild"
+    },
+    {
+      "start": 702.22,
+      "end": 702.7,
+      "text": "birds,"
+    },
+    {
+      "start": 703.62,
+      "end": 707.42,
+      "text": "with the Kahu detection, to understand more about"
+    },
+    {
+      "start": 707.48,
+      "end": 711.44,
+      "text": "wild birds and behavior and movement, et cetera, of wild birds that can inform"
+    },
+    {
+      "start": 711.5,
+      "end": 714.0,
+      "text": "our planning and response going forward."
+    },
+    {
+      "start": 714.95,
+      "end": 718.22,
+      "text": "And we've been doing a lot of work and continue to work closely with the poultry"
+    },
+    {
+      "start": 718.26,
+      "end": 721.66,
+      "text": "industry in terms of their readiness and preparedness"
+    },
+    {
+      "start": 722.24,
+      "end": 726.0,
+      "text": "to be able to respond. We've reached out to farmers, and we're"
+    },
+    {
+      "start": 726.04,
+      "end": 729.66,
+      "text": "continuing to reach out to poultry farmers one-on-one to offer"
+    },
+    {
+      "start": 729.76,
+      "end": 733.17,
+      "text": "support with their plans and their preparedness and work"
+    },
+    {
+      "start": 733.24,
+      "end": 734.48,
+      "text": "alongside them to help them"
+    },
+    {
+      "start": 735.42,
+      "end": 737.46,
+      "text": "with their plans and anything they need to do on the farm."
+    },
+    {
+      "start": 738.0,
+      "end": 738.28,
+      "text": "As"
+    },
+    {
+      "start": 739.16,
+      "end": 739.78,
+      "text": "has been said,"
+    },
+    {
+      "start": 740.92,
+      "end": 744.36,
+      "text": "the biggest thing for the poultry industry is to protect themselves from being"
+    },
+    {
+      "start": 744.38,
+      "end": 747.34,
+      "text": "infected in the first instance, so putting a lot of focus on that."
+    },
+    {
+      "start": 748.22,
+      "end": 748.92,
+      "text": "And we have"
+    },
+    {
+      "start": 750.3,
+      "end": 753.88,
+      "text": "quick response teams and capability to be able to swing in and-"
+    },
+    {
+      "start": 754.51,
+      "end": 758.49,
+      "text": "For wherever the next part of the country is, we pick up a case or cases"
+    },
+    {
+      "start": 758.99,
+      "end": 762.91,
+      "text": "that we can replicate what we've done in the Wairarapa and here off the"
+    },
+    {
+      "start": 762.93,
+      "end": 766.85,
+      "text": "back of those two detections. And we continue with"
+    },
+    {
+      "start": 766.89,
+      "end": 768.59,
+      "text": "the public messaging, which like I say,"
+    },
+    {
+      "start": 769.83,
+      "end": 771.43,
+      "text": "has had really good reach for us,"
+    },
+    {
+      "start": 772.39,
+      "end": 775.61,
+      "text": "and we've seen that with the notifications."
+    },
+    {
+      "start": 775.65,
+      "end": 775.76,
+      "text": "We've"
+    },
+    {
+      "start": 777.43,
+      "end": 780.81,
+      "text": "got about 1,300 notifications that we've had in the last two weeks coming"
+    },
+    {
+      "start": 780.83,
+      "end": 784.55,
+      "text": "through to our hotline, which we appreciate and is really"
+    },
+    {
+      "start": 784.59,
+      "end": 785.93,
+      "text": "valuable. So,"
+    },
+    {
+      "start": 787.05,
+      "end": 790.67,
+      "text": "with that, I think hopefully that gives you a good overview of where we're at"
+    },
+    {
+      "start": 790.77,
+      "end": 791.09,
+      "text": "and"
+    },
+    {
+      "start": 792.37,
+      "end": 795.07,
+      "text": "obviously, questions and discussion. Thank you."
+    },
+    {
+      "start": 795.19,
+      "end": 796.65,
+      "text": "Yep. Thank you very much, Stewart."
+    },
+    {
+      "start": 797.75,
+      "end": 799.13,
+      "text": "So we've got a series of questions."
+    },
+    {
+      "start": 799.15,
+      "end": 803.02,
+      "text": "We're going to Suz, and then to Rachel, and then to Steve, and I might slip one"
+    },
+    {
+      "start": 803.07,
+      "end": 804.69,
+      "text": "in depending on what their questions are."
+    },
+    {
+      "start": 805.55,
+      "end": 809.13,
+      "text": "Okay. I'll be quick. Well, I've got a couple of questions actually, but you talk"
+    },
+    {
+      "start": 809.19,
+      "end": 812.17,
+      "text": "about watching, planning and preparing, and you're supporting farmers in the"
+    },
+    {
+      "start": 812.25,
+      "end": 815.25,
+      "text": "industry, and I've just heard from a number of..."
+    },
+    {
+      "start": 815.35,
+      "end": 818.91,
+      "text": "I've got some egg producers in my electorate who are"
+    },
+    {
+      "start": 818.97,
+      "end": 822.83,
+      "text": "concerned about what's going to happen to them."
+    },
+    {
+      "start": 823.17,
+      "end": 826.87,
+      "text": "So in particular, free range, just to get kind of specific, in particular, free"
+    },
+    {
+      "start": 826.97,
+      "end": 830.69,
+      "text": "range egg farmers. If they end up having to lock up their birds, how does it"
+    },
+    {
+      "start": 830.73,
+      "end": 830.97,
+      "text": "work"
+    },
+    {
+      "start": 831.93,
+      "end": 835.72,
+      "text": "in terms of packaging? How long can they call them free range when they're"
+    },
+    {
+      "start": 835.75,
+      "end": 836.63,
+      "text": "not free range? But"
+    },
+    {
+      "start": 837.57,
+      "end": 841.31,
+      "text": "if you could just elaborate on how you're communicating with these guys, because I"
+    },
+    {
+      "start": 841.33,
+      "end": 845.25,
+      "text": "think they feel there's a big strategy up here, but in terms of"
+    },
+    {
+      "start": 845.29,
+      "end": 848.85,
+      "text": "them, and some of them export as well, what the impacts of exporting will be."
+    },
+    {
+      "start": 849.05,
+      "end": 849.15,
+      "text": "Yeah."
+    },
+    {
+      "start": 849.43,
+      "end": 851.69,
+      "text": "Just how you're reassuring those guys."
+    },
+    {
+      "start": 852.21,
+      "end": 855.11,
+      "text": "Yeah. Okay. A few things in there."
+    },
+    {
+      "start": 856.39,
+      "end": 856.65,
+      "text": "So"
+    },
+    {
+      "start": 858.65,
+      "end": 859.97,
+      "text": "this is going to be"
+    },
+    {
+      "start": 860.85,
+      "end": 864.81,
+      "text": "something that is ultimately going to be here and spread,"
+    },
+    {
+      "start": 864.95,
+      "end": 866.97,
+      "text": "and we have to learn to manage and live with it."
+    },
+    {
+      "start": 867.09,
+      "end": 868.13,
+      "text": "We're in the very early"
+    },
+    {
+      "start": 869.11,
+      "end": 872.57,
+      "text": "days and very early stages of that. We've had the two detections."
+    },
+    {
+      "start": 872.63,
+      "end": 876.39,
+      "text": "We haven't had anything since then, but we know there will be more."
+    },
+    {
+      "start": 876.43,
+      "end": 878.76,
+      "text": "The exact pathway in terms of how it'll play out"
+    },
+    {
+      "start": 880.59,
+      "end": 881.65,
+      "text": "is uncertain."
+    },
+    {
+      "start": 883.13,
+      "end": 886.85,
+      "text": "We don't know how all the different New Zealand bird"
+    },
+    {
+      "start": 886.91,
+      "end": 887.75,
+      "text": "species will"
+    },
+    {
+      "start": 889.05,
+      "end": 892.93,
+      "text": "react or how they will be impacted and where and how it could spread and"
+    },
+    {
+      "start": 892.95,
+      "end": 896.15,
+      "text": "the prevalence and how it may stay in certain parts of the country versus"
+    },
+    {
+      "start": 896.23,
+      "end": 897.11,
+      "text": "not."
+    },
+    {
+      "start": 898.03,
+      "end": 899.29,
+      "text": "However, at the moment,"
+    },
+    {
+      "start": 900.75,
+      "end": 904.41,
+      "text": "as you know, a number of poultry operators and farmers across the"
+    },
+    {
+      "start": 904.45,
+      "end": 907.99,
+      "text": "country have taken that decision to house birds given"
+    },
+    {
+      "start": 909.17,
+      "end": 911.79,
+      "text": "the uncertainty. So we've had those two detections."
+    },
+    {
+      "start": 912.63,
+      "end": 916.43,
+      "text": "That is, of course, a business decision to house"
+    },
+    {
+      "start": 916.47,
+      "end": 918.91,
+      "text": "chickens. We have worked with the poultry industry around"
+    },
+    {
+      "start": 920.17,
+      "end": 923.83,
+      "text": "stickers and messaging for consumers in terms of why birds are being"
+    },
+    {
+      "start": 923.87,
+      "end": 927.77,
+      "text": "housed, given the outbreak. We've worked with the Commerce"
+    },
+    {
+      "start": 927.85,
+      "end": 930.69,
+      "text": "Commission as well in terms of the arrangements around"
+    },
+    {
+      "start": 931.77,
+      "end": 935.15,
+      "text": "free range and the reasons why birds would be being housed."
+    },
+    {
+      "start": 935.55,
+      "end": 936.07,
+      "text": "As we move-"
+    },
+    {
+      "start": 936.08,
+      "end": 937.21,
+      "text": "So has that been communicated to all the"
+    },
+    {
+      "start": 938.13,
+      "end": 938.44,
+      "text": "egg farmers?"
+    },
+    {
+      "start": 938.47,
+      "end": 942.45,
+      "text": "Yep. So we've worked with both industry associations"
+    },
+    {
+      "start": 942.87,
+      "end": 946.75,
+      "text": "on that, and they have leaned in heavily on that in terms of"
+    },
+    {
+      "start": 947.71,
+      "end": 951.7,
+      "text": "the approach with that. As we move forward, and Mary can talk a"
+    },
+    {
+      "start": 951.75,
+      "end": 955.49,
+      "text": "little bit more about this, what we'll likely see with"
+    },
+    {
+      "start": 955.51,
+      "end": 959.31,
+      "text": "bird flu and what other countries like the UK have seen,"
+    },
+    {
+      "start": 960.47,
+      "end": 964.29,
+      "text": "this comes in waves. So what's happened in the UK"
+    },
+    {
+      "start": 964.37,
+      "end": 967.47,
+      "text": "with poultry and free range, so they still have free range."
+    },
+    {
+      "start": 967.72,
+      "end": 968.93,
+      "text": "They still have free range farming."
+    },
+    {
+      "start": 969.37,
+      "end": 972.83,
+      "text": "But there've been periods where the birds get housed when there's a"
+    },
+    {
+      "start": 972.89,
+      "end": 975.49,
+      "text": "prevalence of outbreak or infection,"
+    },
+    {
+      "start": 976.53,
+      "end": 979.35,
+      "text": "and this will likely boil down to regional level."
+    },
+    {
+      "start": 980.43,
+      "end": 981.85,
+      "text": "So in the UK, that's what's happened."
+    },
+    {
+      "start": 981.91,
+      "end": 985.13,
+      "text": "The birds have been housed for periods, and then when the"
+    },
+    {
+      "start": 985.21,
+      "end": 988.45,
+      "text": "prevalence in wildlife and outbreaks"
+    },
+    {
+      "start": 988.77,
+      "end": 991.75,
+      "text": "reduces and diminishes, then the birds can go outside again."
+    },
+    {
+      "start": 992.27,
+      "end": 992.85,
+      "text": "And that's"
+    },
+    {
+      "start": 994.25,
+      "end": 997.81,
+      "text": "where we will get to. But there's"
+    },
+    {
+      "start": 998.83,
+      "end": 1002.75,
+      "text": "a bit of a road ahead of us in terms of all of that and how that"
+    },
+    {
+      "start": 1002.79,
+      "end": 1003.85,
+      "text": "will play out."
+    },
+    {
+      "start": 1004.27,
+      "end": 1007.87,
+      "text": "So after six weeks, if the birds are inside for"
+    },
+    {
+      "start": 1007.91,
+      "end": 1011.21,
+      "text": "precautionary measures, obviously, can I still put them in a box and say they're"
+    },
+    {
+      "start": 1011.25,
+      "end": 1013.01,
+      "text": "free range or do I have to order new packaging?"
+    },
+    {
+      "start": 1013.06,
+      "end": 1013.18,
+      "text": "That"
+    },
+    {
+      "start": 1014.09,
+      "end": 1014.83,
+      "text": "will"
+    },
+    {
+      "start": 1015.77,
+      "end": 1019.69,
+      "text": "depend on the ongoing prevalence and"
+    },
+    {
+      "start": 1019.85,
+      "end": 1022.67,
+      "text": "the status of the infection of the disease"
+    },
+    {
+      "start": 1023.11,
+      "end": 1026.75,
+      "text": "in the region or at whatever level."
+    },
+    {
+      "start": 1027.09,
+      "end": 1029.51,
+      "text": "So yeah. So let's say at the regional level."
+    },
+    {
+      "start": 1030.17,
+      "end": 1033.83,
+      "text": "There will come a point, and this is the UK experience, there'll come a point where"
+    },
+    {
+      "start": 1033.89,
+      "end": 1037.17,
+      "text": "after a period of time, whether it's six weeks or a month or a couple of months,"
+    },
+    {
+      "start": 1038.79,
+      "end": 1042.23,
+      "text": "with the data and the surveillance and what we're seeing,"
+    },
+    {
+      "start": 1043.37,
+      "end": 1044.93,
+      "text": "there may be a degree of comfort that"
+    },
+    {
+      "start": 1045.85,
+      "end": 1049.79,
+      "text": "actually it's not prevalent or it's not as prevalent as"
+    },
+    {
+      "start": 1049.81,
+      "end": 1051.27,
+      "text": "it has been in that area,"
+    },
+    {
+      "start": 1052.13,
+      "end": 1055.59,
+      "text": "and then it may be safe for the birds to actually go outside."
+    },
+    {
+      "start": 1055.67,
+      "end": 1056.27,
+      "text": "So"
+    },
+    {
+      "start": 1057.27,
+      "end": 1059.97,
+      "text": "like I say, again, that's what"
+    },
+    {
+      "start": 1061.57,
+      "end": 1065.29,
+      "text": "we will find as we move into this. But where birds need to be"
+    },
+    {
+      "start": 1065.31,
+      "end": 1066.67,
+      "text": "housed for their protection,"
+    },
+    {
+      "start": 1067.93,
+      "end": 1071.77,
+      "text": "that is a legitimate thing to do to protect birds from being"
+    },
+    {
+      "start": 1071.79,
+      "end": 1072.31,
+      "text": "infected."
+    },
+    {
+      "start": 1072.63,
+      "end": 1075.85,
+      "text": "I'm not trying to tell you how to do your job, but just from the feedback I've"
+    },
+    {
+      "start": 1075.87,
+      "end": 1079.49,
+      "text": "received from egg producers, I think it would be really helpful to"
+    },
+    {
+      "start": 1079.57,
+      "end": 1083.45,
+      "text": "have a step-by-step process like we did for COVID or like we"
+    },
+    {
+      "start": 1083.49,
+      "end": 1084.51,
+      "text": "have with the fuel crisis."
+    },
+    {
+      "start": 1084.57,
+      "end": 1084.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 1084.81,
+      "end": 1088.75,
+      "text": "Once we get a one, two, three, four, what happens at each stage, I think"
+    },
+    {
+      "start": 1088.81,
+      "end": 1090.45,
+      "text": "that would be really helpful for the industry."
+    },
+    {
+      "start": 1090.61,
+      "end": 1092.45,
+      "text": "Yep. And that is where we'll get to that."
+    },
+    {
+      "start": 1092.65,
+      "end": 1096.33,
+      "text": "Yes. So we do have that drafted up. One of the things we don't understand for New"
+    },
+    {
+      "start": 1096.39,
+      "end": 1100.13,
+      "text": "Zealand is how this will spread in wild birds, and so we have no"
+    },
+    {
+      "start": 1100.21,
+      "end": 1104.09,
+      "text": "information right now about spread in native birds in New Zealand because there"
+    },
+    {
+      "start": 1104.13,
+      "end": 1106.93,
+      "text": "is none. But that is exactly where we need to get to."
+    },
+    {
+      "start": 1106.99,
+      "end": 1109.49,
+      "text": "So that's the purpose of our bird tag group."
+    },
+    {
+      "start": 1109.57,
+      "end": 1113.41,
+      "text": "So learning about, and the purpose of all of this background surveillance is"
+    },
+    {
+      "start": 1113.45,
+      "end": 1117.39,
+      "text": "so that we can get to a point where we can say, \"This area or this region is"
+    },
+    {
+      "start": 1117.43,
+      "end": 1121.18,
+      "text": "now green. This one is now amber. This one is now red.\" And we can"
+    },
+    {
+      "start": 1121.19,
+      "end": 1125.11,
+      "text": "communicate that both to the Commerce Commission and to colleagues in"
+    },
+    {
+      "start": 1125.13,
+      "end": 1128.81,
+      "text": "industry so that they can make decisions based on that."
+    },
+    {
+      "start": 1129.27,
+      "end": 1129.67,
+      "text": "Yeah."
+    },
+    {
+      "start": 1129.7,
+      "end": 1131.11,
+      "text": "And communicate it before so that-"
+    },
+    {
+      "start": 1131.31,
+      "end": 1131.74,
+      "text": "Yes."
+    },
+    {
+      "start": 1131.75,
+      "end": 1131.88,
+      "text": "Yes."
+    },
+    {
+      "start": 1131.91,
+      "end": 1133.18,
+      "text": "Thank you very much. That's really helpful."
+    },
+    {
+      "start": 1133.35,
+      "end": 1133.59,
+      "text": "Rachel."
+    },
+    {
+      "start": 1133.69,
+      "end": 1135.05,
+      "text": "I have a sub on this, and then I do-"
+    },
+    {
+      "start": 1135.11,
+      "end": 1135.62,
+      "text": "Yep. Yep"
+    },
+    {
+      "start": 1135.87,
+      "end": 1136.95,
+      "text": "... have one that's slightly different."
+    },
+    {
+      "start": 1137.71,
+      "end": 1137.95,
+      "text": "So,"
+    },
+    {
+      "start": 1138.89,
+      "end": 1142.85,
+      "text": "my understanding just in terms of layer hens is that MPI, this is slightly"
+    },
+    {
+      "start": 1142.87,
+      "end": 1146.53,
+      "text": "related to bird flu, but generally as well, is currently"
+    },
+    {
+      "start": 1146.59,
+      "end": 1148.33,
+      "text": "consulting on changing the,"
+    },
+    {
+      "start": 1149.35,
+      "end": 1150.31,
+      "text": "per square meter"
+    },
+    {
+      "start": 1151.33,
+      "end": 1153.87,
+      "text": "number of hens that are allowed inside."
+    },
+    {
+      "start": 1153.95,
+      "end": 1157.93,
+      "text": "So, outdoor is currently nine, oh, sorry, seven"
+    },
+    {
+      "start": 1158.79,
+      "end": 1161.91,
+      "text": "per square meter. No, nine per square meter and seven indoors."
+    },
+    {
+      "start": 1162.08,
+      "end": 1165.49,
+      "text": "Is that currently what it is? And it's been changed, so there would be nine per"
+    },
+    {
+      "start": 1165.55,
+      "end": 1168.33,
+      "text": "square meter indoors, but it's not gonna be temporary, it's actually gonna be"
+    },
+    {
+      "start": 1168.37,
+      "end": 1172.15,
+      "text": "permanent. So, can understand why something could be temporary in"
+    },
+    {
+      "start": 1172.19,
+      "end": 1175.49,
+      "text": "order to be able to house birds inside, but I'm just interested in why"
+    },
+    {
+      "start": 1176.15,
+      "end": 1178.27,
+      "text": "the consultation is looking at it being permanent."
+    },
+    {
+      "start": 1180.87,
+      "end": 1182.37,
+      "text": "My understanding is it's temporary."
+    },
+    {
+      "start": 1182.59,
+      "end": 1183.61,
+      "text": "Your understanding is it's temporary?"
+    },
+    {
+      "start": 1183.65,
+      "end": 1183.83,
+      "text": "Yes."
+    },
+    {
+      "start": 1184.09,
+      "end": 1186.17,
+      "text": "Can you check that with us and just come back?"
+    },
+    {
+      "start": 1186.21,
+      "end": 1188.89,
+      "text": "Because I think the feedback I've had from"
+    },
+    {
+      "start": 1189.87,
+      "end": 1192.81,
+      "text": "people within the animal welfare industry is their understanding is it's permanent,"
+    },
+    {
+      "start": 1192.92,
+      "end": 1193.91,
+      "text": "and that's raised some concern."
+    },
+    {
+      "start": 1194.26,
+      "end": 1194.28,
+      "text": "All right."
+    },
+    {
+      "start": 1194.31,
+      "end": 1197.07,
+      "text": "So I'd be really keen to know whether that is definitely temporary."
+    },
+    {
+      "start": 1197.51,
+      "end": 1200.35,
+      "text": "Because I don't think there's any argument about having some temporary measures in"
+    },
+    {
+      "start": 1200.43,
+      "end": 1201.35,
+      "text": "place to support."
+    },
+    {
+      "start": 1201.51,
+      "end": 1201.83,
+      "text": "Yeah."
+    },
+    {
+      "start": 1202.09,
+      "end": 1202.51,
+      "text": "Right."
+    },
+    {
+      "start": 1202.67,
+      "end": 1203.71,
+      "text": "Yeah. And I've got a-"
+    },
+    {
+      "start": 1203.95,
+      "end": 1204.59,
+      "text": "Your primary"
+    },
+    {
+      "start": 1205.05,
+      "end": 1208.39,
+      "text": "... other primary. My primary is do you have the resources you need to be able to,"
+    },
+    {
+      "start": 1208.45,
+      "end": 1211.01,
+      "text": "to manage all of this? Because obviously you've got"
+    },
+    {
+      "start": 1212.33,
+      "end": 1215.42,
+      "text": "all the communication you're having to do as well, of all the research, all of the"
+    },
+    {
+      "start": 1215.47,
+      "end": 1217.63,
+      "text": "lead agency work, and same for DOC."
+    },
+    {
+      "start": 1218.25,
+      "end": 1221.37,
+      "text": "There's a huge amount of impact on your resourcing."
+    },
+    {
+      "start": 1222.07,
+      "end": 1222.31,
+      "text": "Yeah."
+    },
+    {
+      "start": 1222.83,
+      "end": 1226.71,
+      "text": "Have government given you any extra resourcing that's both for, for MPI and for"
+    },
+    {
+      "start": 1226.73,
+      "end": 1230.65,
+      "text": "DOC, or are you being expected to cover this from within your baselines?"
+    },
+    {
+      "start": 1230.75,
+      "end": 1234.73,
+      "text": "Because it is, it's a huge project, um, and we want to"
+    },
+    {
+      "start": 1234.77,
+      "end": 1238.57,
+      "text": "acknowledge that, and, but just recognizing that it may require more resource."
+    },
+    {
+      "start": 1239.23,
+      "end": 1243.05,
+      "text": "Yeah. So we do. We do have enough resourcing, and budget to cover"
+    },
+    {
+      "start": 1243.11,
+      "end": 1243.73,
+      "text": "everything we're doing."
+    },
+    {
+      "start": 1244.83,
+      "end": 1248.59,
+      "text": "We also, so MPI is also... We're a large organization with"
+    },
+    {
+      "start": 1249.13,
+      "end": 1251.81,
+      "text": "a good footprint across the country."
+    },
+    {
+      "start": 1252.57,
+      "end": 1254.91,
+      "text": "So what we do, and like we do with all our other responses,"
+    },
+    {
+      "start": 1255.87,
+      "end": 1259.41,
+      "text": "we lean in and leverage on our presence of MPI"
+    },
+    {
+      "start": 1259.95,
+      "end": 1263.69,
+      "text": "staff out in the regions and outside of Wellington and in all our offices."
+    },
+    {
+      "start": 1264.13,
+      "end": 1267.9,
+      "text": "So, that could be fishery offices, forestry staff, our on-farm"
+    },
+    {
+      "start": 1267.97,
+      "end": 1271.57,
+      "text": "support people. So we, we are well-resourced to be able to"
+    },
+    {
+      "start": 1271.61,
+      "end": 1272.09,
+      "text": "respond."
+    },
+    {
+      "start": 1273.17,
+      "end": 1277.13,
+      "text": "And as this scales up and down, we're able to flex around"
+    },
+    {
+      "start": 1277.17,
+      "end": 1277.37,
+      "text": "it."
+    },
+    {
+      "start": 1278.67,
+      "end": 1279.49,
+      "text": "And if we,"
+    },
+    {
+      "start": 1280.35,
+      "end": 1283.03,
+      "text": "if we need to surge in more resource,"
+    },
+    {
+      "start": 1283.93,
+      "end": 1285.53,
+      "text": "and operationally, we also have"
+    },
+    {
+      "start": 1286.83,
+      "end": 1290.24,
+      "text": "external field service providers, like we've done in other responses that we-"
+    },
+    {
+      "start": 1290.25,
+      "end": 1292.1,
+      "text": "So government haven't given you any extra funding?"
+    },
+    {
+      "start": 1292.49,
+      "end": 1296.01,
+      "text": "We're funded at the moment for all what we need to do."
+    },
+    {
+      "start": 1296.03,
+      "end": 1296.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 1296.81,
+      "end": 1300.35,
+      "text": "Like with all biosecurity response activities and large programs,"
+    },
+    {
+      "start": 1301.69,
+      "end": 1305.53,
+      "text": "if there is a need for additional funding in the forward"
+    },
+    {
+      "start": 1305.57,
+      "end": 1308.89,
+      "text": "program or the activity, then that's"
+    },
+    {
+      "start": 1309.29,
+      "end": 1311.38,
+      "text": "something we work through with ministers and cabinets in terms of funding."
+    },
+    {
+      "start": 1311.39,
+      "end": 1314.99,
+      "text": "What about for DOC? Because DOC, obviously, we know historically DOC does have"
+    },
+    {
+      "start": 1315.07,
+      "end": 1315.41,
+      "text": "funding"
+    },
+    {
+      "start": 1316.61,
+      "end": 1319.43,
+      "text": "challenges. So just because obviously for DOC there's a lot of"
+    },
+    {
+      "start": 1320.21,
+      "end": 1321.57,
+      "text": "consultation and work with"
+    },
+    {
+      "start": 1323.63,
+      "end": 1327.37,
+      "text": "wildlife sanctuaries, iwi, a lot of community groups that do"
+    },
+    {
+      "start": 1327.43,
+      "end": 1327.91,
+      "text": "work with"
+    },
+    {
+      "start": 1328.77,
+      "end": 1331.55,
+      "text": "wildlife. I know in my own community we've got places like Naturland and the Brock,"
+    },
+    {
+      "start": 1331.63,
+      "end": 1332.97,
+      "text": "and that they've been working closely with DOC."
+    },
+    {
+      "start": 1333.01,
+      "end": 1334.65,
+      "text": "So recognizing that has a lot of resource."
+    },
+    {
+      "start": 1335.35,
+      "end": 1338.79,
+      "text": "So just keen to know if DOC is feeling resourced enough to be able to"
+    },
+    {
+      "start": 1338.97,
+      "end": 1339.37,
+      "text": "respond."
+    },
+    {
+      "start": 1339.97,
+      "end": 1343.47,
+      "text": "Yeah. We are. We're in a very similar situation to MPI."
+    },
+    {
+      "start": 1343.55,
+      "end": 1346.51,
+      "text": "We've been planning for several years now for this."
+    },
+    {
+      "start": 1346.55,
+      "end": 1350.33,
+      "text": "It's not a surprise. We have stood up a small"
+    },
+    {
+      "start": 1350.43,
+      "end": 1354.31,
+      "text": "team internally, using existing resources, so similar to"
+    },
+    {
+      "start": 1354.41,
+      "end": 1357.99,
+      "text": "MPI. We're just shifting resource where we need it, and we've got a"
+    },
+    {
+      "start": 1358.09,
+      "end": 1361.27,
+      "text": "big workforce in the regions to be able to draw on."
+    },
+    {
+      "start": 1362.41,
+      "end": 1364.27,
+      "text": "So at the moment, we have everything we need."
+    },
+    {
+      "start": 1365.07,
+      "end": 1368.79,
+      "text": "I think we'll keep an eye on that. For the foreseeable future, that's"
+    },
+    {
+      "start": 1368.87,
+      "end": 1372.61,
+      "text": "absolutely fine. And as Stu said, if there comes a point where it's"
+    },
+    {
+      "start": 1372.65,
+      "end": 1376.53,
+      "text": "bigger than we anticipated, then we'll take a look at what we need and ask for"
+    },
+    {
+      "start": 1376.59,
+      "end": 1377.15,
+      "text": "more resource."
+    },
+    {
+      "start": 1377.67,
+      "end": 1377.95,
+      "text": "Cool."
+    },
+    {
+      "start": 1378.13,
+      "end": 1378.57,
+      "text": "Steve."
+    },
+    {
+      "start": 1379.91,
+      "end": 1380.86,
+      "text": "Sort of on that question,"
+    },
+    {
+      "start": 1382.21,
+      "end": 1386.09,
+      "text": "the likes of BirdCare Aotearoa in West Auckland, who do"
+    },
+    {
+      "start": 1386.13,
+      "end": 1388.49,
+      "text": "extraordinary work, formerly Bird Rescue."
+    },
+    {
+      "start": 1389.67,
+      "end": 1392.33,
+      "text": "Primarily, well, they focus entirely now on native species."
+    },
+    {
+      "start": 1392.41,
+      "end": 1394.83,
+      "text": "They're constantly dealing with the extraordinary"
+    },
+    {
+      "start": 1396.91,
+      "end": 1400.68,
+      "text": "cohort of endemic seabirds that we have in terms of"
+    },
+    {
+      "start": 1400.85,
+      "end": 1404.05,
+      "text": "the COVID. We've got the highest population of endemic seabirds of any city in the"
+    },
+    {
+      "start": 1404.11,
+      "end": 1408.1,
+      "text": "world. Many of them are rare. Obviously, as you've articulated"
+    },
+    {
+      "start": 1408.15,
+      "end": 1410.19,
+      "text": "to us, what we know from the pattern of this"
+    },
+    {
+      "start": 1411.37,
+      "end": 1414.85,
+      "text": "flu is that it hits wild and native bird populations first."
+    },
+    {
+      "start": 1415.63,
+      "end": 1415.64,
+      "text": "Sure."
+    },
+    {
+      "start": 1416.41,
+      "end": 1420.39,
+      "text": "Are you actively resourcing the likes of BirdCare"
+    },
+    {
+      "start": 1420.43,
+      "end": 1423.97,
+      "text": "Aotearoa? I know they've made a request to the minister that they need, they want"
+    },
+    {
+      "start": 1424.01,
+      "end": 1427.56,
+      "text": "extra staffing, and they want to set themselves up so that when we do get cases,"
+    },
+    {
+      "start": 1427.59,
+      "end": 1430.35,
+      "text": "which is probably an inevitability, that those"
+    },
+    {
+      "start": 1430.42,
+      "end": 1434.38,
+      "text": "existing institutions that have been working for decades"
+    },
+    {
+      "start": 1434.39,
+      "end": 1436.84,
+      "text": "in the community to do bird recovery"
+    },
+    {
+      "start": 1437.75,
+      "end": 1440.07,
+      "text": "are fully equipped to deal with it."
+    },
+    {
+      "start": 1441.35,
+      "end": 1444.91,
+      "text": "Is there funding for those, the likes of those organizations, those"
+    },
+    {
+      "start": 1445.07,
+      "end": 1446.83,
+      "text": "NGOs around the country?"
+    },
+    {
+      "start": 1448.85,
+      "end": 1452.71,
+      "text": "So I think the advice at the moment, is"
+    },
+    {
+      "start": 1452.79,
+      "end": 1455.29,
+      "text": "that we want people to be working through MPI."
+    },
+    {
+      "start": 1455.83,
+      "end": 1459.18,
+      "text": "So if there are sick and dead birds, we don't"
+    },
+    {
+      "start": 1459.21,
+      "end": 1462.71,
+      "text": "want people picking them up. We want them to be"
+    },
+    {
+      "start": 1462.99,
+      "end": 1466.93,
+      "text": "calling the hotline and letting the MPI surveillance team to manage that."
+    },
+    {
+      "start": 1467.19,
+      "end": 1468.91,
+      "text": "Sure. I mean, these are not people."
+    },
+    {
+      "start": 1468.97,
+      "end": 1470.19,
+      "text": "These are like expert-"
+    },
+    {
+      "start": 1470.22,
+      "end": 1472.05,
+      "text": "... bird rescue organizations who are,"
+    },
+    {
+      "start": 1473.03,
+      "end": 1474.99,
+      "text": "they're doing this day in and day out."
+    },
+    {
+      "start": 1475.43,
+      "end": 1478.57,
+      "text": "And their exact point is that we don't want the public"
+    },
+    {
+      "start": 1479.25,
+      "end": 1482.07,
+      "text": "applying bizarre methodologies to try and deal with birds."
+    },
+    {
+      "start": 1482.15,
+      "end": 1484.67,
+      "text": "We want them going to existing institutions."
+    },
+    {
+      "start": 1484.73,
+      "end": 1488.02,
+      "text": "But if we get a big increase in the number of infected wild birds,"
+    },
+    {
+      "start": 1488.51,
+      "end": 1492.05,
+      "text": "surely we want to be utilizing those existing organizations in the community"
+    },
+    {
+      "start": 1492.95,
+      "end": 1496.93,
+      "text": "Yeah. So as Mary said, what we have had in place"
+    },
+    {
+      "start": 1497.41,
+      "end": 1501.15,
+      "text": "with a network of these wildlife hospital facilities around the"
+    },
+    {
+      "start": 1501.21,
+      "end": 1505.04,
+      "text": "country is that we've had a surveillance program with them for the"
+    },
+    {
+      "start": 1505.07,
+      "end": 1507.69,
+      "text": "last period, which has been incredibly valuable."
+    },
+    {
+      "start": 1508.33,
+      "end": 1512.15,
+      "text": "It's background surveillance for any sort of illness or disease, and we"
+    },
+    {
+      "start": 1512.21,
+      "end": 1515.17,
+      "text": "pay for and fund for that activity."
+    },
+    {
+      "start": 1515.75,
+      "end": 1517.35,
+      "text": "As we go forward with this,"
+    },
+    {
+      "start": 1518.67,
+      "end": 1522.65,
+      "text": "that network still will continue to be incredibly"
+    },
+    {
+      "start": 1522.69,
+      "end": 1526.45,
+      "text": "valuable. And I think the questions you're asking as we move"
+    },
+    {
+      "start": 1526.51,
+      "end": 1527.49,
+      "text": "forward into this,"
+    },
+    {
+      "start": 1528.73,
+      "end": 1532.01,
+      "text": "those are all the things we need to work through and consider in terms of how we"
+    },
+    {
+      "start": 1532.05,
+      "end": 1535.71,
+      "text": "maintain a good network of those facilities"
+    },
+    {
+      "start": 1536.17,
+      "end": 1540.09,
+      "text": "across the country that continue to provide that value as"
+    },
+    {
+      "start": 1540.17,
+      "end": 1543.81,
+      "text": "we monitor and track and see how this"
+    },
+    {
+      "start": 1544.01,
+      "end": 1544.36,
+      "text": "virus spreads."
+    },
+    {
+      "start": 1544.38,
+      "end": 1547.23,
+      "text": "So there could be public money to support them to ramp up their operations."
+    },
+    {
+      "start": 1547.25,
+      "end": 1550.79,
+      "text": "We're willing to work through in terms of what we currently do with"
+    },
+    {
+      "start": 1550.83,
+      "end": 1554.71,
+      "text": "them, what we need in terms of a national network and distribution, and then"
+    },
+    {
+      "start": 1554.75,
+      "end": 1558.11,
+      "text": "the capability. And I think that's what we need to work through and figure"
+    },
+    {
+      "start": 1558.21,
+      "end": 1559.43,
+      "text": "out."
+    },
+    {
+      "start": 1559.77,
+      "end": 1561.67,
+      "text": "You might have some more time. I've got another question on the-"
+    },
+    {
+      "start": 1561.95,
+      "end": 1562.79,
+      "text": "Yeah, I've got a couple."
+    },
+    {
+      "start": 1563.07,
+      "end": 1566.91,
+      "text": "So, when we get to the problem of infections in"
+    },
+    {
+      "start": 1567.09,
+      "end": 1570.05,
+      "text": "poultry populations, layer hens or broiler hens,"
+    },
+    {
+      "start": 1571.43,
+      "end": 1574.81,
+      "text": "there's questions about when you have to do a whole"
+    },
+    {
+      "start": 1575.19,
+      "end": 1575.59,
+      "text": "flock"
+    },
+    {
+      "start": 1577.37,
+      "end": 1579.77,
+      "text": "eradication. Is that something you're envisaging?"
+    },
+    {
+      "start": 1579.91,
+      "end": 1581.52,
+      "text": "You talked about managing it, but"
+    },
+    {
+      "start": 1582.33,
+      "end": 1586.29,
+      "text": "if those things are occurring, one specific question is to do with"
+    },
+    {
+      "start": 1586.33,
+      "end": 1589.05,
+      "text": "the use of nitrogen or"
+    },
+    {
+      "start": 1590.59,
+      "end": 1591.07,
+      "text": "gas."
+    },
+    {
+      "start": 1591.25,
+      "end": 1591.43,
+      "text": "Yep."
+    },
+    {
+      "start": 1592.07,
+      "end": 1595.49,
+      "text": "And apparently, we have a requirement that there'd be 2%"
+    },
+    {
+      "start": 1595.55,
+      "end": 1596.19,
+      "text": "oxygen,"
+    },
+    {
+      "start": 1598.03,
+      "end": 1602.01,
+      "text": "but that's not consistent with the DEFRA requirements overseas, and"
+    },
+    {
+      "start": 1602.03,
+      "end": 1605.81,
+      "text": "in fact means that we use more nitrogen than is necessary,"
+    },
+    {
+      "start": 1605.99,
+      "end": 1608.83,
+      "text": "which reduces our efficiency."
+    },
+    {
+      "start": 1610.15,
+      "end": 1613.87,
+      "text": "And there's a request specifically from SPCA that we"
+    },
+    {
+      "start": 1613.93,
+      "end": 1616.19,
+      "text": "allow a 5% oxygen level,"
+    },
+    {
+      "start": 1617.09,
+      "end": 1620.61,
+      "text": "which allows less use of the nitrogen, which gives us more"
+    },
+    {
+      "start": 1620.65,
+      "end": 1622.01,
+      "text": "resource and"
+    },
+    {
+      "start": 1623.49,
+      "end": 1624.07,
+      "text": "allows a"
+    },
+    {
+      "start": 1625.13,
+      "end": 1629.1,
+      "text": "more efficient dealing with that obvious situation we don't"
+    },
+    {
+      "start": 1629.11,
+      "end": 1630.83,
+      "text": "want to be in, but if we're in it."
+    },
+    {
+      "start": 1632.35,
+      "end": 1636.01,
+      "text": "And I wonder if there's an opportunity to consider changing the"
+    },
+    {
+      "start": 1636.27,
+      "end": 1638.93,
+      "text": "parameter of the 2% to 5% oxygen."
+    },
+    {
+      "start": 1639.95,
+      "end": 1643.81,
+      "text": "Yep. Yeah. So I'll get Mary to talk to the nitrogen specifically,"
+    },
+    {
+      "start": 1643.91,
+      "end": 1647.83,
+      "text": "but yes. So on that request, yes, well, of"
+    },
+    {
+      "start": 1647.91,
+      "end": 1650.49,
+      "text": "course, we can look at that and work that through."
+    },
+    {
+      "start": 1651.73,
+      "end": 1654.31,
+      "text": "The first part of your question in terms of the culling,"
+    },
+    {
+      "start": 1655.13,
+      "end": 1656.61,
+      "text": "so when we talk about managing it,"
+    },
+    {
+      "start": 1657.59,
+      "end": 1661.25,
+      "text": "what we ultimately want to do is protect as far as possible poultry"
+    },
+    {
+      "start": 1661.37,
+      "end": 1662.93,
+      "text": "operations from becoming infected."
+    },
+    {
+      "start": 1663.02,
+      "end": 1663.25,
+      "text": "Of course. Yep."
+    },
+    {
+      "start": 1663.29,
+      "end": 1666.97,
+      "text": "So that's the start. But yes, if a poultry farm"
+    },
+    {
+      "start": 1667.17,
+      "end": 1670.87,
+      "text": "or a broiler meat facility does"
+    },
+    {
+      "start": 1670.91,
+      "end": 1672.05,
+      "text": "become infected,"
+    },
+    {
+      "start": 1672.99,
+      "end": 1675.11,
+      "text": "the birds do need to be culled."
+    },
+    {
+      "start": 1675.25,
+      "end": 1675.35,
+      "text": "Yep."
+    },
+    {
+      "start": 1675.95,
+      "end": 1679.07,
+      "text": "Most of them will die from the virus."
+    },
+    {
+      "start": 1679.15,
+      "end": 1682.81,
+      "text": "It's a very high mortality rate. So you're talking 90"
+    },
+    {
+      "start": 1683.17,
+      "end": 1686.99,
+      "text": "to 95 plus percent would die from the virus in any case."
+    },
+    {
+      "start": 1687.51,
+      "end": 1688.11,
+      "text": "Yep."
+    },
+    {
+      "start": 1688.27,
+      "end": 1691.77,
+      "text": "So it does need to be, the birds do need to be culled,"
+    },
+    {
+      "start": 1692.43,
+      "end": 1695.96,
+      "text": "and it needs to be fully cleaned out and disinfected so that birds going back in"
+    },
+    {
+      "start": 1696.41,
+      "end": 1697.35,
+      "text": "don't get infected."
+    },
+    {
+      "start": 1698.09,
+      "end": 1698.1,
+      "text": "Yep."
+    },
+    {
+      "start": 1698.11,
+      "end": 1700.89,
+      "text": "But yeah. Mary, did you want to comment more on nitrogen?"
+    },
+    {
+      "start": 1701.27,
+      "end": 1701.38,
+      "text": "On"
+    },
+    {
+      "start": 1702.45,
+      "end": 1704.37,
+      "text": "nitrogen, this is not a"
+    },
+    {
+      "start": 1706.17,
+      "end": 1708.39,
+      "text": "documented specification in the code."
+    },
+    {
+      "start": 1708.61,
+      "end": 1711.46,
+      "text": "That it has to be, no. That it has to be a particular percentage."
+    },
+    {
+      "start": 1711.47,
+      "end": 1711.65,
+      "text": "Okay."
+    },
+    {
+      "start": 1711.69,
+      "end": 1715.21,
+      "text": "So we will raise it. We'll discuss it with industry and"
+    },
+    {
+      "start": 1715.25,
+      "end": 1718.83,
+      "text": "understand where this specification comes from, but whatever is"
+    },
+    {
+      "start": 1718.87,
+      "end": 1722.67,
+      "text": "the best thing for the animals and for efficiency is of course what we should be"
+    },
+    {
+      "start": 1722.71,
+      "end": 1722.91,
+      "text": "doing."
+    },
+    {
+      "start": 1722.97,
+      "end": 1724.43,
+      "text": "This is not encoded."
+    },
+    {
+      "start": 1724.5,
+      "end": 1727.79,
+      "text": "And there's a preference for whole house gassing rather than containerized gassing,"
+    },
+    {
+      "start": 1727.83,
+      "end": 1729.59,
+      "text": "apparently from a welfare point of view, and that's what-"
+    },
+    {
+      "start": 1729.61,
+      "end": 1729.62,
+      "text": "Yes"
+    },
+    {
+      "start": 1729.62,
+      "end": 1731.75,
+      "text": "... they've moved to in other jurisdictions. Is that correct?"
+    },
+    {
+      "start": 1732.31,
+      "end": 1735.09,
+      "text": "This is to do with the amount of handling for the animals, right?"
+    },
+    {
+      "start": 1735.17,
+      "end": 1738.65,
+      "text": "So if there are very few, then a container is"
+    },
+    {
+      "start": 1738.75,
+      "end": 1742.65,
+      "text": "appropriate. But if there are many, many, many, then of course disturbing"
+    },
+    {
+      "start": 1742.67,
+      "end": 1744.57,
+      "text": "them the least we can is preferable."
+    },
+    {
+      "start": 1744.63,
+      "end": 1745.37,
+      "text": "Yeah. Okay. So,"
+    },
+    {
+      "start": 1746.41,
+      "end": 1747.35,
+      "text": "we've got a couple of questions."
+    },
+    {
+      "start": 1748.79,
+      "end": 1749.39,
+      "text": "All"
+    },
+    {
+      "start": 1750.83,
+      "end": 1754.37,
+      "text": "wild animals that are detected with the"
+    },
+    {
+      "start": 1754.97,
+      "end": 1755.49,
+      "text": "virus,"
+    },
+    {
+      "start": 1756.37,
+      "end": 1758.69,
+      "text": "they'll have to be euthanized as well, won't they?"
+    },
+    {
+      "start": 1759.29,
+      "end": 1759.45,
+      "text": "No."
+    },
+    {
+      "start": 1759.93,
+      "end": 1760.07,
+      "text": "No?"
+    },
+    {
+      "start": 1760.57,
+      "end": 1761.53,
+      "text": "No. So"
+    },
+    {
+      "start": 1764.97,
+      "end": 1765.77,
+      "text": "wild birds"
+    },
+    {
+      "start": 1766.61,
+      "end": 1769.69,
+      "text": "across the world have avian influenza viruses."
+    },
+    {
+      "start": 1771.47,
+      "end": 1774.99,
+      "text": "Wild birds across much of the world are now known to have"
+    },
+    {
+      "start": 1775.11,
+      "end": 1778.43,
+      "text": "2.3.4.4b. Some of those wild birds"
+    },
+    {
+      "start": 1779.33,
+      "end": 1782.55,
+      "text": "have been severely impacted in terms of their populations and"
+    },
+    {
+      "start": 1782.71,
+      "end": 1786.26,
+      "text": "their populations have managed to bounce back over a couple of seasons."
+    },
+    {
+      "start": 1786.29,
+      "end": 1787.51,
+      "text": "So they've developed a resistance."
+    },
+    {
+      "start": 1787.87,
+      "end": 1789.94,
+      "text": "Yep. Yes. So they can form immunity."
+    },
+    {
+      "start": 1790.01,
+      "end": 1790.29,
+      "text": "Okay."
+    },
+    {
+      "start": 1790.65,
+      "end": 1794.25,
+      "text": "So there is no evidence that"
+    },
+    {
+      "start": 1794.33,
+      "end": 1796.31,
+      "text": "euthanizing wildlife helps this problem."
+    },
+    {
+      "start": 1796.53,
+      "end": 1796.83,
+      "text": "Right."
+    },
+    {
+      "start": 1796.89,
+      "end": 1798.79,
+      "text": "This is not one of the strategies."
+    },
+    {
+      "start": 1798.85,
+      "end": 1802.03,
+      "text": "And my second question is around vaccine availability"
+    },
+    {
+      "start": 1802.15,
+      "end": 1803.01,
+      "text": "and"
+    },
+    {
+      "start": 1804.05,
+      "end": 1807.75,
+      "text": "the planned rollout of vaccinations, because currently"
+    },
+    {
+      "start": 1808.49,
+      "end": 1810.75,
+      "text": "it's my understanding that it's DOC staff that are,"
+    },
+    {
+      "start": 1812.05,
+      "end": 1815.81,
+      "text": "with the five or six named species that they're"
+    },
+    {
+      "start": 1815.85,
+      "end": 1817.69,
+      "text": "working on. Are they working with"
+    },
+    {
+      "start": 1819.47,
+      "end": 1822.77,
+      "text": "the vets that work in the likes of sanctuaries, et cetera,"
+    },
+    {
+      "start": 1823.81,
+      "end": 1827.39,
+      "text": "so that those vets will be able to administer the"
+    },
+    {
+      "start": 1827.45,
+      "end": 1830.39,
+      "text": "vaccine if needed without having"
+    },
+    {
+      "start": 1831.43,
+      "end": 1832.11,
+      "text": "DOC staff-"
+    },
+    {
+      "start": 1832.25,
+      "end": 1832.39,
+      "text": "Mm"
+    },
+    {
+      "start": 1832.61,
+      "end": 1835.41,
+      "text": "... having to travel to or whatever?"
+    },
+    {
+      "start": 1836.09,
+      "end": 1838.27,
+      "text": "Yes. So we have been training up"
+    },
+    {
+      "start": 1839.57,
+      "end": 1840.79,
+      "text": "vets in a few places."
+    },
+    {
+      "start": 1842.63,
+      "end": 1846.39,
+      "text": "One of them is Pukaha Mount Bruce. We now have"
+    },
+    {
+      "start": 1846.43,
+      "end": 1850.35,
+      "text": "people trained there and then also at a couple of the zoos"
+    },
+    {
+      "start": 1850.41,
+      "end": 1854.24,
+      "text": "as well. So we're able to accelerate in that"
+    },
+    {
+      "start": 1854.27,
+      "end": 1856.73,
+      "text": "way the number of vaccinations that we can undertake."
+    },
+    {
+      "start": 1860.78,
+      "end": 1864.02,
+      "text": "Oh, sorry. It's kind of following on from Steve's question, but"
+    },
+    {
+      "start": 1865.2,
+      "end": 1867.34,
+      "text": "back to the poultry farmers or the egg farmers."
+    },
+    {
+      "start": 1867.66,
+      "end": 1871.38,
+      "text": "As part of your considerations to support the industry, I just wondered, have you"
+    },
+    {
+      "start": 1871.44,
+      "end": 1875.22,
+      "text": "considered compensation in, say, in the case of a mass culling's required"
+    },
+    {
+      "start": 1875.54,
+      "end": 1879.45,
+      "text": "like we did for Mycoplasma bovis? Or is there any consideration"
+    },
+    {
+      "start": 1879.48,
+      "end": 1883.39,
+      "text": "of that? And also, have you also looked at the economic implications of"
+    },
+    {
+      "start": 1883.46,
+      "end": 1887.25,
+      "text": "this for the New Zealand economy in monetary terms, I"
+    },
+    {
+      "start": 1887.34,
+      "end": 1891.26,
+      "text": "guess, how this could progress and what effect it could"
+    },
+    {
+      "start": 1891.3,
+      "end": 1891.5,
+      "text": "have?"
+    },
+    {
+      "start": 1892.21,
+      "end": 1893.8,
+      "text": "So the approach here,"
+    },
+    {
+      "start": 1894.32,
+      "end": 1898.22,
+      "text": "as we've talked through, the approach"
+    },
+    {
+      "start": 1898.23,
+      "end": 1899.64,
+      "text": "here is that the industry"
+    },
+    {
+      "start": 1900.94,
+      "end": 1904.18,
+      "text": "is going to need to live and manage with this because it'll be a thing."
+    },
+    {
+      "start": 1905.0,
+      "end": 1908.48,
+      "text": "It'll become an endemic disease, meaning it can't be"
+    },
+    {
+      "start": 1908.54,
+      "end": 1912.42,
+      "text": "eradicated. So we will not be looking to"
+    },
+    {
+      "start": 1912.48,
+      "end": 1915.96,
+      "text": "run what we would normally do with a biosecurity response, where something can be"
+    },
+    {
+      "start": 1916.0,
+      "end": 1919.9,
+      "text": "contained, eradicated, and eliminated, and you get rid of it, and it's not in"
+    },
+    {
+      "start": 1919.92,
+      "end": 1923.24,
+      "text": "New Zealand. This is not that situation."
+    },
+    {
+      "start": 1923.72,
+      "end": 1927.64,
+      "text": "So what that means is that we won't"
+    },
+    {
+      "start": 1927.68,
+      "end": 1931.52,
+      "text": "be seeking to exercise powers under the Biosecurity Act to"
+    },
+    {
+      "start": 1931.6,
+      "end": 1933.92,
+      "text": "undertake culling and so on,"
+    },
+    {
+      "start": 1934.74,
+      "end": 1938.38,
+      "text": "which means that compensation is not payable."
+    },
+    {
+      "start": 1938.4,
+      "end": 1941.38,
+      "text": "The other thing here also is that compensation is"
+    },
+    {
+      "start": 1942.46,
+      "end": 1946.36,
+      "text": "payable when we run a response and we exercise those powers"
+    },
+    {
+      "start": 1946.48,
+      "end": 1950.26,
+      "text": "to get rid of something, and compensation is also"
+    },
+    {
+      "start": 1950.34,
+      "end": 1951.96,
+      "text": "only payable for"
+    },
+    {
+      "start": 1952.84,
+      "end": 1956.46,
+      "text": "us directing or undertaking activity under"
+    },
+    {
+      "start": 1956.52,
+      "end": 1960.1,
+      "text": "powers. Compensation isn't payable for the impacts or the"
+    },
+    {
+      "start": 1960.14,
+      "end": 1963.83,
+      "text": "effects of a disease or a virus. So in this case, where you have"
+    },
+    {
+      "start": 1964.58,
+      "end": 1967.43,
+      "text": "90-plus, 95-plus percent mortality,"
+    },
+    {
+      "start": 1968.8,
+      "end": 1972.66,
+      "text": "that would not be compensable in any event because those birds"
+    },
+    {
+      "start": 1972.72,
+      "end": 1976.3,
+      "text": "will die from the virus. So the approach here"
+    },
+    {
+      "start": 1976.36,
+      "end": 1980.14,
+      "text": "is that the industry needs to,"
+    },
+    {
+      "start": 1980.3,
+      "end": 1983.21,
+      "text": "obviously, like I say, protecting from being infected is the first thing."
+    },
+    {
+      "start": 1983.56,
+      "end": 1986.88,
+      "text": "But going forward with this virus in New Zealand,"
+    },
+    {
+      "start": 1987.92,
+      "end": 1991.86,
+      "text": "that the poultry industry lives with and manages with this"
+    },
+    {
+      "start": 1991.9,
+      "end": 1993.74,
+      "text": "being prevalent in wild populations."
+    },
+    {
+      "start": 1994.16,
+      "end": 1997.92,
+      "text": "We're obviously doing all the work we're doing with the industry to build that"
+    },
+    {
+      "start": 1997.94,
+      "end": 2001.58,
+      "text": "resilience and that capability and the preparedness, et cetera, and we'll continue"
+    },
+    {
+      "start": 2001.62,
+      "end": 2005.56,
+      "text": "to do that. And this is the approach under the government industry"
+    },
+    {
+      "start": 2005.64,
+      "end": 2009.53,
+      "text": "agreement framework that we have agreed with the poultry industry, that"
+    },
+    {
+      "start": 2009.56,
+      "end": 2009.92,
+      "text": "this is"
+    },
+    {
+      "start": 2011.62,
+      "end": 2015.34,
+      "text": "how collectively we're going to have to manage with this going"
+    },
+    {
+      "start": 2015.46,
+      "end": 2018.38,
+      "text": "forward. So those are the reasons why"
+    },
+    {
+      "start": 2018.88,
+      "end": 2022.72,
+      "text": "compensation under the Biosecurity Act is not something"
+    },
+    {
+      "start": 2023.26,
+      "end": 2023.56,
+      "text": "that"
+    },
+    {
+      "start": 2024.48,
+      "end": 2027.0,
+      "text": "is really going to be a provision."
+    },
+    {
+      "start": 2027.28,
+      "end": 2027.4,
+      "text": "Okay."
+    },
+    {
+      "start": 2027.62,
+      "end": 2031.04,
+      "text": "Unless we find circumstances or"
+    },
+    {
+      "start": 2031.1,
+      "end": 2034.89,
+      "text": "situations where we do need to exercise a power, but that's not what we're"
+    },
+    {
+      "start": 2035.04,
+      "end": 2038.58,
+      "text": "anticipating is going to be the way this gets managed going"
+    },
+    {
+      "start": 2038.64,
+      "end": 2039.3,
+      "text": "forward."
+    },
+    {
+      "start": 2039.32,
+      "end": 2042.86,
+      "text": "Okay, thanks. I'd just reiterate that it sounds like you're talking with the"
+    },
+    {
+      "start": 2042.9,
+      "end": 2046.68,
+      "text": "industry, but I would implore you to make sure that that's trickling down to the"
+    },
+    {
+      "start": 2046.72,
+      "end": 2049.66,
+      "text": "actual individual farmers, because anecdotally, that's what I've heard on the"
+    },
+    {
+      "start": 2049.7,
+      "end": 2053.34,
+      "text": "ground, that they're not aware. And as I said, the step-by-step program will be"
+    },
+    {
+      "start": 2053.72,
+      "end": 2054.28,
+      "text": "fantastic."
+    },
+    {
+      "start": 2054.54,
+      "end": 2055.18,
+      "text": "We'll follow Chris."
+    },
+    {
+      "start": 2055.24,
+      "end": 2055.88,
+      "text": "Yeah. Thank you."
+    },
+    {
+      "start": 2056.3,
+      "end": 2056.93,
+      "text": "Rachel's got the follow-up."
+    },
+    {
+      "start": 2056.94,
+      "end": 2059.34,
+      "text": "Yeah. No, I just want to clarify. I had clarification."
+    },
+    {
+      "start": 2059.4,
+      "end": 2063.14,
+      "text": "There's a newsroom story that the changes to the number of"
+    },
+    {
+      "start": 2063.18,
+      "end": 2063.9,
+      "text": "hens is"
+    },
+    {
+      "start": 2064.84,
+      "end": 2068.24,
+      "text": "planned to be permanent, and that is being consulted on by NAWAC."
+    },
+    {
+      "start": 2068.32,
+      "end": 2070.14,
+      "text": "So I would appreciate MPI coming back with-"
+    },
+    {
+      "start": 2070.2,
+      "end": 2070.84,
+      "text": "We'll clarify that"
+    },
+    {
+      "start": 2070.88,
+      "end": 2074.4,
+      "text": "... information on why looking at it being permanent as opposed to temporary."
+    },
+    {
+      "start": 2075.52,
+      "end": 2078.04,
+      "text": "Well, thank you very much for coming in today."
+    },
+    {
+      "start": 2078.06,
+      "end": 2079.58,
+      "text": "Thank you. That was really helpful."
+    },
+    {
+      "start": 2080.22,
+      "end": 2081.28,
+      "text": "And good luck."
+    },
+    {
+      "start": 2082.36,
+      "end": 2082.86,
+      "text": "Thank you."
+    },
+    {
+      "start": 2083.3,
+      "end": 2083.6,
+      "text": "Good luck."
+    },
+    {
+      "start": 2083.64,
+      "end": 2084.16,
+      "text": "Thank you. Thanks."
+    },
+    {
+      "start": 2085.2,
+      "end": 2086.24,
+      "text": "And yeah."
+    },
+    {
+      "start": 2087.98,
+      "end": 2090.0,
+      "text": "We'll probably get you in again at some stage."
+    },
+    {
+      "start": 2090.04,
+      "end": 2090.36,
+      "text": "Sure."
+    },
+    {
+      "start": 2090.62,
+      "end": 2091.38,
+      "text": "Keep us up to date."
+    },
+    {
+      "start": 2092.22,
+      "end": 2092.86,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 2092.92,
+      "end": 2094.44,
+      "text": "No, thank you."
+    },
+    {
+      "start": 2097.12,
+      "end": 2097.72,
+      "text": "So they say."
+    }
+  ],
+  "source": "vimeo_vtt",
+  "source_vtt_path": "C:\\Users\\VibeForge\\Documents\\Transcripts\\selectcommittee-transcripts\\2026-07-29 PP (Part 2) - vimeo_1214082980\\2026-07-29 PP (Part 2) - vimeo_1214082980.en.vtt",
+  "source_metadata": {
+    "provider": "vimeo",
+    "id": "1214082980",
+    "display_id": "1214082980",
+    "title": "Primary Production Committee",
+    "webpage_url": "https://player.vimeo.com/video/1214082980",
+    "original_url": "https://player.vimeo.com/video/1214082980",
+    "upload_date": "20260731",
+    "metadata_date_source": "new_zealand_scan_date",
+    "published_date_uncertain": true,
+    "published_date_source": "new_zealand_scan_date",
+    "duration": 2101,
+    "uploader": "New Zealand Parliament",
+    "uploader_id": "nzparliament",
+    "uploader_url": "https://vimeo.com/nzparliament",
+    "thumbnail": "https://i.vimeocdn.com/video/2184919537-d713aaa07d557786218603e176c3cc954c1f4aefd691ecdda5ade444792c0e9d-d",
+    "width": 1280,
+    "height": 720,
+    "fps": 30.0,
+    "extractor": "vimeo",
+    "extractor_key": "Vimeo",
+    "caption_language": "en-x-autogen",
+    "caption_kind": "auto",
+    "caption_download_method": "direct"
+  }
+}

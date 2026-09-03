@@ -1,0 +1,404 @@
+Title: 2026-08-04 FEC
+URL: https://vimeo.com/1215613898
+Published: 2026-08-04
+Duration: 01:33:28
+
+[00:00:00] Basically, to employ what the data will buy the data they need and the compute they need, they have to buy it from Amazon and the US.
+[00:00:11] The only way they can pay that is through digital tokens when they manage it.
+[00:00:15] And the system for them right now is extremely clunky.
+[00:00:20] We just can't cope with digital tokens in any way whatsoever.
+[00:00:25] So, is there a way forward here? Have you seen some other opportunities and other jurisdictions and how we can manage that kind of?
+[00:00:32] Yeah, and that's certainly what the payments modernisation programme is to address.
+[00:00:36] So, if we look at what a new system should look like and how it should behave, that needs to focus on the transfer of information.
+[00:00:43] So, be currency agnostic.
+[00:00:45] So, I can move between digital, fiat, stablecoin, whatever in terms of what that currency trade would be and that could include all commodities as well.
+[00:00:54] So, there needs to be some really fresh thinking and really broad thinking in terms of, as we make the decisions of what that next iteration of the infrastructure innovation is, needs to be very broad and future-proofed.
+[00:01:07] And how are you thinking that that kind of blockchain payment rail system can sit beside the one that we've already got?
+[00:01:13] Yeah, we often think of payments as a technology issue. I think it's more of an economic one.
+[00:01:18] Technology will just be an outcome of what is the right delivery and what are the right outcomes we want to deliver for Te Arawa and the users of that.
+[00:01:27] Good to hear.
+[00:01:28] Yep.
+[00:01:29] Thank you, members. Sorry, Panrao, just step aside for a minute.
+[00:01:32] We have met time.
+[00:01:33] Oh, can I touch Steve?
+[00:01:35] Glad you're enjoying yourself.
+[00:01:38] I appreciate you coming in today and sharing these updates.
+[00:01:41] Thank you.
+[00:01:42] Really appreciate it.
+[00:01:43] Thank you.
+[00:01:47] We've got Trevor joining online.
+[00:01:49] Yeah, brilliant.
+[00:01:50] Good morning, Trevor. How are you?
+[00:01:58] Good morning, Ron.
+[00:02:00] reteitama hemen ro Serana Setini haklahat i noi wartennau un-verdinaniltio ja perlaau sy'ni.
+[00:02:04] Te ja coincidence nhw'n mitama?
+[00:02:15] We've got it for 15 minutes if you wanted to open with a Q magical后 upon
+[00:02:18] preamble and then we'll get it into some questions if that's all right.
+[00:02:22] astico kn marriage emperor
+[00:02:23] aprecia gified h Duncan iaa renovara
+[00:02:26] rencontru mezi
+[00:02:28] so many
+[00:02:29] Yn creu we rai rai kwadlau maeo anumiea, caer maenai maenai atarai.
+[00:02:36] Aizio ytitu di yn cefnidau i annostu eitha pwnei menau.
+[00:02:42] Rai maenai aizio aizio aizio i ndaigai rai maenai,
+[00:02:46] tari aizio eitamiai capati.
+[00:02:48] Rai maenai iaizio eitamiai capati,
+[00:02:51] nonamie aizio ndaigai rai maenai i annostu eitamiai.
+[00:02:56] Uptake.
+[00:02:57] I'm here in Australia at the moment talking to Strip, who recently moved their entire
+[00:03:02] payments infrastructure onto Stablecoin and Blockchain Rails.
+[00:03:06] So, it's an enormous opportunity for New Zealand to participate in this growing sector.
+[00:03:13] And we've got also a number of internationals that are looking at participating in New Zealand
+[00:03:19] and also a number of internationals that are looking at participating in New Zealand and bringing their enormous businesses into New Zealand
+[00:03:27] and helping us grow and move into the digital asset sector.
+[00:03:31] And I think it's an important opportunity for us to prepare ourselves and understand what does that mean for New Zealand
+[00:03:36] and how do we maximise the opportunity that this brings
+[00:03:39] and how do we overcome some of the legacy barriers that are preventing that industry from growing and scaling in New Zealand
+[00:03:48] at the rate at which it is internationally and how do we maximise that economic opportunity for New Zealand so I'm here today just to see if I can't lend a little bit of my perspective and represent the industry.
+[00:04:00] on how we might be able to move New Zealand forward.
+[00:04:04] Thanks Trevor. I'll kick off. You argued through your submission that
+[00:04:08] debanking is the main barrier to competition in New Zealand.
+[00:04:12] Can you provide concrete examples of New Zealand firms that were denied banking
+[00:04:16] services despite meeting all the AML CMT requirements?
+[00:04:21] Yeah, the largest market participant in New Zealand is Binance.
+[00:04:26] They currently manage around 80% of all of the
+[00:04:31] circa, well, eight billion as MB discovered, but we believe it's closer to nine
+[00:04:36] billion a year in in cryptocurrency trade in New Zealand.
+[00:04:40] 80% of that is managed by Binance. Binance are a regulated
+[00:04:43] entity in all other jurisdictions and meet KYC AML requirements
+[00:04:47] and are unable to obtain banking rails.
+[00:04:52] I am associated with and work on a startup that's in the digital asset space
+[00:04:59] and that startup is also as a brand-new New Zealand-based company
+[00:05:04] looking to bring this technology and this opportunity to
+[00:05:07] New Zealand are unable to obtain traditional banking routes.
+[00:05:12] It seems that there's a real barrier. I have a number of other companies.
+[00:05:17] I could list dozens of examples, Ryan, if you really want to spend some time
+[00:05:20] doing that, but it seems to be the ongoing challenge
+[00:05:24] for all both Kiwi growing companies and internationals looking at entering the
+[00:05:28] market. It's very challenging.
+[00:05:31] Why, you know, if blockchain settlement is superior, have
+[00:05:35] few advanced economies adopted public blockchain as core domestic payment
+[00:05:40] infrastructure? Public blockchains are
+[00:05:46] challenging and the infrastructure isn't mature enough to run
+[00:05:49] on those and so there's a lot of private blockchain enterprise, but in the US
+[00:05:55] there has been rapid adoption of this technology.
+[00:05:58] We are
+[00:06:00] Between Tether and Circle, who are the two main stable coin issuans in the world, you're talking around about $250 billion in market capital and its billions of dollars daily being moved on those rails.
+[00:06:15] So, yeah, I'm not sure why it's not being more widely adopted here on public blockchain infrastructure.
+[00:06:27] Thank you. Dr David Wilson.
+[00:06:29] Yeah, my question relates to your last statement, Trevor, and thank you for coming today.
+[00:06:34] You know, you talked about legacy barriers. Can you pinpoint and explain some of those to us and then actually give us what you believe is the opportunity cost of those barriers?
+[00:06:46] Certainly.
+[00:06:47] So, the legacy barriers really is access to banking rails and the fact that we have four major Australian banks that dominate the landscape in New Zealand makes it very challenging for New Zealand companies to establish and internationals to come in.
+[00:07:01] Even international companies that are already banking with those institutions in Australia are unable to obtain banking infrastructure here in New Zealand, and so that doesn't make any sense whatsoever to me.
+[00:07:14] And I've brought several companies to the attention of New Zealand banks that are looking at entering here, which is billions of dollars in revenue that could be immediately activated in New Zealand with those banking rails and infrastructure.
+[00:07:28] So, it's really just a significant barrier, David, that unfortunately can't be overcome.
+[00:07:35] And the reasoning behind the denial of banking access is also unfounded in my opinion as to why the banks are seemingly singling out cryptocurrency and blockchain companies in this policy.
+[00:07:50] Trevor, why should policy makers rely on privately issued stable coins when the issuer may be overseas or outside New Zealand's jurisdiction?
+[00:08:01] Sorry, Ryan, could you repeat the question? Why would we rely on overseas stablecoin issuers?
+[00:08:06] Yeah, why would New Zealand policy makers rely on private-issued stablecoins?
+[00:08:11] I suppose if issuer may be overseas and outside New Zealand's jurisdiction.
+[00:08:16] Well, personally, I don't believe we should be relying on overseas-issued stablecoins.
+[00:08:22] I think that we have four New Zealand dollar stablecoins that are looking to enter or are currently in market here.
+[00:08:29] And our efforts should be to support and grow New Zealand dollar-backed stablecoins
+[00:08:35] so that the New Zealand dollar maintains its relevancy on the global financial system.
+[00:08:40] The reason we are using US-backed stablecoins at the moment is because the US has moved so quickly
+[00:08:49] that the US dollar-backed stablecoins have dominated the landscape.
+[00:08:52] And really it's coming down to two players on the global market in this stablecoin space.
+[00:08:58] And that's US dollar-backed stablecoins and yen-backed stablecoins.
+[00:09:02] There is a smaller players in Australia that have Australian dollar-backed stablecoins.
+[00:09:07] And as I said, there's a few New Zealand dollar-backed stablecoins that are trying to emerge.
+[00:09:11] But there's no support or infrastructure that's being built around those stablecoins to support their growth.
+[00:09:16] Now, I know you and the organisation have been working on this for a while.
+[00:09:20] But where's the issue here? Is it FMA? Is it Reserve Bank?
+[00:09:24] Is it legislation? Is it the combination?
+[00:09:28] Can you help specify where the issue is lying?
+[00:09:31] I think it's largely with the Reserve Bank.
+[00:09:34] The ability for us to use a tokenised government bond, for example,
+[00:09:40] that would allow the New Zealand dollar stablecoin issuers to hold those reserves.
+[00:09:45] And it's also a lack of infrastructure rails because we run on the traditional SWIF systems
+[00:09:52] and we don't have stablecoin infrastructure here.
+[00:09:55] So I run a company and I pay a significant number of my team members that work into it.
+[00:10:00] and I use an Australian company to do that because there is an Anzillian Company that I can use and there is a New Zealand
+[00:10:28] risk, balanced risk?
+[00:10:32] I mean Australia is our closest neighbour and a simple example of that.
+[00:10:36] We've got a company, Swiftdex, who have provided a number of opportunities for
+[00:10:45] people to move from fiat on to cryptocurrency and back against Australian market.
+[00:10:52] We've also seen Swiftdex enter the Australian market because they are the only ones that are able
+[00:10:57] to have those traditional banking rails and offer opportunities for kiwis to
+[00:11:01] on-ramp from fiat to cryptocurrency and then back off again when they've finished
+[00:11:06] moving currency or moving value around the world and they exit back onto New Zealand dollar.
+[00:11:11] That's the only opportunity in New Zealand right now so if we were able to
+[00:11:16] I guess support and help nurture and grow more participants we would have more alternatives
+[00:11:20] like Australia at the Australian market. There's over 400 registered exchanges in Australia
+[00:11:25] and dozens of them have Australian banking rails and are able to offer consumers
+[00:11:31] alternatives to the traditional banking system certainly for payments and the movement of money
+[00:11:36] through jurisdictions. There's a lot of advantages I'm sure we'll get into
+[00:11:42] atomic settlements and things like that. A lot of the other advantages that this technology
+[00:11:45] offers but in terms of alternatives to current banking systems I know that many consumers
+[00:11:51] are starting to utilise these exchanges to to pay bills and do traditional banking structures.
+[00:11:57] We also have a company in New Zealand called Immersive
+[00:12:00] tourism Depending are using them.
+[00:12:02] łemici现在
+[00:12:04] violate
+[00:12:07] Maskaded
+[00:12:08] je
+[00:12:09] It laugh
+[00:12:10] consumers to spent digital tokens to
+[00:12:11] celebrate
+[00:12:13] Ba
+[00:12:14] u
+[00:12:22] pit
+[00:12:23] electric
+[00:12:26] Card
+[00:12:27] beti wiriazwai gwahanu honu owe ni beti kai tartii ymlaidai cynterau.
+[00:12:31] Pono, atau aungu tė tė baikini.
+[00:12:34] Padau, tė ka jodot?
+[00:12:36] Ap ‫triu garaaniai省 ysgawa sydd wedi tė tŵu garaaratu
+[00:12:41] ysgawa ymlaidai ysgawa ymlaidai?
+[00:12:45] Padau, nais i pa ria再見u
+[00:12:50] ka mungu hwau ymlaidiai mŎtion
+[00:12:54] banking and supporting innovation in this space. We do have Kiwi Bank, which I think is a huge opportunity for us.
+[00:13:01] Kiwi Bank is engaged with our sector and does Bank SwiftX with the formerly Easy Crypto.
+[00:13:07] I think if we can support at the traditional banking rails level or we can use, and I heard some of the
+[00:13:15] conversation around new banking and using open banking infrastructure to support alternative competitors
+[00:13:21] into the market to give New Zealand consumers an alternative to the big four banks.
+[00:13:27] Personally, I'd like to see it be a New Zealand-grown bank rather than bringing in more
+[00:13:33] internationals to profit on Kiwi banking activity.
+[00:13:38] I would love to see a Kiwi Bank mandate with the ability to bank these innovative companies
+[00:13:46] and continue to build the infrastructure that we need in order to participate in this system.
+[00:13:51] Trevor, that seems to be the end of our questions, but really appreciate you tuning in from Sydney
+[00:13:56] and your advocacy in this space.
+[00:14:00] Pausio, Ryan. Pausio ateisitama, ateru.
+[00:14:02] Pausio, Ryan. Pausio, Ryan. Pausio, Ryan. Pausio, Ryan.
+[00:14:04] I'm sure I'll see you again soon.
+[00:14:05] Yeah. Thank you.
+[00:14:06] Enjoy Sydney.
+[00:14:07] Cheers.
+[00:14:12] How do we probably capture?
+[00:14:15] I mean, it was a short discussion.
+[00:14:16] It's something we should definitely capture now.
+[00:14:20] We've only got one more and then we'll have a bit of time to discuss.
+[00:14:25] Yeah.
+[00:14:26] Emerge online too.
+[00:15:02] I think you can hear us.
+[00:15:03] Are you there, Emerge?
+[00:15:05] I'm currently being blocked but I think I'm coming up now.
+[00:15:16] We've got you for up to 15 minutes.
+[00:15:22] If you wanted to make some opening comments and then we can have a few questions.
+[00:15:26] Alright and I'm back after March.
+[00:15:31] As I've spoken before, I will keep this update short allowing time for Q&A should you wish to use it.
+[00:15:41] When I presented to you in March, I was frustrated and obviously so.
+[00:15:47] Five months on it is clear that frustration didn't achieve much so I won't spend your time on it again today.
+[00:15:55] I've read the questions you put to the incumbents.
+[00:16:00] reserve bank financial regulators an payments NZ they hit on the right issues there appears to be
+[00:16:08] no disagreement between us. Can you hear me? Yeah we're losing you a bit that connection's not
+[00:16:14] very stable maybe. Shall I start again? Yeah sorry we pretty much didn't hear anything unless you
+[00:16:22] I don't know if it continues maybe turn your video off apparently that's the old school hack.
+[00:16:25] All right um should I join you in person again? Okay um from the top
+[00:16:34] members of the committee thank you for having me back. Is that coming through? Yes thank you very
+[00:16:39] good uh as a program before I'll keep this update short and allow for Q&A um should you wish to
+[00:16:45] use it. I presented to you in March and I expressed some clear frustrations uh five months on from
+[00:16:52] that presentation uh was clear that didn't achieve much so I won't spend your time on that again
+[00:16:58] today. I've read the questions that you put to the incumbents the reserve bank financial regulators
+[00:17:05] and payments NZ they hit on the right issues there appears to be no disagreement between us
+[00:17:12] in defining the problems the issue uh arises in getting them solved. Through these check-ins
+[00:17:20] the committee continues to invite each party to describe their own progress seemingly without
+[00:17:27] recourse. Through this approach you continue to receive thorough and courteous answers
+[00:17:32] but I believe you'll be back in this room in six months asking for an update on the update.
+[00:17:38] Nobody in this system is rewarded for moving faster than they are required to. Quite the opposite
+[00:17:46] the urgency has to come from the outside and I believe that is your role.
+[00:17:51] So I want to keep things very short and simple today addressing just two issues
+[00:17:56] where I feel the whole of New Zealand is a
+[00:18:00] and where people like me want to help people like you
+[00:18:04] to turn unanimous opinion into action.
+[00:18:08] First, we need an independent payments NZ.
+[00:18:12] Without independent payment systems and infrastructure,
+[00:18:16] competitors must rely on the very incumbent banks
+[00:18:20] they are looking to compete with what that means in practice
+[00:18:24] as those incumbents can get access to features
+[00:18:29] and threaten deplatforming of accounts
+[00:18:32] if a competitor builds around them.
+[00:18:35] An incumbent-owned approach has been well-proven
+[00:18:39] not-to-work, and the UK solved it decades ago.
+[00:18:44] Other than the incumbents and the directors and employees
+[00:18:47] of payments NZ, I don't know anyone who disagrees.
+[00:18:52] Just yesterday, the RBNZ published an estimate
+[00:18:56] that we are wasting $1 billion a year
+[00:19:00] due to our outdated system and misaligned incentives.
+[00:19:05] So, how do we turn unanimous opinion into action?
+[00:19:11] Second, we need a reduction in the minimum banking capital requirement.
+[00:19:17] Another seemingly unanimous perspective
+[00:19:20] is that the capital threshold for specialist banks
+[00:19:24] should be reduced.
+[00:19:27] This committee has agreed,
+[00:19:29] and a number of $5 million has been set,
+[00:19:32] but the change isn't due for nearly three years.
+[00:19:36] So, what are we waiting for?
+[00:19:38] What can we do to make that a reality this year?
+[00:19:43] Members of the committee, in March,
+[00:19:45] I told you that time is the battleground
+[00:19:48] for competition in the banking sector,
+[00:19:51] and delay is the weapon of choice.
+[00:19:54] Five months of delay later, the situation has not improved.
+[00:20:00] between an inquiry and change is action.
+[00:20:04] You have done the hard part.
+[00:20:06] You have identified the problems and asked the right questions.
+[00:20:10] Please now make the necessary recommendations and deliver action.
+[00:20:14] We don't have to invent anything.
+[00:20:16] Just follow the proven playbooks of our international peers.
+[00:20:20] Na mihi.
+[00:20:22] Thank you.
+[00:20:23] I've got a first question from Athena Williams.
+[00:20:25] Hi, I'm a greger.
+[00:20:27] You know, I agree with you on much of what you've said
+[00:20:30] about the governance of payments New Zealand,
+[00:20:32] but I want to ask you about whether the unintended consequence
+[00:20:37] of all of this, like a noise at the political level,
+[00:20:41] is that we just create the same thing?
+[00:20:45] Is Akihu industry-led in the way that you have also criticised the UK system?
+[00:20:51] What part of payments New Zealand is the most important part
+[00:20:54] to have independent access to?
+[00:20:56] Or are you advocating for industry-led, but Finti-led?
+[00:21:01] No, I'm advocating for properly independent Akihu
+[00:21:05] as a commercial entity seeking to offer payment services
+[00:21:10] within our existing infrastructure.
+[00:21:13] So the UK went through exactly this issue from 1999
+[00:21:20] and removed the incumbent banks from control and ownership
+[00:21:24] of the core payment systems,
+[00:21:26] and then through an independent entity pay UK
+[00:21:29] established additional systems
+[00:21:33] because that entity was formed on the basis
+[00:21:37] of championing innovation to the benefit of consumers.
+[00:21:41] The board is entirely independent
+[00:21:43] and the ownership is entirely independent.
+[00:21:45] So they brought in the fast payment system.
+[00:21:48] They brought in current account switching service, et cetera,
+[00:21:50] because it's a centralised function.
+[00:21:52] It's a non-for-profit.
+[00:21:54] It was essentially governed in a three-way arrangement
+[00:21:57] with the Bank of England and the FCA,
+[00:21:59] which is the equivalent to...
+[00:22:00] RBNZ and FMA here, and they charge participants in the system enough for it to wash its face.
+[00:22:09] So that's the UK went through exactly the same format as us.
+[00:22:14] It's an identical problem.
+[00:22:16] They just started solving it 27 years ago.
+[00:22:21] Sorry, please go ahead.
+[00:22:23] That's right in the timeline.
+[00:22:27] But we now have been a bit of fine study, yes.
+[00:22:29] My question is particularly about, I think, what you're ever heading for is
+[00:22:33] broader access to the API centre in the payment.
+[00:22:36] Would it be fair to say that the payments part is something that
+[00:22:40] having public oversight but not necessarily public ownership of is the goal?
+[00:22:45] Or correct me if...
+[00:22:47] So there's two components I'd like to think about.
+[00:22:51] One is the systems, and that's governance.
+[00:22:54] And those are the existing systems.
+[00:22:56] And the second is the infrastructure.
+[00:22:58] And they're independent problems.
+[00:23:00] One is really easy to solve through market structure,
+[00:23:02] and that's an independent payments NZ in the same way UK had it,
+[00:23:06] would solve for the systems part today.
+[00:23:08] And then we need investment and infrastructure.
+[00:23:10] So that's a second and separate problem.
+[00:23:13] But those payment systems, that includes obviously the interbank payment network,
+[00:23:19] which is beks and keks and high-value clearing systems.
+[00:23:23] It also includes things like store value accounts.
+[00:23:25] So the de-platforming that I mentioned.
+[00:23:28] So at the moment, every competitor, bank and competitor,
+[00:23:31] there's not a member of payments NZ has to rely on an incumbent
+[00:23:36] to provide them the store value account numbers in order to compete.
+[00:23:41] If you build functionality around those,
+[00:23:43] or you're frustrated by the featuring of that incumbent,
+[00:23:46] they can threaten to de-platform you entirely.
+[00:23:49] So you can't get those store value account numbers
+[00:23:51] just because of a system issue,
+[00:23:52] not because of an infrastructure issue.
+[00:23:54] Yeah, exactly.
+[00:23:55] Do you have a question on why, say,
+[00:23:58] Wires and Revolute are enabled?
+[00:24:00] maika splash in the New Zealand market right now.
+[00:24:04] So in the UK, again, because you've got this sort of centralised function,
+[00:24:08] the speed to market is dramatically different than here.
+[00:24:13] So again, like our payment system, so this goes to infrastructure.
+[00:24:16] Our payment system is point to point.
+[00:24:18] It's bilateral settlement of payments between each individual participant
+[00:24:22] every else in the world is hub and spoke.
+[00:24:24] So you kind of plug into the central and then that central governing body
+[00:24:28] determines your credibility and eligibility to get into the payment system.
+[00:24:33] And then you are connected and then you can connect all the systems
+[00:24:36] and innovate from there.
+[00:24:37] When you have a bilateral point to point system,
+[00:24:40] you have to do individual testing with each participant
+[00:24:43] once you're through the stage K of getting into payments in Z
+[00:24:46] which is governed by the incumbents whose benefit is to go as slow as possible.
+[00:24:52] So just the time to competition, the time to launch the time
+[00:24:57] to get in market is just dramatically slower here than anywhere else.
+[00:25:02] And if you're wise and read a loop and you've got an enormous balance sheet,
+[00:25:05] time is a frustration, but it's not terminal.
+[00:25:08] If you're building a challenger, time is terminal.
+[00:25:14] So we've got I might come back to you again.
+[00:25:16] I've got Dan and David.
+[00:25:18] Thank you, Mr Chair.
+[00:25:19] Thanks, McGregor.
+[00:25:20] Certainly feel your frustration and hopefully
+[00:25:24] from today's discussion with Payments New Zealand,
+[00:25:26] you've got confidence that we keep pressing them
+[00:25:30] to make sure that they are completing the governance review
+[00:25:33] as quickly as possible.
+[00:25:36] I'm just curious about emerge with the change
+[00:25:40] in definition of a bank that the RBNZ is looking at making.
+[00:25:47] Does that present particularly opportunities for the likes of emerge
+[00:25:51] or are you kind of envisaging that you'll stay kind of positioned
+[00:25:57] as you are in the marketplace?
+[00:25:59] What's your sense of that?
+[00:26:00] So, all change is helpful, Dan, so thank you for that, raising that point.
+[00:26:10] What I think our aspiration, so kind of putting the merch hat on for a moment away from Altered,
+[00:26:19] what our aspiration would be is to have a system which is similar to the UK where you have a licensing framework
+[00:26:26] where you get the benefits of being a bank with a capital requirement,
+[00:26:31] which is representative of the underlying risk that you're taking with your customer funds
+[00:26:36] and the size of your customer fund deposit book.
+[00:26:39] So, at the moment, and actually like most digital banking models,
+[00:26:47] have very highly secured customer deposits and very, very low lending
+[00:26:52] relative to the size of their customer deposits.
+[00:26:56] But under our current regime, because we haven't, this is a licensing point,
+[00:27:00] because we don't have sort of recognition of that business model,
+[00:27:04] which has existed again in the UK for, you know, say a dozen years.
+[00:27:10] It's difficult to get the all singing all dancing sort of banking requirements.
+[00:27:15] Now, you can get around that with tweaks at the edges.
+[00:27:18] You can loosen the definition of a bank and that is helpful.
+[00:27:21] If we had an independent payments NZ fully integrated into ESAS,
+[00:27:25] you know, you're getting a lot of that payments functionality and benefit
+[00:27:29] and if you've an innovation capability that you're really looking for
+[00:27:33] through that licensing permissioning.
+[00:27:34] So we can sort of solve all around the edges.
+[00:27:36] But the underlying issue is this, you know, we'd rather just do it properly.
+[00:27:43] But there's no way to do that at the moment.
+[00:27:45] No, thank you.
+[00:27:46] Thanks very much.
+[00:27:48] Hi, McGregor, David Wilson here.
+[00:27:49] Look, not leaning on your business experience.
+[00:27:53] Well, I'm leaning on your business experience rather than your own organization
+[00:27:57] when I asked this question.
+[00:27:59] We've had a lot.
+[00:28:00] discusion this morning about alternate payment rails such as blockchain, stablecoins, New Zealand
+[00:28:05] currency, stablecoins etc. And that may open up probably better and faster and enable payments
+[00:28:16] single person to single person rather than through the grouping that you were talking
+[00:28:19] about before. From your experience, can you comment on that?
+[00:28:22] I think one key tactic in
+[00:28:34] creating delay is to sort of flood the zone with ideas and you know that all may well be true
+[00:28:44] but we are so far behind that just catching up and following the playbooks of
+[00:28:51] the UK I'm obviously biased for because of our sterling bank experience but
+[00:28:56] just following those playbooks is table stakes just to have an efficient system and save the
+[00:29:01] one billion dollars a year that the RBNZ yesterday has published that we are wasting.
+[00:29:07] So I think you know there's a there's always been a strategy of oh we don't need to catch up
+[00:29:14] to that system because we'll just leapfrog to the next one and then because people think
+[00:29:19] oh well you know that's going to happen in the future you know tomorrow is always a day away
+[00:29:23] Annie you know it never happens. So I am very optimistic on payments innovation but I think
+[00:29:34] how national payments infrastructure is presently in such an embarrassing state
+[00:29:39] that it would be nice to just catch up. So suddenly just a quick one so you're
+[00:29:45] saying the first thing we've got to do is get the infrastructure right and the government's
+[00:29:48] right and its payments NZ must be independent. Yeah yeah producer thanks thanks.
+[00:29:57] McGregor thank you for your time and I appreciate your insight.
+[00:30:00] and to ongoing inquiry. Brilliant. Thank you so much for having me. Thank you. Thank you, McGregor.
+[00:30:07] Members, we're just flicking to-

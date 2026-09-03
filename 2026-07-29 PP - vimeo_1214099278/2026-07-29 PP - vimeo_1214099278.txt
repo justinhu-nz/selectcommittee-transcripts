@@ -1,0 +1,649 @@
+Title: 2026-07-29 PP
+URL: https://vimeo.com/1214099278
+Published: 2026-07-29
+Duration: 00:29:44
+
+[00:00:05] Morning.
+[00:00:06] Morning. How is everybody?
+[00:00:07] Good, thank you.
+[00:00:09] Do you want to be there? You can have that seat.
+[00:00:16] Right. So,
+[00:00:18] we had you in a year or two ago.
+[00:00:21] Yeah.
+[00:00:22] Slightly longer, I think.
+[00:00:23] It was-
+[00:00:24] Yeah.
+[00:00:24] Yeah, a couple of years ago, I think.
+[00:00:25] Yeah.
+[00:00:26] Yep.
+[00:00:26] Mm.
+[00:00:28] And we're just, I guess, looking for an update on how it's going.
+[00:00:32] Mm-hmm.
+[00:00:33] So, I'll leave it in your capable hands.
+[00:00:36] Yeah. It, uh, it is-
+[00:00:37] Oh, okay.
+[00:00:39] Shut that down.
+[00:00:40] That's perfect.
+[00:00:42] So first off, thank you for the opportunity to come back and give you an update.
+[00:00:47] For those that I haven't met, so I'm Suzy Keeling, head of science research at Beef
+[00:00:50] and Lamb New Zealand, and I'll let Cara introduce herself.
+[00:00:52] Yeah. Cara Brosnahan, principal scientist, animal health research at Beef and Lamb
+[00:00:56] as well.
+[00:00:58] And so what we thought we would do today, rather than talk, I guess, and sort
+[00:01:02] of, yeah, skim across the details of all the different components of the facial
+[00:01:05] eczema program, is that we would talk to you about what has
+[00:01:09] become affectionately known as the Sheep Poo study, which is the
+[00:01:13] epidemiological study, where we have looked to get a better understanding of the
+[00:01:17] prevalence and distribution of facial eczema across New Zealand.
+[00:01:22] So we'll spend a little bit of time on that, and certainly, if you're curious about
+[00:01:25] other parts of the program, by all means, we'd love to hear the questions.
+[00:01:30] For those of you that aren't familiar with facial eczema, so it's been in New
+[00:01:34] Zealand for, I guess, documented well over 120 years now.
+[00:01:38] There isn't a cure. Historically, it was thought of as
+[00:01:42] a
+[00:01:44] sorry, excuse me, North Island,
+[00:01:46] predominantly, disease. But certainly based on recent
+[00:01:50] years and evidence that we now have to date, it is spreading south,
+[00:01:55] and Cara will talk more about where we've actually found evidence of facial
+[00:01:58] eczema. I guess the other thing to
+[00:02:02] note is it is caused by a toxin known
+[00:02:06] as sporidesmin, which is produced by a fungus that essentially lives on
+[00:02:10] pasture. So that and the other, I guess, interesting
+[00:02:14] aspect when we think about other diseases, is facial eczema
+[00:02:18] isn't particularly--
+[00:02:20] it doesn't discriminate. So it does impact all ruminant
+[00:02:24] species. And in the New Zealand context, it is certainly one of our
+[00:02:27] most predominant endemic diseases.
+[00:02:30] But through the research that we have been doing, it is very obvious that it
+[00:02:34] is in other parts of the world. So that has actually offered the program
+[00:02:38] opportunities for international collaboration as well.
+[00:02:41] So I'll probably hand over to Cara now. If we can have the next slide.
+[00:02:44] Yeah, to talk us through. Yeah, go for it.
+[00:02:47] Oh, good.
+[00:02:48] So one of the first things that I wanted to cover
+[00:02:51] is that we've had a significant discovery in the first part
+[00:02:55] of the program, understanding more about the fungus itself.
+[00:02:59] So as you can see there, those are those little grenades that people look
+[00:03:03] for down the microscope to know how many spores are there, and that determines the
+[00:03:07] risk
+[00:03:08] of winter and actual facial eczema management.
+[00:03:11] So this was always thought of as one species of fungus.
+[00:03:14] But actually, when we looked at the DNA, there are two species of fungus that
+[00:03:18] look identical down the microscope.
+[00:03:21] One can produce the toxin that causes FE, and one actually
+[00:03:25] doesn't have the mechanisms to be able to do that.
+[00:03:27] So it's really important to know that these two are there, and that we can
+[00:03:31] distinguish them, so that we can create better tools that are
+[00:03:35] definitely for that toxin producing fungus.
+[00:03:38] But also so that we can assess the risk better and more accurately
+[00:03:42] for farmers. So we have a test that we've developed in the
+[00:03:46] program as well, a PCR test, to distinguish these two.
+[00:03:50] And now we're in the stages of validating that
+[00:03:53] for a commercial use, and part of that is actually understanding what the
+[00:03:57] interpretation of that result means, 'cause it's all very well having a test.
+[00:04:01] But if farmers and vets don't know how to interpret it, then yeah, it's kind of
+[00:04:04] useless. So that's where we're at with that. So that's a very exciting discovery.
+[00:04:09] And next slide, please.
+[00:04:11] And it was quite cool to actually name it toxicarius.
+[00:04:13] Oh, yeah. That's-
+[00:04:14] Yeah, that's-
+[00:04:14] Sorry, I didn't-
+[00:04:15] Yeah.
+[00:04:16] So the long name for the toxin producing one is Pseudopithomyces toxicarius, and
+[00:04:20] then the other one-
+[00:04:21] Cara's really good at saying that quickly.
+[00:04:23] And then the other one that's the non-toxic species is the Pseudopithomyces
+[00:04:27] charterii, which is the previous name for what it was
+[00:04:31] always called. So it is a little bit confusing, but given that it's toxicarius, we
+[00:04:34] feel like it's a little bit easier for people to know which one's the toxin
+[00:04:38] producing one.
+[00:04:39] And the other
+[00:04:42] major piece of work in this program is getting farmers involved.
+[00:04:46] So for the last three years, we've had an epidemiological study
+[00:04:50] running to understand the distribution and prevalence of facial
+[00:04:54] eczema in New Zealand. So not just where we assume it to be, but actually taking
+[00:04:58] samples from across the country so that we know.
+[00:05:01] We've had really amazing participation throughout the three years.
+[00:05:04] So in season one, just over 200 farmers, and then by season three,
+[00:05:09] up to almost 300 farmers. So this is-- It's very hard to
+[00:05:13] get people participating voluntarily, and the fact that it grew over time
+[00:05:17] is, yeah, just a kind of reminder of how important this disease is
+[00:05:21] for New Zealand farmers.
+[00:05:25] So next slide, please. So this is, yeah, the Sheep
+[00:05:29] Poo study, because we did get farmers to send in sheep poo from a
+[00:05:33] mob of sheep every two weeks from October to May for three years.
+[00:05:37] So it was a huge effort.
+[00:05:39] They did get results back,
+[00:05:41] as soon as we got the results from the lab, so they were informed of their
+[00:05:45] risk as well, but still a huge effort.
+[00:05:48] How many farmers, sorry? How many farmers?
+[00:05:49] So in year one, there was just over 200.
+[00:05:52] And year three, almost 300 farmers.
+[00:05:55] So over the whole study, there were over 400 farmers participating.
+[00:05:59] So
+[00:06:00] I think there was about 150 farmers that stayed for the whole three years.
+[00:06:03] Hmm.
+[00:06:03] And then that changed in terms of the numbers and people for the rest of the
+[00:06:07] time. So yeah
+[00:06:09] Pretty impressive, yeah.
+[00:06:13] So if you can... Sorry, there are a couple of...
+[00:06:16] Yeah, if you click one more.
+[00:06:20] So the other thing is this is a massive data set that we
+[00:06:24] now have that we can dig into for other purposes, and the
+[00:06:27] largest data set on FE, I'm going to say in the world, because no one else is
+[00:06:31] looking at it as intensely as us.
+[00:06:34] And yeah, over 30,000 records so far, and
+[00:06:38] that's not including season three.
+[00:06:40] So we think we'll get about up to 50,000 data points, which is
+[00:06:43] massive. And
+[00:06:45] the other thing about it is that it was longitudinal, so it's over those three
+[00:06:49] years. And because FE is so variable year to year, it's really important to
+[00:06:53] get that spread and not just focus on one year.
+[00:06:56] So it was that each farmer had the same mob of sheep they were following or?
+[00:07:00] Each year they could do a different mob, but within the
+[00:07:04] year it was the same mob, so that we could trace it around the farm and see
+[00:07:08] what paddocks were at risk and what weren't.
+[00:07:11] It also gave us a really big bank of samples to be able to test that
+[00:07:15] toxic versus non-toxic strain. So we're working through those to understand where
+[00:07:19] the different species are around New Zealand, if they are, in fact, different in
+[00:07:23] different parts of the country.
+[00:07:25] So we'll get a lot more information there.
+[00:07:27] And the other thing is fecal facial eczema
+[00:07:31] spore counts aren't a routine diagnostic that farmers use,
+[00:07:35] so it provides more information to be able to interpret results if they
+[00:07:39] do want to use it, because it does give you a little bit different information than
+[00:07:42] a pasture spore count because it's telling you what the animal is actually eating,
+[00:07:46] so what the risk is to the animal rather than what the potential risk is.
+[00:07:50] So there's a little bit different there.
+[00:07:55] Great. Next slide, please.
+[00:07:58] So we did find that it's certainly not a North Island problem.
+[00:08:01] So this is a snapshot of over the three
+[00:08:05] years-
+[00:08:06] We're in the red zone
+[00:08:06] ... where,
+[00:08:08] yeah. What zone are people in?
+[00:08:11] So this is the highest spore count that was seen within
+[00:08:15] that region over each year.
+[00:08:17] This is red, babe.
+[00:08:18] Over each year.
+[00:08:19] Oh, there you go.
+[00:08:20] Yeah. I'll talk you through. So green means there were no spores seen in
+[00:08:24] that region,
+[00:08:26] and then up to black, which is the very dangerous.
+[00:08:29] So the maroony red is that moderate risk
+[00:08:32] range, and then the yellow to orange is lower
+[00:08:36] risk, but if you're continually eating those spores, there still is the risk
+[00:08:40] of getting facial eczema.
+[00:08:42] But it's getting worse, what, just in totality it looks like?
+[00:08:46] Well, it's just very variable between the seasons.
+[00:08:49] So that-
+[00:08:49] Just hot and wet, isn't it?
+[00:08:50] Yeah.
+[00:08:51] So you can see on the-
+[00:08:52] Exactly
+[00:08:52] ... East Coast, obviously in '23, '24, it was hot and wet.
+[00:08:55] Yes.
+[00:08:55] Mm.
+[00:08:55] And then it's traditionally the West Coast.
+[00:08:58] Yeah. So it's a really important reminder that it's not going to be the same every
+[00:09:01] season, which is why monitoring is so key.
+[00:09:04] And yeah, found spores down in Southland in the first year.
+[00:09:08] We didn't see them in year two and three, but we did see them in
+[00:09:12] Otago throughout the three years.
+[00:09:14] West Coast, little bit of a caveat on that one.
+[00:09:17] The first two years we could not get West Coast farmers to to join.
+[00:09:21] So there was only a couple.
+[00:09:22] Yeah.
+[00:09:22] And the third year we had a colleague that was involved with
+[00:09:26] the Sheep Coast Study who lives on the West Coast, so she encouraged a lot more
+[00:09:30] farmers into the study, and we got a more realistic picture of what it looks like
+[00:09:34] there, because they definitely do get facial eczema and clinical facial eczema.
+[00:09:38] Not as many sheep on the coast either, is there?
+[00:09:40] No.
+[00:09:41] But it is wet, so.
+[00:09:43] Yeah, exactly.
+[00:09:44] That's a factor.
+[00:09:44] And
+[00:09:45] the dairy cattle there, they've definitely been having problems the last few years.
+[00:09:49] Yeah. And so clinical outbreaks, yeah, West Coast,
+[00:09:53] Nelson, Marlborough, Tasman, north essentially in every region.
+[00:09:57] So first year there was about 12% of the farmers
+[00:10:01] participating that reported clinical FE.
+[00:10:04] Second and third year, almost 30% of the farmers reported clinical
+[00:10:08] FE. So there's still a lot happening out there.
+[00:10:12] Mm.
+[00:10:13] Um-
+[00:10:14] So, can you... What's the difference between the spore count in the
+[00:10:17] grass and the fecal count? Like, is it-
+[00:10:20] So it is, so the pasture-
+[00:10:22] But what's the advantage of doing one or the other?
+[00:10:24] So the pasture spore count is good to understand when those spores are
+[00:10:28] rising.
+[00:10:28] Yeah. So that's traditionally what people have done.
+[00:10:30] That's traditionally what people use.
+[00:10:32] Yeah, that's what we've done.
+[00:10:32] Yeah. And it's a really good indicator.
+[00:10:34] So what we've noticed within the study is that those pasture spore counts and
+[00:10:38] fecal spore counts can be quite different because it depends where the animals are
+[00:10:42] grazing. So they might not actually be grazing down into that
+[00:10:46] area that you're collecting the pasture spore, the pasture from.
+[00:10:50] But also we've noticed that the pasture spore count can be quite low
+[00:10:54] and the fecal spore count can be quite high.
+[00:10:56] So they're grazing in areas that you're not necessarily picking your pasture from.
+[00:11:01] So it does become a little bit more complex, but the good thing is with
+[00:11:04] all this data, we'll be able to... That's one of the goals is to analyze it and
+[00:11:08] understand where is best to use each of the diagnostic tools.
+[00:11:12] So is it actually useful to use fecal spore counts at certain
+[00:11:16] times versus pasture, or should you be doing both to give you a better picture?
+[00:11:19] So that's something we're working through, because we do think it's a really useful
+[00:11:23] tool to understand where
+[00:11:26] animals are actually eating the spores.
+[00:11:28] And what about pasture management? Does that have an influence at all?
+[00:11:32] Because if you don't graze so low.
+[00:11:33] Yes. Yeah, definitely.
+[00:11:34] So are you measuring that too? Are you measuring that too?
+[00:11:35] Yes. So we've been asking farmers who are submitting samples
+[00:11:40] how, like what their pasture height is.
+[00:11:42] Yeah.
+[00:11:42] And what we've seen in the first two years is that if you're above five
+[00:11:46] centimeters, you're much safer.
+[00:11:48] Yeah.
+[00:11:49] Below five centimeters-
+[00:11:49] So it's when they get down to the bottom.
+[00:11:51] Yes.
+[00:11:51] So similar to internal parasites, they're all sitting in that bottom layer.
+[00:11:55] So if you're not going down and grazing that hard, then you
+[00:11:58] are reducing the risk.
+[00:11:59] But often in summer you're short of grass too.
+[00:12:01] Exactly.
+[00:12:01] Yeah.
+[00:12:02] So sometimes it's not an option.
+[00:12:03] But knowing that that is a risk and then putting other management in places
+[00:12:07] is important.
+[00:12:08] Mm-hmm.
+[00:12:08] Yeah.
+[00:12:09] Did you look at why 2024 and 2025 have bigger no
+[00:12:13] spore area? Because spores would survive for at least
+[00:12:16] If, I mean, the standard, like three, four months.
+[00:12:19] Yeah, spores are very hardy.
+[00:12:21] Yeah.
+[00:12:21] Yep.
+[00:12:22] Yeah. So how did it happen, like 2024, 2025
+[00:12:26] has bigger no spores area? And then,
+[00:12:30] yeah, so w- what-
+[00:12:31] So it's likely that, we're still analyzing the data, but it's likely to
+[00:12:35] do with those weather patterns.
+[00:12:36] So the spores might be there, but at low levels and
+[00:12:39] that fungi isn't actively growing and producing more spores
+[00:12:43] potentially.
+[00:12:44] Mm.
+[00:12:44] So they, yeah.
+[00:12:46] You're right, that they will still be there waiting for that environment so that
+[00:12:50] they can grow again. Yeah. Yeah. And we've also got a side project,
+[00:12:55] looking at what are those environmental triggers of sporogenesis production as
+[00:12:59] well. Mm. Because as Cara said, when we started this work, we didn't have the new
+[00:13:02] diagnostic tool that separates toxic from non-toxic. Mm.
+[00:13:06] So this picture represents a combined, the good
+[00:13:10] and the bad fungus. But then we've also got other work that's going on,
+[00:13:14] which is helping us understand what those environmental triggers of the
+[00:13:18] toxin are. Because even if we detect by DNA that the toxic
+[00:13:22] fungi is there, it doesn't necessarily mean that it's actively producing- Mm ...
+[00:13:25] the toxin. Because part of, I guess, the complexity of this is
+[00:13:29] we don't really know why it's advantageous for this
+[00:13:33] fungus to produce the toxin in the environment.
+[00:13:36] Like its end goal was never about harming animals. Mm.
+[00:13:39] So why is it advantageous for this fungus
+[00:13:43] that lives down in a particular part of the pasture?
+[00:13:46] Like is it so it
+[00:13:48] can kill other microbes, so it can out-compete them?
+[00:13:52] So all of that isn't quite clear. Mm-hmm.
+[00:13:53] Yeah. You mentioned about you developing that PCR test.
+[00:13:57] Mm-hmm.
+[00:13:58] I
+[00:13:59] don't imagine it's unique to New Zealand. Is it?
+[00:14:02] The fungus?
+[00:14:03] Yeah.
+[00:14:03] No.
+[00:14:04] Yeah, so that test not developed anywhere else?
+[00:14:07] No, because a lot of other places in the world
+[00:14:10] are, it's not as bad as New Zealand.
+[00:14:12] So New Zealand definitely
+[00:14:14] has, I guess, the worst cases of facial eczema.
+[00:14:17] Mm.
+[00:14:17] But it is popping up more and more around the world.
+[00:14:20] So Netherlands in 2019 had their first case reported of facial
+[00:14:24] eczema. There's been a few reports in the literature in the last few years
+[00:14:28] from Portugal.
+[00:14:29] Mm.
+[00:14:29] Spain. Yeah.
+[00:14:30] How do we compare with Australia?
+[00:14:32] Yeah, so Australia, it's very confined to an area in
+[00:14:36] Victoria and mainly in dairy.
+[00:14:39] So yeah. I think probably South Africa would be- Yeah ...
+[00:14:42] the country that might be second to us in terms of their issues.
+[00:14:46] But once again, challenge for dairy animals. Yeah. Mm.
+[00:14:49] So that's like a good opportunity that we have a test now.
+[00:14:52] Yes.
+[00:14:53] Yeah.
+[00:14:53] Yeah, and I think that is why this program is so important because
+[00:14:57] it will become-
+[00:14:58] Yeah
+[00:14:59] ... more and more around the world.
+[00:15:00] If it gets widely accepted, yeah.
+[00:15:01] Yeah. And people will be looking to us-
+[00:15:03] ... for solutions. That's really good. Yeah.
+[00:15:05] Because we've been quite proactive in building an international network.
+[00:15:08] Yeah.
+[00:15:08] Not only understanding what their challenges are, but sharing our
+[00:15:12] insights. Because if the longer term outcome is that we can minimize
+[00:15:16] harm to animals globally because we can share what we learn here, then
+[00:15:20] that is certainly highly beneficial. Mm.
+[00:15:22] Exactly.
+[00:15:23] Yeah.
+[00:15:23] Well, very important.
+[00:15:25] Next slide. So the other thing was that the season was
+[00:15:29] longer than we anticipated. So this is just a snapshot
+[00:15:33] from this previous year from February to June.
+[00:15:37] So often, people stop sampling kind of
+[00:15:42] April, May. But when we continued it out, there was still quite a few
+[00:15:45] regions that had high spore counts in June.
+[00:15:49] So it's just something to be aware of, of not making those assumptions that, yes,
+[00:15:52] it starts here, it finishes here. Every season's gonna be different.
+[00:15:56] And to continue monitoring when you're thinking about stopping any
+[00:15:59] management.
+[00:16:03] And-
+[00:16:04] You went in between Cs.
+[00:16:05] Did you- Yeah. Did you talk... Oh, no, it's terrible, isn't it?
+[00:16:08] November.
+[00:16:09] But did you look into, because I know that it can lay dor- it may not
+[00:16:12] show in animals. Mm-hmm. But we lamb in
+[00:16:16] June. Yeah. And then sometimes it's dormant, and then it comes up when the animals
+[00:16:20] are under stress after they've had a lamb. Yes.
+[00:16:22] So it can actually present in the symptoms- Later, yes ...
+[00:16:25] can present in July or August. Yeah.
+[00:16:27] And that is
+[00:16:28] usually because, as you say, because- But you may not have noticed it earlier.
+[00:16:31] Yeah, exactly. Yeah. The liver was under such pressure, and it was fine under
+[00:16:34] normal circumstance. Yeah. But then with the pressure of- Yes, the baby. Yeah ...
+[00:16:36] lambing or anything, yep, definitely.
+[00:16:38] So that delayed facial eczema is certainly an issue.
+[00:16:42] Yeah. And that's why that subclinical FE-
+[00:16:46] Oh, yeah ... is so important and not well,
+[00:16:51] like we all know that figure of if you have one clinical
+[00:16:55] animal, you're likely to have 10 subclinical.
+[00:16:57] But it's not often registered how important that is, because that
+[00:17:01] is lost production, as you say, that can affect the animal later in life when
+[00:17:05] they're under other stress. And throughout the life of the animal, that is reduced
+[00:17:09] productivity. So getting a better handle on what individual farmers'
+[00:17:13] subclinical FE might be is really important.
+[00:17:16] So we've had, um- They don't transfer it to their lamb, do they? No. No. Yeah.
+[00:17:20] It's just them. No. It's more, yeah, it's more that because they are so much under
+[00:17:24] pressure
+[00:17:25] through that lambing, then that's when it all comes out.
+[00:17:30] Yeah, so within the SheepCo study, we've had a group of farmers who are monitoring
+[00:17:34] more intensely,
+[00:17:35] and that's blood samples, fecal samples, pasture.
+[00:17:39] And so we've got more up-to-date numbers of what that
+[00:17:42] subclinical impact is looking like.
+[00:17:44] So once we analyze all the data, we'll be able to have some more information on
+[00:17:48] that.
+[00:17:50] And I think, yeah, the only other thing I
+[00:17:54] wanted to mention about the SheepCo study, so all of the data, we're using
+[00:17:58] that to build a predictive model for FE.
+[00:18:01] So it's using real data as well as 30 years of meteorological
+[00:18:05] data and machine learning so that we're not
+[00:18:09] biasing what we think the parameters might be that affect FE.
+[00:18:12] We're letting the models run, and that will give a much clearer
+[00:18:16] picture of what are those things that drive FE long
+[00:18:20] term. So that's pretty exciting work.
+[00:18:21] The two years of the data and the Where
+[00:18:25] the data is showing that it's looking really good, and then the intention is to
+[00:18:29] test it on year three's data, and then have something available
+[00:18:33] for beta testing for farmers this coming FE season.
+[00:18:37] So there's lots of very exciting things coming out of it.
+[00:18:41] I think that's all I have.
+[00:18:42] Yeah. Let's go to the next slide.
+[00:18:45] Yeah, pop all of them up. Great. Thank you.
+[00:18:50] So I guess one of the things on reflection, as Cara mentioned
+[00:18:54] at the beginning, we
+[00:18:56] had high hopes about farmer participation, but we certainly didn't
+[00:19:00] think that was going to be as successful as it was.
+[00:19:03] So
+[00:19:05] that in itself, of setting the foundations for farmers to then start their own
+[00:19:08] kind of management and monitoring going forward, and we've built that
+[00:19:12] community. There's a WhatsApp group.
+[00:19:14] There are farmers participating in webinars.
+[00:19:17] So it's gone from being something that perhaps you didn't want to necessarily
+[00:19:21] talk about openly, to starting to create that dialogue.
+[00:19:25] And it's also been the dialogue that we've started to build with the veterinary
+[00:19:29] community as well. So one of the things that the program is doing is,
+[00:19:33] has built a continuous professional development course for
+[00:19:37] veterinarians, and so we've partnered with the New Zealand Veterinary Association
+[00:19:40] for that. So that's going to be launched in the next six months, I think.
+[00:19:43] Yep.
+[00:19:45] And probably the big thing that I think we've still got a
+[00:19:49] challenge going forward is that awareness and myth-busting.
+[00:19:52] So there, we spoke initially about the historic
+[00:19:56] perspective that it's only a North Island problem.
+[00:19:58] We've now got really solid evidence that it is a South Island problem.
+[00:20:02] So from the perspective of starting to have conversations with farmers in the South
+[00:20:06] Island about what does preparedness look like, what does introducing FA-tolerant
+[00:20:09] genetics look like?
+[00:20:11] That now that narrative around that when you look under the microscope, you're
+[00:20:15] actually looking at two different fungi.
+[00:20:17] One is the problem child, one is completely harmless.
+[00:20:21] So how does that inform real-time risk alerts?
+[00:20:24] So the predictive model that Cara has spoken about, once
+[00:20:28] that's launched, farmers will actually be able to assess what their own
+[00:20:32] potential risk is for that season.
+[00:20:35] The other insights that we've gathered, because we do an end of season
+[00:20:39] survey from everybody that's participated in the sheep poo study,
+[00:20:42] is because they were measuring and monitoring, it gave them the ability to make
+[00:20:46] management decisions like zinc earlier rather than
+[00:20:50] later. But also because they kept monitoring, they were able to stop zinc
+[00:20:54] sooner. So starting to show the power of actually
+[00:20:57] collecting that evidence for your own farm.
+[00:21:01] Spotting hidden losses, so certainly to that educational piece and creating
+[00:21:05] awareness about subclinical disease and what to look out for,
+[00:21:09] the importance of that.
+[00:21:11] And the big achievement for us, as I've already mentioned, is the
+[00:21:15] trust and the partnership that we've been able to form with farmers.
+[00:21:19] It's just been so exciting to get the feedback,
+[00:21:23] have the participation. It's a pretty substantial commitment, you're going
+[00:21:27] out every fortnight, collecting information about your animals,
+[00:21:32] measuring pasture, sending in the sheep poo samples,
+[00:21:36] all of those. But having that real sense of ownership and participation in the
+[00:21:39] program has just been so exciting.
+[00:21:42] I still get very passionate about it.
+[00:21:46] And we can go to the final slide, or we can wrap up.
+[00:21:50] So you've probably got the sense that Beef and Lamb is certainly not doing this
+[00:21:54] alone. It is a genuine cross-sector collaboration, not only with our
+[00:21:58] farmers, but also MPI as significant co-funders.
+[00:22:02] And then we have a number of research providers in New Zealand
+[00:22:06] and Australia, but also quite an extensive number of
+[00:22:10] in-kind partners as well. So we're coming at this
+[00:22:14] problem with a very multidimensional view.
+[00:22:17] We do know that the solutions that the program needs to deliver
+[00:22:21] have to be farm systems based. There's not going to be a silver
+[00:22:24] bullet for this challenge. So it is going to be about the animal
+[00:22:28] component, the pasture component, people, the environment,
+[00:22:32] and how that's all packaged together.
+[00:22:34] And we're just over halfway, and with yeah, about another...
+[00:22:38] We end December 2030.
+[00:22:40] Yep.
+[00:22:43] Right, we'll go to questions. Suz?
+[00:22:45] A couple of questions. So one, how are you transferring this
+[00:22:48] information down to the actual farmers-
+[00:22:51] Mm-hmm
+[00:22:51] ... or sharing the information to the farmers? And also, what's the end game?
+[00:22:54] What are you trying to achieve? Are you trying to reduce facial eczema?
+[00:22:58] Are you trying to find a cure or a spray or something?
+[00:23:00] Or you, I don't know, what's the
+[00:23:02] end game? You say that there's no cure.
+[00:23:05] Yeah.
+[00:23:06] And so or are you just, is it about or is it simply about awareness?
+[00:23:10] Because I'd say most farmers are well aware.
+[00:23:12] Certainly people that are-
+[00:23:12] No, it's definitely going further than awareness.
+[00:23:15] Right.
+[00:23:15] But I guess to your first question in terms of how we disseminate and
+[00:23:19] create understanding of facial eczema.
+[00:23:21] So you've got your more traditional channels of, I guess, like fact
+[00:23:25] sheets and webinars and
+[00:23:28] workshops, but-
+[00:23:31] How's the engagement on there? Pretty good?
+[00:23:33] Do you want to talk about those ones in terms of...
+[00:23:35] Because I guess we've also taken this as an opportunity to design-
+[00:23:39] Answer Bruce's questions.
+[00:23:39] Yeah. Design-
+[00:23:40] Yeah.
+[00:23:41] ... the facial eczema workshops
+[00:23:43] that we have done, we've done them differently.
+[00:23:46] And they've been really successful in that they have had a
+[00:23:49] combined,
+[00:23:51] so you've got an expert panel.
+[00:23:54] You'll also have expert farmer panel talking about their experiences of
+[00:23:57] facial eczema. We also typically
+[00:24:01] include, I guess if you like, it's more of a hands-on applied,
+[00:24:05] so actually looking like postmortems.
+[00:24:07] So opening up the animal and looking at what a potential liver could look
+[00:24:11] like that's been impacted. So the workshops are
+[00:24:14] designed to create for all different stages of learning and
+[00:24:18] learning preferences as well. So they have been incredibly
+[00:24:22] useful. But the real success of those workshops is creating
+[00:24:26] light bulb moments that when you see what a liver
+[00:24:30] inside a sheep looks like, you then think, "Okay, well, when I'm going to
+[00:24:33] maybe, you know-" ... cull some animals for dog tucker,
+[00:24:37] I'm then going to stop and have a look at my own animals themselves.
+[00:24:41] So it's starting to create more of that applied learning rather than just
+[00:24:44] theoretical learning. And certainly in the webinars that we've been doing, they're
+[00:24:48] very farmer focused. They're not science heavy, but it's also about
+[00:24:51] showing farmers that because of all of this new information, this is now what you
+[00:24:55] can do. So to the second part of your
+[00:24:59] question,
+[00:25:01] it's going to have to be about how we can optimize the farm system
+[00:25:05] and have more effective multi-pronged management things
+[00:25:09] that essentially set you up to minimize the risk and ultimately the impact
+[00:25:13] of facial eczema. Yeah.
+[00:25:15] Well, that's because it's-
+[00:25:16] Yeah
+[00:25:16] ... like it's amazing that you've got such a great sample of people that have,
+[00:25:20] as you said, the best in the world or whatever it is.
+[00:25:22] Yeah.
+[00:25:22] But,
+[00:25:23] so have you determined through that process that there are
+[00:25:28] management tools you can make to minimize the effects?
+[00:25:31] Yeah.
+[00:25:31] So is that part of it? Like so you-
+[00:25:32] Yes.
+[00:25:33] There's certain things you can do other than not grazing so low, but once the
+[00:25:37] animals have been diagnosed, or you can see symptoms of it in your
+[00:25:40] stock.
+[00:25:41] Yeah.
+[00:25:41] Are there certain things you can do to make it better?
+[00:25:42] Yeah, so I think probably, jump in here, Caroline, with stuff that
+[00:25:46] I've missed. I think we're probably more in the
+[00:25:50] preventative management space at the moment.
+[00:25:52] In terms of
+[00:25:55] the program having capacity to look for, let's say, treatments.
+[00:25:59] Like once you've got evidence of facial eczema in your stock, currently there
+[00:26:03] isn't anything on offer.
+[00:26:05] No.
+[00:26:05] In terms of like a treatment or something that you could give them.
+[00:26:08] Oh, no, I don't necessarily mean it.
+[00:26:09] Is that what you mean? No.
+[00:26:10] I don't necessarily mean a drench or anything.
+[00:26:11] I mean like, are there certain ways you can manage them?
+[00:26:14] Like do you put them on long grass or keep them in the shade or through-
+[00:26:17] ... or keep them in the sun or whatever?
+[00:26:18] Yeah. Supportive, yeah.
+[00:26:20] Yeah.
+[00:26:20] Yeah. Supportive actions. Yeah.
+[00:26:23] No. Oh, that's brilliant. Thank you.
+[00:26:24] Yeah.
+[00:26:25] Thank you very much.
+[00:26:26] Very interesting.
+[00:26:27] Are there any
+[00:26:28] brass species being bred that may be resistant to the fungus in
+[00:26:32] the first place?
+[00:26:34] There isn't at the moment,
+[00:26:38] but we do know that there are certain forages that are much lower risk,
+[00:26:42] and they just can't grow on them. So one of-
+[00:26:46] Brassicas?
+[00:26:46] Yeah. Brassicas, chicory.
+[00:26:47] So one of the parts of the program is,
+[00:26:52] yeah, I guess because s- since zinc came out, there was a lot of work done
+[00:26:56] on pastures and before zinc came out.
+[00:26:58] And then everyone kind of forgot about that, and we were like, "Oh, well, let's
+[00:27:00] just move to zinc," because it's
+[00:27:01] Easier
+[00:27:02] ... easy. So it's part of this is also bringing back
+[00:27:05] that knowledge about the pastures, making sure that is up to date, and then
+[00:27:09] creating more resources and case studies of where farmers have applied
+[00:27:13] them in a farm system to make them work, and to make them work
+[00:27:17] maybe for internal parasites as well.
+[00:27:19] So you're not just doing it for facial eczema, but you might also be doing it to
+[00:27:23] break the cycle of parasites. So yeah, there's definitely that part of the
+[00:27:27] program as well. So we've got some seed companies, as you'll see, as in-kind
+[00:27:30] partners, so they are helping us out with
+[00:27:32] that. But I guess another part of the program as well,
+[00:27:36] there's been a lot of anecdotal evidence that farmers say once they
+[00:27:40] change their, soil health and pasture management, they don't seem to get
+[00:27:44] facial eczema as much. So we are looking into a proof of
+[00:27:48] concept just to see if we can get some data around that and see if that is real.
+[00:27:51] And then that might progress into something, but we really need some data
+[00:27:55] first before going in there.
+[00:27:57] Lucy, can I just hop on there? Are you working with companies like Holter in terms
+[00:28:01] of some of their pasture management stuff?
+[00:28:02] Like just-
+[00:28:02] Yeah. So we have-
+[00:28:04] I don't know if you want to-
+[00:28:05] Yeah, so we've-
+[00:28:05] Okay
+[00:28:06] ... yeah, we've had conversations with them and also Cow Manager in terms of,
+[00:28:09] because the other part of the program is like looking at behavioral, like
+[00:28:13] early indicators of disease.
+[00:28:15] Yeah. Yeah. Yeah.
+[00:28:15] So whether or not with their animal health data that they collect.
+[00:28:19] Mm.
+[00:28:19] But yeah, we do have, yeah, a, it's a work in progress-
+[00:28:22] Yeah
+[00:28:22] ... in terms of, yeah, what, yeah, technology and wearables, yeah, could be used.
+[00:28:27] Yeah.
+[00:28:27] Yeah, because another, like for wearables and
+[00:28:31] a relatively easy part would be when farmers know what parts of their farm are hot
+[00:28:35] or certain gullies.
+[00:28:36] Exactly.
+[00:28:36] They can just restrict-
+[00:28:37] Exactly
+[00:28:37] ... the animals going there.
+[00:28:38] Yeah.
+[00:28:38] But it is, it's also that behavior stuff.
+[00:28:40] Yeah.
+[00:28:40] But then it is, yeah, they can also,
+[00:28:43] yeah, totally use it a, as a kind of a high level.
+[00:28:46] Mm.
+[00:28:46] Yeah.
+[00:28:48] Yeah.
+[00:28:49] Mm.
+[00:28:49] Yeah.
+[00:28:50] That's exciting.
+[00:28:50] No, very good. Look, thank you very much for taking the time.
+[00:28:53] Yeah.
+[00:28:53] It's really interesting to see the progress you've made.
+[00:28:56] And,
+[00:28:57] I guess
+[00:28:59] we're out of questions for
+[00:29:01] the other areas, but,
+[00:29:04] I, I guess as a
+[00:29:07] economic impact that-
+[00:29:08] Mm-hmm
+[00:29:08] ... FE does have around the country, and
+[00:29:12] there's not a lot known until, and the more we know, the better we
+[00:29:16] can manage it, I guess. So-
+[00:29:18] Yeah
+[00:29:18] ... thanks very much.
+[00:29:19] No. Thank you.
+[00:29:22] Thank you.
+[00:29:23] Thank you.
+[00:29:23] Have a good day. Stay cool.

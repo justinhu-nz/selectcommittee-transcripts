@@ -1,0 +1,699 @@
+Title: 2026-07-29 PP (Part 2)
+URL: https://vimeo.com/1214082980
+Published: 2026-07-29
+Duration: 00:35:01
+
+[00:00:00] Thank you for coming along at short notice to the committee.
+[00:00:05] Obviously, with the avian bird flu
+[00:00:09] publicity and
+[00:00:11] finally hitting our shores after
+[00:00:13] a number of years, it'd be very
+[00:00:17] useful for us to get a briefing on what's happening, how
+[00:00:21] you see it rolling out, and the responses.
+[00:00:25] So I'll leave it in your hands, Stuart.
+[00:00:27] Yeah. No, no. Thanks very much. And yeah, thanks for the opportunity.
+[00:00:30] Obviously, it has arrived in New Zealand,
+[00:00:33] so good to have this opportunity to talk through a few.
+[00:00:37] We've got the slides here. We'll just run through those quite quickly.
+[00:00:40] Just a bit of-
+[00:00:41] Yep
+[00:00:42] ... what we know about bird flu, where we're at, and what we're
+[00:00:46] doing,
+[00:00:47] or what we've done since those two detections.
+[00:00:50] And then obviously, there'll be questions.
+[00:00:53] We've got some colleagues here from the Department of Conservation with us as well,
+[00:00:56] who can talk about wild birds and vaccination,
+[00:01:00] and other MPI colleagues as well, that we'll be able to cover off what you're
+[00:01:03] interested in talking about. So I'll hand over to Mary Van Andel, who's our Chief
+[00:01:07] Veterinary Officer, to just run through those first few slides on avian
+[00:01:11] influenza and where we're at in the Australian situation,
+[00:01:15] and then we'll go from there.
+[00:01:16] Perfect. Thanks very much, Stu. Good morning, everyone.
+[00:01:21] So highly pathogenic avian influenza, on the first slide
+[00:01:25] there.
+[00:01:28] So a disease that has been prevalent in bird populations
+[00:01:32] around the world for decades and decades.
+[00:01:33] We've known about it for a very long time.
+[00:01:36] In the past, it's been something that's been limited to the northern hemisphere,
+[00:01:40] and it's been seasonal. What happened in 2020 is that a new strain of this
+[00:01:44] virus emerged somewhere in the northern hemisphere.
+[00:01:46] This is the one that we're talking about today and the one that we've detected in
+[00:01:50] New Zealand for the first time in the last two weeks.
+[00:01:54] That one called clade 2.3.4.4b, and that was
+[00:01:58] different. Said it before, right?
+[00:02:01] That strain was different, and the reason it was different was
+[00:02:05] because it was spreading in a highly pathogenic form with wild
+[00:02:08] birds. And not with just one or two species of wild birds,
+[00:02:13] with a vast number of species. Things like shore birds,
+[00:02:17] marine birds, those kinds of things.
+[00:02:18] Previously not a species that had carried the disease, but now
+[00:02:23] yes. So what happened with that was that it moved across the northern hemisphere.
+[00:02:27] Because of this change in species distribution,
+[00:02:31] for countries where this had previously been a seasonal thing, that was no longer
+[00:02:35] the case. Colleagues in the US and the UK told us about
+[00:02:39] how in
+[00:02:41] '22, '23, in that season for them in the UK, they
+[00:02:45] had cases almost year-round in their
+[00:02:48] poultry. Right? And so
+[00:02:53] what hasn't changed about the virus is that it's a low risk to human health.
+[00:02:57] Okay? So that hasn't changed. That's still the same.
+[00:03:00] Because of the large number of infected birds around the world,
+[00:03:04] the number of spillover events into mammals that have been tested and
+[00:03:07] recorded has increased a lot. And so what we have is
+[00:03:11] in more than 50 species, 60 species of mammals, this being
+[00:03:15] detected. We have very few instances of mammals passing this
+[00:03:19] disease between each other. No cases in humans.
+[00:03:22] We have the example of dairy cattle in the US, which we can talk about further.
+[00:03:27] We have a whole population of dairy cattle in the northern hemisphere who have
+[00:03:31] been tested for this disease and not found. Right?
+[00:03:35] And so the vast majority of countries who have dairy cattle and who have this
+[00:03:38] disease have no incidence in dairy cattle.
+[00:03:41] The US had
+[00:03:43] a very small number of spillover events, but then moved their
+[00:03:47] cattle and spread the disease very dramatically in their population.
+[00:03:53] Yes, so it does affect mammals. Things like sea lions and
+[00:03:56] seals, those are impacted because they eat dead birds.
+[00:04:00] Okay.
+[00:04:02] So in Australia, what we have is,
+[00:04:06] they found their first detections of this strain of disease
+[00:04:10] before we did, a couple of weeks before.
+[00:04:13] We're up to, I want to look because it has, yes,
+[00:04:16] 27 confirmed cases now in Australia.
+[00:04:19] The majority of those are in
+[00:04:21] single ocean-going sea birds.
+[00:04:24] But what has overnight been confirmed is that Australia has
+[00:04:27] detected local spread in
+[00:04:31] a population of-
+[00:04:32] Right
+[00:04:33] ... crested terns in South Australia.
+[00:04:35] So this is the pattern that we expect with this disease, that it will come
+[00:04:39] from the Southern Ocean with migratory, not migratory sea birds,
+[00:04:43] with pelagic birds, birds who mostly live in the Southern Ocean
+[00:04:47] and intermittently come to New Zealand and Australia and other islands in the
+[00:04:51] Southern Ocean. And so that's what we've seen.
+[00:04:53] We saw this in the skua in New Zealand on Piha Beach.
+[00:04:56] We saw it in the multiple detections in
+[00:04:59] Australia over the last month or so.
+[00:05:02] What's changed overnight is that that virus has spread
+[00:05:06] to
+[00:05:07] localized populations of terns, and Australia has reported that
+[00:05:11] transmission there.
+[00:05:12] Mm.
+[00:05:13] Okay.
+[00:05:16] Next slide, please.
+[00:05:17] What do we want to talk about? Oh, yes.
+[00:05:20] So we all know that the first case was detected on the 15th of
+[00:05:24] July, a brown skua that was found on Piha Beach acting
+[00:05:28] unexpectedly, allowing people to approach it, which is quite unusual behavior for
+[00:05:31] a skua.
+[00:05:33] That was subsequently submitted to the Wellington Zoo
+[00:05:37] and screened as part of the wildlife testing program that we have with
+[00:05:41] hospitals and found to have clade
+[00:05:44] 2.3.4.4b.
+[00:05:47] The second case was a swamp harrier, a kahu,
+[00:05:51] not a bird that lives entirely in the Southern Ocean. Right?
+[00:05:54] And so that was a little unexpected.
+[00:05:59] No.
+[00:06:00] No?
+[00:06:00] Not a bird that lives entirely in the Southern Ocean.
+[00:06:02] That's, yes.
+[00:06:02] I'm saying yeah. Sorry.
+[00:06:03] Oh, we agree. Sorry. Sorry, Stuart. Apologies, Minister.
+[00:06:06] Being an enthusiastic listener, sorry.
+[00:06:09] Apologies,
+[00:06:12] Minister. Okay. So the second case-
+[00:06:16] found in Carterton, also handed in to a bird rehabilitation
+[00:06:20] center and subsequently to the veterinary hospital at
+[00:06:24] Massey University, and tested as part of ongoing surveillance of
+[00:06:28] wild birds.
+[00:06:29] No other confirmed cases to date, despite many reports from the public,
+[00:06:34] despite ongoing surveillance at these wildlife hospitals.
+[00:06:37] I would say that these wildlife hospitals and this network of surveillance is a
+[00:06:41] high-value surveillance stream.
+[00:06:43] There we have clinicians who are trained in birds and who know what to look for,
+[00:06:47] and they have the ability to sample these animals,
+[00:06:50] and also, importantly, to keep them separate from other animals in their care,
+[00:06:54] so that that doesn't accidentally spread.
+[00:06:57] Right. So no other confirmed cases.
+[00:06:59] The point of the surveillance at this point is that we're looking for the same
+[00:07:02] thing that Australia has detected overnight, right?
+[00:07:05] We're looking for evidence of transmission in New Zealand birds, because
+[00:07:09] that tells us something about what the risk to
+[00:07:12] poultry and these types of other things are.
+[00:07:15] There are limited things that can be done to protect wildlife.
+[00:07:19] But our colleagues in the Department of Conservation have
+[00:07:23] taken good actions to do what can
+[00:07:27] be done for them. But the value of the ongoing surveillance is in
+[00:07:31] terms of increasing biosecurity measures, both for wildlife populations and for
+[00:07:35] poultry,
+[00:07:36] as we learn about how this disease will spread in New Zealand.
+[00:07:40] It seems very unlikely that this disease will be able to be eradicated from New
+[00:07:43] Zealand wildlife. That's not what has happened in any other place in the world.
+[00:07:48] And so we need to focus our efforts on resilience and on
+[00:07:52] protecting the populations that we're able to,
+[00:07:55] because we can't predict or know how this disease will behave
+[00:07:59] here, because it's never been here before, and it's never been in the Southern
+[00:08:02] Ocean before.
+[00:08:05] That's okay.
+[00:08:06] Yep.
+[00:08:06] Good. Thank you.
+[00:08:08] So yeah, the other thing I'll just point out, and we can talk more about it,
+[00:08:12] from a trade point of view, our trade status is not impacted at the
+[00:08:16] moment.
+[00:08:17] That would only come into play when we have infections in poultry.
+[00:08:21] So infections in wild birds does not affect our status in terms of trade
+[00:08:25] and exports.
+[00:08:26] Mr. Chair, I wonder if it could be useful process and order of events for
+[00:08:30] us to ask some questions about the wild birds before we move on to poultry.
+[00:08:34] No.
+[00:08:35] Or if-
+[00:08:35] Should we do the whole thing together?
+[00:08:36] We'll do the whole thing together.
+[00:08:37] Right.
+[00:08:37] But we could start with the... Because obviously it started in the wild birds, so
+[00:08:41] they'll be the first questions probably anyway.
+[00:08:43] Yeah.
+[00:08:44] I'll just pick through really quickly the last few bits in terms of where we've got
+[00:08:47] to of the detection. So look, for the last few years, yeah,
+[00:08:51] we have known of this. We've seen and watched this spreading around the
+[00:08:55] world and moving down South America into Antarctica,
+[00:08:59] and then of course, recently into Australia.
+[00:09:02] So we've been watching this and planning and preparing.
+[00:09:07] We've taken what we call a One Health approach, which is really that alignment
+[00:09:11] between animal health and human health.
+[00:09:13] And so, in our context, that's
+[00:09:16] ourselves, that's MPI for biosecurity with our colleagues in the Department of
+[00:09:19] Conservation and the health ministry, Ministry of Health and Health New
+[00:09:23] Zealand.
+[00:09:24] And the focus that's been agreed, Cabinet agreed in terms of the approach,
+[00:09:28] recognizing, as we've said, that once this gets here
+[00:09:32] in wild birds, it will be something that will ultimately become
+[00:09:36] endemic. It won't be able to be eradicated, and it will be here to stay here.
+[00:09:40] So our focus really is on being able to reduce the impact on
+[00:09:44] our threatened species, on the poultry industry,
+[00:09:47] maintaining supply of poultry meat and eggs,
+[00:09:51] maintaining our market access for trade as far as we possibly can,
+[00:09:55] and protecting human health. Noting what Mary has said around generally it's a low
+[00:09:59] risk, but there is a human health
+[00:10:03] aspect here as well.
+[00:10:05] We've got a government industry agreement arrangement that we signed with the
+[00:10:08] poultry industry last year. It sets out how we will
+[00:10:12] jointly work on and manage and respond to H5N1 and other
+[00:10:16] poultry diseases. And we've also been working a lot with
+[00:10:20] local government, with regional and territorial authorities, regional councils,
+[00:10:23] territorial authorities to plan and prepare.
+[00:10:26] So on the next slide, what's happened
+[00:10:29] since that detection, or the two detections a couple of weeks
+[00:10:33] ago,
+[00:10:35] so we have stood up a response structure and response
+[00:10:39] activities in
+[00:10:41] relation to those two detections.
+[00:10:44] We've
+[00:10:46] carried on with the surveillance programs that Mary has mentioned.
+[00:10:49] It's really valuable, that surveillance.
+[00:10:52] We've seen a notable increase in public notifications to our
+[00:10:55] hotline as well,
+[00:10:57] which is what we want and which is what we encourage.
+[00:11:01] Following the detection in Wellington and Wairarapa,
+[00:11:05] we've done further surveillance
+[00:11:08] across the area.
+[00:11:09] So we've checked the coastline
+[00:11:13] essentially from Castle Point down to Cape Palliser,
+[00:11:16] for any signs of mass mortalities of birds.
+[00:11:18] Haven't found anything out of that.
+[00:11:20] We've checked other significant sites, the likes of Lake Ferry and other
+[00:11:24] places for signs of mortalities. Also, some of the seal
+[00:11:27] colonies that are a bit more
+[00:11:30] important, so Red Rocks here, Cape Palliser.
+[00:11:34] We've also looked at Kaikoura, the seal colony there.
+[00:11:38] We've convened a technical advisory group to advise us on wild
+[00:11:42] birds,
+[00:11:43] with the Kahu detection, to understand more about
+[00:11:47] wild birds and behavior and movement, et cetera, of wild birds that can inform
+[00:11:51] our planning and response going forward.
+[00:11:54] And we've been doing a lot of work and continue to work closely with the poultry
+[00:11:58] industry in terms of their readiness and preparedness
+[00:12:02] to be able to respond. We've reached out to farmers, and we're
+[00:12:06] continuing to reach out to poultry farmers one-on-one to offer
+[00:12:09] support with their plans and their preparedness and work
+[00:12:13] alongside them to help them
+[00:12:15] with their plans and anything they need to do on the farm.
+[00:12:18] As
+[00:12:19] has been said,
+[00:12:20] the biggest thing for the poultry industry is to protect themselves from being
+[00:12:24] infected in the first instance, so putting a lot of focus on that.
+[00:12:28] And we have
+[00:12:30] quick response teams and capability to be able to swing in and-
+[00:12:34] For wherever the next part of the country is, we pick up a case or cases
+[00:12:38] that we can replicate what we've done in the Wairarapa and here off the
+[00:12:42] back of those two detections. And we continue with
+[00:12:46] the public messaging, which like I say,
+[00:12:49] has had really good reach for us,
+[00:12:52] and we've seen that with the notifications.
+[00:12:55] We've
+[00:12:57] got about 1,300 notifications that we've had in the last two weeks coming
+[00:13:00] through to our hotline, which we appreciate and is really
+[00:13:04] valuable. So,
+[00:13:07] with that, I think hopefully that gives you a good overview of where we're at
+[00:13:10] and
+[00:13:12] obviously, questions and discussion. Thank you.
+[00:13:15] Yep. Thank you very much, Stewart.
+[00:13:17] So we've got a series of questions.
+[00:13:19] We're going to Suz, and then to Rachel, and then to Steve, and I might slip one
+[00:13:23] in depending on what their questions are.
+[00:13:25] Okay. I'll be quick. Well, I've got a couple of questions actually, but you talk
+[00:13:29] about watching, planning and preparing, and you're supporting farmers in the
+[00:13:32] industry, and I've just heard from a number of...
+[00:13:35] I've got some egg producers in my electorate who are
+[00:13:38] concerned about what's going to happen to them.
+[00:13:43] So in particular, free range, just to get kind of specific, in particular, free
+[00:13:46] range egg farmers. If they end up having to lock up their birds, how does it
+[00:13:50] work
+[00:13:51] in terms of packaging? How long can they call them free range when they're
+[00:13:55] not free range? But
+[00:13:57] if you could just elaborate on how you're communicating with these guys, because I
+[00:14:01] think they feel there's a big strategy up here, but in terms of
+[00:14:05] them, and some of them export as well, what the impacts of exporting will be.
+[00:14:09] Yeah.
+[00:14:09] Just how you're reassuring those guys.
+[00:14:12] Yeah. Okay. A few things in there.
+[00:14:16] So
+[00:14:18] this is going to be
+[00:14:20] something that is ultimately going to be here and spread,
+[00:14:24] and we have to learn to manage and live with it.
+[00:14:27] We're in the very early
+[00:14:29] days and very early stages of that. We've had the two detections.
+[00:14:32] We haven't had anything since then, but we know there will be more.
+[00:14:36] The exact pathway in terms of how it'll play out
+[00:14:40] is uncertain.
+[00:14:43] We don't know how all the different New Zealand bird
+[00:14:46] species will
+[00:14:49] react or how they will be impacted and where and how it could spread and
+[00:14:52] the prevalence and how it may stay in certain parts of the country versus
+[00:14:56] not.
+[00:14:58] However, at the moment,
+[00:15:00] as you know, a number of poultry operators and farmers across the
+[00:15:04] country have taken that decision to house birds given
+[00:15:09] the uncertainty. So we've had those two detections.
+[00:15:12] That is, of course, a business decision to house
+[00:15:16] chickens. We have worked with the poultry industry around
+[00:15:20] stickers and messaging for consumers in terms of why birds are being
+[00:15:23] housed, given the outbreak. We've worked with the Commerce
+[00:15:27] Commission as well in terms of the arrangements around
+[00:15:31] free range and the reasons why birds would be being housed.
+[00:15:35] As we move-
+[00:15:36] So has that been communicated to all the
+[00:15:38] egg farmers?
+[00:15:38] Yep. So we've worked with both industry associations
+[00:15:42] on that, and they have leaned in heavily on that in terms of
+[00:15:47] the approach with that. As we move forward, and Mary can talk a
+[00:15:51] little bit more about this, what we'll likely see with
+[00:15:55] bird flu and what other countries like the UK have seen,
+[00:16:00] this comes in waves. So what's happened in the UK
+[00:16:04] with poultry and free range, so they still have free range.
+[00:16:07] They still have free range farming.
+[00:16:09] But there've been periods where the birds get housed when there's a
+[00:16:12] prevalence of outbreak or infection,
+[00:16:16] and this will likely boil down to regional level.
+[00:16:20] So in the UK, that's what's happened.
+[00:16:21] The birds have been housed for periods, and then when the
+[00:16:25] prevalence in wildlife and outbreaks
+[00:16:28] reduces and diminishes, then the birds can go outside again.
+[00:16:32] And that's
+[00:16:34] where we will get to. But there's
+[00:16:38] a bit of a road ahead of us in terms of all of that and how that
+[00:16:42] will play out.
+[00:16:44] So after six weeks, if the birds are inside for
+[00:16:47] precautionary measures, obviously, can I still put them in a box and say they're
+[00:16:51] free range or do I have to order new packaging?
+[00:16:53] That
+[00:16:54] will
+[00:16:55] depend on the ongoing prevalence and
+[00:16:59] the status of the infection of the disease
+[00:17:03] in the region or at whatever level.
+[00:17:07] So yeah. So let's say at the regional level.
+[00:17:10] There will come a point, and this is the UK experience, there'll come a point where
+[00:17:13] after a period of time, whether it's six weeks or a month or a couple of months,
+[00:17:18] with the data and the surveillance and what we're seeing,
+[00:17:23] there may be a degree of comfort that
+[00:17:25] actually it's not prevalent or it's not as prevalent as
+[00:17:29] it has been in that area,
+[00:17:32] and then it may be safe for the birds to actually go outside.
+[00:17:35] So
+[00:17:37] like I say, again, that's what
+[00:17:41] we will find as we move into this. But where birds need to be
+[00:17:45] housed for their protection,
+[00:17:47] that is a legitimate thing to do to protect birds from being
+[00:17:51] infected.
+[00:17:52] I'm not trying to tell you how to do your job, but just from the feedback I've
+[00:17:55] received from egg producers, I think it would be really helpful to
+[00:17:59] have a step-by-step process like we did for COVID or like we
+[00:18:03] have with the fuel crisis.
+[00:18:04] Yeah.
+[00:18:04] Once we get a one, two, three, four, what happens at each stage, I think
+[00:18:08] that would be really helpful for the industry.
+[00:18:10] Yep. And that is where we'll get to that.
+[00:18:12] Yes. So we do have that drafted up. One of the things we don't understand for New
+[00:18:16] Zealand is how this will spread in wild birds, and so we have no
+[00:18:20] information right now about spread in native birds in New Zealand because there
+[00:18:24] is none. But that is exactly where we need to get to.
+[00:18:26] So that's the purpose of our bird tag group.
+[00:18:29] So learning about, and the purpose of all of this background surveillance is
+[00:18:33] so that we can get to a point where we can say, "This area or this region is
+[00:18:37] now green. This one is now amber. This one is now red." And we can
+[00:18:41] communicate that both to the Commerce Commission and to colleagues in
+[00:18:45] industry so that they can make decisions based on that.
+[00:18:49] Yeah.
+[00:18:49] And communicate it before so that-
+[00:18:51] Yes.
+[00:18:51] Yes.
+[00:18:51] Thank you very much. That's really helpful.
+[00:18:53] Rachel.
+[00:18:53] I have a sub on this, and then I do-
+[00:18:55] Yep. Yep
+[00:18:55] ... have one that's slightly different.
+[00:18:57] So,
+[00:18:58] my understanding just in terms of layer hens is that MPI, this is slightly
+[00:19:02] related to bird flu, but generally as well, is currently
+[00:19:06] consulting on changing the,
+[00:19:09] per square meter
+[00:19:11] number of hens that are allowed inside.
+[00:19:13] So, outdoor is currently nine, oh, sorry, seven
+[00:19:18] per square meter. No, nine per square meter and seven indoors.
+[00:19:22] Is that currently what it is? And it's been changed, so there would be nine per
+[00:19:25] square meter indoors, but it's not gonna be temporary, it's actually gonna be
+[00:19:28] permanent. So, can understand why something could be temporary in
+[00:19:32] order to be able to house birds inside, but I'm just interested in why
+[00:19:36] the consultation is looking at it being permanent.
+[00:19:40] My understanding is it's temporary.
+[00:19:42] Your understanding is it's temporary?
+[00:19:43] Yes.
+[00:19:44] Can you check that with us and just come back?
+[00:19:46] Because I think the feedback I've had from
+[00:19:49] people within the animal welfare industry is their understanding is it's permanent,
+[00:19:52] and that's raised some concern.
+[00:19:54] All right.
+[00:19:54] So I'd be really keen to know whether that is definitely temporary.
+[00:19:57] Because I don't think there's any argument about having some temporary measures in
+[00:20:00] place to support.
+[00:20:01] Yeah.
+[00:20:02] Right.
+[00:20:02] Yeah. And I've got a-
+[00:20:03] Your primary
+[00:20:05] ... other primary. My primary is do you have the resources you need to be able to,
+[00:20:08] to manage all of this? Because obviously you've got
+[00:20:12] all the communication you're having to do as well, of all the research, all of the
+[00:20:15] lead agency work, and same for DOC.
+[00:20:18] There's a huge amount of impact on your resourcing.
+[00:20:22] Yeah.
+[00:20:22] Have government given you any extra resourcing that's both for, for MPI and for
+[00:20:26] DOC, or are you being expected to cover this from within your baselines?
+[00:20:30] Because it is, it's a huge project, um, and we want to
+[00:20:34] acknowledge that, and, but just recognizing that it may require more resource.
+[00:20:39] Yeah. So we do. We do have enough resourcing, and budget to cover
+[00:20:43] everything we're doing.
+[00:20:44] We also, so MPI is also... We're a large organization with
+[00:20:49] a good footprint across the country.
+[00:20:52] So what we do, and like we do with all our other responses,
+[00:20:55] we lean in and leverage on our presence of MPI
+[00:20:59] staff out in the regions and outside of Wellington and in all our offices.
+[00:21:04] So, that could be fishery offices, forestry staff, our on-farm
+[00:21:07] support people. So we, we are well-resourced to be able to
+[00:21:11] respond.
+[00:21:13] And as this scales up and down, we're able to flex around
+[00:21:17] it.
+[00:21:18] And if we,
+[00:21:20] if we need to surge in more resource,
+[00:21:23] and operationally, we also have
+[00:21:26] external field service providers, like we've done in other responses that we-
+[00:21:30] So government haven't given you any extra funding?
+[00:21:32] We're funded at the moment for all what we need to do.
+[00:21:36] Yeah.
+[00:21:36] Like with all biosecurity response activities and large programs,
+[00:21:41] if there is a need for additional funding in the forward
+[00:21:45] program or the activity, then that's
+[00:21:49] something we work through with ministers and cabinets in terms of funding.
+[00:21:51] What about for DOC? Because DOC, obviously, we know historically DOC does have
+[00:21:55] funding
+[00:21:56] challenges. So just because obviously for DOC there's a lot of
+[00:22:00] consultation and work with
+[00:22:03] wildlife sanctuaries, iwi, a lot of community groups that do
+[00:22:07] work with
+[00:22:08] wildlife. I know in my own community we've got places like Naturland and the Brock,
+[00:22:11] and that they've been working closely with DOC.
+[00:22:13] So recognizing that has a lot of resource.
+[00:22:15] So just keen to know if DOC is feeling resourced enough to be able to
+[00:22:18] respond.
+[00:22:19] Yeah. We are. We're in a very similar situation to MPI.
+[00:22:23] We've been planning for several years now for this.
+[00:22:26] It's not a surprise. We have stood up a small
+[00:22:30] team internally, using existing resources, so similar to
+[00:22:34] MPI. We're just shifting resource where we need it, and we've got a
+[00:22:38] big workforce in the regions to be able to draw on.
+[00:22:42] So at the moment, we have everything we need.
+[00:22:45] I think we'll keep an eye on that. For the foreseeable future, that's
+[00:22:48] absolutely fine. And as Stu said, if there comes a point where it's
+[00:22:52] bigger than we anticipated, then we'll take a look at what we need and ask for
+[00:22:56] more resource.
+[00:22:57] Cool.
+[00:22:58] Steve.
+[00:22:59] Sort of on that question,
+[00:23:02] the likes of BirdCare Aotearoa in West Auckland, who do
+[00:23:06] extraordinary work, formerly Bird Rescue.
+[00:23:09] Primarily, well, they focus entirely now on native species.
+[00:23:12] They're constantly dealing with the extraordinary
+[00:23:16] cohort of endemic seabirds that we have in terms of
+[00:23:20] the COVID. We've got the highest population of endemic seabirds of any city in the
+[00:23:24] world. Many of them are rare. Obviously, as you've articulated
+[00:23:28] to us, what we know from the pattern of this
+[00:23:31] flu is that it hits wild and native bird populations first.
+[00:23:35] Sure.
+[00:23:36] Are you actively resourcing the likes of BirdCare
+[00:23:40] Aotearoa? I know they've made a request to the minister that they need, they want
+[00:23:44] extra staffing, and they want to set themselves up so that when we do get cases,
+[00:23:47] which is probably an inevitability, that those
+[00:23:50] existing institutions that have been working for decades
+[00:23:54] in the community to do bird recovery
+[00:23:57] are fully equipped to deal with it.
+[00:24:01] Is there funding for those, the likes of those organizations, those
+[00:24:05] NGOs around the country?
+[00:24:08] So I think the advice at the moment, is
+[00:24:12] that we want people to be working through MPI.
+[00:24:15] So if there are sick and dead birds, we don't
+[00:24:19] want people picking them up. We want them to be
+[00:24:22] calling the hotline and letting the MPI surveillance team to manage that.
+[00:24:27] Sure. I mean, these are not people.
+[00:24:28] These are like expert-
+[00:24:30] ... bird rescue organizations who are,
+[00:24:33] they're doing this day in and day out.
+[00:24:35] And their exact point is that we don't want the public
+[00:24:39] applying bizarre methodologies to try and deal with birds.
+[00:24:42] We want them going to existing institutions.
+[00:24:44] But if we get a big increase in the number of infected wild birds,
+[00:24:48] surely we want to be utilizing those existing organizations in the community
+[00:24:52] Yeah. So as Mary said, what we have had in place
+[00:24:57] with a network of these wildlife hospital facilities around the
+[00:25:01] country is that we've had a surveillance program with them for the
+[00:25:05] last period, which has been incredibly valuable.
+[00:25:08] It's background surveillance for any sort of illness or disease, and we
+[00:25:12] pay for and fund for that activity.
+[00:25:15] As we go forward with this,
+[00:25:18] that network still will continue to be incredibly
+[00:25:22] valuable. And I think the questions you're asking as we move
+[00:25:26] forward into this,
+[00:25:28] those are all the things we need to work through and consider in terms of how we
+[00:25:32] maintain a good network of those facilities
+[00:25:36] across the country that continue to provide that value as
+[00:25:40] we monitor and track and see how this
+[00:25:44] virus spreads.
+[00:25:44] So there could be public money to support them to ramp up their operations.
+[00:25:47] We're willing to work through in terms of what we currently do with
+[00:25:50] them, what we need in terms of a national network and distribution, and then
+[00:25:54] the capability. And I think that's what we need to work through and figure
+[00:25:58] out.
+[00:25:59] You might have some more time. I've got another question on the-
+[00:26:01] Yeah, I've got a couple.
+[00:26:03] So, when we get to the problem of infections in
+[00:26:07] poultry populations, layer hens or broiler hens,
+[00:26:11] there's questions about when you have to do a whole
+[00:26:15] flock
+[00:26:17] eradication. Is that something you're envisaging?
+[00:26:19] You talked about managing it, but
+[00:26:22] if those things are occurring, one specific question is to do with
+[00:26:26] the use of nitrogen or
+[00:26:30] gas.
+[00:26:31] Yep.
+[00:26:32] And apparently, we have a requirement that there'd be 2%
+[00:26:35] oxygen,
+[00:26:38] but that's not consistent with the DEFRA requirements overseas, and
+[00:26:42] in fact means that we use more nitrogen than is necessary,
+[00:26:45] which reduces our efficiency.
+[00:26:50] And there's a request specifically from SPCA that we
+[00:26:53] allow a 5% oxygen level,
+[00:26:57] which allows less use of the nitrogen, which gives us more
+[00:27:00] resource and
+[00:27:03] allows a
+[00:27:05] more efficient dealing with that obvious situation we don't
+[00:27:09] want to be in, but if we're in it.
+[00:27:12] And I wonder if there's an opportunity to consider changing the
+[00:27:16] parameter of the 2% to 5% oxygen.
+[00:27:19] Yep. Yeah. So I'll get Mary to talk to the nitrogen specifically,
+[00:27:23] but yes. So on that request, yes, well, of
+[00:27:27] course, we can look at that and work that through.
+[00:27:31] The first part of your question in terms of the culling,
+[00:27:35] so when we talk about managing it,
+[00:27:37] what we ultimately want to do is protect as far as possible poultry
+[00:27:41] operations from becoming infected.
+[00:27:43] Of course. Yep.
+[00:27:43] So that's the start. But yes, if a poultry farm
+[00:27:47] or a broiler meat facility does
+[00:27:50] become infected,
+[00:27:52] the birds do need to be culled.
+[00:27:55] Yep.
+[00:27:55] Most of them will die from the virus.
+[00:27:59] It's a very high mortality rate. So you're talking 90
+[00:28:03] to 95 plus percent would die from the virus in any case.
+[00:28:07] Yep.
+[00:28:08] So it does need to be, the birds do need to be culled,
+[00:28:12] and it needs to be fully cleaned out and disinfected so that birds going back in
+[00:28:16] don't get infected.
+[00:28:18] Yep.
+[00:28:18] But yeah. Mary, did you want to comment more on nitrogen?
+[00:28:21] On
+[00:28:22] nitrogen, this is not a
+[00:28:26] documented specification in the code.
+[00:28:28] That it has to be, no. That it has to be a particular percentage.
+[00:28:31] Okay.
+[00:28:31] So we will raise it. We'll discuss it with industry and
+[00:28:35] understand where this specification comes from, but whatever is
+[00:28:38] the best thing for the animals and for efficiency is of course what we should be
+[00:28:42] doing.
+[00:28:42] This is not encoded.
+[00:28:44] And there's a preference for whole house gassing rather than containerized gassing,
+[00:28:47] apparently from a welfare point of view, and that's what-
+[00:28:49] Yes
+[00:28:49] ... they've moved to in other jurisdictions. Is that correct?
+[00:28:52] This is to do with the amount of handling for the animals, right?
+[00:28:55] So if there are very few, then a container is
+[00:28:58] appropriate. But if there are many, many, many, then of course disturbing
+[00:29:02] them the least we can is preferable.
+[00:29:04] Yeah. Okay. So,
+[00:29:06] we've got a couple of questions.
+[00:29:08] All
+[00:29:10] wild animals that are detected with the
+[00:29:14] virus,
+[00:29:16] they'll have to be euthanized as well, won't they?
+[00:29:19] No.
+[00:29:19] No?
+[00:29:20] No. So
+[00:29:24] wild birds
+[00:29:26] across the world have avian influenza viruses.
+[00:29:31] Wild birds across much of the world are now known to have
+[00:29:35] 2.3.4.4b. Some of those wild birds
+[00:29:39] have been severely impacted in terms of their populations and
+[00:29:42] their populations have managed to bounce back over a couple of seasons.
+[00:29:46] So they've developed a resistance.
+[00:29:47] Yep. Yes. So they can form immunity.
+[00:29:50] Okay.
+[00:29:50] So there is no evidence that
+[00:29:54] euthanizing wildlife helps this problem.
+[00:29:56] Right.
+[00:29:56] This is not one of the strategies.
+[00:29:58] And my second question is around vaccine availability
+[00:30:02] and
+[00:30:04] the planned rollout of vaccinations, because currently
+[00:30:08] it's my understanding that it's DOC staff that are,
+[00:30:12] with the five or six named species that they're
+[00:30:15] working on. Are they working with
+[00:30:19] the vets that work in the likes of sanctuaries, et cetera,
+[00:30:23] so that those vets will be able to administer the
+[00:30:27] vaccine if needed without having
+[00:30:31] DOC staff-
+[00:30:32] Mm
+[00:30:32] ... having to travel to or whatever?
+[00:30:36] Yes. So we have been training up
+[00:30:39] vets in a few places.
+[00:30:42] One of them is Pukaha Mount Bruce. We now have
+[00:30:46] people trained there and then also at a couple of the zoos
+[00:30:50] as well. So we're able to accelerate in that
+[00:30:54] way the number of vaccinations that we can undertake.
+[00:31:00] Oh, sorry. It's kind of following on from Steve's question, but
+[00:31:05] back to the poultry farmers or the egg farmers.
+[00:31:07] As part of your considerations to support the industry, I just wondered, have you
+[00:31:11] considered compensation in, say, in the case of a mass culling's required
+[00:31:15] like we did for Mycoplasma bovis? Or is there any consideration
+[00:31:19] of that? And also, have you also looked at the economic implications of
+[00:31:23] this for the New Zealand economy in monetary terms, I
+[00:31:27] guess, how this could progress and what effect it could
+[00:31:31] have?
+[00:31:32] So the approach here,
+[00:31:34] as we've talked through, the approach
+[00:31:38] here is that the industry
+[00:31:40] is going to need to live and manage with this because it'll be a thing.
+[00:31:45] It'll become an endemic disease, meaning it can't be
+[00:31:48] eradicated. So we will not be looking to
+[00:31:52] run what we would normally do with a biosecurity response, where something can be
+[00:31:56] contained, eradicated, and eliminated, and you get rid of it, and it's not in
+[00:31:59] New Zealand. This is not that situation.
+[00:32:03] So what that means is that we won't
+[00:32:07] be seeking to exercise powers under the Biosecurity Act to
+[00:32:11] undertake culling and so on,
+[00:32:14] which means that compensation is not payable.
+[00:32:18] The other thing here also is that compensation is
+[00:32:22] payable when we run a response and we exercise those powers
+[00:32:26] to get rid of something, and compensation is also
+[00:32:30] only payable for
+[00:32:32] us directing or undertaking activity under
+[00:32:36] powers. Compensation isn't payable for the impacts or the
+[00:32:40] effects of a disease or a virus. So in this case, where you have
+[00:32:44] 90-plus, 95-plus percent mortality,
+[00:32:48] that would not be compensable in any event because those birds
+[00:32:52] will die from the virus. So the approach here
+[00:32:56] is that the industry needs to,
+[00:33:00] obviously, like I say, protecting from being infected is the first thing.
+[00:33:03] But going forward with this virus in New Zealand,
+[00:33:07] that the poultry industry lives with and manages with this
+[00:33:11] being prevalent in wild populations.
+[00:33:14] We're obviously doing all the work we're doing with the industry to build that
+[00:33:17] resilience and that capability and the preparedness, et cetera, and we'll continue
+[00:33:21] to do that. And this is the approach under the government industry
+[00:33:25] agreement framework that we have agreed with the poultry industry, that
+[00:33:29] this is
+[00:33:31] how collectively we're going to have to manage with this going
+[00:33:35] forward. So those are the reasons why
+[00:33:38] compensation under the Biosecurity Act is not something
+[00:33:43] that
+[00:33:44] is really going to be a provision.
+[00:33:47] Okay.
+[00:33:47] Unless we find circumstances or
+[00:33:51] situations where we do need to exercise a power, but that's not what we're
+[00:33:55] anticipating is going to be the way this gets managed going
+[00:33:58] forward.
+[00:33:59] Okay, thanks. I'd just reiterate that it sounds like you're talking with the
+[00:34:02] industry, but I would implore you to make sure that that's trickling down to the
+[00:34:06] actual individual farmers, because anecdotally, that's what I've heard on the
+[00:34:09] ground, that they're not aware. And as I said, the step-by-step program will be
+[00:34:13] fantastic.
+[00:34:14] We'll follow Chris.
+[00:34:15] Yeah. Thank you.
+[00:34:16] Rachel's got the follow-up.
+[00:34:16] Yeah. No, I just want to clarify. I had clarification.
+[00:34:19] There's a newsroom story that the changes to the number of
+[00:34:23] hens is
+[00:34:24] planned to be permanent, and that is being consulted on by NAWAC.
+[00:34:28] So I would appreciate MPI coming back with-
+[00:34:30] We'll clarify that
+[00:34:30] ... information on why looking at it being permanent as opposed to temporary.
+[00:34:35] Well, thank you very much for coming in today.
+[00:34:38] Thank you. That was really helpful.
+[00:34:40] And good luck.
+[00:34:42] Thank you.
+[00:34:43] Good luck.
+[00:34:43] Thank you. Thanks.
+[00:34:45] And yeah.
+[00:34:47] We'll probably get you in again at some stage.
+[00:34:50] Sure.
+[00:34:50] Keep us up to date.
+[00:34:52] Thank you very much.
+[00:34:52] No, thank you.
+[00:34:57] So they say.
