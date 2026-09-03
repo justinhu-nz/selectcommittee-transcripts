@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:02:55.304120+00:00",
+  "generated_at": "2026-09-03T07:14:07.133010+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1195842655",
   "title": "2026/07/22 RR",
@@ -7,7 +7,7 @@
   "published_at": "20260722",
   "published_display": "2026-07-22",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 1978,
   "source_labels": "Vimeo Showcase 10828818",
   "transcript": {

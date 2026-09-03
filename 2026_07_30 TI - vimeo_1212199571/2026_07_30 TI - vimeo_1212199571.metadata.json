@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:03:15.466767+00:00",
+  "generated_at": "2026-09-03T07:14:19.949980+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1212199571",
   "title": "2026/07/30 TI",
@@ -7,9 +7,9 @@
   "published_at": "20260730",
   "published_display": "2026-07-30",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 5200,
-  "source_labels": "Vimeo Showcase 10758273",
+  "source_labels": "Parliament Page transport-and-infrastructure, Parliament Page transport-and-infrastructure, Vimeo Showcase 10758273",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

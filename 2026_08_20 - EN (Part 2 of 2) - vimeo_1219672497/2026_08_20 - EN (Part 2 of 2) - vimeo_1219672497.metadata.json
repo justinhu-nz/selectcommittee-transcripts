@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:04:44.460499+00:00",
+  "generated_at": "2026-09-03T07:15:22.258929+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1219672497",
   "title": "2026/08/20 - EN (Part 2 of 2)",
@@ -7,9 +7,9 @@
   "published_at": "20260820",
   "published_display": "2026-08-20",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2994,
-  "source_labels": "Vimeo Showcase 10758100",
+  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758100, Parliament Page environment, Parliament Page environment",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",
