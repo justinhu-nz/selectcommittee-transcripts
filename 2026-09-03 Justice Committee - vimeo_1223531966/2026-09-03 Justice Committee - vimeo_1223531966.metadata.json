@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:18:08.340889+00:00",
+  "generated_at": "2026-09-03T07:54:38.773217+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1223531966",
   "title": "2026-09-03 Justice Committee",
@@ -7,9 +7,9 @@
   "published_at": "20260903",
   "published_display": "2026-09-03",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_rss_pub_date",
+  "published_date_source": "vimeo_event_updated_time",
   "duration_seconds": 1214,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page justice, Parliament Page justice",
+  "source_labels": "Parliament Page justice, Parliament Page justice",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "mi-x-autogen",

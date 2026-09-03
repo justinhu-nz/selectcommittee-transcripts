@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T07:18:57.204994+00:00",
+  "generated_at": "2026-09-03T07:55:51.180769+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1219356270",
   "title": "2026/07/06 - MA Part 1",
-  "url": "https://vimeo.com/1219356270",
+  "url": "https://player.vimeo.com/video/1219356270?h=6967794c66",
   "published_at": "20260706",
   "published_display": "2026-07-06",
   "published_date_uncertain": false,
-  "published_date_source": "parliament_video_title",
+  "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 1320,
   "source_labels": "Parliament Page maori-affairs, Parliament Page maori-affairs, Vimeo Showcase 10758262",
   "transcript": {

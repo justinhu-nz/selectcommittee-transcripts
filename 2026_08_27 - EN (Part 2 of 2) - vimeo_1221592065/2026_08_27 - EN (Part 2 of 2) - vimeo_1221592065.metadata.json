@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:15:21.100028+00:00",
+  "generated_at": "2026-09-03T07:56:33.737375+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1221592065",
   "title": "2026/08/27 - EN (Part 2 of 2)",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2811,
-  "source_labels": "Parliament Page environment, Parliament Page environment, Vimeo Showcase 10758100",
+  "source_labels": "Vimeo Showcase 10758100",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

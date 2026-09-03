@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:14:49.959641+00:00",
+  "generated_at": "2026-09-03T07:56:03.619231+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1219360026",
   "title": "2026 08 26 - HE",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 1613,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758257",
+  "source_labels": "Vimeo Showcase 10758257",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

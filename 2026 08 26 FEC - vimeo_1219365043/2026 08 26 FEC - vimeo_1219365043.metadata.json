@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:15:14.695468+00:00",
+  "generated_at": "2026-09-03T07:56:28.352392+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1219365043",
   "title": "2026 08 26 FEC",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 966,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758103, Parliament Page finance-and-expenditure, Parliament Page finance-and-expenditure",
+  "source_labels": "Vimeo Showcase 10758103",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

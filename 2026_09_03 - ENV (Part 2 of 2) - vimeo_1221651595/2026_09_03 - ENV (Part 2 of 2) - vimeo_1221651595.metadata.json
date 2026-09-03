@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:15:20.517586+00:00",
+  "generated_at": "2026-09-03T07:56:33.136981+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1221651595",
   "title": "2026/09/03 - ENV (Part 2 of 2)",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 3229,
-  "source_labels": "Vimeo RSS nzparliament, Parliament Page environment, Parliament Page environment, Vimeo Showcase 10758100",
+  "source_labels": "Vimeo Showcase 10758100",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

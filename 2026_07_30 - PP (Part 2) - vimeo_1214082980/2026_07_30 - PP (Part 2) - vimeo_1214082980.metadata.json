@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:14:31.605251+00:00",
+  "generated_at": "2026-09-03T07:55:46.125130+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1214082980",
   "title": "2026/07/30 - PP (Part 2)",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2101,
-  "source_labels": "Parliament Page primary-production, Parliament Page primary-production, Vimeo Showcase 10758268",
+  "source_labels": "Vimeo Showcase 10758268",
   "transcript": {
     "source": "vimeo_vtt",
     "language": "en-x-autogen",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:14:18.735230+00:00",
+  "generated_at": "2026-09-03T07:55:33.425754+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1215981180",
   "title": "2026/08/20 - TI",
@@ -9,7 +9,7 @@
   "published_date_uncertain": false,
   "published_date_source": "vimeo_showcase_title",
   "duration_seconds": 2282,
-  "source_labels": "Vimeo RSS nzparliament, Vimeo Showcase 10758273, Parliament Page transport-and-infrastructure, Parliament Page transport-and-infrastructure",
+  "source_labels": "Vimeo Showcase 10758273",
   "transcript": {
     "source": "whisper",
     "language": "mi",
