@@ -1,0 +1,399 @@
+Title: 2026-08-19 HE
+URL: https://vimeo.com/1219360026
+Published: 2026-08-19
+Duration: 00:26:53
+
+[00:00:24] Well, good morning, and thank you for being available to the committee this
+[00:00:29] morning. I'm Simon Law, chair of the Health Committee.
+[00:00:30] You'll see members around the table.
+[00:00:33] It'd be great if you could please briefly introduce yourselves and then give a
+[00:00:38] short overview, and then we can move into questions.
+[00:00:41] We'll be here for 30 minutes this morning.
+[00:00:43] Yep.
+[00:00:43] Thank you.
+[00:00:44] Thanks. Morning, and thank you for the opportunity to appear before you today.
+[00:00:49] My name is Kevin Ross. I chair the New Zealand Artificial Limbs Service Board,
+[00:00:55] which is more commonly known as the ALS, and I also bring a personal perspective of
+[00:01:01] nearly 40 years with a family member living with limb loss and using prosthetic
+[00:01:06] services. Joining us today online is Corin Barrett, president of
+[00:01:12] the Amputee Federation of New Zealand, who not only brings the perspective of lived
+[00:01:17] experience with limb loss but is an advocate for the amputee and limb different
+[00:01:21] community of Aotearoa. And here in person is Dr.
+[00:01:26] Dawn Adea, a rehabilitation physician who practices with both Health New Zealand
+[00:01:32] and ALS in Auckland and nationally through telehealth.
+[00:01:37] Dawn also serves as Health New Zealand's nominee on the ALS board.
+[00:01:41] And we have Sean Gray, our chief executive officer at ALS.
+[00:01:47] So today we'd like firstly to provide an overview of the New Zealand Artificial
+[00:01:51] Limb Service, including our approach and model of care, how we're funded, and how
+[00:01:56] outcomes are assessed. This is intended to address the committee's overarching
+[00:02:00] questions. We'd then like to provide additional clarification on information about
+[00:02:05] ALS that the committee has earlier been presented with.
+[00:02:09] And finally, I'll briefly note recent developments as ALS explores opportunity to
+[00:02:14] strengthen service delivery. I'm planning to leave plenty of time for questions,
+[00:02:18] which we welcome.
+[00:02:21] ALS is an autonomous Crown entity established under the Artificial Limb Service Act
+[00:02:26] and is responsible to the Minister for Social Development.
+[00:02:31] Our primary purpose is to enable independent and productive lives for people who
+[00:02:36] need prosthetic and orthotic devices.
+[00:02:39] More specifically, we design, manufacture, repair, and maintain highly
+[00:02:44] individualized medical devices, upper and lower limb prosthetics and orthotics,
+[00:02:49] supported by a wraparound care model of rehabilitation and peer support.
+[00:02:54] It is an integrated, coordinated service approach that looks to remove siloed
+[00:02:59] thinking and support patients' needs throughout their entire rehabilitation
+[00:03:04] journey. It is important to note that amputees often have very complex needs.
+[00:03:09] The prosthetic device itself is only one component of an amputee's long-term needs,
+[00:03:15] and our service is often a lifetime relationship with those we care for.
+[00:03:21] ALS services are provided at 10 service centers nationwide, supported by 14
+[00:03:25] regional clinics and a mobile workshop, and are delivered by our 220-plus
+[00:03:31] strong expert workforce, which includes 13 medical specialists, 60
+[00:03:37] orthotists/prosthetists, 25 appliance technicians, 21
+[00:03:43] physio and occupational therapists, five nurses, and 120 peer support
+[00:03:48] volunteers.
+[00:03:51] All ALS services are delivered under service contracts with Health New Zealand and
+[00:03:56] ACC. Under those contracts, we currently provide prosthetic services to some
+[00:04:01] 4,598 amputees, up from 4,389 in
+[00:04:07] 2020, and orthotic services to 11,269 patients,
+[00:04:13] up from around 3,324 in 2020.
+[00:04:19] Our model of care, our funding, and the performance requirements attached to this
+[00:04:24] are all defined through the service contracts with ACC and Health New Zealand.
+[00:04:29] The obligations embedded in these contracts form the basis of our accountability
+[00:04:33] and our reporting framework.
+[00:04:36] We're a world leader in prosthetic 3D printing, with approximately 60% of the lower
+[00:04:41] limb prosthetic sockets now produced using advanced 3D printing technology.
+[00:04:47] This level of adoption is significantly higher than most international services and
+[00:04:51] is improving consistency, efficiency, and patient outcomes.
+[00:04:57] Additionally, we are active investing in our future digital enablement, supported
+[00:05:01] by strong organizational procedures with robust governance and clearly defined
+[00:05:05] business and clinical use cases for AI to enhance service delivery and improve
+[00:05:11] patients' outcomes.
+[00:05:13] We are regularly independently audited against World Health Organization standards,
+[00:05:18] contract requirements, allied health standards, and financial accountability
+[00:05:22] standards.
+[00:05:24] I'll now hand over to Sean, who will provide some extra insights on the information
+[00:05:28] that's previously presented to the committee.
+[00:05:32] Thanks, Kevin. Kia ora, everybody.
+[00:05:34] Firstly, I'd like to talk to you some insights in and around patient choice, around
+[00:05:39] our prosthetic service that was discussed previously.
+[00:05:43] What we hear from our service users is they want coordinated and connected
+[00:05:46] services. They want the right people at the right time across their rehabilitation
+[00:05:52] journey with us. This feedback has led to a continuum of care model that
+[00:05:57] extends beyond the provision of the prosthetic device itself, and it ensures
+[00:06:03] patients, both now and in the future needs, have the lifelong support for the
+[00:06:07] services that they need. A very important part of this is around patient choice,
+[00:06:13] and this is an integral part of our service specifications and supporting policies
+[00:06:17] and procedures that we have with our contracts with ACC and Health New Zealand.
+[00:06:24] We have agreed mechanisms in place for second opinion.
+[00:06:28] They include accessing multidisciplinary teams, the use of clinical buddy
+[00:06:33] arrangements, reviews by other prosthetists or specialists within the center, and
+[00:06:39] referred to other centers as appropriate, and we can also access some external
+[00:06:44] specialist expertise when it's required.
+[00:06:48] For the highly specialized or complex cases where we have need for support,
+[00:06:54] we may access national experts and/or international experts, depending on the
+[00:07:00] patient's needs.
+[00:07:02] Also, we're in the early stages of developing subcontracting
+[00:07:08] relationships within our contract structures for accessing second opinion and
+[00:07:13] clinical services for them to provide.
+[00:07:16] This is via a fee for service arrangement.
+[00:07:20] We will give existing caseload, send second opinion referrals through.
+[00:07:25] We're also planning on supporting them by allowing access to our professional
+[00:07:29] development efforts, which are substantial, and also using our patient management
+[00:07:35] system to ensure that we have all the information required for the contracting
+[00:07:39] management.
+[00:07:41] Ultimately, the decision regarding referrals outside of the contract for prosthetic
+[00:07:46] services sits with ACC and Health New Zealand.
+[00:07:50] A few other things to note in and around the market that we operate in.
+[00:07:55] We operate in the competitive rehabilitation, disability, and injury markets.
+[00:08:01] These are government-funded in the prosthetic and orthotic side of things with
+[00:08:07] procurement is through open and competitive tendering processes, with one recent
+[00:08:12] exception. We compete alongside private providers for these allied health and
+[00:08:17] rehabilitation contracts. We understand from ACC they have 20 listed
+[00:08:23] providers there from both prosthetists and orthotists to provide services in the
+[00:08:27] space that we operate.
+[00:08:31] A review of the government electronic tendering service shows that in the last 10
+[00:08:36] years, there were 10 orthotic service procurement opportunities and one national
+[00:08:41] prosthetic procurement opportunity.
+[00:08:44] These procurement opportunities allowed all eligible providers with the opportunity
+[00:08:49] to participate fully and compete for the government work.
+[00:08:53] Across these opportunities, we were awarded seven contracts where ACC
+[00:08:58] assessed us, along with Health New Zealand, as the most appropriate provider
+[00:09:03] against the published procurement criteria.
+[00:09:07] Importantly, none of our service contracts provide ALS with exclusivity
+[00:09:13] rights.
+[00:09:15] The second thing I'd like to touch on relates to the comments in and around
+[00:09:20] workforce workload and caseload, and how that might relate to patient wait times.
+[00:09:28] Firstly, when we run a business in the areas of service delivery, there is always a
+[00:09:34] challenging balance between responsiveness, quality, workforce capability, and
+[00:09:38] funding. Our staffing levels are based on the contract specification
+[00:09:44] requirements, service demand, and complexity of the clinical caseload.
+[00:09:50] We also benchmark these numbers against things like the World Health Organization
+[00:09:55] standard, and then apply our local expertise in and around scope of practice to
+[00:10:01] normalize or understand what those numbers mean for what we need for service both
+[00:10:06] now and into the future.
+[00:10:09] Managing workloads in this area of healthcare is inherently complex.
+[00:10:14] Each patient's journey is often different, often involving multiple appointments,
+[00:10:20] involving customized devices that are manufactured for the individual, and a range
+[00:10:26] of health professionals.
+[00:10:28] We focus on maximizing our time on direct clinical care and rehabilitation outcomes
+[00:10:34] while seeking to improve efficiencies and value for money for our funders with
+[00:10:38] streamlined processes and improvements in our software, including cybersecurity
+[00:10:43] posture and the other related compliance that we need to ensure safe data
+[00:10:47] management.
+[00:10:49] Specifically, in and around the triage process, we've got an activity regarding
+[00:10:55] urgency and standard appointments.
+[00:10:58] Urgent appointments can be scheduled within two working days with our service with
+[00:11:02] the next available prosthetist. This might not always be the patient's usual
+[00:11:07] prosthetist. And also our system shows that from the time of appointment being
+[00:11:13] created, on average, through to the appointment being provided via special
+[00:11:17] services, an average of 11 working days.
+[00:11:20] This takes into account amputee and clinical team availability.
+[00:11:25] There are some cases where appointments can take longer, and this usually relates
+[00:11:29] to things like scheduling support for people with complex health needs and
+[00:11:33] wellbeing circumstances,
+[00:11:36] staff leave and sickness. Some stock issues can sometimes come in, and there are
+[00:11:40] also sometimes challenges in and around the manufacturing process that need to be
+[00:11:44] worked out for the individual's device.
+[00:11:47] We recognize that long wait times can affect the person's wellbeing, their work,
+[00:11:51] their ability to be independent, and mobilize.
+[00:11:55] Where delays are significant for the person, we encourage them to contact us so we
+[00:12:01] can review their circumstances. Sorry, sir?
+[00:12:05] Oh, no. I just wanted to move on to questions, please.
+[00:12:07] Mm.
+[00:12:08] And so we'll do that soon. So like, we could've had all of this in writing and read
+[00:12:13] through it.
+[00:12:13] All right.
+[00:12:14] It's good to have the overview, but I know members, and I've seen hands going up
+[00:12:17] already-
+[00:12:18] Excellent
+[00:12:18] ... have some questions. So just to utilize the time.
+[00:12:20] We can't go any longer because we've got-
+[00:12:23] Understood
+[00:12:24] ... 20 odd minutes. But I noticed there that, so you're saying that amputees are
+[00:12:30] free to access alternative providers, and therefore have a choice of provider.
+[00:12:35] But OIA information shows that only a small number of amputees have actually
+[00:12:39] received public funding to access an alternative provider.
+[00:12:44] Can you explain to the committee exactly how an amputee who is dissatisfied with
+[00:12:49] ALS's services can exercise a genuine choice to use an alternative
+[00:12:54] provider while retaining public funding?
+[00:12:58] There's two parts to that question.
+[00:13:00] Firstly, we are contracted to provide a specific service, and we have internal
+[00:13:06] second opinion capability on that front.
+[00:13:09] Regarding being referred to alternate providers, we are in the stages of developing
+[00:13:15] a subcontractor arrangement. This activity was done before this question came to
+[00:13:20] the committee. The health funding side of things for prosthetics services is being
+[00:13:25] underfunded, and we've worked well with Health New Zealand to resolve those
+[00:13:28] matters, which now puts us in a position to subcontract second opinion.
+[00:13:33] But ultimately, the decision for ACC and Health New Zealand whether an alternate
+[00:13:39] provider is given-
+[00:13:40] Okay
+[00:13:40] ... sits with them.
+[00:13:41] So it sits with ACC and Health New Zealand.
+[00:13:44] Yeah.
+[00:13:44] And I-
+[00:13:44] We're trying to do our bit within our service to provide choice.
+[00:13:47] Yes. That lead me on to another question.
+[00:13:50] So if you've got a patient who's dissatisfied or has disagreements with their
+[00:13:54] provider or with their clinician, is there a funded pathway for them to obtain an
+[00:13:59] independent clinical assessment from a prosthetist who is not employed by a
+[00:14:04] contractor to, or accountable to ALS, with that assessment being publicly funded?
+[00:14:11] That question is one for ACC and Health New Zealand.
+[00:14:13] We're not in a position to answer on their behalf.
+[00:14:16] Okay. I saw Ingrid and Asha also had their hands up.
+[00:14:19] Thanks very much. What I guess we have heard is that there is an effective monopoly
+[00:14:24] on the service, and then what I've heard today is that you're a state-formed
+[00:14:28] entity, and there are some potential competitors who are not state-formed.
+[00:14:34] I heard that your accountability lies in the contracts, and I'm very interested in
+[00:14:37] that because we see with a lot of Health New Zealand contracts in particular, that
+[00:14:40] there are kind of output measures rather than outcomes.
+[00:14:44] Is it possible for us to see a copy of the indicators in the contract that you have
+[00:14:48] to reach for the performance measures?
+[00:14:51] And then secondly, with the fee for service on the subcontracting that you've
+[00:14:55] mentioned, is that a user pays type system?
+[00:14:59] Who will pay for that subcontracted service?
+[00:15:03] Is it coming from yourself or from the end user?
+[00:15:07] So to answer your first question, we can make the reports available to you.
+[00:15:11] I forward reports to ACC and Health New Zealand, and that-
+[00:15:14] It's more the indicators.
+[00:15:16] Okay.
+[00:15:16] If we could just see what the indicators are that you report to.
+[00:15:19] Yep.
+[00:15:19] Thank you.
+[00:15:19] I can give you one specific example-
+[00:15:21] Yep
+[00:15:21] ... around the prosthetic delivery time frames.
+[00:15:24] And so within there, we do an 80% delivery time excluding consumables, and that's
+[00:15:30] three working days on average. When you look at all prosthetic types, it's around
+[00:15:33] about 12 working days.
+[00:15:35] Right.
+[00:15:35] There are reasons why they can take longer, because sometimes people need a
+[00:15:39] continual activity to provide, you know, the component steps involved.
+[00:15:44] And then the second part was around the subcontractor part, and who pays for that
+[00:15:49] service?
+[00:15:49] So at the moment, that service is intended that we will be paying for it.
+[00:15:53] It'll be going through our patient management system, where the subcontractor party
+[00:15:56] will be set up with a location, so they will only see their patients that we've
+[00:16:01] referred through to them. We need to give them a caseload so they can keep currency
+[00:16:05] with their practice. And then the second part of that is the refer through to
+[00:16:10] second opinion.
+[00:16:10] Okay, quickly, sup, just on that. That, so will you be clip- clipping the ticket on
+[00:16:14] that? My question.
+[00:16:15] There will be an administrative charge on at the moment.
+[00:16:18] We've got an hourly rate, because we've agreed to, and we've got an hourly rate
+[00:16:21] with ACC and Health New Zealand.
+[00:16:23] Yep.
+[00:16:23] I'll go Asha, then Alastair, Tam.
+[00:16:26] Thanks, Mr. Chair. I have a number of questions, but fortunately the first bunch
+[00:16:29] are just yes, no answers. I'm looking at your 2025 annual report.
+[00:16:34] Measuring their patient feedback, how well did we set you up to be independent and
+[00:16:38] productive in your community and at home?
+[00:16:40] You set yourself a, or you were set a target of 85%, but that was exceeded,
+[00:16:46] and 95% of service users reported that that target was met. Is that correct?
+[00:16:52] Yes.
+[00:16:53] And this one, how would you rate the overall service you received for the job we
+[00:16:57] have undertaken for you? The target was 85%, but that was exceeded at 94%.
+[00:17:02] Is that correct?
+[00:17:03] Correct.
+[00:17:04] And I see this one, how, which is very important, how would you score
+[00:17:10] the comfort of your artificial limb or orthoses at the moment?
+[00:17:15] The target was 70%, and it was 89% that the users reported.
+[00:17:20] Is that correct?
+[00:17:22] I'll need to double-check on that one.
+[00:17:24] To me, I did wonder why 70% was chosen for
+[00:17:30] that target. But anyway, so if you could come back to us on that, that'd be
+[00:17:34] Good point on that one. There's no benchmarks on that.
+[00:17:36] The measure of the prosthetic socket comfort score is a verified outcome measure.
+[00:17:40] Uh-huh.
+[00:17:40] There's no benchmarking data available globally.
+[00:17:42] Thank you. You mentioned in your introductory remarks that you compare yourself to
+[00:17:48] WHO standards. Could you explain what the sorts of things that you're required
+[00:17:53] to look at there, and how, overall how the performance compares
+[00:17:59] to those World Health Organization standards?
+[00:18:02] So the, we've audited ourselves to the World Health Organization standards for
+[00:18:05] prosthetic and orthotic services.
+[00:18:08] They are a standard that's been developed and applied around the world.
+[00:18:12] They look at service delivery, user group, workforce allocation, quality standards,
+[00:18:19] et cetera, about how you're going.
+[00:18:21] This is not something that we are required to do by any of our service contracts.
+[00:18:25] We do it because we know we're in a privileged position with national contracts and
+[00:18:29] would like to ensure that we've got appropriate information to share with the
+[00:18:33] committees like this. If you'd like copies of that audit, it was done by Health New
+[00:18:37] Zealand. We can easily share it with you.
+[00:18:39] So when I look at these figures, to me it says that, you know, performance has
+[00:18:45] been exceeded in the last year. And in your comments, you provided some
+[00:18:50] commentary, some idea of how those people who aren't having a good
+[00:18:56] outcome can get second opinions or, um...
+[00:19:02] And so I'm just interested- Now that I'm reassured we're talking about a
+[00:19:08] minority, but for whom this will be the biggest issue in their life, and it
+[00:19:12] deserves to be taken seriously. What's their
+[00:19:19] journey through your service like, and where do you see improvements should be
+[00:19:23] made?
+[00:19:24] So with that, I might kick to Dawn to give a comment, and then pass to Corin if
+[00:19:30] it's all right.
+[00:19:31] Yeah. So obviously second choice is important. It's a normal part of patient care.
+[00:19:37] Already existing within ALS is a second opinion pathway, that happens
+[00:19:42] informally through a buddy system between clinicians.
+[00:19:46] It happens formally within a multidisciplinary team meeting.
+[00:19:50] It occurs between clinicians within center, it occurs between clinicians
+[00:19:56] nationally across our workforce, and there are times where we get external
+[00:20:00] expertise. So there's a range of opportunities within second opinion already within
+[00:20:05] service. We also have a number of medical specialists who support those second
+[00:20:10] opinions as well, from orthopedic surgeons, both in pediatric and adult, as well as
+[00:20:15] rehabilitation medicine specialists, as well as GPs too, amongst that
+[00:20:21] multidisciplinary team approach.
+[00:20:23] So, I think second opinion within service is already well established and existing.
+[00:20:29] ALS is on a continuous improvement pathway.
+[00:20:32] Always looking to do things better internally.
+[00:20:34] It might be helpful to hear from Corin. Corin.
+[00:20:39] Good morning. Yes. So, obviously, in my role
+[00:20:45] with the Amputees Federation, I am advocating on behalf of all
+[00:20:50] amputees. And I have found that,
+[00:20:58] I wouldn't consider it a minority, but there are complex issues
+[00:21:05] within the system and with amputees, and it's very difficult to please
+[00:21:11] everyone.
+[00:21:13] I am obviously a service user of ALS,
+[00:21:19] as a quad amputee. So I have been on the receiving end of
+[00:21:25] the service. But I also have a very open and frank
+[00:21:31] relationship with Shaun. And so I'm often the person
+[00:21:35] who's receiving the phone calls or the in-person
+[00:21:41] conversations with amputees that are frustrated, whether
+[00:21:47] it's the service or their limb or-- And there's a whole lot of
+[00:21:53] factors that need to be considered.
+[00:21:55] It's not just--
+[00:21:57] Often it could be a clash of personality.
+[00:22:00] It could be a
+[00:22:03] stage of the journey that they're on regarding
+[00:22:09] what their needs are, and that they feel that they're not being met.
+[00:22:14] Or I've had a limb for-
+[00:22:17] ... 17 years, and now suddenly I'm having all these troubles.
+[00:22:21] But when you dig deep, you find that there's other health issues going on and
+[00:22:26] things like that. So it's very complex, it's very individualized.
+[00:22:31] But I do find I can pick up the phone and I can call either the
+[00:22:36] manager of the center or the clinician or talk to Shaun.
+[00:22:41] And Shaun is very willing to offer his phone number.
+[00:22:47] He's always willing to talk to the person directly.
+[00:22:51] And sometimes they don't want to
+[00:22:55] go to that level. So I'm kind of the middleman, so to speak.
+[00:23:00] But, yeah, it's
+[00:23:03] a big bucket of complexities and,
+[00:23:09] yeah, I can understand the frustrations from all sides.
+[00:23:15] Thank you. I'll go over to Carlus and then Ken.
+[00:23:18] I just want to say thank you. And congratulations on the opening on the Auckland
+[00:23:22] Center and show me around the workshop as well. I experienced it firsthand myself.
+[00:23:28] Thank you for all the stuff, for all the work you do. I talked to a few patient.
+[00:23:31] They actually saying that I'm making a huge difference to their life, so well done.
+[00:23:36] So I think during that visit, I think one of the issues we talked about was how to
+[00:23:40] shorten the production time. Is there anything government can do or we can open up
+[00:23:45] the logistical to import market for parts so we can speed up for the production for
+[00:23:51] the artificial limb?
+[00:23:53] Yeah, that's a key part of service satisfaction does relate to delivery times in
+[00:23:58] the manufacturing process. One of the things that we've done recently is the 3D
+[00:24:03] printing side of things. That's 60% of our lower limb sockets now.
+[00:24:09] And the cost of the printers that we'd like to use are in the half a million to $1
+[00:24:13] million. So we don't have the volume to justify ownership at this stage, and that
+[00:24:17] leads to about a two-week additional delivery time.
+[00:24:20] There are some intermediary things we can do with cheek sockets and things, but
+[00:24:24] ultimately that would be the single best thing we could have.
+[00:24:27] Can you also give a little bit more detail to the committee?
+[00:24:30] Because when I visit there, there's a new technologies guys working on, say, more
+[00:24:34] sensory. So you can use the hand to allow extra movement on the artificial limb.
+[00:24:40] And I think this is the time you say that this, the price, can be major issues for
+[00:24:45] the patient to choose to use it. Can you tell us what's the difference on the
+[00:24:48] price?
+[00:24:49] The price differences can be quite considerable.
+[00:24:52] A hand like this from INNERS, it's $36,000 or something along those lines.
+[00:24:57] This is actually a Taska hand from a company in Christchurch.
+[00:25:01] It's a great success story. We helped them with some of the commercialization in
+[00:25:04] that. But they can go up to $100,000 plus.
+[00:25:09] And that's just for the hand arrangement.
+[00:25:11] If you want to use a elbow joint, I think they're about $75,000, and that's because
+[00:25:17] the arm codes in America have it at that.
+[00:25:19] I think the build costs are way cheaper to your point.
+[00:25:21] And then when you put in a thing called pattern recognition, which is sensory
+[00:25:25] things that can go on a chest or the stump, they need to be individualized to the
+[00:25:29] person. They need to be trained how to use them so they can do things like control
+[00:25:33] the sensors on the inside to open and close it, and move the elbow up and down.
+[00:25:39] Thank you. Ken.
+[00:25:41] Well, first-
+[00:25:42] Go to Carlus
+[00:25:42] ... I've got a question on that. Just listening to what you've said so far, you've
+[00:25:47] got multiple service providers in the market.
+[00:25:51] Mm-hmm.
+[00:25:51] Trying to increase choice. You're dealing with subcontractors, you're competing for
+[00:25:55] contracts, you're getting external expertise.
+[00:25:58] I'm wondering why do you still need to be a Crown entity?
+[00:26:02] That's a really good question, and I think it's fair to say over the last 10 years
+[00:26:06] we've been challenging that and speaking to the ministers involved.
+[00:26:10] And at this stage it is under active consideration.
+[00:26:13] We're giving a five-year legislative review, so it's an issue that's right before
+[00:26:18] everybody right at this moment.
+[00:26:19] Okay.
+[00:26:20] So that's-
+[00:26:21] No.
+[00:26:23] Okay. We have a few more questions, but cognisant of Carl's going off.
+[00:26:27] If it's all right, I might fire the-- Well, I'll get some of those sent through to
+[00:26:31] you. But want to say thank you very much for making yourselves available for the
+[00:26:36] committee this morning. Thank you.
+[00:26:38] No, we appreciate it. Thanks again.
+[00:26:39] Chance to talk.
+[00:26:42] Thanks, Corin.
+[00:26:43] Thank you.
+[00:26:45] So much, Corin.
