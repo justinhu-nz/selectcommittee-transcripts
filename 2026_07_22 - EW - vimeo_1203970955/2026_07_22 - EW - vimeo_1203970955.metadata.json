@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:10:54.076549+00:00",
+  "generated_at": "2026-09-04T03:34:59.017525+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1203970955",
   "title": "2026/07/22 - EW",
@@ -7,7 +7,7 @@
   "published_at": "20260722",
   "published_display": "2026-07-22",
   "published_date_uncertain": false,
-  "published_date_source": "parliament_video_title",
+  "published_date_source": "vimeo_broadcast_start",
   "duration_seconds": 863,
   "source_labels": "Parliament Page education-and-workforce, Parliament Page education-and-workforce, Vimeo Showcase 10758097",
   "transcript": {

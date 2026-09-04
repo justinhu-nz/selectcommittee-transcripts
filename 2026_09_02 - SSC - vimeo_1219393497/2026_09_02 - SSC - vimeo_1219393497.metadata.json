@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:09:26.892206+00:00",
+  "generated_at": "2026-09-04T03:33:29.718495+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1219393497",
   "title": "2026/09/02 - SSC",
@@ -7,7 +7,7 @@
   "published_at": "20260902",
   "published_display": "2026-09-02",
   "published_date_uncertain": false,
-  "published_date_source": "parliament_video_title",
+  "published_date_source": "vimeo_broadcast_start",
   "duration_seconds": 947,
   "source_labels": "Parliament Page social-services-and-community, Parliament Page social-services-and-community, Vimeo Showcase 10758270",
   "transcript": {

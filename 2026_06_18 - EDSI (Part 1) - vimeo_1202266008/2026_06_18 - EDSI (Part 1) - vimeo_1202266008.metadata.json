@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:11:05.048601+00:00",
+  "generated_at": "2026-09-04T03:35:10.912970+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202266008",
   "title": "2026/06/18 - EDSI (Part 1)",
@@ -7,7 +7,7 @@
   "published_at": "20260618",
   "published_display": "2026-06-18",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_broadcast_start",
   "duration_seconds": 5403,
   "source_labels": "Vimeo Showcase 10758044",
   "transcript": {

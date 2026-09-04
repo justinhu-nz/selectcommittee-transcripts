@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:10:56.119085+00:00",
+  "generated_at": "2026-09-04T03:35:01.279474+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202000700",
   "title": "2026/06/17 - EW (Part 3)",
@@ -7,7 +7,7 @@
   "published_at": "20260617",
   "published_display": "2026-06-17",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_broadcast_start",
   "duration_seconds": 3845,
   "source_labels": "Vimeo Showcase 10758097",
   "transcript": {
