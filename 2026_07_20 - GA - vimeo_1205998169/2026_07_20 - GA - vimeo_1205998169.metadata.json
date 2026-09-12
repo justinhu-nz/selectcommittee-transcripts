@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:34:16.484959+00:00",
+  "generated_at": "2026-09-12T08:04:34.710911+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1205998169",
   "title": "2026/07/20 - GA",
@@ -7,7 +7,7 @@
   "published_at": "20260720",
   "published_display": "2026-07-20",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_broadcast_start",
+  "published_date_source": "vimeo_live_active_time",
   "duration_seconds": 11434,
   "source_labels": "Vimeo Showcase 10758255",
   "transcript": {

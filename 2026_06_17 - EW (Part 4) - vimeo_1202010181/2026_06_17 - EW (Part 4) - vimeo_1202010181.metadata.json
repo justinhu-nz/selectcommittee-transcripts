@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:35:00.536462+00:00",
+  "generated_at": "2026-09-12T08:05:15.395121+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1202010181",
   "title": "2026/06/17 - EW (Part 4)",
@@ -7,7 +7,7 @@
   "published_at": "20260617",
   "published_display": "2026-06-17",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_showcase_jsonld_title",
+  "published_date_source": "vimeo_live_active_time",
   "duration_seconds": 394,
   "source_labels": "Vimeo Showcase 10758097",
   "transcript": {

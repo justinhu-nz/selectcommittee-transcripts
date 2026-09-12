@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:35:11.683965+00:00",
+  "generated_at": "2026-09-12T08:05:26.239218+00:00",
   "provider": "vimeo",
   "media_id": "vimeo_1201655102",
   "title": "2026/06/16 - EDSI (Part 3)",
@@ -7,7 +7,7 @@
   "published_at": "20260616",
   "published_display": "2026-06-16",
   "published_date_uncertain": false,
-  "published_date_source": "vimeo_broadcast_start",
+  "published_date_source": "vimeo_live_active_time",
   "duration_seconds": 2730,
   "source_labels": "Vimeo Showcase 10758044",
   "transcript": {
