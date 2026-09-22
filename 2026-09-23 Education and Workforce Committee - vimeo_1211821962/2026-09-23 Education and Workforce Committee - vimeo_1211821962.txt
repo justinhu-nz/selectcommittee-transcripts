@@ -1,0 +1,972 @@
+Title: 2026-09-23 Education and Workforce Committee
+URL: https://player.vimeo.com/video/1211821962
+Published: 2026-09-23
+Duration: 00:52:23
+
+[00:01:46] Good morning.
+[00:01:49] As everyone's getting settled, and I know none of you are unfamiliar, if you're
+[00:01:52] coming to speak to anything, please come to the table before you start speaking so
+[00:01:56] we can capture it on the Hansard.
+[00:01:59] And please don't be afraid of sitting on the end two
+[00:02:03] seats
+[00:02:29] of these sides.
+[00:02:33] Good morning, everybody. We're here to complete our hearing with
+[00:02:36] Immigration New Zealand in respect of the further information that we've
+[00:02:40] received to date.
+[00:02:43] Welcome. And to you, Nick,
+[00:02:45] or to your colleagues, we're happy to have introductory remarks.
+[00:02:48] If we could keep them to a limit of about two or three minutes, that would be
+[00:02:51] great. Over to you.
+[00:02:52] Thank you. Thank you, Madam Chair. And yes, I will talk quickly.
+[00:02:54] I have a few points to make. Thank you for the opportunity to be here today.
+[00:02:57] I do have with me Andy Milne, Deputy Secretary of Immigration New Zealand,
+[00:03:01] and Paul Stocks, Deputy Secretary for Corporate and Digital,
+[00:03:05] our Chief Financial Officer, Sharon Mitchell, and others that we'll call on during
+[00:03:09] the session. I want to start by acknowledging the significant events
+[00:03:13] since MBIE last appeared before you.
+[00:03:15] I do deeply regret the position that we find ourselves in, and I recognize that
+[00:03:19] we have a mountain to climb to rebuild the trust and confidence of this committee
+[00:03:23] and of Parliament and our public. As chief executive, I take
+[00:03:27] responsibility for the failures, and I'm taking accountability by
+[00:03:31] making the changes needed to strengthen the organization, and I know that I will be
+[00:03:34] judged on the results. I've made it clear within MBIE that our evidence before
+[00:03:38] all select committees must be accurate, complete, candid, and that senior
+[00:03:42] leaders are accountable for the quality of every appearance.
+[00:03:46] The serious and wide-ranging failures in the BCU project included
+[00:03:49] decision-making, oversight, reporting, governance, and vendor management.
+[00:03:53] And in the June hearing, I believe the expenditure that we provided was
+[00:03:57] the complete information. But shortly after, additional expenditure of
+[00:04:01] 6.2 million was discovered and the record was corrected.
+[00:04:05] Now, I'd like to set out just some additional information on the project and the
+[00:04:08] related biometric projects that were shared with ministers and the committee this
+[00:04:12] week.
+[00:04:13] The audit office determined that the BCU was incorrectly capitalized in June
+[00:04:17] 2025, and that will now be reversed in MBIE's accounts.
+[00:04:20] MBIE's now recommended to ministers to write off the capital portion of
+[00:04:24] in-person enrollment, the related biometric projects, because the
+[00:04:28] assets are now considered unusable.
+[00:04:30] We've also now reported to the committee the NEC settlement of 1.9
+[00:04:34] million and additional costs sitting outside the project of
+[00:04:37] 549,000. Consequently, the total estimated cost for the two
+[00:04:40] projects is now 50.7 million, 42
+[00:04:44] million for the BCU,
+[00:04:46] and 8.7 million for IPE. That's in-person enrollment.
+[00:04:50] It's unacceptable that these two biometric projects have cost over $50
+[00:04:54] million and have not delivered. I do not yet have confidence that we have a full
+[00:04:58] and accurate picture of the project's costs, and this has raised fundamental
+[00:05:01] questions about the quality of the financial controls and investment oversight
+[00:05:05] within MBIE, and an independent financial review by KPMG is underway to
+[00:05:09] provide that full information. In response to these deeply concerning failures,
+[00:05:13] I've set up a structured program of assurance work.
+[00:05:16] Since we were last before you, we've now completed a stocktake of 70
+[00:05:19] active technology projects. Of these, 31 met the
+[00:05:23] threshold for formal governance, and we published this information on Monday.
+[00:05:28] The review found that MBIE has the frameworks, governance structures, controls, and
+[00:05:31] processes expected of a large public sector organization while
+[00:05:35] identifying areas to strengthen.
+[00:05:37] And at the time of the stocktake in July, nine projects were rated red and
+[00:05:41] six amber. And I've sought assurance that credible action is underway to address
+[00:05:45] the performance of these projects.
+[00:05:47] We've also completed a review of our wider investment and governance system, and a
+[00:05:51] 12-month program to strengthen that is also underway.
+[00:05:54] Going forward, we will report publicly on a quarterly basis on our technology
+[00:05:58] portfolio so that there is open scrutiny on whether our changes are improving
+[00:06:02] performance. An active programme of work is also addressing
+[00:06:06] how concerns are raised, heard, and acted on, and that's focused on leadership,
+[00:06:10] integrity, and open communication.
+[00:06:12] I'll consider the Public Service Commission's hearing report findings and take any
+[00:06:16] necessary action, including employment actions where appropriate.
+[00:06:19] No options are ruled out. The underlying need to modernize Immigration New
+[00:06:22] Zealand's aging biometric capability remains.
+[00:06:25] Existing systems remain operational while work continues on that future approach.
+[00:06:30] The lessons from BCU continue to inform our approach to our future
+[00:06:34] services. Phase one has delivered significant elements of the program, but
+[00:06:37] assumptions in the business case relating to productivity and overhead savings were
+[00:06:41] too ambitious and cannot be achieved as originally forecast.
+[00:06:45] This project is not in the same position as BCU.
+[00:06:48] By the end of this calendar year, all the visa products envisaged in phase one
+[00:06:52] will have been delivered, and a deliberate checkpoint was built in to assess the
+[00:06:56] progress before moving to phase two.
+[00:06:59] However, full information about the red status of the project should've been
+[00:07:01] reported to ministers earlier, and in line with the changes to all major projects,
+[00:07:06] will now provide clear quarterly reporting to ministers that is subsequently made
+[00:07:10] publicly available.
+[00:07:11] We welcome the Public Service Commission's independent review into our future
+[00:07:15] services, and will use its findings to inform cabinet's decisions about the
+[00:07:18] program in the first quarter of 2027.
+[00:07:21] So it's appropriate today that we are here today to face further scrutiny.
+[00:07:25] We've learnt tough lessons, and we'll be rebuilding trust through transparency,
+[00:07:29] independent scrutiny, and sustained delivery.
+[00:07:32] I don't want our failings to diminish the contribution MV and its people make to
+[00:07:36] New Zealand every day. They deliver essential services , support
+[00:07:39] innovation and economic growth, provide policy advice to government, and steward
+[00:07:43] regulatory systems that New Zealanders and businesses rely on.
+[00:07:47] Their work deserves an organization with strong systems, sound governance, and a
+[00:07:50] culture in which concerns are raised and acted on.
+[00:07:54] Delivering that is my responsibility, and we welcome the committee's questions.
+[00:07:58] Thank you, Nick. And in light of what you've raised, I'm just going to start off.
+[00:08:02] When you split the project into its various
+[00:08:06] parts, did you tell the minister?
+[00:08:12] So it was--
+[00:08:13] Paul, let's go to the timeline.
+[00:08:15] It was split, and it was originally two projects back
+[00:08:19] in 2018 and '19. They were
+[00:08:23] then subsequently merged and then split again
+[00:08:27] in late 2023.
+[00:08:31] I would have to confirm whether or not the minister was advised at that point.
+[00:08:35] Now, all of these
+[00:08:36] things around did the right things happen with ministers are part of the hearing
+[00:08:39] inquiry. They will be looking into did the right things happen at the right
+[00:08:43] times.
+[00:08:44] Is there anything to add to that? I think it was just late '24 when it was
+[00:08:48] split back out again.
+[00:08:51] So sorry, are you answering that you did tell the minister when it was split back
+[00:08:54] out in '24?
+[00:08:55] No, I'm just correcting that it was December '24 according to my notes, where the
+[00:08:59] two projects were split again.
+[00:09:01] Okay. And sorry, and to answer my question, was the minister notified when
+[00:09:05] that happened?
+[00:09:06] I don't know. Would need to follow up on that one.
+[00:09:08] Okay, that would be good. And then to that point,
+[00:09:14] at that point when they were split, were you over the 35
+[00:09:17] million threshold
+[00:09:20] of cabinet approval?
+[00:09:23] I think the answer is no.
+[00:09:26] However, what I would say on this is
+[00:09:30] whole of life is meant to mean the whole of life, not just the point
+[00:09:34] up to which you've finished the build.
+[00:09:35] It should actually mean the usable life of the project as well.
+[00:09:39] I think it's quite clear that even though
+[00:09:42] they were getting close to the whole of life cost, actually that should've been
+[00:09:45] flagging issues much earlier because the life of
+[00:09:49] the actual deliverable project hadn't started yet.
+[00:09:52] So that's not the way we should be thinking about whole of life costs.
+[00:09:55] It should be thinking about the whole of life, and that's what
+[00:09:58] we are now doing with all of our projects to make sure they are properly
+[00:10:02] accounting for whole of life costs. So that's the going forward.
+[00:10:06] I believe that at the time it was under the 35 million, but as I
+[00:10:10] say, whether that was...
+[00:10:13] And clearly now it's gone over 35 million.
+[00:10:15] Yeah. And just to ask, you've mentioned that the IPE is
+[00:10:19] unusable without the software. So can I ask why they were separate in the first
+[00:10:22] place?
+[00:10:24] Well,
+[00:10:26] I think in part that's a question for the hearing inquiry, but
+[00:10:30] they were separate and then together.
+[00:10:33] So the two products do quite different things.
+[00:10:36] The BCU provides the core biometric
+[00:10:40] database, if you will. In-person enrollment was actually a product which
+[00:10:44] was to do two things. Firstly,
+[00:10:47] when you take biometrics, whether it's fingerprints or
+[00:10:50] photographs, generally you need some kit to do it.
+[00:10:53] The Immigration New Zealand had kit that was basically 23 kilos of
+[00:10:59] equipment.
+[00:11:00] Mm.
+[00:11:00] The in-person enrollment project was designed to have basically
+[00:11:04] a seven-kilogram suitcase that you could do in the field biometric enrollment,
+[00:11:08] for example,
+[00:11:09] if you were doing refugee assessments,
+[00:11:12] and the software associated with that.
+[00:11:13] So they're actually quite different, in terms of the products.
+[00:11:16] They're related because they both are biometrics.
+[00:11:19] The question about why they were joined is one that the hearing inquiry will
+[00:11:22] investigate. I can see why they were separated, because they are different things.
+[00:11:26] And we of course now need to still replace these
+[00:11:30] old systems.
+[00:11:31] And at this stage, I think we're still looking at them as two separate pieces of
+[00:11:37] technologies that we will need to roll out.
+[00:11:40] Okay.
+[00:11:43] I just really want to get to the bottom of that.
+[00:11:45] So,
+[00:11:47] what you're saying is that without the software,
+[00:11:51] this particular software, that kit is unusable.
+[00:11:53] So to me, that's a package.
+[00:11:56] The software, in in-person enrollment it was both the hardware and the software.
+[00:11:59] The software to allow the hardware to talk-
+[00:12:02] Mm
+[00:12:02] ... to the rest of the system. So without that software-
+[00:12:04] Mm
+[00:12:05] ... or some other software, that hardware is not
+[00:12:09] usable.
+[00:12:10] And there's been no consideration for holding onto it for potential future
+[00:12:13] software?
+[00:12:14] We have kept the hardware.
+[00:12:15] Okay.
+[00:12:16] But it's now three years into the life since we've owned it.
+[00:12:19] Yeah.
+[00:12:19] By the time that we actually get software to make it work, it might be five.
+[00:12:23] So the
+[00:12:24] book value of that may well be zero, even if we can still use it.
+[00:12:27] Okay. I have a supplementary question from Carl.
+[00:12:30] Thanks very much.
+[00:12:31] On to the next primary.
+[00:12:31] Chair, you talked about the point at which it was split.
+[00:12:34] If it was 34.9 for the project,
+[00:12:39] and then the BCU was eight million at the time it was split, wasn't
+[00:12:43] it, at that point, over the whole of life
+[00:12:46] cost?
+[00:12:49] I don't know if I've got that particular number.
+[00:12:53] Have you got that, Sharon?
+[00:12:53] Well-
+[00:12:54] At the time
+[00:12:55] ... okay. So maybe the follow-up question to that is, at
+[00:12:58] any point during this project, was the project
+[00:13:02] genuinely within the whole of life cost
+[00:13:06] approval at the point in the project?
+[00:13:08] So take any point since 2019, was it genuinely
+[00:13:12] within the whole of life cost
+[00:13:15] at that point? And if so, can you tell me which point?
+[00:13:18] Sharon, can you answer that?
+[00:13:19] Approved by-
+[00:13:19] So at the point where the project was split, so in,
+[00:13:23] from FY20 through '24, we were sitting at
+[00:13:27] spend of underneath 35 million. So the two separate
+[00:13:31] projects were sitting at
+[00:13:34] 30 million spend at about that point in time.
+[00:13:37] The challenge that we have, and Nick alluded to earlier, is that this
+[00:13:41] is project spend as opposed to what should be considered as whole
+[00:13:45] of life cost, which is the life of then having the project going forward.
+[00:13:49] So
+[00:13:50] then was it genuinely within whole of life cost?
+[00:13:53] You can't say,
+[00:13:55] well, the cost of the project was under the number, but
+[00:13:58] actually whole of life cost wasn't thought about.
+[00:14:01] So genuinely, was it within whole of life cost?
+[00:14:05] This is the-
+[00:14:05] Approvals
+[00:14:06] ... core part of what the hearing inquiry is looking at with the allegations
+[00:14:09] around creative accounting, and whether or not the right
+[00:14:14] accounting practices were applied to these projects at
+[00:14:19] those points in time.
+[00:14:20] So at the point that the minister first
+[00:14:24] challenged the request for an increase in the whole of life cost,
+[00:14:28] which I understand happened in March
+[00:14:31] 2024-
+[00:14:32] Mm-hmm
+[00:14:34] ... was the changes around the accounting
+[00:14:39] a way of avoiding
+[00:14:42] further scrutiny by Cabinet or by the minister around the whole
+[00:14:46] of life cost, in your view?
+[00:14:49] So this is something for the hearing inquiry.
+[00:14:51] I do think at least one factor in their minds at the time was to
+[00:14:55] keep the projects under $35 million.
+[00:14:59] So Carl, did you have your primary still then?
+[00:15:02] Yeah, I'll come back to that.
+[00:15:02] Well, you're next.
+[00:15:03] Oh, right.
+[00:15:03] So if you could go onto it and then we'll come talk about it.
+[00:15:06] So
+[00:15:08] the capitalization of the project as a minimum viable product and the
+[00:15:11] creation of the BCU value stream, I
+[00:15:15] suppose that's what I've just asked you, was around the,
+[00:15:18] that was just another way of avoiding breaching the whole of life cost from all
+[00:15:22] that I can read.
+[00:15:24] So it's hard for me to go into intentions, but clearly,
+[00:15:29] they capitalized that too soon. That's what audit has determined.
+[00:15:33] We agree with that finding, and in my mind,
+[00:15:37] that value stream is part of the whole of life costs of the project.
+[00:15:41] Okay. So appreciate there's some inquiry work to be done around that, and you've
+[00:15:45] talked a lot about changes in process.
+[00:15:48] What I haven't read in the questions, 90 onwards, and what
+[00:15:51] you've said, is what's changed
+[00:15:54] in the culture of your organization to give us trust
+[00:15:58] and confidence that people are not trying to avoid ministerial
+[00:16:02] scrutiny or our select committee scrutiny in the future?
+[00:16:07] Yeah. And I will start this with the processes briefly, because the
+[00:16:11] processes are there to
+[00:16:14] make things visible and to make sure that people are following what they should be.
+[00:16:17] So I don't want to underplay those.
+[00:16:19] They are part of making sure that we are following our processes, is actually part
+[00:16:23] of ensuring that people are doing the right thing.
+[00:16:26] In addition, we have quite a lot underway on culture, and
+[00:16:30] that is around expectations of senior leaders about
+[00:16:34] a culture of integrity. It is about making it clear to the
+[00:16:38] organization that they should feel safe to speak up.
+[00:16:40] We made it easier to access the integrity line on our
+[00:16:45] homepage with our intranet after June.
+[00:16:48] And that has seen a jump up in people using that integrity line.
+[00:16:52] That's a good thing. People are raising things, and those things are being
+[00:16:55] investigated.
+[00:16:57] We currently have our
+[00:16:59] annual culture survey that's currently underway.
+[00:17:02] We put some specific questions in there about do people feel safe to speak
+[00:17:06] up, and we'll be looking at those results closely, and we were able to break that
+[00:17:10] down across the organization.
+[00:17:14] At the same time, the most recent public service census on the question
+[00:17:17] of do you feel safe to speak up showed that MBIE as a whole
+[00:17:22] actually was above the public sector average.
+[00:17:24] So I'm not sure we have something that is an endemic issue.
+[00:17:29] I think that there was clearly failings in this project, but from the
+[00:17:33] tech stocktake, that shows we don't have the same issues at all across the
+[00:17:37] other projects we need to strengthen.
+[00:17:38] And the same with those cultures. So we are doing a lot on culture, but
+[00:17:42] there are reasons to think that this is not something that is systemic across the
+[00:17:46] organization.
+[00:17:47] So we have a supplementary from Panji, and then we'll move on to the primary from
+[00:17:50] Raquel.
+[00:17:50] Thank you. In your opening remarks in regard to
+[00:17:54] this issue of restoring confidence, you mentioned independent
+[00:17:57] scrutiny, but independent scrutiny is as good as the information that is
+[00:18:01] available to that scrutiny, right?
+[00:18:03] Correct.
+[00:18:03] So what does that mean? Because it may not mean anything.
+[00:18:09] Well, if we go to the technology project, I don't know whether you want to talk
+[00:18:12] about what we have put online, because that is more than we have put
+[00:18:15] on before on projects, and we can continue to improve
+[00:18:19] that, but-
+[00:18:20] Thanks. So on Monday, we published a stock take of all of our
+[00:18:24] 70 in-flight initiatives in the IT space.
+[00:18:28] Thirty-one of those were what we call major projects, and a major project is
+[00:18:31] anything over $250,000 of operating
+[00:18:35] costs or any capital investment at all.
+[00:18:39] And so what we've done is basically published all of our material on that.
+[00:18:43] We've had it independently verified by Maven Consulting as well.
+[00:18:46] We had our internal assurance teams
+[00:18:49] do the assessment of the state of the IT projects, both the state of
+[00:18:53] their finances, their deliverables, their benefits, where they were
+[00:18:57] on schedule, and the state of the reporting and governance around that
+[00:19:01] to make sure that we had the right tools and systems in place.
+[00:19:04] What we did find was, we didn't find any surprises about things
+[00:19:08] we didn't already know about. Which was reassuring, because we didn't know
+[00:19:12] about BCU.
+[00:19:13] And so we didn't find anything of that
+[00:19:16] nature. We have some IT projects, as you would expect,
+[00:19:20] with their red status, either because we think that we've got problems with the
+[00:19:24] benefits realization, they're behind schedule, or they're costing more.
+[00:19:28] And the trick about having a red status is it allows you as
+[00:19:31] governors, as the ministry, as ministers, as select committees, to
+[00:19:35] see what's going on, and it requires us to take some action on it.
+[00:19:38] So I'd be, for example, quite surprised if we didn't have major IT projects that
+[00:19:42] weren't either amber, which means there are some issues, or red, which means you
+[00:19:45] need to take action to resolve those.
+[00:19:47] We'll be publishing that stock take every quarter,
+[00:19:51] and they'll be available for review.
+[00:19:53] And that will also include where there have been significant IQAs, gateways,
+[00:19:58] that this committee rightfully raised that around BCU, why the IQAs hadn't been
+[00:20:02] published. On Monday for the future services, we've published all of
+[00:20:05] the IQAs and gateways, and that will now be part of the regular rhythm that we do
+[00:20:09] with the quarterly releases.
+[00:20:11] Mm-hmm.
+[00:20:11] All right.
+[00:20:11] We'll go to Riccardo's primary, and then we've got your primary next, Pam Shepherd.
+[00:20:14] So Riccardo.
+[00:20:15] Let's go to that. Can I take a step back?
+[00:20:18] And I'd like you to explain, because I think for people listening, they will just
+[00:20:21] be hearing acronyms. The BCU isn't just some change of
+[00:20:25] interface, right?
+[00:20:27] It's a project that would've dealt with people's biometric information.
+[00:20:30] Correct.
+[00:20:31] Would you be able to outline,
+[00:20:33] first of all, were there any commitments that were being followed
+[00:20:36] through as part of trying to do the BCU?
+[00:20:39] And
+[00:20:40] whose biometric information was this project supposed to capture to begin
+[00:20:44] with?
+[00:20:45] Yeah. I might get Amy to talk to that.
+[00:20:48] So there's a couple of components to when we talk about biometrics.
+[00:20:51] Paul's already talked about the in-person enrollment, IPE.
+[00:20:54] So that's the hardware-
+[00:20:55] ... and software that collects biometric details from a small
+[00:20:59] cohort of individuals that Immigration New Zealand deals with.
+[00:21:02] And that's largely people involved in our quota refugee program,
+[00:21:06] asylum claimants within New Zealand, any cases that
+[00:21:10] our investigations or fraud cases might be investigating,
+[00:21:14] and then anything that happens at the border, but just in relation to a very small
+[00:21:17] cohort of people where we have concerns around their identity or we may be looking
+[00:21:20] to turn them around upon arrival in New Zealand.
+[00:21:24] And unlike other jurisdictions, as you know, we don't collect mass biometric
+[00:21:28] data from individuals at the border.
+[00:21:30] And I'd also just like to point out this point, that people when they hear
+[00:21:32] biometrics at the border will think smart gates.
+[00:21:34] Those smart gates are not in our Immigration New Zealand system.
+[00:21:37] They're a custom system. And when we talk about BCU and IPE, we're not talking
+[00:21:41] about any of that smart gate technology at the border.
+[00:21:45] The core, so in terms of the BCU project, was
+[00:21:49] looking to replace the core of the biometric system.
+[00:21:51] And what that core does is it compares biometric details submitted
+[00:21:55] largely in relation to visa applications.
+[00:21:58] So when people submit a visa application, they submit a passport document and
+[00:22:02] a current photo, and the core matches those records and
+[00:22:06] gives us assurance that the people arriving in New Zealand are the people who they
+[00:22:09] say they are, and they have the correct identification.
+[00:22:11] So, that is the core that we need to replace still.
+[00:22:15] So the need to replace that still exists, and that's a piece of work that we'll be
+[00:22:18] looking at in the future.
+[00:22:20] And it's around verifying the identity of people that are applying for
+[00:22:24] visas to enter New Zealand.
+[00:22:25] And this was part of automating that information sharing with our
+[00:22:29] Migration Five countries partners, right?
+[00:22:31] So can I ask, by the time we had
+[00:22:35] the hearing where this exchange would have happened,
+[00:22:39] had security issues and cybersecurity issues been
+[00:22:43] identified?
+[00:22:45] And were there any sort of cybersecurity issues or security issues
+[00:22:49] within this project,
+[00:22:51] or risks that were identified as part of it that led to concerns?
+[00:22:54] Look, certainly clear there are no cybersecurity or security issues relating to our
+[00:22:58] current systems.
+[00:22:59] The upgrade, I meant.
+[00:23:01] In relation to the work that we were doing to replace not just the core but
+[00:23:05] the workflow, one of the things I understand that led to some complications with
+[00:23:09] the project was getting through the necessary security
+[00:23:13] stages for that to be operationalized, and it had never reached that point for
+[00:23:16] operationalization.
+[00:23:17] Were you aware of any security issues or cybersecurity issues that the company in
+[00:23:21] question had faced with any other
+[00:23:26] contracts or
+[00:23:30] capability upgrades that they were doing when you first purchased the equipment?
+[00:23:34] No, not that I'm aware of. No.
+[00:23:39] What is your knowledge of the types of
+[00:23:42] contracts that the company in question would have had?
+[00:23:45] Were you aware of the sort of work that it did before you went into it with it?
+[00:23:48] We know that
+[00:23:49] NEC, the company that
+[00:23:53] provide that core, are one of the leading providers in the world of
+[00:23:57] biometric systems.
+[00:23:59] And finally, what is the goal
+[00:24:03] of automated information sharing that you were trying to achieve with this project
+[00:24:07] with the likes of the United States for the likes of asylum seekers and refugees?
+[00:24:11] So what benefit
+[00:24:13] does this bring to us? And what safeguards were you hoping to have
+[00:24:17] for people who were, say, fleeing prosecution when it came to automating
+[00:24:21] that information sharing with the United States specifically?
+[00:24:22] So I think it's important to note that that is already automated
+[00:24:26] So there's already automated exchange of
+[00:24:30] fingerprint information between us and the migration five
+[00:24:34] countries, so the Five Eyes countries.
+[00:24:36] This project was looking to replace the core,
+[00:24:40] because it's old and it needs to be replaced.
+[00:24:44] And it's got
+[00:24:46] ongoing support at the moment, but it's on a best endeavors basis.
+[00:24:50] And the BCU project really got into difficulty because it
+[00:24:54] started looking at workflow elements of how the core integrates with
+[00:24:58] different parts of the immigration visa processing system.
+[00:25:00] So in the future, our priority is to replace the core, because that will give
+[00:25:04] us efficiency benefits around the automation that already happens.
+[00:25:08] And also to replace the equipment, the hardware and software that allows us
+[00:25:12] to capture fingerprints for that small cohort of people that we take biometric
+[00:25:16] data from. So they're the two aspects of the project which are going
+[00:25:20] forward, which are critical and need to be focused on immediately.
+[00:25:23] Where we brought the workflow
+[00:25:26] into play
+[00:25:28] through the BCU project, ultimately led to the challenges in the project
+[00:25:31] because that wasn't a specialism of the company that we were dealing with.
+[00:25:35] So that's where some of the-
+[00:25:36] And just finally, you did mention that
+[00:25:39] as part of the BCU project, there were some security issues that had been
+[00:25:41] identified.
+[00:25:43] When did you communicate those to the minister?
+[00:25:47] Because those are quite risky, right?
+[00:25:49] If you're going to be sharing biometric information through the use of
+[00:25:53] BCU, this is quite sensitive information.
+[00:25:56] When did you first hear that the minister that there were issues with security?
+[00:25:59] I don't know what was told.
+[00:26:00] Perhaps if I can help with this. There were issues associated with
+[00:26:04] cybersecurity around the BCU upgrade.
+[00:26:07] Those issues were not around external access, so our MB firewalls are
+[00:26:11] quite strong and we were confident in that.
+[00:26:13] There were questions around the certification and accreditation of the product
+[00:26:17] itself. And until products have gone through CNA, we're uncomfortable with
+[00:26:21] them having access to our internal system.
+[00:26:22] So the response to that was build what we called a walled garden
+[00:26:26] around the BCU, so it had very limited access to the rest of the MB systems.
+[00:26:30] As it never went into production, that was never turned on.
+[00:26:34] But those were the concerns that we were thinking about in cybersecurity.
+[00:26:36] Just finally, for the layperson, what are the
+[00:26:40] risks
+[00:26:41] of not having had those cybersecurity risks
+[00:26:45] addressed? What would have happened?
+[00:26:48] Well, the concern there was really about whether there was any risk to the rest of
+[00:26:52] the MB systems if this had not passed accreditation.
+[00:26:56] So we would not have turned it on with access to other MB systems.
+[00:27:00] Which is why we call it a walled garden, which basically says the
+[00:27:03] application is only allowed
+[00:27:05] certain access for the purposes it's required for, and it can't access the rest of
+[00:27:09] the system.
+[00:27:09] You never got to-
+[00:27:09] All right. We're moving-
+[00:27:10] Mr. Umbers
+[00:27:11] ... We're moving on now.
+[00:27:12] You can't say "finally" three times.
+[00:27:15] Pam J, and then we need to get to Camilla.
+[00:27:17] Yeah. Thank you. About the staff who raised concerns about
+[00:27:20] BCU, who were sidelined, have you gone back and looked at when were those
+[00:27:24] concerns first raised, like how many years ago or how many months ago?
+[00:27:29] So that is absolutely part of the hearing inquiry into looking into those.
+[00:27:33] So,
+[00:27:35] we did do a check of were there any formal flags in the system, and my
+[00:27:38] understanding is there were no formal flags in the system.
+[00:27:40] But, the Greg James report does talk about this.
+[00:27:44] So that will be part of the hearing inquiry.
+[00:27:46] What I have focused on is how do we make sure that we are
+[00:27:50] having channels that people can raise things.
+[00:27:52] And as I said earlier, we've made that more visible.
+[00:27:55] People are raising things. That's a good thing.
+[00:27:58] In our current culture survey, we'll take the temperature of the organization to
+[00:28:01] see how people are feeling overall as well, and we'll look if there are any areas
+[00:28:05] that need particular focus, and we will do that across the organization.
+[00:28:08] So are you doing a proper investigation into who was actually sidelining these
+[00:28:12] people? Because the things that you're saying, they sound very general, because
+[00:28:16] every organization would say that.
+[00:28:17] But what does that mean at individual, somebody's behavior is like that,
+[00:28:21] which is basically obstructing
+[00:28:23] the information that needs to be passed on to be passed on, or punishing people,
+[00:28:27] those who are raising actually genuine concerns.
+[00:28:29] So on the past,
+[00:28:31] that is the focus or the topic of the hearing inquiry.
+[00:28:35] So we're not duplicating what that inquiry is doing.
+[00:28:39] For now,
+[00:28:40] when people are raising things through our integrity line, each one of those is
+[00:28:44] investigated through our integrity team.
+[00:28:46] Okay.
+[00:28:47] So they are taken seriously.
+[00:28:49] They will have conversations with the person who's raised the issue and then work
+[00:28:52] out what action to take as a consequence.
+[00:28:54] So every one of those that comes through our integrity line is taken seriously
+[00:28:58] and dealt with.
+[00:28:59] Okay, thanks.
+[00:29:00] We have a supplementary from Priyanka. Go ahead, Priyanka.
+[00:29:03] Thanks. Just on that, I take your point that the
+[00:29:06] retrospective factors contributing to this, whether cultural or
+[00:29:10] systemic, are part of the terms of reference for the hearing
+[00:29:14] inquiry. But clearly, you're not waiting for that to improve your system.
+[00:29:17] Correct.
+[00:29:17] You've mentioned that.
+[00:29:20] But
+[00:29:21] I agree
+[00:29:23] that what you've shared with us in terms of your improvements going
+[00:29:27] forward are very vague. Can you give us some clarity
+[00:29:31] around what you're changing?
+[00:29:34] If there was a culture where people didn't feel that they
+[00:29:37] could speak up and you've now formalized some structures, can you
+[00:29:41] share what those formalized avenues are?
+[00:29:44] And if there's a system of fear, is there a way for people to provide
+[00:29:50] information anonymously?
+[00:29:52] Yeah. So let me do a few of these specifics.
+[00:29:55] So, yes, they can absolutely do it anonymously.
+[00:29:59] One of the key channels is this integrity line, speak up line, and you can do that
+[00:30:03] through a form anonymously. You can ring an external provider and
+[00:30:07] provide that anonymously as well.
+[00:30:10] So, yes, absolutely, you can do that.
+[00:30:14] As I said, the culture survey, I do think that's an important part of what we are
+[00:30:19] doing because that gives us the evidence base.
+[00:30:22] That goes down to a branch level, a team level, so you can actually see where you
+[00:30:26] might have localized issues that are able to then be considered
+[00:30:30] specifically.
+[00:30:31] We've also been getting our senior leadership team out into our
+[00:30:35] sites across the country. It's the first time we've done that together
+[00:30:39] as a leadership team since before COVID.
+[00:30:42] And that's to show that we are there to have those quiet
+[00:30:46] conversations over a cup of tea as well.
+[00:30:49] People have appreciated the fact that we have been getting out around the country,
+[00:30:53] and that also shows visibility and makes people more comfortable raising things.
+[00:30:57] A lot of these are ultimately about leadership
+[00:30:59] and culture, and how do we make people feel that they are able to raise
+[00:31:03] things.
+[00:31:04] Yes. So what of that is new?
+[00:31:09] Well,
+[00:31:10] making the integrity line more visible is new.
+[00:31:13] Putting specific questions into our culture survey this year around speaking
+[00:31:17] up is new. Getting around the country as a senior
+[00:31:21] leadership team, that's new since before COVID.
+[00:31:24] We've put an additional expectations on all people leaders
+[00:31:28] around creating a culture of integrity.
+[00:31:30] That's been new this year as well.
+[00:31:33] There are a number of things that we have been putting in place, and there'll be
+[00:31:35] more to come.
+[00:31:36] But part of it is the senior leadership team, though.
+[00:31:39] So have you had any changes there, or have you had any
+[00:31:42] complaints around the senior leadership team not listening to
+[00:31:47] people who raise complaints?
+[00:31:51] So the senior leadership team, first of all, is actually quite new.
+[00:31:54] I
+[00:31:55] think I've appointed five people to the senior leadership team
+[00:31:59] this year, so there's been quite a lot of change in the senior leadership team.
+[00:32:03] I do see that as an opportunity that the organization is seeing a
+[00:32:07] new team forming that allows us to reset some of the functions.
+[00:32:12] Obviously, immigration is a large part of the organization, and he's been spending
+[00:32:15] a lot of time
+[00:32:17] out with people and listening, and bringing
+[00:32:20] ideas back.
+[00:32:22] So I agree, it starts with the senior leadership team, and
+[00:32:25] we've got a particular focus on culture
+[00:32:28] because culture does start with us.
+[00:32:31] Okay, we have a supplementary from Carl Bates.
+[00:32:33] Thanks, Chair. In terms of MB's processes around
+[00:32:37] capitalizing projects, were your team
+[00:32:41] following those when BCU was capitalized?
+[00:32:44] And if they weren't, what have you changed in terms of what
+[00:32:48] Priyanka was asking to ensure that they do in the future?
+[00:32:52] Yeah, thank you. Sharon will give you the thoughts of this.
+[00:32:53] So as far as our capitalization policy goes,
+[00:32:58] and also the accounting standard relating to capitalization of
+[00:33:02] intangibles.
+[00:33:03] The process was followed. However, the standard allows
+[00:33:07] for judgment
+[00:33:09] as to when is the right time to capitalize.
+[00:33:12] And in the standard, it specifically calls out that there is
+[00:33:17] judgment that does need to be applied, that you would be expected to get
+[00:33:21] support from both internal sources and external sources to
+[00:33:25] corroborate that the piece of kit that you're building is ready
+[00:33:29] to go.
+[00:33:31] I think in this case, there was undue reliance placed
+[00:33:34] on internal sources of evidence and insufficient
+[00:33:39] external corroboration of, is the system ready to go?
+[00:33:44] So would that explain why Audit New Zealand is saying that it shouldn't have been
+[00:33:48] capitalized and asking for it to be reversed, regardless of the fact that the
+[00:33:51] project is-
+[00:33:52] Yep
+[00:33:52] ... no longer viable?
+[00:33:54] And it's my view as well. I think we were capitalizing it too early.
+[00:33:59] As Paul said, the system was not live, and so
+[00:34:02] you would typically expect a system to be live before you capitalized it.
+[00:34:07] And I should note, Sharon just started in January this
+[00:34:10] year. We do have quite a lot of work to do in our financial controls, and that is
+[00:34:14] Sharon's task to be bolstering that across a number of areas.
+[00:34:17] Which is a people issue, ultimately, right?
+[00:34:20] It's a people issue. It's a process issue.
+[00:34:23] It's a following and monitoring of controls issue.
+[00:34:26] It is a standards that are expected issue.
+[00:34:31] So all of those aspects are getting wound into a
+[00:34:34] financial capability uplift program that I'm leading across all
+[00:34:38] of MB to make sure that those standards, controls, and expectations
+[00:34:42] are clear and understood.
+[00:34:45] Grant, was that on the- This is on- Yeah ... this one. Yeah.
+[00:34:50] It's interesting.
+[00:34:51] Looking through the
+[00:34:53] timelines of the values
+[00:34:56] of the project as it
+[00:34:58] moved through, there's been various opportunities, various times where
+[00:35:01] they've gone to various ministers of the
+[00:35:05] day for their
+[00:35:09] continued support of the project, right?
+[00:35:11] To ratify, to allow, to
+[00:35:13] support the project.
+[00:35:15] So
+[00:35:17] one of those times, if I look back in November '21,
+[00:35:22] when you were looking to increase the scope of the project
+[00:35:26] at the time, and you had the immigration minister today, Kris
+[00:35:29] Faafoi, minister of finance,
+[00:35:32] Grant Robertson signed it off. And also the associate minister of the day, I think
+[00:35:36] Pike was included in the loop. Would
+[00:35:39] it be
+[00:35:41] reasonable to expect them to actually, at those points in time,
+[00:35:46] to
+[00:35:47] question you about
+[00:35:51] the project and where it was going?
+[00:35:54] I think there were
+[00:35:57] questions at different points in time.
+[00:35:59] And as the Greg James review found,
+[00:36:02] there were plenty of opportunities to stop this or do
+[00:36:06] things differently earlier, and they should've
+[00:36:09] been taken. There were a number of points, particularly in that 2023
+[00:36:13] period,
+[00:36:14] after it was paused.
+[00:36:16] So at what point did things finally come to a head?
+[00:36:19] Because obviously there's been opportunities in the past
+[00:36:23] at ministerial level. At what point do things finally come to a head where actually
+[00:36:27] the game's up and we've got to deliver on this?
+[00:36:31] We've got to fess up
+[00:36:33] So it was late 2025.
+[00:36:35] Yeah.
+[00:36:37] We had
+[00:36:39] an acting chief executive, Suzanne Stu, who came in with fresh
+[00:36:42] eyes,
+[00:36:44] and the overall judgment was this is not going to get there.
+[00:36:47] And that we need to-
+[00:36:52] And the current minister
+[00:36:55] give you that feedback as well, saying, "What's going on here?"
+[00:36:59] Absolutely. Yeah. The current minister was,
+[00:37:03] right from when we reported to her,
+[00:37:06] getting regular updates on this because she was concerned about it.
+[00:37:10] And so we advised those ministers, and then ownership minister
+[00:37:14] as well, in November, December of 2025, and they were
+[00:37:18] supportive of the plan to stop the project.
+[00:37:21] So you had a supplementary-
+[00:37:23] Yeah
+[00:37:23] ... then we need to move on.
+[00:37:24] Sorry, Chair. Just in terms of what you've just said about it being challenged and
+[00:37:28] questioned through the process. My understanding is it was
+[00:37:31] joint ministerial approved November '21, increased to
+[00:37:35] 30.4. September 2022, it went up to
+[00:37:38] 31.9 without ministerial approval.
+[00:37:41] July 2023, it went up to 35 million with
+[00:37:45] ministerial approval. And it wasn't until, you said, late 2025.
+[00:37:49] It wasn't until March 2024 under the current Minister of
+[00:37:52] Immigration, where, in your words, it says,
+[00:37:56] "Challenged advice provided on project
+[00:37:59] starts and rising costs." And so I'm just
+[00:38:03] not sure that characterization that had been challenged throughout.
+[00:38:06] No, I didn't say that.
+[00:38:07] Okay.
+[00:38:08] I didn't mean to say that.
+[00:38:10] I said there were lots of opportunities where the project could've been done
+[00:38:14] differently.
+[00:38:14] Okay.
+[00:38:15] That's what the Greg James review found.
+[00:38:17] I think what he also found is that not nearly enough went to
+[00:38:20] ministers during the project.
+[00:38:24] Okay, so we have a supplementary from
+[00:38:25] So to clarify that then, when you say that there were ample opportunities
+[00:38:30] for things to be different, was it the passage of time and the fact
+[00:38:33] that it was a new project in 2021, and as time passed
+[00:38:37] and costs ballooned, and advice was, what, then
+[00:38:41] provided at some point to ministers?
+[00:38:44] Would it be fair to say that it came to a head because of a combination of
+[00:38:48] that? I'm assuming
+[00:38:51] ministers wouldn't challenge a project at the start of it.
+[00:38:57] That's right. Although, as I just said,
+[00:39:00] the review found there weren't enough flags going to
+[00:39:03] ministers
+[00:39:05] during the project. There were challenges.
+[00:39:09] In 2023, the Minister of Immigration at the time
+[00:39:13] declined to increase the whole of life cost above 35
+[00:39:17] million, for example,
+[00:39:20] related to concerns about the project.
+[00:39:22] So yeah, there were concerns at that
+[00:39:25] time. But as I said, what Greg James's review found was
+[00:39:29] that actually the project should've been stopped much earlier.
+[00:39:33] We need to move on to our next primary question, which is Camilla Belich.
+[00:39:37] Thank you. I just want to look forward, so not necessarily
+[00:39:41] the subject matter that's been covered by different reviews.
+[00:39:44] In the response that
+[00:39:47] the ministry has given to our written question 94,
+[00:39:51] talked about the steps that will be taken moving forward in terms of
+[00:39:55] preparation for select committees.
+[00:39:57] Yes.
+[00:39:57] And one of the steps that is listed is
+[00:40:01] making sure that relevant ministers' officers are fully briefed in
+[00:40:05] advance and not surprised by any statements made in the select committee or
+[00:40:09] hearing. Do you think there's an inherent issue
+[00:40:12] with
+[00:40:16] putting yourselves as officials or similar people
+[00:40:20] in your place when you have that type of expectation?
+[00:40:23] So if you can't say anything that
+[00:40:28] won't surprise the minister, or if you have to, according to your guidance,
+[00:40:33] make sure that the minister is aware of everything that comes up, does that prevent
+[00:40:36] you from being free and frank when you come to select committees?
+[00:40:40] And looking forward,
+[00:40:42] as this is something that you've said will be the process in the future.
+[00:40:46] That is part of how
+[00:40:48] the authority of officials to appear before select committee comes through the
+[00:40:52] minister, so that is
+[00:40:54] just
+[00:40:55] standard constitutional process.
+[00:40:58] But it doesn't prevent us from being clear and
+[00:41:02] candid with you.
+[00:41:06] The training that we are now
+[00:41:08] putting in place, all of the people
+[00:41:10] here have been through new training that we've put in place.
+[00:41:13] We've been developing new policy in line with the Public Service Commission's
+[00:41:16] updated guidance. So we're putting all of that in place.
+[00:41:19] That doesn't stop us at all. We have learnt our lessons, and we're changing our
+[00:41:23] approach to make sure that you're getting the full information.
+[00:41:26] Just
+[00:41:27] one supplement. So I suppose that, yeah, I understand that you-
+[00:41:31] One at a time
+[00:41:32] ... so there's an inherent conflict, I suppose, in the sense that you work to the
+[00:41:35] government of the day, the minister of the day.
+[00:41:37] You've also got a no surprises policy, but you also need to be accountable
+[00:41:41] and fulsome and truthful to this committee.
+[00:41:43] So in a situation in the future where,
+[00:41:46] for whatever reason,
+[00:41:49] you're not able to be as fulsome-
+[00:41:51] Yes
+[00:41:52] ... as the committee would expect, how are you going to approach that?
+[00:41:55] Are you going to flag to the committee that
+[00:41:59] that's something that you can't discuss because of
+[00:42:03] some reason? I think there's an inherent conflict there, and I think that
+[00:42:07] probably does result in, not just in this example, but in
+[00:42:11] other officials and other select committees
+[00:42:14] not providing us with the information we need to properly scrutinize what's
+[00:42:18] happening in government.
+[00:42:19] Yeah. As you say, the correct thing to do is to say, well, this
+[00:42:23] information is currently, whether it's budget sensitive or
+[00:42:27] with ministers for decisions, and that's why we can't provide that
+[00:42:31] at this time. And then, depending on what it is, is that something
+[00:42:35] that we would need specific clearance from the minister to be able to provide or to
+[00:42:39] go into a secret session? That was part of the privileges committee
+[00:42:43] conversation, that
+[00:42:45] if we're not able to share something We need to say that we're not able to share
+[00:42:48] that
+[00:42:49] And that's your expectation moving forward for-
+[00:42:51] Absolutely
+[00:42:52] ... for everyone at MB.
+[00:42:52] Absolutely.
+[00:42:54] I just wanted to ask around the white label
+[00:42:57] option and the decision to customize.
+[00:43:00] At what point in the project did you decide to
+[00:43:03] customize the potentially white label solution?
+[00:43:07] This is for BCU.
+[00:43:08] For BCU, yeah.
+[00:43:10] Do you know,
+[00:43:12] Andy?
+[00:43:15] I don't know the specific date. I think one of the challenges-
+[00:43:17] How many years or months into, roughly?
+[00:43:20] I think it was, in just
+[00:43:24] my
+[00:43:25] understanding of it, in the order of 2020.
+[00:43:28] And I think the issue was not just the customization, although that's always a
+[00:43:31] problem when we don't take off-the-shelf things.
+[00:43:34] But the project moved from what was an upgrade of existing
+[00:43:39] software to replacement. And at that point, it's a fundamentally
+[00:43:42] different proposition. And I think it wasn't just the customization.
+[00:43:46] You can customize an upgrade. It was moving from upgrading and
+[00:43:51] making sure your system was up to date, to building a new
+[00:43:55] system. And in my view, that was one of the problems.
+[00:43:57] And was that necessary?
+[00:44:00] I'm not in a position to make that judgment,
+[00:44:03] because I wasn't involved in it. I think it was that, though, that changed the
+[00:44:07] nature of the product.
+[00:44:08] But what I'll also say is, when we think about what we're doing going forward and
+[00:44:11] looking at options, because we still need to find a replacement for these systems,
+[00:44:15] we're looking very hard at the all of government option, which is
+[00:44:19] Facial Recognition as a Service. So, we are very mindful
+[00:44:23] that as soon as you go down customization, different routes, you add in complexity
+[00:44:27] and risk. So we're looking hard at those other options.
+[00:44:31] Yeah. To my point was going to be that my limited experience with technology
+[00:44:35] projects, every time you try to customize, the cost will blow out.
+[00:44:39] Can I ask then, what would it cost if you went for a white
+[00:44:43] label project now?
+[00:44:46] Sorry. Andy?
+[00:44:51] We're anticipating that to replace the core that
+[00:44:56] I mentioned before will be
+[00:44:58] in the region of
+[00:45:01] the Cabinet threshold for approval.
+[00:45:04] So we've got ongoing costs associated with running our existing system,
+[00:45:08] approximately $7 million a year.
+[00:45:12] We will factor ongoing costs into that.
+[00:45:15] So to Sharon's point around how we calculate whole of life cost, but if you
+[00:45:18] calculate the whole of life cost to replace the core of the biometric system
+[00:45:22] with the new core, plus the work to do that, plus the ongoing life costs, it's my
+[00:45:25] expectation that that will reach the threshold.
+[00:45:28] And it's certainly something we would take for Cabinet approval.
+[00:45:30] And can you please confirm for those listening what the threshold is?
+[00:45:33] Thirty-five.
+[00:45:34] Right. And it would be under that?
+[00:45:36] No, I would imagine it will be in the... The team are working through exactly...
+[00:45:39] So we've reset the project.
+[00:45:42] At the moment, we're working to establish a new business case for investment.
+[00:45:46] But my anticipation, we've submitted a risk profile assessment to Treasury, which
+[00:45:50] is part of that process, and that suggests the cost would be in the region of that
+[00:45:53] Cabinet threshold-
+[00:45:55] Okay
+[00:45:56] ... for investment.
+[00:45:57] That is when you take into account the whole life of the-
+[00:45:59] Yes
+[00:45:59] ... including the annual running costs.
+[00:46:01] Yes. And I think we've got a bit of discrepancy around what is the
+[00:46:06] sort of cost in the whole of life.
+[00:46:11] Or the spend, sorry, and the whole of life cost.
+[00:46:14] Can I then ask, just in terms of the decisions around going from a white label
+[00:46:18] to a sort of boutique or customized solution,
+[00:46:21] you said that you have now a risk register.
+[00:46:25] Do you have an
+[00:46:27] element of your risk register that isn't just, it is over this amount
+[00:46:31] of money, but a relative proportion that now
+[00:46:35] goes beyond the original allocation?
+[00:46:39] So we've completely retooled the way in which we do our investment
+[00:46:43] decisions. And the first stage is what we call an investment light
+[00:46:47] map, which basically says, what is the problem you're trying to fix, what is the
+[00:46:50] solution, what do you think the cost is going to be, before you can even go to
+[00:46:53] develop a business case. And then after that, we're putting in place thresholds
+[00:46:57] that says it's not just the fiscal costs, it's the level of complexity
+[00:47:01] of the project, it's how many interactions it has with the rest of the ministry
+[00:47:04] systems. And certainly one of the things that would raise a risk flag is,
+[00:47:08] are you doing something unique, novel, different?
+[00:47:11] What makes this different from every other user that has similar systems?
+[00:47:14] And has anyone asked you that question along the process
+[00:47:18] in terms of auditing or ministerial intervention?
+[00:47:22] This is the question that our own governance boards ask whenever we're presented
+[00:47:25] now with new investment opportunities.
+[00:47:27] Why would you do something different from everyone else?
+[00:47:30] And we do still have the legacy of the past.
+[00:47:32] So if we think about future services, which is moving to our
+[00:47:36] new modern platform. But that new platform does have a lot
+[00:47:39] of what's called technical debt, which is where when that
+[00:47:43] was put in place in 2022,
+[00:47:47] it was done quite quickly, and that did cut some corners using
+[00:47:51] customizations. That's been one of the reasons that it's been
+[00:47:55] harder to put new things onto the platform now.
+[00:47:57] And so that's part of the logic for pausing migrations of new products,
+[00:48:02] and doing optimization on the platform itself to try and make that a more
+[00:48:06] usable and efficient platform.
+[00:48:08] We have a question from Ricardo.
+[00:48:10] How robust are your procurement processes when any C
+[00:48:13] corporation has had a history of procurement overcharging,
+[00:48:17] accounting irregularities, and IT security vulnerabilities that
+[00:48:21] span over several decades? All which I think are
+[00:48:25] related to, A, the cost of this project, security
+[00:48:29] issues that you've outlined, and from what documents we've seen,
+[00:48:34] issues that were not just within MB, but within the relationship
+[00:48:38] with NEC as well. Are you confident that the processes that you're using
+[00:48:42] on projects so sensitive that relate to people's biometric
+[00:48:46] information are robust enough when this company that you basically
+[00:48:50] engage with
+[00:48:51] had actually a history of overcharging and accounting issues?
+[00:48:54] So
+[00:48:56] what happened in this project back in 2020, and I'm not going to
+[00:49:00] defend the specific
+[00:49:02] procurement process then, but in terms of going forward, we follow the
+[00:49:06] government procurement rules, which another part of MBIE works on.
+[00:49:10] Paul, you might want to comment on how we're looking at our IT procurement.
+[00:49:13] But just-- Sorry, because you told me earlier that you were not aware of any sort
+[00:49:16] of issues that the company had faced on security, et cetera.
+[00:49:20] Even a cursory Google glance
+[00:49:22] shows a range of issues spanning a few decades.
+[00:49:25] Were you aware of those issues when you were embarking on the project or when, for
+[00:49:28] example, you were talking to the minister about what had occurred?
+[00:49:32] The original procurement was done back in 2020, and so none of us--
+[00:49:37] I'm not aware of what the conversations were at that time.
+[00:49:40] But go back to NEC's core matching technology, is
+[00:49:43] considered one of the world leaders, and it's at the heart of-
+[00:49:47] World biggest.
+[00:49:49] Yeah.
+[00:49:51] It's still used today in our system.
+[00:49:53] It's still used in DIA as well. The issue with the VCU
+[00:49:56] project was the workflow that went around the core matching
+[00:50:00] technology.
+[00:50:01] Thank you. A final question from Vanessa Wang.
+[00:50:03] So,
+[00:50:05] the average person over their entire working life in New
+[00:50:09] Zealand will pay roughly a million dollars, just under a
+[00:50:13] million dollars, that's one estimate, in tax.
+[00:50:15] So this project has spent the entire working
+[00:50:19] contribution of 50 people's
+[00:50:22] tax, and we have nothing to show for it.
+[00:50:27] How would you feel being in a room full of people
+[00:50:30] whose entire tax contribution had been essentially
+[00:50:34] wasted?
+[00:50:36] Well, it's unacceptable that-
+[00:50:37] Because you are in a room full of people who represent
+[00:50:41] those people, and I,
+[00:50:44] through all of this, have had the impression that
+[00:50:48] actually, the respect that's been given to the people of New
+[00:50:51] Zealand,
+[00:50:53] represented by us, has
+[00:50:56] been trodden all over. And MB has had a
+[00:51:01] culture of managing how ministers, in
+[00:51:05] particular, respond,
+[00:51:07] how you interact with this committee.
+[00:51:11] What's going to change in the future about the culture in MB and
+[00:51:15] possibly other public services about the people of New Zealand
+[00:51:19] and their representatives?
+[00:51:21] It's unacceptable
+[00:51:23] that these two projects have spent so much and have not delivered.
+[00:51:26] I absolutely agree with that. We take that really seriously.
+[00:51:29] That is why we're putting in place all these changes around how we govern,
+[00:51:33] how we manage large projects, how we make that information publicly available.
+[00:51:37] Sunlight is the best disinfectant. We haven't been transparent enough.
+[00:51:40] We're going to be more transparent.
+[00:51:43] We are also looking at those culture that if there are people that have
+[00:51:47] concerns, I want to make sure that they feel able to speak up, and that's why the
+[00:51:50] culture is just as important as the process changes.
+[00:51:54] We take these really seriously, but I hope you can see from today that
+[00:51:58] we are making changes. We are being more transparent.
+[00:52:02] We are making changes to our process to make sure that we are a much stronger
+[00:52:05] organization in future.
+[00:52:07] Right. Thank you. That's the end of our time.
+[00:52:11] We appreciate you making yourselves available.
+[00:52:15] We'll move into private session.
+[00:52:17] Thank you.
+[00:52:18] Just for a minute, team.
